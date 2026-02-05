@@ -1,0 +1,89 @@
+---
+session: fitness-ebook-extraction
+date: 2026-02-03
+status: complete
+outcome: SUCCEEDED
+---
+
+goal: Cross-referenced Body Recomposition with existing knowledge base
+now: 5 books cross-referenced with insights document created
+
+test: grep -r "Cross-References" /home/vuk/fitness-books/knowledge --include="*.md" | wc -l
+
+done_this_session:
+  - task: Added cross-references to Body Recomposition entities
+    files:
+      - concepts/energy-balance.md (linked to Helms)
+      - concepts/progressive-overload.md (linked to Helms, Muscle Ladder, Israetel)
+      - concepts/training-age.md (linked to Helms)
+      - tactics/logical-carb-cycling.md (linked to Helms diet breaks)
+      - frameworks/supplement-tier-system.md (linked to Helms supplements)
+  - task: Added cross-references to Helms entities
+    files:
+      - helms/muscle-strength-pyramid-nutrition/concepts/energy-balance.md
+      - helms/muscle-strength-pyramid-nutrition/concepts/diet-breaks-refeeds.md
+      - helms/muscle-strength-pyramid-nutrition/tactics/supplement-evaluation.md
+      - helms/muscle-strength-pyramid-training/concepts/progressive-overload.md
+      - helms/muscle-strength-pyramid-training/concepts/training-age.md
+  - task: Added cross-references to Muscle Ladder
+    files:
+      - jeff-nippard/the-muscle-ladder/concepts/progressive-overload.md
+  - task: Created cross-book insights document
+    files:
+      - insights/cross-book-training-nutrition.md
+
+blockers: []
+
+questions: []
+
+decisions:
+  - synthesis_sections: Added "Cross-Book Synthesis" sections with comparison tables
+  - insights_doc: Created dedicated insights document for major themes
+  - relative_paths: Used relative paths for cross-references (../../../)
+
+findings:
+  - progressive_overload: 4 books cover this - strong consensus with unique insights per author
+  - energy_balance: 2 books cover this - different formulas, same principles
+  - training_age: Nippard uses for calories, Helms uses for programming complexity
+  - supplements: Nippard adds Tier 3-4 (ashwagandha, yohimbine) beyond Helms' coverage
+  - carb_cycling: Nippard debunks myth-based approaches, advocates "logical" cycling
+
+worked:
+  - Adding "Cross-Book Synthesis" sections with tables
+  - Creating comparison tables for side-by-side analysis
+  - Relative path cross-references between books
+  - Dedicated insights document for multi-book themes
+
+failed: []
+
+next:
+  - Generate _entities.json index for knowledge base
+  - Extract additional books (if available)
+  - Consider creating shared researcher profiles (Eric Helms appears in 4 books)
+  - Volume landmarks comparison (Israetel vs Helms vs Nippard)
+
+files:
+  created:
+    - /home/vuk/fitness-books/knowledge/insights/cross-book-training-nutrition.md
+  modified:
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/concepts/energy-balance.md
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/concepts/progressive-overload.md
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/concepts/training-age.md
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/tactics/logical-carb-cycling.md
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/frameworks/supplement-tier-system.md
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/the-muscle-ladder/concepts/progressive-overload.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/concepts/energy-balance.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/concepts/diet-breaks-refeeds.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/tactics/supplement-evaluation.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/concepts/progressive-overload.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/concepts/training-age.md
+
+context:
+  cross_referenced_concepts:
+    - Progressive Overload (4 books)
+    - Energy Balance (2 books)
+    - Training Age (2 books)
+    - Supplements (2 books)
+    - Diet Timing/Refeeds (2 books)
+  total_entity_files: 94
+  insights_docs: 1

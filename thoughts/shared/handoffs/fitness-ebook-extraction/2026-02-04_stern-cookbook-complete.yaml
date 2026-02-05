@@ -1,0 +1,101 @@
+---
+session: fitness-ebook-extraction
+date: 2026-02-04
+status: complete
+outcome: SUCCEEDED
+---
+
+goal: Extract entities from Erin Stern's Bodybuilder's Meal Prep Cookbook
+now: 14 entity files created covering nutrition concepts, frameworks, tactics, and researcher
+
+test: find /home/vuk/fitness-books/knowledge/erin-stern -name "*.md" | wc -l
+
+done_this_session:
+  - task: Extracted EPUB to scratchpad and analyzed content
+    files:
+      - Introduction, About Author, Ch.1 (Meal Prep Essentials)
+      - Ch.2 (Bulk plan with recipes)
+      - Ch.9 (Carb Cycling plan with recipes)
+  - task: Created knowledge base structure
+    files:
+      - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/
+  - task: Created 14 entity files
+    files:
+      - _index.md (book overview with entity index)
+      - _cookbook-quotes.md (16 memorable quotes)
+      - frameworks/goal-based-meal-planning.md
+      - frameworks/carb-cycling.md
+      - concepts/90-10-rule.md
+      - concepts/10-percent-adjustment-rule.md
+      - concepts/smart-goals.md
+      - concepts/macronutrient-balance.md
+      - concepts/maintenance-calories.md
+      - concepts/meal-timing.md
+      - tactics/batch-cooking.md
+      - tactics/food-storage.md
+      - tactics/progress-tracking.md
+      - researchers/erin-stern.md
+
+blockers: []
+
+questions: []
+
+decisions:
+  - cookbook_focus: Extracted practical concepts rather than recipes (recipes are reference material, not transferable knowledge)
+  - cross_references: Added links to existing Helms and Nippard entities where concepts overlap
+  - quote_extraction: Captured 16 memorable quotes organized by theme
+  - author_entity: Created researcher profile for Erin Stern as significant author
+
+findings:
+  - practical_focus: Book is highly practical - 8 complete meal plans with shopping lists, prep steps, and recipes
+  - calorie_baseline: Default recipes designed for 150 lb moderately active person
+  - 90_10_rule: Novel sustainability concept not found in other books
+  - 10_percent_rule: Practical adjustment rule that aligns with Helms/Nippard conservative deficit approach
+  - acknowledged_researchers: Stern acknowledges Schoenfeld, Israetel, Huberman, Tumminello, Patrick, Lyon
+  - carb_cycling: Simpler implementation than Nippard's - day-based rather than meal-based
+  - macro_insight: "Protein as fixed macro, carbs/fats inverse" is a practical simplification
+
+worked:
+  - Parallel reading of multiple EPUB chapters
+  - Cross-referencing concepts to existing knowledge base
+  - Extracting actionable quotes vs filler
+  - Creating comprehensive _index.md as navigation hub
+
+failed: []
+
+next:
+  - Cross-reference new Stern entities with existing books (Helms, Nippard, Meadows, Israetel)
+  - Update insights/cross-book-training-nutrition.md with Stern's contributions
+  - Consider extracting the 8 meal plans as separate structured data
+  - Generate _entities.json index for full knowledge base
+
+files:
+  created:
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/_index.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/_cookbook-quotes.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/frameworks/goal-based-meal-planning.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/frameworks/carb-cycling.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/concepts/90-10-rule.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/concepts/10-percent-adjustment-rule.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/concepts/smart-goals.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/concepts/macronutrient-balance.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/concepts/maintenance-calories.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/concepts/meal-timing.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/tactics/batch-cooking.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/tactics/food-storage.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/tactics/progress-tracking.md
+    - /home/vuk/fitness-books/knowledge/erin-stern/bodybuilders-meal-prep-cookbook/researchers/erin-stern.md
+    - /home/vuk/fitness-books/thoughts/shared/handoffs/fitness-ebook-extraction/2026-02-04_stern-cookbook-complete.yaml
+
+context:
+  book_type: Cookbook + Nutrition Guide
+  entity_count: 14
+  entity_breakdown:
+    frameworks: 2
+    concepts: 6
+    tactics: 3
+    researchers: 1
+    index_and_quotes: 2
+  prep_plans_covered: 8 (Bulk, Lean Bulk, 4 Maintenance variants, 2 Leaning Down variants)
+  recipes_in_book: 64
+  total_knowledge_base_files: 108+ (previous 94 + 14 new)

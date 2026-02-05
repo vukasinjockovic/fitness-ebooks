@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "epub": "^1.3.0"
+  },
+  "scripts": {
+    "extract": "node scripts/extract-epub.js"
+  }
+}

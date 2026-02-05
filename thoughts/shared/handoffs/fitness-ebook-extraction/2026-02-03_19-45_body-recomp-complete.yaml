@@ -1,0 +1,90 @@
+---
+session: fitness-ebook-extraction
+date: 2026-02-03
+status: complete
+outcome: SUCCEEDED
+---
+
+goal: Extracted Jeff Nippard Body Recomposition - 19 entity files
+now: Book complete - can proceed to next book or cross-reference with existing entities
+
+test: ls /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/**/*.md | wc -l
+
+done_this_session:
+  - task: Created knowledge base structure for Body Recomposition book
+    files: [_index.md, _body-recomposition-quotes.md]
+  - task: Extracted all 4 frameworks
+    files:
+      - frameworks/body-recomposition-framework.md
+      - frameworks/tdee-framework.md
+      - frameworks/calorie-setting-framework.md
+      - frameworks/supplement-tier-system.md
+  - task: Extracted all 7 concepts
+    files:
+      - concepts/energy-balance.md
+      - concepts/neat.md
+      - concepts/thermic-effect-of-food.md
+      - concepts/progressive-overload.md
+      - concepts/muscle-memory.md
+      - concepts/training-age.md
+      - concepts/muscle-protein-synthesis.md
+  - task: Extracted all 4 tactics
+    files:
+      - tactics/mifflin-st-jeor.md
+      - tactics/activity-multipliers.md
+      - tactics/logical-carb-cycling.md
+      - tactics/sleep-optimization.md
+  - task: Created researcher profiles
+    files:
+      - researchers/jeff-nippard.md
+      - researchers/chris-barakat.md
+
+blockers: []
+
+questions: []
+
+decisions:
+  - tdee_framework: Created dedicated TDEE framework combining BMR, Activity, TEF
+  - sleep_as_tactic: Sleep optimization categorized as tactic (actionable) not concept
+  - carb_cycling: Called "logical carb cycling" to distinguish from myth-based approaches
+  - supplement_tiers: Preserved 4-tier system as framework (evidence hierarchy)
+
+findings:
+  - book_structure: 15 chapters covering nutrition, training, sleep, supplements
+  - co_author: Chris Barakat (MS, ATC, CISSN) brings clinical perspective
+  - key_insight: Sleep can shift weight loss from 83% fat to 80% lean mass
+  - optimization_focus: Book emphasizes optimization over simplicity
+
+worked:
+  - Reading epub via temp extraction to HTML files
+  - sed to strip HTML tags for text extraction
+  - Comprehensive entity file structure with cross-references
+  - Following established knowledge base pattern
+
+failed: []
+
+next:
+  - Cross-reference Body Recomp entities with other books (Helms, Israetel)
+  - Update shared Jeff Nippard profile across both books
+  - Consider extracting from other books in collection
+  - Generate knowledge base index (_entities.json)
+
+files:
+  created:
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/_index.md
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/_body-recomposition-quotes.md
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/frameworks/*.md (4 files)
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/concepts/*.md (7 files)
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/tactics/*.md (4 files)
+    - /home/vuk/fitness-books/knowledge/jeff-nippard/body-recomposition/researchers/*.md (2 files)
+  modified: []
+
+context:
+  recomp_epub: /home/vuk/fitness-books/books/Jeff Nippard/The Ultimate Guide To Body Recomposition_ How to Build -- Jeff Nippard, Chris Barakat.EPUB
+  extracted_books:
+    - The Muscle Ladder (Nippard) - 19 files in /knowledge/jeff-nippard/the-muscle-ladder/
+    - Scientific Principles of Hypertrophy Training (Israetel) - 22 files in /knowledge/israetel/
+    - Muscle and Strength Pyramid Nutrition (Helms) - 17 files in /knowledge/helms/muscle-strength-pyramid-nutrition/
+    - Muscle and Strength Pyramid Training (Helms) - 17 files in /knowledge/helms/muscle-strength-pyramid-training/
+    - Body Recomposition (Nippard & Barakat) - 19 files in /knowledge/jeff-nippard/body-recomposition/
+  total_entity_files: 94

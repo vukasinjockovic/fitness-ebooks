@@ -1,0 +1,85 @@
+---
+session: fitness-ebook-extraction
+date: 2026-02-03
+status: complete
+outcome: SUCCEEDED
+---
+
+goal: Extracted Helms Muscle & Strength Pyramid Training - 17 entity files
+now: Both Helms books complete - can proceed to next book or cross-reference
+
+test: ls /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/**/*.md | wc -l
+
+done_this_session:
+  - task: Created knowledge base structure for Helms Training book
+    files: [_index.md, _muscle-strength-pyramid-training-quotes.md]
+  - task: Extracted all 4 frameworks
+    files:
+      - frameworks/training-pyramid.md
+      - frameworks/fitness-fatigue-model.md
+      - frameworks/block-periodization.md
+      - frameworks/daily-undulating-periodization.md
+  - task: Extracted all 6 concepts
+    files:
+      - concepts/volume-intensity-frequency.md
+      - concepts/progressive-overload.md
+      - concepts/rpe-rir.md
+      - concepts/training-age.md
+      - concepts/autoregulation.md
+      - concepts/specificity.md
+  - task: Extracted all 4 tactics
+    files:
+      - tactics/deload-implementation.md
+      - tactics/tapering-competition.md
+      - tactics/bfr-training.md
+      - tactics/amrap-testing.md
+  - task: Created Eric Helms researcher profile (Training version)
+    files: [researchers/eric-helms.md]
+
+blockers: []
+
+questions: []
+
+decisions:
+  - training_pyramid_6_levels: Training pyramid has 6 levels (not 5 like nutrition)
+  - dup_modified: Emphasized modified DUP (HPS) over traditional (HSP)
+  - vif_combined: Volume/Intensity/Frequency kept as single concept due to interdependence
+
+findings:
+  - pyramid_levels: 6 levels in Training (Adherence > VIF > Progression > Exercise Selection > Rest > Tempo)
+  - zourdos_collaboration: Michael Zourdos did foreword and collaborated on RPE/DUP research
+  - key_frameworks: Fitness-Fatigue Model, Block Periodization, DUP (HPS variant)
+  - key_concepts: VIF, Progressive Overload, RPE/RIR, Training Age, Autoregulation, Specificity
+
+worked:
+  - Reading epub via temp extraction to HTML files
+  - sed to strip HTML tags for text extraction
+  - Comprehensive entity file structure with cross-references
+  - Following Nutrition book pattern for consistency
+
+failed: []
+
+next:
+  - Cross-reference Training entities with Nutrition entities
+  - Update shared Eric Helms profile with both books
+  - Consider extracting from other books in collection
+  - Generate knowledge base index (_entities.json)
+
+files:
+  created:
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/_index.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/_muscle-strength-pyramid-training-quotes.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/frameworks/*.md (4 files)
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/concepts/*.md (6 files)
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/tactics/*.md (4 files)
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-training/researchers/eric-helms.md
+  modified: []
+
+context:
+  training_epub: /home/vuk/fitness-books/books/The Muscle and Strength/The Muscle and Strength Training Pyramid v2_0 Training.EPUB
+  extracted_books:
+    - The Muscle Ladder (Nippard) - 17 files in /knowledge/jeff-nippard/
+    - Scientific Principles of Hypertrophy Training (Israetel) - 22 files in /knowledge/israetel/
+    - Muscle and Strength Pyramid Nutrition (Helms) - 17 files in /knowledge/helms/muscle-strength-pyramid-nutrition/
+    - Muscle and Strength Pyramid Training (Helms) - 17 files in /knowledge/helms/muscle-strength-pyramid-training/
+  total_entity_files: 73

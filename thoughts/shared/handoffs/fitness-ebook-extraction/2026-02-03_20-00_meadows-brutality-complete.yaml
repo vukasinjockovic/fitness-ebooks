@@ -1,0 +1,93 @@
+---
+session: fitness-ebook-extraction
+date: 2026-02-03
+status: complete
+outcome: SUCCEEDED
+---
+
+goal: Extracted John Meadows "The Brutality of Mountain Dog Training" - 20 entity files
+now: Meadows book complete - knowledge base now has 93 total entity files across 5 books
+
+test: ls /home/vuk/fitness-books/knowledge/john-meadows/brutality-of-mountain-dog-training/**/*.md | wc -l
+
+done_this_session:
+  - task: Created knowledge base structure for Meadows Brutality book
+    files: [_index.md, _brutality-quotes.md]
+  - task: Extracted 2 frameworks
+    files:
+      - frameworks/mountain-dog-4-phase-structure.md
+      - frameworks/mountain-dog-periodization.md
+  - task: Extracted 6 concepts
+    files:
+      - concepts/mechanical-tension.md
+      - concepts/metabolic-stress.md
+      - concepts/muscle-damage.md
+      - concepts/peri-workout-nutrition.md
+      - concepts/pump-workouts.md
+      - concepts/activation-pattern.md
+  - task: Extracted 8 tactics
+    files:
+      - tactics/drop-sets.md
+      - tactics/iso-holds.md
+      - tactics/partials.md
+      - tactics/forced-reps.md
+      - tactics/supersets.md
+      - tactics/occlusion-training.md
+      - tactics/bands-and-chains.md
+      - tactics/loaded-stretching.md
+  - task: Created 2 researcher profiles
+    files:
+      - researchers/john-meadows.md
+      - researchers/scott-stevenson.md
+
+blockers: []
+
+questions: []
+
+decisions:
+  - four_phase_structure: Central framework - Pre-Pump, Explosive, Supra-Maximal Pump, Loaded Stretching
+  - three_hypertrophy_drivers: Mechanical Tension, Metabolic Stress, Muscle Damage (plus Activation Pattern)
+  - intensification_as_tactics: Drop sets, iso-holds, partials, etc. classified as tactics
+  - periodization_separate: 3-phase macrocycle (Preparation, Destroyer, Taper) as separate framework
+
+findings:
+  - book_structure: 3 chapters - Workout Structure, Intensification Techniques, Periodization
+  - scientific_collaboration: Scott Stevenson PhD provides 200+ research citations
+  - joe_weider_origin: Intensification techniques traced to Weider principles
+  - tom_platz_technique: Iso-Holds learned from Tom Platz
+  - jeremy_loenneke_reference: Recommended for occlusion training research
+  - ifbb_testimonials: Mark Dugdale, Ken Jackson, Fouad Abiad, Antoine Valliant
+
+worked:
+  - Reading epub via temp extraction to HTML files
+  - HTML files with embedded text extraction
+  - Following established entity file structure with cross-references
+  - Quotes file captures Meadows' distinctive voice
+
+failed: []
+
+next:
+  - Cross-reference Meadows concepts with Israetel (hypertrophy mechanisms)
+  - Cross-reference with Helms (periodization, autoregulation)
+  - Consider extracting other Meadows programs/books if available
+  - Generate knowledge base index (_entities.json)
+
+files:
+  created:
+    - /home/vuk/fitness-books/knowledge/john-meadows/brutality-of-mountain-dog-training/_index.md
+    - /home/vuk/fitness-books/knowledge/john-meadows/brutality-of-mountain-dog-training/_brutality-quotes.md
+    - /home/vuk/fitness-books/knowledge/john-meadows/brutality-of-mountain-dog-training/frameworks/*.md (2 files)
+    - /home/vuk/fitness-books/knowledge/john-meadows/brutality-of-mountain-dog-training/concepts/*.md (6 files)
+    - /home/vuk/fitness-books/knowledge/john-meadows/brutality-of-mountain-dog-training/tactics/*.md (8 files)
+    - /home/vuk/fitness-books/knowledge/john-meadows/brutality-of-mountain-dog-training/researchers/*.md (2 files)
+  modified: []
+
+context:
+  source_epub: /home/vuk/fitness-books/books/John Meadows/The Brutality Of Mountain Dog Training -- John Meadows.EPUB
+  extracted_books:
+    - The Muscle Ladder (Nippard) - 17 files in /knowledge/jeff-nippard/
+    - Scientific Principles of Hypertrophy Training (Israetel) - 22 files in /knowledge/israetel/
+    - Muscle and Strength Pyramid Nutrition (Helms) - 17 files in /knowledge/helms/muscle-strength-pyramid-nutrition/
+    - Muscle and Strength Pyramid Training (Helms) - 17 files in /knowledge/helms/muscle-strength-pyramid-training/
+    - The Brutality of Mountain Dog Training (Meadows) - 20 files in /knowledge/john-meadows/brutality-of-mountain-dog-training/
+  total_entity_files: 93

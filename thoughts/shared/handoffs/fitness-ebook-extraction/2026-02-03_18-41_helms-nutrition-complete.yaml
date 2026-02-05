@@ -1,0 +1,73 @@
+---
+session: fitness-ebook-extraction
+date: 2026-02-03
+status: complete
+outcome: SUCCEEDED
+---
+
+goal: Extracted Helms Muscle & Strength Pyramid Nutrition - 17 entity files
+now: Source correct Training epub (current file corrupted) then extract
+
+test: ls /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/**/*.md | wc -l
+
+done_this_session:
+  - task: Created knowledge base structure for Helms Nutrition book
+    files: [_index.md, _muscle-strength-pyramid-nutrition-quotes.md]
+  - task: Extracted all 3 frameworks
+    files: [frameworks/nutrition-pyramid.md, frameworks/three-tiered-tracking.md, frameworks/recovery-diet.md]
+  - task: Extracted all 7 concepts
+    files: [concepts/energy-balance.md, concepts/macronutrients.md, concepts/micronutrients.md, concepts/nutrient-timing.md, concepts/diet-breaks-refeeds.md, concepts/flexible-dieting.md, concepts/metabolic-adaptation.md]
+  - task: Extracted all 4 tactics
+    files: [tactics/supplement-evaluation.md, tactics/making-adjustments.md, tactics/eating-out-alcohol.md, tactics/carb-loading.md]
+  - task: Created detailed Eric Helms researcher profile
+    files: [researchers/eric-helms.md]
+
+blockers:
+  - Training epub corrupted - contains wrong book (Pyramids by Uvarov about Egyptian pyramids, NOT Helms training book)
+
+questions:
+  - Where to source correct Muscle & Strength Pyramid Training epub?
+
+decisions:
+  - placed_under_helms: Created ./knowledge/helms/{book-name} structure matching Israetel pattern
+  - nutrition_first: Proceeded with valid Nutrition epub when Training was corrupted
+  - comprehensive_quotes: Created dedicated quotes file with ~40 key quotes organized by topic
+
+findings:
+  - training_epub_corrupted: File "The Muscle and Strength Pyramid_ Training -- Andy Morgan, Eric Helms, Andrea Valdez.epub" contains completely different book
+  - nutrition_epub_valid: Nutrition epub extracted successfully with full content
+  - pyramid_structure: 5 levels - Energy Balance > Macros > Micros > Timing > Supplements
+  - key_frameworks: Three-tiered tracking (Good/Better/Best), Recovery Diet (vs reverse diet)
+
+worked:
+  - Reading epub via temp extraction to HTML files
+  - sed to strip HTML tags for text extraction
+  - Comprehensive entity file structure with cross-references
+
+failed:
+  - Direct epub read (file too large at 31.7MB)
+
+next:
+  - Source correct The Muscle and Strength Pyramid Training epub
+  - Place in ./knowledge/helms/muscle-strength-pyramid-training/
+  - Extract Training book frameworks, concepts, tactics
+  - Cross-reference with existing Nutrition entities
+  - Update Eric Helms file with Training book as additional source
+
+files:
+  created:
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/_index.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/_muscle-strength-pyramid-nutrition-quotes.md
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/frameworks/*.md (3 files)
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/concepts/*.md (7 files)
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/tactics/*.md (4 files)
+    - /home/vuk/fitness-books/knowledge/helms/muscle-strength-pyramid-nutrition/researchers/eric-helms.md
+  modified: []
+
+context:
+  nutrition_epub: /home/vuk/fitness-books/books/The Muscle and Strength/The Muscle and Strength Training Pyramid v2_0 Nutrition - Eric Helms.epub
+  corrupted_training_epub: /home/vuk/fitness-books/books/The Muscle and Strength/The Muscle and Strength Pyramid_ Training -- Andy Morgan, Eric Helms, Andrea Valdez.epub
+  extracted_books:
+    - The Muscle Ladder (Nippard) - 17 files in /knowledge/jeff-nippard/
+    - Scientific Principles of Hypertrophy Training (Israetel) - 22 files in /knowledge/israetel/
+    - Muscle and Strength Pyramid Nutrition (Helms) - 17 files in /knowledge/helms/

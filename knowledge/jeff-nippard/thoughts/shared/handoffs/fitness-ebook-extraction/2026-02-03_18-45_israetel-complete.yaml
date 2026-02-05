@@ -1,0 +1,65 @@
+---
+session: fitness-ebook-extraction
+date: 2026-02-03
+status: complete
+outcome: SUCCEEDED
+---
+
+goal: Extracted Scientific Principles of Hypertrophy Training (Israetel) - 22 entity files
+now: Extract The Muscle and Strength Pyramid Training (Helms) next
+
+test: ls /home/vuk/fitness-books/knowledge/israetel/scientific-principles-of-hypertrophy-training/**/*.md | wc -l
+
+done_this_session:
+  - task: Created knowledge base structure for Israetel book
+    files: [_index.md, _scientific-principles-quotes.md]
+  - task: Extracted all 7 principles as frameworks
+    files: [seven-principles.md, specificity-principle.md, overload-principle.md, fatigue-management.md, sra-principle.md, variation-principle.md, phase-potentiation.md]
+  - task: Extracted key concepts
+    files: [volume-landmarks.md, rir-relative-effort.md, stimulus-fatigue-ratio.md, effective-reps.md, hypertrophy-stimuli.md, individualization.md]
+  - task: Extracted tactics
+    files: [training-methods.md, rep-ranges.md, exercise-selection.md]
+  - task: Created researcher profiles
+    files: [mike-israetel.md, brad-schoenfeld.md, eric-helms.md]
+
+blockers: []
+
+questions: []
+
+decisions:
+  - placed_under_israetel: User requested ./knowledge/israetel/{book-name} structure
+  - individualization_as_concept: 7th principle treated as concept rather than framework (similar abstraction level)
+
+findings:
+  - epub_unicode_issues: Filename had Unicode apostrophe requiring glob pattern for extraction
+  - cross_references: Schoenfeld and Helms appear in both Nippard and Israetel books
+
+worked:
+  - Using glob pattern for problematic epub filenames
+  - Reading book in chunks due to token limits
+  - Creating comprehensive entity files with quotes and cross-references
+
+failed: []
+
+next:
+  - Extract The Muscle and Strength Pyramid Training by Helms
+  - Place in ./knowledge/helms/muscle-strength-pyramid-training/
+  - Cross-reference with existing Israetel and Nippard entities
+  - Eric Helms researcher file already exists - update with this book as source
+
+files:
+  created:
+    - /home/vuk/fitness-books/knowledge/israetel/scientific-principles-of-hypertrophy-training/_index.md
+    - /home/vuk/fitness-books/knowledge/israetel/scientific-principles-of-hypertrophy-training/_scientific-principles-quotes.md
+    - /home/vuk/fitness-books/knowledge/israetel/scientific-principles-of-hypertrophy-training/frameworks/*.md (8 files)
+    - /home/vuk/fitness-books/knowledge/israetel/scientific-principles-of-hypertrophy-training/concepts/*.md (6 files)
+    - /home/vuk/fitness-books/knowledge/israetel/scientific-principles-of-hypertrophy-training/tactics/*.md (3 files)
+    - /home/vuk/fitness-books/knowledge/israetel/scientific-principles-of-hypertrophy-training/researchers/*.md (3 files)
+  modified: []
+
+context:
+  epub_source: /home/vuk/fitness-books/books/Jeff Nippard/Scientific Principles of Hypertrophy Training -- James Hoffmann, Melissa Davis, Jared Feather, Mike Israetel -- First edition, Place of publication -- 9788708998287 -- 64e9b695ff7df82eb8449c8ca7e414c1 -- Anna's Archive.epub
+  next_book: /home/vuk/fitness-books/books/The Muscle and Strength/The Muscle and Strength Pyramid_ Training -- Andy Morgan, Eric Helms, Andrea Valdez.epub
+  extracted_books:
+    - The Muscle Ladder (Nippard) - 17 files in /knowledge/jeff-nippard/
+    - Scientific Principles of Hypertrophy Training (Israetel) - 22 files in /knowledge/israetel/
