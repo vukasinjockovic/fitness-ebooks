@@ -1,0 +1,293 @@
+{
+  "id": "3589627",
+  "slug": "spicy-chipotle-burger",
+  "title": "Spicy Chipotle Burger",
+  "url": "https://www.mob.co.uk/recipes/spicy-chipotle-burger",
+  "summary": "This smoky, zingy vegan burger will convert even the most avid meat eater. Packed with crispy cumin onions, mango guacamole and a spicy patty, how could it not?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A6301.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 470,
+    "protein": 10,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 56,
+    "dietary_fibre": 7,
+    "sugars": 13,
+    "sodium": 426
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cornflour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Ground Cumin",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Mango",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Chipotle Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Chipotle Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Burger Buns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Burger Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 The Vegetarian Butcher Patty On The Back Burgers",
+      "quantity": "452",
+      "unit": null,
+      "name": "Vegetarian Burger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Thinly slice the red onions and place in a bowl. Add the cornflour and ground cumin and toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "Fill a saucepan halfway with vegetable oil and set over a medium heat. Shake off any excess cornflour, then add the onions to the cold oil, stirring to separate."
+    },
+    {
+      "heading": null,
+      "description": "Cook, stirring often, until golden brown and crispy, then drain and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Mash the avocado flesh. Finely dice the mango. Finely chop the red onion, green chilli and fresh coriander. Juice the lime."
+    },
+    {
+      "heading": null,
+      "description": "Place in a bowl, season with salt and pepper, and mix well to combine."
+    },
+    {
+      "heading": null,
+      "description": "Combine the chipotle paste, garlic powder and smoked paprika with 4 tablespoons of vegetable oil and a pinch of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Heat a non-stick frying pan over medium heat. Toast the buns then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Brush the veggie burgers with a little vegetable oil."
+    },
+    {
+      "heading": null,
+      "description": "Heat the same non-stick frying pan over medium heat. Add theburger patties and cook for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Flip and spoon a third of the chipotle sauce over the burgers. Cook for a further 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Flip again, spoon another third of the chipotle sauce over the burgers, and cook for a further 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Flip one last time, spooning the remaining chipotle sauce over the burgers, and cook for a final 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, get a good dollop of the mango guacamole on the base of each burger. Top with the burger patties, followed by a good handful of crispy onions and the top bun. Tuck in and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-09-04T09:26:00+01:00"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "6753824",
+  "slug": "herby-pancake-soup",
+  "title": "Herby Pancake Soup",
+  "url": "https://www.mob.co.uk/recipes/herby-pancake-soup",
+  "summary": "Herby pancake noodles served in a piping hot beef broth. This soup is really popular in Austria and Southern Germany – try it and you’ll see why. The great thing is, your pancakes don’t have to be perfectly round, since they’re turning into noodles anyway.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Herby-Pancake-Soup.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "fat": 12,
+    "saturated_fat": 2,
+    "carbohydrates": 16,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "Handful Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Plain Flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Milk",
+      "quantity": "125",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1000ml Beef Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the herbs. In a bowl, whisk together the eggs, flour, milk, olive oil (or you can use melted butter if you prefer), herbs and a sprinkle of salt until a thick batter forms."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a non-stick pan set over medium heat. Pour a ladle of batter into the pan, turn the pan a few times to distribute the batter, and fry until golden on both sides (since the pancakes are being rolled up and cut up, they don’t have to be perfect!). Once the pancake is browned on both sides, remove it from the pan using a spatula and allow it to cool on a plate. Repeat this process until all the batter is used."
+    },
+    {
+      "heading": null,
+      "description": "Roll up each pancake and cut into thin strips. Divide the strips across the bowls."
+    },
+    {
+      "heading": null,
+      "description": "Heat up the beef stock in a medium-sized pot. Once hot, pour it over the pancake strips and sprinkle with chopped chives."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "German",
+    "Austrian"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T12:08:00+01:00"
+}

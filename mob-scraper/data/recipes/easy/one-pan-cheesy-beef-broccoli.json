@@ -1,0 +1,187 @@
+{
+  "id": "6453776",
+  "slug": "one-pan-cheesy-beef-broccoli",
+  "title": "One-Pan Cheesy Beef & Broccoli",
+  "url": "https://www.mob.co.uk/recipes/one-pan-cheesy-beef-broccoli",
+  "summary": "Easy, satisfying, and nutritious. For the days you don't feel like cooking, it doesn't get easier than this one pan wonder. Bonus points for only washing one pan at the end!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/One-Pan-Cheesy-Beef-Broccoli.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 56,
+    "fat": 41,
+    "saturated_fat": 13,
+    "carbohydrates": 23,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 624
+  },
+  "ingredients": [
+    {
+      "label": "200g Mixed Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mixed Rice & Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Broccoli Stalk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Rump Steak",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rump Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Rump Steak",
+      "quantity": "1",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cheddar Cheese",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cheddar Cheese",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the mixed rice and grains following pack instructions and set aside. Wash the broccoli stalk and cut into bite-sized pieces. Thinly slice the beef. Grate the cheese."
+    },
+    {
+      "heading": null,
+      "description": "Heat a drizzle of olive oil in a large pan over a medium heat. Add the cooked rice to the middle of the pan and put the chopped broccoli stalks around the rice in a circle. Pan fry for 3 mins, without stirring."
+    },
+    {
+      "heading": null,
+      "description": "Add the beef to the pan around the rice, with the broccoli. Let that sear for 3 mins on medium heat. Add the soy sauce, chilli oil and sesame oil to the rice in the centre of the pan."
+    },
+    {
+      "heading": null,
+      "description": "When the beef is 80% cooked, mix everything in the pan together. Top with the coriander and cheddar cheese. Continue to cook for 2 mins until the cheese is melted and the beef is cooked to the desired tenderness."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, fry the eggs (if using) sunny side up on a medium heat for 2-3 mins depending on how runny you like them."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between bowls and top with the eggs and any leftover coriander leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Family-Friendly",
+    "Power Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Rice Zhang",
+      "uri": "chefs/rice-zhang",
+      "summary": "Rice is a home cook on a journey to make easy and delicious high protein asian meals! Fatigue after a long day of work doesn't mean we have to compromise on flavour or convenience! She hopes to share delicious Asian inspired flavours with the everyday person!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-04T04:00:00+01:00"
+}

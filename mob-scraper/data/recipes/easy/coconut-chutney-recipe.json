@@ -1,0 +1,166 @@
+{
+  "id": "6006969",
+  "slug": "coconut-chutney-recipe",
+  "title": "Coconut Chutney Recipe",
+  "url": "https://www.mob.co.uk/recipes/coconut-chutney-recipe",
+  "summary": "A sweet and spicy coconut chutney recipe that'll add some excitement to literally anything you eat it with.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Coconut-Chutney-Recipe.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 109,
+    "protein": 2,
+    "fat": 9,
+    "saturated_fat": 5,
+    "carbohydrates": 6,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Grated Coconut",
+      "quantity": "150",
+      "unit": null,
+      "name": "Grated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Daria Dal",
+      "quantity": "1",
+      "unit": null,
+      "name": "Daria Dal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Black Mustard Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Mustard Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Peeled Urid Dal",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Peeled Urid Dal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Asafoetida",
+      "quantity": "1",
+      "unit": null,
+      "name": "Asafoetida",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6-8 Curry Leaves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Dried Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the ginger and transfer to a blender with the grated coconut, chilli, daria dal (if using) and a splash of water. Blend all the ingredients, season with salt and pour into a serving bowl. You can add more or less water, depending on how thick you like your chutney."
+    },
+    {
+      "heading": null,
+      "description": "For the tarka, place a small saucepan over a medium heat with the oil. Once hot, add the mustard seeds, urid dal, asafoetida, curry leaves and dried red chilli. Fry for a few seconds, then pour straight over the chutney just before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-08T16:18:00+01:00"
+}

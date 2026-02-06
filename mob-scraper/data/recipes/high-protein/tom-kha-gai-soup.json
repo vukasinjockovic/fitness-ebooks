@@ -1,0 +1,305 @@
+{
+  "id": "6854739",
+  "slug": "tom-kha-gai-soup",
+  "title": "Tom Kha Gai (Thai Coconut Chicken Soup)",
+  "url": "https://www.mob.co.uk/recipes/tom-kha-gai-soup",
+  "summary": "A creamy aromatic Thai chicken soup with a comforting fragrant broth. A staple in Thai cooking and especially good for winter. You’ll love it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Tom-Yum-Soup.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 427,
+    "protein": 19,
+    "fat": 15,
+    "saturated_fat": 10,
+    "carbohydrates": 54,
+    "dietary_fibre": 3,
+    "sugars": 7,
+    "sodium": 818
+  },
+  "ingredients": [
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Stalks Lemongrass",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Fresh Galangal",
+      "quantity": "40",
+      "unit": null,
+      "name": "Galangal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480ml Unsalted Chicken Stock",
+      "quantity": "480",
+      "unit": null,
+      "name": "Low Salt Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480ml Unsalted Chicken Stock",
+      "quantity": "480",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Thai Red Chilies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Thai Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Oyster Mushrooms",
+      "quantity": "100",
+      "unit": null,
+      "name": "Oyster Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Oyster Mushrooms",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Firm Tofu",
+      "quantity": "100",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Firm Tofu",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Boneless Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Boneless Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Flaky Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Palm Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Palm Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Full Fat Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Full-Fat Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Full Fat Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Lime Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Lime Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Cherry Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Cherry Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Baby Corn",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baby Corn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 Lime",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Rinse and drain the rice in a sieve. Add to a medium pot with a tight fitting lid. Add water, to a ratio 1:1.25 rice to water, and a pinch of salt. Pop the lid on, turn the heat to low-medium and cook for 10 mins undisturbed, then reduce the heat to low for another 10 mins undisturbed. Fluff the rice with a fork and leave it to continue steaming with the lid on until needed."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, bash the lemongrass and remove the bottom stems and outer husks. Then slice the outer layer of the galangal."
+    },
+    {
+      "heading": null,
+      "description": "Add the lemongrass and galangal husks and trimmings to a medium saucepan along with the unsalted chicken stock (or water if you prefer) and set it over a medium heat. Bring to a boil and leave for 5 mins to infuse, then turn off the heat. Quickly remove the husks with a sieve and add them to the cooking rice, making sure to place the lid back on the rice immediately."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel and finely chop the remaining lemongrass and cut the shallot into quarters. Smack the galangal with the back of the knife before finely slicing. Bruise the red chillies with the back of your knife. Peel the oyster mushrooms into shreds and slice the firm tofu into bite-size pieces. Slice the boneless chicken thighs into 1 inch strips, ensuring to remove any skin if needed."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken thighs and salt to the stock and bring to a gentle simmer over a low-medium heat for 10 mins. Add the chopped and bruised aromatics, sugar, fish sauce, coconut milk and tear in ⅗ of the lime leaves then gently simmer for 3 mins. Then add the tofu, mushrooms, cherry tomatoes and baby corn and gently simmer for another 5 mins, or until the chicken is cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, pick the coriander leaves and roughly chop the stems and remaining lime leaves."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze in the lime juice and add the chopped coriander stems and lime leaves then season to taste (it may need another tbsp of fish sauce). Remove from the heat and leave to rest for 5 mins with the lid on before serving."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the aromatic rice between bowls, ladle over the soup and top with the coriander leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-03T09:00:00+00:00"
+}

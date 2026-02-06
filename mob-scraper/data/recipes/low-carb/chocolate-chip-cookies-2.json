@@ -1,0 +1,172 @@
+{
+  "id": "6512461",
+  "slug": "chocolate-chip-cookies-2",
+  "title": "Chocolate Chip Cookies",
+  "url": "https://www.mob.co.uk/recipes/chocolate-chip-cookies-2",
+  "summary": "Meet our ultimate chocolate chip cookie recipe. Make extra to keep in the freezer and thank us later.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Chocolate-Cookies.jpg",
+  "cook_time": 15,
+  "prep_time": 30,
+  "total_time": 45,
+  "serving_size": 28,
+  "nutrition": {
+    "calories": 90,
+    "protein": 1,
+    "fat": 4,
+    "saturated_fat": 2,
+    "carbohydrates": 13,
+    "dietary_fibre": 1,
+    "sugars": 7,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "430g plain flour",
+      "quantity": "430",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ tsp bicarbonate of soda",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g room temp unsalted butter",
+      "quantity": "240",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "230g light brown sugar",
+      "quantity": "230",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g caster sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp vanilla extract",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g 70% dark chocolate",
+      "quantity": "140",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprinkling of sea salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C fan. Line two baking trays with baking parchment. Roughly chop the dark chocolate into 1-2cm pieces."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, whisk together the flour, bicarbonate of soda and salt and set aside. In a separate bowl, use an electric whisk to beat the butter and sugars together for 2 mins until light and fluffy (if you're whisking by hand, it will take longer)."
+    },
+    {
+      "heading": null,
+      "description": "Add the eggs, one by one, to the butter and sugar mixture and beat until just incorporated. Add the vanilla and beat to combine."
+    },
+    {
+      "heading": null,
+      "description": "Sift in the flour then gently fold to combine. Fold in the chocolate pieces."
+    },
+    {
+      "heading": null,
+      "description": "When the dough has come together, break off pieces and form them into balls roughly the size of a golf ball. Pop them on your prepared baking trays, leaving a good 8cm between them. Gently press down on each one then sprinkle the tops with the salt."
+    },
+    {
+      "heading": null,
+      "description": "Slide into the oven to bake for 8 mins then remove from the oven and gently press each cookie flat with a spatula (this is optional – you may prefer to leave them to rise slightly). Return to the oven to bake for another 3–5 mins, or until lightly brown."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and leave the cookies to cool on the tray for 10 mins before transferring them to a wire rack to cool completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Afternoon Tea",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-04T12:52:00+01:00"
+}

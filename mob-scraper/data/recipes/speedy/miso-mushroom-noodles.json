@@ -1,0 +1,196 @@
+{
+  "id": "4306694",
+  "slug": "miso-mushroom-noodles",
+  "title": "Miso Mushroom Noodles With Edamame",
+  "url": "https://www.mob.co.uk/recipes/miso-mushroom-noodles",
+  "summary": "A whack of mint adds some freshness to this high-protein noodle recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Miso-Mushroom-Noodles.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 11,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 44,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 233
+  },
+  "ingredients": [
+    {
+      "label": "200g Dried Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dried Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Edamame",
+      "quantity": "200",
+      "unit": null,
+      "name": "Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Beansprouts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Pack of Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds, To Serve (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the rice noodles into a large bowl and cover with boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Make the dressing by whisking the miso with 3 tbsp olive oil and the juice of 1 ½ lemons. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the mushrooms. Add a tbsp of olive oil to a pan and add the mushrooms along with a pinch of salt. Fry for 5-7 mins, until golden. Meanwhile finely chop (or grate) the garlic. Once the mushrooms are golden, add the garlic to the pan and cook for 2 mins further and then remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Drain the noodles and rinse with cold water to remove any starch. Then add to a large bowl, add the edamame, beansprouts, and most of the mint leaves. Add the dressing and toss well."
+    },
+    {
+      "heading": null,
+      "description": "Swirl the noodles into bowls and top with garlic-y mushrooms, toasted sesame seeds and fresh mint. Serve with the remaining lemon half, cut into wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-11T16:01:00+01:00"
+}

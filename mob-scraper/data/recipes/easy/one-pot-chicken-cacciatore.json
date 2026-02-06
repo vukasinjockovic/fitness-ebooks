@@ -1,0 +1,264 @@
+{
+  "id": "4415337",
+  "slug": "one-pot-chicken-cacciatore",
+  "title": "One-Pot Chicken & Bean Cacciatore",
+  "url": "https://www.mob.co.uk/recipes/one-pot-chicken-cacciatore",
+  "summary": "A proper one-pot full-course meal . The rosemary, olives and red wine are what gives the chicken its characteristic cacciatore flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/One-Pot-Chicken-Bean-Cacciatore.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 39,
+    "fat": 32,
+    "saturated_fat": 7,
+    "carbohydrates": 38,
+    "dietary_fibre": 10,
+    "sugars": 10,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "8 Pieces Skin-On, Bone-In Chicken Thighs & Drumsticks",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Pieces Skin-On, Bone-In Chicken Thighs & Drumsticks",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fresh Rosemary Sprigs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Glass of Red Wine (250ml)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Cherry Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Cherry Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Cannellini Beans",
+      "quantity": "492",
+      "unit": null,
+      "name": "Drained Cooked Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pot of Mixed Olives",
+      "quantity": "285",
+      "unit": null,
+      "name": "Mixed Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Splash of Balsamic Vinegar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Fresh Parsley (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ciabatta, For Mopping Up The Juices",
+      "quantity": null,
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get your largest high-sided frying pan or casserole over a high heat. Drizzle in a good glug of olive oil. Season the chicken pieces generously with salt and black pepper then place skin-side down into the pan. Fry for 5–6 mins, turning occasionally, until the skin is evenly golden. You may need to do this in two batches."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the onions, peppers and garlic. Once the chicken is nicely browned, set aside on a plate. Reduce the heat to medium and scrape the onions and peppers into the pan. Add a pinch of salt then fry, stirring occasionally, for 10 minutes until soft."
+    },
+    {
+      "heading": null,
+      "description": "Scrape in the garlic, cook for 1 minute more then add the chilli flakes and rosemary. Stir together then spoon in the tomato purée. Give everything a good mix then pour in the red wine. Leave to bubble away until reduced by half, then tip in the tins of plum tomatoes. Bring thesauce to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Drain the beans and add to the pan along with the olives. Season well with salt and black pepper then nestle the chicken pieces in. Put on a lid and leave to simmer away for 20 minutes. Remove the lid and cook for a further 10 mins until the chicken is cooked through and the sauce has reduced slightly. Season with salt, black pepper and a splash of balsamic vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the parsley and scatter over the top. Serve at the table for people to help themselves. We like to eat this with a crusty ciabatta."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Family-Friendly",
+    "High Fibre",
+    "Power Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2025-03-01T09:36:00+00:00"
+}

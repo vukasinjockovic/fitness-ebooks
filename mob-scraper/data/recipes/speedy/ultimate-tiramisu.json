@@ -1,0 +1,168 @@
+{
+  "id": "6523848",
+  "slug": "ultimate-tiramisu",
+  "title": "Ultimate Tiramisu",
+  "url": "https://www.mob.co.uk/recipes/ultimate-tiramisu",
+  "summary": "This Italian dessert is surprisingly easy to make and can be made ahead of time. Serve it at your next dinner party and your guests will be scraping their bowls.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Tiramisu.jpg",
+  "cook_time": null,
+  "prep_time": 20,
+  "total_time": 20,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 346,
+    "protein": 5,
+    "fat": 22,
+    "saturated_fat": 14,
+    "carbohydrates": 29,
+    "dietary_fibre": 1,
+    "sugars": 16,
+    "sodium": 52
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Espresso Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Espresso Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Boiling Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Double Cream",
+      "quantity": "400",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mascarpone",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80ml Marsala",
+      "quantity": "80",
+      "unit": null,
+      "name": "Marsala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Caster Sugar",
+      "quantity": "70",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Sponge Fingers",
+      "quantity": "180",
+      "unit": null,
+      "name": "Sponge Fingers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dark Chocolate",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dark Chocolate",
+      "quantity": "25",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cocoa Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the coffee by dissolving the espresso powder into the boiling water. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get the double cream, mascarpone, marsala wine and caster sugar in a mixing bowl. Use an electric whisk to beat until you have a smooth mixture the consistency of thick whipped cream. You can also do this by hand, but it will take longer."
+    },
+    {
+      "heading": null,
+      "description": "Pour your coffee into a shallow dish, then dip in your sponge fingers, a few at a time, turning each for a few seconds until they are soaked but not soggy."
+    },
+    {
+      "heading": null,
+      "description": "Place a layer of soaked sponge fingers into a large shallow dish until you’ve used half of the fingers, then spread over half of the creamy mixture. Coarsely grate most of the dark chocolate over the top."
+    },
+    {
+      "heading": null,
+      "description": "Repeat the layers, using up all the coffee, and finishing with a layer of boozy cream."
+    },
+    {
+      "heading": null,
+      "description": "Cover the tiramisu with tin foil and chill in the fridge for 2 hours or overnight."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve - dust with the cocoa powder and grate over the remainder of the chocolate."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-19T12:33:00+01:00"
+}

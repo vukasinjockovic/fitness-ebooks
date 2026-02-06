@@ -1,0 +1,119 @@
+{
+  "id": "2393",
+  "slug": "bacon-sarnie",
+  "title": "Mob's Ultimate Bacon Sarnie",
+  "url": "https://www.mob.co.uk/recipes/bacon-sarnie",
+  "summary": "We've nailed the ultimate bacon sarnie. Crispy bacon, buttery fried bread and a sauce combo sent from heaven. This is the bacon sandwich of your dreams.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Ultimate-Bacon-Sarnie.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 463,
+    "protein": 27,
+    "fat": 18,
+    "saturated_fat": 7,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 1,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "16 Rashers of Bacon",
+      "quantity": "16",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Sourdough Bread",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ketchup",
+      "quantity": null,
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Tabasco",
+      "quantity": null,
+      "unit": null,
+      "name": "Tabasco",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "HP Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Brown Sauce ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by frying your bacon. As it cooks, take a saucepan and place it on top of the bacon to flatten it. Flip the bacon once it begins to get crispy on one side. Once both sides are crispy, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add your butter to the pan and stir until its melted. Once melted, add your slices of sourdough making sure you cover them in butter. Once golden brown on one side, flip it over. Meanwhile, whack your bacon back in the pan with your sourdough to coat them in butter. And you’re ready to plate up!"
+    },
+    {
+      "heading": null,
+      "description": "Start with a drizzle of ketchup on one of your slices of sourdough. Next, a few drops of Tabasco to add a kick, and finally a drizzle of brown sauce. Pile up 4 rashers of bacon and top it off with another slice of sourdough then tuck into the best bacon sarnie you will ever eat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-12T00:00:00+01:00"
+}

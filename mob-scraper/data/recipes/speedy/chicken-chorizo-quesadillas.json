@@ -1,0 +1,279 @@
+{
+  "id": "4459500",
+  "slug": "chicken-chorizo-quesadillas",
+  "title": "Chicken & Chorizo Quesadillas",
+  "url": "https://www.mob.co.uk/recipes/chicken-chorizo-quesadillas",
+  "summary": "Everyone loves a quesadilla. This is a simple student-friendly recipe that's affordable and filling.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Chicken-Chorizo-Quesadillas.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 43,
+    "fat": 39,
+    "saturated_fat": 15,
+    "carbohydrates": 48,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 1297
+  },
+  "ingredients": [
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chorizo Sausage (225g)",
+      "quantity": "225",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Coriander",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cayenne Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bell Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Grated Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Grated Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salsa, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sour Cream, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Guacamole, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Guacamole",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice your chicken. Peel and roughly chop your chorizo and place in a bowl with the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Add the herbs and spices and season with salt and pepper and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Roughly dice your peppers, finely slice your red onion and mince the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan on a high heat and fry the chicken and chorizo in veg oil for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Then add your peppers, onions and garlic and fry for a few mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the contents into a bowl and place the pan back on the heat."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle some more veg oil in the pan and add your tortilla."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle a layer of cheese across the bottom on the tortilla and then add some of the chicken and chorizo mixture. Finally top with some extra cheese before putting another tortilla on top."
+    },
+    {
+      "heading": null,
+      "description": "Once the bottom tortilla is golden brown use a spatula to flip it to get some colour on the other side. The cheese on either side of the quesadilla will act as glue holding everything together so it doesn’t spill out the sides."
+    },
+    {
+      "heading": null,
+      "description": "Once golden on both sides. Cut the quesadilla into quarters and serve with some tomato salsa, sour cream and guacamole. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Sam Holland",
+      "uri": "chefs/sam-holland",
+      "summary": "Sam Holland, a London-born chef and content creator, discovered his passion for cooking through his Granny Tess. His culinary journey led him to train at prestigious establishments like The Gleneagles Hotel and a Michelin-starred restaurant. Now, Sam channels his expertise and inspiration into sharing recipes and cooking tips online, with a mission to encourage young cooks to embrace home cooking."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-20T09:29:00+01:00"
+}

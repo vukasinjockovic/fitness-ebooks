@@ -1,0 +1,240 @@
+{
+  "id": "317210",
+  "slug": "kidney-bean-curry",
+  "title": "Kidney Bean Curry",
+  "url": "https://www.mob.co.uk/recipes/kidney-bean-curry",
+  "summary": "This tomatoey kidney bean curry, with fragrant gingery spices, is a simple yet satisfying dish that makes the most of store cupboard ingredients. This recipe combines tender kidney beans with a rich tomato sauce, flavoured with aromatic spices like cumin, coriander, and ginger. The result is a hearty, comforting meal that’s both delicious and budget-friendly. Perfect for a quick weeknight dinner, this curry is packed with flavor and nutrition, thanks to the protein-rich beans and nutrient-dense tomatoes. Whether you serve it over fluffy rice or with warm naan bread, it’s a versatile dish that doesn’t skimp on taste despite its simplicity. The use of readily available ingredients means you can whip up this meal with minimal fuss, making it a go-to recipe for those days when you want something easy yet deeply satisfying",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Kidney-bean-curry.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 10,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 70,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 47
+  },
+  "ingredients": [
+    {
+      "label": "2 White or Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Knob of Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Fat Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Curry Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Chopped Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Kidney Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kidney Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Kidney Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Handful of Fresh Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mango Chutney, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the onions, ginger, and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Get a large saucepan over a medium heat. Pour in a good glug of neutral oil. Add the onion along with a pinch of salt. Fry, stirring regularly for 5 minutes until soft then scrape in the ginger and garlic. Cook for a minute more."
+    },
+    {
+      "heading": null,
+      "description": "Spoon in the curry powder and the coriander, cumin and mustard seeds into the pan. Cook, stirring for a minute until smelling fragrant then tip in the chopped tomatoes and kidney beans along with their water. Season well with salt and pepper, bring the curry to the boil then turn down the heat and simmer gently for 15 minutes until thickened. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze in the lime juice and season to taste.  Reheat the rice and serve into bowls. Top with the curry and tear over some coriander. Serve with a dollop of mango chutney."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Freezer Friendly",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-12T00:00:00+01:00"
+}

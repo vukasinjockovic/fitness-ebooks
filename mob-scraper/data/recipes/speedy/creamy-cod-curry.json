@@ -1,0 +1,266 @@
+{
+  "id": "5784202",
+  "slug": "creamy-cod-curry",
+  "title": "Creamy Cod Curry",
+  "url": "https://www.mob.co.uk/recipes/creamy-cod-curry",
+  "summary": "An easy one-pot wonder with a creamy curry sauce and a spicy kick. Nutritious comfort food, perfect for eating after a long day.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/849A9005-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 27,
+    "fat": 28,
+    "saturated_fat": 7,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 790
+  },
+  "ingredients": [
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Vine Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cod Fillets",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Single Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Stock Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegetable Oill",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tsp Curry Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tsp Extra-Hot Chilli Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Chillies",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mince the garlic and slice the onion. Quarter the tomatoes. Dice the cod into nugget-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Set a lidded frying pan over a medium-high heat. Add the vegetable oil, the garlic, onion, bay leaf, mustard seeds and some salt to the pan, then cook, tossing, for 5 mins until caramelised and translucent."
+    },
+    {
+      "heading": null,
+      "description": "Add the quartered tomatoes and reduce with the lid on for 5 mins. After 5 mins, optionally remove the skin if you like."
+    },
+    {
+      "heading": null,
+      "description": "Add all the seasonings and the tomato purée. Cook for 1 min, then add the cod pieces with a splash of water. Simmer for 2 mins – this is the stage where the oil will start to separate."
+    },
+    {
+      "heading": null,
+      "description": "Add the single cream and stock, put a lid on top of the pan, then reduce for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Serve up! For those wanting extra spice and freshness top with asliced red chillies and coriander. Serve up with basmati rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Batch",
+    "Family-Friendly",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nishat Tahsin",
+      "uri": "chefs/nishat-cooks",
+      "summary": "Nishat is a passionate home cook and Biochemistry PhD student based in London. Combining her love for cooking and University life, Nishat uses her social platforms to share south-asian recipes and promote cost-effective student meals."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-14T12:57:00+01:00"
+}

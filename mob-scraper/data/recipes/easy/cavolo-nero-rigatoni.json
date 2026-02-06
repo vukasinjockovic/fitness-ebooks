@@ -1,0 +1,170 @@
+{
+  "id": "2816971",
+  "slug": "cavolo-nero-rigatoni",
+  "title": "Cavolo Nero Rigatoni",
+  "url": "https://www.mob.co.uk/recipes/cavolo-nero-rigatoni",
+  "summary": "This simple recipe makes great use of my favourite winter vegetable, cavolo nero, which is a black kale from Tuscany that you can find just about everywhere.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Cavolo-Nero-Rigatoni.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 15,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 84,
+    "dietary_fibre": 6,
+    "sugars": 4,
+    "sodium": 46
+  },
+  "ingredients": [
+    {
+      "label": "200g Cavolo Nero",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rigatoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Breadcrumbs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large pan of well-salted water to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Wash and strip the leaves from the cavolo nero, peel the garlic and add both to the pan. Cook for about 5 mins, then remove, keeping the water."
+    },
+    {
+      "heading": null,
+      "description": "Place the cavolo nero and garlic into a blender and pulse until mushy but not completely smooth."
+    },
+    {
+      "heading": null,
+      "description": "Cook the rigatoni in the cavolo cooking water until al dente."
+    },
+    {
+      "heading": null,
+      "description": "While the pasta cooks, place a large frying pan over a medium-low heat and add 100ml of olive oil. Finely chop the chilli (remove the seeds for less heat) and add to the frying pan, sizzle gently for a minute then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "In a small frying pan, add a splash of olive oil and fry the breadcrumbs until crisp and golden. Just before they're done, add the oregano, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drain the pasta and add to the pan with the oil and chilli. Add the blended cavolo nero and a splash of the pasta water and mix well to emulsify."
+    },
+    {
+      "heading": null,
+      "description": "Plate up and top with the herby breadcrumbs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-01-06T13:00:00+00:00"
+}

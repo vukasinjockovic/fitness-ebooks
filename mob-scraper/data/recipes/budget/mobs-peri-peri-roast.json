@@ -1,0 +1,191 @@
+{
+  "id": "1018381",
+  "slug": "mobs-peri-peri-roast",
+  "title": "Mob’s Peri Peri Roast",
+  "url": "https://www.mob.co.uk/recipes/mobs-peri-peri-roast",
+  "summary": "We have amplified our favourite cheeky takeaway, so you can enjoy it with all the best bits of a roast with maximum peri peri flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A1949.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 120,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 728,
+    "protein": 77,
+    "fat": 29,
+    "saturated_fat": 7,
+    "carbohydrates": 41,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "500g New Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g New Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Whole Chicken",
+      "quantity": "1.6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Peri Peri Seasoning",
+      "quantity": "3",
+      "unit": null,
+      "name": "Peri Peri Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Tenderstem Broccoli",
+      "quantity": "350",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Tenderstem Broccoli",
+      "quantity": "350",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pre-heat your oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Half your potatoes and slice your peppers and get them on a tray. Slice your onions and place on a different tray, making room in the middle for your chicken."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle with olive oil and rub in your peri peri seasoning on both trays. Place in the oven and roast for 30 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Take both trays out the oven. Baste your chicken using the juice in the baking tray. Add tenderstem broccoli to your potato and pepper tray, drizzle with olive oil and sprinkle with salt. Return both trays back to the oven then roast for a further 30 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Baste your chicken and leave to rest for 10 minutes on a wooden board. Set aside your potatoes, peppers and tenderstem broccoli."
+    },
+    {
+      "heading": null,
+      "description": "Gravy time. Take your onions still in the baking tray and place on the hob, adding in 100ml water and your red wine vinegar. Bring to the boil and bubble down on a high heat until you get a nice thick sauce."
+    },
+    {
+      "heading": null,
+      "description": "Carve your chicken and plate up with a healthy dose of gravy. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Family-Friendly",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-11-12T16:12:00+00:00"
+}

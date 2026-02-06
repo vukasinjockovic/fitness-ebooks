@@ -1,0 +1,144 @@
+{
+  "id": "4307766",
+  "slug": "paprika-butter-eggs",
+  "title": "Paprika Butter Eggs",
+  "url": "https://www.mob.co.uk/recipes/paprika-butter-eggs",
+  "summary": "Poached eggs? Greek yoghurt? Beautiful browned Paprika butter? This simple recipe has got it all. A quick meal that can be eaten at any point of the day.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A2603.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 695,
+    "protein": 25,
+    "fat": 46,
+    "saturated_fat": 26,
+    "carbohydrates": 41,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115g Butter",
+      "quantity": "115",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Schwartz Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Thick Slices of Sourdough",
+      "quantity": "128",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Dill (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sumac, Optional",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Thinly slice the garlic. Melt the butter in a small pan and cook whilst swirling for around 8 mins, until the milk solids have browned and it smells nutty and looks a bit foamy. Add the sliced garlic and paprika, then remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a medium heat and halve the lemon. Add it face down to the hot pan and cook for 3-4 mins until charred and sticky. Once it's cool enough to handle, squeeze the juice into the yoghurt and season well with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Heat a small pot of water and make a small whirlpool using a utensil. Sieve the eggs to remove the wispy bits and then tip into the middle of the vortex. Reduce the heat and cook for 5 min until the whites have set but the yolks still runny. In the meantime, slice and toast the sourdough and top with the lemony yoghurt. Top each slice with two poached eggs, drizzle with garlicky brown butter, and garnish with dill and a pinch of sumac, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "Spanish"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-23T09:39:00+01:00"
+}

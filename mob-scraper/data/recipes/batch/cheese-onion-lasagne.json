@@ -1,0 +1,254 @@
+{
+  "id": "5249024",
+  "slug": "cheese-onion-lasagne",
+  "title": "Cheese & Onion Lasagne",
+  "url": "https://www.mob.co.uk/recipes/cheese-onion-lasagne",
+  "summary": "An easy, cheesy lasagne that’s definitely not for anyone sensitive to dairy. A million times tastier than a packet of cheese and onion crisps.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Cheese-Onion-Lasagne.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1022,
+    "protein": 39,
+    "fat": 57,
+    "saturated_fat": 34,
+    "carbohydrates": 85,
+    "dietary_fibre": 7,
+    "sugars": 23,
+    "sodium": 1582
+  },
+  "ingredients": [
+    {
+      "label": "12 white onions",
+      "quantity": "12",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 white onions",
+      "quantity": "12",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Butter",
+      "quantity": "60",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Thyme (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 bay leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Silverskin Pickled onions",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pickled Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Worcestershire sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml mushroom stock made with 1 pot or cube",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mushroom Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g fresh lasagne sheets",
+      "quantity": "400",
+      "unit": null,
+      "name": "Fresh Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g fresh lasagne sheets",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L whole milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g butter",
+      "quantity": "80",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp English mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "English Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Red Leicester Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Red Leicester Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Red Leicester Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Low Moisture Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Low-Moisture Mozzarella Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Low Moisture Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Chives",
+      "quantity": "25",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and finely slice the onions. Melt the butter in a heavy-based pot over a medium heat and add the onions, thyme and bay leaves. Gently cook for around 30 mins, stirring so the onions don’t catch, until lightly golden and smelling sweet. In the meantime, drain and cut the pickled onions in half. Add the pickled onions, Worcestershire sauce and the stock to the pan, simmering for another 5 mins until reduced and thickened."
+    },
+    {
+      "heading": null,
+      "description": "Heat oven to 200°C. For the béchamel, grate the cheeses, finely chop the chives and melt the butter in a large pot over a medium heat. Add the flour and cook out whilst stirring for around 4 mins, until golden and smelling biscuity. Gradually add the milk, mixing well after each addition to ensure there are no lumps. Continue adding the milk whilst whisking until it's all incorporated, then add in the mustard and most of the cheese, saving some for the top. Mix well and simmer for a couple of minutes before adding most of the chives and seasoning with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add a ladle of the cheese sauce to a baking dish around 20cm x 30cm, then layer with lasagne sheets. Top with some of the onion ragù, then more of the béchamel. Repeat with the lasagne sheets, ragù and béchamel until you’ve used up all the ingredients, ending on a layer of sauce. Top with the remaining cheeses and chives, then pop into the oven for 45 mins, until a knife can be pushed through with no resistance. If it needs longer, cover with tin foil and pop back in the oven for 10-15 mins. When cooked, remove from the oven and set aside to cool for 15 mins before cutting and serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Batch",
+    "Freezer Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-22T05:00:00+00:00"
+}

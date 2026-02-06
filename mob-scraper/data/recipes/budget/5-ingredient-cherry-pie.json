@@ -1,0 +1,151 @@
+{
+  "id": "2759382",
+  "slug": "5-ingredient-cherry-pie",
+  "title": "5-Ingredient Cherry Pie",
+  "url": "https://www.mob.co.uk/recipes/5-ingredient-cherry-pie",
+  "summary": "A classic, yet simple, pie with only 5 ingredients. The perfect weekend project.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/849A7772-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 290,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 322,
+    "protein": 4,
+    "fat": 11,
+    "saturated_fat": 5,
+    "carbohydrates": 52,
+    "dietary_fibre": 2,
+    "sugars": 23,
+    "sodium": 133
+  },
+  "ingredients": [
+    {
+      "label": "1kg Frozen Cherries",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Frozen Cherry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Granulated Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Granulated Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Shortcrust Pastry Block",
+      "quantity": "500",
+      "unit": null,
+      "name": "Shortcrust Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the frozen cherries and the sugar (reserve 1 tbsp of sugar), corn flour, with ½ tsp of salt in a large bowl. Allow to sit for 1 hour, stirring occasionally so the cherries release their liquid."
+    },
+    {
+      "heading": null,
+      "description": "Strain the cherry from the liquid and heat up the liquid in a saucepan for 10 mins until thickened. Add the thickened liquid back in the bowl with the cherries and allow this to cool fully."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Divide the block of pastry in half. Roll one half until it's about 1cm thick and slightly larger in diameter than your pie tin."
+    },
+    {
+      "heading": null,
+      "description": "Gently place the pastry sheet onto the pie dish and press down so it covers the base."
+    },
+    {
+      "heading": null,
+      "description": "Pour the cherry filling into the lined pie dish."
+    },
+    {
+      "heading": null,
+      "description": "Roll out the other half of the pastry to the same size as before and cut it into 4cm wide strips. You want about 10 strips."
+    },
+    {
+      "heading": null,
+      "description": "Place five strips of pastry in a row across the top of your pie, ensuring they are evenly spaced apart. Fold back the first, third and fifth pastry strip in the row, then add another strip of pastry horizontally across. Place the lifted strips back down, then lift up the alternate two. Place another pastry strip horizontally across, then repeat these steps with your remaining pastry to create a lattice pattern.Trim the excess pastry from the edges."
+    },
+    {
+      "heading": null,
+      "description": "Fold the edges of the pastry in and then crimp the edges."
+    },
+    {
+      "heading": null,
+      "description": "Crack an egg into a bowl and whisk it with a fork."
+    },
+    {
+      "heading": null,
+      "description": "Gently brush the egg over the pastry and then pop it into the oven for 30 mins or until the crust is golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Allow the pie to cool for at leasr 3 hours. It must be fully chilled before slicing so the inside can firm up and the bottom stays crisp."
+    },
+    {
+      "heading": null,
+      "description": "Serve with warm custard and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Freezer Friendly",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-11-30T13:00:00+00:00"
+}

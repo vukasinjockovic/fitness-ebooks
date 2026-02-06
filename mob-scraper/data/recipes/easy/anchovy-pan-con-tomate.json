@@ -1,0 +1,154 @@
+{
+  "id": "4454913",
+  "slug": "anchovy-pan-con-tomate",
+  "title": "Anchovy Pan Con Tomate",
+  "url": "https://www.mob.co.uk/recipes/anchovy-pan-con-tomate",
+  "summary": "Salty, juicy anchovies match up perfectly with our take on this Spanish classic. Finished with chopped chives and a drizzle of olive oil. Bon app.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Anchovy-Pan-Con-Tomate.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 282,
+    "protein": 12,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 32,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 1022
+  },
+  "ingredients": [
+    {
+      "label": "1 Ciabatta",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Ripe Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sherry Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 50g Tin of Anchovies",
+      "quantity": "50",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Split the ciabatta in half to make a top and bottom. Then cut each in half again to make four equal-sized pieces. Rub with a generous amount of olive oil. Preheat a griddle pan over a high heat. Press the ciabatta, cut-side down, onto the grill and cook for 3-4 mins on each side until good and toasted, even a little charred."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, split the tomatoes in half and, using a box grater, coarsely grate the tomatoes into a bowl. Press the cut-side of the tomato against the grater and go to work. You should be left with just the skin."
+    },
+    {
+      "heading": null,
+      "description": "Season with the sherry vinegar (you might not need all of it), plenty of salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Remove the anchovies from the tin and finely cut the chives."
+    },
+    {
+      "heading": null,
+      "description": "Spread the 4 slices of ciabatta onto a board and top with a generous amount of the tomatoes and 2-3 anchovies. Finish with chopped chives and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks",
+    "Starter"
+  ],
+  "cuisines": [
+    "Spanish",
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-20T14:53:00+01:00"
+}

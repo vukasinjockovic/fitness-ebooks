@@ -1,0 +1,394 @@
+{
+  "id": "1823",
+  "slug": "ultimate-christmas-dinner",
+  "title": "Ultimate Christmas Dinner",
+  "url": "https://www.mob.co.uk/recipes/ultimate-christmas-dinner",
+  "summary": "The consummate Christmas Dinner. Serves 8. £7.03 a head. Naughty roasties, tender turkey, bacony brussels, pigs in blankets, cranberry sauce & honey glazing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Ultimate-Christmas-Dinner.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 300,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 1442,
+    "protein": 104,
+    "fat": 75,
+    "saturated_fat": 27,
+    "carbohydrates": 81,
+    "dietary_fibre": 13,
+    "sugars": 27,
+    "sodium": 2072
+  },
+  "ingredients": [
+    {
+      "label": "5.5kg Turkey",
+      "quantity": "5500",
+      "unit": null,
+      "name": "Turkey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cumberland Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Chipolata Sausages",
+      "quantity": "12",
+      "unit": null,
+      "name": "Chipolata Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Chipolata Sausages",
+      "quantity": "12",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "24 Rashers of Smoked Streaky Bacon",
+      "quantity": "24",
+      "unit": null,
+      "name": "Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "24 Rashers of Smoked Streaky Bacon",
+      "quantity": "24",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Brussels Sprout",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Brussels Sprout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Cloves of Garlic",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "16 Carrots (2 per head)",
+      "quantity": "16",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "16 Parsnips (2 per head)",
+      "quantity": "16",
+      "unit": null,
+      "name": "Parsnip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Breadcrumbs",
+      "quantity": "110",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Apple",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Knobs of Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Goose Fat",
+      "quantity": "4",
+      "unit": null,
+      "name": "Goose Fat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Plain Flour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cranberry Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cranberry Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Wholegrain Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Red Wine",
+      "quantity": "250",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Sage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Tarragon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tarragon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15 Garlic Cloves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Peppercorns",
+      "quantity": "2",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pints Whole Milk",
+      "quantity": "1136",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Set your oven to full whack."
+    },
+    {
+      "heading": null,
+      "description": "Take your cumberland sausages and squeeze the sausage meat out of the skin. Next, chop your sage, grate an apple and add some soaked breadcrumbs to a mixing bowl and thoroughly mix together."
+    },
+    {
+      "heading": null,
+      "description": "Place your turkey into a large baking tray and cover with olive oil and butter, making sure that you cover the entirety of the bird. Next, add a generous amount of salt and pepper and rub into the turkey. Add the ball of stuffing to the cavity of the turkey. At this point, cover the entire tray with tin foil and make a kind of tin foil tent. Now place the turkey in the oven."
+    },
+    {
+      "heading": null,
+      "description": "As soon as the turkey is in the oven, turn it down to 180°C/356°F and cook for 3½ hours. The most important part of cooking the turkey is basting. Make sure you set yourself a timer every 30 minutes so you don't forget."
+    },
+    {
+      "heading": null,
+      "description": "First, we need to boil the potatoes. Place your halved potatoes into a saucepan and fill with water to bring to the boil. Once the potatoes are soft on the outside (10 minutes), take them off the boil and drain them. Place them back into the saucepan with the lid on the top and shake them well for a few seconds. This will make them fluffy on the outside – perfect for the golden crunch. Add your goose fat into a baking tray with all 5 cloves of unpeeled garlic and pour the potatoes in. Season with salt pepper and rosemary. Mix thoroughly so the goose fat covers all of the potatoes. Place in the oven for 1 hour, remembering to shake them every 20 minutes to maintain crispiness."
+    },
+    {
+      "heading": null,
+      "description": "Cut them into strips and halve them. Add 2 tablespoons of honey and wholegrain mustard and mix together. Spread them across 2 baking trays to make sure they all get cooked properly. Place into the oven for 45 minutes."
+    },
+    {
+      "heading": null,
+      "description": "REMINDER: Make sure you baste that turkey!!!"
+    },
+    {
+      "heading": null,
+      "description": "Take the chipolatas and wrap 12 streaky bacon rashers around the sausages, repeating until this is finished. Spread cranberry sauce over each sausage and place in the oven for 40 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Half an hour before the turkey is ready, take the foil off and baste for the last time. Once the turkey is cooked take it out of the oven and leave to rest for 30 minutes covering it in foil to retain the heat."
+    },
+    {
+      "heading": null,
+      "description": "Quarter them and blanch them in boiling water for 5 minutes. Drain them. Chop and add your remaining smoked bacon to a wok. Once crispy, chuck in your brussels until they are cooked through. When the dish is ready, chop your tarragon and parsley and add to the wok. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Take the turkey out of the pan and then place the cooking tray onto a low heat. Take a piece of kitchen roll and run it across the top of the cooking juices – this will remove the top layer of fat that you don’t want in your gravy. Then, crumble a chicken stock cube into the pan. Add your red wine, flour and whisk everything together. Once it is nice and thick, pour the gravy into a jug and its ready to serve!"
+    },
+    {
+      "heading": null,
+      "description": "Peel your onion and stick 5 cloves into it. Pour the milk into a saucepan, add the onion, a bay leaf and a handful of peppercorns. Bring to the boil, then take off the heat and cover with some tinfoil. Allow to rest for 20 minutes before serving. After 20 minutes, remove the onion and bay leaves and sieve the milk, catching the peppercorns. Add the milk back to the pan on a low heat. Add your second knob of butter and 180g of breadcrumbs. Keep whisking the bread sauce until it is a nice, smooth consistency and serve."
+    },
+    {
+      "heading": null,
+      "description": "Once everything is ready. Carve your turkey making sure to remove the stuffing from the cavities and serve. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-11-18T00:00:00+00:00"
+}

@@ -1,0 +1,284 @@
+{
+  "id": "5428657",
+  "slug": "crispy-chicken-spicy-honey-noodles",
+  "title": "Crispy Chicken Spicy Honey Noodles",
+  "url": "https://www.mob.co.uk/recipes/crispy-chicken-spicy-honey-noodles",
+  "summary": "If you like spice, this is the one! Turn a packet of instant noodles into a proper meal you’ll make over and over again. This is a 6/10 on the spice ladder, but add more if you're feeling up for it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Crispy-Chicken-Spicy-Honey-Noodles.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 54,
+    "fat": 38,
+    "saturated_fat": 9,
+    "carbohydrates": 116,
+    "dietary_fibre": 6,
+    "sugars": 19,
+    "sodium": 2562
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Thighs, boneless, skin on",
+      "quantity": "4",
+      "unit": null,
+      "name": "Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs, boneless, skin on",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Soy Sauce",
+      "quantity": "5",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Apple Cider Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Gochujang",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mirin",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Instant Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Instant Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Instant Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Instant Noodle Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Instant Noodle Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Season both sides of the chicken with salt. Add the chicken thighs, skin-side down, to a cold frying pan, then turn the heat to medium. Don’t touch or move the chicken (this keeps the skin crispy and helps to render the fat) for around 7 mins."
+    },
+    {
+      "heading": null,
+      "description": "Flip the chicken onto the meat side and cook for a further 3 mins. Turn off the heat and remove the chicken from the pan. Set both the chicken and pan aside."
+    },
+    {
+      "heading": null,
+      "description": "Dice the red onion, slice the chilli and spring onion, then transfer it all to a bowl. Add three-quarters of your soy sauce along with half of the apple cider vinegar, half of the honey, and all the sesame seeds. Crush half of your garlic cloves into the bowl. Stir well to combine until the honey is dissolved. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, combine the gochujang with the chilli powder, the remainder of your soy sauce, all the mirin, all the oyster sauce, a few cracks of black pepper, the rest of your honey, the rest of your apple cider vinegar, the other half of the crushed garlic, and water. Mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Boil a saucepan of water, add the instant noodles and cook for 1 ½ mins shy of cooking instructions. Drain, reserving the cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Set the frying pan you used for the chicken over a medium heat and add the gochujang sauce. Fry for 1 min or until the sauce turns a darker red. Add the instant noodles and a splash of the soy pickling liquid. Stir until the sauce coats the noodles, adding more pickling liquid, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken thighs. Plate up the noodles and add the chicken thighs on top. Using a strainer or spoon, drain the red onion mixture ensuring there is no liquid, then sprinkle on top. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Most Cooked",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-03T16:00:00+00:00"
+}

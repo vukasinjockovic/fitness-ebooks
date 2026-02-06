@@ -1,0 +1,125 @@
+{
+  "id": "640580",
+  "slug": "pan-con-tomate-by-thomas-straker",
+  "title": "Pan Con Tomate",
+  "url": "https://www.mob.co.uk/recipes/pan-con-tomate-by-thomas-straker",
+  "summary": "The most delicious pan con tomate - a classic Spanish dish. Big juicy tomatoes and garlic on crispy sourdough bread. Recipe By MOB Contributor Thomas Straker.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/V3_BREAD-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 7,
+    "fat": 23,
+    "saturated_fat": 3,
+    "carbohydrates": 34,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 153
+  },
+  "ingredients": [
+    {
+      "label": "2 Large Ripe Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Loaf of Sourdough",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Big Pinches of Maldon Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Olive Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop your tomatoes in half and grate them into a bowl. Pour in a big glug of olive oil, season with salt to taste and stir together."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice your sourdough into 1cm thick pieces. Allow for two slices per person."
+    },
+    {
+      "heading": null,
+      "description": "Place a pan over a medium heat and pour in a large glug of oil."
+    },
+    {
+      "heading": null,
+      "description": "Add two slices of bread and fry until golden brown and crisp. Flip and repeat on the other side."
+    },
+    {
+      "heading": null,
+      "description": "Peel your garlic, remove the fried sourdough from the pan and brush over with the raw garlic."
+    },
+    {
+      "heading": null,
+      "description": "Spread a generous amount of your tomatoes over the sourdough. Drizzle over a small glug of olive oil and tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Spanish"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-08-23T15:00:00+01:00"
+}

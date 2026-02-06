@@ -1,0 +1,303 @@
+{
+  "id": "6398200",
+  "slug": "air-fryer-chicken-tikka-enchiladas",
+  "title": "Air Fryer Chicken Tikka Enchiladas with Mint Yoghurt & Mango Chutney",
+  "url": "https://www.mob.co.uk/recipes/air-fryer-chicken-tikka-enchiladas",
+  "summary": "These enchiladas are a delicious fusion of Indian and Mexican cuisines, requiring minimal washing up but producing maximum flavour!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/220A9999.png",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 507,
+    "protein": 41,
+    "fat": 18,
+    "saturated_fat": 7,
+    "carbohydrates": 44,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 648
+  },
+  "ingredients": [
+    {
+      "label": "600g Chicken Breasts",
+      "quantity": "600",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Chicken Breasts",
+      "quantity": "600",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon⁣",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g 0% Fat Greek Yoghurt⁣",
+      "quantity": "150",
+      "unit": null,
+      "name": "0% Fat Greek Yoghurt⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g 0% Fat Greek Yoghurt⁣",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 ½ Tbsp Tikka Curry Powder",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Tikka Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Passata",
+      "quantity": "300",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Single Cream",
+      "quantity": "40",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Regular-Sized Wraps⁣",
+      "quantity": "4",
+      "unit": null,
+      "name": "Wrap",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Cheddar & Mozzarella Cheese Mix",
+      "quantity": "110",
+      "unit": null,
+      "name": "Grated Cheddar & Mozzarella Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Cheddar & Mozzarella Cheese Mix",
+      "quantity": "110",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Natural Yoghurt",
+      "quantity": "70",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Natural Yoghurt",
+      "quantity": "70",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful Finely Chopped Mint Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Splash Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "½ Tbsp Mango Chutney",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the chicken breast into bite-sized chunks, crush the garlic and slice the lemon in half. Combine the chicken, yoghurt, lemon juice, garlic, half of the tomato purée, and half of the curry powder in a large bowl. You can leave this to marinate in the fridge if you have time, or want to prep ahead."
+    },
+    {
+      "heading": null,
+      "description": "Heat the air fryer to 200°C. Chop the onion into chunks and transfer to the air-fryer along with the marinated chicken. Cook for 12-14 mins until the chicken is cooked through and charred around the edges."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the passata and cream, along with the remaining tomato purée and curry powder. Season, then cook for another few minutes until the sauce is hot and thickened."
+    },
+    {
+      "heading": null,
+      "description": "Lower the air fryer temperature to 180°C. Microwave each wrap, then line up one-quarter of the chicken mix and a tenth of the cheese horizontally along the centre of each wrap, leaving around 2½cm either end. Fold the wrap in on each side (not essential, but it keeps them a bit more contained!), then roll up and place back into the air fryer. Use a spatula to smother the remaining bits of sauce on top of the wraps, then top with the remaining cheese. Cook in the air fryer for around 8 mins or until golden and bubbly."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, prepare the mint yoghurt by combining all the ingredients in a ramekin."
+    },
+    {
+      "heading": null,
+      "description": "To serve, drizzle the enchiladas with mint yoghurt and mango chutney, then scatter some coriander on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-05T04:00:00+01:00"
+}

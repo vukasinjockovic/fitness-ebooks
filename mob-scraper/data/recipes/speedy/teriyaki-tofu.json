@@ -1,0 +1,193 @@
+{
+  "id": "7125",
+  "slug": "teriyaki-tofu",
+  "title": "Teriyaki Tofu",
+  "url": "https://www.mob.co.uk/recipes/teriyaki-tofu",
+  "summary": "The sweet pomegranate works so nicely with the teriyaki. The mint freshens it up perfectly. A great mouthful.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A5263.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 480,
+    "protein": 17,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 80,
+    "dietary_fibre": 3,
+    "sugars": 13,
+    "sodium": 792
+  },
+  "ingredients": [
+    {
+      "label": "560g Tofu (we use Tofoo)",
+      "quantity": "560",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "560g Tofu (we use Tofoo)",
+      "quantity": "560",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Mint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pomegranate Seeds",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pomegranate Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Rice Wine Vinegar",
+      "quantity": "5",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tbsp Agave Nectar",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cornflour",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop your tofu up into chunks. Cook your rice following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Cover the chunks in cornflour."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of olive oil to a hot pan."
+    },
+    {
+      "heading": null,
+      "description": "Once the oil is hot enough, add the tofu chunks. Turn until each side is golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Teriyaki time. Add soy sauce, rice wine vinegar, 10 tbsp of water and a tsp of ginger to a bowl. Mix together. Add 1 1/2 tablespoons of agave nectar."
+    },
+    {
+      "heading": null,
+      "description": "Add your teriyaki sauce to the pan to warm and bubble for a couple of mins until thickened."
+    },
+    {
+      "heading": null,
+      "description": "Put the pomegranate seeds in a sieve over the pan. Press a teaspoon down onto them, allowing the juices to drip into the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add the mint and the tofu and mix together."
+    },
+    {
+      "heading": null,
+      "description": "Place the tofu on a bed of rice. Garnish with pomegranate and tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-10-26T00:00:00+01:00"
+}

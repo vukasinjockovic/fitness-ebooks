@@ -1,0 +1,177 @@
+{
+  "id": "5378301",
+  "slug": "cheesy-potato-fennel-salad",
+  "title": "Cheesy Potato & Fennel Salad",
+  "url": "https://www.mob.co.uk/recipes/cheesy-potato-fennel-salad",
+  "summary": "An easy one-pot potato salad recipe where Wensleydale and fennel get along like a house on fire. This is a boiled dinner done right.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Cheesy-Potato-Fennel-Salad.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 495,
+    "protein": 13,
+    "fat": 29,
+    "saturated_fat": 12,
+    "carbohydrates": 38,
+    "dietary_fibre": 7,
+    "sugars": 5,
+    "sodium": 390
+  },
+  "ingredients": [
+    {
+      "label": "1.4kg Baby New Potatoes",
+      "quantity": "1400",
+      "unit": null,
+      "name": "Baby Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.4kg Baby New Potatoes",
+      "quantity": "1400",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fennel Bulbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Wensleydale",
+      "quantity": "200",
+      "unit": null,
+      "name": "Wensleydale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Bunch of Mint (100g)",
+      "quantity": "100",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Bunch of Parsley (100g)",
+      "quantity": "100",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Salted Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a pot with heavily salted water and get it on a good roiling boil."
+    },
+    {
+      "heading": null,
+      "description": "Halve your potatoes. Roughly chop your fennel, you want it to be chunky. Zest half of your lemons and chop the zest into little bite-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Add the fennel, potatoes, and lemon zest to the pan of boiling water and boil for 12 minutes. While your potatoes are cooking, finely chop the mint and parsley."
+    },
+    {
+      "heading": null,
+      "description": "Once the potatoes are cooked, drain the mixture and add the potatoes, fennel, and lemon zest back to the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add in your butter and your chopped mint and parsley – reserving a bit for serving later. Roughly crumble in three-quarters of your Wensleydale with your hands into the pot. Add a big glug of olive oil into the pan with plenty of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Mix everything in the pot until the butter has melted and then whack the lid back and let it sit for 5 mins so the cheese gets all nice and melted."
+    },
+    {
+      "heading": null,
+      "description": "Serve onto plates and top with a bit more fresh parsley and mint and grate over the remaining Wensleydale and a good drizzle of olive oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-15T07:00:00+01:00"
+}

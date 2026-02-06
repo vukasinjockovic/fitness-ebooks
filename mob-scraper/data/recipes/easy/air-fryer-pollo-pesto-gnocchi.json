@@ -1,0 +1,261 @@
+{
+  "id": "6422549",
+  "slug": "air-fryer-pollo-pesto-gnocchi",
+  "title": "Air Fryer Pollo Pesto Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/air-fryer-pollo-pesto-gnocchi",
+  "summary": "An easy, minimal fuss, minimal clean-up dish that the whole family will love! The perfect weeknight dinner after a busy day. You can make it a 15 min-din by using pre-cooked chicken pieces, too.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Air-Fryer-Pollo-Pesto-Gnocchi.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 563,
+    "protein": 32,
+    "fat": 15,
+    "saturated_fat": 5,
+    "carbohydrates": 74,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 545
+  },
+  "ingredients": [
+    {
+      "label": "330g Chicken Breast",
+      "quantity": "330",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "330g Chicken Breast",
+      "quantity": "330",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mixed Herbs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Mixed Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Cherry Tomatoes",
+      "quantity": "7",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Cherry Tomatoes",
+      "quantity": "7",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi⁣⁣⁣",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi⁣⁣⁣",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Grated Cheddar Mozzarella",
+      "quantity": "40",
+      "unit": null,
+      "name": "Grated Cheddar & Mozzarella Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Grated Cheddar Mozzarella",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Pine Nuts⁣",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70ml Skimmed Milk⁣",
+      "quantity": "70",
+      "unit": null,
+      "name": "Skimmed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Lightest Soft Cheese⁣",
+      "quantity": "90",
+      "unit": null,
+      "name": "Light Soft Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Lightest Soft Cheese⁣",
+      "quantity": "90",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Reduced-Fat Pesto⁣",
+      "quantity": "20",
+      "unit": null,
+      "name": "Reduced-Fat Red Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Reduced-Fat Pesto⁣",
+      "quantity": "20",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parmesan ⁣",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the chicken breast, then season it with salt, pepper and the mixed herbs. Wrap it in foil and air fry at 180°C for 15 mins, then set aside.⁣"
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, halve the cherry tomatoes and dice the red onion. Combine all the sauce ingredients in a bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Tip the cooked chicken into the sauce bowl and set aside. Put the gnocchi into the air fryer, spray with the olive oil, then cook for around 12 mins at 190°C until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Once the gnocchi is crispy, add the onion, tomatoes, chicken and sauce to the air fryer with the gnocchi. Roughly mix together, then top with the cheese and pine nuts and return to the air fryer for another 5 mins until bubbly.⁣"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-08T09:36:00+01:00"
+}

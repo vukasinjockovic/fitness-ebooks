@@ -1,0 +1,258 @@
+{
+  "id": "7708120",
+  "slug": "buffalo-chicken-celery-blue-cheese-grain-bowl",
+  "title": "Buffalo Chicken, Celery & Blue Cheese Grain Bowl",
+  "url": "https://www.mob.co.uk/recipes/buffalo-chicken-celery-blue-cheese-grain-bowl",
+  "summary": "All the best bits of buffalo wings served up in a punchy grain bowl. Spicy chicken, cooling yoghurt, tangy blue cheese, and crunchy celery.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Buffalo-Chicken-Celery-Blue-Cheese-Grain-Bowl.jpg",
+  "cook_time": 50,
+  "prep_time": 10,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 642,
+    "protein": 48,
+    "fat": 28,
+    "saturated_fat": 9,
+    "carbohydrates": 48,
+    "dietary_fibre": 5,
+    "sugars": 6,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp Garlic Granules",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Granules",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp Garlic Granules",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp Soft Light Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soft Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp Frank’s Hot Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Celery Sticks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Blue Cheese",
+      "quantity": "100",
+      "unit": null,
+      "name": "Blue Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Blue Cheese",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Mixed Grain Pouches",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Mixed Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Natural Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Natural Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Apple Cider Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Garlic Granules (for dressing)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Granules",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Garlic Granules (for dressing)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Dill",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Add the chicken thighs to a baking tray and drizzle with olive oil. Sprinkle over the smoked paprika, garlic granules, brown sugar, salt and pepper. Drizzle with a bit more oil and spread into an even layer, skin-side up. Roast for 45 mins until cooked through and golden crisp."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle your hot sauce (we used Frank's Red Hot Sauce) over the cooked chicken and return to the oven for 5 more mins. Set aside to rest while you prep everything else."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice the celery and add to a large bowl. Crumble the blue cheese into bite-sized chunks and add to the bowl. Heat the grain pouches according to pack instructions, then tip the grains into the same bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the natural yoghurt, apple cider vinegar and garlic granules. Season with salt and pepper, then mix well. Tear in most of the dill and gently fold through."
+    },
+    {
+      "heading": null,
+      "description": "Divide the grain salad between containers or bowls and top each with 2 buffalo chicken thighs. Finish with the remaining dill and a little extra drizzle of hot sauce, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Packed Lunch",
+    "Power Protein",
+    "Accessible Method",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-12T13:51:00+01:00"
+}

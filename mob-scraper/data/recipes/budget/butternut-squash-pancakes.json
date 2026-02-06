@@ -1,0 +1,173 @@
+{
+  "id": "13449",
+  "slug": "butternut-squash-pancakes",
+  "title": "Butternut Squash Pancakes",
+  "url": "https://www.mob.co.uk/recipes/butternut-squash-pancakes",
+  "summary": "Great if you've ever got some leftover butternut squash kicking about. Topped with crispy smoked bacon & parmesan, this is the savoury brunch of your dreams.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Pancakes_Image.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 484,
+    "protein": 22,
+    "fat": 26,
+    "saturated_fat": 9,
+    "carbohydrates": 41,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 1017
+  },
+  "ingredients": [
+    {
+      "label": "400g Butternut Squash",
+      "quantity": "400",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Self-Raising Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Rosemary",
+      "quantity": "25",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Parmesan",
+      "quantity": "80",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Bacon Rashers",
+      "quantity": "8",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Clear Honey",
+      "quantity": "4",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350ml Whole Milk",
+      "quantity": "350",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C. Chop the butternut squash and place on a tray. Drizzle with olive oil and season with salt and pepper. Roast for 50 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Once the butternut squash is soft, remove from the oven. Add to a mixing bowl and mash it up. Sieve in self-raising flour. Mix it together with a fork. Add whole milk, bit by bit. It will be a bit lumpy, don’t worry."
+    },
+    {
+      "heading": null,
+      "description": "Crack in two eggs, add 60g of grated Parmesan and 1 ½ tsp of chopped rosemary. Season with salt and pepper and mix together. It should be a nice and thick consistency. If you need to, add a bit more flour."
+    },
+    {
+      "heading": null,
+      "description": "Get your bacon frying in a pan. Once it is cooked, remove from the pan and keep the fat in there!"
+    },
+    {
+      "heading": null,
+      "description": "Add two ladles of your pancake batter to the pan. Cook for 4 minutes on each side."
+    },
+    {
+      "heading": null,
+      "description": "Stack up your pancakes, add the bacon, squeeze on some honey, sprinkle on some Parmesan and get stuck in! Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-03-19T00:00:00+00:00"
+}

@@ -1,0 +1,309 @@
+{
+  "id": "4427836",
+  "slug": "meatball-macaroni-soup",
+  "title": "Meatball Macaroni Soup",
+  "url": "https://www.mob.co.uk/recipes/meatball-macaroni-soup",
+  "summary": "Meatballs and pasta is an Italian classic, as is minestrone. Put the two together and what have you got? Something that’s not very classic, but very delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Meatball-Macaroni-Soup.jpg",
+  "cook_time": 40,
+  "prep_time": 30,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 32,
+    "fat": 32,
+    "saturated_fat": 8,
+    "carbohydrates": 37,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Dried Oregano",
+      "quantity": "3",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Fresh Breadcrumbs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan, Plus The Rind",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2 Litres of Chicken Stock",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Macaroni",
+      "quantity": "100",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Macaroni",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spinach",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Big Green Salad, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Mixed Salad Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the beef mince into a large bowl. Coarsely grate in half the\nonion and 2 of the garlic cloves. Add 1 tsp of the oregano, the\nbreadcrumbs and plenty of seasoning, then crack in the egg. Using\nyour hands, scrunch the flavourings through the meat, then shape\ninto 20 small meatballs. Put into a roasting tin and slide into the\nfridge to chill while you start the soup."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the remaining onion half and the carrots and\ncelery. Get your largest saucepan over a medium heat. Pour in 2 tbsp of the olive oil, then tip in the veg along with a pinch\nof salt and cook, stirring occasionally, until soft."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile finely chop the remaining 3 garlic cloves and cut the\nrind off the Parmesan. Add the garlic, the remaining 2 tsp of\ndried oregano and the chilli flakes to the pan and cook for a minute\nmore. Tip in the plum tomatoes, add the Parmesan rind and pour in\nthe stock. Bring the soup to the boil, breaking down the tomatoes\nwith the back of your spoon, then bubble for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Brush the meatballs with 1 tbsp of olive oil. Bake in the\noven for 12–15 mins until cooked and browned."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile drop the macaroni into the soup and cook for 1\nmin less than stated on the packet instructions. Once cooked,\nstir in the spinach until wilted, then season the soup to taste."
+    },
+    {
+      "heading": null,
+      "description": "While your pasta cooks, make the salsa verde. Roughly chop the\nparsley (stalks and all) and add to a mini food processor along with\nthe capers, the juice of the lemon and the remaining tablespoon of\nolive oil. Add a tablespoon of water and whizz to a rough sauce, then\nseason to taste with salt."
+    },
+    {
+      "heading": null,
+      "description": "Divide the soup between four bowls and top each with five\nmeatballs. Add a spoonful of salsa verde to each one and finely\ngrate over the Parmesan to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Family-Friendly",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-07-05T16:44:00+01:00"
+}

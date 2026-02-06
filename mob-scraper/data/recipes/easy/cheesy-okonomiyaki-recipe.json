@@ -1,0 +1,287 @@
+{
+  "id": "5695294",
+  "slug": "cheesy-okonomiyaki-recipe",
+  "title": "Cheesy Okonomiyaki Pancake",
+  "url": "https://www.mob.co.uk/recipes/cheesy-okonomiyaki-recipe",
+  "summary": "This Japanese savoury pancake is the dream brunch dish – crispy, caramelised and soft inside, so quick and easy, you gotta try this one! We stuffed ours with mozzarella, but add anything you like. Especially a golden fried egg on top.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Cheesy-Okonomiyaki-Recipe.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 601,
+    "protein": 21,
+    "fat": 36,
+    "saturated_fat": 10,
+    "carbohydrates": 46,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Neutral Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Plain Flour",
+      "quantity": "125",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Dashi",
+      "quantity": "150",
+      "unit": null,
+      "name": "Dashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g White Cabbage",
+      "quantity": "250",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g White Cabbage",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shiitake Mushrooms",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mozzarella",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mozzarella",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml HP Sauce",
+      "quantity": "50",
+      "unit": null,
+      "name": "HP Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Kewpie Mayonnaise",
+      "quantity": "50",
+      "unit": null,
+      "name": "Kewpie Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Chilli Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pickles",
+      "quantity": null,
+      "unit": null,
+      "name": "Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the wet batter ingredients in a small bowl, stir until thick and paste-like, almost like thick greek yoghurt, set aside in the fridge. Slice the cheddar and mozzarella and grate the Parmesan. Cheese is optional if you want to keep this dairy-free!"
+    },
+    {
+      "heading": null,
+      "description": "Very finely slice the cabbage, shiitake mushrooms, and spring onions, (reserving the green part for garnish later). Into a large bowl, add minced ginger, eggs, sesame oil, soy sauce and salt, whisk vigorously for 1 minute, or until the eggs get slightly frothy and small bubbles appear. Fold the cabbage, mushrooms and spring onion whites until combined, then mix in the prepared wet batter. If the vegetables aren’t coated in the batter, add a tablespoon of water into the batter until coated - make sure to not add too much water, the batter shouldn’t be loose."
+    },
+    {
+      "heading": null,
+      "description": "Heat a 6-inch frying pan over medium heat and add 1 tbsp neutral oil and swirl around the pan, making sure to get all the edges of the pan. Add 1/4 of the batter, and use a spatula to spread across the pan, but do not flatten the pancake, keep it airy! Turn the heat to low, add a few slices of cheddar and mozzarella, lightly pressing them into the batter, then cover the cheese with a little bit more batter. Place a lid on and cook for 2 mins, or until the bottom of the pancake looks golden brown (keep the bowl of remaining batter in the fridge)."
+    },
+    {
+      "heading": null,
+      "description": "Slide the pancake onto a large plate, with the raw side facing up, then flip the pan over the plate, and flip back into the pan. Drizzle a tsp of oil around the edge of the pan and cook for 4 mins without a lid, or until golden brown. In the meantime, fry your eggs in another pan and set aside. Flip the pancake again, and cook on medium heat for just 1 minute to crisp up the other side. (eat this pancake now or cook the second pancake.)"
+    },
+    {
+      "heading": null,
+      "description": "Serve onto a plate, crispy side up. To garnish the okonomiyaki, sprinkle over a thin layer of grated Parmesan and drizzle HP sauce in long lines across the pancake, then repeat with the mayo. Top with the fried egg, spring onion, toasted sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-01T03:30:00+01:00"
+}

@@ -1,0 +1,168 @@
+{
+  "id": "6016589",
+  "slug": "kolkata-egg-roll-recipe",
+  "title": "Kolkata Egg Roll Recipe",
+  "url": "https://www.mob.co.uk/recipes/kolkata-egg-roll-recipe",
+  "summary": "We love street-side kathi rolls, and this is one of the easiest versions of them. We've kept it simple, but go ahead and add any filling of your choice if you feel like.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Kolkata-Egg-Roll.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "fat": 22,
+    "saturated_fat": 5,
+    "carbohydrates": 41,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 332
+  },
+  "ingredients": [
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Green Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Eggs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Frozen Parathas",
+      "quantity": "4",
+      "unit": null,
+      "name": "Frozen Paratha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Cucumber",
+      "quantity": "70",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pickled Onions",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pickled Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chaat Masala, to taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Chaat Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the pepper and cucumber into matchsticks. Finely dice the onion and thinly slice the green chillies. Crack the eggs into a bowl, season with salt and whisk well."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan over a medium-high heat with a drizzle of olive oil. Once hot, add the peppers and sauté until only starting to soften. Transfer to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Leave the pan on the heat, add 1 paratha and cook until golden on both sides. Once it’s almost cooked through, pour some whisked egg on top of the paratha, enough to cover in one even layer (roughly 2 eggs per paratha). Sprinkle some green chilli and red onion over the egg, then flip so the egg cooks through. Repeat this process with the remaining three parathas."
+    },
+    {
+      "heading": null,
+      "description": "Build your rolls by layering them up with the sautéed green pepper, cucumber, pickled onions and chaat masala. Once you’ve loaded them up, fold one edge of the paratha towards the inner side to form the bottom of the egg roll. Then, begin to roll it up tightly until you reach the end."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-26T16:12:00+01:00"
+}

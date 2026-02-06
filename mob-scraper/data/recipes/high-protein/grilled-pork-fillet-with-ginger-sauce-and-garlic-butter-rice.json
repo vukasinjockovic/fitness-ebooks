@@ -1,0 +1,301 @@
+{
+  "id": "7161226",
+  "slug": "grilled-pork-fillet-with-ginger-sauce-and-garlic-butter-rice",
+  "title": "Grilled Pork Fillet with Ginger Sauce and Garlic Butter Rice",
+  "url": "https://www.mob.co.uk/recipes/grilled-pork-fillet-with-ginger-sauce-and-garlic-butter-rice",
+  "summary": "In Partnership With Aldi. #ad. This pork fillet gets the star treatment with zingy ginger sauce and garlic butter rice. Feels fancy, but it’s way easier than it looks.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Grilled-Pork-with-Ginger-Sauce-and-Garlic-Butter-Rice.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 635,
+    "protein": 38,
+    "fat": 19,
+    "saturated_fat": 6,
+    "carbohydrates": 77,
+    "dietary_fibre": 4,
+    "sugars": 13,
+    "sodium": 1412
+  },
+  "ingredients": [
+    {
+      "label": "300g Pork Fillet",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pork Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pork Fillet",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Asparagus",
+      "quantity": "100",
+      "unit": null,
+      "name": "Asparagus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g chesnut mushrooms",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 White Onion, Sliced",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Ginger, Sliced",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "half a lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Soy Sauce",
+      "quantity": "50",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Rice Vinegar",
+      "quantity": "25",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Red Chilli, Minced",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 spring onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp sesame seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Sticky White Rice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Microwave Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Sticky White Rice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic, Minced",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Unsalted Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Chives, Thinly Sliced",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Rub oil over the pork fillet and season generously with salt and black pepper. Heat a griddle pan or frying pan over high heat for a couple of minutes, then sear the fillet on all sides for 1–2 mins until golden. Transfer the pork to baking tray and keep the pan to cook the veg later on."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, mix the water and honey together, then brush it all over the pork. Cook in the oven for 13–15 mins."
+    },
+    {
+      "heading": null,
+      "description": "While the pork’s cooking, get on with the ginger sauce.Finely chop the spring onion and red chilli, then set aside.Zest and juice the lemon. Roughly chop the ginger and onion, then chuck them into a blender with everything else for the sauce (except the sesame seeds, spring onion and chilli). Blitz until it’s slightly chunky – you don’t want a purée. Tip it into a bowl and top with the chopped chilli, spring onion and a sprinkle of sesame seeds."
+    },
+    {
+      "heading": null,
+      "description": "Now, for the veg. Slice the mushrooms in half and remove the woody ends from the asparagus. Return the pan you used for pork to the heat. Once hot, add the asparagus and mushrooms and cook for 2 mins on each side until lightly charred. Transfer to a bowl, drizzle over the olive oil and a pinch of salt, and give it all a toss."
+    },
+    {
+      "heading": null,
+      "description": "Finally, make the rice. Chop the chives and set aside. Melt the butter in a small pan over medium heat. Add the garlic, a pinch of salt, and sugar, and fry gently for 3–5 mins until golden and fragrant. Heat the rice following pack instructions. Stir the garlic butter and chopped chives through the rice until it’s glossy and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Take your pork out of the oven once cooked and let it rest for at least 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon the rice onto plates. Once it's nice and rested, slice the pork into 2cm slices and lay over the rice with the asparagus and mushrooms. Finish with a drizzle of the ginger sauce."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-06-10T11:30:00+01:00"
+}

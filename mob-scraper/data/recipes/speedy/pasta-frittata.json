@@ -1,0 +1,174 @@
+{
+  "id": "3213787",
+  "slug": "pasta-frittata",
+  "title": "Pasta Frittata",
+  "url": "https://www.mob.co.uk/recipes/pasta-frittata",
+  "summary": "Go to the beach in Naples and you’ll see kids eating slices of ‘a frittata 'e maccarune’. It’s the perfect use for leftover pasta, Jordon x",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A1218-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 346,
+    "protein": 16,
+    "fat": 17,
+    "saturated_fat": 6,
+    "carbohydrates": 32,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 390
+  },
+  "ingredients": [
+    {
+      "label": "300g Bucatini",
+      "quantity": "300",
+      "unit": null,
+      "name": "Bucatini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Bucatini",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pancetta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Balls of Mozzarella",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Balls of Mozzarella",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the bucatini in boiling salted water until al dente."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, fry the pancetta until golden brown, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Dice the mozzarella and add to a large bowl. To the same bowl, add the eggs, cooked pancetta, parmesan, a pinch of salt and a teaspoon of black pepper. Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta has cooked, drain and add it to the bowl and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Set a frying pan over a medium heat, add a splash of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Add the pasta and flatten with a spatula. Fry for about 5 mins (left gently to check)."
+    },
+    {
+      "heading": null,
+      "description": "Great served hot with a pile of crunchy fresh salad. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-03-21T17:30:00+00:00"
+}

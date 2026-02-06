@@ -1,0 +1,156 @@
+{
+  "id": "4065597",
+  "slug": "matcha-tea-gin-sour",
+  "title": "Matcha Tea Gin Sour",
+  "url": "https://www.mob.co.uk/recipes/matcha-tea-gin-sour",
+  "summary": "This mean, green cocktail might look like those juices you get at the gym but it's actually a delicious cocktail. This Matcha tea gin sour is set to impress.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Matcha-Tea-Gin-Sour.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 401,
+    "protein": 6,
+    "fat": 3,
+    "saturated_fat": 1,
+    "carbohydrates": 85,
+    "dietary_fibre": 2,
+    "sugars": 81,
+    "sodium": 64
+  },
+  "ingredients": [
+    {
+      "label": "50ml Gin",
+      "quantity": "50",
+      "unit": null,
+      "name": "Gin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Water",
+      "quantity": "75",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Matcha",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Matcha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Hot Water",
+      "quantity": "15",
+      "unit": null,
+      "name": "Hot Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First off, put your matcha whisk in a small glass of hot water. This will allow the bamboo to soak up the hot water and spread out its whisky bits more, meaning you’ll get a frothier matcha when it comes to whisking."
+    },
+    {
+      "heading": null,
+      "description": "Pour your sugar and water into a pan and gently heat until the sugar dissolves. This is your sugar syrup."
+    },
+    {
+      "heading": null,
+      "description": "Juice the lemon and separate the egg white from the yolk."
+    },
+    {
+      "heading": null,
+      "description": "Add your matcha powder to a bowl along with your hot water and gently whisk side to side. Make sure you whisk side to side and not in circles to ensure the foamiest matcha."
+    },
+    {
+      "heading": null,
+      "description": "Add your lemon juice, sugar syrup, gin, egg white and matcha to a cocktail shaker and give a dry shake."
+    },
+    {
+      "heading": null,
+      "description": "Now add your ice to the shaker and give it a wet shake for 20 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Double strain into a chilled cocktail glass and dust with a small amount of matcha powder for garnish, then sip away."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-16T16:15:00+00:00"
+}

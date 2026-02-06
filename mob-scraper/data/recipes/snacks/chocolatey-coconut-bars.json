@@ -1,0 +1,162 @@
+{
+  "id": "7121634",
+  "slug": "chocolatey-coconut-bars",
+  "title": "Chocolate Coconut Bars",
+  "url": "https://www.mob.co.uk/recipes/chocolatey-coconut-bars",
+  "summary": "All the chocolatey coconut vibes of that nostalgic treat, with a bounty of flavour in every bite. Make ahead for the ultimate pud or a quick snack to keep you going all week.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Chocolate-Coconut-Bars.jpg",
+  "cook_time": null,
+  "prep_time": 20,
+  "total_time": 80,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 232,
+    "protein": 2,
+    "fat": 17,
+    "saturated_fat": 13,
+    "carbohydrates": 17,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 24
+  },
+  "ingredients": [
+    {
+      "label": "160g Unsweetened Shredded Coconut",
+      "quantity": "160",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Coconut Cream",
+      "quantity": "120",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Maple Syrup",
+      "quantity": "4",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coconut Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp vanilla extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coconut Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": null,
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "flaky sea salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a saucepan with a little water and set it over a medium heat. Break the chocolate into a heatproof bowl, add the coconut oil, then place it on top of the pan (making sure the base doesn’t touch the water). Let everything melt gently, stirring until smooth."
+    },
+    {
+      "heading": null,
+      "description": "In a large mixing bowl, combine the shredded coconut, coconut cream, maple syrup, coconut oil, vanilla extract and a pinch of sea salt. Mix until it all comes together – it should hold its shape when pressed."
+    },
+    {
+      "heading": null,
+      "description": "Use your hands to form the mixture into 8 to 10 bars. Place them on a baking tray lined with baking parchment and freeze for 10-15 mins until firm."
+    },
+    {
+      "heading": null,
+      "description": "Once the bars are set, dip each one into the melted chocolate until fully coated. Lay them back on the tray."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle with extra shredded coconut and a little flaky salt, if using. Pop in the fridge again for about 15 mins until the chocolate sets. Once ready, wrap the bars in baking paper and chill or freeze until needed (these last for a week in the fridge and 3 months in the freezer)."
+    }
+  ],
+  "tips": [
+    "Use the thick top layer from a chilled can of coconut milk if you can’t find coconut cream.",
+    "Bars keep for up to a week in the fridge or 3 months in the freezer.",
+    "Eat straight from the freezer for a proper chewy bite."
+  ],
+  "categories": [],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Rachel Pamart",
+      "uri": "chefs/rachel-pamart",
+      "summary": "Rachel is the founder of Rawlala, a cold-pressed juicery based in East London. She came to clean, holistic eating by tuning into what made her feel most alive and now she channels that into expert, ingredient-led recipes designed to nourish, energise, and taste damn good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-01T14:15:00+00:00"
+}

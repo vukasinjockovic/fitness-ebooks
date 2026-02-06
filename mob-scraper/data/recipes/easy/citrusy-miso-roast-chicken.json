@@ -1,0 +1,305 @@
+{
+  "id": "6956899",
+  "slug": "citrusy-miso-roast-chicken",
+  "title": "Citrusy Miso Roast Chicken with Pickled Chilli & Chive Dressing",
+  "url": "https://www.mob.co.uk/recipes/citrusy-miso-roast-chicken",
+  "summary": "Roast chicken has always been one of my favourite things on the planet, and in this recipe, which takes inspiration from Ottolenghi's miso butter onions, the miso gives it a buttery, savoury boost and the citrus cuts through the richness. When it was topped with the vinegary dressing, my brother said it was the nicest roast chicken he'd had.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Seemas-Roast-Chicken.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 33,
+    "fat": 33,
+    "saturated_fat": 10,
+    "carbohydrates": 36,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 553
+  },
+  "ingredients": [
+    {
+      "label": "1 Whole Chicken",
+      "quantity": "1",
+      "unit": null,
+      "name": "Whole Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Whole Chicken",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Shallots",
+      "quantity": "200",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Baby New Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Baby New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Baby New Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Tarragon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Tarragon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch Fresh Chives",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Green Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tsp Salt",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Olive Oil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Using a pair of kitchen scissors, cut the backbone out of the chicken. Flip it over and press firmly on the breast to flatten the chicken, then turn out the legs so they are facing outwards."
+    },
+    {
+      "heading": null,
+      "description": "For the marinade, squeeze the orange, lemon and lime juice into a large bowl. Crush and add the garlic and coriander seeds, along with the brown sugar, miso paste and dried tarragon."
+    },
+    {
+      "heading": null,
+      "description": "Place the chicken in the marinade, skin side down, and optionally leave to marinate for 30 mins to 1 hr, but no longer, as the citrus can start to cure the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Place the potatoes and peeled whole shallots on a large baking tray and dot with knobs of butter. Put the chicken on top of the potatoes and pour the marinade over the top."
+    },
+    {
+      "heading": null,
+      "description": "Roast in the oven for 45 mins, spooning the marinade over every 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken is cooked and the juices run clear, remove from the oven and place on a chopping board. Leave to rest for 15 mins. Meanwhile return the potatoes and shallots to the oven for a further 15 mins to crisp up."
+    },
+    {
+      "heading": null,
+      "description": "To make the dressing, finely chop the chives and place in a heatproof bowl."
+    },
+    {
+      "heading": null,
+      "description": "Toast the sesame seeds in a small pan until golden."
+    },
+    {
+      "heading": null,
+      "description": "Pound the chillies, salt and garlic in a pestle and mortar (alternatively, you can use a mini food processor, or finely chop or grate the chillies and garlic by hand)."
+    },
+    {
+      "heading": null,
+      "description": "Add the oil to the sesame seeds along with the pounded garlic mix. Allow to sizzle for 2 mins, then pour over the chives in the bowl. Stir in the rice vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken has rested, slice it into thighs, legs, wings and breast. Serve on top of the potatoes and shallots, and spoon over the tangy chive mix."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "High Fibre",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-21T09:00:00+00:00"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "3666377",
+  "slug": "peachy-tahini-toast",
+  "title": "Peachy Tahini Toast",
+  "url": "https://www.mob.co.uk/recipes/peachy-tahini-toast",
+  "summary": "Toasted in the oven upside down to keep all the moisture in the peach so it stays juicy and delicious. Perfect with my nutty dukkah which you can find on site.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/IMG_6079.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 355,
+    "protein": 8,
+    "fat": 16,
+    "saturated_fat": 2,
+    "carbohydrates": 48,
+    "dietary_fibre": 6,
+    "sugars": 22,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Tahini",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices Of Wholegrain Toast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Wholegrain Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Peaches",
+      "quantity": "3",
+      "unit": null,
+      "name": "Peach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Handful Of Your Favourite Nuts",
+      "quantity": null,
+      "unit": null,
+      "name": "Nut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Agave Or Maple Syrup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C. Slice the peaches. Chop the nuts."
+    },
+    {
+      "heading": null,
+      "description": "Lay a sheet of baking paper on a baking tray. Sprinkle the nuts on the sheet to around the size of your bread slice. Drizzle some agave onto the nuts, then lay the sliced peach over the nuts."
+    },
+    {
+      "heading": null,
+      "description": "Generously spread your bread with tahini. Lay the bread onto the nuts, and press down gently so it sticks."
+    },
+    {
+      "heading": null,
+      "description": "Toast in the oven for around 5 mins or until your bread is as toasted as you like it."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and lay a plate or another tray on top of the toast. Carefully flip it over and remove the baking paper. Best served immediately. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-15T15:09:00+01:00"
+}

@@ -1,0 +1,345 @@
+{
+  "id": "1808714",
+  "slug": "blue-cheese-and-leek-cannelloni",
+  "title": "Blue Cheese and Leek Cannelloni",
+  "url": "https://www.mob.co.uk/recipes/blue-cheese-and-leek-cannelloni",
+  "summary": "Gizzi Erskine makes an incredible cannelloni using Castello Danish Blue. Loaded up with leeks and spinach, this dish is an absolute belter.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/849A1691.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 150,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 31,
+    "fat": 39,
+    "saturated_fat": 23,
+    "carbohydrates": 48,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 1020
+  },
+  "ingredients": [
+    {
+      "label": "1 Bulb Of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.4kg Vine Ripened Tomatoes",
+      "quantity": "1400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sherry Vinegar (or Red Wine Vinegar)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch Of Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Generous Grating Of Nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Butter",
+      "quantity": "25",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Flour",
+      "quantity": "25",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Leeks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Crème Fraîche",
+      "quantity": "200",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Castello Danish Blue Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Blue Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Castello Danish Blue Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Generous Grating Of Nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cannelloni Tubes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cannelloni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cannelloni Tubes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Separate your cloves from the bulb of garlic. Peel and finely chop them."
+    },
+    {
+      "heading": null,
+      "description": "Heat 2 tbsp of olive oil in a heavy-based casserole over a medium-low heat. Gently fry the garlic for 5 mins until softened and lightly golden, but don't let it burn."
+    },
+    {
+      "heading": null,
+      "description": "Quarter your tomatoes, then pour them into the pan. Season well, then add the vinegar and cook slowly on a low heat for an hour, so the sauce has reduced to a deep, concentrated flavour."
+    },
+    {
+      "heading": null,
+      "description": "Blitz the sauce with a stick blender until it is perfectly smooth. Tear up the basil leaves and stir through."
+    },
+    {
+      "heading": null,
+      "description": "For the béchamel, warm the milk, bay leaf and a generous grating of nutmeg in a saucepan. Remove from the heat and leave it to infuse for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "In a separate saucepan, melt the butter. Whisk in the flour, then cook out for 2 mins. Slowly add the milk bit by bit, whisking as you go to achieve a smooth consistency. Continue whisking until the milk is all combined and the sauce looks glossy."
+    },
+    {
+      "heading": null,
+      "description": "Bring the béchamel to the boil slowly to thicken it, scraping the base of the pan with a wooden spoon to avoid scorching."
+    },
+    {
+      "heading": null,
+      "description": "Tear up the mozzarella and add this to the béchamel. Beat with a wooden spoon until the mozzarella is completely melted. Season to taste with salt and pepper and a little bit more grated nutmeg."
+    },
+    {
+      "heading": null,
+      "description": "Now make the filling. Heat 1 tbsp of olive oil in a pan set over a medium heat. Wilt the spinach for 2 mins. Remove from the pan and squeeze out any water from the spinach in a sieve over the sink."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your spinach and slice your leeks."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in the same pan and add the leeks. Sweat for 5 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Mix the crème fraîche and Castello Danish Blue together in a bowl, then add your spinach, leeks, nutmeg, salt and pepper until well combined. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the spinach mixture into a piping bag, squeezing the mixture towards the nozzle so it is nicely compact and ready to pipe."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C/400°F."
+    },
+    {
+      "heading": null,
+      "description": "Pipe the filling into each cannelloni. Repeat until all the pasta and filling is used up."
+    },
+    {
+      "heading": null,
+      "description": "Take a medium-size ceramic baking dish, (approx. 26cm), pour in half the tomato sauce, and then neatly arrange the filled cannelloni on top, packing them in tightly."
+    },
+    {
+      "heading": null,
+      "description": "Press them down a little into the sauce so the cannelloni are partially submerged in the tomato sauce. Pour the rest of the tomato sauce on top, followed by the béchamel."
+    },
+    {
+      "heading": null,
+      "description": "Grate over the Parmesan. Place in the hot oven for 30 mins until the cheese is delicious and bubbling."
+    },
+    {
+      "heading": null,
+      "description": "Leave to stand for 5 mins before serving with a green salad and crusty bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Batch",
+    "Freezer Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-04-04T09:00:00+01:00"
+}

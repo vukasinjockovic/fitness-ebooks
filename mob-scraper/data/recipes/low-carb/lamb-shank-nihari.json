@@ -1,0 +1,435 @@
+{
+  "id": "3965341",
+  "slug": "lamb-shank-nihari",
+  "title": "Lamb Shank Nihari",
+  "url": "https://www.mob.co.uk/recipes/lamb-shank-nihari",
+  "summary": "This beautiful Lamb Shank Nihari is made using a pressure cooker and a lot of love. The layers of flavour in this recipe are next level.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Lamb-Shank-Nihari.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 367,
+    "protein": 22,
+    "fat": 27,
+    "saturated_fat": 10,
+    "carbohydrates": 10,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 682
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Ghee",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ghee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Lamb Shanks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ginger Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Full Fat Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ghee",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ghee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Red Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Kashmiri Red Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½  Tsp Coriander Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ginger Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ginger",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Citric Acid",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Citric Acid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tbsp Fennel Seeds",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Black Peppercorn",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Black Cardamom Pods",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Green Cardamoms Pods",
+      "quantity": "4",
+      "unit": null,
+      "name": "Green Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cloves",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Nutmeg Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Mace Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Mace",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Star Anise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Long Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Plain Flour",
+      "quantity": "3",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-Inch Knob of Ginger",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Green Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by patting the lamb shanks dry with a kitchen towel and season with salt. Sear in 1 tsp of veg oil and ghee, then put aside."
+    },
+    {
+      "heading": null,
+      "description": "To a pan, add finely chopped onion, brown for 5 mins on high, then add ginger and garlic paste, cook for 2 mins then add everything listed under ‘for the base’, cook down for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Whisk yoghurt and add it, keep stirring."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the spices for the nihari masala and grind to a fine powder, save a tsp and add the rest to the pan (with the yoghurt) and keep stirring for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the lamb and the curry base (comprised of ingredients listed in the 'For The Base' section) to the pressure cooker along with 2 green chillies, ½ inch of sliced ginger, and 6 cups of water."
+    },
+    {
+      "heading": null,
+      "description": "Bring it to the boil then pop the lid on, once the pressure is high, turn the heat down to low and cook for 18 mins."
+    },
+    {
+      "heading": null,
+      "description": "Release the pressure and skim off the excess oil, save this for later."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat up and let the sauce reduce for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Mix flour with water to create a slurry and add it to the nihari ."
+    },
+    {
+      "heading": null,
+      "description": "Simmer till the sauce has thickened and reduced by a quarter."
+    },
+    {
+      "heading": null,
+      "description": "Serve with julienned ginger, coriander, chopped chillies and reserved oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Pakistani"
+  ],
+  "chefs": [
+    {
+      "name": "Zainab Pirzada",
+      "uri": "chefs/zainab-pirzada",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-12T00:00:00+01:00"
+}

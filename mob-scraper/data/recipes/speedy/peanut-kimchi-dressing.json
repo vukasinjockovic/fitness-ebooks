@@ -1,0 +1,123 @@
+{
+  "id": "5144379",
+  "slug": "peanut-kimchi-dressing",
+  "title": "Peanut Kimchi Dressing",
+  "url": "https://www.mob.co.uk/recipes/peanut-kimchi-dressing",
+  "summary": "A creamy, spicy dressing that'll taste great on literally anything. The secret ingredient? Kimchi brine.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Peanut-Kimchi-Dressing.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 97,
+    "protein": 2,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 7,
+    "dietary_fibre": 1,
+    "sugars": 5,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "5 Tbsp Kimchi Brine",
+      "quantity": "5",
+      "unit": null,
+      "name": "Kimchi Brine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Smooth Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the kimchi brine, honey, peanut butter and vinegar in a mixing bowl. Stir to combine before adding the olive oil and seasoning well with salt and pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-08T09:27:00+00:00"
+}

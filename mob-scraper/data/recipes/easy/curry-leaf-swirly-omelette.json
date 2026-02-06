@@ -1,0 +1,158 @@
+{
+  "id": "7165614",
+  "slug": "curry-leaf-swirly-omelette",
+  "title": "Curry Leaf Swirly Omelette",
+  "url": "https://www.mob.co.uk/recipes/curry-leaf-swirly-omelette",
+  "summary": "Golden, turmeric-spiked eggs swirled with crispy curry leaves and flopped onto hot rice. Savoury, speedy, and seriously comforting.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Curry-Leaf-Swirly-Omelette.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 427,
+    "protein": 16,
+    "fat": 18,
+    "saturated_fat": 4,
+    "carbohydrates": 46,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 473
+  },
+  "ingredients": [
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Curry Leaves",
+      "quantity": "7",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cooked Rice",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cooked Rice",
+      "quantity": "125",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Soy Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "ketchup",
+      "quantity": null,
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crack the eggs into a bowl, season with salt and whisk the turmeric in. Set aside for a couple of minutes."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the rice."
+    },
+    {
+      "heading": null,
+      "description": "Set a non-stick pan over medium heat with a drizzle of oil. Add in the curry leaves and leave until they stop crackling. Pour the eggs in and leave to set for 15 secs before giving it a scramble. Once the egg starts to set, leave it alone until its cooked through, then remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Slide the omelette onto the rice, serve with a blob of ketchup and splash the soy sauce over the top. Dig in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-31T07:00:00+01:00"
+}

@@ -1,0 +1,198 @@
+{
+  "id": "7058087",
+  "slug": "leek-y-parmesan-chickpeas",
+  "title": "Leek-y Parmesan Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/leek-y-parmesan-chickpeas",
+  "summary": "These creamy, cheesy chickpeas go great with just about everything. Serve them with fluffy rice or flatbreads for a full-on meal. We love quick chickpea recipes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Leek-y-Parmesan-Chickpeas.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 258,
+    "protein": 12,
+    "fat": 11,
+    "saturated_fat": 3,
+    "carbohydrates": 25,
+    "dietary_fibre": 6,
+    "sugars": 5,
+    "sodium": 429
+  },
+  "ingredients": [
+    {
+      "label": "4 small leeks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 garlic cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 garlic cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp chilli flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Dijon mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g cooked chickpeas, drained",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g cooked chickpeas, drained",
+      "quantity": "480",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml chicken stock",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Parmesan",
+      "quantity": "60",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash, trim, and slice the leeks in half lengthways, then cut into thin half-moons. Thinly slice the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat a little olive oil in a large frying pan over medium heat. Add the leeks and garlic, then cook for 8–10 minutes, stirring occasionally, until soft and jammy."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the Dijon mustard and chilli flakes, then cook for another minute."
+    },
+    {
+      "heading": null,
+      "description": "Add the drained chickpeas and chicken stock, then bring to a simmer. Cook for 3–4 minutes, stirring occasionally, until the mixture thickens and becomes creamy."
+    },
+    {
+      "heading": null,
+      "description": "Grate in the Parmesan and season to taste with salt, black pepper, and a squeeze of lemon juice. Serve immediately."
+    }
+  ],
+  "tips": [
+    "Store leftovers in an airtight container in the fridge for up to 4 days.",
+    "To freeze, portion into containers and freeze for up to 3 months. Defrost in the fridge overnight and reheat in a pan or microwave.",
+    "This dish works well for meal prep—reheat portions throughout the week for a quick and nutritious meal.",
+    "Swap chickpeas for butter beans or cannellini beans.",
+    "Use vegetable stock instead of chicken stock for a vegetarian option.",
+    "Replace Parmesan with nutritional yeast for a dairy-free alternative."
+  ],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Calorie",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-01T10:02:00+00:00"
+}

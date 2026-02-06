@@ -1,0 +1,186 @@
+{
+  "id": "4250",
+  "slug": "asparagus-carbonara",
+  "title": "Chargrilled Asparagus Carbonara",
+  "url": "https://www.mob.co.uk/recipes/asparagus-carbonara",
+  "summary": "A tasty twist on the traditional carbonara.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Chargrilled-Asparagus-Carbonara.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 37,
+    "fat": 34,
+    "saturated_fat": 11,
+    "carbohydrates": 72,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "200g Asparagus",
+      "quantity": "200",
+      "unit": null,
+      "name": "Asparagus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Eggs",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Bacon",
+      "quantity": "300",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Thyme",
+      "quantity": "25",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Linguine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice your asparagus in half, down the long side of the stalk. Grill the asparagus until charred on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Get your pasta on."
+    },
+    {
+      "heading": null,
+      "description": "Separate the yolks from the eggs and put them in a separate bowl. Add salt, pepper, Parmesan and the zest of a whole lemon to your egg yolks. Mix until combined."
+    },
+    {
+      "heading": null,
+      "description": "Dice your bacon and fry in olive oil until cooked."
+    },
+    {
+      "heading": null,
+      "description": "Chop the thyme finely and slice the garlic into thin discs. Add the grilled asparagus with the thyme and garlic followed by a cup of pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat off under the sauce pan. Drain the linguine (but save the pasta water) and add to the pan, followed by the egg mix. Toss the contents of your pan with tongs to make sure everything is mixed evenly and the creamy sauce is smooth. Stir in another cup of pasta water for extra creaminess. Dish up and get stuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-05-17T00:00:00+01:00"
+}

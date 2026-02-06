@@ -1,0 +1,110 @@
+{
+  "id": "4575015",
+  "slug": "dalgona-coffee",
+  "title": "Dalgona Coffee",
+  "url": "https://www.mob.co.uk/recipes/dalgona-coffee",
+  "summary": "This sweet and delicious coffee drink orignates from Macau and became a global sensation during lockdown. Try out this Dalgona coffee recipe today.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Dalgona-Coffee.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 97,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 25,
+    "dietary_fibre": 0,
+    "sugars": 25,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Instant Coffee",
+      "quantity": "2",
+      "unit": null,
+      "name": "Instant Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Ice Cubes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cocoa Powder, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Simply put all the ingredients into a blender and blend it up until soft and foamy."
+    },
+    {
+      "heading": null,
+      "description": "Spoon into a glass and dust with cocoa powder."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-25T13:41:00+01:00"
+}

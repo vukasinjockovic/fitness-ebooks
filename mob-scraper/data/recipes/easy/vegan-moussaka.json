@@ -1,0 +1,353 @@
+{
+  "id": "4833733",
+  "slug": "vegan-moussaka",
+  "title": "Vegan Moussaka",
+  "url": "https://www.mob.co.uk/recipes/vegan-moussaka",
+  "summary": "This is a classic Greek and Cypriot recipe, made with healthy, plant-based ingredients. It’s a cosy, homely dish that’s perfect for a Sunday lunch. This makes a huge portion but it freezes well, or feel free to halve the recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Vegan-Moussaka.jpg",
+  "cook_time": 30,
+  "prep_time": 60,
+  "total_time": 95,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 482,
+    "protein": 9,
+    "fat": 32,
+    "saturated_fat": 5,
+    "carbohydrates": 36,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 262
+  },
+  "ingredients": [
+    {
+      "label": "1kg Starchy Potatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Aubergines",
+      "quantity": "700",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Puy or Beluga Lentils",
+      "quantity": "300",
+      "unit": null,
+      "name": "Puy Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Puy or Beluga Lentils",
+      "quantity": "300",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Chopped Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Balsamic Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5–7 Sun Dried Tomatoes (About 60g)",
+      "quantity": "60",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5–7 Sun Dried Tomatoes (About 60g)",
+      "quantity": "60",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Walnuts (Swap for Sunflower Seeds for Nut-Free Option)",
+      "quantity": "70",
+      "unit": null,
+      "name": "Walnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Parsley",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Nutritional Yeast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Breadcrumbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130ml Olive Oil",
+      "quantity": "130",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Unsweetened Plant Milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Unsweetened Soy Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Nutritional Yeast",
+      "quantity": "4",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "You’ll need a large baking dish for this. I used a round, 38cm diameter baking dish but you could use a large rectangular one."
+    },
+    {
+      "heading": null,
+      "description": "Start by soaking your lentils for at least 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C Fan."
+    },
+    {
+      "heading": null,
+      "description": "Wash and peel the potatoes and slice them about 1cm thick. Lay them onto a lined baking tray and brush with olive oil and season with salt and pepper. Bake for 20 mins, then flip, brush with a little more olive oil and bake for another 15 mins. They should be cooked through but not too crispy on the edges."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, wash the aubergines and slice 1.5cm thick. Lay them on another baking tray and brush with olive oil and season with salt and pepper. Bake below the potatoes for 20 mins, flip and brush with a little more oil, then bake for another 5-8 mins until softened and golden."
+    },
+    {
+      "heading": null,
+      "description": "To make the lentil filling, finely chop the onions and mince the garlic. Add 3 tbsp of sun dried tomato oil to a large pan or pot. Sweat down the onions on medium heat for about 8-10 mins until translucent. Add the garlic and tomato paste and cook for 1 -2 mins before adding the chopped tomatoes, then fill each tin with water and add that in too. Drain the lentils well and add these to the pot. Season well with salt and pepper and cook for 20-25 mins until the lentils have softened. Add the soy sauce and balsamic vinegar and cook on high for 3 mins, then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the walnuts, parsley and the sun dried tomatoes and add them to the lentils. Add the nutritional yeast and season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add another tbsp of sun dried tomato oil at the end if you like, for extra richness."
+    },
+    {
+      "heading": null,
+      "description": "For the béchamel, heat a large saucepan or deep frying pan over low heat and add the olive oil and flour. Use a spatula or a whisk (take care not to use a metal whisk on a non-stick coating) to stir the roux, it will thicken and clump together, but stir as many lumps out as you can. Add the milk very slowly, whisking constantly as you go to get it smooth. Keep adding milk until you have added all of it. \nAdd the nutritional yeast, garlic powder, dijon mustard and plenty of salt and pepper. Keep it on a medium-low heat and stir continuously for about 10-15 mins until the sauce has thickened. It should be fairly thick. Taste and adjust seasonings."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tomatoes 1cm thick."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, lay the cooked potatoes down first into the baking dish, then spread the lentil mixture, then the tomatoes and finally the aubergines."
+    },
+    {
+      "heading": null,
+      "description": "Pour the béchamel over the top of the aubergines and spread it evenly. Sprinkle with the breadcrumbs and nutritional yeast, a little salt and pepper and finish with a drizzle of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Bake at 200°C for 30-35 mins until the béchamel has a nice golden crust. Allow to cool for at least 10 mins before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-01-05T10:30:00+00:00"
+}

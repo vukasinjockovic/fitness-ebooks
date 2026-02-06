@@ -1,0 +1,159 @@
+{
+  "id": "3212770",
+  "slug": "fried-eggs-with-yoghurt-and-zaatar",
+  "title": "Fried Eggs with Yoghurt and Za’atar",
+  "url": "https://www.mob.co.uk/recipes/fried-eggs-with-yoghurt-and-zaatar",
+  "summary": "This super simple breakfast is a bit of a twist on regular fried eggs on toast. The yoghurt is a perfect creamy base for the fragrant fried eggs. Jordon x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Fried-Eggs-with-Yoghurt-and-Za%E2%80%99atar.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 28,
+    "fat": 31,
+    "saturated_fat": 7,
+    "carbohydrates": 56,
+    "dietary_fibre": 5,
+    "sugars": 6,
+    "sodium": 484
+  },
+  "ingredients": [
+    {
+      "label": "8 Slices of Sourdough",
+      "quantity": "512",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Thick Greek Yoghurt",
+      "quantity": "500",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Thick Greek Yoghurt",
+      "quantity": "500",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 British Lion Eggs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Za’atar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Lightly toast your bread, and then spread with a generous amount of the Greek yoghurt."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, warm 100ml of olive oil in a non-stick pan and fry the eggs. Season with salt and once they are almost cooked, add the za’atar and chilli to the oil."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the fragrant oil over the eggs to cook the top, then pop them onto the toast and add another drizzle of the oil."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop some mint and sprinkle over the top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-03-20T10:00:00+00:00"
+}

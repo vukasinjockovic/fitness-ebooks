@@ -1,0 +1,155 @@
+{
+  "id": "3882034",
+  "slug": "rubens-latkes",
+  "title": "Ruben’s Latkes",
+  "url": "https://www.mob.co.uk/recipes/rubens-latkes",
+  "summary": "Ruben Dawnay's from Ruben's Reubens has shown us his take on a latke, and they are sublime. Who doesn't love a crispy fried potato cake?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Ruben%E2%80%99s-Latkes.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 181,
+    "protein": 4,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 27,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 245
+  },
+  "ingredients": [
+    {
+      "label": "700g Baking Potatoes (We Like Maris Piper)",
+      "quantity": "700",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Baking Potatoes (We Like Maris Piper)",
+      "quantity": "700",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Onion, Peeled",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil, For Shallow Frying",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, grate the potatoes and onion into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Using a clean tea towel, squeeze as much liquid out of the potato mixture as possible. You can do this is in a couple of small batches. Place back into a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, crack the eggs and give them a whisk."
+    },
+    {
+      "heading": null,
+      "description": "Add the eggs, flour and salt to the potato then give it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "You should be able to form some loose patties with the mixture. Feel free to add a little more flour if you think it needs more binding."
+    },
+    {
+      "heading": null,
+      "description": "Once you’re happy with the mixture, place a large frying pan on medium heat and fill with about 2 inches of oil."
+    },
+    {
+      "heading": null,
+      "description": "When the pan is hot, squeeze a golf ball-sized amount of mix between your palms to make a patty. Place carefully into the oil and repeat until the pan is full (leaving a bit of space between each latke)."
+    },
+    {
+      "heading": null,
+      "description": "Fry for about 5 minutes, or until golden, then flip and do the same again."
+    },
+    {
+      "heading": null,
+      "description": "Remove to a kitchen paper-lined plate and season with a little more salt."
+    },
+    {
+      "heading": null,
+      "description": "Serve with your condiment of choice, but traditionally these are enjoyed with apple sauce and sour cream!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [
+    "Jewish"
+  ],
+  "chefs": [
+    {
+      "name": "Ruben Dawnay",
+      "uri": "chefs/ruben-dawnay",
+      "summary": "Ruben is an exciting talent and a man who knows his way around a smoker."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-01T12:00:00+00:00"
+}

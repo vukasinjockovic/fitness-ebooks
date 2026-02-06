@@ -1,0 +1,345 @@
+{
+  "id": "191424",
+  "slug": "lemongrass-chicken-schnitzel",
+  "title": "Crispy Lemongrass Chicken",
+  "url": "https://www.mob.co.uk/recipes/lemongrass-chicken-schnitzel",
+  "summary": "Lemongrass & chicken is a match made in heaven. So fragrant. The crunchy breadcrumb coating tops it off. We bake, rather than fry, to keep it healthy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A7979.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 34,
+    "fat": 34,
+    "saturated_fat": 6,
+    "carbohydrates": 32,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Panko Breadcrumbs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flax Seeds",
+      "quantity": "100",
+      "unit": null,
+      "name": "Whole Flaxseed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Plain Flour",
+      "quantity": "25",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Chilli Flakes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Radishes",
+      "quantity": "5",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Mint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cashews",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Desiccated Coconut",
+      "quantity": "1",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Squeeze of Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Lemongrass Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Mayo",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven at 180°C/356°F and line a baking tray with greaseproof paper."
+    },
+    {
+      "heading": null,
+      "description": "Prepare chicken breasts. Place a sheet of greaseproof on your work surface and fold in half to sandwich each piece of chicken between the two layers. Using a rolling pin, bash the chicken 2-3 cm thick. Do this in batches."
+    },
+    {
+      "heading": null,
+      "description": "Get three bowls. In bowl one, mix all the dry ingredients together (panko breadcrumbs, flax seeds, garlic granules, sesame seeds, chilli flakes, zest of the lemons, salt, pepper). In bowl two, whisk the egg and the soy together. Last but not least, in a shallow bowl pour out your flour."
+    },
+    {
+      "heading": null,
+      "description": "Dip each chicken breast into the egg then into the flour. Dust off any excess flour and then roll your chicken in the breadcrumbs. Fill in any gaps with egg and crumb."
+    },
+    {
+      "heading": null,
+      "description": "Place your chicken breasts on your baking tray and drizzle with olive oil. Then bake depending on your fillet size, however, we recommend 30 minutes making sure to turn your chicken pieces halfway through your cooking time. You want your chicken golden with a crisp texture."
+    },
+    {
+      "heading": null,
+      "description": "While your chicken is in the oven make your side salad. To start with, deseed and slice your cucumber. Thinly slice your radishes and chop your herbs (mint and coriander), mix in a generous amount of salt."
+    },
+    {
+      "heading": null,
+      "description": "Mix your fish sauce, sesame oil, rice vinegar, sugar, coconut (saving some for garnish) and lime juice together. Then mix with your salad veg."
+    },
+    {
+      "heading": null,
+      "description": "For your citrus mayo, mix up all your glaze ingredients - mayo, lemongrass and a dash of water."
+    },
+    {
+      "heading": null,
+      "description": "Chop your cashews then time to serve up. Thinly slice your chicken, spoon up some salad, a sprinkle of cashews and coconut, and drizzle of the citrus glaze."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-04-06T12:19:00+01:00"
+}

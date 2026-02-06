@@ -1,0 +1,285 @@
+{
+  "id": "7707842",
+  "slug": "crispy-chicken-katsu-salad-with-curry-dressing",
+  "title": "Crispy Fish Finger Katsu Salad with Curry Dressing",
+  "url": "https://www.mob.co.uk/recipes/crispy-chicken-katsu-salad-with-curry-dressing",
+  "summary": "All the best bits of a katsu curry (crispy coating, curry mayo and pickles) but in a bright, crunchy salad. And yes, we’re using fish fingers.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Crispy-Chicken-Katsu-Salad-with-Curry-Dressing.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 495,
+    "protein": 16,
+    "fat": 19,
+    "saturated_fat": 2,
+    "carbohydrates": 64,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 751
+  },
+  "ingredients": [
+    {
+      "label": "20 Fish Fingers",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fish Finger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Mayonnaise",
+      "quantity": "45",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Natural Yoghurt",
+      "quantity": "75",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Natural Yoghurt",
+      "quantity": "75",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Hispi Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hispi Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Hispi Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Radishes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Mango Chutney",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Seeds, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Fresh Coriander, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 210°C. Add the fish fingers to a baking tray and bake for 15 mins, turning halfway. You can also air-fry them at 180°C for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely slice the red onion. Add to a bowl with a big pinch of salt and the juice of half a lemon. Massage gently and set aside to pickle."
+    },
+    {
+      "heading": null,
+      "description": "Heat the olive oil in a small pan over a low heat. Grate in the garlic and cook for 30 secs until fragrant. Stir in the curry powder, cook for another 10 secs, then take it off the heat."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, mix together the yoghurt, mayonnaise and mango chutney. Add the garlic curry oil and stir to combine. Loosen the dressing with a splash of water (one tablespoon at a time) until it’s the consistency of double cream. Season with salt and pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Quarter the radishes. Halve the cucumber lengthways, then again into quarters. Chop into small chunks."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred the hispi cabbage and add to a large bowl with the remaining lemon juice, sesame oil and a pinch of salt. Massage for 1 min until it just starts to soften."
+    },
+    {
+      "heading": null,
+      "description": "Heat the rice according to pack instructions. Tip into the cabbage bowl along with the cucumber and radish, then toss everything together."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the salad between plates. Top with crispy fish fingers, a generous drizzle of curry dressing, the pickled onions, sesame seeds and fresh coriander."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-02T12:54:00+01:00"
+}

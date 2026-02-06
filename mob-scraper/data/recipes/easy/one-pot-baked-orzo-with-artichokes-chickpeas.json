@@ -1,0 +1,262 @@
+{
+  "id": "4570246",
+  "slug": "one-pot-baked-orzo-with-artichokes-chickpeas",
+  "title": "One-Pot Baked Orzo With Artichokes & Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/one-pot-baked-orzo-with-artichokes-chickpeas",
+  "summary": "I love a one pot number, especially when it’s got all of the elements to make a full meal in one. All of the flavour from the artichokes, pesto and shallots get absorbed by the orzo to make this really delicious dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/One-Pot-Baked-Orzo-With-Artichokes-Chickpeas.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 12,
+    "fat": 8,
+    "saturated_fat": 1,
+    "carbohydrates": 56,
+    "dietary_fibre": 6,
+    "sugars": 3,
+    "sodium": 110
+  },
+  "ingredients": [
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Orzo",
+      "quantity": "300",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Orzo",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Jarred Marinated Artichokes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Jarred Artichokes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Jarred Marinated Artichokes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Artichoke",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Artichoke Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Artichoke Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Chickpeas (Drained and Rinsed)",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Chickpeas (Drained and Rinsed)",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Baby Spinach",
+      "quantity": "50",
+      "unit": null,
+      "name": "Baby Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Baby Spinach",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegan Basil Pesto",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegan Basil Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegan Basil Pesto",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Flakes (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Water",
+      "quantity": "750",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pine Nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegan Cheese or Vegan Burrata (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegan Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the shallot and mince the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add the shallot, garlic, orzo, artichokes with some artichoke oil, drained chickpeas, spinach, pesto and chilli flakes if using to a large casserole dish with a lid. (If you don’t have one with a lid, you can cover it tightly with silver foil)."
+    },
+    {
+      "heading": null,
+      "description": "Add boiled water and season with plenty of salt and pepper, then stir well to combine."
+    },
+    {
+      "heading": null,
+      "description": "Cover with the lid (or foil) and bake for 20 mins. Remove the dish from the oven and stir well. Return to the oven for 5 mins with the lid off."
+    },
+    {
+      "heading": null,
+      "description": "While the orzo is baking, toast the pine nuts on the lower shelf for 4 mins."
+    },
+    {
+      "heading": null,
+      "description": "To finish, zest the lemon and squeeze the lemon juice over the orzo. Add the vegan cheese, if using, and finish with the pine nuts and fresh basil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-22T10:57:00+01:00"
+}

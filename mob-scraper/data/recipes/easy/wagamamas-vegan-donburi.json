@@ -1,0 +1,196 @@
+{
+  "id": "777338",
+  "slug": "wagamamas-vegan-donburi",
+  "title": "Vegan Don Buri",
+  "url": "https://www.mob.co.uk/recipes/wagamamas-vegan-donburi",
+  "summary": "Steve Mangleshot from Wagamama serves up a vegan rice bowl banger in the MOB studio.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/vegan-bowl-5_2020-09-25-081614.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 381,
+    "protein": 9,
+    "fat": 8,
+    "saturated_fat": 1,
+    "carbohydrates": 65,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 236
+  },
+  "ingredients": [
+    {
+      "label": "60g Mushrooms",
+      "quantity": "60",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2cm Knob of Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Silken Tofu",
+      "quantity": "100",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Silken Tofu",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Pea Shoots",
+      "quantity": "25",
+      "unit": null,
+      "name": "Peashoot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Prep your veg. Slice your mushrooms and spring onions, then finely chop your garlic and\nginger. Grate your carrot."
+    },
+    {
+      "heading": null,
+      "description": "Heat your wok over a high heat with a little glug of vegetable oil. Whack in your mushrooms,\ngarlic and ginger and stir fry for a few minutes until soft and going golden. Add 1 tbsp of\nyour soy sauce and stir to combine. Set aside and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Wipe your wok clean and add a little glug more vegetable oil over a high heat. Crumble your\ntofu into the pan and sprinkle over your turmeric with a pinch of salt. Fry for 3 minutes,\nbreaking up with the back of your spoon to scramble it. Add your remaining soy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Time to plate up. Divide your rice between four bowls, then top with your mushrooms,\nspring onions, grated carrot, tofu and pea shoots. Serve up and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-09-29T09:30:00+01:00"
+}

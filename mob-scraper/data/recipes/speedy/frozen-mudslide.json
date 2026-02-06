@@ -1,0 +1,136 @@
+{
+  "id": "3510964",
+  "slug": "frozen-mudslide",
+  "title": "Frozen Mudslide",
+  "url": "https://www.mob.co.uk/recipes/frozen-mudslide",
+  "summary": "Ice cream cocktail? Yes please, I'l take two.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9339.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 393,
+    "protein": 4,
+    "fat": 13,
+    "saturated_fat": 8,
+    "carbohydrates": 38,
+    "dietary_fibre": 1,
+    "sugars": 33,
+    "sodium": 61
+  },
+  "ingredients": [
+    {
+      "label": "25ml Vodka",
+      "quantity": "25",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Baileys",
+      "quantity": "25",
+      "unit": null,
+      "name": "Baileys",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Kahlúa",
+      "quantity": "25",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vanilla ice cream",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vanilla Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vanilla ice cream",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crushed Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Crushed Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chocolate Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chocolate Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Chocolate",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put your crushed ice, vanilla ice cream and all the alcohol in the blender and blitz until smooth in texture."
+    },
+    {
+      "heading": null,
+      "description": "Squirt the chocolate sauce around the inside of the glass in a fun pattern, then pour in your blended drink."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with some grated chocolate and dig in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-17T15:00:00+01:00"
+}

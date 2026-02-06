@@ -1,0 +1,188 @@
+{
+  "id": "5055264",
+  "slug": "chicken-caesar-chopped-salad",
+  "title": "Chicken Caesar Chopped Salad",
+  "url": "https://www.mob.co.uk/recipes/chicken-caesar-chopped-salad",
+  "summary": "A simple chopped salad inspired by the greatest salad of all time – the chicken caesar.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Chicken-Caesar-Chopped-Salad.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 466,
+    "protein": 33,
+    "fat": 19,
+    "saturated_fat": 5,
+    "carbohydrates": 43,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 1011
+  },
+  "ingredients": [
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sourdough Bread",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Heads of Romaine Lettuce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan Cheese, plus extra to serve",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Mayo",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan Cheese",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Anchovies",
+      "quantity": "25",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Put the two chicken breasts on a tray and drizzle with a little olive oil. Season well and slide into the oven and bake for 20 mins, until cooked through. Set aside until cool."
+    },
+    {
+      "heading": null,
+      "description": "Tear the bread into chunky croutons, whack on a baking tray and drizzle with olive oil. Season with salt and pepper. Slide into the oven for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pan of salted water to the boil, drop in the Tenderstem broccoli and cook for 2 mins, then remove and set aside on a plate to cool."
+    },
+    {
+      "heading": null,
+      "description": "Add the romaine lettuce halves to a board with the cooked chicken, Tenderstem broccoli and parmesan cheese. Chop together, then slide into a large bowl. Combine the dressing ingredients, then add the croutons and capers and drizzle with the dressing. Toss well then tip onto plates. Top with an extra grating of parmesan cheese."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Most Cooked",
+    "High Fibre",
+    "Power Protein",
+    "Accessible Method",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-12T07:00:00+00:00"
+}

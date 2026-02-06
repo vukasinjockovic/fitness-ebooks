@@ -1,0 +1,138 @@
+{
+  "id": "7064845",
+  "slug": "lunch-dressing-jalapeno-caesar-dressing",
+  "title": "Jalapeño Caesar Dressing",
+  "url": "https://www.mob.co.uk/recipes/lunch-dressing-jalapeno-caesar-dressing",
+  "summary": "A nice and spicy dressing you can throw on anything.Big on umami, this one.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Jalapeno-Caesar-Dressing.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 110,
+    "protein": 2,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 1,
+    "dietary_fibre": 0,
+    "sugars": 0,
+    "sodium": 243
+  },
+  "ingredients": [
+    {
+      "label": "6 Tbsp Mayonnaise",
+      "quantity": "6",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Anchovies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Pickled Jalapeño",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fresh Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Parmesan",
+      "quantity": "10",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the garlic and finely chop the pickled jalapeños."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic to a pestle and mortar (if you don't have one use a blender or just finely chop everything), smash the garlic then add the anchovies, smooshing them into a paste."
+    },
+    {
+      "heading": null,
+      "description": "Add the jalapeños and keep smooshing until it comes together, then add the mayo and the lemon zest before juicing in half of the lemon – taste and adjust with the remaining lemon juice if needed. Grate in the Parmesan. Give it a good season with some black pepper and taste again. If you think it needs salt, add it."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-29T00:00:00+00:00"
+}

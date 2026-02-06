@@ -1,0 +1,200 @@
+{
+  "id": "14838",
+  "slug": "mascarpone-red-pesto-stuffed-chicken-breasts",
+  "title": "Mascarpone & Red Pesto Stuffed Chicken Breasts",
+  "url": "https://www.mob.co.uk/recipes/mascarpone-red-pesto-stuffed-chicken-breasts",
+  "summary": "A really simple, clean dish. Stuffed chicken breasts taken to a new level.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/IMG_1776.jpeg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 44,
+    "fat": 27,
+    "saturated_fat": 10,
+    "carbohydrates": 62,
+    "dietary_fibre": 6,
+    "sugars": 4,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "400g Bulgur Wheat",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bulgur Wheat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mascarpone",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tsp Dried Oregano",
+      "quantity": "5",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Chuck all of your spinach in a pan and wilt it. Remove from the heat. Place the wilted spinach in a sieve and squeeze out the water."
+    },
+    {
+      "heading": null,
+      "description": "Put the spinach in a bowl. Add red pesto and mascarpone. Season with salt and pepper and mush everything together."
+    },
+    {
+      "heading": null,
+      "description": "In another bowl, add oregano, the zest of a lemon, salt and pepper. (This will be the rub to go on the outside of the breasts). Mix it together and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chicken Time. Take each chicken breast and cut a hole in the thicker side of the breast. Use your fingers to prod away until you have made a cavity inside the breast."
+    },
+    {
+      "heading": null,
+      "description": "Spoon in your filling to each chicken breast. You want them to be really filled up. Once you have done this to all the chicken, roll them in the oregano and lemon zest rub."
+    },
+    {
+      "heading": null,
+      "description": "Get a pan on a medium heat. Add a drizzle of olive oil and then add your chicken. Cook for 4 minutes on each side so they are nicely browned and caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Place the pan in the oven for 12 minutes, until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Add the bulgur wheat to a pan of boiling water and crumble in a chicken stock cube for extra flavour. Cook according to pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Serve the breasts on the steaming hot bulgur wheat with some lemon juice squeezed over the top. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2017-10-05T00:00:00+01:00"
+}

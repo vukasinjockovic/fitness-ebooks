@@ -1,0 +1,298 @@
+{
+  "id": "5861",
+  "slug": "one-pot-beef-shin-lasagne",
+  "title": "One Pot Beef Shin Lasagne",
+  "url": "https://www.mob.co.uk/recipes/one-pot-beef-shin-lasagne",
+  "summary": "Sticky, pull-apart beef shin is a great way to fill a lasagne. Our zero-cook white sauce is also 10/10. Give this one a go MOB.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/One-Pot-Beef-Shin-Lasagne.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 300,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 857,
+    "protein": 48,
+    "fat": 51,
+    "saturated_fat": 25,
+    "carbohydrates": 44,
+    "dietary_fibre": 4,
+    "sugars": 11,
+    "sodium": 1162
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots ",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks ",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Beef Shin Pieces",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef Shin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Beef Shin Pieces",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pancetta ",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Bay Leaves ",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Whole Plum Tomatoes (2 Tins)",
+      "quantity": "800",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Whole Plum Tomatoes (2 Tins)",
+      "quantity": "800",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "187ml Red Wine",
+      "quantity": "187",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Marmite ",
+      "quantity": "1",
+      "unit": null,
+      "name": "Marmite",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mascarpone",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Whole Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Nutmeg ",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan ",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "9 Lasagne Sheets ",
+      "quantity": "9",
+      "unit": null,
+      "name": "Lasagne",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 170°C/338°F."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion, carrot, celery and garlic cloves. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Season the beef shin pieces generously with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Pour a good glug of oil into a shallow ovenproof casserole dish/frying pan, fry the beef over a high heat in batches until browned on all sides. Set aside on a plate."
+    },
+    {
+      "heading": null,
+      "description": "Turn down the heat, add the pancetta and fry until crisp. Add the onion, carrot, celery and garlic. Cook until softened."
+    },
+    {
+      "heading": null,
+      "description": "Add the bay leaves, plum tomatoes and red wine. Add the beef and all its juices back into the pan. Season generously, place the lid/tin foil on top and place in the oven for 3 hours. You want the meat to be falling apart and to have a thick tomato sauce."
+    },
+    {
+      "heading": null,
+      "description": "Once cooked, stir through the marmite - this will dial up the meaty flavour. Use two forks to shred the meat. Season to taste and tip the sauce into a large bowl. Don’t clean the pan."
+    },
+    {
+      "heading": null,
+      "description": "Mix the ricotta and mascarpone with the milk so that it becomes a spreadable consistency. Grate in a good amount of nutmeg and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Time to assemble the lasagne. Spoon a small amount of meat into the bottom of the dish, top with a layer of lasagne sheets, you will need to break one sheet per layer, followed by a decent layer of meat sauce. Dot over 1/4 of the ricotta mix, spread and grate over loads of Parmesan."
+    },
+    {
+      "heading": null,
+      "description": "Repeat for 3 more layers until everything has gone, remember to save a good amount of ricotta mix for the top and grate over even more Parmesan."
+    },
+    {
+      "heading": null,
+      "description": "Bake in the oven for 40 minutes at 180°C, until a cutlery knife inserts easily. Let it stand for 5 minutes before tucking in. Serve with salad."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-01-29T00:00:00+00:00"
+}

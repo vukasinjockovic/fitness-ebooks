@@ -1,0 +1,197 @@
+{
+  "id": "5961492",
+  "slug": "sweet-spicy-pineapple-noodles",
+  "title": "Sweet ’n’ Spicy Pineapple Noodles",
+  "url": "https://www.mob.co.uk/recipes/sweet-spicy-pineapple-noodles",
+  "summary": "Sweet and spicy pineapple noodles – there's heat from the chillies and a lovely natural sweetness from the pineapple. This a simple weeknight recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Sweet-%E2%80%99n%E2%80%99-Spicy-Pineapple-Noodles.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 12,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 41,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "250g Pineapple",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Smoked Tofu",
+      "quantity": "225",
+      "unit": null,
+      "name": "Smoked Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Smoked Tofu",
+      "quantity": "225",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "550g Stir-Fry Vegetables",
+      "quantity": "550",
+      "unit": null,
+      "name": "Stir-Fry Vegetable Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Curry Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Rice Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cooked Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Rice Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Peel and dice the pineapple and coarsely grate the tofu. Zest the limes. Slice the chilli and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the tofu to a baking tray and top with the lime zest and soy sauce. Cook in the oven for 20-25 mins, mixing every 5 mins to ensure an even cook."
+    },
+    {
+      "heading": null,
+      "description": "Add some oil to a hot frying pan and fry the pineapple until golden, then add the stir-fried veg, chilli, garlic and cooked noodles. Cook for 2 mins, then add the curry powder. Cook for 30 seconds. Roughly chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Add the lime juice and some soy sauce, then plate up with the coriander and tofu on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-11T05:00:00+01:00"
+}

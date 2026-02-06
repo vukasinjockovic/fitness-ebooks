@@ -1,0 +1,198 @@
+{
+  "id": "4147800",
+  "slug": "ricotta-pancakes",
+  "title": "Fluffy Ricotta Pancakes With Blueberry Maple Syrup",
+  "url": "https://www.mob.co.uk/recipes/ricotta-pancakes",
+  "summary": "These ricotta pancakes are light and fluffy, with a creamy, custardy middle. They’re delicious with a knob of butter and lots and lots of blueberry maple syrup.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Fluffy-Ricotta-Pancakes-Blueberry.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 400,
+    "protein": 13,
+    "fat": 13,
+    "saturated_fat": 7,
+    "carbohydrates": 59,
+    "dietary_fibre": 2,
+    "sugars": 22,
+    "sodium": 470
+  },
+  "ingredients": [
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Whole Milk",
+      "quantity": "500",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Fresh Blueberries",
+      "quantity": "125",
+      "unit": null,
+      "name": "Blueberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Maple Syrup",
+      "quantity": "125",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Self-Raising Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Bicarbonate of Soda",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Melted Unsalted Butter, Plus More For Greasing",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Vanilla Extract",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Zest and juice the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Pour the milk into a measuring jug. Whisk in the lemon zest and juice and leave to sit."
+    },
+    {
+      "heading": null,
+      "description": "Place the blueberries and maple syrup in a small saucepan. Bring to a simmer over medium heat, then turn the heat down to low and simmer for 5 mins. Transfer to a bowl to cool."
+    },
+    {
+      "heading": null,
+      "description": "Sift the self-raising flour, bicarbonate of soda and 1⁄2 tsp salt into a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Separate the eggs and drain the ricotta. Melt the butter in a small pan over a low heat."
+    },
+    {
+      "heading": null,
+      "description": "Place the egg yolks, sugar, melted butter, vanilla extract and ricotta in a separate mixing bowl. Add the now-curdled milk and whisk until mostly smooth – a few lumps here and there is fine."
+    },
+    {
+      "heading": null,
+      "description": "Pour the wet mixture into the dry mixture and whisk until just combined."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the egg whites to stiff peaks, then, working in three batches, gently fold them into the batter using a large metal spoon."
+    },
+    {
+      "heading": null,
+      "description": "Heat a non-stick frying pan over medium-low heat and grease lightly with butter. Pour in a ladleful of batter and cook until bubbles appear on the top of the pancake and the bottom is golden brown and set, around 2 mins."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-20T14:51:00+00:00"
+}

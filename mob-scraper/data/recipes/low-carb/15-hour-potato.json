@@ -1,0 +1,160 @@
+{
+  "id": "4072064",
+  "slug": "15-hour-potato",
+  "title": "Poppy's 15-Hour Potato",
+  "url": "https://www.mob.co.uk/recipes/15-hour-potato",
+  "summary": "Poppy O’Toole came to the studio and made her famous 15-hour potato. Crispy, golden bars of indulgent potato, worth every second.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Poppys-15-Hour-Potato.jpg",
+  "cook_time": 180,
+  "prep_time": 30,
+  "total_time": 900,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 370,
+    "protein": 6,
+    "fat": 18,
+    "saturated_fat": 9,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "2.5kg Maris Piper Potatoes",
+      "quantity": "2500",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2.5kg Maris Piper Potatoes",
+      "quantity": "2500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Double Cream",
+      "quantity": "600",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and slice the potatoes very thin on a mandoline, or with a sharp knife."
+    },
+    {
+      "heading": null,
+      "description": "Add the cream to a medium saucepan. Smash the garlic cloves and add to the cream. Set over a medium heat and bring to a simmer. Simmer the cream with the garlic for 5-10 mins until it has thickened a little. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add the thinly sliced potato to the cream and toss to thoroughly coat."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 130°C."
+    },
+    {
+      "heading": null,
+      "description": "Line a (roughly) 29cm by 19cm tin with parchment and pour in the creamy potatoes. Arrange the potatoes in layers, they don’t have to be exact just flat."
+    },
+    {
+      "heading": null,
+      "description": "Add a piece of parchment to the top of the potato cake and a layer of baking beans on the top. This helps to cement the spuds together. Slide into the oven for 2-3 hours or until you can push a knife easily through the cake."
+    },
+    {
+      "heading": null,
+      "description": "Once cooked, remove from the oven and pop another tray, or something flat on top and weigh it down with tins of beans, a bag of sugar, or whatever you’ve got. Leave to cool to room temperature then place in the fridge for at least 12 hours, or overnight."
+    },
+    {
+      "heading": null,
+      "description": "Once set, turn out your potato cake and unwrap. Cut your slab of spuds into your desired shape."
+    },
+    {
+      "heading": null,
+      "description": "Fill a deep pan with vegetable oil and preheat to 170°C. Carefully lower in your potatoes and deep fry until golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Season with flaky salt and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Poppy O'Toole",
+      "uri": "chefs/poppy-otoole",
+      "summary": "Poppy O’Toole is a Michelin trained chef who’s achieved millions of followers online under Poppy Cooks. Alongside her title of the internet’s Potato Queen, she’s a TV chef and bestselling cookbook author of three recipe books.\n\n(Photographer: Jessica Raphael)"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-07T08:00:00+00:00"
+}

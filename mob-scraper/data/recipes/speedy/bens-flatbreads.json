@@ -1,0 +1,157 @@
+{
+  "id": "3309230",
+  "slug": "bens-flatbreads",
+  "title": "Ben's Flatbreads",
+  "url": "https://www.mob.co.uk/recipes/bens-flatbreads",
+  "summary": "Once you get the hang of these, you’re on your way. Crispy, chewy, pillowy flatbreads, every time. B x",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A0804.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 66,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 983
+  },
+  "ingredients": [
+    {
+      "label": "310g Room Temperature Water",
+      "quantity": "310",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8g Dried Instant Yeast",
+      "quantity": "8",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Sugar",
+      "quantity": "10",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Strong White Bread Flour",
+      "quantity": "500",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fine Sea Salt",
+      "quantity": "10",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Semolina",
+      "quantity": "200",
+      "unit": null,
+      "name": "Semolina",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a large mixing bowl, combine the water, yeast and sugar and stir to combine."
+    },
+    {
+      "heading": null,
+      "description": "Add the flour and salt and use your hand to mix the ingredients together and form a shaggy dough."
+    },
+    {
+      "heading": null,
+      "description": "Turn the dough out onto a lightly floured surface and knead for 8-10 mins until smooth and springy."
+    },
+    {
+      "heading": null,
+      "description": "Divide the dough into 6 pieces, form into little balls and place into a tray dusted with semolina."
+    },
+    {
+      "heading": null,
+      "description": "Now chuck them in the fridge and forget about them for a day or two."
+    },
+    {
+      "heading": null,
+      "description": "When you’re ready for a flatbread, place a large frying pan over a medium heat."
+    },
+    {
+      "heading": null,
+      "description": "Add a glug of oil, pull out a flatbread and stretch it out in a little more semolina."
+    },
+    {
+      "heading": null,
+      "description": "Chuck it into the pan and cook on one side until crispy and puffed. Give it a flip and cook until lightly charred."
+    },
+    {
+      "heading": null,
+      "description": "That’s it, good to go. Stuff them full of grilled chicken, hummus, baked feta – whatever you want. The dough balls will sit happily in your fridge, ready to go for up to 5 days."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Mediterranean",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-15T10:00:00+01:00"
+}

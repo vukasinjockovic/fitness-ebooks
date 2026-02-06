@@ -1,0 +1,255 @@
+{
+  "id": "7389119",
+  "slug": "all-the-veg-fried-rice",
+  "title": "All-the-Veg Fried Rice",
+  "url": "https://www.mob.co.uk/recipes/all-the-veg-fried-rice",
+  "summary": "A quick and healthy dinner for all the family. This fried rice is packed with veg, great for kids and even better with a crispy fried egg and spoonful of crispy chilli oil on top for grown-ups.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/All-the-veg-Fried-Rice.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 526,
+    "protein": 16,
+    "fat": 19,
+    "saturated_fat": 3,
+    "carbohydrates": 70,
+    "dietary_fibre": 7,
+    "sugars": 13,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Pointed Cabbage or ¼ White Cabbage",
+      "quantity": ".25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Pointed Cabbage or ¼ White Cabbage",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb-Sized Piece Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice or 1 x 250g Microwavable Rice Pouch",
+      "quantity": "1",
+      "unit": null,
+      "name": "Microwave Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice or 1 x 250g Microwavable Rice Pouch",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tbsp Dark Soy Sauce",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g chopped coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "egg",
+      "quantity": null,
+      "unit": null,
+      "name": "Fried Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids Servings \nFinely chop the onion, carrot, courgette, red pepper and cabbage."
+    },
+    {
+      "heading": null,
+      "description": "Heat the vegetable oil in a large frying pan over a medium-high heat. Add all the chopped vegetables and stir-fry for 6-7 mins, tossing regularly, until completely soft."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely chop the ginger and garlic, then add them to the pan. Fry for 1 min until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the cooked rice and frozen peas. Stir-fry for 1 min to heat through, then push everything to one side of the pan."
+    },
+    {
+      "heading": null,
+      "description": "Crack the eggs into the empty space and leave to set for 30 seconds. Use a spoon or spatula to gently scramble the eggs, then fold them through the rice and veg."
+    },
+    {
+      "heading": null,
+      "description": "Splash in the soy sauce, stir well and season to taste."
+    },
+    {
+      "heading": null,
+      "description": "If making the crispy chilli egg, set a small saucepan on a medium heat. \nAdd a drizzle of chilli oil and crack in the egg. Fry until cooked to your desired done-ness, we like a runny yolk!"
+    },
+    {
+      "heading": null,
+      "description": "Serve up! \nKids Plate: Dish up the rice as is. \nParents Plate: Top adult portions with a crispy fried egg, chopped coriander and a spoonful of extra crispy chilli oil if you want more heat."
+    }
+  ],
+  "tips": [
+    "Great for using up leftover rice — just make sure it’s fully chilled first.",
+    "Add tofu, chicken or prawns for extra protein.",
+    "Works well with whatever veg you’ve got kicking about in the fridge."
+  ],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-25T15:33:00+01:00"
+}

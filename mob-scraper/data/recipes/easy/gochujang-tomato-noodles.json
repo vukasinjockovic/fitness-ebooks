@@ -1,0 +1,136 @@
+{
+  "id": "7142701",
+  "slug": "gochujang-tomato-noodles",
+  "title": "Tomatoey Gochujang & Sweet Onion Noodles",
+  "url": "https://www.mob.co.uk/recipes/gochujang-tomato-noodles",
+  "summary": "Soft, silky noodles tossed in a our Gochujang Tomato & Sweet Onion Sauce, finished with a punchy herby sesame topping. Fast, spicy and bloomin' delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Tomatoey-Gochujang-Sweet-Onion-Noodles.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 357,
+    "protein": 12,
+    "fat": 7,
+    "saturated_fat": 3,
+    "carbohydrates": 62,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "200g Egg Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Egg Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onion",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Toasted Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Before you begin, make the Gochujang &amp; Sweet Onion Sauce."
+    },
+    {
+      "heading": null,
+      "description": "Bring a saucepan of water to the boil. Once boiling, drop in the noodles and cook following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the herb salad. Pick the coriander leaves and finely slice the spring onions. Toss both into a bowl with the sesame seeds."
+    },
+    {
+      "heading": null,
+      "description": "When the noodles are cooked, reserve 100ml of the cooking water, then drain. Tip the noodles back into the pan with the Gochujang Tomato &amp; Sweet Onion Sauce. Set over a low heat and stir to coat, loosening with a splash of the cooking water at a time, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Stir the rice vinegar through the herb salad."
+    },
+    {
+      "heading": null,
+      "description": "Divide the noodles between bowls and finish with a generous pile of the herby sesame topping."
+    }
+  ],
+  "tips": [
+    "Add some crispy tofu or a fried egg on top for extra protein.",
+    "Great hot or cold – makes a banging lunchbox option.",
+    "Use soba or rice noodles for a gluten-free version."
+  ],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-20T18:32:00+01:00"
+}

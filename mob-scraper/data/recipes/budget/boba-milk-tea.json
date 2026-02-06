@@ -1,0 +1,191 @@
+{
+  "id": "4087439",
+  "slug": "boba-milk-tea",
+  "title": "Brown Sugar Boba Milk Tea",
+  "url": "https://www.mob.co.uk/recipes/boba-milk-tea",
+  "summary": "Making homemade boba tea isn't as hard as you think. This sweet drink makes for a fun weekend project.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Brown-Sugar-Boba-Tea.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 75,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 246,
+    "protein": 2,
+    "fat": 2,
+    "saturated_fat": 1,
+    "carbohydrates": 56,
+    "dietary_fibre": 0,
+    "sugars": 41,
+    "sodium": 32
+  },
+  "ingredients": [
+    {
+      "label": "50g Dark Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Dark Brown Soft Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Water",
+      "quantity": "60",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Tapioca Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tapioca Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Water",
+      "quantity": "75",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Dark Brown Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Dark Brown Soft Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Black Tea",
+      "quantity": "300",
+      "unit": null,
+      "name": "Black Tea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175ml Milk",
+      "quantity": "175",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix your water and dark brown sugar in a saucepan until dissolved, bring to a boil then immediately remove from heat."
+    },
+    {
+      "heading": null,
+      "description": "Add 3-4 tbsp of the tapioca flour then mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Return to the heat and whisk for 3 mins until slightly thickened."
+    },
+    {
+      "heading": null,
+      "description": "Remove from heat and add the rest of the tapioca flour – this doesn’t have to be fully incorporated right away."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture onto a tapioca-floured work surface and start working the dough with your hands."
+    },
+    {
+      "heading": null,
+      "description": "If your dough is too wet, add more tapioca. If it's too hard, add some more water. You are looking for a texture that keeps its shape when rolled into a ball. You don’t want it to be crumbling in your hands but you don’t want it to be turning into goo either."
+    },
+    {
+      "heading": null,
+      "description": "Roll out your dough into a log and cut it into four equal parts."
+    },
+    {
+      "heading": null,
+      "description": "Take one of your logs and roll it out further. Now take a pea-sized lump off and roll it in the palm of your hand into a small ball, each pearl must be small enough to fit up your straw so be careful you don’t make them too big."
+    },
+    {
+      "heading": null,
+      "description": "When all your pearls are rolled out, weigh them and then boil them in a saucepan of boiling water. The amount of water you need should be 6-7 times the weight of the pearls."
+    },
+    {
+      "heading": null,
+      "description": "Boil for 35-40 mins until the pearls and soft and gooey. Don’t worry if your water has become very viscous, this is totally normal."
+    },
+    {
+      "heading": null,
+      "description": "Take the pearls out with a slotted spoon and submerge in ice cold water to clean off any excess tapioca water solution."
+    },
+    {
+      "heading": null,
+      "description": "Make some black tea and leave it to brew and cool down for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Get some brown sugar and add it to a pan with an equal weight of water."
+    },
+    {
+      "heading": null,
+      "description": "Bring this to a boil and let it reduce until you are left with a thick sugar syrup."
+    },
+    {
+      "heading": null,
+      "description": "Using a milk frother, or just a spoon if you don’t have one, decorate the inside of your glass with the sugar syrup and add an extra spoon of it to the glass."
+    },
+    {
+      "heading": null,
+      "description": "Add as many of the tapioca pearls as your heart desires."
+    },
+    {
+      "heading": null,
+      "description": "Add your tea and milk with some ice."
+    },
+    {
+      "heading": null,
+      "description": "Put your lid on and enjoy! Make sure you have a thick straw."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-15T07:00:00+00:00"
+}

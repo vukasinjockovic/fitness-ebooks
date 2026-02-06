@@ -1,0 +1,126 @@
+{
+  "id": "3700127",
+  "slug": "blueberry-basil-froyo",
+  "title": "Blueberry Basil Froyo",
+  "url": "https://www.mob.co.uk/recipes/blueberry-basil-froyo",
+  "summary": "Frozen yoghurt is a summer fave and this delicious recipe is perfect to enjoy in the sunshine. Check out the other flavour combos on the website.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/Blueberry-Basil-Froyo.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 25,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 5,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "200g Blueberries",
+      "quantity": "200",
+      "unit": null,
+      "name": "Blueberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Vegan Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Vegan Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3g Basil ﻿",
+      "quantity": "3",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Squeeze of Agave ﻿",
+      "quantity": "5",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tahini (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sesame Seeds (Optional) ﻿",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Save a few blueberries to the side and put them into the molds."
+    },
+    {
+      "heading": null,
+      "description": "Blend the blueberries, yogurt and basil and a squeeze of agave if you like, until smooth. Pour into the molds and freeze for 3-4 hours."
+    },
+    {
+      "heading": null,
+      "description": "Optional also to drizzle the finished ones with a little tahini and a sprinkle of sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-26T15:36:00+01:00"
+}

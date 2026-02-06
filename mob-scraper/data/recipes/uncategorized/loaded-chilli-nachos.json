@@ -1,0 +1,106 @@
+{
+  "id": "6363952",
+  "slug": "loaded-chilli-nachos",
+  "title": "Loaded Chilli Nachos",
+  "url": "https://www.mob.co.uk/recipes/loaded-chilli-nachos",
+  "summary": "Nachos aren't just for the cinema. We've loaded these up with chilli and cheese – it's not a light dinner. But it is a damned good one.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Loaded-Chilli-Nachos.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 384,
+    "protein": 15,
+    "fat": 21,
+    "saturated_fat": 8,
+    "carbohydrates": 32,
+    "dietary_fibre": 8,
+    "sugars": 6,
+    "sodium": 384
+  },
+  "ingredients": [
+    {
+      "label": "65g Tortilla Crisps",
+      "quantity": "65",
+      "unit": null,
+      "name": "Tortilla Crisp",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Grated Cheddar",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh coriander leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Beef Chilli Con Carne."
+    },
+    {
+      "heading": null,
+      "description": "Preheat your grill to high and reheat your leftover Beef Chilli Con Carne in a saucepan over a medium heat."
+    },
+    {
+      "heading": null,
+      "description": "Chop the tomatoes and avocado into 1cm chunks and grate the cheddar. Lightly season the tomatoes with salt and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the tortilla crisps onto a large baking tray. Dollop the warm chilli all over it and top with grated cheddar cheese. Place under the grill until the cheese has melted, 4-8 mins (every grill is different, some might take longer, some might need less time.)"
+    },
+    {
+      "heading": null,
+      "description": "Once melted, top with the soured cream, avocado chunks, tomatoes and tear over some fresh coriander and tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2024-09-08T01:00:00+01:00"
+}

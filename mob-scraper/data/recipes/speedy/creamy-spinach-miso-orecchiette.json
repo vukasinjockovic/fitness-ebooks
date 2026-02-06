@@ -1,0 +1,186 @@
+{
+  "id": "4532841",
+  "slug": "creamy-spinach-miso-orecchiette",
+  "title": "Creamy Spinach & Miso Orecchiette",
+  "url": "https://www.mob.co.uk/recipes/creamy-spinach-miso-orecchiette",
+  "summary": "Peas are the forgotten hero of this pasta sauce. They’re delicious little protein packed balls that are cheap, long lasting in the freezer and quick to prepare.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Creamy-Spinach-Miso-Orecchiette.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 449,
+    "protein": 15,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 66,
+    "dietary_fibre": 7,
+    "sugars": 5,
+    "sodium": 553
+  },
+  "ingredients": [
+    {
+      "label": "200g Orecchiette",
+      "quantity": "200",
+      "unit": null,
+      "name": "Orecchiette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Orecchiette",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegan Cream Cheese (Plus More For Topping)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegan Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp White Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp White Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes (Optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook your pasta until it’s al dente. Reserve a mug of pasta water, then drain and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely slice the garlic. Heat a medium-sized pan or pot with a drizzle of olive oil on medium heat. Add the garlic and chilli flakes if using and cook for 1 min, stirring constantly. Add the spinach, peas and a pinch of salt and pepper, and cook for about another 2 mins until wilted."
+    },
+    {
+      "heading": null,
+      "description": "Take the pan off the heat and remove half of the spinach mix and add it to a blender. Add about ¼ of a cup of reserved pasta water to the blender along with the miso, 1 tbsp vegan cream cheese and 1 tbsp of olive oil. Blend until smooth and season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Tip the cooked pasta and sauce into the pan along with the spinach and pea mix. Gently heat through with a few splashes of pasta water until combined into a silky sauce."
+    },
+    {
+      "heading": null,
+      "description": "Serve into bowls and top with more vegan cream cheese, plenty of pepper and some extra chilli flakes and a drizzle of olive oil if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-05T10:17:00+01:00"
+}

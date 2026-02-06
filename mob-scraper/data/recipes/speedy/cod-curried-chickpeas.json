@@ -1,0 +1,148 @@
+{
+  "id": "4650131",
+  "slug": "cod-curried-chickpeas",
+  "title": "Cod & Curried Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/cod-curried-chickpeas",
+  "summary": "Topped with a big dollop of yogurt, and using only 7 ingredients, this cod is a perfect midweek staple.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Cod-Curried-Chickpeas.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 464,
+    "protein": 36,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 54,
+    "dietary_fibre": 13,
+    "sugars": 8,
+    "sodium": 486
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Korma Curry Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Korma Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins Chickpeas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spinach",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Lime",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fillets Cod",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Greek Yogurt",
+      "quantity": "60",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "60g Greek Yogurt",
+      "quantity": "60",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add a tbsp of olive oil to a saucepan over a medium heat. Add the curry paste to the oil and sizzle for 2 mins, then tip in the cans of chickpeas with their water. Bubble away for 10 mins, until thickened slightly."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the spinach and add the juice of the lime and season to taste. Turn the heat down to a simmer and drop the cod fillets in so they’re submerged. Cook on a simmer for 2 - 3 mins, until the cod is cooked through- careful not to touch it too much so the fillet doesn’t break apart!"
+    },
+    {
+      "heading": null,
+      "description": "Use a large spoon to gently lift the cod into a bowl. Add a spoonful of the chickpeas and spinach over the top."
+    },
+    {
+      "heading": null,
+      "description": "Top with a dollop of yogurt, drizzle with a little olive oil and finish with a crack of black pepper and coriander."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "Family-Friendly",
+    "High Fibre",
+    "Power Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-11-11T05:21:00+00:00"
+}

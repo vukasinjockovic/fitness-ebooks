@@ -1,0 +1,325 @@
+{
+  "id": "7069940",
+  "slug": "garlic-oil-noodles-with-grilled-chicken",
+  "title": "Garlic Oil Noodles With Grilled Chicken",
+  "url": "https://www.mob.co.uk/recipes/garlic-oil-noodles-with-grilled-chicken",
+  "summary": "Fragrant garlic oil, punchy noodles, and marinated grilled chicken come together in this big-flavoured, easy-to-love noodle bowl. It’s fresh, spicy, and utterly moreish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Garlic-Oil-Noodles-With-Grilled-Chicken.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 700,
+    "protein": 32,
+    "fat": 36,
+    "saturated_fat": 6,
+    "carbohydrates": 59,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 1810
+  },
+  "ingredients": [
+    {
+      "label": "100g dried pho noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Flat Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g dried pho noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ brown onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 spring onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small bunch of coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small bunch of Thai basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Thai Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp pre-made fried shallots",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fried Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 boneless, skinless chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 boneless, skinless chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tbsp light soy sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tbsp fish sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tbsp oyster sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp light brown sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp cracked black pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp vegetable oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 garlic cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 garlic cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Thai chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Bird's Eye Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp light soy sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp fish sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp oyster sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp light brown sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soft Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp vegetable oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak the noodles. Place the dried pho noodles in a bowl of cold water and soak for 30 mins. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Marinate the chicken. In a bowl, mix the chicken thighs with turmeric, soy sauce, fish sauce, oyster sauce, brown sugar, and cracked black pepper. Stir until the chicken is well-coated."
+    },
+    {
+      "heading": null,
+      "description": "Cook the chicken. Heat a griddle or frying pan over medium-high heat. Add the vegetable oil and cook the chicken for 3–4 mins on each side, pressing gently for even browning. Remove from the heat and let rest."
+    },
+    {
+      "heading": null,
+      "description": "Prep the aromatics. While the chicken is cooking, peel and mince the garlic cloves and shallot. Slice the Thai chilli thinly."
+    },
+    {
+      "heading": null,
+      "description": "Make the garlic oil. Heat a glug of vegetable oil in a small saucepan over medium heat. Add the minced garlic, shallot, and sliced chilli. Gently fry for 2–3 mins until just golden. Stir in the soy sauce, fish sauce, oyster sauce, and brown sugar. Mix well to dissolve the sugar, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles. Bring a saucepan of water to a boil. Cook the soaked noodles for 1 minute less than the packet instructions. Drain and rinse under cool water until warm but not cold."
+    },
+    {
+      "heading": null,
+      "description": "Prep the toppings. Thinly slice the brown onion and spring onion. Roughly chop the coriander and Thai basil. Cut the lime into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Assemble the bowl. Add the noodles to a large bowl and spoon over the garlic oil. Slice the grilled chicken into strips and arrange on top. Garnish with brown onion, spring onion, coriander, Thai basil, and fried shallots. Serve with a lime wedge."
+    }
+  ],
+  "tips": [
+    "Chicken and garlic oil can be made ahead and stored in the fridge for up to 3 days.",
+    "Noodles should be cooked fresh but can be soaked in advance.",
+    "To reheat: Warm the chicken in a pan or microwave. Flash the noodles in hot water for 30 seconds, then drain and toss with garlic oil.",
+    "Chicken (cooked or raw-marinated) can be frozen for up to 2 months.",
+    "Garlic oil freezes well – store in an ice cube tray and defrost as needed.",
+    "Fresh herbs and noodles are best made fresh."
+  ],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-01T11:21:00+01:00"
+}

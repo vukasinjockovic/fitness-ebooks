@@ -1,0 +1,339 @@
+{
+  "id": "7071051",
+  "slug": "everything-seasoned-salmon-with-spiced-cauliflower-bulgur",
+  "title": "Everything-Seasoned Salmon with Spiced Cauliflower & Bulgur",
+  "url": "https://www.mob.co.uk/recipes/everything-seasoned-salmon-with-spiced-cauliflower-bulgur",
+  "summary": "Roasted turmeric cauliflower and fluffy tomato bulgur, topped with crispy-skinned salmon crusted in a bold “everything bagel” spice blend. Finished with a balsamic drizzle for zing. It's a winner for meal prep.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Everything-Seasoned-Salmon-with-Spiced-Cauliflower-Bulgur-Recipe.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 32,
+    "fat": 46,
+    "saturated_fat": 7,
+    "carbohydrates": 44,
+    "dietary_fibre": 8,
+    "sugars": 10,
+    "sodium": 273
+  },
+  "ingredients": [
+    {
+      "label": "450ml water",
+      "quantity": "450",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml olive oil",
+      "quantity": "40",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ tbsp tomato purée",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp pomegranate molasses",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g bulgur wheat",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bulgur Wheat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of ½ lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tsp poppy seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Poppy Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tsp white sesame seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "White Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tsp black sesame seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp garlic powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp garlic powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp onion powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 boneless, skin-on salmon fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 boneless, skin-on salmon fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 red onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 red onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 garlic cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 garlic cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp ground turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp olive oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70ml olive oil",
+      "quantity": "70",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Balsamic vinegar, to taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 160°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Make the bulgur base: Pour water and olive oil into a saucepan. Stir in the tomato purée and pomegranate molasses. Season with salt and bring to the boil. Once boiling, stir in bulgur wheat. Return to the boil, cover, and turn the heat to low. Simmer for 10 mins until the water is absorbed. Fluff with a fork, then stir through the juice of the lemon. Taste and season again if needed."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, mix the poppy seeds, white sesame seeds, black sesame seeds, garlic powder, onion powder, and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Pat the salmon fillets dry with kitchen paper. Press the flesh side only into the seasoning mix to coat evenly. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut the cauliflower into rough florets. Peel the red onions and cut into chunky wedges. Tip the cauliflower and onion into a large roasting tray with unpeeled garlic cloves. Sprinkle over the turmeric, ground coriander, and season generously. Drizzle with olive oil and toss everything to coat. Roast for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tray from the oven. Nestle the salmon fillets in, skin-side down. Drizzle with a little olive oil and return to the oven for 10–15 mins, or until the salmon is cooked through and flaky."
+    },
+    {
+      "heading": null,
+      "description": "Make the dressing. In a small bowl or jar, mix olive oil with balsamic vinegar to taste. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Divide the bulgur into containers. Top with the roasted cauliflower, onions, and garlic. Place a salmon fillet on top of each. Serve with the balsamic dressing drizzled over, or pack it separately if storing."
+    }
+  ],
+  "tips": [
+    "Fridge: Keeps for up to 3 days in airtight containers.",
+    "Dressing: Store separately for freshness.",
+    "Freezer: The salmon and veg can be frozen (without dressing) for up to 2 months. Bulgur freezes well too."
+  ],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Meal plans",
+    "Packed Lunch",
+    "High Fibre",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-04T16:07:00+01:00"
+}

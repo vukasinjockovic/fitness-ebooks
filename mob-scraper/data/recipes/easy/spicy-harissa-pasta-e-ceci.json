@@ -1,0 +1,267 @@
+{
+  "id": "5470855",
+  "slug": "spicy-harissa-pasta-e-ceci",
+  "title": "Spicy Harissa Pasta E Ceci",
+  "url": "https://www.mob.co.uk/recipes/spicy-harissa-pasta-e-ceci",
+  "summary": "Warming, nourishing, and pretty damn easy to pull together, this take on pasta e ceci is going to tick all of the boxes. We promise.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/849A0029-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 23,
+    "fat": 19,
+    "saturated_fat": 7,
+    "carbohydrates": 68,
+    "dietary_fibre": 11,
+    "sugars": 13,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Harissa",
+      "quantity": "1",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 700g Jar Chickpeas",
+      "quantity": "700",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 700g Jar Chickpeas",
+      "quantity": "700",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Reserved chickpea liquid",
+      "quantity": null,
+      "unit": null,
+      "name": "Reserved Chickpea Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken or Vegetable Stock",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pasta Shells",
+      "quantity": "200",
+      "unit": null,
+      "name": "Jumbo Pasta Shells",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pasta Shells",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Roasted Red Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop up the onions and carrot into a chunky dice and thinly slice the garlic cloves."
+    },
+    {
+      "heading": null,
+      "description": "Add a shot of oil to a large saucepan and set over a medium heat. Once hot, tip in the onions and carrots and cook with a pinch of salt for 5-6 mins. Add the garlic and harrissa and cook for another 3-4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the chickpeas along with the liquid from the jar, the stock and the water. Season well with salt and black pepper. Bring to a boil and drop in the pasta."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 8 mins before finishing with roughly chopped peppers and finely chopped spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Add the juice of the orange and divide between warm bowls. Top with chopped dill and crumbled feta."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-24T13:18:00+01:00"
+}

@@ -1,0 +1,354 @@
+{
+  "id": "5088422",
+  "slug": "cauliflower-pittas-with-cauliflower-leaf-slaw",
+  "title": "Cauliflower Pittas with Cauliflower Leaf Slaw",
+  "url": "https://www.mob.co.uk/recipes/cauliflower-pittas-with-cauliflower-leaf-slaw",
+  "summary": "These cauliflower stuffed pitas taste as good as they look. If tahini and cauliflower are right up your street, this recipe is proof that vegans have more fun. Enjoy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/220A3121-Enhanced-NR-1.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 14,
+    "fat": 38,
+    "saturated_fat": 5,
+    "carbohydrates": 54,
+    "dietary_fibre": 9,
+    "sugars": 6,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "1 Cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Pita Breads",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Teaspoon Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "0.5 Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tahini",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Toasted Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jalapeno",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Fresh Mint Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Parsley",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Olive Oil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tahini",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cold Water",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Cut off the cauliflower leaves and set them aside. Chop the cauliflower into bite-sized pieces. Drain the chickpeas and put them on a large baking tray lined with baking parchment along with the cauliflower. Ensure the chickpeas and cauliflower are not too crowded – use two trays, if necessary."
+    },
+    {
+      "heading": null,
+      "description": "Add the olive oil, salt, a few twists of black pepper and all of the spices to the tray and toss to cover the chickpeas and cauliflower well. Roast for 25 mins, tossing once."
+    },
+    {
+      "heading": null,
+      "description": "For the slaw, discard any brown or damaged cauliflower leaves and slice the rest very finely, stalks and all. Finely slice the red onion and add to a large bowl along with the cauliflower leaves. Squeeze over the lemon juice and add a good sprinkle of salt. Add the tahini and sesame seeds and toss well to combine, then set aside to soften."
+    },
+    {
+      "heading": null,
+      "description": "For the herby drizzle, finely slice the jalapeño and garlic and transfer to a small food processor. Roughly chop the fresh herbs, including any fine stems, and add to the food processor. Pulse until finely chopped and then transfer to a small bowl. Add a pinch of salt, the lemon juice and a little zest, salt and pepper, and olive oil. Add more olive oil if needed to achieve a drizzling consistency. Add the chili flakes if using and stir."
+    },
+    {
+      "heading": null,
+      "description": "To make the garlic tahini sauce, mince the garlic and add to a small bowl with the tahini and water. Whisk, then add the lemon juice and keep whisking to combine into a smooth sauce. Season with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "To serve, warm the pitas and spread some tahini sauce on one side, pile in the cauliflower and green sauce, and finish with more tahini."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "Most Cooked",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-22T13:30:00+00:00"
+}

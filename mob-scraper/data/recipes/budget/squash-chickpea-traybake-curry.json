@@ -1,0 +1,272 @@
+{
+  "id": "5978194",
+  "slug": "squash-chickpea-traybake-curry",
+  "title": "Spiced Squash & Chickpea Curry Traybake",
+  "url": "https://www.mob.co.uk/recipes/squash-chickpea-traybake-curry",
+  "summary": "A nice and spicy vegetarian traybake curry that's perfect for a lazy weeknight. You'll be making this one again and again, Mob.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Squash-Chickpea-Traybake-Curry-with-Coconut-Milk.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 60,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 613,
+    "protein": 13,
+    "fat": 38,
+    "saturated_fat": 27,
+    "carbohydrates": 48,
+    "dietary_fibre": 10,
+    "sugars": 13,
+    "sodium": 57
+  },
+  "ingredients": [
+    {
+      "label": "1 Medium Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ginger Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10-12 Curry Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Madras Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Madras Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Red Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Coconut Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Can Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Peel the butternut squash, cut it in half, then remove and discard the seeds. Cut the squash into 5cm pieces."
+    },
+    {
+      "heading": null,
+      "description": "Drain and rinse the chickpeas. Dice the onion into 2.5cm cubes. Finely chop the green chilli. Set everything aside."
+    },
+    {
+      "heading": null,
+      "description": "Combine the butternut squash, chickpeas, onion, garlic paste, ginger paste, cumin seeds, curry leaves, green chilli, curry powder, ground coriander, turmeric, chilli flakes, 1 tsp salt and coconut oil in a large bowl. Toss well, until the squash and chickpeas are well coated."
+    },
+    {
+      "heading": null,
+      "description": "Spread the squash and chickpea mixture in a single layer over a large baking tray lined with baking parchment. Roast in the oven for 25-30 mins, or until the squash is tender and starting to caramelise."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tray from the oven and pour the coconut milk over the roasted vegetables. Stir to combine and coat everything evenly. Return to the oven and cook for 10-15 mins, until the coconut milk has thickened slightly."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Check the finished traybake for seasoning, then squeeze the juice of ½ lime over the top. Garnish with the coriander and serve with rice, rotis or bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-05T03:30:00+01:00"
+}

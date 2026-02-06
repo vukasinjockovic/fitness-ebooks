@@ -1,0 +1,276 @@
+{
+  "id": "319368",
+  "slug": "coconut-spinach-tomato-dahl",
+  "title": "Coconut, Spinach & Tomato Dal",
+  "url": "https://www.mob.co.uk/recipes/coconut-spinach-tomato-dahl",
+  "summary": "Once you master dahl, it will become a regular. This one is creamy and coconutty, topped with a runny egg and chilli oil. Mandatory fresh coriander to finish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Dahl-website.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 493,
+    "protein": 21,
+    "fat": 27,
+    "saturated_fat": 13,
+    "carbohydrates": 37,
+    "dietary_fibre": 8,
+    "sugars": 7,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "300g Split Red Lentils",
+      "quantity": "300",
+      "unit": null,
+      "name": "Red Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Split Red Lentils",
+      "quantity": "300",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Fresh Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Salted Roasted (Peanuts or Cashews)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Salted Roasted Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tsp Sugar (caster/brown/granulated)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Red or White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Red or White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Baby Leaf Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime or Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add lentils to a large saucepan along with the veg stock (dissolved in 1 litre boiling water), coconut milk and ground spices (cumin and tumeric). Season generously. Bring to the boil then simmer gently for 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Next, peel and finely chop the ginger and roughly chop the nuts. Scrape into a bowl along with the chilli flakes and sugar. Finely slice the onion and garlic cloves - set aside separately."
+    },
+    {
+      "heading": null,
+      "description": "Back to the dahl, chuck in the tomatoes. Cook for a further 15 minutes, stirring regularly as the dahl thickens until the lentils are cooked through and have absorbed most of their liquid."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, get a frying pan over a medium heat. Pour in enough vegetable oil to cover the base of the pan. Heat until simmering then add the sliced onion. Cook for 8 minutes, stirring until crisp then remove with a slotted spoon into the bowl with the ginger, nuts, chilli and sugar. Add the sliced garlic to the oil. Cook until the garlic is just turning golden then take the pan off the heat. Pour the garlic along with the oil into the bowl with the other chilli bits. Give everything a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Time to boil your eggs. Boil for 6 and a half minutes, then place them into an ice-cold bowl of water and allow the eggs to chill for 5 minutes. Peel away the shell and slice in half."
+    },
+    {
+      "heading": null,
+      "description": "Stir the spinach through the dahl and squeeze in the lime or lemon juice. Once wilted, season then divide between bowls. Top each with half a soft boiled egg, then drizzle over the crispy chilli oil. Tear over some coriander to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-05-22T19:43:00+01:00"
+}

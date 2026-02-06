@@ -1,0 +1,145 @@
+{
+  "id": "6792071",
+  "slug": "rocky-road",
+  "title": "Rocky Road",
+  "url": "https://www.mob.co.uk/recipes/rocky-road",
+  "summary": "Who doesn’t love rocky road? A classic fridge cake with crushed biscuits, marshmallows, dried fruits and nuts, chocolate and anything else sweet you’ve got lying around. Perfect for using up leftover chocolate, biscuits and sweets.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Rocky-Road.jpg",
+  "cook_time": 5,
+  "prep_time": 240,
+  "total_time": 245,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 164,
+    "protein": 2,
+    "fat": 8,
+    "saturated_fat": 4,
+    "carbohydrates": 21,
+    "dietary_fibre": 1,
+    "sugars": 13,
+    "sodium": 38
+  },
+  "ingredients": [
+    {
+      "label": "175g Digestive Biscuits",
+      "quantity": "175",
+      "unit": null,
+      "name": "Digestive Biscuit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Marshmallows",
+      "quantity": "100",
+      "unit": null,
+      "name": "Marshmallow",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Crunchie Bar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Crunchie Bar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Dried Fruit",
+      "quantity": "35",
+      "unit": null,
+      "name": "Dried Fruit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Mixed Nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Mixed Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Milk Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Milk Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Milk Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Butter",
+      "quantity": "125",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Golden Syrup",
+      "quantity": "50",
+      "unit": null,
+      "name": "Golden Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bash up your biscuits – the best way to do this is put them in a bowl and use the end of a rolling pin to break them into pieces. You want some irregular chunks. Roughly chop the nuts, crunchie bar, and the marshmallows if using big’uns."
+    },
+    {
+      "heading": null,
+      "description": "Line a brownie tin or small roasting tin with baking paper. Break the chocolate into a medium saucepan, add the butter, golden syrup and a pinch of salt. Cook over a low-medium heat, stirring occasionally until melted."
+    },
+    {
+      "heading": null,
+      "description": "Add in all of your other ingredients, stir to coat then scrape into your tin and smooth into a compact layer. Put into the fridge to set – at least 4 hours should do it. Once set, cut into 12 rectangles, and keep in the fridge for whenever a craving hits."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Ingredient",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Australian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-09-03T16:04:00+01:00"
+}

@@ -1,0 +1,291 @@
+{
+  "id": "3970574",
+  "slug": "mushroom-and-root-veg-nut-roast",
+  "title": "Mushroom & Root Veg Nut Roast",
+  "url": "https://www.mob.co.uk/recipes/mushroom-and-root-veg-nut-roast",
+  "summary": "This festive centrepiece is a great alternative to the usual vegan mains, is made with beetroot and celeriac florets on top of a nutty mushroom and lentil base.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Vegan-Mushroom-Nutroast.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 120,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 11,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Mushrooms (Button or Portobello)",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shallots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Sprigs Of Thyme",
+      "quantity": "3",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Lentils (Or 100g Uncooked)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Lentils (Or 100g Uncooked)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Balsamic Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tbsp Ground Flaxseed (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Flaxseed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 200g Tub of Vegan Cream Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Vegan Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115g Walnuts",
+      "quantity": "115",
+      "unit": null,
+      "name": "Walnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Beetroots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Celeriac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celeriac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegan Mayonnaise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegan Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pomegranate Seeds (Optional)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Pomegranate Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley or Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Cook the lentils if you are not using them pre-cooked. If you are using ground flax as a binder, add it to a small bowl with 3 tbsp of water. Mix and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the mushrooms. Add 1-2 Tbsp butter to the pan and let it melt. Sweat down the shallots for about 7-8 mins until translucent, on a medium heat. Then add the garlic and sauté for 2 mins more. If using ground flaxseed, add it to a small bowl with 3 tbsp of water and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Pick the leaves off of the thyme sprigs. Toast the walnuts for 6 mins and then finely chop or blitz in a food processor to a coarse texture."
+    },
+    {
+      "heading": null,
+      "description": "Add the mushrooms and thyme and turn up the heat. Sweat them down until all of the moisture is gone. You might need two pans for this as you don’t want to overcrowd the mushrooms in one pan. They need plenty of space to caramelise."
+    },
+    {
+      "heading": null,
+      "description": "Once all of the water has evaporated from the mushrooms (this will take up to 15 mins), add the balsamic and soy sauce and stir for a few mins until they evaporate at the end and season well."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the walnuts, flaxseed if using, 2 tbsp of cream cheese, lentils and check again for seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Grease your cake tin with some butter around the sides and line the bottom with baking paper. Spoon the mushroom mixture into the tin and use the back of a spoon to even out the surface. Pop it onto a tray as it may leek. Bake for 30 mins, until golden brown on top. Set aside to cool for 15 mins before removing from the cake tin."
+    },
+    {
+      "heading": null,
+      "description": "Start this step while the mushroom bake is in the oven. Peel and thinly slice the celeriac and beetroot. Use a mandoline if you have one or a very sharp knife to slice them about 3mm thin."
+    },
+    {
+      "heading": null,
+      "description": "Put the celeriac and beetroot into two separate trays, season well and drizzle with olive oil, tossing to make sure that each slice is evenly coated. Cover tightly with foil and roast for 20 mins, until soft and supple enough to crumple."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, mix the rest of the cream cheese with 4 tsp of the mustard, miso, mayo sauce. Taste and add a little more mustard if you like."
+    },
+    {
+      "heading": null,
+      "description": "Once the bake has cooled, spread the cream cheese mix over the top with the back of a spoon, taking care not to scrape off the top."
+    },
+    {
+      "heading": null,
+      "description": "Then, scrunch the pieces of celeriac and beetroot and place them one by one onto the cream cheese. Place them close to one another so that they hold their shape. Continue until you have covered the whole top of the roast. Use any leftovers as a side with the miso mayo dressing and herbs."
+    },
+    {
+      "heading": null,
+      "description": "Finally, finish with a good drizzle of the miso mayo mustard all over the top, a sprinkle of pomegranate seeds and dill."
+    },
+    {
+      "heading": null,
+      "description": "If you need to heat it up, put it in a large baking tray and cover loosely with tin foil to stop it from drying out in the oven."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-08T21:52:00+00:00"
+}

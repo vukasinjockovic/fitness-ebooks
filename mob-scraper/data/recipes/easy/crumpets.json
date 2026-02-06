@@ -1,0 +1,161 @@
+{
+  "id": "7053034",
+  "slug": "crumpets",
+  "title": "Crumpets",
+  "url": "https://www.mob.co.uk/recipes/crumpets",
+  "summary": "Crumpets aren't as scary to make as you might think. Jodie Nixon's simple guide will show you how to make these squidgy British classics in no time.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Crumpets.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 80,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 69,
+    "protein": 2,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 14,
+    "dietary_fibre": 1,
+    "sugars": 1,
+    "sodium": 62
+  },
+  "ingredients": [
+    {
+      "label": "300ml Boiling Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Plain White Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Strong White Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Golden Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Bicarbonate of Soda",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Milk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "14g Dried Yeast",
+      "quantity": "14",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": "Mix Your Flour",
+      "description": "Boil your kettle. Add the plain flour, strong white flour, salt, sugar and bicarbonate of soda into a large mixing bowl. Make a well in the middle."
+    },
+    {
+      "heading": "Activate Your Yeast",
+      "description": "Add the milk and the just boiled water to a jug – you don’t want it really hot, it needs to be around body temperature (37°C), so let it cool down until just warm otherwise it will kill the yeast. Once cooled a little, whisk in the yeast."
+    },
+    {
+      "heading": "Whisk Your Mixture",
+      "description": "Pour the liquid into the well, mixing slowly with whisk."
+    },
+    {
+      "heading": "Rest Your Batter",
+      "description": "Cover the bowl with cling film or a clean damp cloth, then set aside in a warm place for 1 hour, or until doubled in size. This will depend on how warm it actually is, so keep an eye on it! If it's particularly warm, it might take less time – you want the surface to be all bubbly."
+    },
+    {
+      "heading": "Grease Your Rings",
+      "description": "Grease your crumpet rings and a large pan with oil. Then set the pan over a low heat and bring up to temperature – this will take around 5 mins."
+    },
+    {
+      "heading": "Add Your Crumpets To The Pan",
+      "description": "Add the crumpet rings to the pan, and pour in about 3 tbsp of batter to each."
+    },
+    {
+      "heading": "Cook Your Crumpets",
+      "description": "Cook for around 12 mins or until the crumpets have set completely on top, and have formed lots of holes."
+    },
+    {
+      "heading": "Remove the Rings",
+      "description": "Then remove the rings, flip the crumpets and cook for 2 mins until cooked through and lightly golden on top. Remove from the pan and cool completely. Repeat until you’ve used all your batter."
+    },
+    {
+      "heading": "Serve Your Crumpets",
+      "description": "When it comes to serving, pop in the toaster and cook until warm – this might take less time than your shop bought crumpets! Spread with lots of butter and your toppings of choice – I love honey and sea salt or loads and loads of Marmite!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-22T13:29:00+00:00"
+}

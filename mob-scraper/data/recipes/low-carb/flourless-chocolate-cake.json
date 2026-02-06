@@ -1,0 +1,162 @@
+{
+  "id": "320222",
+  "slug": "flourless-chocolate-cake",
+  "title": "Flourless Chocolate Cake",
+  "url": "https://www.mob.co.uk/recipes/flourless-chocolate-cake",
+  "summary": "The flourless chocolate coffee cake has landed. It's all in the technique so follow the method to the letter. Topped with creamy icing and juicy berries.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Chocolate-website.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 70,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "fat": 15,
+    "saturated_fat": 9,
+    "carbohydrates": 18,
+    "dietary_fibre": 2,
+    "sugars": 15,
+    "sodium": 29
+  },
+  "ingredients": [
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Butter",
+      "quantity": "200",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Strong Coffee",
+      "quantity": "2",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Medium or 4 Large Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cocoa Powder",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mixed Berries Of Your Choice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Mixed Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "100ml Double Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 160°C/320°F. Grease a 20cm or 23cm springform cake tin with a little butter and line the base with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Break the chocolate into a bowl, add the butter. Melt in the microwave in 30 second bursts, or over a saucepan of simmering water (making sure the bottom of the bowl doesn’t touch the water). Once melted stir through the coffee, and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Next separate the egg whites and yolks between two large bowls. Using an electric whisk, whisk the egg whites until they hold their shape, looking like little soft mountains in the bowl."
+    },
+    {
+      "heading": null,
+      "description": "Tip the sugar into the bowl with the egg yolks. Without cleaning the beaters (there’s no need) whisk the egg yolks and sugar together until they are super pale, thick and voluminous. Be patient, you want the egg yolks and sugar to treble in size - it will take a good 5 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Sift the cocoa powder into the whisked egg yolks, add a big pinch of sea salt and scrape in the melted chocolate mixture. Stir together using a large metal spoon or spatula then gently fold in a third of the egg whites to loosen the cake batter, then fold in the rest. The tip here is to be confident in your folding - you want to keep as much air as possible in the cake so make decisive large turns with your spoon. Once the mixture is no longer streaky, carefully spoon into your prepared cake tin."
+    },
+    {
+      "heading": null,
+      "description": "If using a 20cm cake tin bake for 50 minutes - 1 hour. For a 23cm tin bake for 40- 50 minutes until the cake is just set on top and a skewer comes out clean. Don’t be tempted to open the oven door before then as with no flour in it the cake will deflate"
+    },
+    {
+      "heading": null,
+      "description": "Leave to cool, then serve with berries and something creamy of your choice. We like to pile everything into the middle of the cake. Impressive, and keeps for around 5 days, if it lasts that long."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-05-22T20:29:00+01:00"
+}

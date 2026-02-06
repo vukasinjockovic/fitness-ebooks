@@ -1,0 +1,152 @@
+{
+  "id": "6752510",
+  "slug": "very-boozy-sherry-trifle",
+  "title": "Very Boozy Sherry Trifle",
+  "url": "https://www.mob.co.uk/recipes/very-boozy-sherry-trifle",
+  "summary": "Layers of booze-soaked sponge, creamy custard and tart mixed berries. An absolute belter of a dessert. It works best with slightly stale sponge cake so bake or buy yours a couple of days in advance.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Boozy-Trifle.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 282,
+    "protein": 4,
+    "fat": 15,
+    "saturated_fat": 8,
+    "carbohydrates": 27,
+    "dietary_fibre": 1,
+    "sugars": 20,
+    "sodium": 41
+  },
+  "ingredients": [
+    {
+      "label": "200ml Sherry",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sherry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "900g Mixed Berry Coulis",
+      "quantity": "900",
+      "unit": null,
+      "name": "Mixed Berry Coulis",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Sponge Cake",
+      "quantity": "500",
+      "unit": null,
+      "name": "Sponge Cake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Vanilla Custard",
+      "quantity": "600",
+      "unit": null,
+      "name": "Vanilla Custard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Vanilla Custard",
+      "quantity": "600",
+      "unit": null,
+      "name": "Custard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Fresh Berries",
+      "quantity": "350",
+      "unit": null,
+      "name": "Fresh Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800ml double cream",
+      "quantity": "800",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g icing sugar",
+      "quantity": "15",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Toasted Flakes Almonds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Toasted Flaked Almonds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a bowl, stir together the sherry and coulis."
+    },
+    {
+      "heading": null,
+      "description": "Place ½ of the cake in the bottom of your glass bowl. Ladle a layer of custard on top, sprinkle with fresh berries and drizzle with some of the coulis mix. Repeat to the top, finishing with a layer of fruit."
+    },
+    {
+      "heading": null,
+      "description": "In a separate mixing bowl, use an electric whisk to whisk the double cream and icing sugar together until thick and soft with stiff peaks forming."
+    },
+    {
+      "heading": null,
+      "description": "Spoon (or use a piping bag to pipe) the whipped cream in a thick layer on top of the trifle. Top with the toasted flaked almonds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-08T09:24:00+01:00"
+}

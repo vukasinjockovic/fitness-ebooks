@@ -1,0 +1,142 @@
+{
+  "id": "6080830",
+  "slug": "pineapple-mint-margarita",
+  "title": "Pineapple & Mint Margarita",
+  "url": "https://www.mob.co.uk/recipes/pineapple-mint-margarita",
+  "summary": "Mint adds a lovely refreshing edge to this margarita made using Altos Plata Tequila. It's fresh, it's fruity, it's delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Pineapple-Mint-Margarita.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 206,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 27,
+    "dietary_fibre": 1,
+    "sugars": 25,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "75g Pineapple",
+      "quantity": "75",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Altos Plata Tequila",
+      "quantity": "50",
+      "unit": null,
+      "name": "Altos Plata Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Lime",
+      "quantity": "35",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Agave",
+      "quantity": "25",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Mint",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut your pineapple up and weigh up the desired amount, saving a slice for garnish. Also pull out a couple fronds off the top for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Juice your limes and pick five springs of mint leaves off their stalks."
+    },
+    {
+      "heading": null,
+      "description": "In a cocktail shaker add your pineapple and mint then using a blunt object squish it down a couple times to juice it."
+    },
+    {
+      "heading": null,
+      "description": "Add your tequila, agave, lime juice and ice."
+    },
+    {
+      "heading": null,
+      "description": "Shake vigorously for 15 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Double strain into your glass over ice."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with some mint, your reserved pineapple chunk and your pineapple fronds. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-15T16:00:00+01:00"
+}

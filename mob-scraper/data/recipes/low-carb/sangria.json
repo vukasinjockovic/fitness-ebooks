@@ -1,0 +1,143 @@
+{
+  "id": "3310048",
+  "slug": "sangria",
+  "title": "Sangria",
+  "url": "https://www.mob.co.uk/recipes/sangria",
+  "summary": "Sangria. It's one of the best drinks on the whole damn planet. God bless the Spanish for inventing something to use all those miscellaneous leftover wines for. Here's how to make the perfect sangria.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A1052.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 270,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 204,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 23,
+    "dietary_fibre": 2,
+    "sugars": 20,
+    "sodium": 3
+  },
+  "ingredients": [
+    {
+      "label": "1 Bottle of Red Wine",
+      "quantity": "750",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Double Measure of Brandy",
+      "quantity": "50",
+      "unit": null,
+      "name": "Brandy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Sugar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Oranges",
+      "quantity": "3",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Apple",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sparking water top (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Sparkling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start off my slicing then quartering the lemon and one of the oranges, as well as chopping the apple into small pieces."
+    },
+    {
+      "heading": null,
+      "description": "Juice the other oranges, mix in the sugar and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Put all the fruit and orange juice in a large pitcher along with the bottle of wine and double measure of brandy."
+    },
+    {
+      "heading": null,
+      "description": "Chill for 4 hours to overnight in the fridge to allow all the flavours to meddle and for the mixture to cool."
+    },
+    {
+      "heading": null,
+      "description": "Serve in a glass with ice, top it off with sparkling water and a slice of orange as garnish. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-10-11T07:00:00+01:00"
+}

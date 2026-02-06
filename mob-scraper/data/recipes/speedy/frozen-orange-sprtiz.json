@@ -1,0 +1,121 @@
+{
+  "id": "3466865",
+  "slug": "frozen-orange-sprtiz",
+  "title": "Frozen Orange Spritz",
+  "url": "https://www.mob.co.uk/recipes/frozen-orange-sprtiz",
+  "summary": "Frozen is always better than normal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A5629.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 277,
+    "protein": 2,
+    "fat": 1,
+    "saturated_fat": null,
+    "carbohydrates": 38,
+    "dietary_fibre": 4,
+    "sugars": 29,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "100ml Aperol",
+      "quantity": "100",
+      "unit": null,
+      "name": "Aperol",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Orange Juice",
+      "quantity": "100",
+      "unit": null,
+      "name": "Orange Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Strawberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Prosecco",
+      "quantity": "150",
+      "unit": null,
+      "name": "Prosecco",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Grapefruit",
+      "quantity": "1",
+      "unit": null,
+      "name": "Grapefruit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crushed Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Crushed Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour your Aperol and orange juice into an ice cube tray and freeze for 4-5 hours or overnight. Freeze your strawberries at the same time."
+    },
+    {
+      "heading": null,
+      "description": "Peel some rind off your grapefruit using a peeler and then juice it."
+    },
+    {
+      "heading": null,
+      "description": "Add your frozen Aperol, orange juice, strawberries, grapefruit juice and Prosecco into a blender with the crushed ice."
+    },
+    {
+      "heading": null,
+      "description": "Blend until it has a slushy consistency."
+    },
+    {
+      "heading": null,
+      "description": "Wrap up the grapefruit rind tightly and spear it with a cocktail stick for garnish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-03T17:00:00+01:00"
+}

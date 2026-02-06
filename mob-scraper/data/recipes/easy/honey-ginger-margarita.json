@@ -1,0 +1,145 @@
+{
+  "id": "6080866",
+  "slug": "honey-ginger-margarita",
+  "title": "Honey & Ginger Margarita",
+  "url": "https://www.mob.co.uk/recipes/honey-ginger-margarita",
+  "summary": "This margarita is everything you'd want and need when the sun is out. It's got a nice balance of sweet and heat and it's made using Altos Reposado Tequila.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Honey-Ginger-Margarita.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 282,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 32,
+    "dietary_fibre": 0,
+    "sugars": 31,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "5g Fresh Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Altos Plata Tequila",
+      "quantity": "50",
+      "unit": null,
+      "name": "Altos Reposado Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Cointreau",
+      "quantity": "25",
+      "unit": null,
+      "name": "Cointreau",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Honey",
+      "quantity": "25",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Lime",
+      "quantity": "35",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Candied Ginger",
+      "quantity": null,
+      "unit": null,
+      "name": "Candied Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ginger Beer",
+      "quantity": null,
+      "unit": null,
+      "name": "Ginger Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place your ginger in a cocktail shaker and using a blunt object squish it to a pulp."
+    },
+    {
+      "heading": null,
+      "description": "Add in your lime, honey, tequila, Cointreau, and ice."
+    },
+    {
+      "heading": null,
+      "description": "Shake for 10 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Double strain into a glass filled with ice."
+    },
+    {
+      "heading": null,
+      "description": "Top with ginger beer and then garnish with candied ginger skewered with a tooth pick, or garnish with a lime wedge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-22T05:30:00+01:00"
+}

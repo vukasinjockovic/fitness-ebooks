@@ -1,0 +1,288 @@
+{
+  "id": "4394715",
+  "slug": "nandos-fino-pitta",
+  "title": "N*ndo's Fino Pitta",
+  "url": "https://www.mob.co.uk/recipes/nandos-fino-pitta",
+  "summary": "This extra cheeky recipe is a riff on everyone's favourite item from Nando's: the fino pitta. Juicy chicken thighs and a killer marinade. You'll love this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Nandos-Fino-Pitta.jpg",
+  "cook_time": 45,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 849,
+    "protein": 44,
+    "fat": 46,
+    "saturated_fat": 16,
+    "carbohydrates": 65,
+    "dietary_fibre": 5,
+    "sugars": 15,
+    "sodium": 1452
+  },
+  "ingredients": [
+    {
+      "label": "3 Large Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soft Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soft Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Balsamic Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Mayonnaise",
+      "quantity": "150",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Block of Halloumi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Romaine Lettuce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Pitta Breads",
+      "quantity": "228",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Boneless & Skinless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Boneless & Skinless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Water",
+      "quantity": "3",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Neutral Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Scotch Bonnet Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rosemary",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the peri peri marinade, add all of the ingredients to a blender and season generously with salt and pepper – and I mean generously. Blitz until smooth. Marinate the chicken thighs in the sauce for a minimum of 1 hr (but ideally overnight) in a covered bowl."
+    },
+    {
+      "heading": null,
+      "description": "For the onion relish, peel and finely slice the red onions. Melt the butter and a splash of olive oil in a large pot and cook the onions with a big pinch of salt for 30-40 mins until sticky and soft. If they start to catch, just add in a splash of water and give it a good mix. Add the sugar and vinegar, then gently simmer for about 5 more mins until really sticky – give it a taste and adjust the vinegar and sugar to your liking. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the aioli, grate the garlic and zest and juice the lemon into the mayonnaise. Give it a good mix and season with salt and pepper. Done! Slice the halloumi and separate the romaine leaves."
+    },
+    {
+      "heading": null,
+      "description": "Heat your grill to high. Remove the chicken from the fridge and bring it up to room temp for 20 mins, then transfer to a tray. Slide under the grill and cook for 20-25 mins until the chicken is cooked through and charred. In the meantime, heat 1 tbsp oil in a large pan over a medium heat and add the halloumi. Cook for 2 mins on each side until golden."
+    },
+    {
+      "heading": null,
+      "description": "Time to assemble! Warm your pitta, then fill with aioli, chicken, halloumi, relish and lettuce. Voilà!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Portuguese"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-14T11:10:00+01:00"
+}

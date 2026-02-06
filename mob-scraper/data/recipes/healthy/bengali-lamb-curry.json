@@ -1,0 +1,342 @@
+{
+  "id": "6013665",
+  "slug": "bengali-lamb-curry",
+  "title": "Bengali Lamb Curry",
+  "url": "https://www.mob.co.uk/recipes/bengali-lamb-curry",
+  "summary": "Also known as kosha mangsho, this is the quintessential Bengali meat curry. Mustard oil balanced with cooling yoghurt gives this curry a flavour like no other. Enjoy it with rice, luchis or rotis. I used some leftover egg roll dough to make myself a paratha to dip into it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Bengali-Lamb-Curry-Recipe.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 80,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 51,
+    "fat": 48,
+    "saturated_fat": 10,
+    "carbohydrates": 8,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "1kg Diced  Lamb, Mutton or Goat Shoulder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Diced Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Diced  Lamb, Mutton or Goat Shoulder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ginger Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Natural Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Natural Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Turmeric",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mustard Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mustard Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Bay Leaves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-5 Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Green Cardamom Pods",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Dried Red Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Dried Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic and Ginger Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger And Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fried Onions",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fried Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tbsp Ground Coriander",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Pinch Bengali Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water, plus a splash",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sugar, to taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mustard Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Mustard Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Chillies",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bash the green chilli and pop into a large bowl. Add the rest of the marinade ingredients and thoroughly mix. Tip in the meat. Allow to marinate for 1 hr or ideally overnight."
+    },
+    {
+      "heading": null,
+      "description": "Add a glug of mustard oil to a frying pan with high sides (ideally one with a lid, which you’ll need later). Set the pan over a medium heat. Once hot, add the bay leaves, cinnamon stick, cloves, cardamom, black peppercorns and dried red chillies. Cook for 30-45 seconds until fragrant, stirring constantly. Stir through the ginger and garlic paste. Add the fried onions with a splash of water and cook until they’ve softened."
+    },
+    {
+      "heading": null,
+      "description": "Add the marinated meat to the pan and fry for 4-5 mins until browned. Add the ground coriander, cumin and garam masala, then mix well. Stir through the yoghurt and water, then season with salt and sugar. Bring the mixture to the boil, place a lid on top, turn the heat down to low and simmer for 45 mins-1 hr until the meat is tender (stir occasionally, so the bottom doesn’t catch)."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop the coriander and green chillies."
+    },
+    {
+      "heading": null,
+      "description": "Before serving, taste and season with salt and more sugar, if needed. Garnish with the coriander and green chillies."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Low Carb",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Bengali"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-27T10:51:00+01:00"
+}

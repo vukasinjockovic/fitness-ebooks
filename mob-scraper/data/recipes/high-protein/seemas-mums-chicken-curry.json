@@ -1,0 +1,309 @@
+{
+  "id": "1673271",
+  "slug": "seemas-mums-chicken-curry",
+  "title": "Seema's Mum's Chicken Curry",
+  "url": "https://www.mob.co.uk/recipes/seemas-mums-chicken-curry",
+  "summary": "My mum's chicken curry is what I miss most when I’m away from home. It’s iconic in our family and I’m so excited for us to share this recipe with you. Seema x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Seemas-Mums-Chicken-Curry.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 29,
+    "fat": 21,
+    "saturated_fat": 4,
+    "carbohydrates": 13,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 47
+  },
+  "ingredients": [
+    {
+      "label": "1kg Skinless Bone-in Chicken Legs and Thighs",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Skinless Bone-in Chicken Legs and Thighs",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Cloves",
+      "quantity": "7",
+      "unit": null,
+      "name": "Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Whole Black Peppercorns",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Dried Bird's Eye Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Dried Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cumin Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tin Chopped Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Cloves of Garlic",
+      "quantity": "7",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10cm Knob of Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-5 Fresh Bird's Eye Chillies (Depending On Your Spice Tolerance)",
+      "quantity": "5",
+      "unit": null,
+      "name": "Birds Eye Green Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Large Handful of Coriander",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Full-Fat Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Full-Fat Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Full-Fat Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garam Masala (Optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Jalapeños (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Jalapeno",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Blend the onion in a food processor until it's roughly chopped."
+    },
+    {
+      "heading": null,
+      "description": "Heat up 3 large glugs of oil in a large pot. When the oil is hot, add in the cumin seeds. Once the seeds are bubbling, add the cinnamon stick, cloves, black peppercorns, star anise and dried bird's eye chillies. Cook them for 30 secs until they are fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add in the blended onion cook for 10 mins on a low heat until they are caramelised and translucent."
+    },
+    {
+      "heading": null,
+      "description": "Blend the tinned chopped tomato, garlic, fresh bird's eye chillies, and half the ginger in the food processor – don’t worry about washing it between uses."
+    },
+    {
+      "heading": null,
+      "description": "Once the onions are browned, add the blended tomato mix and chilli powder, cumin powder, coriander powder, ground turmeric and ½ tsp salt. Cook for 10 mins, until the oil starts to separate from the sauce. You can add an extra glug of oil here to help fry the spices."
+    },
+    {
+      "heading": null,
+      "description": "Add in the chicken and mix well so it’s coated. Cook for another 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour in 250ml water and mix with the chicken. Pop on a lid and cook for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the coriander, julienne the remaining ginger and slice the jalapeños into thick coins."
+    },
+    {
+      "heading": null,
+      "description": "After 15 mins, stir in the yoghurt and garam masala along with half of fresh coriander, half the julienned ginger and half the sliced jalapeños."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with the remaining coriander, ginger and chilli. Pop a lid on the pot until you’re ready to serve. Enjoy with rice or freshly made rotli."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Freezer Friendly",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-03-08T04:00:00+00:00"
+}

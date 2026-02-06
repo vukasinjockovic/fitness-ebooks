@@ -1,0 +1,336 @@
+{
+  "id": "1939520",
+  "slug": "doms-subs-meatball-grinder",
+  "title": "Dom's Subs Meatball Grinder",
+  "url": "https://www.mob.co.uk/recipes/doms-subs-meatball-grinder",
+  "summary": "Greg Boyce from Dom's Subs shows us how to make this twist on a meatball sub. This sanger is super juicy and perfect to take on a summery picnic.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/new-0286.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1046,
+    "protein": 46,
+    "fat": 71,
+    "saturated_fat": 20,
+    "carbohydrates": 56,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "4 Bread Roll Subs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Bread Roll Sub",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Buttermilk",
+      "quantity": "40",
+      "unit": null,
+      "name": "Buttermilk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Chicken Stock",
+      "quantity": "50",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Handful Of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½  Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves Of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Fennel Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Beef Mince",
+      "quantity": "225",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Beef Mince",
+      "quantity": "225",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Pork Mince",
+      "quantity": "225",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Pork Mince",
+      "quantity": "225",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan Cheese",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mayonnaise",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Apple Cider Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp 'Nduja Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nduja",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Head Iceberg Lettuce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Sherry Vinegar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Slices Mortadella",
+      "quantity": "12",
+      "unit": null,
+      "name": "Mortadella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C/400°F."
+    },
+    {
+      "heading": null,
+      "description": "Cut your bread rolls in half and scoop out the insides."
+    },
+    {
+      "heading": null,
+      "description": "Put the insides into a bowl and cover with buttermilk and chicken stock, mix well and allow it to soak for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, roughly chop your parsley, finely chop up your onion and mince your garlic. Separate your egg white and yolks."
+    },
+    {
+      "heading": null,
+      "description": "Add ½ tsp oregano, ground fennel seeds, parsley, onion, garlic, beef mince, pork mince, egg yolks, salt and pepper to the soaked bread and mix well. Grate in 50g of parmesan and mix it up again."
+    },
+    {
+      "heading": null,
+      "description": "Shape your mixture into golf ball-sized balls and pop into a baking tray. Bake for 15 mins and then lower the temp to 180°C/360°F and continue cooking another 10 mins or until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "For the creamy Italian dressing, combine 100g mayo, 50g parmesan, ½ tsp dried oregano, apple cider vinegar and freshly ground black pepper in a bowl. Whisk that up until it reaches a creamy, sauce-like consistency"
+    },
+    {
+      "heading": null,
+      "description": "To make the 'nduja mayo, combine 100g mayonnaise with 2 tbsp of 'nduja paste, the juice of a lemon, and salt."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred your iceberg lettuce and chop up the broccoli into small pieces."
+    },
+    {
+      "heading": null,
+      "description": "Get a pot of salted boiling water and blanch your broccoli for 3 mins. Set aside and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "For the Dom's Subs Juice: mix 50ml of your sherry vinegar with equal parts of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Now it's time to build the sandwich. Spread 2 tbsp of 'nduja mayo on the inside of your hollowed sub rolls followed by 3 slices of mortadella, blanched broccoli, and your meatballs. Once all those ingredients are neatly tucked in your subs, you can coat them with the creamy Italian dressing. Use as much as you see fit. Top your filling with shredded lettuce and a drizzle of ‘juice’ before wrapping the whole thing up in tin foil. Slice it in half and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian-American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-04-25T09:00:00+01:00"
+}

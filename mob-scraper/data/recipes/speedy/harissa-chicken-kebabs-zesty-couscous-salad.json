@@ -1,0 +1,259 @@
+{
+  "id": "7233222",
+  "slug": "harissa-chicken-kebabs-zesty-couscous-salad",
+  "title": "Harissa Chicken Kebabs & Zesty Couscous Salad",
+  "url": "https://www.mob.co.uk/recipes/harissa-chicken-kebabs-zesty-couscous-salad",
+  "summary": "In Partnership with Al'Fez. #ad\n\nJuicy harissa-infused chicken kebabs served over a tangy couscous salad with olives, roasted peppers and pickled onions. Proper sunshine-in-a-bowl vibes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Harissa-Chicken-Koftas-Zesty-Couscous-Salad.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 507,
+    "protein": 29,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 46,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Harissa",
+      "quantity": "3",
+      "unit": null,
+      "name": "Al'Fez Harissa Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Couscous",
+      "quantity": "200",
+      "unit": null,
+      "name": "Al'Fez Moroccan Spiced Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Boiling Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Mixed Olives",
+      "quantity": "120",
+      "unit": null,
+      "name": "Mixed Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1x460g Roasted Red Peppers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Red Wine Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salts",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt, to serve, optional",
+      "quantity": "150",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "150g Greek Yoghurt, to serve, optional",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C. \nIf using wooden skewers, soak them in water to stop them catching under the grill."
+    },
+    {
+      "heading": null,
+      "description": "Chop the chicken into 3cm chunks and chuck into a bowl. Grate in the garlic and stir through the Al'Fez Harissa Paste. Season with salt and pepper, then thread the chicken onto skewers. Drizzle a little olive oil onto a baking tray, arrange the skewers on top and roast for 10–15 mins, until cooked through and golden."
+    },
+    {
+      "heading": null,
+      "description": "Tip the Al'Fez Moroccan Spiced Couscous into a bowl, pour over the boiling water and cover with a plate or lid. Let it steam for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, halve the olives. Drain the peppers and finely chop. Chop the cherry tomatoes into 2cm chunks (halve the small ones). Thinly slice the red onion. Add the onion to a large bowl with the red wine vinegar and a pinch of salt. Give it a toss and set aside to pickle."
+    },
+    {
+      "heading": null,
+      "description": "Pick the parsley leaves, discarding the stalks. Then fluff the couscous with a fork, then chuck the chopped tomatoes, peppers and olives into the pickled onion bowl."
+    },
+    {
+      "heading": null,
+      "description": "Just before serving, toss the parsley through the couscous along with the contents from pickled onion bowl. Season to taste. Spoon the couscous salad into bowls and top with the harissa chicken and a dollop of yoghurt and get stuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-07-10T07:00:00+01:00"
+}

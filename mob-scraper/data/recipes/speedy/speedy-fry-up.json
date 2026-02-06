@@ -1,0 +1,207 @@
+{
+  "id": "4407268",
+  "slug": "speedy-fry-up",
+  "title": "Mob's Speedy Fry Up",
+  "url": "https://www.mob.co.uk/recipes/speedy-fry-up",
+  "summary": "The speediest fry up you’ll ever cook, guaranteed. The key here is high heat and some good multitasking. Get into the zone and smash it in 12 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Mobs-Speedy-Fry-Up.jpg",
+  "cook_time": 7,
+  "prep_time": 4,
+  "total_time": 12,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 34,
+    "fat": 41,
+    "saturated_fat": 14,
+    "carbohydrates": 38,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "12 Pork Chipolata Sausages",
+      "quantity": "12",
+      "unit": null,
+      "name": "Pork Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Pork Chipolata Sausages",
+      "quantity": "12",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Rashers Streaky Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Streaky Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Rashers Streaky Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Button Mushrooms",
+      "quantity": "250",
+      "unit": null,
+      "name": "Button Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Button Mushrooms",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Slices of Bread",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Condiments of Your Choice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get two large frying pans over a high heat and drizzle a little oil\ninto each. Place the chipolatas in one of the pans. Space out the\nrashers of bacon in the other."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the mushrooms, then chuck them into the pan with\nthe bacon. Nestle the cherry tomatoes between the sausages in\nthe pan. Fry for about 8 mins, turning the sausages and bacon\nwhen needed, until everything is cooked through and to your\nliking. Turn down the heat on the bacon pan if it is crisp before\nthe sausages are done."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, crack the eggs into a large measuring jug. Whisk\ntogether with a fork and season well with salt and black pepper.\nAdd a knob of butter. Blast in the microwave for 30 seconds at a time, stirring after each blast, until you have super creamy\nscrambled eggs. Stop cooking just before the eggs are set as\nthey will carry on cooking in the jug."
+    },
+    {
+      "heading": null,
+      "description": "Toast the bread and put it onto a plate. Serve the sausages,\ntomatoes, bacon, mushrooms, scrambled eggs and toast at the\ntable, with plenty of condiments for people to help themselves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-21T17:15:00+01:00"
+}

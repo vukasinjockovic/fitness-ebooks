@@ -1,0 +1,374 @@
+{
+  "id": "6249109",
+  "slug": "soy-sauce-chicken",
+  "title": "Soy Sauce Chicken & Fudgy Eggs With Spring Onion Ginger Oil",
+  "url": "https://www.mob.co.uk/recipes/soy-sauce-chicken",
+  "summary": "A simple and saucy chicken recipe. The spring onion ginger oil adds a lovely flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Soy-Sauce-Chicken-Fudgy-Eggs-With-Spring-Onion-Ginger-Oil.jpg",
+  "cook_time": 50,
+  "prep_time": 10,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 31,
+    "fat": 27,
+    "saturated_fat": 5,
+    "carbohydrates": 74,
+    "dietary_fibre": 3,
+    "sugars": 8,
+    "sodium": 2100
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Dark Soy Sauce",
+      "quantity": "60",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Medium-Firm Tofu",
+      "quantity": "140",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Medium-Firm Tofu",
+      "quantity": "140",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2½cm Cinnamon Stick",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked White Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked White Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Rice Wine",
+      "quantity": "60",
+      "unit": null,
+      "name": "Rice Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Light Soy Sauce",
+      "quantity": "60",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Spring Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Ginger",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Neutral or Peanut Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cornstarch",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Water",
+      "quantity": "4",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Boil a full kettle of water. Place the chicken legs into a large rimmed dish or pan, skin-side up. Pour the boiling kettle water over the chicken skin – it will immediately tighten the skin. Leave it to soak for 1 min, then drain, pat dry with kitchen paper and pour over the dark soy sauce. Set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Slice the ginger. Slice the entire garlic bulb in half (keep the skin on). Quarter the shallots and remove the skin. Cut the spring onions into chunks."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of oil to a medium-sized saucepan or casserole dish set over a high heat. Add the aromatics (make sure the garlic bulbs are face down) and cook for 1 min or until fragrant. Now add the rice wine, followed by the remaining braising liquid ingredients and bring to a simmer, then reduce the heat to the lowest fire. Ladle the sauce over the chicken for 2 mins, then add a lid and leave it to cook for 15 mins. Turn the heat off to leave it to steam for 30 mins, without opening the lid."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, boil a small pot of water, add the eggs once boiling and cook for 6 mins, then plunge into a bowl of very cold tap water. Lightly crack the shells and leave in the water until the eggs have cooled. Peel the eggs once cooled (they will be fragile, so peel delicately) and set aside. Slice the tofu into squares and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the scallion ginger oil, first finely dice the spring onions and use a microplane or box grater to grate the ginger. Add the oil and minced ginger to a small pan set over a high heat. Cook for 30 seconds just until the ginger gets lightly golden, then add all the spring onions, mix well and turn the heat off. Add all the remaining ingredients and set aside in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Combine the cornstarch slurry ingredients in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Now remove the rested chicken legs onto a plate and use a sieve to remove all the aromatics. Squeeze the garlic bulbs, releasing the cloves back into the sauce. Add in the eggs and tofu and bring to a boil. Use your finger to give the cornstarch slurry a mix and pour half into the sauce, then mix for 1 min. Only add more if it needs more thickening – it should be a delicate gravy-like texture. Then turn the heat off."
+    },
+    {
+      "heading": null,
+      "description": "Serve the chicken over the rice, with the eggs and tofu. Pour a ladle of sauce over the chicken, then serve with a few tsp ginger scallion oil all over the chicken and rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-05T11:26:00+01:00"
+}

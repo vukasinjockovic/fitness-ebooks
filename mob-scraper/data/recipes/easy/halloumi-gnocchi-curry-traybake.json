@@ -1,0 +1,274 @@
+{
+  "id": "7069673",
+  "slug": "halloumi-gnocchi-curry-traybake",
+  "title": "Halloumi Gnocchi Curry Traybake",
+  "url": "https://www.mob.co.uk/recipes/halloumi-gnocchi-curry-traybake",
+  "summary": "This bold and fiery traybake blends crispy halloumi, pillowy gnocchi and a rich coconut curry sauce. Topped with tangy pickled chillies and cooling yoghurt – it’s big on flavour, low on effort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Halloumi-Gnocchi-Curry-Traybake.jpg",
+  "cook_time": 35,
+  "prep_time": 15,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 18,
+    "fat": 27,
+    "saturated_fat": 15,
+    "carbohydrates": 49,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "500g gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g halloumi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 mixed peppers",
+      "quantity": "4",
+      "unit": null,
+      "name": "Long Mixed Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sea salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g fresh ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Scotch bonnet",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp tomato purée",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp curry powder",
+      "quantity": "3",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml tin coconut milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml vegetable stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp apple cider vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g fresh coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Plain Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Plain Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Plain Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Quick-pickle the chilli. Finely slice the Scotch bonnet and add to a small bowl with the vinegar, sugar and a good pinch of salt. Mix well and set aside to pickle while you cook."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Make the curry sauce. Chuck all the curry sauce ingredients into a blender and blitz until smooth. Pour into a saucepan and bring to the boil. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Dice the halloumi and peppers into bite-sized chunks. Tip into a large roasting tray with a drizzle of olive oil and season well. Roast for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Take the tray out, add the gnocchi, then pour over the hot curry sauce. Give everything a good mix, then return to the oven for 20–25 mins, until bubbling and golden at the edges."
+    },
+    {
+      "heading": null,
+      "description": "Serve it up. Top with dollops of yoghurt, fresh coriander and a scattering of pickled chillies."
+    }
+  ],
+  "tips": [
+    "Halloumi → Paneer, firm tofu, or a plant-based halloumi alternative",
+    "Gnocchi → Use gluten-free gnocchi if needed",
+    "Coconut milk → Swap for oat cream or reduced-fat coconut milk for a lighter version",
+    "Scotch bonnet → Use red chillies for less heat, or leave out entirely",
+    "Make ahead: Prepare the curry sauce and pickle the chillies up to 3 days in advance.",
+    "Lunches: Store in airtight containers and reheat in the microwave or oven until piping hot. Add yoghurt and chillies fresh."
+  ],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Family-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-01T09:01:00+01:00"
+}

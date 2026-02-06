@@ -1,0 +1,155 @@
+{
+  "id": "6579136",
+  "slug": "lemon-pistachio-shortbread",
+  "title": "Lemon Pistachio Shortbread",
+  "url": "https://www.mob.co.uk/recipes/lemon-pistachio-shortbread",
+  "summary": "Our nutty, citrus twist on a classic shortbread. These will make your kitchen smell incredible.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Lemon-Pistachio-Shortbread.jpg",
+  "cook_time": 12,
+  "prep_time": 120,
+  "total_time": 132,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 8,
+    "saturated_fat": 4,
+    "carbohydrates": 11,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "250g Cold Unsalted Butter",
+      "quantity": "250",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Pistachios",
+      "quantity": "70",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g White Spelt Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "White Spelt Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Caster Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Icing Sugar",
+      "quantity": "25",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Line two baking trays with baking parchment. Ensure your butter is very cold. Cut the butter into cubes. Finely grate the zest of the lemon and crush the pistachios in a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Sift the flour, sugars, salt, lemon zest and crushed pistachios together in a large bowl and mix to combine. Add the cold butter and use your fingertips and thumbs to rub the flour mix into the butter until it resembles fine breadcrumbs. Add the egg yolk and vanilla and use your hands to gently bring the mixture together into a dough, being careful not to overwork it."
+    },
+    {
+      "heading": null,
+      "description": "Using a rolling pin, roll the dough out on a floured surface to approximately 1cm thick. Use an 8cm cookie cutter (or 6cm if you prefer mini shortbreads) to cut the dough into circles. Place them on the prepared baking tray and refrigerate for a minimum of 2 hours, but preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Slide the tray into the oven and bake for approximately 12 mins, or until the edges are just starting to brown. Remove from the oven, cool on the tray for a couple of mins, then transfer to a wire rack. Dust the tops with more sugar and leave to cool completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Afternoon Tea"
+  ],
+  "cuisines": [
+    "British",
+    "Scottish"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T16:39:00+01:00"
+}

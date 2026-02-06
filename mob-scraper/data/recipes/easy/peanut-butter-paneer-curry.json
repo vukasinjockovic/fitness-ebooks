@@ -1,0 +1,292 @@
+{
+  "id": "4646167",
+  "slug": "peanut-butter-paneer-curry",
+  "title": "Peanut Butter Paneer Curry",
+  "url": "https://www.mob.co.uk/recipes/peanut-butter-paneer-curry",
+  "summary": "This midweek curry is the perfect veggie number to comfort while also getting in a dose of veg. It's good eating.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Peanut-Butter-Paneer-Curry.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 13,
+    "fat": 22,
+    "saturated_fat": 8,
+    "carbohydrates": 15,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "1 ½ Red Onions",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Red Onions",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb Sized Piece of Fresh Ginger (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garam Masala",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tomato Purée",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Smooth Peanut Butter",
+      "quantity": "4",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Water",
+      "quantity": "400",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "226g Paneer",
+      "quantity": "226",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "226g Paneer",
+      "quantity": "226",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Baby Spinach Leaves",
+      "quantity": "120",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Basmati Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Basmati Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Natural Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Natural Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander Leaves (Optional)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the red onions. Scrape into a large saucepan, with a good drizzle of neutral oil and a pinch of salt. Cook over a medium heat, stirring occasionally for 6-8 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel and roughly chop the ginger and garlic. Add to the pan, turn the heat to medium high and cook out for 2-3 mins then add cumin seeds, all the chilli powder, garam masala and tomato purée. Cook, stirring for a few minutes more."
+    },
+    {
+      "heading": null,
+      "description": "Add the peanut butter along with water. Using a hand blender blitz until a smooth and creamy curry sauce, season to taste – if you like your curry a little thinner - add a splash more water."
+    },
+    {
+      "heading": null,
+      "description": "Get started on your topping by toasting cumin seeds in a small frying pan until they’re smelling amazing – tip ‘em into a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Very finely chop the remaining red onion, add to the bowl with the toasted cumin seeds and some seasoning, stir together."
+    },
+    {
+      "heading": null,
+      "description": "Cut the paneer into bite-sized cubes. Heat the curry sauce until simmering then add the paneer, peas and spinach. Cook until the spinach is wilted and paneer soft, around 2-3 mins."
+    },
+    {
+      "heading": null,
+      "description": "Swirl the yoghurt through the curry, top with the cumin, red onion, and some coriander if you like. Serve with cooked basmati rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Carb",
+    "Family-Friendly",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-22T08:00:00+00:00"
+}

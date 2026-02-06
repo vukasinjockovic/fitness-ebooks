@@ -1,0 +1,168 @@
+{
+  "id": "6956645",
+  "slug": "beer-battered-vegetable-fritters",
+  "title": "Beer-Battered Vegetable Fritters",
+  "url": "https://www.mob.co.uk/recipes/beer-battered-vegetable-fritters",
+  "summary": "These fritters are a great way to use up whatever leftover veggies you've got in the fridge. Serve them hot and salty with a cold beer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Vegetable-Tempura.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": null,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 4,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 45,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "140g Cornflour",
+      "quantity": "140",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Plain Flour",
+      "quantity": "140",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160ml Beer",
+      "quantity": "160",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Rainbow Carrots",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rainbow Carrots",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Spring Onion",
+      "quantity": "140",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Prepare your veg. Roughly chop your carrots and courgette into matchsticks. Halve your onion then finely slice it. Roughly chop your spring onion into thirds (you can leave the roots on). Finely chop your chilli. Place the veggies in a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Heat the vegetable oil to 180°C in a deep saucepan set over a medium heat (if you don’t have a thermometer, pop the end of a wooden spoon in the oil; it’s ready when small bubbles form around it)."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, mix together the cornflour and plain flour then whisk in the beer. The batter should be thin and pourable but thick enough to cling to the vegetables."
+    },
+    {
+      "heading": null,
+      "description": "Grab small bundles of vegetables from the bowl, dip them into the beer batter, and then straight into the oil. Leave them to fry for 2 mins until the batter is light brown and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Drain on paper towels and season with salt whilst hot."
+    },
+    {
+      "heading": null,
+      "description": "To serve, transfer to a plate with some soy sauce and mayonnaise for dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Starter"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-30T12:00:00+00:00"
+}

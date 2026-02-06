@@ -1,0 +1,280 @@
+{
+  "id": "7095947",
+  "slug": "tangy-tamarind-roasted-carrot-sweet-potato-salad",
+  "title": "Tangy Tamarind Roasted Veg Salad",
+  "url": "https://www.mob.co.uk/recipes/tangy-tamarind-roasted-carrot-sweet-potato-salad",
+  "summary": "Inspired by the flavours found in Indian chaat, this is a tangy, spicy, hearty salad, perfect for a make ahead nutritious lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Lunch-Box-Tangy-Tamarind-Roasted-Veg-Salad.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 8,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 56,
+    "dietary_fibre": 8,
+    "sugars": 13,
+    "sodium": 123
+  },
+  "ingredients": [
+    {
+      "label": "300g Carrots",
+      "quantity": "300",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Sweet Potatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Sweet Potatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tamarind Puree",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tamarind Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Maple Syrup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Grains",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Mixed Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Natural Yoghurt",
+      "quantity": "60",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Natural Yoghurt",
+      "quantity": "60",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Olive Oil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to fan 200°C"
+    },
+    {
+      "heading": null,
+      "description": "Peel (optional) and chop the carrots &amp; sweet potatoes into 2cm chunks. Toss with a drizzle of olive oil, season with salt &amp; pepper, then spread out on a baking tray. Roast for 25–30 mins, until softened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile stir the ground cumin, tamarind purée &amp; maple to make the sweet and tangy glaze. Taste &amp; tweak the balance if needed, more tamarind for tang, more maple for sweetness. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Trim and thinly slice the onion and green chilli. Pick the coriander leaves, set the coriander stems aside. Place the onion into a sieve and wash under cold running water. Then soak in a bowl full of ice water, this takes away the harsh bite and makes them last longer."
+    },
+    {
+      "heading": null,
+      "description": "Chuck the coriander stems, yoghurt, green chillies, ground cumin &amp; olive oil into a blender. Blitz until smooth, then season with salt, pepper &amp; lemon juice to taste. Divide between boxes."
+    },
+    {
+      "heading": null,
+      "description": "Once the veggies are cooked, pour the tamarind glaze over the top, toss together and return to the oven for 5-7 mins until sticky. Leave to cool before boxing up."
+    },
+    {
+      "heading": null,
+      "description": "Drain the onions and toss with the sliced green chilli, coriander leaves and roasted veg."
+    },
+    {
+      "heading": null,
+      "description": "Top the dressing with the grains and roasted veg mixture. Refrigerate until needed. Shake before serving."
+    }
+  ],
+  "tips": [
+    "Works with any grain – freekeh, bulgur or brown rice will be great here.",
+    "Make it vegan with dairy-free yoghurt.",
+    "Great cold, but also delish served warm."
+  ],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "Packed Lunch",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-23T14:38:00+01:00"
+}

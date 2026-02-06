@@ -1,0 +1,262 @@
+{
+  "id": "5352856",
+  "slug": "sausage-meatballs-with-tomato-romesco",
+  "title": "Sausage Meatballs with Tomato Romesco",
+  "url": "https://www.mob.co.uk/recipes/sausage-meatballs-with-tomato-romesco",
+  "summary": "Making your own meatballs from sausages is a great little shortcut that'll ramp up the flavour of this dish and save you time in the kitchen.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Sausage-Meatballs-with-Tomato-Romesco.jpg",
+  "cook_time": 45,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 27,
+    "fat": 48,
+    "saturated_fat": 9,
+    "carbohydrates": 36,
+    "dietary_fibre": 12,
+    "sugars": 8,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "8 Pork Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Pork Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Pork Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Leeks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Butter Beans",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Butter Beans",
+      "quantity": "480",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sundried Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sundried Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Roasted Peppers",
+      "quantity": "4",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Almonds",
+      "quantity": "100",
+      "unit": null,
+      "name": "Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sherry Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 210°C."
+    },
+    {
+      "heading": null,
+      "description": "Whip the skins off of the sausages and roll into little meatballs. Cut the leeks into chunky rings and tip into a roasting tray with the whole, unpeeled garlic cloves and the cherry tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Top with the meatballs, drizzle the lot with olive oil and season with salt, black pepper and the dried oregano. Slide into the oven for 25 mins."
+    },
+    {
+      "heading": null,
+      "description": "Whip the tray out of the oven, add the butter beans, and pop back in for another 15-20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomatoes, pepper and almonds to a blender. Remove the garlic cloves from the oven and squeeze the flesh into the blender. Whizz until smooth, drizzling in olive oil as you go, season with salt and pepper and half of the sherry vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the parsley."
+    },
+    {
+      "heading": null,
+      "description": "Pull the tray out of the oven, add the remaining vinegar and finish with chopped parsley."
+    },
+    {
+      "heading": null,
+      "description": "Add a few spoons of the romesco sauce to your plates and top with generous helping of the beans, veggies and meatballs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-16T00:30:00+01:00"
+}

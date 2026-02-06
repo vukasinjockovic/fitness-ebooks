@@ -1,0 +1,100 @@
+{
+  "id": "3505879",
+  "slug": "frozen-cheeky-vimto",
+  "title": "Frozen Cheeky Vimto",
+  "url": "https://www.mob.co.uk/recipes/frozen-cheeky-vimto",
+  "summary": "Port and WKD? Sounds like a great combo and it is.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9809.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 299,
+    "protein": 2,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 48,
+    "dietary_fibre": 3,
+    "sugars": 44,
+    "sodium": 9
+  },
+  "ingredients": [
+    {
+      "label": "50ml Port",
+      "quantity": "50",
+      "unit": null,
+      "name": "Port",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275ml WKD",
+      "quantity": "275",
+      "unit": null,
+      "name": "WKD",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crushed Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Crushed Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by pouring 50ml of port into an ice cube tray and then fill the rest with WKD. Freeze this overnight."
+    },
+    {
+      "heading": null,
+      "description": "Peel off some of the orange rind for garnish using a peeler, then cut and juice your orange."
+    },
+    {
+      "heading": null,
+      "description": "Blend up your ice cube ingredients, then add your crushed ice and the rest of the WKD and blend again."
+    },
+    {
+      "heading": null,
+      "description": "Pour into a large glass and garnish with your orange."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-15T12:00:00+01:00"
+}

@@ -1,0 +1,286 @@
+{
+  "id": "4643389",
+  "slug": "french-onion-ramen",
+  "title": "French Onion Ramen",
+  "url": "https://www.mob.co.uk/recipes/french-onion-ramen",
+  "summary": "French onion soup and ramen are two extremely iconic comforting umami staples. We've combined the two in this warming recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/French-Onion-Ramen.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1092,
+    "protein": 21,
+    "fat": 59,
+    "saturated_fat": 17,
+    "carbohydrates": 117,
+    "dietary_fibre": 8,
+    "sugars": 21,
+    "sodium": 2726
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Unsalted Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Clove",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Clove",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml White Wine",
+      "quantity": "125",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sprigs of Fresh Thyme (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ramen Noodles",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ramen Noodles",
+      "quantity": "250",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Beef Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Beef Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800ml Water",
+      "quantity": "800",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp White Pepper",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Grated Cheddar Cheese, Plus Extra To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Grated Cheddar Cheese, Plus Extra To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Finely Diced Onion, Chilled",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Crispy Shallots, to Serve",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Egg Yolks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Small Squares Of Salted Butter, Chilled",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crushed Toasted Sesame Seeds (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Lemon Juice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the tops and bottoms of the onions, then slice in half and remove the skins, setting the skins aside for later. Finely slice all the onions along the grain (this will help keep their shape later), then peel and slice the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add the butter, vegetable oil, onions, garlic and 1 tsp salt to a lidded medium-sized pot set over a high heat. Stir until all the butter has melted. Add a lid and reduce the heat to low. Leave to steam for 20 mins, checking and stirring after 10 mins to ensure no burning."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine all the stock ingredients plus a pinch of salt in a large jug. Set aside. Cook the noodles following pack instructions, then drain and rinse in cold water. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Once the onions have been cooking for 20 mins, pour in the wine and increase the heat to high. Cook for 5 mins, stirring occasionally, until all the liquid has evaporated and the onions have slightly darkened and caramelised. Add all the stock mixture and thyme, then stir well. Lay the reserved onion skins on top of the ramen, put a lid on and reduce the heat to low. Simmer for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the onion skins from the pot and discard. Add 2 tbsp grated cheddar and 2 tbsp lemon juice to the ramen, then mix well. Ladle the onion soup into two serving bowls, then divide the noodles between the bowls, letting them sit on the surface of the soup. Grate over a nest of cheddar cheese, top with the chilled diced raw onions, then carefully add 1 raw egg yolk per person. Finish with toasted sesame seeds, toasted sesame oil and, most importantly, a square of chilled butter."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-22T08:44:00+00:00"
+}

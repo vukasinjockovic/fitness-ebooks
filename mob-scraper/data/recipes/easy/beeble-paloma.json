@@ -1,0 +1,121 @@
+{
+  "id": "5915312",
+  "slug": "beeble-paloma",
+  "title": "Beeble Paloma",
+  "url": "https://www.mob.co.uk/recipes/beeble-paloma",
+  "summary": "A refreshing summery cocktail recipe made with Beeble Honey Tequila. It's a little bit sweet, a little sharp, and a lot of delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Beeble-Paloma.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 110,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 14,
+    "dietary_fibre": 0,
+    "sugars": 14,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "50ml Beeble Tequila",
+      "quantity": "50",
+      "unit": null,
+      "name": "Beeble Honey Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml grapefruit juice",
+      "quantity": "25",
+      "unit": null,
+      "name": "Grapefruit Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml sugar syrup",
+      "quantity": "25",
+      "unit": null,
+      "name": "Sugar Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10ml lime",
+      "quantity": "10",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g sugar",
+      "quantity": "10",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Soda Water",
+      "quantity": null,
+      "unit": null,
+      "name": "Soda Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Zest the lime and mix with the sugar, then squeeze the lime for the juice."
+    },
+    {
+      "heading": null,
+      "description": "Rub the lime husk around the rim to wet it and dip in the sugar zest mix."
+    },
+    {
+      "heading": null,
+      "description": "Fill the glass with ice."
+    },
+    {
+      "heading": null,
+      "description": "In a shaker go in with your tequila, grapefruit juice, sugar syrup and lime juice then add some ice and shake. Double strain into your rimmed glass then add a slice of grapefruit for garnish. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-11T11:14:00+01:00"
+}

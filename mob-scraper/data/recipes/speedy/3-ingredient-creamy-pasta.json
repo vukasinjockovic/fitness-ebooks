@@ -1,0 +1,135 @@
+{
+  "id": "3791043",
+  "slug": "3-ingredient-creamy-pasta",
+  "title": "3 Ingredient Creamy Pasta",
+  "url": "https://www.mob.co.uk/recipes/3-ingredient-creamy-pasta",
+  "summary": "Three ingredients, 10 minutes, dinner is served. This easy and creamy vegan pasta is to die for.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/09/3-Ingredient-Creamy-Pasta.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 426,
+    "protein": 18,
+    "fat": 7,
+    "saturated_fat": 2,
+    "carbohydrates": 69,
+    "dietary_fibre": 8,
+    "sugars": 4,
+    "sodium": 156
+  },
+  "ingredients": [
+    {
+      "label": "250g Pasta (I Used Pappardelle)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pappardelle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Pasta (I Used Pappardelle)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Butter Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Butter Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegan Herby Cream Cheese (I Used Sheese Brand)",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegan Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Of Fresh Herbs (Optional)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook your pasta as per instructions."
+    },
+    {
+      "heading": null,
+      "description": "Empty the tin of butter beans with the liquid into a shallow, wide saucepan. \nAdd 3 tbsp of vegan cream cheese and simmer for 5-6 mins on a low heat, stirring occasionally, until the butterbean liquid and the cream cheese have turned into a creamy sauce. The butter beans should be softened."
+    },
+    {
+      "heading": null,
+      "description": "Chop the herbs."
+    },
+    {
+      "heading": null,
+      "description": "Drain the pasta, keeping a cup of pasta water to the side. Add the pasta and most of the herbs, if using, to the sauce and stir well. Add a little pasta water if the sauce is too thick and season well."
+    },
+    {
+      "heading": null,
+      "description": "Serve with plenty of herbs on top, if using."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-31T15:33:00+01:00"
+}

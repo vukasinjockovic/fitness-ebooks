@@ -1,0 +1,181 @@
+{
+  "id": "4646060",
+  "slug": "sprout-pancetta-noodles",
+  "title": "Sprout & Pancetta Noodles",
+  "url": "https://www.mob.co.uk/recipes/sprout-pancetta-noodles",
+  "summary": "You just can’t beat a stir fry. This one uses staple condiments you’ll already have at home to make the sauce, reminiscent of Japanese yakisoba. Crispy pancetta and charred sprouts complete the mix.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Sprout-Pancetta-Noodles.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 563,
+    "protein": 20,
+    "fat": 18,
+    "saturated_fat": 5,
+    "carbohydrates": 77,
+    "dietary_fibre": 7,
+    "sugars": 17,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Ketchup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Worcestershire Sauce",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Brussels Sprouts",
+      "quantity": "200",
+      "unit": null,
+      "name": "Brussels Sprout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "65g Cubed Pancetta",
+      "quantity": "65",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Udon Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Udon Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crispy Chilli Oil, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix the ketchup, soy, Worcestershire sauce and honey together in a small bowl with water. Set the sauce aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut the sprouts in half. Peel and finely slice the carrot into matchsticks (or peel if you can't be bothered). Finely slice the spring onions (both green and white parts)."
+    },
+    {
+      "heading": null,
+      "description": "Pour a small splash of neutral oil into a wok or high sided frying pan. Add the pancetta, fry over a high heat for 4-5 mins until crisp. Remove with a slotted spoon into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the sprouts to the pan. Stir fry for 4-5 mins until they are charred and tender. Add the carrot and three-quarters of the spring onions and chilli. Stir fry for another minute or so, adding a splash more oil if needed then tip in the noodles."
+    },
+    {
+      "heading": null,
+      "description": "Add the sauce to the pan. Cook for a couple of minutes tossing, until the noodles and veg are coated in the sauce then toss back through the crispy pancetta."
+    },
+    {
+      "heading": null,
+      "description": "Divide between two bowls, top with the remaining spring onion and chilli oil to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-15T10:05:00+00:00"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "3805470",
+  "slug": "sticky-toffee-pudding",
+  "title": "Sticky Toffee Pudding",
+  "url": "https://www.mob.co.uk/recipes/sticky-toffee-pudding",
+  "summary": "The perfect end to a Sunday roast dinner, complete with a hot toffee sauce and served with a big scoop of melting ice cream.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Sticky-Toffee-Pudding.jpg",
+  "cook_time": 45,
+  "prep_time": 20,
+  "total_time": 65,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 370,
+    "protein": 3,
+    "fat": 22,
+    "saturated_fat": 14,
+    "carbohydrates": 41,
+    "dietary_fibre": 1,
+    "sugars": 29,
+    "sodium": 74
+  },
+  "ingredients": [
+    {
+      "label": "80g Unsalted Butter (room temperature)",
+      "quantity": "80",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Light Brown Sugar",
+      "quantity": "125",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Black Treacle",
+      "quantity": "2",
+      "unit": null,
+      "name": "Black Treacle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Self-Raising Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Medjool Dates",
+      "quantity": "220",
+      "unit": null,
+      "name": "Medjool Date",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Bicarbonate of Soda",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Dark Brown Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Butter",
+      "quantity": "150",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Treacle",
+      "quantity": "1",
+      "unit": null,
+      "name": "Treacle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Double Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice Cream, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 160C. Butter a 2lb loaf tin, then use baking paper to line. Use an electric whisk to whisk the butter and sugar until light and fluffy, then add the treacle."
+    },
+    {
+      "heading": null,
+      "description": "Add the eggs one at a time, beating well with each edition. Fold in the flour along with a pinch of salt, it should have the consistency of a thick paste."
+    },
+    {
+      "heading": null,
+      "description": "Add the dates to a pan with 250ml of water and bring the boil, once boiling, remove from the heat, add the vanilla and either use a potato masher or a stick blender to crush or blitz into a paste."
+    },
+    {
+      "heading": null,
+      "description": "Now whisk in the bicarbonate of soda, it'll froth up a little. Tip into the other ingredients, mix well then spoon into the loaf tin and bake for 40 mins - 45 mins, until firm to the touch. Leave to cool in the tin."
+    },
+    {
+      "heading": "To make the sauce",
+      "description": "Add the sauce ingredients to a pan and place over a medium heat. Whisk until the butter has melted and the ingredients have combined to make a glossy sauce. Add a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Let the cake cool to room temp, then slice into chunky portions. Divide between bowls and spoon over the warm toffee sauce. Serve with a big scoop of vanilla ice cream."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [
+    "English"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-26T12:00:00+01:00"
+}

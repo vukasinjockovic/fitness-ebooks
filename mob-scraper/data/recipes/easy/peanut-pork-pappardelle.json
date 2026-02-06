@@ -1,0 +1,257 @@
+{
+  "id": "4454656",
+  "slug": "peanut-pork-pappardelle",
+  "title": "Peanut Pork Pappardelle",
+  "url": "https://www.mob.co.uk/recipes/peanut-pork-pappardelle",
+  "summary": "A peanut butter sauce spiked with chilli oil and lathered over a perfectly cooked portion of pappardelle.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Peanut-Pork-Pappardelle.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 773,
+    "protein": 33,
+    "fat": 37,
+    "saturated_fat": 8,
+    "carbohydrates": 75,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Crunchy Peanut Butter",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crunchy Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Limes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Savoy Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Savoy Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Savoy Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pork Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pork Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Ginger",
+      "quantity": "40",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pappardelle",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pappardelle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pappardelle",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Chives",
+      "quantity": "25",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": null,
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Whisk together the peanut butter, soy sauce, half of the chilli oil, the juice from 2/3 limes and a splash of water to create a loose sauce."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred the cabbage and put a pot of water on to boil. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a wok or large frying pan over a high heat. Add a shot of olive oil and tip in the pork mince. Break up with a spoon and fry until brown and crispy."
+    },
+    {
+      "heading": null,
+      "description": "While the pork sizzles away, finely slice the garlic and onion and cut the ginger into thin matchsticks. Once the pork is crispy, tip them into the pan and stir fry through the meat for 2-3 mins."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the cabbage and cook until wilted. Drop the pappardelle into the boiling water and cook until al dente."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the cooked pasta to the pork and pour over the peanut sauce. Toss together to coat the pasta and loosen with cooking water if needed. Cut the chives into 3cm lengths and toss most through the pasta."
+    },
+    {
+      "heading": null,
+      "description": "Divide between warm bowls and serve with the remaining chilli oil, lime wedges, thinly sliced spring onions and the remaining cut chives."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Most Cooked",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-07-17T10:54:00+01:00"
+}

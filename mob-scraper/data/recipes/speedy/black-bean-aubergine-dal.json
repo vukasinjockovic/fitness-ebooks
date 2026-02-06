@@ -1,0 +1,233 @@
+{
+  "id": "5647022",
+  "slug": "black-bean-aubergine-dal",
+  "title": "Black Bean Aubergine Dal",
+  "url": "https://www.mob.co.uk/recipes/black-bean-aubergine-dal",
+  "summary": "You won't believe how much flavour is imparted into this black bean aubergine dal in just half an hour. Made using ingredients we got in a flash from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Black-Bean-Aubergine-Dal.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 7,
+    "fat": 22,
+    "saturated_fat": 10,
+    "carbohydrates": 27,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 41
+  },
+  "ingredients": [
+    {
+      "label": "2 aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ginger Paste",
+      "quantity": "5",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp medium curry powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp cumin seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Coriander Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270g Drained Cooked Black Beans",
+      "quantity": "270",
+      "unit": null,
+      "name": "Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270g Drained Cooked Black Beans",
+      "quantity": "270",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g tin coconut milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g cherry tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g cherry tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 spoonfuls of yogurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large handful of coriande",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Naan",
+      "quantity": null,
+      "unit": null,
+      "name": "Naan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the aubergines into medium-sized chunks. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Get a large, deep frying pan over a medium-high heat. Add the aubergine chunks and cook, stirring regularly, for 5 mins until the aubergine is beginning to char and soften in places."
+    },
+    {
+      "heading": null,
+      "description": "Add ½ oil and keep cooking the aubergine for a further 5 mins, stirring regularly, until the aubergine is mostly softened."
+    },
+    {
+      "heading": null,
+      "description": "Finely grate the ginger and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add the grated ginger and garlic to the softened aubergines along with the curry powder, ½ of the cumin seeds and ½ of the coriander seeds. Cook, stirring for 2 mins then tip in the black beans along with their liquid as well as the coconut milk."
+    },
+    {
+      "heading": null,
+      "description": "Simmer the black bean dal for 10 mins until the aubergine is fully cooked and the beans are nice and tender."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, get a second frying pan super hot. Once hot, add in the whole cherry tomatoes and cook for 4-5 minutes until blackened in places and beginning to burst. At this point add the remaining oil, remaining ½ of cumin seeds and ½ of coriander seeds. Toast for a minute then remove from the heat and season."
+    },
+    {
+      "heading": null,
+      "description": "Roughly mash half the dal in the saucepan with a potato masher, then stir the dal well. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Divide the dal between bowls. Top with a spoonful of yoghurt, the charred tomatoes, and coriander. Serve with rice or naan, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2024-06-07T09:30:00+01:00"
+}

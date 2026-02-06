@@ -1,0 +1,191 @@
+{
+  "id": "3206",
+  "slug": "mobs-courgette-frittata",
+  "title": "Courgette Frittata",
+  "url": "https://www.mob.co.uk/recipes/mobs-courgette-frittata",
+  "summary": "A clean, fresh frittata. The basil, lemon and ricotta keep it really light. Lovely little lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A1075_2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 27,
+    "fat": 28,
+    "saturated_fat": 12,
+    "carbohydrates": 7,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 672
+  },
+  "ingredients": [
+    {
+      "label": "10 Eggs",
+      "quantity": "10",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130g Parmesan",
+      "quantity": "130",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Courgettes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta Cheese",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta Cheese",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Start by cracking your eggs into a bowl. Next, grate 100g parmesan and add a good grinding of pepper. Whisk together."
+    },
+    {
+      "heading": null,
+      "description": "Slice up your courgettes into discs and roughly chop up your onion. Add a drizzle of oil into a frying pan. Add your courgettes and onion and cook on a medium heat. Stir until they begin to char. Add a pinch of salt, your chilli flakes and a grinding of pepper."
+    },
+    {
+      "heading": null,
+      "description": "Take your courgettes off the heat and add them to your eggs and mix together. Chop up your basil (leave some for garnishing) and add to the egg mix. Next, grate in the zest of your lemon. Take your bowl and pour the mixture into a deep frying pan."
+    },
+    {
+      "heading": null,
+      "description": "Break up your ricotta and place the pieces over the top. Allow the frittata to fry for a few minutes, so you can see the egg on the side cooking through, and then place into the oven for 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Flip time. Take your pan out of the oven and flip it using a chopping board, remove the board and it should easily come off the pan. Garnish with a sprinkling of the remaining parmesan and basil and tuck into this delicious frittata."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-08-09T00:00:00+01:00"
+}

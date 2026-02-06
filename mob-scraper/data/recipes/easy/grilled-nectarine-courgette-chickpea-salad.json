@@ -1,0 +1,135 @@
+{
+  "id": "6490282",
+  "slug": "grilled-nectarine-courgette-chickpea-salad",
+  "title": "Grilled Nectarine & Courgette Chickpea Salad",
+  "url": "https://www.mob.co.uk/recipes/grilled-nectarine-courgette-chickpea-salad",
+  "summary": "A fresh, summery salad with a zingy mint dressing that’s on the table for 10 minutes. Perfect as a side or light meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Grilled-Nectarine-Courgette-Chickpea-Salad.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 464,
+    "protein": 15,
+    "fat": 18,
+    "saturated_fat": 2,
+    "carbohydrates": 56,
+    "dietary_fibre": 12,
+    "sugars": 18,
+    "sodium": 370
+  },
+  "ingredients": [
+    {
+      "label": "2 Courgettes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Nectarine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nectarine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Chickpeas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful fresh mint",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp balsamic vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp maple syrup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp olive oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the courgettes into medium chunks at an angle. Cut the nectarine into segments. Lightly brush courgettes and nectarine with olive oil and grill them on a grill pan on a medium heat until golden brown and charred on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, whisk together all the dressing ingredients, saving a few mint leaves for garnish. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Divide the chickpeas in serving bowls along with the charred courgettes and nectarines, drizzle with the dressing and finish with more mint leaves. Season to taste with salt if needed."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Gigi Grassia",
+      "uri": "chefs/gigi-grassia",
+      "summary": "As a passionate plant-based nutrition coach, personal trainer, and ultra-marathon runner from Italy, Gigi (aka @gigi_goes_vegan) is on a mission: to demonstrate that a high-protein diet is entirely possible on a plant-based regimen and to show that food is a love language."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-15T11:56:00+01:00"
+}

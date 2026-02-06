@@ -1,0 +1,193 @@
+{
+  "id": "2990637",
+  "slug": "6-ingredient-tomato-gnocchi",
+  "title": "6-Ingredient Tomato Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/6-ingredient-tomato-gnocchi",
+  "summary": "Ben's back with a banger. Gnocchi coated in a rich tomato sauce. Dinner on the table in just 15 minutes, this one's a goodie. We got all the ingredients for this from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Tomato-Gnocchi.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 347,
+    "protein": 7,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 66,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "4 Banana Shallots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Banana Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Fresh Gnocchi",
+      "quantity": "800",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Fresh Gnocchi",
+      "quantity": "800",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tomato Purée",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water (Gnocchi cooking water)",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice garlic and shallots."
+    },
+    {
+      "heading": null,
+      "description": "Add a good glug of olive oil to a pan, add shallots and cook until soft and translucent."
+    },
+    {
+      "heading": null,
+      "description": "Get your gnocchi into a pot of salted boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Add garlic and chilli flakes to your pan with the soft, sliced shallots. Before the garlic starts to brown, add your tomato purée and give it a good mix. Cook until the tomato purée starts to caramelise."
+    },
+    {
+      "heading": null,
+      "description": "Add the very starchy gnocchi water to your tomatey pan and keep adding gnocchi water until you get a thick starchy sauce."
+    },
+    {
+      "heading": null,
+      "description": "When the gnocchi is al dente (this should take about 2 mins), add it to the tomatoey pan. Get a fork and mix the gnocchi thoroughly to make sure the gnocchi doesn't stick together."
+    },
+    {
+      "heading": null,
+      "description": "Tear the basil onto your gnocchi. Season with salt and pepper. Tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-02-17T09:51:00+00:00"
+}

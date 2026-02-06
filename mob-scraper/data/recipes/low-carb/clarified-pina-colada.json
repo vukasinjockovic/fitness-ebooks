@@ -1,0 +1,154 @@
+{
+  "id": "5165772",
+  "slug": "clarified-pina-colada",
+  "title": "Clarified Piña Colada",
+  "url": "https://www.mob.co.uk/recipes/clarified-pina-colada",
+  "summary": "A suave and smooth take on a classic piña colada recipe. A great one to impress your guests at a cocktail party.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Clarified-Pina-Colada.jpg",
+  "cook_time": 5,
+  "prep_time": 175,
+  "total_time": 180,
+  "serving_size": 7,
+  "nutrition": {
+    "calories": 180,
+    "protein": 1,
+    "fat": 5,
+    "saturated_fat": 5,
+    "carbohydrates": 13,
+    "dietary_fibre": 0,
+    "sugars": 11,
+    "sodium": 18
+  },
+  "ingredients": [
+    {
+      "label": "200ml White Rum",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Spiced Rum",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spiced Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Cream of Coconut",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Lime juice",
+      "quantity": "100",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Pineapple Juice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pineapple Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pineapple Frond, for garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Pineapple Frond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix together your rums, coconut cream, lime juice and pineapple juice in a large container with a whisk."
+    },
+    {
+      "heading": null,
+      "description": "Fill a second container with your milk and then pour in your cocktail. It is important to do it this way around so all your drink touches the milk and clarifies."
+    },
+    {
+      "heading": null,
+      "description": "Let this sit for 2-3 hours in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Once it's had time to rest, carefully and slowly pour the mixture into a funnel and coffee filter, leading to another container."
+    },
+    {
+      "heading": null,
+      "description": "Let this drip until it turns clear, this may take 2 mins. Then carefully place the funnel and coffee filter into a new container and re-pour the filtered slightly misty liquid back into the funnel."
+    },
+    {
+      "heading": null,
+      "description": "Wait until everything is filtered then bottle it up. This may take a few hours again."
+    },
+    {
+      "heading": null,
+      "description": "Serve over a large ice cube with a pineapple frond. You can keep the bottle in the freezer and come back for more whenever you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-15T06:00:00+00:00"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "2747032",
+  "slug": "spicy-braised-lentils-peppers-and-chorizo",
+  "title": "Spicy Braised Lentils, Peppers & Chorizo",
+  "url": "https://www.mob.co.uk/recipes/spicy-braised-lentils-peppers-and-chorizo",
+  "summary": "These braised green lentils from Ocado are beautifully rich, smoky and saucy, plus they're all cooked in one pot which means minimal washing up.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/849A7964-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 324,
+    "protein": 20,
+    "fat": 13,
+    "saturated_fat": 4,
+    "carbohydrates": 28,
+    "dietary_fibre": 7,
+    "sugars": 5,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "200g Chorizo",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jar Roasted Red Peppers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jarred Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Stalks of Rosemary",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Green Lentils",
+      "quantity": "250",
+      "unit": null,
+      "name": "Dried Green Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Green Lentils",
+      "quantity": "250",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the chorizo and fry over a medium heat for 2 minutes in a large saucepan. Slice the onion, add and reduce the heat slightly. Cook for about 5 mins until soft."
+    },
+    {
+      "heading": null,
+      "description": "Slice the peppers and add them to the pan. Mince up the leaves from the rosemary and slice the garlic. Add both along with the chilli flakes and paprika. Cook for another 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the lentils, cook for a minute and then pour in the stock."
+    },
+    {
+      "heading": null,
+      "description": "Bring to a gentle simmer and cook for about 25 mins until the lentils are tender, most of the stock has been absorbed and the texture is thick and saucy."
+    },
+    {
+      "heading": null,
+      "description": "Ladle it into bowls and enjoy. Great with a chunk of crusty bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-12-15T17:00:00+00:00"
+}

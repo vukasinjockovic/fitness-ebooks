@@ -1,0 +1,276 @@
+{
+  "id": "6950816",
+  "slug": "marry-me-chicken-gnocchi",
+  "title": "“Marry Me” Chicken Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/marry-me-chicken-gnocchi",
+  "summary": "A quick and easy midweek dinner with pillowy gnocchi and a creamy sundried tomato sauce. Minimal fuss and maximal flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Marry-Me-Gnocchi.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 547,
+    "protein": 36,
+    "fat": 10,
+    "saturated_fat": 3,
+    "carbohydrates": 74,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Jarred Sun Dried Tomatoes",
+      "quantity": "80",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Jarred Sun Dried Tomatoes",
+      "quantity": "80",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chicken Breasts",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chicken Breasts",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Reduced-Fat Red Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Reduced-Fat Red Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Reduced-Fat Red Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Thyme",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Single Cream",
+      "quantity": "50",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion and crush the garlic cloves. Dice the chicken breasts into bite-sized chunks. In a jug, dissolve the stock cube in the boiling water. Set everything aside."
+    },
+    {
+      "heading": null,
+      "description": "Pour a glug of oil from the sundried tomato jar into a large lidded pan set over a low-medium heat. Add the onion and garlic and cook for a few minutes, with the lid off, until softened. Add the chicken and cook for about 10 mins or until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Slice the sundried tomatoes into bite-sized pieces then add them to the pan with the cooked chicken, along with the pesto, oregano, thyme and a pinch of salt and pepper. Stir to combine then pour in the stock. Stir again and bring the mixture to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Add the gnocchi then pop the lid on and leave to simmer for 3-5 mins until the gnocchi is cooked. Meanwhile, roughly chop the basil leaves."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pan from the heat and stir through the single cream and ½ the basil."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide between bowls and top with the remaining basil and some grated Parmesan, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-06T04:00:00+01:00"
+}

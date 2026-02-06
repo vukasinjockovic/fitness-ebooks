@@ -1,0 +1,354 @@
+{
+  "id": "6788473",
+  "slug": "pork-carnitas",
+  "title": "Pork Carnitas Tacos",
+  "url": "https://www.mob.co.uk/recipes/pork-carnitas",
+  "summary": "Rich and tender slow-cooked shredded pork, served in corn tortillas. A popular way of cooking pork in the centre states of Mexico, this one is even better when made the day before.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Pork-Carnitas.jpg",
+  "cook_time": 135,
+  "prep_time": 10,
+  "total_time": 145,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1207,
+    "protein": 38,
+    "fat": 97,
+    "saturated_fat": 37,
+    "carbohydrates": 38,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 384
+  },
+  "ingredients": [
+    {
+      "label": "1kg Skin-On Pork Shoulder",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Skin-On Pork Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Skin-On Pork Shoulder",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pork Belly Strips",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pork Belly Strips",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pork Belly Strips",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Maldon Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maldon Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "380g Pork Lard",
+      "quantity": "380",
+      "unit": null,
+      "name": "Pork Lard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Bay Leaves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Thyme Stalks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Fresh Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Black Peppercorns",
+      "quantity": "8",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Coca-Cola",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coca Cola",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tomatillos",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomatillo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Jalapeños",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 g Fresh Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Maldon Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pinch Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Corn Tortillas Taqueras",
+      "quantity": "12",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Corn Tortillas Taqueras",
+      "quantity": "12",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the pork belly and shoulder into about 4cm chunks then place the meat in a large bowl. Squeeze in the juice from the orange and add the salt. Cover with cling film and pop in the fridge for half an hour."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the salsa verde: peel the onion and garlic cloves and add them to a saucepan along with the fresh tomatillos. Cover them with water. Bring to a boil over a medium heat then lower the heat and simmer for 10 mins. Meanwhile, roughly chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Strain the vegetables from the water (don’t discard the water yet) and transfer them to a blender, adding the coriander, salt and pinch of caster sugar. Blend until smooth. If the salsa is too thick, add a splash of the water until it’s the desired consistency. Cover and set aside until ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "When the pork has marinated, melt the lard in a large cast iron pot set over a medium heat. Stir through the garlic cloves (you can leave their skins on), herbs and peppercorns followed by the pork meat, making sure that the meat is properly coated and submerged in the lard."
+    },
+    {
+      "heading": null,
+      "description": "Cook over a medium heat until the lard starts boiling steadily then lower the heat, cover with the lid and cook for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour the Coca-Cola and water over the meat, cover with the lid and let the carnitas cook slowly on a low heat for 2 more hours."
+    },
+    {
+      "heading": null,
+      "description": "When the pork cooking time is nearly up, prep your toppings: finely chop the onion and coriander and cut the lime into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Once the meat is tender and falling apart easily, remove the pan from the heat and set aside to rest while you warm the tortillas."
+    },
+    {
+      "heading": null,
+      "description": "Heat a dry non-stick frying pan over a medium-high heat. Add the corn tortillas, one at a time, and heat for 15-30 secs on each side. Wrap them in a tea towel to keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Using a knife, remove and discard the fat from the meat. Chop the pork meat roughly and serve it on a platter."
+    },
+    {
+      "heading": null,
+      "description": "Place everything on the table and let everyone help themselves to build their own steak tacos!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Karla Zazueta",
+      "uri": "chefs/karla-zazueta",
+      "summary": "Karla Zazueta is an incredible Mexican cook, food writer and cookery teacher. She teaches her Mexican traditions, recipes and techniques through cooking classes at her Mexican Food Memories cooking school. She also hosts Mexican supper clubs at her family home. Her recipes have been featured in The Guardian, BBC Food, NatGeo Food Magazine and many more. She's also just released her first cookbook, Norteña, where she shares the story of her family recipes and northern Mexico."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-21T08:35:00+01:00"
+}

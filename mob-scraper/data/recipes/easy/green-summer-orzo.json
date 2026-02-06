@@ -1,0 +1,193 @@
+{
+  "id": "12705",
+  "slug": "green-summer-orzo",
+  "title": "Green Summer Orzo",
+  "url": "https://www.mob.co.uk/recipes/green-summer-orzo",
+  "summary": "A great, light orzo dish for the summer months. The flavours intensify once cold, so great the next day as well.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Green-Summer-Orzo.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 21,
+    "fat": 22,
+    "saturated_fat": 5,
+    "carbohydrates": 74,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 427
+  },
+  "ingredients": [
+    {
+      "label": "200g Petit Pois",
+      "quantity": "200",
+      "unit": null,
+      "name": "Petit Pois",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Orzo",
+      "quantity": "500",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Orzo",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Pine Nuts",
+      "quantity": "40",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add orzo to a pan of salted boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Toast your pine nuts."
+    },
+    {
+      "heading": null,
+      "description": "Into a blender, add a handful of fresh mint, a handful of fresh basil, toasted pine nuts, a ladle of pasta water, the garlic, the zest and juice from the lemon/s (save a bit of juice to squeeze over the dish at the end). Add around 30% of your Spinach, 80% of the parmesan, salt, pepper and olive oil. Blitz until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Add petit pois to the pasta water just before the pasta is ready. Cook for 30 seconds. Drain pasta and peas."
+    },
+    {
+      "heading": null,
+      "description": "Add pasta and peas to a wide pan. Pour over your spinach pesto. Mix everything together. Add your remaining spinach leaves. Mix them in until they wilt."
+    },
+    {
+      "heading": null,
+      "description": "Serve the orzo with some Parmesan and pine nuts scattered on top. Squeeze on a bit more lemon juice and tuck in! Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-05-31T00:00:00+01:00"
+}

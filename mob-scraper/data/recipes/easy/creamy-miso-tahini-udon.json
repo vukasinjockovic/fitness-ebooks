@@ -1,0 +1,202 @@
+{
+  "id": "2156241",
+  "slug": "creamy-miso-tahini-udon",
+  "title": "Creamy Miso Tahini Udon",
+  "url": "https://www.mob.co.uk/recipes/creamy-miso-tahini-udon",
+  "summary": "A creamy carbonara style-udon in a parmesan, miso, and tahini sauce topped with crispy charred spring onions and mushrooms.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A0113-2web.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 21,
+    "fat": 22,
+    "saturated_fat": 4,
+    "carbohydrates": 70,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1 Bunch Spring Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chestnut Mushrooms",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chestnut Mushrooms",
+      "quantity": "400",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan, plus more for serving",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g White Miso Paste",
+      "quantity": "50",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Tahini",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4cm Knob Ginger",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Udon",
+      "quantity": "500",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Udon",
+      "quantity": "500",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the spring onions into large chunks and the mushrooms into thick slices."
+    },
+    {
+      "heading": null,
+      "description": "Cook the spring onions in a large pan on a high heat for 5 mins until charred before removing them and setting them aside. Add in the mushrooms with a big glug of oil and cook for 10 mins until very crispy. Keep the mushrooms in the pan with the heat off."
+    },
+    {
+      "heading": null,
+      "description": "Separate your egg yolks and whites. In a bowl, whisk together the egg yolks, parmesan, miso paste, tahini, chilli flakes and fresh black pepper. Grate in the ginger and add in the soy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Cook the udon in boiling water according to package instructions. Ladle in 150ml of the cooking liquid into the egg mixture, whisking continuously so the eggs do not scramble."
+    },
+    {
+      "heading": null,
+      "description": "With the heat off, add the udon to the mushroom pan before throwing in the spring onions and egg mixture and tossing well to coat the noodles. Next, turn the heat on the lowest setting and continue mixing to create a thick and glossy sauce. Season with salt if needed."
+    },
+    {
+      "heading": null,
+      "description": "Serve the noodles on a plate with some more parmesan and black pepper. Enjoy"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-06-14T09:31:00+01:00"
+}

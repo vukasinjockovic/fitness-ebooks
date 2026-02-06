@@ -1,0 +1,269 @@
+{
+  "id": "3792204",
+  "slug": "coconut-chicken-noodle-soup",
+  "title": "Coconut \"Chicken\" Noodle Soup",
+  "url": "https://www.mob.co.uk/recipes/coconut-chicken-noodle-soup",
+  "summary": "This warming noodle soup takes only 30 mins to make is packed with veg and flavour. A perfect meal for going into autumn.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/10/220A8399-2-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 273,
+    "protein": 10,
+    "fat": 13,
+    "saturated_fat": 7,
+    "carbohydrates": 25,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 684
+  },
+  "ingredients": [
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemongrass Stalks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3cm Knob of Ginger",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Vegetable Stock Cubes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 × 160g Garden Gourmet Sensational Chicken Style Pieces",
+      "quantity": "320",
+      "unit": null,
+      "name": "Veggie Chicken Piece",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pak Choi",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Peas",
+      "quantity": "75",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Rice Noodles",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Rice Noodles",
+      "quantity": "150",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Smash your garlic and lemongrass. Roughly slice your shallot, chillies and ginger."
+    },
+    {
+      "heading": null,
+      "description": "Mix your veg stock cubes with 1.2 litres of hot water."
+    },
+    {
+      "heading": null,
+      "description": "Pour your coconut milk and vegetable stock into a pot and add your aromatics. Bring to a boil then let it simmer on low heat for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice your courgette width-wise into coins and fry on a griddle pan along with your chicken pieces and a glug of oil until crispy and golden."
+    },
+    {
+      "heading": null,
+      "description": "Chop the ends of your pak choi and tenderstem broccoli. Add the broccoli into the broth for a few mins then add your pak choi and peas. Squeeze in the juice of half a lime, season with salt and pepper and let this all simmer on low heat."
+    },
+    {
+      "heading": null,
+      "description": "Place your rice noodles into a heatproof bowl and cover with boiling water. Leave for a few mins then drain."
+    },
+    {
+      "heading": null,
+      "description": "Take the pot off the hob and add a ¼ of the noodles into a bowl along with a ladle or two of the broth. Add a portion of your fried “chicken” and courgette, repeat for the remaining 3 bowls."
+    },
+    {
+      "heading": null,
+      "description": "Slice your spring onion and add to each bowl along with a small handful of coriander and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2022-10-08T10:00:00+01:00"
+}

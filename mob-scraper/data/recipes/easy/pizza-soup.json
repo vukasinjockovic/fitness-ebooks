@@ -1,0 +1,186 @@
+{
+  "id": "4768316",
+  "slug": "pizza-soup",
+  "title": "Pizza Soup",
+  "url": "https://www.mob.co.uk/recipes/pizza-soup",
+  "summary": "It's all the things you love about pizza, in slurpable soup form. Trust us: it's delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Pizza-Soup.jpg",
+  "cook_time": 60,
+  "prep_time": 15,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 27,
+    "fat": 29,
+    "saturated_fat": 13,
+    "carbohydrates": 38,
+    "dietary_fibre": 6,
+    "sugars": 13,
+    "sodium": 1532
+  },
+  "ingredients": [
+    {
+      "label": "1.5kg Vine Tomatoes",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5kg Vine Tomatoes",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bulb Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Sprigs Oregano",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Sourdough Baguette",
+      "quantity": "125g",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Low Moisture Mozzarella",
+      "quantity": "200",
+      "unit": null,
+      "name": "Low-Moisture Mozzarella Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Low Moisture Mozzarella",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 Tbsp Red Wine Vinegar",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Vegetable Stock",
+      "quantity": "750",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pepperoni Slices",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pepperoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat oven to 200°C. Halve the tomatoes and peel and cut the onion into wedges. Slice off the top of the garlic bulb and drizzle with a little olive oil and sprinkle over some salt before wrapping it up in some silver foil. Add the tomatoes to a baking tray cut side up, and add the onion and the garlic. Drizzle with oil, then season with salt, pepper and oregano. Put in the oven for 50 mins-1 hour until softened and charred."
+    },
+    {
+      "heading": null,
+      "description": "When cooked, transfer the veg into a large pan. When cool enough, carefully unwrap the hot garlic and squeeze into the pan. Roughly chop the basil stalks and add into the pan along with the stock, then simmer for 5 mins. Blend smooth with a stick blender, then add the red wine vinegar and season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Cut the bread into rounds and pop onto a baking tray. top with mozzarella ad parmesan and grill for 5 mins until golden and bubbling."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of oil in a pan and add the pepperoni, cooking until crisp."
+    },
+    {
+      "heading": null,
+      "description": "Serve the soup in bowls then top with cheese on toast and pepperoni. Grate over some Parmesan and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-23T09:25:00+00:00"
+}

@@ -1,0 +1,291 @@
+{
+  "id": "6945419",
+  "slug": "spicy-ginger-chicken-udon",
+  "title": "Spicy Ginger Chicken Udon",
+  "url": "https://www.mob.co.uk/recipes/spicy-ginger-chicken-udon",
+  "summary": "A simple, umami rich stir fry laced with chilli, chicken and coriander – the triple C. The key is to have everything prepped before anything touches the pan, then it can be cooked in minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/849A7003-Enhanced-NR-1.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 44,
+    "fat": 32,
+    "saturated_fat": 6,
+    "carbohydrates": 110,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 1560
+  },
+  "ingredients": [
+    {
+      "label": "4 Skinless Boneless Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Skinless Boneless Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Ginger",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Beansprouts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Udon Noodles",
+      "quantity": "500",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Udon Noodles",
+      "quantity": "500",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tsp White Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Shichimi Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shichimi Togarashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get the marinade ingredients in a mixing bowl, season with salt and black pepper and stir to combine. Slice the chicken thighs into 1cm strips then add to the marinade. Mix to thoroughly coat then set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a separate small bowl, add the ingredients for the sauce, season with salt and black pepper and stir to combine. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Mince the garlic and ginger, thinly slice the spring onions on a diagonal, thinly slice the red chilli and roughly chop the coriander. Cut the lime into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large saucepan of water to a boil. Add the udon noodles and cook for a minute less than the packet instructions. Drain and rinse with cold water until just warm to the touch. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large dry frying pan or wok over a high heat for 1-2 mins. Add a glug of vegetable oil and the chicken thighs and stir fry for 2-3 mins until the chicken is slightly browned and golden. Add the garlic and ginger and stir fry for a further 1-2 mins until fragrant. Add the spring onion and udon noodles, mix to combine and cook for a further minute."
+    },
+    {
+      "heading": null,
+      "description": "Push the noodles to one side and add a small glug of vegetable oil to the pan. Crack in the eggs and use a wooden spoon to break the yolks and scramble them with the whites. Let the eggs cook for 30 seconds then mix everything in the pan together, combining the egg with the noodles and chicken."
+    },
+    {
+      "heading": null,
+      "description": "Pour the sauce into the pan and mix until the sauce is fully combined with the noodles. Add the beansprouts, fresh coriander and red chilli and stir fry for a final 1-2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the noodles to bowls immediately. Sprinkle with shichimi powder (or chilli powder if you prefer) and sesame seeds, drizzle with chilli oil and garnish with a wedge of lime."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-03T13:33:00+01:00"
+}

@@ -1,0 +1,283 @@
+{
+  "id": "6055398",
+  "slug": "leftover-turkey-madras-curry",
+  "title": "Leftover Turkey Madras Curry",
+  "url": "https://www.mob.co.uk/recipes/leftover-turkey-madras-curry",
+  "summary": "This is the perfect leftovers recipe: turkey curry. It’s between Christmas and New Year and you’re sick of eating boring food and also have an abundance of turkey… so in steps the turkey madras. Comforting with a real vicious kick.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Turkey-Madras-Recipe.jpg",
+  "cook_time": 45,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 370,
+    "protein": 28,
+    "fat": 20,
+    "saturated_fat": 9,
+    "carbohydrates": 15,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Dried Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Dried Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Piece Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bird’s-Eye Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Birds Eye Green Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Leftover Turkey",
+      "quantity": "600",
+      "unit": null,
+      "name": "Leftover Turkey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Leftover Turkey",
+      "quantity": "600",
+      "unit": null,
+      "name": "Turkey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Basmati Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Basmati Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Naans",
+      "quantity": null,
+      "unit": null,
+      "name": "Naan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Spoon the coriander, cumin and fennel seeds into a small frying pan along with the black peppercorns and dried chillies, if using. Put over a medium heat and toast for 1-2 mins until they smell amazing. Pour into a spice grinder and whizz until powdered. If not using dried chillies, mix the chilli powder in now."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion, peel the ginger and garlic cloves, then cut the chillies in half lengthways."
+    },
+    {
+      "heading": null,
+      "description": "Heat the vegetable oil in a saucepan over a medium-high heat and scrape in the onion along with a big pinch of salt. Cook for 10 mins, stirring every now and again, until softened and beginning to caramelise."
+    },
+    {
+      "heading": null,
+      "description": "Use a fine grater to grate in the garlic and ginger, then cook for 1 min. Add in the ground spice mix, chopped tomatoes, coconut milk and the halved bird’s-eye chillies. Bring to the boil, then reduce the heat and simmer gently for 30 mins until the sauce is thick and luscious. Stir once or twice during cooking. At this stage you can use a stick blender to whizz until smooth, if you like."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cut or tear the cooked turkey into bite-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Add the turkey to the curry and simmer for 5 mins to fully reheat the meat – you may need to add a splash of water if it’s too thick."
+    },
+    {
+      "heading": null,
+      "description": "Season with salt and pepper. Cut the lemon in half and season with a little of its juice."
+    },
+    {
+      "heading": null,
+      "description": "Serve scattered with coriander leaves and with rice and naan."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-22T09:00:00+01:00"
+}

@@ -1,0 +1,284 @@
+{
+  "id": "6209152",
+  "slug": "seared-prawn-ponzu-glass-noodle-salad",
+  "title": "Seared Prawn Ponzu Glass Noodle Salad",
+  "url": "https://www.mob.co.uk/recipes/seared-prawn-ponzu-glass-noodle-salad",
+  "summary": "This fresh summery salad uses a Cantonese technique of scorching the aromatics with hot oil to bolden the flavours and bring the dish together! Even easier if you use cooked prawns. This recipe also pairs well with white rice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/IMG_2696-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 523,
+    "protein": 20,
+    "fat": 23,
+    "saturated_fat": 3,
+    "carbohydrates": 59,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 2462
+  },
+  "ingredients": [
+    {
+      "label": "100g Glass Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Glass Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Glass Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Raw or Cooked Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegetable Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Celery Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Mint Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Light Soy Sauce",
+      "quantity": "8",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp White Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pinch MSG (optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Boil the kettle. Submerge the noodles in a bowl of boiling water. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Skip this next stage if you’re using cooked prawns. Bring a saucepan of water to the boil. Add a generous pinch of salt. Add the prawns, stir, then turn the heat off and leave to cook for 3 mins. Drain the prawns and add them to a bowl of cold water. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Smash the garlic with the back of your knife and finely dice. Using a teaspoon, scrape the ginger to remove the skin. Cut five discs of ginger, as thinly as possible. Lay the discs flat on the chopping board and thinly slice into sticks. Cut the chilli in half, remove the seeds, lay flat and slice the chilli lengthways into strips, as thinly as possible. Cut the spring onions into thirds, cut each third in half lengthways, lay flat and cut into thin strips. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the sauce, put the light soy sauce, sugar, MSG, juice of both limes, sesame oil, sesame seeds and a generous pinch of salt and black pepper into a bowl. Stir thoroughly to combine, until the sugar has dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Drain the prawns and slice them in half lengthways, down the back of the prawn. Thinly slice the cucumber, onion and celery. Pick the coriander and mint leaves, toss together."
+    },
+    {
+      "heading": null,
+      "description": "Drain the glass noodles and spread over a large plate bowl. Cut the noodles two or three times with scissors. Pour the sauce mixture over the noodles. Add the tossed salad on top, followed by the prawns. Add the spring onions on top of the prawns followed by the chilli, ginger and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat the vegetable oil in a frying pan over a high heat for 3 mins or until smoking. Carefully pour the hot oil over the ginger, chilli and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Toss everything together, making sure the sauce at the bottom coats everything. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Cantonese"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-13T09:06:00+01:00"
+}

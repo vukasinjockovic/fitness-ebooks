@@ -1,0 +1,105 @@
+{
+  "id": "4732636",
+  "slug": "sticky-pigs-in-blankets",
+  "title": "Sticky Pigs In Blankets",
+  "url": "https://www.mob.co.uk/recipes/sticky-pigs-in-blankets",
+  "summary": "These sticky pigs in blankets are going to rock your world. All sausages should be wrapped in bacon and slathered in hot honey.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Sticky-Pigs-In-Blankets.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 312,
+    "protein": 15,
+    "fat": 23,
+    "saturated_fat": 8,
+    "carbohydrates": 9,
+    "dietary_fibre": null,
+    "sugars": 8,
+    "sodium": 900
+  },
+  "ingredients": [
+    {
+      "label": "12 Rashers of Streaky Bacon",
+      "quantity": "12",
+      "unit": null,
+      "name": "Smoked Streaky Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Rashers of Streaky Bacon",
+      "quantity": "12",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Chipolatas",
+      "quantity": "12",
+      "unit": null,
+      "name": "Chipolata Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Chipolatas",
+      "quantity": "12",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Honey",
+      "quantity": "3",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Hot Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Lay out the bacon strips flat on a roasting tray. Wrap each one around a chipolata, starting at one end and working your way down to the other. Wrap at a slight angle and make sure you cover as much of the sausage as you can."
+    },
+    {
+      "heading": null,
+      "description": "Slide into the oven for 15-20 mins until the bacon is starting to crisp. Meanwhile, mix the honey and hot sauce together in a small bowl. Once the pigs are starting to crisp, brush with the honey mixture and return to the oven for 2-3 mins. Repeat a few times until golden and sticky. Serve!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2023-12-12T09:21:00+00:00"
+}

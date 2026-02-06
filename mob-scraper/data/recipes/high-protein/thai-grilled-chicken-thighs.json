@@ -1,0 +1,304 @@
+{
+  "id": "4541997",
+  "slug": "thai-grilled-chicken-thighs",
+  "title": "Thai Grilled Chicken Thighs With Roasted Rice Dipping Sauce",
+  "url": "https://www.mob.co.uk/recipes/thai-grilled-chicken-thighs",
+  "summary": "We've paired up juicy chicken thighs with Thai roasted rice sauce inspired by nam jim jaew. It's fresh, funky, and just what you're craving right now.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Thai-Grilled-Chicken-Thighs-With-Roasted-Rice-Dipping-Sauce.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 41,
+    "fat": 36,
+    "saturated_fat": 14,
+    "carbohydrates": 128,
+    "dietary_fibre": 4,
+    "sugars": 17,
+    "sodium": 2607
+  },
+  "ingredients": [
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Bell Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Green Curry Paste (Or 1 Tbsp If It’s A Really Salty, Thick Paste)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Thai Green Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar (or Maple Syrup or Honey)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Full-Fat Coconut Milk (Solid Cream Part Only)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450ml Water",
+      "quantity": "450",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Jasmine Rice",
+      "quantity": "3",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Jasmine Rice",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Banana Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Banana Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Coriander Stems",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Fish Sauce",
+      "quantity": "6",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Limes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Crispy Shallots, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Fried Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 190°C. Slot the wire rack into the top shelf. Combine the marinade ingredients in a small bowl. Arrange the chicken thighs on a baking tray, then pour over the marinade. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the red peppers into matchsticks, then add to the baking tray with a drizzle of olive oil and a pinch of salt. Coat the red pepper sticks well, then scatter all around the chicken thighs. Roast in the oven for 35-40 mins or until charred and golden."
+    },
+    {
+      "heading": null,
+      "description": "For the coconut rice, wash the rice in a sieve until the water is running clear. Drain well. Tip the washed rice into a medium-sized pot along with the water, sugar, turmeric, salt and coconut milk. Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Bring the rice to the boil, then immediately add a lid and reduce the heat to low. Cook for 20 mins. Once cooked, fluff the rice with chopsticks or a wooden paddle, then return the lid to the pan for at least 10 mins to increase the fluffy texture. Keep the lid on until serving."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, for the roasted rice sauce, set a small pan over a medium-high heat, add the raw jasmine rice and toast for 3 mins, tossing all the time until lightly golden and the smell of popcorn fills the kitchen. Don’t let it burn – keep your eye on it. Transfer to a small bowl and grind or blend the roasted rice into a powder using a pestle and mortar or blender."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the shallot and coriander stems. Combine the toasted rice powder, fish sauce, lime zest and juice (about 5 tbsp), brown sugar, chilli flakes, shallot and coriander stems. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the cucumber on the diagonal. Remove the chicken from the oven, fluff the rice and sprinkle the crispy fried onion all over. Serve with the cucumber, coriander leaves and the rice sauce poured over the chicken (reserve some for the side)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Asian-Inspired",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-02T05:00:00+01:00"
+}

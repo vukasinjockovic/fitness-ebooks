@@ -1,0 +1,254 @@
+{
+  "id": "5731156",
+  "slug": "bbq-chicken-recipe",
+  "title": "Grilled Sticky BBQ Chicken",
+  "url": "https://www.mob.co.uk/recipes/bbq-chicken-recipe",
+  "summary": "It's not a barbecue until someone burns a bit of chicken. Avoid any disasters with this foolproof barbecue chicken recipe. The sweet and sticky glaze is an elite addition.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Grilled-Sticky-BBQ-Chicken.jpg",
+  "cook_time": 50,
+  "prep_time": 10,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 429,
+    "protein": 39,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 15,
+    "dietary_fibre": 2,
+    "sugars": 8,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Whole Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hot Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hot Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Drumsticks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Drumstick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Drumsticks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "American Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp BBQ Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Barbecue Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Red Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hot Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coleslaw",
+      "quantity": null,
+      "unit": null,
+      "name": "Coleslaw",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Corn",
+      "quantity": null,
+      "unit": null,
+      "name": "Corn On The Cob",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Steamed Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Steamed Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Steamed Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lemon Wedges",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pile coals over to one side of your BBQ to create a hot, direct cooking side, and a warm, indirect cooking side."
+    },
+    {
+      "heading": null,
+      "description": "Start off by making the rub. Toast the fennel, black pepper and cumin seeds in a dry pan over the hot side of your BBQ. Once fragrant, tip into a pestle and mortar and coarsely grind. Add the oregano, paprika and garlic powder. Mix together."
+    },
+    {
+      "heading": null,
+      "description": "Season the chicken well with salt and toss with the mustard. Lay out on a tray and season generously with the spice rub. Grill over the hot side of the BBQ for 9-10 mins, turning regularly until charred and crispy. It won’t be cooked through just yet, so move it to the indirect side of the BBQ and add the lid. Allow to cook gently for 35-40 mins with the lid on."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken has had 35 mins or so, remove the lid and check the texture. It should be pulling away from the bone, super smoky and tender. Mix the ingredients for the glaze in a small bowl and brush over the chicken pieces. Return the lid and allow the glaze to bake onto the chicken for a few minutes."
+    },
+    {
+      "heading": null,
+      "description": "Serve with coleslaw, fresh corn, rice and lemon wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-08-09T04:30:00+01:00"
+}

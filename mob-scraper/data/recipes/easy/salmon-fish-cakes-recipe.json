@@ -1,0 +1,274 @@
+{
+  "id": "6273295",
+  "slug": "salmon-fish-cakes-recipe",
+  "title": "Smoky Salmon Fish Cakes Recipe With Chilli Yoghurt",
+  "url": "https://www.mob.co.uk/recipes/salmon-fish-cakes-recipe",
+  "summary": "An easy, breezy salmon fish cakes recipe that's loaded with extra protein thanks to broad beans and peas. It's a good 'un.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Salmon-Fish-Cakes-Recipe.jpg",
+  "cook_time": 35,
+  "prep_time": 25,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 31,
+    "fat": 32,
+    "saturated_fat": 6,
+    "carbohydrates": 66,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "600g Maris Piper Potatoes",
+      "quantity": "600",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Maris Piper Potatoes",
+      "quantity": "600",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Yoghurt",
+      "quantity": "350",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Hot Smoked Salmon",
+      "quantity": "300",
+      "unit": null,
+      "name": "Hot Smoked Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Hot Smoked Salmon",
+      "quantity": "300",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Broad Beans",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Broad Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Broad Beans",
+      "quantity": "150",
+      "unit": null,
+      "name": "Broad Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Panko Breadcrumbs",
+      "quantity": "200",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Chilli Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and roughly chop the potatoes. Tip them into a pan and cover with cold water. Generously salt and place over a medium heat. Once simmering, cook for 10-12 minutes until tender. Drain and mash with a spoonful of yoghurt. Set aside to cool a little."
+    },
+    {
+      "heading": null,
+      "description": "Flake the salmon into large pieces. Pour a boiled kettle over the peas and broad beans and let sit for a minute or two before draining. If you like, you can peel the tough outer skin from the broad beans, but this is optional. Finely chop the herbs."
+    },
+    {
+      "heading": null,
+      "description": "Tip the peas, broad beans and salmon into the bowl of mash and fold them together. Don’t overwork the mix or you’ll break down the fish too much, we want nice big flakes in there. Add two thirds of the herbs and the zest of two lemons. Season with lots of black pepper and salt and then form into little fish cakes. Roll them through flour, then beaten egg then in the panko breadcrumbs and then chill for 10-15 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Cut the cucumber and red onion into slices and toss together with the remaining herbs, salt, lemon zest and juice. Drizzle with olive oil and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a frying pan over a medium heat. Add a generous glug of olive oil and once hot, add the fishcakes. Fry gently on either side, turning now and then, until golden brown and hot throughout."
+    },
+    {
+      "heading": null,
+      "description": "Season with flaky salt and divide between plates. Serve with cucumber salad, lemon wedges and a dollop of yoghurt topped with chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-03T06:00:00+00:00"
+}

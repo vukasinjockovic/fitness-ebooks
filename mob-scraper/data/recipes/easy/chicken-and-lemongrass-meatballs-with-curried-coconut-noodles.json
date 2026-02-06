@@ -1,0 +1,282 @@
+{
+  "id": "6442426",
+  "slug": "chicken-and-lemongrass-meatballs-with-curried-coconut-noodles",
+  "title": "Curried Chicken Meatballs with Curried Coconut Noodles",
+  "url": "https://www.mob.co.uk/recipes/chicken-and-lemongrass-meatballs-with-curried-coconut-noodles",
+  "summary": "These really are fantastic meatballs. Very easy to make, and to really hammer home how excellent this recipe is, my 3 daughters demolished this for their breakfast when I made this at home.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Chicken-Lemongrass-Meatballs-with-Curried-Coconut-Noodles.jpg",
+  "cook_time": 20,
+  "prep_time": 20,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 561,
+    "protein": 25,
+    "fat": 23,
+    "saturated_fat": 11,
+    "carbohydrates": 62,
+    "dietary_fibre": 3,
+    "sugars": 8,
+    "sodium": 1242
+  },
+  "ingredients": [
+    {
+      "label": "Chicken Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chicken Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Curry Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Thai Green Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Palm Sugar or Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Laksa Curry Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Laksa Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Water",
+      "quantity": "400",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Lime Leaves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "200g Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Tbsp Crispy Fried Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crispy Fried Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Lime Wedges",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the meatballs, add the chicken mince into a bowl with the green curry paste, soy sauce and fish sauce. Grate in the ginger and garlic, stir until evenly combined. Roll or spoon the mixture into walnut sized meatballs."
+    },
+    {
+      "heading": null,
+      "description": "Heat a drizzle of vegetable oil in a wide pan set over a medium heat. Fry the chicken meatballs for 2-3 mins until nicely coloured but not yet fully cooked through. Add the sugar and stir well to coat, then cook for about 30 seconds until the sugar caramelises. Remove to a plate and wipe out the pan."
+    },
+    {
+      "heading": null,
+      "description": "For the curried coconut broth, chop the garlic and finely grate the ginger. Heat a drizzle of vegetable oil in the same pan you used to cook the meatballs, set over a medium heat. Add the garlic and ginger and cook for about 30 seconds until aromatic. Add the curry paste and cook for another 30 seconds, giving the saucepan a good stir."
+    },
+    {
+      "heading": null,
+      "description": "Add the coconut milk and water and bring to the boil. Thinly slice the lime leaves, discarding the central rib, and add them to the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken balls to the sauce and bring it to the boil, then lower the heat and gently simmer uncovered for about 10-15 mins until the chicken balls are cooked through. Season with fish sauce and soy sauce according to taste."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the noodles following the instructions on the pack."
+    },
+    {
+      "heading": null,
+      "description": "Divide the noodles between bowls. Top each serving of noodles with some chicken balls and coconut sauce, then top with coriander, along with plenty of crispy onions and a wedge of lime."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "East-Asian Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Claire Thomson",
+      "uri": "chefs/claire-thomson",
+      "summary": "Claire Thomson (@5oclockapron) is a chef, author of 10 cookbooks and mum of 3 daughters. Claire began cooking professionally before smartphones were invented. Her food is delicious as it is uncomplicated, she is almost always in an apron cooking breakfast, lunch or dinner. In short, there is nothing Claire can’t cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-12T00:00:00+01:00"
+}

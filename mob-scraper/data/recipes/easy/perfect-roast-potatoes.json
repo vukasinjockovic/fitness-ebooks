@@ -1,0 +1,129 @@
+{
+  "id": "2809005",
+  "slug": "perfect-roast-potatoes",
+  "title": "Perfect Roast Potatoes",
+  "url": "https://www.mob.co.uk/recipes/perfect-roast-potatoes",
+  "summary": "Golden, crunchy outsides and ethereally fluffy centres, these spuds are seasoned to perfection with Maldon sea salt.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/CMS-7480.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 410,
+    "protein": 6,
+    "fat": 15,
+    "saturated_fat": 5,
+    "carbohydrates": 60,
+    "dietary_fibre": 5,
+    "sugars": 2,
+    "sodium": 0
+  },
+  "ingredients": [
+    {
+      "label": "1.5kg Maris Piper Potatoes",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5kg Maris Piper Potatoes",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Plain Flour",
+      "quantity": "3",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Goose Fat",
+      "quantity": "150",
+      "unit": null,
+      "name": "Goose Fat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Maldon Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Peel and quarter the potatoes. Add to a pan and cover with cold\t\t\t\t\twater. Season with salt and bring to the boil. Reduce the heat\t\t\t\t\tand simmer for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Drain and shake the potatoes hard in the colander to rough up\nthe outside. Sprinkle with 3 tbsp of flour."
+    },
+    {
+      "heading": null,
+      "description": "Add the goose fat to a large roasting tin and place in the oven for\n5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tray, add the potatoes to the hot fat, season well\nwith Maldon salt and roll around in the roasting tray."
+    },
+    {
+      "heading": null,
+      "description": "Return to the oven for about 40 mins, until they’re golden\nbrown all over. Halfway through cooking, flip the potatoes over."
+    },
+    {
+      "heading": null,
+      "description": "Remove and season with Maldon salt."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-12-14T17:30:00+00:00"
+}

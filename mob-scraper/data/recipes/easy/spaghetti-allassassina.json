@@ -1,0 +1,163 @@
+{
+  "id": "6954378",
+  "slug": "spaghetti-allassassina",
+  "title": "Spaghetti All’assassina",
+  "url": "https://www.mob.co.uk/recipes/spaghetti-allassassina",
+  "summary": "This unusual pasta dish from Bari in Puglia is made by cooking the pasta and spicy sauce together in a frying pan. Don’t be afraid to let it really burn on the edges and get crispy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Assassins-Spaghetti.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 401,
+    "protein": 12,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 74,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 492
+  },
+  "ingredients": [
+    {
+      "label": "3tbsp Tomato Puree",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tinned Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat a small saucepan over a medium heat. Add a splash of olive oil and the tomato purée and cook for a minute. Add the water and ½ the salt and mix to combine. Bring to a boil then turn off the heat and set aside. This is your tomato broth."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, crush the garlic. Heat a generous glug of olive oil in a large frying pan (ideally cast iron) set over a medium heat. Add the garlic and chilli flakes and sizzle for 30 seconds, then add the tinned tomatoes. Bring to a simmer and stir in the remaining salt."
+    },
+    {
+      "heading": null,
+      "description": "Place the spaghetti directly on top of the sauce, then ladle in a quarter of the tomato broth. As the broth simmers and the pasta cooks, gently move it around a bit with a spoon. You want to keep adding broth as it reduces, allowing the pasta to cook but also to catch in places and even burn on the edges."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta is al dente, stop adding broth and let the spaghetti fry and toast slightly in the sauce, if you need to. This is an observational process; you’ll have to keep an eye on it and adjust to your liking."
+    },
+    {
+      "heading": null,
+      "description": "Ultimately, you want to end up with quite a ‘tight’ tomato sauce, and pasta which is cooked through, crispy and charred in places. Serve on warm plates with a drizzle of good olive oil and an extra pinch of chilli, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-18T09:00:00+00:00"
+}

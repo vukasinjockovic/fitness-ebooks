@@ -1,0 +1,261 @@
+{
+  "id": "7017614",
+  "slug": "peanut-butter-overnight-oats-three-ways",
+  "title": "Peanut Butter Overnight Oats, Three Ways",
+  "url": "https://www.mob.co.uk/recipes/peanut-butter-overnight-oats-three-ways",
+  "summary": "Our favourite overnight oats recipe. Make a big batch and mix up the toppings throughout the week. The yoghurt and almond milk make it extra creamy, the blueberries and vanilla give a burst of flavour, and the peanut butter and protein powder make it high in protein.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Peanut-Butter-Overnight-Oats-Three-Ways.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 273,
+    "protein": 22,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 32,
+    "dietary_fibre": 5,
+    "sugars": 15,
+    "sodium": 252
+  },
+  "ingredients": [
+    {
+      "label": "75g Crunchy Peanut Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Crunchy Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Rolled Oats",
+      "quantity": "180",
+      "unit": null,
+      "name": "Rolled Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280ml unsweetened Almond Milk",
+      "quantity": "280",
+      "unit": null,
+      "name": "Unsweetened Almond Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Honey",
+      "quantity": "25",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g 0% Greek Yoghurt",
+      "quantity": "225",
+      "unit": null,
+      "name": "0% Fat Greek Yoghurt⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g 0% Greek Yoghurt",
+      "quantity": "225",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Vanilla Protein Powder",
+      "quantity": "60",
+      "unit": null,
+      "name": "Vanilla Protein Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vanilla",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chia Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Blueberries",
+      "quantity": "120",
+      "unit": null,
+      "name": "Blueberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g 0% Greek Yoghurt",
+      "quantity": "800",
+      "unit": null,
+      "name": "0% Fat Greek Yoghurt⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g 0% Greek Yoghurt",
+      "quantity": "800",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Honey",
+      "quantity": "40",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Unsweetened Almond Milk",
+      "quantity": "60",
+      "unit": null,
+      "name": "Unsweetened Almond Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crunchy Nut Cornflakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Crunchy Nut Cornflakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 tsp cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1",
+      "quantity": null,
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Granola",
+      "quantity": "25",
+      "unit": null,
+      "name": "Granola",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 tsp honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Frozen Strawberries",
+      "quantity": "5",
+      "unit": null,
+      "name": "Frozen Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the oats, combine all the oat ingredients in a mixing bowl and whisk together until well combined. Pour into an airtight container and refrigerate overnight."
+    },
+    {
+      "heading": null,
+      "description": "For the yoghurt topping, add the yoghurt to a clean mixing bowl with the honey and almond milk. Whisk vigorously for about 2 mins until the mixture becomes shiny and slightly aerated. Pour into a separate airtight container and refrigerate overnight. The oats will keep for 4 days."
+    },
+    {
+      "heading": null,
+      "description": "In the morning, serve up a portion of the oats into a bowl and top with the yoghurt. Finish with toppings of your choice: we love a scattering of crunchy nut cornflakes; a drizzle of honey and some grated frozen strawberries; or a sprinkling of cinnamon, sliced banana and a handful of granola."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Batch",
+    "Make-Ahead Breakfasts",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-01T01:30:00+00:00"
+}

@@ -1,0 +1,323 @@
+{
+  "id": "6127026",
+  "slug": "mee-goreng-mamak-recipe",
+  "title": "Mee Goreng Mamak",
+  "url": "https://www.mob.co.uk/recipes/mee-goreng-mamak-recipe",
+  "summary": "Mee goreng mamak is a popular dish typically found in mamak stalls (Malaysian eateries run by Indian Muslims). Whenever I go back to Malaysia, I can smell the local mamak stall serving this dish from a mile away. It's so delicious and quick to make, making it the perfect weeknight meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Mee-Goreng-Mamak-Recipe.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 26,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 75,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Banana Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Sambal",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sambal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chicken Breast",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chicken Breast",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Deep-Fried Tofu Puffs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Deep Fried Tofu Puff",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Deep-Fried Tofu Puffs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "420g Fresh Egg Noodles",
+      "quantity": "420",
+      "unit": null,
+      "name": "Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "420g Fresh Egg Noodles",
+      "quantity": "420",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Light Soy Sauce",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sweet Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sweet Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Oyster Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Ketchup",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Curry Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Choy Sum",
+      "quantity": "120",
+      "unit": null,
+      "name": "Choy Sum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Beansprouts",
+      "quantity": "150",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Sambal",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sambal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Crispy Shallots",
+      "quantity": "20",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Peanuts",
+      "quantity": "20",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mince the garlic and finely chop the shallot. Add a big glug of vegetable oil to a wok set over a medium-high heat, then add the garlic and shallot along with the sambal. Stir-fry for 1-2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken into thin strips then add to the wok and fry for 4 mins. Add some more oil, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop the tofu in half and slice the tomato into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Add the fresh egg noodles to the wok along with the sauces and seasonings, tomato and tofu, toss everything together to coat the noodles evenly for 1 minute (you want the noodles to be slightly smoky for wok hei)."
+    },
+    {
+      "heading": null,
+      "description": "Wash the choy sum and chop into three parts lengthways, and add to the wok. Push everything in the wok to the side and crack the eggs in. Wait for the eggs to slightly cook, then lightly scramble them."
+    },
+    {
+      "heading": null,
+      "description": "Wash the beansprouts, add to the wok and stir-fry for a few mins until the vegetables are slightly wilted (but make sure not to overcook the noodles)."
+    },
+    {
+      "heading": null,
+      "description": "Serve your mee goreng mamak with crispy shallots, crushed peanuts, extra sambal and a wedge of lime, enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Malaysian",
+    "Malaysian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-09T05:00:00+01:00"
+}

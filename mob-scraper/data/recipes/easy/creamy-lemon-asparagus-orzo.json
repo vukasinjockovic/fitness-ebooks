@@ -1,0 +1,186 @@
+{
+  "id": "5508045",
+  "slug": "creamy-lemon-asparagus-orzo",
+  "title": "Creamy Lemon & Asparagus Orzo",
+  "url": "https://www.mob.co.uk/recipes/creamy-lemon-asparagus-orzo",
+  "summary": "Creamy, lemony orzo livened up with spears of al dente asparagus. This is the perfect recipe for the spring and summer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Creamy-Lemon-Asparagus-Orzo.jpg",
+  "cook_time": 25,
+  "prep_time": 6,
+  "total_time": 30,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 426,
+    "protein": 17,
+    "fat": 18,
+    "saturated_fat": 8,
+    "carbohydrates": 48,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "500g Orzo",
+      "quantity": "500",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Orzo",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pancetta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bunches Asparagus (500g)",
+      "quantity": "500",
+      "unit": null,
+      "name": "Asparagus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Single Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Parmesan",
+      "quantity": "75",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a pot with plenty of very well salted water. Bring to the boil, then cook the orzo following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add the pancetta to a large frying pan with a splash of oil, then place it over a medium heat. It will come up to temperature and begin to sizzle."
+    },
+    {
+      "heading": null,
+      "description": "While the pasta cooks and the pancetta fries, trim the ends off the asparagus and cut them into roughly 3cm lengths. If the asparagus spears are very thick, half them lengthways first. Finely chop the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Once the pancetta is golden and crispy, add the garlic to the pan, stir well so it sizzles in the fat and then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "When the pasta is 3 mins away from being done, add the asparagus to the same pot and cook together for 3 mins. Take out a mug of pasta water and set aside. Drain everything, leaving a little water clinging to the pasta, and add it all to the pan with the pancetta."
+    },
+    {
+      "heading": null,
+      "description": "Mix everything really well, with the pan over a low heat. Pour in the cream and parmesan, grind in plenty of black pepper, add the zest and juice of the lemon and mix well. Add a little pasta cooking water if it’s looking too thick. You want it creamy and loose."
+    },
+    {
+      "heading": null,
+      "description": "Taste and add salt and pepper. Plate up, finish with extra Parm, pepper and a drizzle of olive oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-25T05:00:00+01:00"
+}

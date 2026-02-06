@@ -1,0 +1,343 @@
+{
+  "id": "5417626",
+  "slug": "chicken-enchiladas",
+  "title": "Chicken Enchiladas With Charred Corn Salsa",
+  "url": "https://www.mob.co.uk/recipes/chicken-enchiladas",
+  "summary": "A simple recipe for chicken enchiladas that's perfect for sharing with your loved ones. Or your enemies. The choice is up to you.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Chicken-Enchiladas-With-Charred-Corn-Salsa.jpg",
+  "cook_time": 70,
+  "prep_time": 10,
+  "total_time": 80,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 776,
+    "protein": 46,
+    "fat": 38,
+    "saturated_fat": 15,
+    "carbohydrates": 62,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 1011
+  },
+  "ingredients": [
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Chicken Thighs",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Bone-In Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Chicken Thighs",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Butter",
+      "quantity": "40",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Tomato Purée",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Plain Flour",
+      "quantity": "40",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "550ml Chicken Stock",
+      "quantity": "550",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Chipotle Paste",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Chipotle Paste",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cayenne Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Flour Tortillas",
+      "quantity": "6",
+      "unit": null,
+      "name": "Flour Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Flour Tortillas",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Tinned Sweetcorn",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sweetcorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Sour Cream",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Coriander Leaves (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Toast the coriander seeds and cumin seeds in a dry pan, then crush them to a powder using a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken, crushed coriander, crushed cumin and half the smoked paprika to a bowl with a big pinch of salt and a drizzle of olive oil. Give it all a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice three-quarters of the red onions, setting aside the rest for later. Add to a roasting dish, then nestle the chicken on top. Bake for 45 mins."
+    },
+    {
+      "heading": null,
+      "description": "Now, it’s time to make your enchilada sauce. Start by finely slicing the garlic. Melt the butter in a medium-sized saucepan, then add the tomato pureé and garlic. Cook for 2 mins, then tip in the flour and cook for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the chipotle paste and cayenne pepper to the pan with the remaining smoked paprika. Gradually pour in the chicken stock, whisking all the time until smooth before each addition. Let the mixture come to a boil, then turn down the heat and simmer for 2 mins until thickened. Season to taste with salt."
+    },
+    {
+      "heading": null,
+      "description": "Once your chicken is done, shred it and remove the bones. Reduce any juices in the tray so that they coat the back of a spoon."
+    },
+    {
+      "heading": null,
+      "description": "Divide the chicken between the tortillas, placing the meat in the centre of each tortilla. Roll them up like a pancake, then nestle them all into a baking dish. Pour the sauce on top, focusing on a line down the middle. You want the tortilla ends to poke out a little."
+    },
+    {
+      "heading": null,
+      "description": "Grate the cheddar and sprinkle it on top, then cover the dish with foil and bake in the oven for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice the remaining red onion and green chilli, then add both to a little bowl. Squeeze over the lime, add a good pinch of salt, then give it a mix."
+    },
+    {
+      "heading": null,
+      "description": "Pat the sweetcorn dry. Heat a large frying pan over a high heat, then add a drizzle of olive oil. Get your sweetcorn in there, then pan-fry it for 5 mins or until lightly charred. Let it cool down for a bit."
+    },
+    {
+      "heading": null,
+      "description": "Remove the foil from the enchiladas and bake for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the sweetcorn to your pickled onion mixture and give it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Once your enchiladas are done, dollop over the soured cream and sprinkle over the sweetcorn salsa and some coriander leaves. Serve it up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Most Cooked",
+    "Family-Friendly",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-03T05:00:00+00:00"
+}

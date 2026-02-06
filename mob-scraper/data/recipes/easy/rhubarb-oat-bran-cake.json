@@ -1,0 +1,174 @@
+{
+  "id": "6745874",
+  "slug": "rhubarb-oat-bran-cake",
+  "title": "Rhubarb Oat Bran Cake",
+  "url": "https://www.mob.co.uk/recipes/rhubarb-oat-bran-cake",
+  "summary": "Cake that’s healthy and delicious? You heard right. This oat bran, kefir and olive oil cake packs in loads of fibre and probiotics to help improve your gut health. We’ve topped it with rhubarb but you could use any seasonal fruit.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Rhubard-Oat-Bran-Cake.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 32,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 97
+  },
+  "ingredients": [
+    {
+      "label": "4 Rhubarb Stalks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Rhubarb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Brown Sugar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Kefir",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kefir",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Oat Bran",
+      "quantity": "200",
+      "unit": null,
+      "name": "Oat Bran",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Baking Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Honey",
+      "quantity": null,
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Chop your rhubarb into inch-sized pieces and lay it in a baking tray. Sprinkle over the brown sugar and a splash of water then roast in the oven for 10 mins until soft."
+    },
+    {
+      "heading": null,
+      "description": "Combine the brown sugar and olive oil in a large oven-proof tray. Stir in the egg and then the kefir. Add the oat bran, baking powder and a generous pinch of salt and mix until combined."
+    },
+    {
+      "heading": null,
+      "description": "Top the cake mixture with the cooked rhubarb."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 20 mins then set aside to cool slightly before cutting into slices. Serve as is or with Greek yoghurt and a drizzle of honey."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-03T13:20:00+01:00"
+}

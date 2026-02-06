@@ -1,0 +1,151 @@
+{
+  "id": "5744245",
+  "slug": "panini-recipe",
+  "title": "Prosciutto & Mozzarella Panini",
+  "url": "https://www.mob.co.uk/recipes/panini-recipe",
+  "summary": "This panini recipe has it all –it’s creamy, spicy, salty, fresh and zingy. And stuffed between two slices of toasted bread. It makes the perfect sandwich for lunch (or dinner) and features high-quality ingredients that will fill you up for hours to come.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Panini-Recipe.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 573,
+    "protein": 27,
+    "fat": 23,
+    "saturated_fat": 8,
+    "carbohydrates": 62,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 1372
+  },
+  "ingredients": [
+    {
+      "label": "1 Ciabatta Loaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Ball Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Ball Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Jarred Roasted Peppers",
+      "quantity": "4",
+      "unit": null,
+      "name": "Jarred Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Harissa",
+      "quantity": "2",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices Prosciutto",
+      "quantity": "4",
+      "unit": null,
+      "name": "Prosciutto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Handfuls Rocket",
+      "quantity": "50",
+      "unit": null,
+      "name": "Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crisps, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Crisps",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the ciabatta in half horizontally. Drain the ball of mozzarella and cut it into 1cm slices. Drain the roasted peppers and cut in half."
+    },
+    {
+      "heading": null,
+      "description": "Smear one side of the ciabatta with the pesto and the other with the harissa. Layer in the mozzarella, prosciutto and roasted red peppers, then stuff with handfuls of the rocket."
+    },
+    {
+      "heading": null,
+      "description": "Heat a griddle pan or panini press over a medium-high heat. Put the ciabatta into the pan and put another heavy frying pan on top (if using the griddle pan), or shut the lid to press. If your griddle isn’t big enough, cut the panini in half to fit it in."
+    },
+    {
+      "heading": null,
+      "description": "Toast for 2-3 minutes, then flip and repeat. Cut in half and serve with a big pile of crisps."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-07T09:54:00+01:00"
+}

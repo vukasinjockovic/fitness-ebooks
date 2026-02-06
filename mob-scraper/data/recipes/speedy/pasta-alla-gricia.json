@@ -1,0 +1,153 @@
+{
+  "id": "4292953",
+  "slug": "pasta-alla-gricia",
+  "title": "Pasta Alla Gricia",
+  "url": "https://www.mob.co.uk/recipes/pasta-alla-gricia",
+  "summary": "What do you get if you take the eggs out of a carbonara or add guanciale to a cacio e pepe? This Pasta alla Gricia is one of our favourite Roman classics.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Pasta-all-Gricia.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 27,
+    "fat": 23,
+    "saturated_fat": 7,
+    "carbohydrates": 63,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 1017
+  },
+  "ingredients": [
+    {
+      "label": "250g Guanciale Or Pancetta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rigatoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Pecorino Romano",
+      "quantity": "80",
+      "unit": null,
+      "name": "Pecorino Romano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Pecorino Romano",
+      "quantity": "80",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a large pan of water onto boil, add salt until it tastes slightly salty."
+    },
+    {
+      "heading": null,
+      "description": "Using the guanciale or pancetta straight from the fridge will make it easier to cut. Slice into ¼ inch-thick lardons and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add your pasta to the boiling water. Whilst the pasta cooks, place a large frying pan over a medium heat and add the guanciale. If using pancetta, add a drizzle of olive oil too."
+    },
+    {
+      "heading": null,
+      "description": "Grate the pecorino into a bowl. Take a few tbsp of the pasta water and add them to the cheese, then mix into a paste."
+    },
+    {
+      "heading": null,
+      "description": "Cook the guanciale for 5 to 7 mins until it’s golden brown and a good amount of the fat has rendered out. Add a tsp of ground black pepper during the last minute of cooking."
+    },
+    {
+      "heading": null,
+      "description": "By this point, your pasta should still be only three-quarters of the way cooked. Add a big ladleful of the cooking water to the pan with the guanciale before draining and add the pasta (reserve another mug of the pasta cooking water)."
+    },
+    {
+      "heading": null,
+      "description": "Toss continuously to emulsify the pasta water and fat from the guanciale until you have a creamy starchy mixture. Add the cheese and continue to mix and toss, adding more water as needed until you have a glossy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a little more black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-12T11:02:00+01:00"
+}

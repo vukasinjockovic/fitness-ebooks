@@ -1,0 +1,310 @@
+{
+  "id": "4810809",
+  "slug": "miso-mushroom-bean-bowl",
+  "title": "Miso Mushroom Bean Bowl",
+  "url": "https://www.mob.co.uk/recipes/miso-mushroom-bean-bowl",
+  "summary": "A filling, tasty, and high-protein bean bowl that's completely vegan. It doesn't get much healthier than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Miso-Mushroom-Bean-Bowl.jpg",
+  "cook_time": 20,
+  "prep_time": 20,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 478,
+    "protein": 28,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 38,
+    "dietary_fibre": 11,
+    "sugars": 6,
+    "sodium": 671
+  },
+  "ingredients": [
+    {
+      "label": "800g Fresh Shiitake Mushrooms",
+      "quantity": "800",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium/Large White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium/Large White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins Cooked Butter Beans",
+      "quantity": "720",
+      "unit": null,
+      "name": "Drained Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins Cooked Butter Beans",
+      "quantity": "720",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Reserved Bean Liquid",
+      "quantity": null,
+      "unit": null,
+      "name": "Reserved Butter Bean Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce (Or Tamari)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Firm Smoked Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Smoked Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Firm Smoked Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 Tbsp Sweet White Miso Paste",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 Tbsp Sweet White Miso Paste",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Soaked Cashews Nuts or Sunflower Seeds",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Nutritional Yeast",
+      "quantity": "3",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Splash of Water",
+      "quantity": null,
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cavolo Nero, Blanched and Blended With Oil, Salt, Lemon and Pepper",
+      "quantity": "15",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Crusty Sourdough Bread",
+      "quantity": null,
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak the cashews in boiling water for 15 mins until plump and soft. Meanwhile, roughly tear up the mushrooms with your hands and dice the onion."
+    },
+    {
+      "heading": null,
+      "description": "Fry the mushrooms in a stainless steel frying pan for 7-8 mins with a little olive oil and salt, until they begin to crisp up and turn a nice shade of brown. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Pour all the cashew cream ingredients into a blender and blitz until you have a thick, silky and pourable paste. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "In the same frying pan (no need to clean), fry the diced onion in plenty of olive oil with a pinch of salt for 6 mins. Add the garlic and fry for 2 mins. Grate the tofu directly into the pan and fry for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the butter beans and their juices. Bring to a simmer, stirring frequently for 10-15 mins. Add half the crispy fried mushrooms, 4 tbsp cashew cream and the soy sauce or tamari. Stir well and season to taste. ​​Add a splash of water if you want it saucier."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, blanch the cavolo nero in boiling water and transfer it to a bowl. Add olive oil, a squeeze of lemon, salt and pepper to make a lemony cavolo nero oil."
+    },
+    {
+      "heading": null,
+      "description": "Decorate with the rest of the cream, mushrooms, chives, the lemony cavolo nero oil, sesame seeds and plenty more extra virgin olive oil. Serve with crusty sourdough."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Most Cooked",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Waplington",
+      "uri": "chefs/sophie-waplington",
+      "summary": "Soph (@sophsplantkitchen) is a personal trainer and plant-based recipe developer, specialising in high-protein, high-fibre, wholefood recipes to help support healthy, active lifestyles. Her mission is to redefine ‘fitness food’ by adding more deliciousness into your diet, instead of taking it away."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-01-28T07:00:00+00:00"
+}

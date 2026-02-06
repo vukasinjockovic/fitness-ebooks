@@ -1,0 +1,173 @@
+{
+  "id": "6766450",
+  "slug": "curried-squash-lentil-traybake",
+  "title": "Curried Squash & Lentil Traybake",
+  "url": "https://www.mob.co.uk/recipes/curried-squash-lentil-traybake",
+  "summary": "An autumnal one-tray wonder with chunky butternut squash and a gently spiced coconut curry sauce. It’s plant-based, nourishing and really easy to make – just whack it in a tray and let the oven do the work.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Curried-Squash-Lentil-Traybake.jpg",
+  "cook_time": 35,
+  "prep_time": 15,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 258,
+    "protein": 9,
+    "fat": 10,
+    "saturated_fat": 5,
+    "carbohydrates": 28,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 156
+  },
+  "ingredients": [
+    {
+      "label": "600g Squash",
+      "quantity": "600",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Thai Red Curry Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thai Red Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Coconut Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Boiling Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Beluga Lentils",
+      "quantity": "2",
+      "unit": null,
+      "name": "Beluga Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Coconut Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Coconut Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Flaked Toasted Almonds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Toasted Flaked Almonds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Wash the squash well. Cut the top and tail off, scoop out and discard the seeds and then cut 1-2cm slices. Drain the lentils, cut the onions into wedges and pick the coriander leaves. Thinly slice the chilli."
+    },
+    {
+      "heading": null,
+      "description": "Add the curry paste, coconut milk and boiling water to a large baking dish and mix well. Add the lentils, onions, squash pieces and plenty of salt and pepper. Drizzle over some olive oil and slide into the oven until the squash is cooked through, 20-30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Divide the squash and coconut curry between bowls and top with the coconut yoghurt, flaked toasted almonds and fresh coriander before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-17T00:00:00+01:00"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "3627856",
+  "slug": "vodka-clementine-bitters",
+  "title": "Vodka Clementine Bitters",
+  "url": "https://www.mob.co.uk/recipes/vodka-clementine-bitters",
+  "summary": "If you're looking for a quick, refreshing and simple drink look no further. The flaming orange gives the drink an incredible bouquet.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/849A4553.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 143,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 17,
+    "dietary_fibre": 2,
+    "sugars": 14,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Vodka",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dash of Angostura Bitters",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Angostura Bitters",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Fever-Tree Spanish Clementine Tonic Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tonic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Using a peeler, peel the orange into a long rind for garnish. Use a knife to then cut a thick slice of the rind off."
+    },
+    {
+      "heading": null,
+      "description": "Add ice to a balloon gin glass."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your vodka before adding in two dashes of Angostura bitters and your Fever-Tree Spanish Clementine Tonic Water. Add the orange peel and stir."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the rind over the glass and ignite using a lighter to create a wonderful bouquet of aroma."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-05T16:00:00+01:00"
+}

@@ -1,0 +1,198 @@
+{
+  "id": "6747449",
+  "slug": "coconut-cake",
+  "title": "Coconut Cake",
+  "url": "https://www.mob.co.uk/recipes/coconut-cake",
+  "summary": "A simple coconut sponge cake recipe that uses both coconut milk and desiccated coconut. A gorgeous celebration cake.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Coconut-Cake-2.jpg",
+  "cook_time": 40,
+  "prep_time": 15,
+  "total_time": 55,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 410,
+    "protein": 4,
+    "fat": 23,
+    "saturated_fat": 15,
+    "carbohydrates": 48,
+    "dietary_fibre": 2,
+    "sugars": 32,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "290g Plain Flour",
+      "quantity": "290",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 ½ Tsp Baking Powder",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Tsp Salt",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "205g Softened Unsalted Butter",
+      "quantity": "205",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360g Caster Sugar",
+      "quantity": "360",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Coconut Milk",
+      "quantity": "240",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Desiccated Coconut",
+      "quantity": "40",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100 g Soft Unsalted Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Soft Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300 g Icing Sugar",
+      "quantity": "300",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75 ml Double Cream",
+      "quantity": "75",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dessicated Coconut",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Coconut Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to fan 150°C. Grease two round 16cm cake tins and line with baking paper. Make sure your butter is at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "Get the flour, baking powder and salt in a mixing bowl and whisk until combined."
+    },
+    {
+      "heading": null,
+      "description": "In another bowl, use an electric whisk to beat the butter and sugar together for 2-5 mins until light and fluffy. Crack the eggs in, one at a time, and beat until combined each time before adding another."
+    },
+    {
+      "heading": null,
+      "description": "Sift the flour mixture into the butter and beat until just combined. Pour in the coconut milk and desiccated coconut and use a spoon or spatula to fold everything together until you have a fully incorporated batter."
+    },
+    {
+      "heading": null,
+      "description": "Divide the batter between the prepared cake tins. Bake in the oven for 30-40 mins until golden brown and a toothpick inserted comes out clean. Leave to cool in the tins for 10 mins then transfer to a wire rack to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the buttercream. Beat the butter alone for 4–5 mins on high speed. Sift in the icing sugar and add the vanilla and cream then beat on a low speed to bring it together. Beat on high for another 2–3 mins."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spread the buttercream over both cooled sponges and pop one on top of the other, sandwiching them together. Sprinkle over the toasted coconut flakes."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T15:50:00+01:00"
+}

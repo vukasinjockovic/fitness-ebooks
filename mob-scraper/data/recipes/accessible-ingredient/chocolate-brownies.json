@@ -1,0 +1,164 @@
+{
+  "id": "4415994",
+  "slug": "chocolate-brownies",
+  "title": "Easy Chocolate Brownies",
+  "url": "https://www.mob.co.uk/recipes/chocolate-brownies",
+  "summary": "Proudly presenting: our ultimate brownie recipe. We’ve looked at all the credentials for what makes the best brownie and combined them in this glorious recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Ultimate-Brownie.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 210,
+    "protein": 2,
+    "fat": 13,
+    "saturated_fat": 8,
+    "carbohydrates": 21,
+    "dietary_fibre": 2,
+    "sugars": 17,
+    "sodium": 38
+  },
+  "ingredients": [
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Butter",
+      "quantity": "250",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Pinches of Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Milk Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Milk Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Milk Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Caster Sugar",
+      "quantity": "300",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Self-Raising Flour",
+      "quantity": "60",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cocoa Powder",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C/160°C fan/gas mark 4. Grease a 20cm brownie tin or high-sided roasting tray with butter and line the base with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Snap the dark chocolate into a microwaveable bowl, add the butter and a big pinch of salt. Zap in the microwave on high in 30-second bursts, stirring in between, until the butter and chocolate are completely melted. Set aside to cool slightly. Roughly chop the milk chocolate."
+    },
+    {
+      "heading": null,
+      "description": "Measure the sugar into a large bowl. Crack in the eggs. Using an electric whisk, whisk the eggs and sugar together until they have almost doubled in size and are very light and fluffy."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the melted chocolate mixture and add the flour and cocoa powder. Whisk briefly until everything is combined."
+    },
+    {
+      "heading": null,
+      "description": "Smooth half the brownie batter into your tin. Scatter over half the milk chocolate then scrape the rest of the batter over the top. Sprinkle over the remaining milk chocolate and a big pinch of sea salt. Bake for 30 mins or until the edges are set and the centre still has a good wobble."
+    },
+    {
+      "heading": null,
+      "description": "Leave to cool then cut into 12 squares."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-23T09:43:00+01:00"
+}

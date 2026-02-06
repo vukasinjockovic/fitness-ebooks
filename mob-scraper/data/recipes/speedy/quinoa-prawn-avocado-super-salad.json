@@ -1,0 +1,162 @@
+{
+  "id": "14392",
+  "slug": "quinoa-prawn-avocado-super-salad",
+  "title": "Quinoa, Prawn & Avocado Super Salad",
+  "url": "https://www.mob.co.uk/recipes/quinoa-prawn-avocado-super-salad",
+  "summary": "A fresher than fresh salad. Ideal for lunches and meal prep. The dream team flavour combo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Quinoa_Prawn.jpeg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 11,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 32,
+    "dietary_fibre": 5,
+    "sugars": 2,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "300g Quinoa",
+      "quantity": "300",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Raw King Prawns",
+      "quantity": "165",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Cider Vinegar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get your quinoa on. It should take 15 minutes in boiling water but check the packet for cooking directions."
+    },
+    {
+      "heading": null,
+      "description": "Place the prawns in a bowl. Season with salt and pepper and add 1 tbsp of olive oil. Mix together. Throw the prawns onto a hot griddle pan. They should take 1 ½ minutes on each side."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, cut avocados into small cubes and add to a salad bowl. Peel and de-seed cucumber, chop into small chunks and add that too."
+    },
+    {
+      "heading": null,
+      "description": "Once the prawns are pink and cooked through, remove them from the heat and add to a bowl, along with the cooked quinoa. Add a handful of chopped basil."
+    },
+    {
+      "heading": null,
+      "description": "Dressing time. Add cider vinegar to a jar with olive oil. Season with salt and pepper. Mix it all together."
+    },
+    {
+      "heading": null,
+      "description": "Pour the dressing over the salad, toss it together and serve! Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides"
+  ],
+  "cuisines": [
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2017-11-22T00:00:00+00:00"
+}

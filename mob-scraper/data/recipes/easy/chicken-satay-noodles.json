@@ -1,0 +1,171 @@
+{
+  "id": "12966",
+  "slug": "chicken-satay-noodles",
+  "title": "Chicken Satay Noodles",
+  "url": "https://www.mob.co.uk/recipes/chicken-satay-noodles",
+  "summary": "A great peanutty noodle dish. Done in about 15 minutes. Really easy - a great midweek dinner option.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A9942.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 561,
+    "protein": 38,
+    "fat": 17,
+    "saturated_fat": 7,
+    "carbohydrates": 62,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 1162
+  },
+  "ingredients": [
+    {
+      "label": "500g Chicken Breast",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Breast",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Egg Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Egg Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tbsp Smooth Peanut Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salted Peanuts (Crushed)",
+      "quantity": null,
+      "unit": null,
+      "name": "Salted Roasted Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add chicken breasts to a pan of boiling water. Boil for 8 minutes until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Remove chicken from the water and shred it up."
+    },
+    {
+      "heading": null,
+      "description": "Add noodles to the chicken water and cook for 3 minutes. Drain."
+    },
+    {
+      "heading": null,
+      "description": "Get a wok on. Add your coconut milk, peanut butter, fish sauce and soy sauce. Mix everything together and bubble on a high heat for 30 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Add your chicken. Mix it in. Add your noodles. Stir everything together."
+    },
+    {
+      "heading": null,
+      "description": "Add a handful of chopped spring onions. Stir them in."
+    },
+    {
+      "heading": null,
+      "description": "Serve up the noodles into 4 bowls. Add some bashed up peanuts on top. Tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-05-10T00:00:00+01:00"
+}

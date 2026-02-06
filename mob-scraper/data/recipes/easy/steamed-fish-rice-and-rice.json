@@ -1,0 +1,159 @@
+{
+  "id": "4189465",
+  "slug": "steamed-fish-rice-and-rice",
+  "title": "Steamed Fish & Rice With Green Chilli Oil",
+  "url": "https://www.mob.co.uk/recipes/steamed-fish-rice-and-rice",
+  "summary": "The weeknight dinner you've been needing. A balanced bowl of steamed fish, coconut rice and tangy green chilli oil. Tuck in.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Steamed-Fish-Rice-With-Green-Chilli-Oil.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "fat": 13,
+    "saturated_fat": 8,
+    "carbohydrates": 48,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 74
+  },
+  "ingredients": [
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cod Fillets, Boneless And Skinless",
+      "quantity": "560",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli or Pak Choi",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli or Pak Choi",
+      "quantity": "400",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Chilli Oil, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Rinse the rice in cold water until it runs clear. Add it to a small saucepan along with 200ml of water and a tin of coconut milk. Bring to the boil, then cover with a lid, turn the heat down and simmer for 10 mins. Remove from the heat and let it sit until you’re ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "Get a pan of water on and pop in the tenderstem and fish. Steam for 5 mins, until the fish is cooked through and tenderstem is al dente."
+    },
+    {
+      "heading": null,
+      "description": "To the rice, add the juice of ½ a lime and season well with salt. Fluff up with a fork to mix."
+    },
+    {
+      "heading": null,
+      "description": "Serve up on a plate topped with finely chopped coriander and drizzle with green chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-15T10:07:00+00:00"
+}

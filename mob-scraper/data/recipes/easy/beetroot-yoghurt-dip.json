@@ -1,0 +1,154 @@
+{
+  "id": "5371036",
+  "slug": "beetroot-yoghurt-dip",
+  "title": "Beetroot & Yoghurt Dip",
+  "url": "https://www.mob.co.uk/recipes/beetroot-yoghurt-dip",
+  "summary": "A rich and creamy dip that gets its colour from our homemade beetroot and feta pesto.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Beetroot-Yoghurt-Dip.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "fat": 7,
+    "saturated_fat": 2,
+    "carbohydrates": 4,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 143
+  },
+  "ingredients": [
+    {
+      "label": "120g greek yoghurt",
+      "quantity": "120",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g greek yoghurt",
+      "quantity": "120",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 tbsp beetroot and feta pesto",
+      "quantity": "4",
+      "unit": null,
+      "name": "Beetroot & Feta Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 tbsp beetroot and feta pesto",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp toasted walnuts, to serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Walnuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Dill",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Bread",
+      "quantity": null,
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Season the yoghurt with salt and pepper and spread onto a large platter. Spoon the pesto on top and then swirl into the yoghurt."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle with olive oil, scatter with dill and the toasted walnuts. Finish with a crack of black pepper. Serve with bread for swooping through."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-13T05:00:00+01:00"
+}

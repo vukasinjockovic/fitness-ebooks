@@ -1,0 +1,306 @@
+{
+  "id": "6854583",
+  "slug": "thai-green-chicken-curry",
+  "title": "Thai Green Chicken Curry",
+  "url": "https://www.mob.co.uk/recipes/thai-green-chicken-curry",
+  "summary": "A Thai green curry is hard to beat. This one is spicy, aromatic and coconutty, and quick and easy enough to make for dinner tonight. Perfect served over fluffy jasmine rice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Thai-Green-Chicken-Curry.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 26,
+    "fat": 18,
+    "saturated_fat": 10,
+    "carbohydrates": 74,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "2 Lemongrass Stalks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallot",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ large aubergine",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml full fat coconut milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Thai basil leaves",
+      "quantity": null,
+      "unit": null,
+      "name": "Thai Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g skinless boneless chicken thigh",
+      "quantity": "450",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g skinless boneless chicken thigh",
+      "quantity": "450",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Firm Tofu",
+      "quantity": "100",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Firm Tofu",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g bamboo shoots",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bamboo Shoot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Green Curry Paste",
+      "quantity": "60",
+      "unit": null,
+      "name": "Thai Green Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml unsalted chicken stock",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Palm Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Palm Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Baby Corn",
+      "quantity": "6",
+      "unit": null,
+      "name": "Baby Corn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Lime leaves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lime Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Jasmine rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Jasmine rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 red chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Crispy Shallots",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bash the lemongrass and remove the bottom stems and outer husks. Cook the rice following packet instructions, and add the lemongrass stems and husks to the pot as it cooks."
+    },
+    {
+      "heading": null,
+      "description": "Mince the remaining lemongrass. Slice each shallot into quarters. Cut the aubergines into 1cm coins, then into half moons."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large dry pan over a high heat. Add the aubergines and char for 2 mins on each side until lightly blackened. Transfer to a small bowl and set aside to continue cooking in their own heat."
+    },
+    {
+      "heading": null,
+      "description": "Stir the can of coconut milk to distribute the fat. Add ½ the coconut milk to a blender with the Thai Basil leaves and turmeric. Blitz just until smooth and vibrant. Don't over-blend or the vibrant green will turn dull. Set aside to let the flavours infuse."
+    },
+    {
+      "heading": null,
+      "description": "Slice the boneless chicken thighs into 1 inch strips. Cut the tofu into bite-sized pieces. Drain and rinse the bamboo shoots."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large pan over a medium-high heat. Add the remaining coconut milk and cook for 2 mins or until the thinner liquid has evaporated and you have a thicker creamy consistency."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the curry paste and minced lemongrass and cook off for about 5 mins, until the curry paste has darkened slightly and developed an oily sheen. Make sure not to burn it."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken. Mix well to coat the meat in the mixture then cook for a couple of minutes until the chicken is lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the chicken stock, blended coconut milk mixture, fish sauce and palm sugar and bring to a simmer. Add the charred aubergine, baby corn, tofu, shallots and bamboo shoots and bring back to a simmer. Tear the lime leaves in your hand to release their aroma and add to the pot. Reduce the heat to low-medium, pop a lid on and cook at a gentle simmer for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, pick the coriander leaves, cut the lime into wedges and thinly slice the red chilli for garnish."
+    },
+    {
+      "heading": null,
+      "description": "When the cooking time for the curry is up, turn the heat off and leave it to rest for 5 mins. Taste and season with salt, some lime juice and a little more fish sauce if needed."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the rice between bowls and ladle over the curry. Serve with the coriander, lime wedges, fresh chilli and some crispy shallots, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-08T14:00:00+00:00"
+}

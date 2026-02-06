@@ -1,0 +1,118 @@
+{
+  "id": "5030372",
+  "slug": "beany-chilli-soup",
+  "title": "Beany Chilli Soup with Toasted Seeds & Wholegrain Rice",
+  "url": "https://www.mob.co.uk/recipes/beany-chilli-soup",
+  "summary": "We’ve repurposed the batch-cooked ultimate veg chilli and turned it into a soup with wholegrain rice and toasted seeds. Proper nourishing!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Beany-Chilli-Soup-with-Toasted-Seeds-Wholegrain-Rice.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 400,
+    "protein": 13,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 59,
+    "dietary_fibre": 7,
+    "sugars": 5,
+    "sodium": 522
+  },
+  "ingredients": [
+    {
+      "label": "40g Mixed Seeds",
+      "quantity": "40",
+      "unit": null,
+      "name": "Mixed Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Vegetable Stock",
+      "quantity": "600",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Wholegrain Microwave Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Wholegrain Microwave Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Wholegrain Microwave Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Veggie Chilli Sin Carne."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 160°C. \nPut the seeds onto a baking tray and pop in the oven for 12-15 mins until golden. Get the leftover Veggie Chilli Sin Carne into a saucepan along with the stock, then simmer it away until piping hot."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the jalapeño. Heat the rice following pack instructions, then serve up in bowls. Ladle in the soup and top with soured cream, jalapeños, and toasted seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-09T07:00:00+00:00"
+}

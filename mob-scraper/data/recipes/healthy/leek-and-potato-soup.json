@@ -1,0 +1,245 @@
+{
+  "id": "3951314",
+  "slug": "leek-and-potato-soup",
+  "title": "Leek & Potato Soup",
+  "url": "https://www.mob.co.uk/recipes/leek-and-potato-soup",
+  "summary": "Super simple, and super satisfying. This leek and potato soup is a classic for me. Finished with a savoury granola, it doesn't get tastier than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/Leek-Potato-Soup.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 370,
+    "protein": 6,
+    "fat": 22,
+    "saturated_fat": 10,
+    "carbohydrates": 36,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "5 Leeks",
+      "quantity": "5",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Potatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Sprigs of Thyme",
+      "quantity": "4",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2L Vegetable stock",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Oats",
+      "quantity": "80",
+      "unit": null,
+      "name": "Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Mixed Seeds",
+      "quantity": "40",
+      "unit": null,
+      "name": "Mixed Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Mixed Spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mixed Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Honey",
+      "quantity": "3",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Preserved Lemons",
+      "quantity": "3",
+      "unit": null,
+      "name": "Preserved Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crème Fraîche",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Halve and wash your leeks. Roughly chop ¾ of them."
+    },
+    {
+      "heading": null,
+      "description": "Put the rest of your halved leeks in a tray with a pinch of salt and a drizzle of oil. Toss to coat, then roast in the oven for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Peel your potatoes, then chop them into large chunks. Peel and crush your garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add your potatoes to a large bowl filled with cold water."
+    },
+    {
+      "heading": null,
+      "description": "Heat 80g of butter in a large saucepan. Add the leeks, along with half of your thyme leaves, garlic and a pinch of salt. Sweat them down for 5-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add in the potatoes, cover with stock and bring the mixture to a simmer. Simmer for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "In a frying pan, add your honey with thyme, ground mixed spice, chilli flakes and a pinch of salt. Once melted, add in the oats and mixed seeds, then stir to combine."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking paper, then pour your oat mixture onto the tray. Put the tray in the oven, and cook for 10 mins until the mixture is golden."
+    },
+    {
+      "heading": null,
+      "description": "Once the leeks are roasted, remove them from the oven and finely chop them. Get these in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Remove the seeds from the preserved lemons and roughly chop them. Add these into the bowl of leeks with a drizzle of olive oil, then season to taste with salt."
+    },
+    {
+      "heading": null,
+      "description": "When the potatoes are tender, blend until smooth. Add a tablespoon of crème fraîche, and adjust the seasoning to taste."
+    },
+    {
+      "heading": null,
+      "description": "Pour the soup into a bowl and top with the leek and lemon mix, clusters of the granola, a drizzle of oil and a little more crème fraîche. Serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Batch",
+    "Freezer Friendly",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Angelica Udenweze",
+      "uri": "chefs/angelica-udenweze",
+      "summary": "Angelica Udenweze joined the team as a food assistant and helped develop so many classic dishes, during her time at Mob. When it comes to her cooking, Angelica specialises in complex flavour combos that always leave you wanting more."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-29T11:45:00+00:00"
+}

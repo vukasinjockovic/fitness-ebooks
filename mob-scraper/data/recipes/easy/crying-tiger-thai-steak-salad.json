@@ -1,0 +1,314 @@
+{
+  "id": "6453581",
+  "slug": "crying-tiger-thai-steak-salad",
+  "title": "Crying Tiger Thai Steak Salad",
+  "url": "https://www.mob.co.uk/recipes/crying-tiger-thai-steak-salad",
+  "summary": "Spicy, fresh and easy to make. Try this juicy sirloin steak with a Thai roasted rice dipping sauce, inspired by nam jim jaew.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A5775-1.png",
+  "cook_time": 10,
+  "prep_time": 20,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 701,
+    "protein": 38,
+    "fat": 43,
+    "saturated_fat": 8,
+    "carbohydrates": 44,
+    "dietary_fibre": 7,
+    "sugars": 18,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "½ Tbsp Oyster Sauce",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Fish Sauce",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Brown Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sirloin Steak",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sirloin Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sirloin Steak",
+      "quantity": "250",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Green Beans",
+      "quantity": "100",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Lettuce Leaves",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Cucumber",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cherry Tomatoes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cherry Tomatoes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cashews",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Jasmine Rice",
+      "quantity": "10",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Jasmine Rice",
+      "quantity": "10",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tamarind Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tamarind Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Baby Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Banana Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Coriander Stems",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Crispy Shallots",
+      "quantity": "50",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lime wedges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix the oyster sauce, fish sauce and brown sugar together in a large bowl then add the steak. Massage the marinade into the meat then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Set a pot of boiling water over a medium heat and add the green beans. Cook for about 4 mins until tender then remove and set aside. Boil the eggs for 6 mins 30 seconds then plunge into ice cold water and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Wash and dry the lettuce leaves, cut the cucumber into slices at an angle and halve the cherry tomatoes. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a small dry pan over a medium heat and add the cashews. Cook for about 5 mins until nicely charred on both sides then remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the Thai roasted rice dipping sauce, toast the jasmine rice in the same dry pan set over a medium heat. Move the pan occasionally so the rice browns evenly. Cook for about 3 mins until deeply golden brown and smelling like popcorn. Transfer to a pestle and mortar or blender and leave to cool. Once cool, grind to a fine powder then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the green parts of the spring onions and discard the whites. Juice the limes. Mix the spring onions and lime juice with the toasted rice powder and the rest of the dipping sauce ingredients in a small bowl. For an authentic smoky aroma, briefly toast the chilli flakes for 30 seconds in a dry pan over a medium heat first, then grind into a rough powder."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large pan set over a medium heat. Lightly salt each side of the steak then sear for 30 seconds on each side. Repeat for another 30 seconds on each side for a medium-rare steak. Continue for a further 30 seconds on each side for a medium-cooked steak. Remove to a plate and leave to rest for 6 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel and halve the egg. When the steak is rested, slice it into thin pieces."
+    },
+    {
+      "heading": null,
+      "description": "To serve, lay out the lettuce, cucumbers, green beans and cherry tomatoes on a large plate with the steak slices, eggs, toasted cashews, and some crispy shallots. Spoon the dipping sauce over the steak and serve the remaining sauce in a small bowl."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-23T12:00:00+01:00"
+}

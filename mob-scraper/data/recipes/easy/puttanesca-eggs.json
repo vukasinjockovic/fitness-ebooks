@@ -1,0 +1,173 @@
+{
+  "id": "5560856",
+  "slug": "puttanesca-eggs",
+  "title": "Puttanesca Eggs",
+  "url": "https://www.mob.co.uk/recipes/puttanesca-eggs",
+  "summary": "What do you get when you cross a shakshuka with a puttanesca sauce? Puttanesca eggs. This recipe is tangy, tomatoey, and perfect for when you want a quick and easy dinner. Made using ingredients we got in a flash from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Puttanesca-Eggs.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 282,
+    "protein": 13,
+    "fat": 13,
+    "saturated_fat": 3,
+    "carbohydrates": 25,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 900
+  },
+  "ingredients": [
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pitted Green Olives",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pitted Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 anchovy fillets",
+      "quantity": "8",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp dried chilli flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "690ml jar passata",
+      "quantity": "690",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big pinch of caster sugar (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 medium organic eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices of Sourdough",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Flat Leaf Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and thinly slice the garlic cloves, and thickly slice the olives."
+    },
+    {
+      "heading": null,
+      "description": "Pour 1 tbsp of oil from the anchovy tin into a large, deep frying pan over a medium heat and add the anchovies, sliced garlic and chilli flakes. Cook gently, stirring regularly for a few minutes until the garlic is soft and the anchovies have broken up. Pour in the passata, add the sugar if using, capers and green olives and bring to a simmer. Bubble gently for 10 mins, stirring occasionally, until thickened slightly, then season with salt and lots of cracked black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Cut the sourdough into 4cm-wide fingers and brush with the remaining 1 tbsp anchovy oil."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat under the frying pan down to low-medium. Use a large spoon to make four wells in the tomato sauce and crack an egg into each one. Put on a lid, or cover with a baking tray, and simmer very gently for around 6-8 mins until the whites of the eggs are just set but the yolks are runny (checking every now and then so they don't overcook)."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, heat a griddle pan or frying pan over a high heat and grill the bread for 1 min on each side until crunchy, caramelised and a little charred."
+    },
+    {
+      "heading": null,
+      "description": "Tear over the parsley leaves and serve with the bread soldiers for dunking and scooping-up all that lovely sauce and yolk."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2024-06-07T09:30:00+01:00"
+}

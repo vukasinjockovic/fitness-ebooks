@@ -1,0 +1,287 @@
+{
+  "id": "6422090",
+  "slug": "high-protein-mac-cheese",
+  "title": "High-Protein Mac & Cheese with Garlic & Herb Crumb",
+  "url": "https://www.mob.co.uk/recipes/high-protein-mac-cheese",
+  "summary": "The ultimate comfort food with a twist to make it higher in protein and lower in calories, but still delicious. This high protein mac and cheese is the ultimate beige food lover’s heaven.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/220A9905-1.png",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 495,
+    "protein": 29,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 66,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "220g Macaroni",
+      "quantity": "220",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Macaroni",
+      "quantity": "220",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70ml Skimmed Milk",
+      "quantity": "70",
+      "unit": null,
+      "name": "Skimmed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Light Cottage Cheese",
+      "quantity": "90",
+      "unit": null,
+      "name": "Light Cottage Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Light Cottage Cheese",
+      "quantity": "90",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Lightest Soft Cheese",
+      "quantity": "50",
+      "unit": null,
+      "name": "Light Soft Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Lightest Soft Cheese",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Onion Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g 50% Reduced-Fat Grated Cheddar⁣",
+      "quantity": "25",
+      "unit": null,
+      "name": "50% Reduced-Fat Cheddar⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g 50% Reduced-Fat Grated Cheddar⁣",
+      "quantity": "25",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Parmesan",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Grated Mozzarella",
+      "quantity": "30",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Grated Mozzarella",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Slice of Bread",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Parsley",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Light Butter/Flora",
+      "quantity": "10",
+      "unit": null,
+      "name": "Flora",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Granules",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mixed Herbs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Mixed Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the macaroni into a saucepan of salted boiling water. Once the pasta is al dente, drain and rinse so that the pasta doesn’t stick together. Reserve some of the pasta water to use later."
+    },
+    {
+      "heading": null,
+      "description": "While the pasta is cooking, make the breadcrumbs. Break up the bread, transfer to a food processor and blitz into breadcrumbs. Grate the cheddar and set it aside. Finely chop the parsley. Melt the butter in a frying pan over a medium heat. Once sizzling, add the breadcrumbs followed by the garlic, herbs and a pinch of salt. Continue to stir over a medium-high heat for around 10 mins until golden and crispy, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the milk, cottage cheese, soft cheese, onion powder, mustard, cheddar and half of the Parmesan to the food processor, along with 50ml pasta water (no need to clean the processor after using it for the bread – a few crumbs won’t hurt!). Blitz until smooth to create the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Heat your grill. Pour the sauce into one of the pans that you just used. Cook over a low heat for a couple of minutes and season with salt and pepper to taste. Stir in the cooked pasta and the mozzarella, along with some pasta water to loosen it up, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Top with the remaining Parmesan followed by the breadcrumbs and pop it under the hot grill until melted and crispy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "American",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-09T05:00:00+01:00"
+}

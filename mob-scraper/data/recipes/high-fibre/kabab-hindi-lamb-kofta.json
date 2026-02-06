@@ -1,0 +1,272 @@
+{
+  "id": "4476825",
+  "slug": "kabab-hindi-lamb-kofta",
+  "title": "Kabab Hindi (Lamb Kofta)",
+  "url": "https://www.mob.co.uk/recipes/kabab-hindi-lamb-kofta",
+  "summary": "A spicy and aromatic recipe for kabab hindi (lamb kofta) from Imad Alarnab. Lamb meatballs don't get better than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Kabab-Hindi-Lamb-Kofta.jpg",
+  "cook_time": 35,
+  "prep_time": 40,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 14,
+    "fat": 27,
+    "saturated_fat": 7,
+    "carbohydrates": 13,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 491
+  },
+  "ingredients": [
+    {
+      "label": "300g Lamb Mince (15% or 20% Fat)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Lamb Mince (15% or 20% Fat)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Lebanese 7-Spice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lebanese 7-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion, Diced",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion, Diced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Pine Nuts (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion, Diced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Lebanese 7-Spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lebanese 7-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper, To Taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Fresh Tomatoes (About 1kg), Chopped",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Wedge of Lemon",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Parsley (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a large mixing bowl, combine the minced lamb with the salt, 7 spices mix and black pepper. Use your hands to make sure all ingredients are mixed well."
+    },
+    {
+      "heading": null,
+      "description": "With a sharp knife, finely dice the white onion and add to the mixture."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the garlic and add to the bowl. Mix together."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, get cracking with your musabaha sauce. In a saucepan, add the olive oil and diced onions. Sweat until the onions have a little colour. if you would like extra flavour, you can add an additional tsp of cumin seeds at this stage."
+    },
+    {
+      "heading": null,
+      "description": "Add your 7-spice mix, black pepper, salt and tomato purée and mix well together."
+    },
+    {
+      "heading": null,
+      "description": "Add the fresh tomatoes, and cook them for approximately 30 minutes, or until soft. Stir throughout. The tomatoes are going to naturally add water to the sauce, so stop cooking once it turns into a purée-like consistency."
+    },
+    {
+      "heading": null,
+      "description": "Take your sauce off the heat, and tip into an oven-proof tray."
+    },
+    {
+      "heading": null,
+      "description": "Shape the meat into balls and add to the tray with the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Cook in the oven for 35 mins at 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Serve with toasted pine nuts (optional) to add a crispiness and enjoy with the musabaha."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Imad Alarnab",
+      "uri": "chefs/imad-alarnab",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-31T10:44:00+01:00"
+}

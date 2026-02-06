@@ -1,0 +1,305 @@
+{
+  "id": "4634632",
+  "slug": "three-cheese-paratha",
+  "title": "Three Cheese Paratha With Coriander & Mint Chutney",
+  "url": "https://www.mob.co.uk/recipes/three-cheese-paratha",
+  "summary": "This cheesy paratha is an excellent recipe from Chetna Makan. The bright green chutney is essential for cutting through the richness of the paratha.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Three-Cheese-Paratha.jpg",
+  "cook_time": 5,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 388,
+    "protein": 12,
+    "fat": 23,
+    "saturated_fat": 8,
+    "carbohydrates": 33,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "200g Chapati Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chapati Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sunflower Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar Cheese, Grated",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar Cheese, Grated",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mozzarella Cheese, Grated",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mozzarella Cheese, Grated",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Paneer, Grated",
+      "quantity": "50",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Paneer, Grated",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli, Finely Chopped",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion, Finely Chopped",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion, Finely Chopped",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sunflower Oil, To Cook",
+      "quantity": null,
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Butter, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Mint, Break the Leaves Off the Stalk",
+      "quantity": "20",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Green Chillies, Roughly Chopped",
+      "quantity": "4",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1cm Knob of Ginger, Roughly Chopped",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of 1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a bowl combine the flour, salt and oil. Slowly add the water and bring the dough together. You might not need all the water or need a bit more. Knead for a few seconds. Put a few drops of oil in the palm of your hands and knead the dough for a last time, cover and let it rest for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "In another bowl combine all the filling ingredients."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a skillet to medium heat. Divide the dough into 4 portions, roll each portion to a small circle around 3-4 inches big. Now take a quarter of the cheese filling and place it in the centre of the circle and bring the outside together and seal the cheese. Roll this in some flour and roll to a thinner circle around 8-9 inches big."
+    },
+    {
+      "heading": null,
+      "description": "Place on the hot pan and cook for a minute before turning over. Cook for another minute then add a tsp of oil on each side and cook for another minute until golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "In a blender add all the chutney ingredients (squeezing in the juice of the lime but discarding the skin) except for the yoghurt and blitz to a purée. Now add the yoghurt and blitz again. Serve immediately. You can store this in the fridge for 3-4 days."
+    },
+    {
+      "heading": null,
+      "description": "Spread some salted butter on top and serve hot."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chetna Makan",
+      "uri": "chefs/chetna-makan",
+      "summary": "Chetna Makan burst onto our screens on the ‘The Great British Bake Off’ in 2014 and since has gone on to write eight cookbooks and create her popular Youtube channel ‘Food with Chetna.’ Her writing appears regularly across British food media, in BBC Good Food, The Guardian’s Feast and Waitrose Food, amongst others. Chetna’s most recent cookbook, Easy Indian Vegetarian, will be published in July this year."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-02T10:24:00+00:00"
+}

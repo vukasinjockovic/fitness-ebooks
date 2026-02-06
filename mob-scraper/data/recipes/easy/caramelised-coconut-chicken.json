@@ -1,0 +1,260 @@
+{
+  "id": "5865389",
+  "slug": "caramelised-coconut-chicken",
+  "title": "Caramelised Coconut Chicken With Zingy Herby Mango Salad",
+  "url": "https://www.mob.co.uk/recipes/caramelised-coconut-chicken",
+  "summary": "Fragrant coconut cream and a fresh mango side salad take this simple chicken recipe to the next level. We got all our ingredients on Deliveroo, delivered in as little as 20 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Caramelised-Coconut-Chicken-With-Zingy-Herby-Mango-Salad.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 28,
+    "fat": 17,
+    "saturated_fat": 8,
+    "carbohydrates": 62,
+    "dietary_fibre": 3,
+    "sugars": 14,
+    "sodium": 751
+  },
+  "ingredients": [
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160ml Coconut Cream",
+      "quantity": "160",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Clove",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Clove",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Hot Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Hot Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Hot Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fish Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "15g Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Mango",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Tomatoes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Pick the coriander leaves and thinly slice the stalks."
+    },
+    {
+      "heading": null,
+      "description": "Add the coconut cream into a bowl with the soy sauce, honey and cornflour. Finely grate the garlic in, add the coriander stems and season with fish sauce and black pepper, mix together, then stir the chicken in."
+    },
+    {
+      "heading": null,
+      "description": "Place onto an oiled baking tray, roast until cooked through,15-20 mins. Switch the grill onto high and grill until starting to char, basting every couple of minutes. Flip and continue cooking until charred in places on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the shallot and add to a bowl. Peel and slice the mango into long and thin matchsticks. Thinly slice the chillies and halve the tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Add the chilli into a small bowl with the lime juice. Season to taste with sugar and fish sauce."
+    },
+    {
+      "heading": null,
+      "description": "Into another bowl, add the mango, shallot, and tomatoes, spoon over the chilli dressing, reserving some on the side."
+    },
+    {
+      "heading": null,
+      "description": "Before serving, toss the coriander leaves into the salad. Share the rice between bowls, top with the chicken and mango salad. Drizzle over the zingy chilli sauce and any chicken sauce."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Most Cooked",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-07-15T05:00:00+01:00"
+}

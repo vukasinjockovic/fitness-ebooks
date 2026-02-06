@@ -1,0 +1,320 @@
+{
+  "id": "5914108",
+  "slug": "shredded-chicken-noodle-salad",
+  "title": "Shredded Chicken Noodle Salad",
+  "url": "https://www.mob.co.uk/recipes/shredded-chicken-noodle-salad",
+  "summary": "It's a fresh and delicious noodle salad recipe that's ridiculously easy to make. The best high-protein dinner you can make in 15 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Shredded-Chicken-Noodle-Salad.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1042,
+    "protein": 44,
+    "fat": 62,
+    "saturated_fat": 10,
+    "carbohydrates": 86,
+    "dietary_fibre": 7,
+    "sugars": 38,
+    "sodium": 4292
+  },
+  "ingredients": [
+    {
+      "label": "100g Dried Rice Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Dried Rice Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dried Rice Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Boiling Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Dark Soy Sauce",
+      "quantity": "5",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Vegetable Oil",
+      "quantity": "6",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bird’s-Eye Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Bird's Eye Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Fish Sauce",
+      "quantity": "6",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Sugar",
+      "quantity": "6",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Rice Vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Roasted Unsalted Peanuts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Roasted Unsalted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Leek",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Mint",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Thai Basil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Thai Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Celery Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fried Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fried Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the rice noodles to a bowl and cover with the boiling water. Add the dark soy and stir. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely slice two-thirds of the garlic cloves. Heat the vegetable oil in a small frying pan over a medium heat for around 1-2 mins. Add the garlic and stir for 1 min or until slightly golden but not burnt. Drain the noodles and add back into the bowl. Pour the garlic and oil over the noodles and toss to combine."
+    },
+    {
+      "heading": null,
+      "description": "Bring a saucepan of water to the boil. Once boiling, add the chicken breasts, lower the heat and cook, covered, for 10 mins. Remove the chicken and set aside to cool. Reserve 90ml cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Pound the bird’s-eye chillies and the remaining garlic cloves in a pestle and mortar, or chop finely."
+    },
+    {
+      "heading": null,
+      "description": "For the dressing, combine the fish sauce, sugar, rice vinegar, lime juice, reserved cooking water, pounded chilli and garlic in a bowl. Stir thoroughly until the sugar has dissolved. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop the peanuts into small pieces. Set aside. Slice the leek in half, lay it flat and slice into matchsticks."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of more oil to a frying pan set over a medium heat and leave to heat up for 2 mins. Add the leeks and fry for 5 mins, stirring occasionally, until golden brown. Remove and sprinkle with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Chop the mint, coriander and Thai basil into 1cm pieces. Slice the celery diagonally into thin strips. Thinly slice the red onion and cucumber as fine as possible. Using your fingers, shred the chicken into strips. Transfer everything to a mixing bowl. Toss the salad until thoroughly combined."
+    },
+    {
+      "heading": null,
+      "description": "Divide the garlic noodles between plates. Grab a generous handful of the chicken salad and place on top. Sprinkle with crushed peanuts, fried shallots and, finally, fried leeks. Give the dressing a stir and generously pour over to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-30T10:15:00+01:00"
+}

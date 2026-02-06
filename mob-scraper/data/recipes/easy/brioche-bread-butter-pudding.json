@@ -1,0 +1,146 @@
+{
+  "id": "6747333",
+  "slug": "brioche-bread-butter-pudding",
+  "title": "Brioche Bread & Butter Pudding",
+  "url": "https://www.mob.co.uk/recipes/brioche-bread-butter-pudding",
+  "summary": "Bread and butter pudding is an absolute British classic. It’s a great way to use up leftover custard and brioche or any other loaf. It works best with stale bread – too fresh and you end up with a soggy mess.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Bread-Butter-Pudding.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 384,
+    "protein": 6,
+    "fat": 22,
+    "saturated_fat": 13,
+    "carbohydrates": 39,
+    "dietary_fibre": 1,
+    "sugars": 18,
+    "sodium": 67
+  },
+  "ingredients": [
+    {
+      "label": "250g Brioche",
+      "quantity": "250",
+      "unit": null,
+      "name": "Brioche Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Raisins",
+      "quantity": "120",
+      "unit": null,
+      "name": "Raisin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Unsalted Butter",
+      "quantity": "80",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Egg Yolks",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Caster Sugar",
+      "quantity": "35",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360ml Double Cream",
+      "quantity": "360",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Vanilla Pod",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the custard. Stir the egg yolks and sugar together in a heatproof bowl. Heat the cream in a pan with the salt and vanilla pod until hot but not boiling. You’ll know it’s hot when it starts to steam. Pour the hot cream over the egg yolks slowly and evenly, whisking continuously as you go. Get someone to help you here if possible – they can pour while you whisk."
+    },
+    {
+      "heading": null,
+      "description": "Remove the vanilla pod, split it lengthways and scrape the seeds into the custard. If necessary sieve the custard through a fine mesh to eliminate any lumps, then pour into a jug. Cover the top (of the custard, not the jug) with clingfilm to prevent a skin forming then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C fan. Grease a 20cm square pie dish. Cut the leftover brioche into slices. Melt the butter in a pot over a low heat."
+    },
+    {
+      "heading": null,
+      "description": "Pack the brioche slices tightly into your prepared pie dish. Dot the raisins throughout and brush the brioche all over with the melted butter. Pour in the custard and bake for 20 mins, or until the custard is starting to set."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-09T15:37:00+01:00"
+}

@@ -1,0 +1,279 @@
+{
+  "id": "4867",
+  "slug": "mushroom-and-pork-larb-burrito",
+  "title": "Mushroom & Pork Larb Burrito",
+  "url": "https://www.mob.co.uk/recipes/mushroom-and-pork-larb-burrito",
+  "summary": "We adore larb at Mob and thought it would would amazingly well in a burrito. We tested it. It does. Great meal-prep option also.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A1668.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 701,
+    "protein": 30,
+    "fat": 23,
+    "saturated_fat": 5,
+    "carbohydrates": 89,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 671
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chestnut Mushrooms",
+      "quantity": "400",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Handful of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tortilla Wraps",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Kidney Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Kidney Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Kidney Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sriracha",
+      "quantity": null,
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add some vegetable oil to a wok followed by your pork mince. Mix everything together. As it starts to brown, get on with the mushrooms. Slice them up and run your knife over them, cutting them into very small pieces."
+    },
+    {
+      "heading": null,
+      "description": "Add the mushrooms to the wok and mix everything together thoroughly. Once the mince has browned, take it out of the wok and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get your rice on (see pack instructions)."
+    },
+    {
+      "heading": null,
+      "description": "Chop the ginger into strips, chop up your coriander stalks, red chillies, mint stalks and dice your onion. Add them all to the wok and stir."
+    },
+    {
+      "heading": null,
+      "description": "Add the fish sauce and the soy sauce. Mix everything together and allow the sauce to bubble. Once bubbling, add your pork mushroom mince. Chop up the rest of your coriander (leave 2 handfuls for later) and mint and add this to your mince."
+    },
+    {
+      "heading": null,
+      "description": "Salsa Time. Chop up your tomatoes. Mix them with the kidney beans and 1 handful of the remaining coriander. Add a drizzle of olive oil, salt, pepper and mix together."
+    },
+    {
+      "heading": null,
+      "description": "Prepping station. Take a tortilla and add 2 tbsp of rice. Drizzle Sriracha over the rice and sprinkle a pinch of coriander over the top. Add 2 tbsp of the pork mushroom mince and top it off with the salsa."
+    },
+    {
+      "heading": null,
+      "description": "To roll the burrito: fold the sides in and gently roll it until you reach the end. Once folded, lightly toast either side in a frying pan until the tortilla begins to brown. Take it off the heat and wrap it up in some foil. Repeat this process 3 times and then tuck into these beautiful burritos."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Asian-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-04-03T00:00:00+01:00"
+}

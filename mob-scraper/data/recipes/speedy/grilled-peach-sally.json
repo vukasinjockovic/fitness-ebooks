@@ -1,0 +1,210 @@
+{
+  "id": "12250",
+  "slug": "grilled-peach-sally",
+  "title": "Grilled Peach Sally",
+  "url": "https://www.mob.co.uk/recipes/grilled-peach-sally",
+  "summary": "Grilled peach is something the MOB need in their lives. It gets all sticky and charred. Perfect in this crunchy, fresh salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A5355.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 426,
+    "protein": 14,
+    "fat": 35,
+    "saturated_fat": 10,
+    "carbohydrates": 17,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "3 Peaches",
+      "quantity": "3",
+      "unit": null,
+      "name": "Peach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Halloumi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Hazelnuts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Hazelnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Thyme",
+      "quantity": "25",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flaked Almond",
+      "quantity": "100",
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Celery Sticks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Iceberg Lettuce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dijon Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut and pit your peaches whilst you heat up a griddle pan."
+    },
+    {
+      "heading": null,
+      "description": "Add your peaches and cook until nice and charred. Remove from the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add sliced Halloumi, cook until charred."
+    },
+    {
+      "heading": null,
+      "description": "Crush your hazelnuts. Add hazelnuts and flaked almonds to a pan until lightly toasted. Add honey to the pan along with a generous handful of thyme. Cook for a minute more."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop your celery and your green apples."
+    },
+    {
+      "heading": null,
+      "description": "Dressing time. Mix a cup of olive oil, Dijon, a pinch of salt, the juice of half a lemon and a good grinding of pepper."
+    },
+    {
+      "heading": null,
+      "description": "Chop up your lettuce, assemble all the ingredients and pour over your dressing. Mix and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-07-25T00:00:00+01:00"
+}

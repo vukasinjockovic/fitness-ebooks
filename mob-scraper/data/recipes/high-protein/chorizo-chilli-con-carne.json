@@ -1,0 +1,261 @@
+{
+  "id": "2482221",
+  "slug": "chorizo-chilli-con-carne",
+  "title": "Chorizo Chilli con Carne",
+  "url": "https://www.mob.co.uk/recipes/chorizo-chilli-con-carne",
+  "summary": "This chilli ticks all the boxes. Rich, smoky, and blessed with a gentle heat thanks to Bull’s-Eye Carolina Reaper Hot Sauce, it’s perfect for feeding a crowd.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/Chorizo-Chilli-con-Carne.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 474,
+    "protein": 27,
+    "fat": 32,
+    "saturated_fat": 12,
+    "carbohydrates": 19,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 788
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Chorizo",
+      "quantity": "75",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Bull’s-Eye Carolina Reaper Hot Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Chopped Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Kidney Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Kidney Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Kidney Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch of Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sour Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the onion, pepper and chorizo before adding them to a large pan over a medium-low heat along with a good drizzle of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Sweat down for 5 mins until soft then add the minced garlic, tomato purée, Bull’s-Eye Carolina Reaper Hot Sauce and spices. Stir and cook for another 3 mins."
+    },
+    {
+      "heading": null,
+      "description": "Empty the contents of the pan into a small bowl and set aside. Return the pan to a very high heat."
+    },
+    {
+      "heading": null,
+      "description": "Add the beef mince to the pan along with a good pinch of salt. Cook for a few mins until the beef is browned all over."
+    },
+    {
+      "heading": null,
+      "description": "Add the onion and pepper mix back to the pan along with the tinned tomatoes and half a can of water. Stir well, scraping the bottom of the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add the kidney beans, bring to a gentle simmer and leave to cook for at least an hour, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Once it’s all thickened up and rich, take off the heat and add a big squeeze of lime juice. Stir well and taste for seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Serve over rice with a sprinkle of chopped coriander and an (optional) spoon of sour cream."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Family-Friendly",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-09-16T12:47:00+01:00"
+}

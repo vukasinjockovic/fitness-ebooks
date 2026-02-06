@@ -1,0 +1,302 @@
+{
+  "id": "6766778",
+  "slug": "sichuan-ragu",
+  "title": "Sichuan Ragù",
+  "url": "https://www.mob.co.uk/recipes/sichuan-ragu",
+  "summary": "This twist on a classic bolognese sauce combines pork mince with Sichuan flavours and crispy chilli oil. A bold and comforting dish that’s a little spicy, a little smoky and full of umami richness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Sichuan-Ragu.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 120,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 782,
+    "protein": 36,
+    "fat": 36,
+    "saturated_fat": 10,
+    "carbohydrates": 77,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 1207
+  },
+  "ingredients": [
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Celery",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Sichuan Peppercorns",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pancetta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pork Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pork Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Crispy Chilli Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Red Wine",
+      "quantity": "100",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 ½ Tbsp Oyster Sauce",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Of White Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Linguine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the onion, celery and carrot and crush the garlic cloves. Grind the Sichuan peppercorns in a pestle and mortar. Dice the pancetta."
+    },
+    {
+      "heading": null,
+      "description": "Fry the pancetta in a large pan over a medium heat until crispy then remove and set aside. Add the onion, celery, carrot, garlic and bay leaf to the same pan with the pancetta fat and cook on a low-medium heat for 7 mins until starting to soften."
+    },
+    {
+      "heading": null,
+      "description": "Add the pork mince, the ground Sichuan peppercorn and ½ the crispy chilli oil then fry on a medium-high heat for 5 mins until the pork is nicely browned and caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to low-medium heat then add the pancetta and red wine to the pan. Cook for about 10 mins until the wine has evaporated."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomato purée and cook off until the mix starts to darken, then add the stock, tinned tomatoes, oyster sauce, soy sauce, cinnamon, white pepper and your bay leaf. Give it a good mix and bring it to a gentle simmer."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to low and cook for at least an hour until the pork is tender, adding the milk 30 mins before the end and a splash of water if it’s drying out. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pot of salted water to boil. Cook your linguine until al dente then drain and reserve a few ladles of the pasta cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Add your cooked linguine to your bolognese along with a ladle of the water. Mix well to combine, adding more pasta water if it needs to bring it together."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the Sichuan ragu linguine between bowls, grate over your Parmesan and drizzle over the remaining chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Freezer Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-02T11:38:00+01:00"
+}

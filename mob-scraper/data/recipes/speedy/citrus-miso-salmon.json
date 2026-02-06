@@ -1,0 +1,195 @@
+{
+  "id": "1122758",
+  "slug": "citrus-miso-salmon",
+  "title": "Citrus Miso Salmon",
+  "url": "https://www.mob.co.uk/recipes/citrus-miso-salmon",
+  "summary": "Perfectly cooked salmon on your dinner table in 15 minutes. Zesty, fresh and packed full of miso-umami-ness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/new-salmon-copy.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 495,
+    "protein": 32,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 62,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "400g Long Grain Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Long Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Long Grain Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Orange",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Miso Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Salmon Fillets",
+      "quantity": "480",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Pak Choi",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C/354°F."
+    },
+    {
+      "heading": null,
+      "description": "Rinse your rice well and cook it in boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chilli and add into a jug. Zest and juice the ½ the orange and lime. Add the miso paste and honey. Grate in the garlic and ginger. Give it all a good mix with a fork. Season with salt if needed."
+    },
+    {
+      "heading": null,
+      "description": "Dip each salmon fillet into the marinade and place individually onto some foil. Start wrapping the foil around the salmon to create a boat. Pour in 3 tbsp of the marinade and continue with each fillet to make four salmon parcels."
+    },
+    {
+      "heading": null,
+      "description": "Place on a baking sheet and cook for 10-12 minutes, depending on the size of the fillets."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop each of your pak choi in half, keeping the root on so it stays together. Pour a small glug of oil into a frying pan and whack up the heat. Fry the pak choi for 2 minutes until charred. Add in 3 tablespoons of water and pop a lid on to continue steaming. Season with a tablespoon of soy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Now your rice should be ready. Drain and fluff up with a fork."
+    },
+    {
+      "heading": null,
+      "description": "Open up each parcel, placing the salmon on a bed of rice then pouring over the steaming liquid. Add your pak choi and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-12-04T13:00:00+00:00"
+}

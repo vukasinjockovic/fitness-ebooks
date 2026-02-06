@@ -1,0 +1,180 @@
+{
+  "id": "5086914",
+  "slug": "leek-pancetta-chickpea-broth",
+  "title": "Leek, Pancetta & Chickpea Broth",
+  "url": "https://www.mob.co.uk/recipes/leek-pancetta-chickpea-broth",
+  "summary": "Pancetta and leek are great when they're together and this comforting broth is a lovely recipe to get on the stove for a chilly day or night.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Leek-Pancetta-Chickpea-Broth.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 16,
+    "fat": 15,
+    "saturated_fat": 4,
+    "carbohydrates": 28,
+    "dietary_fibre": 7,
+    "sugars": 6,
+    "sodium": 773
+  },
+  "ingredients": [
+    {
+      "label": "150g Pancetta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilly",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Leeks",
+      "quantity": "500",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Jar Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Dill (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Loaf of Crusty Bread",
+      "quantity": null,
+      "unit": null,
+      "name": "Crusty Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the pancetta. Grab a large pot and set over a medium heat. Add a shot of oil and tip in the pancetta. Cook for 5-6 mins until crispy and the fat has rendered. Add the fennel seeds to the pan and cook for 1-2 mins. Finely slice the garlic and chilli and bung that in, too."
+    },
+    {
+      "heading": null,
+      "description": "Wash the leeks and cut into chunky rounds. Dump those into the pot and sauté for 4-5 mins until starting to soften. Add the chickpeas, their water and the chicken stock. Bring to a simmer and let the broth bubble away for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Finish with chopped dill and lemon juice, then serve with warm crusty bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-22T06:00:00+00:00"
+}

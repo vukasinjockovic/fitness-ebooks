@@ -1,0 +1,131 @@
+{
+  "id": "3163892",
+  "slug": "crispy-tofu-bites",
+  "title": "Crispy Tofu Bites",
+  "url": "https://www.mob.co.uk/recipes/crispy-tofu-bites",
+  "summary": "This recipe is the perfect way to get the crispiest tofu.",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_2800-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 401,
+    "protein": 10,
+    "fat": 38,
+    "saturated_fat": 5,
+    "carbohydrates": 7,
+    "dietary_fibre": 1,
+    "sugars": 1,
+    "sodium": 355
+  },
+  "ingredients": [
+    {
+      "label": "450g Firm Tofu",
+      "quantity": "450",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Firm Tofu",
+      "quantity": "450",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Corn Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Vegetable Oil",
+      "quantity": "150",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sweet Chilli Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Sweet Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Press your tofu into a clean cloth to remove as much liquid as possible."
+    },
+    {
+      "heading": null,
+      "description": "Tear the tofu into 3cm-sized chunks with nice rough edges."
+    },
+    {
+      "heading": null,
+      "description": "Marinate the tofu pieces in soy sauce then cover them in cornflour. Repeat for all of your chunks until they're evenly coated."
+    },
+    {
+      "heading": null,
+      "description": "Heat the vegetable oil in a pan then add the tofu. Fry for a few minutes on each side until extra crispy."
+    },
+    {
+      "heading": null,
+      "description": "Serve up with your favourite dipping sauce. We've gone for sweet chilli."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-03-06T09:00:00+00:00"
+}

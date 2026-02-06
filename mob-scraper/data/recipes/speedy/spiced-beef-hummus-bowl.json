@@ -1,0 +1,176 @@
+{
+  "id": "8398090",
+  "slug": "spiced-beef-hummus-bowl",
+  "title": "Spiced Beef & Hummus Bowl",
+  "url": "https://www.mob.co.uk/recipes/spiced-beef-hummus-bowl",
+  "summary": "Juicy spiced beef, sweet roasted peppers and garlicky kale, all loaded onto a bed of creamy hummus. Flatbread on the side for scooping, obviously.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2026/02/Spiced-Beef-Hummus-Bowl.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 790,
+    "protein": 45,
+    "fat": 44,
+    "saturated_fat": 12,
+    "carbohydrates": 52,
+    "dietary_fibre": 10,
+    "sugars": 15,
+    "sodium": 920
+  },
+  "ingredients": [
+    {
+      "label": "300g 15% Beef Mince",
+      "quantity": "300",
+      "unit": null,
+      "name": "15% Fat Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Frozen Diced Onion",
+      "quantity": "50",
+      "unit": null,
+      "name": "Frozen Chopped Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garam Masala",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Puree",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Puree",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Kale",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Drained Roasted Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Hummus",
+      "quantity": "300",
+      "unit": null,
+      "name": "Hummus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Flatbreads",
+      "quantity": "2",
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a frying pan over a high heat. Once hot, add the beef mince and frozen onion. Break the mince up and cook, stirring occasionally, for 3–5 mins until browned."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, drain the roasted peppers and roughly chop into bite-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Stir the garlic purée and garam masala through the beef and cook for 1 min until fragrant. Toss in the kale and chopped peppers, and cook for another 1–2 mins until the kale has wilted."
+    },
+    {
+      "heading": null,
+      "description": "Season with salt, squeeze in the lemon juice and drizzle over the honey. Mix everything together well."
+    },
+    {
+      "heading": null,
+      "description": "Spread the hummus across the base of two shallow bowls. Top with the beef mixture and serve with flatbreads on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Turkish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2026-02-01T12:25:00+00:00"
+}

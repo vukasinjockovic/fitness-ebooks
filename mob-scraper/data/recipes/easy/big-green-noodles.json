@@ -1,0 +1,192 @@
+{
+  "id": "4777786",
+  "slug": "big-green-noodles",
+  "title": "Big Green Noodles",
+  "url": "https://www.mob.co.uk/recipes/big-green-noodles",
+  "summary": "These easy noodles are going to become a regular in your household. Just you wait.  They're healthy, delicious, and beyond easy to make.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Big-Green-Noodle.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 13,
+    "fat": 29,
+    "saturated_fat": 10,
+    "carbohydrates": 59,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Thai Green Curry Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Thai Green Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch of Coriander (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Egg Noodle Nests",
+      "quantity": "300",
+      "unit": null,
+      "name": "Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Egg Noodle Nests",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Chilli Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Toasted Sesame Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat a splash of neutral oil in a large frying pan and fry the curry paste for 2 mins before transferring to a food processor with the coconut milk, spinach and half the coriander. Blitz until smooth, then squeeze in the lime juice and season generously with salt and pepper. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get a big saucepan of salted water onto the boil. Chop your broccoli into 2cm pieces, then chuck into the boiling water and cook for 1 min before adding the noodles. Cook for a further 2-3 mins until the noodles are al dente. Drain, saving some of the cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Put the noodles and broccoli back into the frying pan with a splash of the cooking water, then pour over the green sauce. Mix well to heat through. Pile into bowls, then top with chilli oil, sesame seeds and more coriander, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-27T09:14:00+00:00"
+}

@@ -1,0 +1,294 @@
+{
+  "id": "5554993",
+  "slug": "air-fryer-tandoori-chicken-skewers-rice",
+  "title": "Air Fryer Tandoori Chicken Skewers & Rice",
+  "url": "https://www.mob.co.uk/recipes/air-fryer-tandoori-chicken-skewers-rice",
+  "summary": "If you’re a fan of fakeaways then you will love these air fryer tandoori chicken skewers and rice. Perfect for a quick and easy lunch or dinner, this dish promises to satisfy your cravings with minimal effort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Air-Fryer-Tandoori-Chicken-Skewers-Rice.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 176,
+    "protein": 31,
+    "fat": 3,
+    "saturated_fat": 1,
+    "carbohydrates": 6,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 186
+  },
+  "ingredients": [
+    {
+      "label": "400g Chicken Breast",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Breast",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp garam masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 heaped tbsp yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fat-Free Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 heaped tbsp yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp tomato purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp garlic purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp garlic purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5  tbsp of fat free yoghurt",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Fat-Free Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5  tbsp of fat free yoghurt",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Freshly chopped mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Roti",
+      "quantity": null,
+      "unit": null,
+      "name": "Roti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pilau Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Pilau Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pilau Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the chicken into chunks. Put all of the spices, yoghurt, tomato purée, garlic and ginger into a bowl. Squeeze in the lemon juice and add a dash of red food colouring, if you like. Add the chicken and coat well."
+    },
+    {
+      "heading": null,
+      "description": "Thread the chicken chunks onto skewers and cook them in the air fryer at 200°C for 17 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, put the fat-free yoghurt, juice of both limes, the mint and a pinch of salt and pepper into a blender. Whizz until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Serve the chicken skewers with the yoghurt dip and flatbreads or rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Accessible Method",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nathan Anthony",
+      "uri": "chefs/nathan-anthony",
+      "summary": "Meet Nathan Anthony, the Northern Irish home cook behind Bored of Lunch. During lockdown, he started his food blog to others to cook and eat healthier giving everyone something positive to focus on. Specialising in easy, budget-friendly recipes, Nathan’s platform boasts over 4 million online followers and subscribers. With four bestselling cookbooks already under his belt, Nathan’s journey with Bored of Lunch has been nothing short of remarkable. Join the BOL family and explore his delicious recipes across the website, cookbooks, and social media channels."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-11T10:23:00+01:00"
+}

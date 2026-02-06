@@ -1,0 +1,151 @@
+{
+  "id": "3371757",
+  "slug": "espresso-and-chocolate-mousse",
+  "title": "Espresso and Chocolate Mousse",
+  "url": "https://www.mob.co.uk/recipes/espresso-and-chocolate-mousse",
+  "summary": "This dreamy espresso and chocolate mousse is easy enough for a weeknight treat but decadent enough for any dinner party.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A3806.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 282,
+    "protein": 6,
+    "fat": 15,
+    "saturated_fat": 8,
+    "carbohydrates": 31,
+    "dietary_fibre": 5,
+    "sugars": 22,
+    "sodium": 18
+  },
+  "ingredients": [
+    {
+      "label": "175g Vegan Dark Chocolate (Plus Extra For Topping)",
+      "quantity": "175",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Vegan Dark Chocolate (Plus Extra For Topping)",
+      "quantity": "175",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Espresso Shot/ Strong Brewed Coffee",
+      "quantity": "60",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Agave Nectar",
+      "quantity": "35",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "65ml Non-Dairy Milk",
+      "quantity": "65",
+      "unit": null,
+      "name": "Oat Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Punnet Raspberries",
+      "quantity": "150",
+      "unit": null,
+      "name": "Raspberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Melt the chocolate over a bain-marie on low heat. Stir constantly so it doesn’t burn, using a wooden or plastic spoon."
+    },
+    {
+      "heading": null,
+      "description": "Blend the tofu in a blender until fully liquidised."
+    },
+    {
+      "heading": null,
+      "description": "Allow the chocolate to cool slightly, then add it to the tofu and blend again to fully combine, scraping down the sides."
+    },
+    {
+      "heading": null,
+      "description": "Add the agave, milk and coffee and blend again. Taste for sweetness and add more sweetener if you like."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mix into ramekins or small glasses and refrigerate for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "To serve, top with your favourite fruit (I've gone for raspberries) a squeeze of agave and some shaved chocolate."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-05-07T10:30:00+01:00"
+}

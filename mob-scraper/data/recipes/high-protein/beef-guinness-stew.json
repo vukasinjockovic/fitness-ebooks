@@ -1,0 +1,344 @@
+{
+  "id": "4643666",
+  "slug": "beef-guinness-stew",
+  "title": "Beef & Guinness Stew With Chilli Cheddar Dumplings",
+  "url": "https://www.mob.co.uk/recipes/beef-guinness-stew",
+  "summary": "A big, brash beef stew that we've topped with spicy cheesy dumplings. This is a proper winter warmer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Beef-Guinness-Stew-With-Chilli-Cheddar-Dumplings.jpg",
+  "cook_time": 185,
+  "prep_time": 15,
+  "total_time": 200,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 520,
+    "protein": 29,
+    "fat": 28,
+    "saturated_fat": 14,
+    "carbohydrates": 36,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 655
+  },
+  "ingredients": [
+    {
+      "label": "500g Stewing Steak",
+      "quantity": "500",
+      "unit": null,
+      "name": "Stewing Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Stewing Steak",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Shallots",
+      "quantity": "6",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "440ml Guinness",
+      "quantity": "440",
+      "unit": null,
+      "name": "Guinness",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Beef Stock",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Wholegrain Mustard, Plus Extra To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Thyme",
+      "quantity": "10",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Thyme",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cavolo Nero",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Greens, To Serve",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Greens, To Serve",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Self Raising Flour, Plus Extra For The Work Surface",
+      "quantity": "250",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Aleppo Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aleppo Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Dried Thyme",
+      "quantity": "10",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cold Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cheddar, Plus Extra For Sprinkling",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cheddar, Plus Extra For Sprinkling",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Milk",
+      "quantity": "125",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 150°C. Tip the beef chunks all into a bowl and season with plenty of salt and pepper. Add the flour and toss to thoroughly coat all the pieces of beef. Ensure your butter is very cold."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large lidded casserole dish over a medium heat and add a shot of olive oil. Working in batches, sear the beef until deep golden-brown in colour. This will take 10-15 mins. Once browned, set aside, leaving any beef fat or residual olive oil in the pan."
+    },
+    {
+      "heading": null,
+      "description": "While the beef is browning, chop the carrots, celery and shallots into chunks. Add them and the whole garlic cloves to the pan, then fry for 4-5 mins. Deglaze with the Guinness and add the beef stock."
+    },
+    {
+      "heading": null,
+      "description": "Add the mustard and bring to a simmer. Pop the beef back in and add the rosemary, thyme and bay leaves. Slide the casserole, with the lid on, into the oven for 2 hours."
+    },
+    {
+      "heading": null,
+      "description": "While that's cooking away, you can get on with the dumplings. First, tip the self-raising flour into a bowl, season with lots of salt and pepper, then add the Aleppo pepper and dried thyme. Grate in the butter and the cheese and toss through the dry ingredients until coated. Break the gratings down into smaller chunks, leaving a few larger pieces intact. Gradually add the milk while mixing constantly to bring the ingredients together to form a dough. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "After 2 hours remove the stew from the oven and stir in the cavolo nero, place the lid on and slide back into the oven whilst you finish off the dumplings."
+    },
+    {
+      "heading": null,
+      "description": "Now back to the dumplings. Lightly flour a surface and roll out the dough to 2cm thick. Punch out circles with a pint glass or circular cutter of your choice and use them to top the pie. Re-roll any offcuts and cut until you’ve used up all the dough. Arrange the dumplings on the top of the pie and sprinkle over extra cheddar and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Slide back into the oven for 25 mins, with the lid off, until golden-brown. Reheat your peas in the microwave with a little water. Then serve up altogether with a big dollop of mustard!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Adventurous",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-13T11:30:00+01:00"
+}

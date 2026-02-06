@@ -1,0 +1,123 @@
+{
+  "id": "4752263",
+  "slug": "mulled-aperol",
+  "title": "Mulled Aperol",
+  "url": "https://www.mob.co.uk/recipes/mulled-aperol",
+  "summary": "You've had mulled wine before, but what about mulled Aperol?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Mulled-Aperol.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 210,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 32,
+    "dietary_fibre": 1,
+    "sugars": 30,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "100ml Aperol",
+      "quantity": "100",
+      "unit": null,
+      "name": "Aperol",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml White Wine",
+      "quantity": "150",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Apple Juice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Apple Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cinnamon Stick",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use a peeler and get make a twist for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Toast your cinnamon in a dry pan."
+    },
+    {
+      "heading": null,
+      "description": "Add your honey, white wine, apple juice and aperol and gently heat until a the honey is dissolved and the drink is warmed."
+    },
+    {
+      "heading": null,
+      "description": "Strain and serve in a thick glass or mug so your fingers don’t burn."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with a cinnamon stick and orange twist. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-15T14:28:00+00:00"
+}

@@ -1,0 +1,220 @@
+{
+  "id": "1540563",
+  "slug": "chicken-piccata",
+  "title": "Chicken Piccata with Rice & Peas",
+  "url": "https://www.mob.co.uk/recipes/chicken-piccata",
+  "summary": "A lovely, simple dish that is far more than the sum of its parts. Lemon, capers and parsley flavour the chicken beautifully. Enjoy. Sophie x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/02/Chicken-picatta0599-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 41,
+    "fat": 24,
+    "saturated_fat": 11,
+    "carbohydrates": 62,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Chicken Stock",
+      "quantity": "150",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Capers",
+      "quantity": "40",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Peas",
+      "quantity": "300",
+      "unit": null,
+      "name": "Defrosted Frozen Peas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Peas",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop your parsley and grate your garlic."
+    },
+    {
+      "heading": null,
+      "description": "Cut your chicken breasts in half horizontally to create 8 thin fillets. Place a sheet of cling film on top of your chicken fillets and bash with a rolling pin to create even thinner fillets."
+    },
+    {
+      "heading": null,
+      "description": "Pour your plain flour into a bowl with a generous pinch of salt and grind of pepper. Dredge your chicken breasts in this mixture so that they are fully coated in flour. Defrost the peas."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large skillet pan over a medium-high heat with a small glug of olive oil and 15g of the butter. Once the pan is hot, add your chicken breasts a few at a time and fry for about 2 mins on each side until golden and tender. Remove your chicken from the pan and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Add your garlic to the pan and cook for 1 min on a low heat. Add your chicken stock and simmer for a minute or so until reduced. Add the rest of your butter, capers and the juice of your lemon, then whisk to combine. Stir the parsley through."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the rice and share between plates. Pop your chicken fillets on top and pour over the sauce. Serve the peas alongside. Serve with any remaining lemon wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian",
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-02-11T13:58:00+00:00"
+}

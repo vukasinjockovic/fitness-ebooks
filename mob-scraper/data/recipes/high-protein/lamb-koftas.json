@@ -1,0 +1,297 @@
+{
+  "id": "4466067",
+  "slug": "lamb-koftas",
+  "title": "Lamb Koftas With Garlic Mayo & Pitta",
+  "url": "https://www.mob.co.uk/recipes/lamb-koftas",
+  "summary": "Super simple lamb koftas teamed up with lightly toasted pittas, homemade garlic mayo and fresh veggies.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Lamb-Koftas.jpg",
+  "cook_time": 15,
+  "prep_time": 20,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 462,
+    "protein": 17,
+    "fat": 41,
+    "saturated_fat": 13,
+    "carbohydrates": 3,
+    "dietary_fibre": 1,
+    "sugars": 1,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Ground Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mixed Herbs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mixed Herb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Mint (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Parsley (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Zest of 1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Mayonnaise",
+      "quantity": "150",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Mint (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Squeeze of Lemon Juice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Beef Tomatoes",
+      "quantity": null,
+      "unit": null,
+      "name": "Beef Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Beef Tomatoes",
+      "quantity": null,
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Onion",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Onion",
+      "quantity": null,
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Iceberg Lettuce",
+      "quantity": null,
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "White Pitta Bread or Flatbread",
+      "quantity": null,
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the garlic cloves and chop the herbs. Mix all the kofta ingredients together and form the koftas (there should be around 12)."
+    },
+    {
+      "heading": null,
+      "description": "Fry in a griddle pan over a medium-high heat to get some lovely char marks, cooking on each side, about 8-10 mins in total. Once cooked, keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Place the mint, mayo, minced garlic and lemon juice in a bowl and mix well. Season with salt and pepper, adding more lemon juice if needed."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the tomatoes, red onions and iceberg lettuce. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Lightly toast the flatbread before adding a thin layer of the garlic mayonnaise, the koftas and topping off with the veggies. Finish with some more garlic mayo. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Sam Holland",
+      "uri": "chefs/sam-holland",
+      "summary": "Sam Holland, a London-born chef and content creator, discovered his passion for cooking through his Granny Tess. His culinary journey led him to train at prestigious establishments like The Gleneagles Hotel and a Michelin-starred restaurant. Now, Sam channels his expertise and inspiration into sharing recipes and cooking tips online, with a mission to encourage young cooks to embrace home cooking."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-28T09:00:00+01:00"
+}

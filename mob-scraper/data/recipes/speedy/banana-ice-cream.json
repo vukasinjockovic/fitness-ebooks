@@ -1,0 +1,126 @@
+{
+  "id": "4426115",
+  "slug": "banana-ice-cream",
+  "title": "Banana Ice Cream",
+  "url": "https://www.mob.co.uk/recipes/banana-ice-cream",
+  "summary": "Trust us when we say that this healthy ‘ice cream’ is going to blow your mind – and that’s not just because it’s\nmade by blitzing up frozen bananas.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Banana-Ice-Cream.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 168,
+    "protein": 3,
+    "fat": 10,
+    "saturated_fat": 3,
+    "carbohydrates": 18,
+    "dietary_fibre": 3,
+    "sugars": 13,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "3 Large Bananas",
+      "quantity": "3",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Blanched Hazelnuts",
+      "quantity": "50",
+      "unit": null,
+      "name": "Blanched Hazelnuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Dark Chocolate",
+      "quantity": "75",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Dark Chocolate",
+      "quantity": "75",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Tsp Maple Syrup, To Taste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Pinch of Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "The day before you want to eat this, peel and slice the bananas. Put into an airtight container or freezer bag and pop into the freezer until frozen solid."
+    },
+    {
+      "heading": null,
+      "description": "When ready to eat, preheat the oven to 160°C."
+    },
+    {
+      "heading": null,
+      "description": "Tip the hazelnuts onto a baking tray. Toast in the oven for 6–8 mins until golden, then leave to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "Sauce time. Once the hazelnuts are cooled, tip most of them into a food processor. Blitz until very finely chopped and beginning to clump together – almost at a nut butter stage. Snap the chocolate into a heatproof bowl and melt, either in the microwave in 30-sec bursts or over a pan of barely simmering water. Once melted, scrape into the processor. Add the maple syrup, 3 tbsp of water and a big pinch of sea salt. Blitz again to a chocolate sauce; if you prefer it looser, stir in a splash more water. Scrape into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Clean the food processor, then tip in the frozen bananas. Blitz until you the texture of ice cream – trust us, be patient, this really works. If your processor is small, do this in two batches."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the remaining hazelnuts."
+    },
+    {
+      "heading": null,
+      "description": "Divide the banana ‘ice cream’ between four bowls. Spoon over the chocolate sauce and served topped with the chopped hazelnuts."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-07-05T16:28:00+01:00"
+}

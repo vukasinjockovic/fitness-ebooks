@@ -1,0 +1,155 @@
+{
+  "id": "4876492",
+  "slug": "immunity-balls",
+  "title": "Immunity Balls",
+  "url": "https://www.mob.co.uk/recipes/immunity-balls",
+  "summary": "An immunity boosting drink that’s (a) fun to make, and (b) good for your health. All you have to do is reheat them when you're feeling under the weather.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Immunity-Balls.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 61,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 16,
+    "dietary_fibre": 2,
+    "sugars": 13,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "4 Lemons",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Oranges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Ginger",
+      "quantity": "50",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Ground Turmeric",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Agave",
+      "quantity": "6",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Using a knife, peel half of your lemons and all of your oranges."
+    },
+    {
+      "heading": null,
+      "description": "Add all of your ingredients (including the unpeeled lemons) into a blender and blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour into your ice cube moulds and freeze them overnight."
+    },
+    {
+      "heading": null,
+      "description": "Add 4-7 ice cubes, depending on your preference, to a mug with hot water."
+    },
+    {
+      "heading": null,
+      "description": "Sip and be healed."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-01-12T05:00:00+00:00"
+}

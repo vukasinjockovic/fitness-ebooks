@@ -1,0 +1,378 @@
+{
+  "id": "7071232",
+  "slug": "spiced-chicken-lunchbox-with-chilli-tomato-salad-zingy-tahini-dressing",
+  "title": "Spiced Chicken With Chilli Tomato Salad & Zingy Tahini Dressing",
+  "url": "https://www.mob.co.uk/recipes/spiced-chicken-lunchbox-with-chilli-tomato-salad-zingy-tahini-dressing",
+  "summary": "A fast and flavour-packed meal with punchy chicken thighs, tempered rice with crispy cashews, a chilli-spiked tomato salad, and a silky tahini dressing to tie it all together. Ideal for making ahead and eating hot or cold.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Spiced-Chicken-with-Chilli-Tomato-Salad-Zingy-Tahini-Dressing-Recipe.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 32,
+    "fat": 36,
+    "saturated_fat": 7,
+    "carbohydrates": 54,
+    "dietary_fibre": 5,
+    "sugars": 6,
+    "sodium": 482
+  },
+  "ingredients": [
+    {
+      "label": "2 lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 cashews",
+      "quantity": "10",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp mustard seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp peeled urid dal",
+      "quantity": "1",
+      "unit": null,
+      "name": "Peeled Urid Dal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp asafoetida",
+      "quantity": "1",
+      "unit": null,
+      "name": "Asafoetida",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 curry leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 dried red chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g cooked rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g cooked rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp Lebanese 7-spice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lebanese 7-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 boneless, skin-on chicken thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Boneless Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 boneless, skin-on chicken thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 spring onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g cherry tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g cherry tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp crispy chilli oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml rice vinegar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 garlic cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 garlic cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp ground cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g tahini",
+      "quantity": "75",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cold water",
+      "quantity": null,
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat a splash of olive oil in a frying pan over medium heat. Add the cashews and fry until golden. Remove with a slotted spoon and drain on kitchen paper. Lower the heat, then add the mustard seeds and fry until they begin to pop. Add the urid dal, asafoetida, ginger, curry leaves, turmeric, and dried chillies. Fry for 3–4 mins until the lentils are golden. Remove from the heat and squeeze in the juice of the lemons. Stir through the cooked rice and cashews season well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, combine the grated garlic, sumac, Lebanese 7-spice, and a drizzle of olive oil. Season the chicken thighs with salt and pepper, then add to the bowl and mix until coated. Heat a large frying pan with oil over medium-high heat. Cook the thighs for 8–10 mins, turning until deeply golden and cooked through. Rest briefly, then slice."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, combine the chopped tomatoes with the finely sliced spring onions. Stir through the crispy chilli oil and rice vinegar. Season with salt and toss to coat. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the unpeeled garlic cloves to a blender with lemon juice and cumin. Blend until smooth. Pour the purée into a fine mesh sieve set over a bowl and press to extract the liquid. Discard solids. Whisk in the tahini — it will seize and thicken. Add a splash of cold water at a time, whisking, until you reach a smooth, yoghurt-like consistency. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Divide the lemon rice between lunchboxes. Top with sliced chicken and spoonfuls of tomato salad. Pack the tahini dressing separately and drizzle on when serving."
+    }
+  ],
+  "tips": [
+    "Fridge: Keeps for up to 4 days in sealed containers.",
+    "Tahini dressing keeps separately for 3–4 days.",
+    "Not freezer-friendly due to the fresh tomato and tahini."
+  ],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Packed Lunch",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-03T16:45:00+01:00"
+}

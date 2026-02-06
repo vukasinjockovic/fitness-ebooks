@@ -1,0 +1,188 @@
+{
+  "id": "6569451",
+  "slug": "chinese-steamed-ginger-chicken",
+  "title": "Chinese Steamed Ginger Chicken",
+  "url": "https://www.mob.co.uk/recipes/chinese-steamed-ginger-chicken",
+  "summary": "A super quick and healthy way to cook chicken thighs. Drizzle with lots of Mama Yu’s Chilli Oil to make your dinner extra delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chinese-Steamed-Ginger-Chicken.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 627,
+    "protein": 33,
+    "fat": 22,
+    "saturated_fat": 4,
+    "carbohydrates": 74,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 1032
+  },
+  "ingredients": [
+    {
+      "label": "500g Boneless Skinless Chicken Thighs",
+      "quantity": "500",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Boneless Skinless Chicken Thighs",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Oyster Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Shaoxing Wine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shaoxing Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Cornstarch",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Ground White Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Jasmine Rice",
+      "quantity": "240",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Jasmine Rice",
+      "quantity": "240",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crispy Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the chicken thighs into small pieces and set aside in a heatproof dish. Thinly slice the ginger and add to the chicken. Season the chicken with the remaining ingredients. Mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Wash your rice three times until the water runs clear. Drain, then transfer to a large saucepan and add water until it reaches just below your first knuckle. Bring to the boil over a medium-high heat, then turn the heat to low and cover with a lid for 12 mins."
+    },
+    {
+      "heading": null,
+      "description": "To prepare your steaming set up, fill a wok with 3cm water and place a heatproof bowl upside down in the pan. Bring to the boil then turn the heat to low-medium, and place the heatproof dish with the chicken on top of the upside-down heatproof plate. Cover with a lid and steam for 15-20 mins until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the spring onion and set aside in a bowl of cold water."
+    },
+    {
+      "heading": null,
+      "description": "Serve the steamed chicken with the rice and top with the sliced spring onions and lots of chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Calorie",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-04T10:00:00+01:00"
+}

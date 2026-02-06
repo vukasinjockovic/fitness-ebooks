@@ -1,0 +1,129 @@
+{
+  "id": "4254251",
+  "slug": "mini-egg-shortbread-fingers",
+  "title": "Mini Egg Shortbread Fingers",
+  "url": "https://www.mob.co.uk/recipes/mini-egg-shortbread-fingers",
+  "summary": "A six-ingredient recipe for the tastiest shortbread fingers studded with Mini Eggs, baked and ready in as little as 25 mins.",
+  "image": "https://files.mob-cdn.co.uk/articles/Mini-Egg-Shortbread-Fingers.jpg",
+  "cook_time": 25,
+  "prep_time": 15,
+  "total_time": 50,
+  "serving_size": 16,
+  "nutrition": {
+    "calories": 143,
+    "protein": 2,
+    "fat": 7,
+    "saturated_fat": 4,
+    "carbohydrates": 18,
+    "dietary_fibre": 0,
+    "sugars": 10,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "200g Unsalted Butter, Softened To Room Temperature",
+      "quantity": "200",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Caster Sugar",
+      "quantity": "80",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Light Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Plain Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Mini Eggs",
+      "quantity": "240",
+      "unit": null,
+      "name": "Mini Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 160°C. Line a 20cm x 30cm baking tin with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Tip the butter into a bowl and add the both sugars. Beat together, using either an electric whisk, handheld whisk or spoon, until light and creamy. It should have doubled in volume."
+    },
+    {
+      "heading": null,
+      "description": "Add the egg yolk and whisk it in, then use a sieve to sift in the flour. Add a pinch of table salt and use a wooden spoon to bring the dough together."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the Mini Eggs and stir most of them through the dough, saving a handful for the top. It will be pretty crumbly, don't panic!"
+    },
+    {
+      "heading": null,
+      "description": "Tip the shortbread mixture into the baking tin and press it down until compact with no gaps. Sprinkle over the remaining Mini Eggs and press them in slightly. Bake for 20-25 mins, until lightly golden then take out of the oven. Using a sharp knife, score the shortbread about halfway through, into 16 fingers. This will make them easier to cut once they are cool."
+    },
+    {
+      "heading": null,
+      "description": "Once cooled, cut the shortbread fingers and enjoy with a cuppa."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-14T00:00:00+01:00"
+}

@@ -1,0 +1,272 @@
+{
+  "id": "7402196",
+  "slug": "easy-chicken-curry",
+  "title": "Easy Chicken Curry",
+  "url": "https://www.mob.co.uk/recipes/easy-chicken-curry",
+  "summary": "A gentle, creamy chicken and veg curry made for little taste buds but still satisfying for grown-ups. Super cosy, speedy, and great for freezing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Easy-Chicken-Curry.jpg",
+  "cook_time": 25,
+  "prep_time": 15,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 29,
+    "fat": 18,
+    "saturated_fat": 6,
+    "carbohydrates": 70,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 453
+  },
+  "ingredients": [
+    {
+      "label": "400g Skinless and Boneless Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Skinless and Boneless Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 GARLIC CLOVES",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g fresh ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp curry powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp plain flour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml chicken stock",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml double cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g frozen peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g frozen peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Basmatic Rice 300g",
+      "quantity": "300",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Basmatic Rice 300g",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 green chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids Servings\nCut the chicken thighs into small bite-sized chunks."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely dice the onion. Peel and finely slice the garlic. Peel and grate the ginger."
+    },
+    {
+      "heading": null,
+      "description": "Place a large lidded saucepan over a medium heat with a drizzle of olive oil. Add the onion, garlic and ginger and cook for 5–6 mins until soft and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the curry powder, turmeric and flour. Cook for 1 min, then add the tomato purée and cook for another minute until darkened."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken and cook for 3–4 mins until just turning golden."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the stock and bring to the boil. Turn the heat down to low, pop the lid on and let it simmer for 15 mins until the chicken is cooked through and tender."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the cream and frozen peas. Cook for 2–3 mins until the sauce is silky and everything's warmed through. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the rice following pack instructions. Slice the green chilli for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Serve up!\nKids Plate: Spoon the curry with the fluffy rice.\nParents Plate: Dish out and garnish with the coriander, green chilli and a squeeze of lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-29T09:21:00+01:00"
+}

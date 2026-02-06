@@ -1,0 +1,155 @@
+{
+  "id": "6588339",
+  "slug": "festive-roast-turkey",
+  "title": "Festive Roast Turkey",
+  "url": "https://www.mob.co.uk/recipes/festive-roast-turkey",
+  "summary": "The big day is here. If it's your first time cooking the Christmas or Thanksgiving dinner, we're here to guide you through it with this classic roast turkey recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Festive-Roast-Turkey.jpg",
+  "cook_time": 15,
+  "prep_time": 90,
+  "total_time": 105,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 124,
+    "fat": 54,
+    "saturated_fat": 22,
+    "carbohydrates": 2,
+    "dietary_fibre": 0,
+    "sugars": 1,
+    "sodium": 270
+  },
+  "ingredients": [
+    {
+      "label": "3.5kg Turkey",
+      "quantity": "3.5",
+      "unit": null,
+      "name": "Turkey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sage",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Rosemary",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "100g Room-Temperature Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Allspice",
+      "quantity": ".25",
+      "unit": null,
+      "name": "All Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 Tsp Mixed Spice",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Mixed Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 Tsp Cinnamon",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Sage Leaves",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Turn the oven to 180°C. To make the spiced butter, tip the butter into a bowl and whisk a little, then add the spices along with a big pinch of salt and pepper. Finely chop the sage leaves and add to the butter then mix well."
+    },
+    {
+      "heading": null,
+      "description": "Place your turkey into a large baking tray and cover with the spiced butter, making sure that you cover the entirety of the bird."
+    },
+    {
+      "heading": null,
+      "description": "Cover the entire tray with tin foil and make a kind of tin foil tent. Now place the turkey in the oven."
+    },
+    {
+      "heading": null,
+      "description": "Cook the turkey for 2 ½ hours, giving it a good baste every 30 mins (this is the most important part – set yourself a timer so you don’t forget)."
+    },
+    {
+      "heading": null,
+      "description": "After 2 ½ hours, remove from the oven and slide a knife between the thigh and the crown – if the juices that run out are clear, set the turkey aside to rest for 15-20 mins. If the juices still run a little pink, slide the turkey back into the oven for another 5-10 mins before resting."
+    },
+    {
+      "heading": null,
+      "description": "Put some sage and rosemary on a large platter, then carve the turkey and add to the platter. Spoon over any of the butter from the base of the turkey roasting tin. Serve with the remaining lemon half, sliced into wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "British",
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-17T17:29:00+01:00"
+}

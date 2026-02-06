@@ -1,0 +1,138 @@
+{
+  "id": "3603659",
+  "slug": "creamy-basil-and-ricotta-spaghetti",
+  "title": "Creamy Basil and Ricotta Spaghetti",
+  "url": "https://www.mob.co.uk/recipes/creamy-basil-and-ricotta-spaghetti",
+  "summary": "Feed yourself and 3 friends for £2 with this super easy, creamy spaghetti. It'll only take you 20 minutes to whip up, too. Hannah x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A8329.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 15,
+    "fat": 10,
+    "saturated_fat": 4,
+    "carbohydrates": 52,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 47
+  },
+  "ingredients": [
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch of Basil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put your pasta onto cook in heavily salted boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Remove the basil leaves from the stalks and place them in a blender with a small drizzle of olive oil. Blitz for a few seconds until you have a herby paste."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta is finished cooking, save a mug of pasta water and drain the rest. Add the ricotta and basil oil into the pan with the pasta and a splash of pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Give it a good mix and add more pasta water as needed."
+    },
+    {
+      "heading": null,
+      "description": "Serve up and finish with a generous amount of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Hannah Miller",
+      "uri": "chefs/hannah-miller",
+      "summary": "Hannah Miller is a multi-talented creator, recipe developer and social media mogul. Hannah played a hand in creating some absolute Mob classics. If you haven't tried it, her French Style Hot Chocolate recipe is a must."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-26T17:00:00+01:00"
+}

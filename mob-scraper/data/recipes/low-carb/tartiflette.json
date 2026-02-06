@@ -1,0 +1,171 @@
+{
+  "id": "4634513",
+  "slug": "tartiflette",
+  "title": "Tartiflette",
+  "url": "https://www.mob.co.uk/recipes/tartiflette",
+  "summary": "One of the most loved winter dish in France, this simple tartiflette recipe is the ultimate comfort food. A classic French recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Tartiflette.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 32,
+    "fat": 41,
+    "saturated_fat": 24,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 1022
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Reblochon (500g)",
+      "quantity": "500",
+      "unit": null,
+      "name": "Reblochon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Smoked Lardons",
+      "quantity": "250",
+      "unit": null,
+      "name": "Bacon Lardons",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Smoked Lardons",
+      "quantity": "250",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Double Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml White Wine",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and slice the potatoes (3 to 4 mm thick) and pour into a medium pan filled with cold water and 1 tsp of salt. Cover, and cook for 15 mins. Drain and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice your onions. Fry the sliced onions with the butter in a large frying pan for 3 to 5 mins under medium heat. Add the white wine and cook until it evaporates. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Fry the lardons in the same pan, until golden and crispy, for 5 to 7 mins then remove the fat from the pan."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Put half the potatoes in the bottom of your casserole dish or deep tray. Spread half of the onions, topped with half of the lardons and half of the cream. Top it with the rest of the potatoes then add in the rest of your onions and lardon, and finally the cream."
+    },
+    {
+      "heading": null,
+      "description": "Slice the Reblochon lengthways, then place on top, crust-side facing up. Pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 30 mins, until the Reblochon has fully melted and golden on top."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a dressed salad."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Manon Lagrève",
+      "uri": "chefs/manon-lagrève",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-08T10:00:00+00:00"
+}

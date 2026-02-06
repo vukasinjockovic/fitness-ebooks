@@ -1,0 +1,152 @@
+{
+  "id": "7241800",
+  "slug": "miso-stuffed-ongiri",
+  "title": "Miso-Stuffed Ongiri",
+  "url": "https://www.mob.co.uk/recipes/miso-stuffed-ongiri",
+  "summary": "You'll find these handheld snacks all over Japan. They are perfect for eating on the go and easy snacking.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Miso-stuffed-onigiri.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 2,
+    "saturated_fat": 0,
+    "carbohydrates": 24,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 183
+  },
+  "ingredients": [
+    {
+      "label": "200g Short-Grain or Sushi Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Short-Grain or Sushi Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Brown or Red Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sheet Nori",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Furikake (optional)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Furikake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the rice into a bowl and wash it in several changes of cold water until the water runs clear. Drain really well."
+    },
+    {
+      "heading": null,
+      "description": "Add the rice to a small lidded saucepan with 300ml of water. Set over a medium heat and bring to a simmer. Cook for 1 minute, then turn the heat to very low, pop the lid on and cook gently for 10 minutes. Remove from the heat and leave it to steam for another 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Take the lid off. Season the rice with a pinch of salt, then fold through the rice vinegar and sugar. Let the rice cool slightly until it’s just warm."
+    },
+    {
+      "heading": null,
+      "description": "Lightly wet your hands and take a handful of rice. Use a spoon to place about ½ tsp of miso in the middle, then shape the rice around it. Use an onigiri mould if you’ve got one, or shape into a triangle with your hands. Compress the rice gently but don’t squash it. You should get around 4 ongiri (or 6 if you'd like them more bitesize).\nPop them in the fridge to firm up completely."
+    },
+    {
+      "heading": null,
+      "description": "Cut the nori into strips about 3cm x 10cm. Sprinkle the furikake onto a plate, if using."
+    },
+    {
+      "heading": null,
+      "description": "Wrap a strip of nori around each onigiri to make a makeshift handle, then roll two of the triangle’s sides in the furikake. \nPop in the fridge until needed."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-04T10:45:00+01:00"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "14896",
+  "slug": "thai-basil-chicken-mob-style",
+  "title": "Thai Basil Chicken (Mob Style)",
+  "url": "https://www.mob.co.uk/recipes/thai-basil-chicken-mob-style",
+  "summary": "A Thai classic that we've put our own MOB twist on. Definitely worth getting some chicken mince from your butcher for this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A6655.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 482,
+    "protein": 27,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 62,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 1093
+  },
+  "ingredients": [
+    {
+      "label": "3 Heaped Tsp Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Lemongrass Puree",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice onion, red chilli and garlic. Set them aside."
+    },
+    {
+      "heading": null,
+      "description": "Add 1 part rice to 2 parts boiling water. Cook until the water has been absorbed."
+    },
+    {
+      "heading": null,
+      "description": "Put a wok or a large frying pan on the heat. Add a splash of vegetable oil and add the ground chicken. Break it up into lots of little pieces with a spatula ."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken has turned white, add your chilli, garlic, onion and lemongrass puree. Mix them in."
+    },
+    {
+      "heading": null,
+      "description": "Once they have softened, add a tbsp and a half of fish sauce, soy sauce, and sugar. Mix it all in."
+    },
+    {
+      "heading": null,
+      "description": "Once the sugar has dissolved, pour in 150ml of water. Simmer it down for 30 seconds. Throw in your basil."
+    },
+    {
+      "heading": null,
+      "description": "Allow the basil to wilt. Cook the chicken until the water has evaporated."
+    },
+    {
+      "heading": null,
+      "description": "Remove the wok from the heat and set on a board."
+    },
+    {
+      "heading": null,
+      "description": "Serve the chicken on top of the steaming hot basmati rice. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Low Calorie",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2017-09-27T00:00:00+01:00"
+}

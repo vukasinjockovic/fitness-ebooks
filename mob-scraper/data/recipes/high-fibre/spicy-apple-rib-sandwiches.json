@@ -1,0 +1,356 @@
+{
+  "id": "2238368",
+  "slug": "spicy-apple-rib-sandwiches",
+  "title": "Spicy Apple Rib Sandwiches",
+  "url": "https://www.mob.co.uk/recipes/spicy-apple-rib-sandwiches",
+  "summary": "Elliot Cunningham of Lagom makes a phenomenal sandwich using Bull’s-Eye Carolina Reaper Extra Hot Sauce. Soft, sticky pork. Spicy apple sauce. It’s a winner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A8211-6.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 180,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 13,
+    "fat": 25,
+    "saturated_fat": 7,
+    "carbohydrates": 108,
+    "dietary_fibre": 5,
+    "sugars": 70,
+    "sodium": 326
+  },
+  "ingredients": [
+    {
+      "label": "8 Free Range Pork Belly Rib Slices",
+      "quantity": "240",
+      "unit": null,
+      "name": "Pork Belly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Free Range Pork Belly Rib Slices",
+      "quantity": "240",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sea Salt Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Onion Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion Granules",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Baguette",
+      "quantity": "400",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "230ml White Wine Vinegar",
+      "quantity": "230",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "460g Caster Sugar",
+      "quantity": "460",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Cooking Apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bramley Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Cooking Apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Bull’s-Eye Carolina Reaper Extra Hot Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Mayonnaise",
+      "quantity": "6",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "The day before eating, combine all of the dry brine ingredients – that's your salt, sugar, fennel seeds, coriander seeds, cumin seeds, onion granules and garlic granules – in a shallow tray. Make sure they’re mixed together nicely."
+    },
+    {
+      "heading": null,
+      "description": "Liberally sprinkle the brine over the pork slices, making sure to get seasoning on every crevice. Cover and place in your fridge overnight. This process will not only help give the pork flavour all the way through, but also changes the texture to ensure you get nice juicy pork."
+    },
+    {
+      "heading": null,
+      "description": "Heat your oven to 160°C."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pork belly slices from the fridge and place into a baking tray with a drizzle of vegetable oil. Cover the tray tightly with tin foil."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 1 ½ hours, flipping the slices over half way through. We want them to be cooked through and soft, but not falling apart."
+    },
+    {
+      "heading": null,
+      "description": "Whilst your pork cooks, make your spicy apple glaze. Wrap your two cooking apples in tin foil and place them at the bottom of the oven, or into the coals of a barbecue. Cook until the apples are super soft - about 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Set the apples aside until cool enough to handle. Remove the core and seeds as best you can and place the flesh in a food processor. Add a tablespoon of honey and your Bull’s-Eye Carolina Reaper Extra Hot Sauce. Add more or less to taste."
+    },
+    {
+      "heading": null,
+      "description": "Blend the mixture, and add the juice of your lemon. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Mix your mayo. Add your mayonnaise to a bowl, then grate in your clove of garlic and squeeze in your lemon juice. Mix thoroughly."
+    },
+    {
+      "heading": null,
+      "description": "Pour your vinegar and sugar into a pan along with 690ml of water. Bring to a boil. Once the sugar has dissolved, leave to cool."
+    },
+    {
+      "heading": null,
+      "description": "Shred your cabbage, onion and carrot very finely. You can use a mandoline or a very sharp knife. Finely chop your parsley. Combine your sliced cabbage, onion and carrot in bowl and mix in your parsley. Dress with vinegar up to an hour before serving."
+    },
+    {
+      "heading": null,
+      "description": "Remove your tray from the oven and place your pork belly slices onto a plate to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "Heat your barbecue to a high heat."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, combine the cooking juices from the pork and ⅓ of your spicy apple glaze. Place your pork belly slices onto the barbecue and brush on your glaze. Flip the pork belly slices, then continue to glaze until you’re happy with the colour and coverage. You want to get a nice char on it."
+    },
+    {
+      "heading": null,
+      "description": "Cut your baguette into sections and toast slightly."
+    },
+    {
+      "heading": null,
+      "description": "Apply a liberal layer of the cool mayo on the base, followed by our zingy vinegar slaw. Get your spicy pork belly slices in there, then cover it with more of the spicy apple sauce. Place the top piece of bread on, serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-07-05T11:15:00+01:00"
+}

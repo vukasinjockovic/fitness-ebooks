@@ -1,0 +1,103 @@
+{
+  "id": "6745261",
+  "slug": "parmesan-brussels-sprouts",
+  "title": "Parmesan Brussels Sprouts",
+  "url": "https://www.mob.co.uk/recipes/parmesan-brussels-sprouts",
+  "summary": "These Parmesan-crusted sprouts are made with just three ingredients and are absolutely packed with flavour. We’ll be serving them on the side of everything all sprout season-long.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Parmesan-Brussel-Sprouts.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 232,
+    "protein": 12,
+    "fat": 17,
+    "saturated_fat": 5,
+    "carbohydrates": 7,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 439
+  },
+  "ingredients": [
+    {
+      "label": "200g Brussels Sprouts",
+      "quantity": "200",
+      "unit": null,
+      "name": "Brussels Sprout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Parmesan",
+      "quantity": "75",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Trim the bottoms off your sprouts and halve them lengthways."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking parchment and grate over the Parmesan in a thin layer. Drizzle with olive oil and place the sprouts on top, cut side down. Drizzle more olive oil over the top."
+    },
+    {
+      "heading": null,
+      "description": "Roast in the oven for 25 mins until the sprouts are golden and crispy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-04T12:34:00+01:00"
+}

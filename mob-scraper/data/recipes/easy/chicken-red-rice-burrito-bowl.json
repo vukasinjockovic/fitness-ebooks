@@ -1,0 +1,253 @@
+{
+  "id": "7047640",
+  "slug": "chicken-red-rice-burrito-bowl",
+  "title": "Chicken & Red Rice Burrito Bowl",
+  "url": "https://www.mob.co.uk/recipes/chicken-red-rice-burrito-bowl",
+  "summary": "This one has everything: perfectly cooked chicken, a satisfying rice base and fresh zingy veggie toppings. Enjoy it hot for dinner then eat the leftovers hot or cold for lunch the next day.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Chicken-Red-Rice-Burrito-Bowl.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 48,
+    "fat": 36,
+    "saturated_fat": 11,
+    "carbohydrates": 38,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "200g Red Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Red Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Kg Skinless Boneless Chicken thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Kg Skinless Boneless Chicken thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 White Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 White Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the rice following packet instructions. Slice the chicken thighs into quarters lengthways. Peel and finely slice two of the onions, and finely dice the remaining one."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken and the sliced onions to a large bowl with the chipotle paste, garlic powder, oregano, ground cumin and olive oil. Season well with salt and mix to combine. Spread evenly on an oven tray, then slide under the grill on the top shelf for 15-20 mins, turning halfway, until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred the cabbage. If adding avocado crema dress the cabbage with some of the sauce. Roughly chop the coriander and mix with the diced onion in a small bowl. Quarter the cherry tomatoes and toss with a drizzle of olive oil and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "If batch cooking, transfer the different components (chicken, rice, onion-coriander mix, cabbage slaw and seasoned tomatoes) to separate containers and store in the fridge. Enjoy cold or reheat the chicken and rice until piping hot before serving."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon the rice into bowls, then top with chicken and the cabbage slaw. Then sprinkle over the onion-coriander mix. Finish with the tomatoes, crumble over the feta, and serve with lime wedges, hot sauce and more avocado crema (if making)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Accessible Method",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-10T14:28:00+00:00"
+}

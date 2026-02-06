@@ -1,0 +1,265 @@
+{
+  "id": "7989339",
+  "slug": "quick-poached-chicken-pho",
+  "title": "Quick Poached Chicken Pho",
+  "url": "https://www.mob.co.uk/recipes/quick-poached-chicken-pho",
+  "summary": "A lighter, faster take on pho. Fragrant broth, slippery noodles, and loads of fresh herbs. A warming weeknight hero.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Quick-Poached-Chicken-Pho.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 470,
+    "protein": 44,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 47,
+    "dietary_fibre": 3,
+    "sugars": 8,
+    "sodium": 2020
+  },
+  "ingredients": [
+    {
+      "label": "300g Raw Chicken Breast",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Raw Chicken Breast",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Bone Broth",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Broth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp MSG",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Dried Flat Rice Noodles",
+      "quantity": "120",
+      "unit": null,
+      "name": "Flat Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Dried Flat Rice Noodles",
+      "quantity": "120",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Beansprouts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Mint",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bird’s Eye Chillies (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Bird's Eye Chilli",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Oil (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and slice the ginger, roughly chop the onion and smash the garlic cloves with the side of a knife."
+    },
+    {
+      "heading": null,
+      "description": "Rinse the chicken breasts under cold water."
+    },
+    {
+      "heading": null,
+      "description": "Pour the chicken broth into a large saucepan. Add the ginger, garlic, onion, sugar, salt, MSG and star anise. Drop in the chicken breasts and set the pan over a medium heat."
+    },
+    {
+      "heading": null,
+      "description": "Once it starts to simmer, turn the heat down to low and poach the chicken gently — it should stay just below a simmer. Cook for 10–12 mins until the chicken is cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Lift the chicken out and set aside to rest. Strain the broth into a clean pan or bowl, discarding the solids. Stir in the fish sauce and keep the broth hot."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, soak the noodles in freshly boiled water for 3 mins until just tender. Drain and rinse under cold water to stop them cooking."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the spring onions. Pick the mint and coriander leaves. Thinly slice the chillies if using."
+    },
+    {
+      "heading": null,
+      "description": "Shred the rested chicken using two forks."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the noodles between bowls, pour over the hot broth, and top with the shredded chicken, beansprouts, herbs and spring onions. Add chilli oil or bird’s eye chillies if you fancy a kick."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Calorie",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Vietnamese",
+    "Vietnamese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-10-27T11:37:00+00:00"
+}

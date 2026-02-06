@@ -1,0 +1,240 @@
+{
+  "id": "5560830",
+  "slug": "coconutty-air-fryer-tofu-quinoa-salad-with-peanut-dressing",
+  "title": "Coconutty Air Fryer Tofu & Quinoa Salad with Peanut Dressing",
+  "url": "https://www.mob.co.uk/recipes/coconutty-air-fryer-tofu-quinoa-salad-with-peanut-dressing",
+  "summary": "This is a lovely little coconutty tofu-y recipe that's prepped in just 15 mins.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Coconutty-Air-Fryer-Tofu-Quinoa-Salad-with-Peanut-Dressing.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 31,
+    "fat": 56,
+    "saturated_fat": 25,
+    "carbohydrates": 56,
+    "dietary_fibre": 13,
+    "sugars": 10,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "60g Desiccated coconut",
+      "quantity": "60",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Coconut cream",
+      "quantity": "160",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Smoked tofu",
+      "quantity": "225",
+      "unit": null,
+      "name": "Smoked Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Smoked tofu",
+      "quantity": "225",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Cornflour",
+      "quantity": "20",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp Peanut butter",
+      "quantity": "3",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Sesame oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Soy sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Olive oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Quinoa, cooked",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Quinoa, cooked",
+      "quantity": "250",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put the desiccated coconut in one bowl or tray, ⅗ of the coconut cream in another and the cornflour into a third bowl or tray. Season them all."
+    },
+    {
+      "heading": null,
+      "description": "Cut the tofu into 3cm cubes, then dredge in the cornflour, coating all the sides. Dunk in the coconut cream and shake off the excess before tossing in the desiccated coconut, pressing down firmly to make it really stick. Set aside on a tray."
+    },
+    {
+      "heading": null,
+      "description": "Add the tofu to the air fryer then drizzle with oil. Heat the air fryer to 180°C and cook for 15 mins, then flip and cook for a further 10 mins until evenly golden. Carefully remove from the basket and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut the Tenderstem into thirds and toss with olive oil, salt and pepper. Add to the air fryer basket and cook at 180°C for 8 mins. Add the tofu back in and cook for 2 mins until warmed through."
+    },
+    {
+      "heading": null,
+      "description": "Mix the peanut butter with the remaining coconut cream, juice of ½ the lime, the sesame oil and the soy sauce. Taste and adjust seasoning if needed."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop half of the mint and mix with the quinoa and the remaining lime juice."
+    },
+    {
+      "heading": null,
+      "description": "Divide the quinoa between two plates and top with the broccoli and tofu. Drizzle with peanut sauce, then garnish with mint and a pinch of chilli flakes, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T05:00:00+01:00"
+}

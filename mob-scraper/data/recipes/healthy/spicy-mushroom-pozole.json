@@ -1,0 +1,273 @@
+{
+  "id": "4410827",
+  "slug": "spicy-mushroom-pozole",
+  "title": "Spicy Mushroom Pozole",
+  "url": "https://www.mob.co.uk/recipes/spicy-mushroom-pozole",
+  "summary": "A vegetarian pozole recipe that makes the most of chipotle paste, tender mushrooms, and corn tortillas. A real hearty affair.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Spicy-Mushroom-Pozole.jpg",
+  "cook_time": 40,
+  "prep_time": 15,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 222,
+    "protein": 7,
+    "fat": 11,
+    "saturated_fat": 4,
+    "carbohydrates": 23,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "8 King Oyster Mushrooms",
+      "quantity": "8",
+      "unit": null,
+      "name": "King Oyster Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 King Oyster Mushrooms",
+      "quantity": "8",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Vegetable Stock",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Corn Cobs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Corn On The Cob",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Corn Tortillas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Corn Tortillas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tomatoes",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Radishes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Limes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Pickled Jalapeños",
+      "quantity": "25",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Feta",
+      "quantity": "75",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Feta",
+      "quantity": "75",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the mushrooms in half lengthways. Heat a large casserole pot or saucepan over a medium heat. Thinly slice the onions and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Season the mushrooms with salt and pepper and add to the pan with a shot of oil, cut-side down. Cook for 7-8 mins until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Remove the mushrooms from the pan and add ¾ of the onions and all of the garlic. Cook for 5-6 mins until lightly sweated, season with salt and tip in the chipotle paste. Cook for another 3-4 mins, then add the veg stock. Bring to a bare simmer and return the mushrooms to the pan. Cook for 18-20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the corn from the cobs, cut the tortillas into 1cm strips and finely shred the cabbage. De-seed and dice the tomatoes and thinly slice the radishes. Finely chop the whole bunch of coriander, stalks and all."
+    },
+    {
+      "heading": null,
+      "description": "Once the soup has had 20 mins, drop in the corn and cook for a further 4 mins. Add the cabbage to the pot and warm through. At the last minute, stir through ¾ of the coriander and add the juice of two limes. Season with salt and pepper and divide between warm bowls."
+    },
+    {
+      "heading": null,
+      "description": "Top with the remaining raw onion, feta, radishes, diced tomatoes, jalapeños, remaining limes and sliced tortillas."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-29T09:45:00+01:00"
+}

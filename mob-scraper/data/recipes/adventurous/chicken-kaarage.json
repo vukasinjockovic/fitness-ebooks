@@ -1,0 +1,371 @@
+{
+  "id": "6218876",
+  "slug": "chicken-kaarage",
+  "title": "Chicken Karaage",
+  "url": "https://www.mob.co.uk/recipes/chicken-kaarage",
+  "summary": "If you've never tried Japanese fried chicken, this is your chance. This chicken kaarage is juicy, crispy, and packed with umami flavouring. Tuck in.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/220A5663-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 1042,
+    "protein": 32,
+    "fat": 82,
+    "saturated_fat": 13,
+    "carbohydrates": 54,
+    "dietary_fibre": 2,
+    "sugars": 6,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "4 chicken thighs, skin, boneless 450g Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 chicken thighs, skin, boneless 450g Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L  Neutral Oil, for frying",
+      "quantity": "1",
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sake",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Potato/Corn Starch",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato Starch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼  Tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160 Potato Starch",
+      "quantity": "160",
+      "unit": null,
+      "name": "Potato Starch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Plain Flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Toasted Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mayonnaise",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Toasted Sesame Seeds, ground",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 - 2 Tbsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chives/Spring onions",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dashi",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely mince the ginger. Combine all the marinade ingredients into a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Cut the chicken thighs into ¼ piece squares by slices in half then half again, to make 4 pieces with each thigh. Make sure to keep the skin on for extra crispy texture. Then transfer the chicken to the marinade. Mix well and cover, leave in the fridge for 30 mins to overnight."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine all the sesame dip ingredients in a bowl with finely sliced chives or spring onions. Then slice the lemons into wedges for garnish."
+    },
+    {
+      "heading": null,
+      "description": "For the sesame salt, grind the toasted sesame seeds with the salt and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the slaw: Finely shred all the cabbage using a mandoline. If you don’t have a mandoline, thinly slice the cabbage. Wash the cabbage in cold tap water and drain, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the potato starch and all purpose flour to a medium-sized mixing bowl and mix well. Now remove the chicken from the fridge and mix in a whole egg, making sure to coat all the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Add the marinated chicken into the bowl of flour and evenly coat. Then, place it into your palm to lightly cup it into a ball shape. Repeat with all the pieces, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Pour the neutral oil into a medium sized pot, making sure the oil is filled ⅓ of the way up the pot. Heat the oil to 160°C for the first fry. Fry the chicken in batches, cooking them for 2 mins on each side and then flip. The chicken should be a pale golden. Remove the chicken using a spider and place onto a plate lined with kitchen paper. Repeat until all the chicken is cooked."
+    },
+    {
+      "heading": null,
+      "description": "For the second fry: Increase the oil heat to 170°C and fry the chicken for a second time for 1-2 mins, until golden brown. Using the spider, transfer the chicken to a wire rack and sprinkle over the sesame sea salt."
+    },
+    {
+      "heading": null,
+      "description": "Dress the cabbage with sesame oil, and salt. Massage a few spoons of the sesame dip over the cabbage. Eat with the fresh, hot Japanese-fried chicken, and the sesame dipping sauce. Serve with a slice of lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-17T05:00:00+01:00"
+}

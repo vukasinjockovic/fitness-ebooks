@@ -1,0 +1,158 @@
+{
+  "id": "5930094",
+  "slug": "polenta-cake-recipe",
+  "title": "Orange Polenta Cake Recipe",
+  "url": "https://www.mob.co.uk/recipes/polenta-cake-recipe",
+  "summary": "This delicious polenta cake recipe couldn't be simpler, no fancy equipment required, just whisking the wet into the dried ingredients. It also keeps super well, in an airtight container at room temperature, for up to a week. If you want to get into baking, this recipe is the perfect place to start.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Polenta-Cake-Recipe.jpg",
+  "cook_time": 55,
+  "prep_time": 10,
+  "total_time": 65,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 410,
+    "protein": 5,
+    "fat": 27,
+    "saturated_fat": 4,
+    "carbohydrates": 36,
+    "dietary_fibre": 2,
+    "sugars": 27,
+    "sodium": 61
+  },
+  "ingredients": [
+    {
+      "label": "2 Oranges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Caster Sugar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Ground Almonds",
+      "quantity": "200",
+      "unit": null,
+      "name": "Ground Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Polenta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Polenta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Baking Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Extra Virgin Olive Oil",
+      "quantity": "200",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crème Fraîche",
+      "quantity": null,
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 140°C."
+    },
+    {
+      "heading": null,
+      "description": "Lightly grease a 23cm springform cake tin with the olive oil and line the base with baking parchment."
+    },
+    {
+      "heading": null,
+      "description": "Zest the oranges into a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Whisk in four-fifths of the caster sugar along with all the ground almonds, polenta and baking powder."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, crack in the eggs. Add the olive oil and whisk together."
+    },
+    {
+      "heading": null,
+      "description": "Pour the wet ingredients into the dry, whisk together until a smooth cake batter forms then pour the batter into the lined tin."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 50 mins until the cake comes away from the sides of the tin and a skewer inserted into the centre comes out with a few crumbs attached."
+    },
+    {
+      "heading": null,
+      "description": "Measure the remaining caster sugar into a small saucepan and squeeze in the orange juice. Gently cook set over a low heat for around 5 mins until the sugar has dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Prick the warm baked cake all over the top with a skewer then pour the syrup evenly over the cake. Leave the cake in its tin to cool then cut into fat slices to serve, with some crème fraîche if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-29T09:41:00+01:00"
+}

@@ -1,0 +1,268 @@
+{
+  "id": "8027608",
+  "slug": "cajun-spiced-chicken-meatball-butternut-chilli",
+  "title": "Cajun-Spiced Chicken Meatball & Butternut Chilli",
+  "url": "https://www.mob.co.uk/recipes/cajun-spiced-chicken-meatball-butternut-chilli",
+  "summary": "Warming and smoky chicken meatball chilli loaded with beans, squash and big Cajun flavour. Topped with yoghurt and fresh coriander for the win.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/11/Cajun-Spiced-Chicken-Meatball-Butternut-Chilli.jpg",
+  "cook_time": 30,
+  "prep_time": 25,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 644,
+    "protein": 52,
+    "fat": 21,
+    "saturated_fat": 8,
+    "carbohydrates": 59,
+    "dietary_fibre": 16,
+    "sugars": 13,
+    "sodium": 715
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g chicken mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g chicken mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cajun seasoning",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cajun Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sofrito Mix",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Sofrito Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Butternut Squash",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pre-Chopped Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "570g Jar Black Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "570g Jar Black Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "570g Jar Red Kidney Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kidney Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "570g Jar Red Kidney Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Thick Balsamic Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Coriander",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g extra sharp cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Extra Mature Cheddar ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g extra sharp cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix the chicken mince with half of the Cajun seasoning, then shape into small balls."
+    },
+    {
+      "heading": null,
+      "description": "Heat the olive oil in a large saucepan over a medium-high heat. Add the chicken meatballs and fry for about 5 mins until browned on all sides."
+    },
+    {
+      "heading": null,
+      "description": "Add the sofrito mix and cook, stirring, for 2 mins. Finely slice the garlic and chuck it in with the chopped butternut squash. Cook for 1 min, then stir through the Cajun seasoning and cook for another minute until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the plum tomatoes, squashing them with the back of a spoon. Fill one of the empty cans with water, swirl and tip into the pan. Add the beans — liquid and all — then bring everything to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down and cook for 30 mins until thickened and the squash is soft. Stir through the balsamic and season to taste with salt and black pepper. Grate the cheddar and pick the coriander."
+    },
+    {
+      "heading": null,
+      "description": "To serve, ladle the chilli into bowls and top with a dollop of Greek yoghurt, fresh coriander leaves and a little extra Cajun seasoning."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Cajun"
+  ],
+  "chefs": [
+    {
+      "name": "Anna Helm Baxter",
+      "uri": "chefs/anna-baxter",
+      "summary": "Anna Helm Baxter is a cookbook author, food stylist, and food producer at Mob. Having spent most of her life in the US, she loves potlucks, tailgates, and a good Thanksgiving spread. As a working mum of three, she gets the dinner struggle, which is why she’s all about recipes that are joyful, healthy, and totally doable. And if all else fails she always has cookies stashed in the freezer."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-11-18T09:35:00+00:00"
+}

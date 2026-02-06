@@ -1,0 +1,295 @@
+{
+  "id": "6003156",
+  "slug": "coronation-chicken-schnitzel-sandwich",
+  "title": "Coronation Chicken Schnitzel Sandwich",
+  "url": "https://www.mob.co.uk/recipes/coronation-chicken-schnitzel-sandwich",
+  "summary": "A crunchy, crispy and golden chicken schnitzel sandwich dressed in a coronation curry mayo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Coronation-Chicken-Schnitzel-Sandwich.jpg",
+  "cook_time": 15,
+  "prep_time": 30,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 29,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 72,
+    "dietary_fibre": 4,
+    "sugars": 13,
+    "sodium": 678
+  },
+  "ingredients": [
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Panko Breadcrumbs",
+      "quantity": "150",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mild Curry Powder",
+      "quantity": "3",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Mayonnaise",
+      "quantity": "75",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Thick Plain Yoghurt",
+      "quantity": "75",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Thick Plain Yoghurt",
+      "quantity": "75",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mango Chutney",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Apple",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Iceberg Lettuce",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Burger Buns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Burger Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and finely slice the red onion, then get it into a bowl. Add a good pinch of salt and the juice of the lime, then give it a little massage. Let it sit and pickle."
+    },
+    {
+      "heading": null,
+      "description": "Cut each chicken breast down the middle depthways, so that you have two flatter fillets. Sandwich the chicken breasts between two bits of cling film, then bash them to flatten to about 3mm thickness."
+    },
+    {
+      "heading": null,
+      "description": "Tip the flour into a bowl along with the curry powder and 1 tsp salt. Crack the eggs into another bowl and beat to break them down. Add the panko breadcrumbs to another bowl."
+    },
+    {
+      "heading": null,
+      "description": "Dip your chicken breasts one at a time into the flour, then egg, then breadcrumbs so that they are totally coated. Pop them in the fridge until you are ready to eat."
+    },
+    {
+      "heading": null,
+      "description": "For the curry mayo, peel and finely chop the garlic, then heat a small frying pan over a medium heat. Add a splash of vegetable oil, then add the garlic and tomato purée to the pan. Cook for 1 min, then tip in the curry powder and sizzle for 30 seconds. Remove the pan from the heat and allow it to cool a little."
+    },
+    {
+      "heading": null,
+      "description": "Put the mayonnaise, yoghurt and mango chutney into a bowl, then pour the warm spice mix into it. Mix until well combined, then season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Peel and julienne the apple and add to the pickled onions. Finely shred the lettuce."
+    },
+    {
+      "heading": null,
+      "description": "Toast the burger buns cut-side down in a large frying pan for a couple of minutes, until golden. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add a good glug of vegetable oil to the same large frying pan and bring it up to temperature over a medium heat. Carefully get your chicken breasts into the pan two at a time, and fry for about 3 mins on each side, until they are crisp and golden."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the mayo onto either side of the burger buns, then pop some lettuce on the base. Place your chicken fillets on top, then get the julienned apple and pickled onions on there. Pop the bun lid on top and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-20T05:30:00+01:00"
+}

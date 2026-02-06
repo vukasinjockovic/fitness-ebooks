@@ -1,0 +1,264 @@
+{
+  "id": "1998257",
+  "slug": "satay-chicken-burgers",
+  "title": "Satay Chicken Burgers",
+  "url": "https://www.mob.co.uk/recipes/satay-chicken-burgers",
+  "summary": "Chargrilled, fragrant chicken with the most luscious satay mayo in a squishy bun. Your new favourite summer barbecue dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A7047-website.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 27,
+    "fat": 28,
+    "saturated_fat": 6,
+    "carbohydrates": 48,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 701
+  },
+  "ingredients": [
+    {
+      "label": "2 Sticks of Lemongrass",
+      "quantity": "40",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crispy Chilli Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thigh Fillets",
+      "quantity": "500",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thigh Fillets",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Smooth Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Coconut Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Coconut Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mayonnaise",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Buns",
+      "quantity": "270",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly chop your lemongrass and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Pop them in a pestle and mortar and bash to a fine paste. Add 1 tbsp of your chilli oil, your ground coriander and turmeric and bash again until all combined."
+    },
+    {
+      "heading": null,
+      "description": "Spoon your paste into a bowl and add your chicken thigh fillets along with a good pinch of salt, a twist of pepper and a drizzle of vegetable oil. Give it all a good mix, then pop in the fridge to marinate for an hour."
+    },
+    {
+      "heading": null,
+      "description": "Make your satay mayo. Pop your peanut butter in a bowl along with your remaining tbsp of chilli oil, coconut yoghurt, soy sauce and mayonnaise. Add 2 tbsp of boiling water and give it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Slaw time. Peel your carrots and julienne them. Finely shred your red cabbage. Pop it all in a bowl along with your coriander leaves and squeeze in your lime juice. Give it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Heat a griddle pan on a medium-high heat. Add your chicken thighs and cook for about 4 mins on each side until tender and cooked through with a lovely charred exterior."
+    },
+    {
+      "heading": null,
+      "description": "Halve your brioche buns and toast them in a dry frying pan."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Spread some of your satay mayo on the base of your bun, then add a chicken fillet on top. Top with a good handful of slaw. Spread a little more mayo on your burger bun lid, then pop it on top of the slaw. Eat and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-05-04T13:53:00+01:00"
+}

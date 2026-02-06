@@ -1,0 +1,88 @@
+{
+  "id": "3490300",
+  "slug": "toffee-vodka",
+  "title": "Toffee Vodka",
+  "url": "https://www.mob.co.uk/recipes/toffee-vodka",
+  "summary": "Never wince at the taste of a vodka shot again",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A8219.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 203,
+    "protein": 0,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 18,
+    "dietary_fibre": null,
+    "sugars": 12,
+    "sodium": 34
+  },
+  "ingredients": [
+    {
+      "label": "Wethers Original 100g",
+      "quantity": "100",
+      "unit": null,
+      "name": "Werther's Original",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vodka 500ml",
+      "quantity": "500",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Open and pour out some of the vodka in the bottle. Save this liquid for another day or drink."
+    },
+    {
+      "heading": null,
+      "description": "Top up the bottle with some water, depending on how strong you want your drink."
+    },
+    {
+      "heading": null,
+      "description": "Crush up your Werther's Original in a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Pour the crushed Werther’s into your vodka bottle and screw the lid on tight."
+    },
+    {
+      "heading": null,
+      "description": "Put the bottle into your dishwasher for a 30min to 45 min cycle."
+    },
+    {
+      "heading": null,
+      "description": "Once it’s finished, cool the bottle in the freezer and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-10T10:00:00+01:00"
+}

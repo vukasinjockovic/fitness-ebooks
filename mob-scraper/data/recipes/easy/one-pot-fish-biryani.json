@@ -1,0 +1,271 @@
+{
+  "id": "6864487",
+  "slug": "one-pot-fish-biryani",
+  "title": "One-Pot Fish Biryani",
+  "url": "https://www.mob.co.uk/recipes/one-pot-fish-biryani",
+  "summary": "Learn to make this classic Indian dish at home. It's gently spiced with perfectly cooked cod, served with a cucumber yoghurt.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/One-Pot-FIsh-Biryani.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 400,
+    "protein": 26,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 56,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 320
+  },
+  "ingredients": [
+    {
+      "label": "2 Brown Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270g Basmati Rice",
+      "quantity": "270",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270g Basmati Rice",
+      "quantity": "270",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Curry Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cod Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320ml Vegetable Stock",
+      "quantity": "320",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Red Chilli Powder",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp Garam Masala",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Stir all the spices together in a small bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and thinly slice the onions. Grate the garlic into a mixing bowl and add ½ the spice mix, the juice of the lime and a glug of olive oil. Season generously with salt and pepper and give it a good mix. Toss the fish through this mixture and set aside in the fridge to marinate."
+    },
+    {
+      "heading": null,
+      "description": "Wash the rice until the water runs clear."
+    },
+    {
+      "heading": null,
+      "description": "Set a frying pan with high sides over a medium heat with a generous drizzle of olive oil. Once hot, add the onions and cook, stirring occasionally, for 7-10 mins until golden brown. Transfer the onions to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to medium and add another drizzle of olive oil. Add the curry leaves and cook until they splutter then stir in the remaining spice mix, rice and ½ the browned onion. Cook for a couple of seconds then pour in the stock. Bring to the boil then place a lid on, turn the heat down to low and let the rice cook undisturbed for 12 mins."
+    },
+    {
+      "heading": null,
+      "description": "After 12 mins, scatter the peas over the rice and top with the fish. Place the lid back on and leave it on a low heat for 10 mins to finish cooking. Don’t remove the lid until finished. Heat the grill to high."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the yoghurt. Coarsely grate the cucumber and squeeze out as much water out as possible. Get the yoghurt in a bowl then stir through the grated cucumber and garam masala. Taste and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "When the fish cooking time is up, remove the lid and pop the pan under the grill for 3-4 mins until the fish has started to colour and is fully cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Fluff the rice using a fork and spoon into bowls. Top with the fish, a scattering of the remaining browned onions and a dollop of cucumber yoghurt. Finish with some coriander."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-13T13:00:00+00:00"
+}

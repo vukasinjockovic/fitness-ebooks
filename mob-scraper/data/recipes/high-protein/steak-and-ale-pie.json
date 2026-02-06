@@ -1,0 +1,289 @@
+{
+  "id": "2739229",
+  "slug": "steak-and-ale-pie",
+  "title": "Steak and Ale Pie",
+  "url": "https://www.mob.co.uk/recipes/steak-and-ale-pie",
+  "summary": "The greatest pie of all time. Melt-in-the-mouth beef cooked slowly in a rich ale gravy will never cease to warm your cockles.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/CMS-6899.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 240,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 646,
+    "protein": 38,
+    "fat": 36,
+    "saturated_fat": 13,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Bacon Lardons",
+      "quantity": "250",
+      "unit": null,
+      "name": "Bacon Lardons",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Bacon Lardons",
+      "quantity": "250",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Diced Stewing Beef (Chuck Or Shin Is Best)",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Stewing Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Diced Stewing Beef (Chuck Or Shin Is Best)",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Plain Flour",
+      "quantity": "40",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Thyme",
+      "quantity": "15",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Good Quality Beef Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Ale",
+      "quantity": "400",
+      "unit": null,
+      "name": "Ale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Button Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Button Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Button Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Worcestershire Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Puff Pastry",
+      "quantity": "400",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 150°C."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop your onion and carrots."
+    },
+    {
+      "heading": null,
+      "description": "Heat a casserole dish over a low heat. Add a little olive oil, then tip in your bacon lardons. Fry for a few mins until the fat has rendered out and they are starting to crisp up."
+    },
+    {
+      "heading": null,
+      "description": "Add your diced onion and carrot to the pan and cook for 15 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, brown your beef. Start by placing your flour in a large bowl and seasoning generously with salt and pepper. Add your beef and mix so that the flour totally coats all the pieces."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a medium-high heat and add a little olive oil. Brown your beef in batches for a minute or two on all sides until there is lots of caramelisation. Remove from the pan, and repeat with your remaining beef."
+    },
+    {
+      "heading": null,
+      "description": "Pick your thyme leaves off their stalks and add these to the pan along with your tomato purée. Cook out for 5 mins until your puree has darkened."
+    },
+    {
+      "heading": null,
+      "description": "Add your beef to the veg pan along with your stock and ale. Bring the whole mixture to a simmer, then pop on a lid and place in the oven to cook for 2 and a half hours."
+    },
+    {
+      "heading": null,
+      "description": "Halve your button mushrooms."
+    },
+    {
+      "heading": null,
+      "description": "Remove your pan from the oven. Add your button mushrooms, then pop the lid back on. Cook for another hour."
+    },
+    {
+      "heading": null,
+      "description": "At this point, your beef should be tender and your sauce lovely and thick. Add your Worcestershire sauce, then season to taste with salt and pepper. Allow your pie filling to cool."
+    },
+    {
+      "heading": null,
+      "description": "Heat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Roll out your pastry to 2mm thickness."
+    },
+    {
+      "heading": null,
+      "description": "Spoon your beef into a pie dish, then add your pastry on top. Crimp the edges, then brush the surface with beaten egg."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 25 mins until well risen and golden."
+    },
+    {
+      "heading": null,
+      "description": "Serve with mash and greens."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Freezer Friendly",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-11-24T12:00:00+00:00"
+}

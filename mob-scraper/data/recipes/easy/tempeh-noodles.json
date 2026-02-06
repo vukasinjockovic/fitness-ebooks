@@ -1,0 +1,288 @@
+{
+  "id": "5879709",
+  "slug": "tempeh-noodles",
+  "title": "Tempeh Noodles",
+  "url": "https://www.mob.co.uk/recipes/tempeh-noodles",
+  "summary": "Tasty high-protein vegan noodles. What's not to love?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Tempeh-Noodles.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 858,
+    "protein": 36,
+    "fat": 32,
+    "saturated_fat": 5,
+    "carbohydrates": 104,
+    "dietary_fibre": 10,
+    "sugars": 10,
+    "sodium": 1762
+  },
+  "ingredients": [
+    {
+      "label": "200g Tempeh",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tempeh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Shiitake Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Baby Spinach",
+      "quantity": "150",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Noodles",
+      "quantity": "250",
+      "unit": null,
+      "name": "Dried Wheat Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Noodles",
+      "quantity": "250",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sunflower Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tsp Hot Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tahini",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Agave Nectar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Boiling Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crumble the tempeh into small pieces. Roughly chop the mushrooms. Finely slice the spring onions and set aside some of the green tips to serve."
+    },
+    {
+      "heading": null,
+      "description": "Put the tempeh, spring onions and mushrooms into a large frying pan over a medium-high heat with a good splash of sunflower oil and a pinch of salt. Stir-fry for about 10 mins until starting to crisp up."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the marinade. Grate the ginger, mince the garlic, and add to a small bowl with the juice of the lime and the remaining ingredients. Whisk well."
+    },
+    {
+      "heading": null,
+      "description": "In a separate pan, cook the spinach with a pinch of salt over a medium heat until wilted."
+    },
+    {
+      "heading": null,
+      "description": "Add the marinade to the tempeh. Fry for 5-10 mins until the tempeh and mushrooms are browned on the edges and starting to crisp up."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles following pack instructions, then drain."
+    },
+    {
+      "heading": null,
+      "description": "For the noodle sauce, first juice the lime into a bowl. Add all the remaining ingredients and whisk well. Toss the cooked noodles through it."
+    },
+    {
+      "heading": null,
+      "description": "Serve the saucy noodles in bowls topped with the tempeh, reserved spring onion greens, sesame seeds, some extra chilli oil and the wilted spinach."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-22T15:42:00+01:00"
+}

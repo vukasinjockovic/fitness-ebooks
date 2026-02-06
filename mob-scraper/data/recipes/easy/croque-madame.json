@@ -1,0 +1,187 @@
+{
+  "id": "106174",
+  "slug": "croque-madame",
+  "title": "Spicy Croque Madame",
+  "url": "https://www.mob.co.uk/recipes/croque-madame",
+  "summary": "The tastiest little croque you'll ever eat with a special spicy white sauce and grated gruyère. Stepping up your brunch game.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A4389-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 873,
+    "protein": 38,
+    "fat": 54,
+    "saturated_fat": 26,
+    "carbohydrates": 56,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 1532
+  },
+  "ingredients": [
+    {
+      "label": "4 Medium British Lion eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Butter",
+      "quantity": "200",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Ham",
+      "quantity": "8",
+      "unit": null,
+      "name": "Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Milk",
+      "quantity": "500",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Gruyère",
+      "quantity": "200",
+      "unit": null,
+      "name": "Gruyère",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Loaf of Sourdough",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Add a large knob of butter to a frying pan (saving the rest for later). Allow it to melt."
+    },
+    {
+      "heading": null,
+      "description": "Add the flour and paprika into the pan and stir into a loose paste, this is known as a roux. Add a splash of your milk and stir. Keep adding your milk gradually, stirring out the lumps."
+    },
+    {
+      "heading": null,
+      "description": "Grate your Gruyère and add half to your pan. Stir until it starts to thicken. Season with salt and pepper and mix together."
+    },
+    {
+      "heading": null,
+      "description": "Cut eight slices of your sourdough and place them onto a baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Butter the slices generously with the remaining butter, then add 3 tbsp of the roux sauce onto four of the slices. Add two slices of ham on top of the first layer of roux and top with another slice of bread. Add another 3 tbsp of the roux to the top of each sandwich and spread."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle the remaining cheese over the top of each sandwich and then place them under the grill for 8 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Crack your British Lion eggs into a frying pan, with some olive oil. Season with salt and pepper and cook until each egg has a nice, crispy base."
+    },
+    {
+      "heading": null,
+      "description": "Get your sandwiches out of the oven and add an egg on top of each one. Then tuck into this delicious dish!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Low Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-03-09T11:44:00+00:00"
+}

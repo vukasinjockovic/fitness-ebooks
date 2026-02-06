@@ -1,0 +1,176 @@
+{
+  "id": "3605230",
+  "slug": "chilli-cheese-spud-salad",
+  "title": "Chilli Cheese Spud Salad",
+  "url": "https://www.mob.co.uk/recipes/chilli-cheese-spud-salad",
+  "summary": "Bonjour! Willy here, this is my recipe for an absolutely mental chilli cheese jalapeño spud salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A4010-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 11,
+    "fat": 22,
+    "saturated_fat": 8,
+    "carbohydrates": 27,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 357
+  },
+  "ingredients": [
+    {
+      "label": "500g New Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g New Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cheddar Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cheddar Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": "25",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Bunch of Chives",
+      "quantity": "50",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Hellmann’s Real Mayonnaise",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Pickled Jalapeños",
+      "quantity": "30",
+      "unit": null,
+      "name": "Jalapeno",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Crispy Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Crispy Fried Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Boil your spuds in boiling salted water until tender, this will take around 13 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, grate the cheese and finely chop the spring onions, chives and red onion."
+    },
+    {
+      "heading": null,
+      "description": "Combine the veggies (saving a handful of chives) and mayo in a bowl and give it a mix. Chuck in the jalapeños and season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Drain the cooked spuds and while they’re still warm, add the grated cheese and toss together."
+    },
+    {
+      "heading": null,
+      "description": "Now stir through the mayo mixture and divide between plates."
+    },
+    {
+      "heading": null,
+      "description": "Top with your remaining chives and a handful of crispy onions."
+    },
+    {
+      "heading": null,
+      "description": "Smashing."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-10-10T09:23:00+01:00"
+}

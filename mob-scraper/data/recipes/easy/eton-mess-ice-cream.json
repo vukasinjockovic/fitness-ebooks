@@ -1,0 +1,170 @@
+{
+  "id": "6798755",
+  "slug": "eton-mess-ice-cream",
+  "title": "Eton Mess Ice Cream",
+  "url": "https://www.mob.co.uk/recipes/eton-mess-ice-cream",
+  "summary": "The only thing more perfect for a summer’s day than Eton Mess? Eton Mess ice cream. You are going to love this rich vanilla ice cream with mixed berry coulis and crushed meringues.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Eton-Mess-Ice-Cream-2.jpg",
+  "cook_time": 5,
+  "prep_time": 150,
+  "total_time": 155,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 266,
+    "protein": 4,
+    "fat": 15,
+    "saturated_fat": 9,
+    "carbohydrates": 28,
+    "dietary_fibre": 1,
+    "sugars": 28,
+    "sodium": 38
+  },
+  "ingredients": [
+    {
+      "label": "300ml Whole Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vanilla Pod",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Egg Yolks",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Meringues",
+      "quantity": "50",
+      "unit": null,
+      "name": "Meringue",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Fresh Berries",
+      "quantity": "400",
+      "unit": null,
+      "name": "Fresh Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour the milk into a pan, add the vanilla pod and bring slowly up to scalding point – do not let it reach the boil. Cover the surface with clingfilm to prevent a skin forming, then leave to cool and infuse with the vanilla for approximately 1 hour. Once cool, carefully remove the vanilla pod from the pan and scrape out the seeds into the milk."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the berry coulis: place all the ingredients in a medium-sized heavy-bottomed pan and bring to the boil over a gentle heat, stirring continuously. Reduce to a simmer and heat for 15 mins, or until thickened (add a splash more water if it needs it). Allow to cool, then transfer the coulis to a liquidiser or use a hand blender to purée. Finally pass it through a sieve, pushing through as much of the pulp as possible and discarding any seeds."
+    },
+    {
+      "heading": null,
+      "description": "Tip a bag of ice cubes into the sink and place a large wide metal bowl on top, to chill the bowl. Alternatively place a metal bowl in the freezer."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, beat together the egg yolks and sugar until thick and fluffy – approximately 4 mins. Pour in the vanilla milk and stir until you get a thin custard."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture into a clean heavy-bottomed pan, place over a medium heat and stir continuously with a wooden spoon as you slowly bring it nearly to the boil. When the custard has thickened and the foam bubbles on the surface have disappeared, remove it from the heat, whisk it for a couple of mins with a large balloon whisk (this will help it to cool quicker), then pour into your cold, dry metal bowl."
+    },
+    {
+      "heading": null,
+      "description": "Leave it to cool for approximately 10 mins, stirring occasionally to prevent a skin forming."
+    },
+    {
+      "heading": null,
+      "description": "If churning in an ice cream maker: turn on your ice cream maker and crush the meringues. Once the mixture has cooled, stir in the cream, churn in the ice cream maker for 15 mins. Stir through the mixed berry coulis and the crushed meringues, then churn for another 15-20 mins. Transfer to an ice cream container and place in the freezer to set completely."
+    },
+    {
+      "heading": null,
+      "description": "If churning by hand: once the mixture is cool, put it into the fridge for 1-2 hours. Remove, stir in the cream and transfer to an ice cream container. Pop it in the freezer for half an hour (meanwhile, crush the meringues) then give it a churn with a spoon and stir through the mixed berry coulis and crushed meringues. Return to the freezer to set completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T12:27:00+01:00"
+}

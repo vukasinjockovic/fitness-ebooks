@@ -1,0 +1,309 @@
+{
+  "id": "4923466",
+  "slug": "smoky-grilled-mushroom-doner",
+  "title": "Smoky Grilled Mushroom Döner",
+  "url": "https://www.mob.co.uk/recipes/smoky-grilled-mushroom-doner",
+  "summary": "If you find it hard to believe that a döner kebab can be healthy, we're here to prove you wrong. This veggie-style grilled mushroom döner will have you feeling like you're post night out minus the regret. Enjoy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Smoky-Grilled-Mushroom-Doner_2024-04-02-082500_xmdb.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 390,
+    "protein": 13,
+    "fat": 15,
+    "saturated_fat": 4,
+    "carbohydrates": 48,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 522
+  },
+  "ingredients": [
+    {
+      "label": "550g Oyster Mushrooms",
+      "quantity": "550",
+      "unit": null,
+      "name": "Oyster Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "550g Oyster Mushrooms",
+      "quantity": "550",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp smoked paprika",
+      "quantity": "3",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp dried rosemary",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Romaine Lettuce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Pitta Breads",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 tbsp ground coriander",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp olive oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "15g Fresh Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Feta",
+      "quantity": "80",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Feta",
+      "quantity": "80",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Natural Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Natural Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp dried dill",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp white wine vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by tearing the mushrooms into thick pieces, then slice the peppers. Tip it all into a bowl with the olive oil, smoked paprika, dried rosemary, cumin and ground coriander. Season with salt and pepper, then marinate for at least 1 hr but preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "For the sauce, finely chop the mint, grate the garlic and crumble ⅔ of the feta. In a small bowl, combine the yogurt, mint, garlic, dill, white wine vinegar and feta, then season with salt and pepper. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "When you're ready to cook, heat the oven to 220°C or as hot as it will go. Thread the mushrooms and peppers onto skewers, then transfer to a tray and cook for 10-15 mins until charred, then flip and cook for another 10-15 mins. The timings will vary depending on your oven, so keep an eye on them."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the red onion and tip into a bowl, then squeeze over the lemon. Deseed and dice the tomatoes and shred the lettuce, then add both to the same bowl. Toss with the sumac and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Toast the pitta and fill with the sauce, grilled veg and red onion salad. Top with the remaining feta and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Turkish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-01-18T05:00:00+00:00"
+}

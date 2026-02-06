@@ -1,0 +1,92 @@
+{
+  "id": "7062907",
+  "slug": "lunch-base-quinoa",
+  "title": "Quinoa",
+  "url": "https://www.mob.co.uk/recipes/lunch-base-quinoa",
+  "summary": "Quinoa is one of our favourite grains. Use this recipe to make the perfect base for your lunch. It's foolproof.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Quinoa.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 72,
+    "protein": 3,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 13,
+    "dietary_fibre": 1,
+    "sugars": 0,
+    "sodium": 0
+  },
+  "ingredients": [
+    {
+      "label": "200g Quinoa",
+      "quantity": "200",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Water",
+      "quantity": "400",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash the quinoa."
+    },
+    {
+      "heading": null,
+      "description": "Place into pan with water and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Bring to a boil, cover, turn down to low and cook for 15-20 mins until the water has been absorbed."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the heat and let steam for 5 mins. Fluff using a fork."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-01T00:00:00+01:00"
+}

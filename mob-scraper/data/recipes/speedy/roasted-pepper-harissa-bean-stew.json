@@ -1,0 +1,183 @@
+{
+  "id": "4237720",
+  "slug": "roasted-pepper-harissa-bean-stew",
+  "title": "Roasted Pepper & Harissa Bean Stew",
+  "url": "https://www.mob.co.uk/recipes/roasted-pepper-harissa-bean-stew",
+  "summary": "Stuffed with roasted red peppers, cannelinni beans and a good ol' heaping tablespoon or two of harissa, here's a simple stew that's ready in under 25 mins.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Roasted-Pepper-Harissa-STew.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 406,
+    "protein": 17,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 68,
+    "dietary_fibre": 11,
+    "sugars": 11,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "4 Carrots (200g)",
+      "quantity": "200",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Parsley",
+      "quantity": null,
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Courgettes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Roasted Red Peppers",
+      "quantity": "200",
+      "unit": null,
+      "name": "Jarred Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Cannellini Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cannellini Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Cannellini Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Harissa",
+      "quantity": "4",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Chopped Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Pitta Breads",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Yoghurt",
+      "quantity": "80",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the carrots and courgette into 2cm pieces. Peel and roughly chop the garlic. Finely chop the parsley stalks and set aside the leaves. Drain and slice the roasted peppers."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large pan set over a medium heat. Add the carrot and parsley stalks with a big pinch of salt and fry for 8 mins until tender. Add the garlic and courgette, and cook for another 2 mins until aromatic."
+    },
+    {
+      "heading": null,
+      "description": "Add the cannellini beans and their juices along with the harissa, tinned tomatoes and roasted peppers. Bring to the boil then reduce to a simmer for 10 mins. Stir through the fresh parsley leaves."
+    },
+    {
+      "heading": null,
+      "description": "Heat the pitta following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the beans between bowls and top with a swoosh of yoghurt and a drizzle of olive oil. Finish with any remaining parsley. Serve with the warm pitta."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Batch",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-03T11:19:00+01:00"
+}

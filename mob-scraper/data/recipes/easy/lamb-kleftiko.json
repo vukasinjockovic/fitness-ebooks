@@ -1,0 +1,164 @@
+{
+  "id": "5207347",
+  "slug": "lamb-kleftiko",
+  "title": "Lamb Kleftiko",
+  "url": "https://www.mob.co.uk/recipes/lamb-kleftiko",
+  "summary": "Roasted for over an hour with just a few simple ingredients, this lamb kleftiko recipe is great for sharing with the family. Serve it with crispy roast potatoes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Lamb-Kleftiko.jpg",
+  "cook_time": 90,
+  "prep_time": 10,
+  "total_time": 100,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 698,
+    "protein": 48,
+    "fat": 54,
+    "saturated_fat": 23,
+    "carbohydrates": 3,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 128
+  },
+  "ingredients": [
+    {
+      "label": "2kg Lamb Shoulder",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Lamb Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Lamb Shoulder",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Vine Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Vine Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Dried Bay Leaves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley, to serve",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Roast Potatoes, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Roast Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Roast Potatoes, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle the lamb shoulder in a little olive oil and season with salt and pepper. Add to a tray and slide into the oven for 30 mins until starting to colour."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, dice the vine tomatoes into 1 cm-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Remove the lamb tray from the oven and add the dried bay leaves, dried oregano and diced tomatoes. Add water to cover the bottom of the tray. Cover with foil, return to the oven and cook for 2 hours further."
+    },
+    {
+      "heading": null,
+      "description": "Serve with plenty of the juices, roast potatoes, and some chopped up fresh parsley on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Greek-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2024-03-14T08:00:00+00:00"
+}

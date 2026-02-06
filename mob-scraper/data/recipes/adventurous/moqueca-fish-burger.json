@@ -1,0 +1,330 @@
+{
+  "id": "3466136",
+  "slug": "moqueca-fish-burger",
+  "title": "Moqueca Fish Burger",
+  "url": "https://www.mob.co.uk/recipes/moqueca-fish-burger",
+  "summary": "Moqueca is a traditional Brazilian seafood stew. Ixta Belfrage has taken the flavours of that dish and thrown them into a burger.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9234.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 95,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 19,
+    "fat": 32,
+    "saturated_fat": 12,
+    "carbohydrates": 46,
+    "dietary_fibre": 4,
+    "sugars": 13,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "4 x 100g Skinless Fish Fillets (Such As Hake, Pollock, Gurnard or Cod)",
+      "quantity": "400",
+      "unit": null,
+      "name": "White Fish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Fine Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fine Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Caster Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Burger Buns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes, Halved, To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "400g Tin Full-Fat Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Sweet Cherry Tomatoes, Such As Datterini",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Sweet Cherry Tomatoes, Such As Datterini",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange or Yellow Pepper, Deseeded and Quartered",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Brown Onion, Roughly Chopped",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Small Garlic Cloves, Peeled",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Scotch Bonnet, Deseeded",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sustainable Fair Trade Red Palm Fruit Oil (Or Use Ghee Or Butter + 1 Tsp Smoked Paprika Instead)",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ghee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ¼ Tbsp Honey",
+      "quantity": "1.25",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground Turmeric",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Medium Curry Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Freshly Ground Black Pepper (About 30 Twists)",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ¼ Tsp Fine Salt",
+      "quantity": "1.25",
+      "unit": null,
+      "name": "Fine Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Green Cabbage, Thinly Sliced On A Mandolin",
+      "quantity": "200",
+      "unit": null,
+      "name": "Green Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Green Cabbage, Thinly Sliced On A Mandolin",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Kewpie Mayo",
+      "quantity": "60",
+      "unit": null,
+      "name": "Kewpie Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Lime Juice",
+      "quantity": "40",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Tsp Fine Salt",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Fine Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Spring Onions (Just The Green Ends Thinly Sliced Into Rounds Use The Rest In Another Recipe)",
+      "quantity": "40",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies, Thinly Sliced Into Rounds (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the fish fillets to a 30 x 23cm high sided baking tray and season with ½ tsp of fine salt, ½ tsp sugar and 2 tbsp oil. Mix to coat."
+    },
+    {
+      "heading": null,
+      "description": "Add all the ingredients for the moqueca to a blender and blitz until completely smooth. Add to the tray with the fish and mix to coat. Leave to marinate for 30 mins at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "While the fish is marinating, make the slaw. Mix the cabbage mayo, lime juice and fine salt together and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 240°C fan. Transfer the tray of fish to the oven for 22-24 minutes, or until the fillets are beginning to turn golden-brown on top. The sauce should have thickened and reduced considerably, and should be bubbling vigorously. Set aside to cool for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "While the fish is cooling, spread a little mayo on each cut half of brioche, then toast in a very hot pan until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "When you're ready to serve, stir the spring onions, green chilli and coriander into the slaw."
+    },
+    {
+      "heading": null,
+      "description": "Place a fish fillet on each brioche half and spoon over plenty of sauce. Squeeze over some lime juice, then top with a generous spoonful of slaw and the other half of the bun. Serve with lime wedges and more sauce alongside, for dipping your burger into."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Brazilian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-01T10:42:00+01:00"
+}

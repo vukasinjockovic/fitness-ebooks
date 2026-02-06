@@ -1,0 +1,139 @@
+{
+  "id": "1111780",
+  "slug": "lemon-drizzle-loaf",
+  "title": "Lemon Drizzle Loaf",
+  "url": "https://www.mob.co.uk/recipes/lemon-drizzle-loaf",
+  "summary": "You can’t beat a proper lemon loaf cake. Lemony, light and simple. Let the sugar and lemon icing set into that incredible crunchy topping before you eat it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Lemon-Drizzle-Cake.jpg",
+  "cook_time": 45,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 282,
+    "protein": 4,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 48,
+    "dietary_fibre": 1,
+    "sugars": 29,
+    "sodium": 78
+  },
+  "ingredients": [
+    {
+      "label": "3 Lemons",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Self-Raising Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Natural Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Natural Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Vegetable Oil",
+      "quantity": "75",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 160ºC. Grease a 900g (2lb) loaf tin with oil and line the base with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Finely zest the lemons into a large bowl. Add the flour, sugar, eggs, yoghurt and oil along with a big pinch of salt and whisk to a smooth cake batter."
+    },
+    {
+      "heading": null,
+      "description": "Scrape into the loaf tin and smooth out the top. Bake in the centre of the oven for 35-40 mins until the cake is well risen, deep golden brown and a skewer or a knife inserted into the centre comes out clean."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle time. While the cake is still warm juice 1 lemon into a bowl. Stir in the remaining caster sugar then spoon over the top of the loaf cake. Leave the icing to set whilst the cake completely cools then grab yourself a cuppa and cut a slice."
+    },
+    {
+      "heading": null,
+      "description": "Will keep for up to 5 days in a container out of the fridge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-03T11:12:00+00:00"
+}

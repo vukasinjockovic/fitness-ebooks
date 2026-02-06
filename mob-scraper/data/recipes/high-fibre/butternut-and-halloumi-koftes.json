@@ -1,0 +1,349 @@
+{
+  "id": "2500987",
+  "slug": "butternut-and-halloumi-koftes",
+  "title": "Butternut and Halloumi Koftes",
+  "url": "https://www.mob.co.uk/recipes/butternut-and-halloumi-koftes",
+  "summary": "These veggie koftes are loaded up with all the sweetness of squash and saltiness of halloumi. These wraps are one of the best things to make with a squash.",
+  "image": "https://files.mob-cdn.co.uk/recipes/cms_butternut.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 120,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 27,
+    "fat": 32,
+    "saturated_fat": 15,
+    "carbohydrates": 81,
+    "dietary_fibre": 6,
+    "sugars": 11,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "100g Dried Chickpeas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Dried Chickpea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dried Chickpeas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Halloumi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Fresh Breadcrumbs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Green Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Apple Cider Vinegar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Caster Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Naan",
+      "quantity": "520",
+      "unit": null,
+      "name": "Naan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "The night before you intend to eat, pop your chickpeas in a bowl and cover them with water. Leave to soak for at least 10 hours."
+    },
+    {
+      "heading": null,
+      "description": "Heat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Cut your squash in half lengthways. Roast it in the oven for 45 mins until caramelised and tender."
+    },
+    {
+      "heading": null,
+      "description": "Pickle your chillies. Add your apple cider vinegar, 200ml water, sugar and a pinch of salt to a heatproof jug, then heat in a microwave until steaming."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice your green chillies, then pop them in a bowl. Pour your hot cider vinegar mix over the top, then leave them to pickle."
+    },
+    {
+      "heading": null,
+      "description": "Make your kofte. Roughly chop your chillies and parsley. Grate your halloumi."
+    },
+    {
+      "heading": null,
+      "description": "Add your chickpeas to a food processor and pulse to break up slightly. Add the flesh from your butternut squash, chillies, fresh parsley, breadcrumbs, ground cumin, ground coriander, sumac and ½ tsp of salt. Blitz until it comes together in a paste."
+    },
+    {
+      "heading": null,
+      "description": "Add your halloumi and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Roll your mixture into balls, then pop in the fridge to chill for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Make your chopped salad. Finely dice your red onion. Dice your tomatoes and cucumber."
+    },
+    {
+      "heading": null,
+      "description": "Add your red onion to a bowl along with your lemon juice and a pinch of salt. Scrunch up with your hands to lightly pickle. Add your diced tomato, cucumber, a small handful of chopped parsley and your sumac."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous glug of olive in a large frying pan. Once hot, add your kofte and fry for a few mins on each side until deeply golden and crisp."
+    },
+    {
+      "heading": null,
+      "description": "Add your butter to a heatproof dish and grate in your garlic. Microwave until the butter is just melted."
+    },
+    {
+      "heading": null,
+      "description": "Warm your naan in the oven for a few mins."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Brush your naan with garlic butter, then dollop on a little yoghurt. Sprinkle with your chopped salad, then add a few kofte on top. Scatter with pickled chillies and a pinch of sumac, then serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "Lebanese",
+    "Turkish"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-09-22T15:16:00+01:00"
+}

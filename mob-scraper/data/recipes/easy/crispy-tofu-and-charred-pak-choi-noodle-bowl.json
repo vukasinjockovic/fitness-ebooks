@@ -1,0 +1,291 @@
+{
+  "id": "1017934",
+  "slug": "crispy-tofu-and-charred-pak-choi-noodle-bowl",
+  "title": "Noodle Bowl with Crispy Tofu and Charred Pak Choi",
+  "url": "https://www.mob.co.uk/recipes/crispy-tofu-and-charred-pak-choi-noodle-bowl",
+  "summary": "Doctor Rupy Aujla shows MOB how to make his crispy tofu noodle bowl, slathered with his special sweet-spicy sauce. A comforting bowl sure to cure any cold.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Noodle-Bowl-with-Crispy-Tofu-and-Charred-Pak-Choi.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 20,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 71,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "400g Firm Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Firm Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Baby Pak Choi",
+      "quantity": "320",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carton Of Itsu Miso Mushroom Brilliant'broth",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom Broth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Flat Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Flat Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Flat Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-4 Tbsp Cornflour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Shiitake Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Beansprouts",
+      "quantity": "320",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4cm Ginger",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Puree",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Maple Syrup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start off with boiling the kettle."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tofu into 1cm thick slices, chop the pak choi into halves and cut the limes into wedges. Roughly chop the coriander leaves."
+    },
+    {
+      "heading": null,
+      "description": "Heat your brilliant'broth through in a saucepan on very low heat"
+    },
+    {
+      "heading": null,
+      "description": "Pop your noodles into a heatproof bowl and pour your boiling water over the top until they are just covered. Put a plate on top and leave for 8 minutes to soften, or according to packet instructions. Drain the water away and divide between your serving bowls."
+    },
+    {
+      "heading": null,
+      "description": "Heat up a saucepan over medium heat, then pour in a small glug of vegetable oil. Toss the tofu in the cornflour, then add to the pan and fry on both sides until crispy. Put to one side on kitchen paper to cool and soak up any excess oil."
+    },
+    {
+      "heading": null,
+      "description": "Brush the pak choi and mushrooms with sesame oil, then grill on a hot griddle pan until charred on each side - this should take about 3 minutes per side."
+    },
+    {
+      "heading": null,
+      "description": "Toast your sesame seeds on a dry saucepan until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Make your sweet and spicy sauce for the tofu. Grate the ginger and garlic into a bowl. Add in the tomato puree, maple syrup, chilli pepper, soy sauce and sesame oil, then give it a good mix. Add a splash of hot water to loosen the sauce if needed and coat your tofu."
+    },
+    {
+      "heading": null,
+      "description": "Build your noodle bowls by pouring the hot brilliant’broth over the noodles in four bowls. Stack with pak choi, crispy tofu and beansprouts. Garnish with lime wedges, coriander, and sesame seeds, and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-11-14T09:30:00+00:00"
+}

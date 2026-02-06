@@ -1,0 +1,89 @@
+{
+  "id": "7024671",
+  "slug": "sticky-mango-halloumi",
+  "title": "Sticky Mango Halloumi",
+  "url": "https://www.mob.co.uk/recipes/sticky-mango-halloumi",
+  "summary": "This sticky mango halloumi is perfect for meal prep. Combine it with your choice of carb, veg and topping to create your perfect meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Sticky-mango-halloumi.jpg",
+  "cook_time": 30,
+  "prep_time": 20,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 21,
+    "fat": 27,
+    "saturated_fat": 18,
+    "carbohydrates": 8,
+    "dietary_fibre": 2,
+    "sugars": 5,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "450g Halloumi",
+      "quantity": "450",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Mango Chutney",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Nigella Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nigella Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the halloumi into strips or cubes. Heat a large frying pan over a medium-high then add the halloumi and fry until nicely golden on both sides. Remove the pan from the heat then stir through the mango chutney and nigella seeds, tossing to coat the halloumi in the glaze."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy with your choice of carb, veg and topping. If batch cooking for the week, transfer to the fridge until ready to eat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mediterranean-Inspired",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-12T06:00:00+00:00"
+}

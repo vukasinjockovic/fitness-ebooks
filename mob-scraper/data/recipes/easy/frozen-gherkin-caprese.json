@@ -1,0 +1,165 @@
+{
+  "id": "5821463",
+  "slug": "frozen-gherkin-caprese",
+  "title": "Frozen Gherkin Caprese",
+  "url": "https://www.mob.co.uk/recipes/frozen-gherkin-caprese",
+  "summary": "Don't knock it 'til you've tried it. Stick your gherkins in the freezer and shave them over this lovely, fresh caprese salad. Yes, really.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/849A0599-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 10,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 13,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 477
+  },
+  "ingredients": [
+    {
+      "label": "1kg tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp sherry vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 gherkins",
+      "quantity": "4",
+      "unit": null,
+      "name": "Gherkin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 balls of buffalo mozzarella",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 balls of buffalo mozzarella",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 tbsp olive oil",
+      "quantity": "6",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "The night before making, pop the gherkins onto a tray and freeze overnight."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the tomatoes and pop into a sieve. Season with salt, toss and set over a bowl to catch the juice. Leave for 20 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely slice the shallot and add to a bowl with olive oil, sherry vinegar, salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Serve the tomatoes up on a plate, then tear the mozzarella over the top. Spoon over the shallots and oil, then scatter the basil over the top. Grate over the frozen gherkins and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides",
+    "Starter"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-17T15:17:00+01:00"
+}

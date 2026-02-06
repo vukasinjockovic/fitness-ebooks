@@ -1,0 +1,322 @@
+{
+  "id": "1799818",
+  "slug": "chicken-souvlaki",
+  "title": "Chicken Souvlaki",
+  "url": "https://www.mob.co.uk/recipes/chicken-souvlaki",
+  "summary": "Fire up your grill and make these glorious chicken kebabs. Loaded up with lovely fresh Greek flavours and thrown into flatbreads. A summer banger.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A1578.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 41,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 74,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "800g Chicken Thigh Fillets",
+      "quantity": "800",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Chicken Thigh Fillets",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Mint",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Dried Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Kalamata Olives",
+      "quantity": "30",
+      "unit": null,
+      "name": "Kalamata Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Flatbreads",
+      "quantity": "320",
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak your wooden skewers in a bowl. Set aside until later."
+    },
+    {
+      "heading": null,
+      "description": "Chop your chicken thigh fillets into large chunks."
+    },
+    {
+      "heading": null,
+      "description": "Tip the chicken chunks into a large bowl along with your greek yoghurt, dried oregano, dried mint, chilli flakes and a big pinch of salt. Grate in your garlic and the zest from your lemon. Give it all a good mix and leave to marinate for at least 1 hour, preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "Make your tzatziki. Grate your cucumber and pop it in a sieve set over a bowl. Add the salt and give it a good mix. Leave it to drain for 30 mins - lots of water should come out of it."
+    },
+    {
+      "heading": null,
+      "description": "Whilst your cucumber drains, prep your veg. Quarter, core and dice your tomatoes. Peel and finely dice your red onion. Roughly chop your kalamata olives. Roughly chop your parsley. Place all the veg in a bowl and add your lemon juice and a pinch of salt. Mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Back to your tzatziki. Squeeze your cucumbers to remove any excess liquid, then pop in a clean bowl. Add your chopped mint, yoghurt, and the juice of your lemon. Season to taste with salt, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat your grill to high."
+    },
+    {
+      "heading": null,
+      "description": "Skewer your chicken onto the wooden skewers. Place them on a baking tray under the grill and cook for 15 mins, turning occasionally so they cook evenly."
+    },
+    {
+      "heading": null,
+      "description": "Warm your flatbreads."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Spread some tzatziki on your flatbreads, then push your chicken off the skewers onto the tzatziki. Top with some tomato mixture and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-04-01T09:00:00+01:00"
+}

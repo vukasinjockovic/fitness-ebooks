@@ -1,0 +1,264 @@
+{
+  "id": "5438940",
+  "slug": "saucy-king-prawn-crispy-instant-noodles",
+  "title": "Saucy King Prawn Crispy ‘Instant Noodles’",
+  "url": "https://www.mob.co.uk/recipes/saucy-king-prawn-crispy-instant-noodles",
+  "summary": "A Chinese classic, made at home. Affordable, easy and addictive. Doused in gravy, crunchy on the top, soft on the bottom.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Saucy-King-Prawn-Crispy-%E2%80%98Instant-Noodles%E2%80%99.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 25,
+    "fat": 54,
+    "saturated_fat": 8,
+    "carbohydrates": 82,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 1540
+  },
+  "ingredients": [
+    {
+      "label": "240g Instant Noodles",
+      "quantity": "240",
+      "unit": null,
+      "name": "Instant Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Instant Noodles",
+      "quantity": "240",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g King Prawns or Tofu",
+      "quantity": "150",
+      "unit": null,
+      "name": "King Prawns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g King Prawns or Tofu",
+      "quantity": "150",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Asparagus",
+      "quantity": "5",
+      "unit": null,
+      "name": "Asparagus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Mushrooms (preferably shiitake)",
+      "quantity": "3",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Slices of Carrot",
+      "quantity": "3",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Babycorns",
+      "quantity": "3",
+      "unit": null,
+      "name": "Baby Corn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mangetout",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mangetout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Vegetable or Chicken Stock",
+      "quantity": "200",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Light Soy Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dash White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornstarch",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Cold Water",
+      "quantity": "5",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Oil",
+      "quantity": "6",
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by prepping the vegetables. Slice the asparagus tips into thirds and slice the mushrooms. Slice the carrot into thin strips diagonally, then lay them flat and slice into matchsticks. Slice the babycorn in half lengthways, and slice the mangetout in half."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pot of water to the boil. Once boiling, add the instant noodles and cook following pack instructions. Drain and set aside, allowing the moisture to evaporate."
+    },
+    {
+      "heading": null,
+      "description": "Slice the spring onion into thirds. Slice the thirds lengthways into thin matchsticks. Cut the small bunch of coriander into thirds. Add the spring onion and coriander to a bowl of cold water. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a wok or large frying pan over a medium heat. Add a glug of oil. Add the cooked instant noodles and spread them against the bottom of the pan, forming a round pancake shape. Shake the pan occasionally to ensure the bottom doesn’t burn. After 5 mins, once the bottom of the noodles are nicely browned and crispy, flip the noodles onto a plate, brown-side up."
+    },
+    {
+      "heading": null,
+      "description": "Put the pan back on the stove, still over a medium heat, and add 2 tbsp oil. Add the prawns/tofu, asparagus, mushrooms, babycorn, mangetout and carrots, then stir-fry for around 3 mins. Add the chicken stock, light soy sauce, oyster sauce, sugar and white pepper. Stir to combine and bring to a boil, around 3 mins. Once boiling, mix the cornstarch and cold water to make a slurry. Turn the heat to low and slowly drizzle in the slurry whilst stirring. The sauce should thicken, if too thin add more slurry, if too thick add a splash of water. Add in the sesame oil and cook for 1 minute, then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Add the noodles to a large plate, crispy side up. Pour the sauce on top of the noodles. Drain the water from the spring onion and coriander and add on top. Drizzle with your favourite chilli oil and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-02T12:08:00+01:00"
+}

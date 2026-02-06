@@ -1,0 +1,201 @@
+{
+  "id": "10969",
+  "slug": "mobs-buddha-bowl",
+  "title": "Mob's Buddha Bowl",
+  "url": "https://www.mob.co.uk/recipes/mobs-buddha-bowl",
+  "summary": "We spent a while perfecting our Buddha bowl. It hits the spot. Crispy kale. Crunchy veg. Lovely creamy tahini dressing. Delicious roast sweet potatoes. Go on...",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/Z49A9535-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 18,
+    "fat": 27,
+    "saturated_fat": 4,
+    "carbohydrates": 86,
+    "dietary_fibre": 15,
+    "sugars": 13,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "2 Large Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sachets of Miso Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Cabbage ",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Kale",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pack of Radishes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tahini Paste ",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Quinoa",
+      "quantity": "500",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Peel the sweet potatoes and cut into medium sized chunks. Put onto a roasting tray, drizzle with olive oil and add 1 miso paste sachet. Season with salt and pepper. Toss everything together and roast for 40 minutes until soft."
+    },
+    {
+      "heading": null,
+      "description": "Quinoa time. Get your quinoa on - follow pack instructions. Add 1 sachet of miso paste to the water to amp up the flavour."
+    },
+    {
+      "heading": null,
+      "description": "Veg prep time. Cut the cucumber in half length-ways, scrape out the seeds and slice. Thinly slice the red cabbage. Slice the radishes and avocado, squeeze a little remaining lemon juice over the avocado to stop it going brown."
+    },
+    {
+      "heading": null,
+      "description": "Dressing time. Add your tahini to a bowl with the juice of half a lemon, a grated garlic clove, salt, pepper and olive oil. Add enough water to make a drizzleable dressing - don’t worry the tahini always seizes when you first add the lemon juice, keep adding water until it comes back together. Once thick and creamy, season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Kale time. Add your kale to a roasting tray. Season with salt and pepper. Drizzle over some olive oil. Mix together and roast for 10 mins until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Serving time. Add your quinoa to a large bowl. Then add all your various bits. Top with roasted kale, some coriander leaves and tahini dressing. Tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-01-30T00:00:00+00:00"
+}

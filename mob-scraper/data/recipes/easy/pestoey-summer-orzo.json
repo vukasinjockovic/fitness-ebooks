@@ -1,0 +1,222 @@
+{
+  "id": "12223",
+  "slug": "pestoey-summer-orzo",
+  "title": "Pesto-y Summer Orzo",
+  "url": "https://www.mob.co.uk/recipes/pestoey-summer-orzo",
+  "summary": "Pestoey orzo with lovely salty bursts of flavour from the capers and the olives. Make sure you use Kalamatas! A great summer dish for the MOB.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A5250-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 390,
+    "protein": 12,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 74,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Kalamata Olives",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kalamata Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Heaped Tsp Sundried Tomato Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Heaped Tsp Sundried Tomato Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Plum Tomatoes (1 Tin)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Plum Tomatoes (1 Tin)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Orzo",
+      "quantity": "500",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Orzo",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cube your aubergines and cook in a pan without oil. Once cooked, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get your orzo on."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop up a red onion, a handful of parsley and add 2 teaspoons of capers. Pan fry until the onions are translucent."
+    },
+    {
+      "heading": null,
+      "description": "Add your aubergines and kalamata olives."
+    },
+    {
+      "heading": null,
+      "description": "Pour in 2 tablespoons of red wine vinegar and allow to evaporate."
+    },
+    {
+      "heading": null,
+      "description": "Add 2 heaped teaspoons of sun-dried tomato pesto and a tin of plum tomatoes. Mix well. Season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Mix in the cooked orzo and a handful of chopped parsley leaves. Serve and enjoy MOB!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Family-Friendly",
+    "High Fibre",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-07-27T00:00:00+01:00"
+}

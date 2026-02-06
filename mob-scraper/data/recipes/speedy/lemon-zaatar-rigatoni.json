@@ -1,0 +1,187 @@
+{
+  "id": "3061363",
+  "slug": "lemon-zaatar-rigatoni",
+  "title": "Triple Lemon & Za’atar Rigatoni",
+  "url": "https://www.mob.co.uk/recipes/lemon-zaatar-rigatoni",
+  "summary": "This pasta dish has got a lovely citrus lift. The combination of za'atar and preserved lemons make it incredibly moreish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Triple-Lemon-Za%E2%80%99atar-Rigatoni.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 527,
+    "protein": 18,
+    "fat": 20,
+    "saturated_fat": 12,
+    "carbohydrates": 67,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 377
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Preserved Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Preserved Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rigatoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Crème Fraîche",
+      "quantity": "300",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Dill (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Za’atar, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large pan of salted water to the boil. Peel and finely slice the garlic and finely chop the preserved lemon half, removing any pips."
+    },
+    {
+      "heading": null,
+      "description": "Place a large frying pan over a high heat. Slice a lemon in half, then place it cut side-down into the pan, leave for 2 mins, until blackened, then remove the lemon halves and set aside. Drop the rigatoni into the boiling water and cook according to package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to medium and add 2 tbsp of olive oil. Add the sliced garlic and fennel seeds and sizzle for 2 mins, then add the preserved lemon. Cook for 30 secs or so, then add the crème fraîche and juice of the second lemon. Stir to combine then remove from the heat until the pasta is ready."
+    },
+    {
+      "heading": null,
+      "description": "Use a slotted spoon to transfer the pasta into the lemony sauce. Grate the Parmesan straight into the pan, place over a medium heat and toss to combine, until the sauce is coating the pasta. Spoon into bowls and top with black pepper, za’atar and dill. Cut the charred lemon into wedges to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-05T07:00:00+00:00"
+}

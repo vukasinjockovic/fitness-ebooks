@@ -1,0 +1,132 @@
+{
+  "id": "7063336",
+  "slug": "lunch-side-pesto-green-beans-broccoli",
+  "title": "Pesto Green Beans & Broccoli",
+  "url": "https://www.mob.co.uk/recipes/lunch-side-pesto-green-beans-broccoli",
+  "summary": "These pesto green beans and broc are perfect for meal prep. Combine them with your choice of protein, carb and topping to create your perfect meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Pesto-Green-Beans-Broccoli.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 6,
+    "fat": 21,
+    "saturated_fat": 3,
+    "carbohydrates": 7,
+    "dietary_fibre": 4,
+    "sugars": 2,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "300g Green Beans",
+      "quantity": "300",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Pesto",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parmesan",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Toasted Almonds",
+      "quantity": "75",
+      "unit": null,
+      "name": "Toasted Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a pot of salted water to a rolling boil. Drop in the beans and broccoli for 3-4 mins or until just tender, still with a little bite. Shock in icy cold water and then dry."
+    },
+    {
+      "heading": null,
+      "description": "Add the pesto to a large mixing bowl and grate in the Parmesan. Add the zest and juice of the lemon and a couple of glugs of olive oil. Season with salt and pepper and mix to a loose pesto dressing."
+    },
+    {
+      "heading": null,
+      "description": "Drop the cooked beans and broccoli into the bowl with the dressing. Scatter over the toasted almonds and toss together."
+    },
+    {
+      "heading": null,
+      "description": "If batch cooking for the week, transfer to containers and store in the fridge until ready to eat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-04T00:00:00+01:00"
+}

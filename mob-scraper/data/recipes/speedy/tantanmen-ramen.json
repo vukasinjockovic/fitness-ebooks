@@ -1,0 +1,261 @@
+{
+  "id": "1574523",
+  "slug": "tantanmen-ramen",
+  "title": "Tantanmen Ramen",
+  "url": "https://www.mob.co.uk/recipes/tantanmen-ramen",
+  "summary": "Here's our vegan take on a Japanese interpretation of Dan Dan Noodles. The spicy, creamy, nutty broth is everything.",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_0054-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 18,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 62,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 2202
+  },
+  "ingredients": [
+    {
+      "label": "70g Tahini",
+      "quantity": "70",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Chilli Oil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Light Soy Sauce",
+      "quantity": "40",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Firm Tofu",
+      "quantity": "220",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Firm Tofu",
+      "quantity": "220",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2cm Knob of Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mirin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 L water",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Soy Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Soya Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Heads of Pak Choi",
+      "quantity": "56",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "340g Instant Ramen Noodles",
+      "quantity": "340",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "340g Instant Ramen Noodles",
+      "quantity": "340",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making your tare – this is the flavour bomb that is going to infuse into your broth. In a bowl, combine your tahini, chilli oil, soy sauce and sugar in a bowl. Set aside until later."
+    },
+    {
+      "heading": null,
+      "description": "Heat a little vegetable oil in a frying pan over a high heat. Get your block of tofu and crumble it with your hands over the pan so it becomes like mince. Fry for 3 mins until it's starting to crisp up, then grate in your garlic and ginger. Stir fry for another minute before adding your dark soy sauce, light soy sauce, mirin and chilli oil. Stir to combine, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut your pak choi into quarters lengthways, then slice your spring onions."
+    },
+    {
+      "heading": null,
+      "description": "For the broth, bring the water, soy milk and soy sauce to the boil in a large saucepan. Turn down to a simmer, then whisk in your miso paste. Add your noodles and pak choi, then simmer for 3 mins until tender."
+    },
+    {
+      "heading": null,
+      "description": "Place a quarter of your tare into the base of a bowl and add your broth. Stir to combine with a spoon, then add your noodles to the broth. Top with your pak choi, tofu, spring onions, and an extra drizzle of chilli oil if you like. Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-03-16T11:08:00+00:00"
+}

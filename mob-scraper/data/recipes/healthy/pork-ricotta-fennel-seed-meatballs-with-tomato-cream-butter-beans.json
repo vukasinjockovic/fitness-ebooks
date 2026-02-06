@@ -1,0 +1,266 @@
+{
+  "id": "5499748",
+  "slug": "pork-ricotta-fennel-seed-meatballs-with-tomato-cream-butter-beans",
+  "title": "Pork, Ricotta & Fennel Seed Meatballs with Tomato Cream Butter Beans",
+  "url": "https://www.mob.co.uk/recipes/pork-ricotta-fennel-seed-meatballs-with-tomato-cream-butter-beans",
+  "summary": "Making meatballs is a great way to stretch the quantity of meat you buy, bulking it out with extra ingredients that bring flavour and boost texture.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Family-Pork-Ricotta-Fennel-Seed-Meatballs-with-Tomato-Cream-Butter-Beans.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 100,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 701,
+    "protein": 37,
+    "fat": 44,
+    "saturated_fat": 17,
+    "carbohydrates": 33,
+    "dietary_fibre": 7,
+    "sugars": 4,
+    "sodium": 518
+  },
+  "ingredients": [
+    {
+      "label": "400g Pork Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pork Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Ricotta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Ricotta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Dried White Breadcrumbs",
+      "quantity": "50",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pecorino or Parmesan, plus a bit more to serve",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pecorino Romano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pecorino or Parmesan, plus a bit more to serve",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Ground Fennel",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins Butter Beans",
+      "quantity": "600",
+      "unit": null,
+      "name": "Drained Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins Butter Beans",
+      "quantity": "600",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Double Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Sage Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Chilli Flakes (optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Lightly crush your fennel seeds in a pestle and mortar, if you have one. Leave them whole if not. Now, combine the mince, ricotta, egg, breadcrumbs and fennel in a large bowl. Mix well, then finely grate in the pecorino and season generously with salt and pepper. Vigorously mix for a couple of minutes, until the mixture feels cohesive and a bit sticky."
+    },
+    {
+      "heading": null,
+      "description": "Wet your hands and roll the mixture into balls about the size of ping-pong balls. Put the meatballs onto a plate and chill for 30 minutes to firm-up. If making ahead, cover and leave in the fridge until the next day."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the garlic. Set a large frying pan over a medium heat, add enough oil to lightly coat the base, then fry the meatballs in a single layer in a large frying pan over a medium heat, in batches if needed, for 5-8 mins until nicely browned all over. Transfer to a plate, leaving the fat behind in the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic and sage to the pan, then cook over a medium heat for 30 seconds until aromatic. Add the tomato purée and a big pinch of chilli flakes, then stir in the beans and cream and season well. Heat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Bring the pan to a simmer, then add the browned meatballs back to the pan with an optional splash of water to loosen just a little (no more than 80ml). Bring the pan back up to a simmer, put the lid on and transfer to the oven for 25-30 mins, or until the meatballs are fully cooked through. You can remove the lid and give the pan a flash under a hot grill to colour if you like, but this isn’t a necessity."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and finish with extra grated pecorino, a splash more olive oil and a few extra chilli flakes, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Most Cooked",
+    "Family-Friendly",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Claire Thomson",
+      "uri": "chefs/claire-thomson",
+      "summary": "Claire Thomson (@5oclockapron) is a chef, author of 10 cookbooks and mum of 3 daughters. Claire began cooking professionally before smartphones were invented. Her food is delicious as it is uncomplicated, she is almost always in an apron cooking breakfast, lunch or dinner. In short, there is nothing Claire can’t cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-25T16:00:00+00:00"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "7191445",
+  "slug": "chilli-con-carne-enchiladas",
+  "title": "Chilli Con Carne Enchiladas",
+  "url": "https://www.mob.co.uk/recipes/chilli-con-carne-enchiladas",
+  "summary": "Elevate our Beef Chilli Con Carne batch recipe with these indulgent enchiladas. Stuffed with creamy ricotta and and baked until bubbling and golden. A perfect midweek feast if you ask us.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Chilli-Con-Carne-Enchiladas.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 870,
+    "protein": 44,
+    "fat": 46,
+    "saturated_fat": 23,
+    "carbohydrates": 67,
+    "dietary_fibre": 7,
+    "sugars": 11,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g cheddar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g cheddar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 tortillas",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 red onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 red onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Beef Chilli Con Carne."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, mix the ricotta with half the grated cheddar and a good pinch of salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the red onion and place it into a bowl with the lime juice. Season with salt, toss together and set aside to pickle."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the ricotta mixture evenly down the centre of each tortilla, then roll them up and place seam-side down into a small baking dish."
+    },
+    {
+      "heading": null,
+      "description": "Pour the beef chilli over the top, spreading it to cover the enchiladas. Sprinkle over the remaining cheddar."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 20 mins until the cheese is melted, golden and everything is bubbling."
+    },
+    {
+      "heading": null,
+      "description": "Spoon onto plates and serve with the pickled red onions and a wedge of lime."
+    }
+  ],
+  "tips": [
+    "Swap ricotta for cottage cheese or mascarpone.",
+    "Add jalapeños for extra heat."
+  ],
+  "categories": [
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-08T01:30:00+01:00"
+}

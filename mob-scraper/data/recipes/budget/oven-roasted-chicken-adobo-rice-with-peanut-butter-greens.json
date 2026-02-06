@@ -1,0 +1,268 @@
+{
+  "id": "7495807",
+  "slug": "oven-roasted-chicken-adobo-rice-with-peanut-butter-greens",
+  "title": "Oven‑Roasted Chicken Adobo with Rice & Peanut Butter Greens",
+  "url": "https://www.mob.co.uk/recipes/oven-roasted-chicken-adobo-rice-with-peanut-butter-greens",
+  "summary": "This recipe is inspired by the classic Filipino dish, Chicken Adobo. It balances savoury, tangy, and slightly sweet flavours. Chicken is braised in a bold sauce of vinegar, soy sauce, garlic, bay leaves, and peppercorns. The vinegar takes centre stage, giving the dish its signature tang while cutting through the richness of the meat. The best part? It has 50g of protein.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/8/Oven-Roasted-Chicken-Adobo-with-Peanut-Butter-Greens.jpg",
+  "cook_time": 45,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 54,
+    "fat": 54,
+    "saturated_fat": 11,
+    "carbohydrates": 77,
+    "dietary_fibre": 6,
+    "sugars": 13,
+    "sodium": 2092
+  },
+  "ingredients": [
+    {
+      "label": "4 Bone-in, Skin-on Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Bone-in, Skin-on Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Rice Vinegar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Shoyu Soy Sauce",
+      "quantity": "75",
+      "unit": null,
+      "name": "Shoyu Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2–3 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp veg oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Jasmine Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Jasmine Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Chicken Stock",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tender Green Leaves (Spinach or Chard)",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Creamy Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "SALT",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "bLACK pEPPER",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. \nPat the chicken dry and season with a pinch of salt and pepper. Set a large ovenproof pot over a medium-high heat with the vegetable oil. Once hot, add the chicken skin-side down and cook for 8 mins until golden and crispy. Transfer to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Peel and thinly slice the onion. Smash the garlic cloves. Turn the heat down slightly and chuck both into the same pot. Fry for 3 mins until soft and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the rice vinegar, soy sauce, water and brown sugar. Chuck in the bay leaves and lots of cracked black pepper. Stir well to lift up all the caramelised bits."
+    },
+    {
+      "heading": null,
+      "description": "Nestle the chicken back into the pot, skin-side up. The skin should sit above the liquid so it stays crisp. Transfer to the oven and roast for 25–35 mins until the chicken is fully cooked and golden."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, rinse the rice until the water runs clear. Add to a lidded saucepan with the turmeric and chicken stock. Bring to the boil, cover and simmer for 10 mins. Remove from the heat and let it steam for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "While the rice steams, heat a splash of olive oil in a pan set over a medium heat. Add the greens and cook until wilted. Zest the lime, then juice it. Stir the peanut butter, lime juice and a dash of soy sauce into the greens until glossy. Season to taste and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken is done, transfer it to a plate. If the sauce in the pot looks too thin, place it over a medium heat and bubble for 3–4 mins to thicken slightly."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon the turmeric rice onto plates, top with the crispy adobo chicken, drizzle over that gorgeous sauce, and finish with the peanut butter greens. Top with lime zest or chopped spring onions, if you like. Dig in!"
+    }
+  ],
+  "tips": [
+    "Add chopped spring onions or sesame seeds on top for crunch.",
+    "Add lime zest at the end for a pop of citrusy brightness."
+  ],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Filipino"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-08-08T07:00:00+01:00"
+}

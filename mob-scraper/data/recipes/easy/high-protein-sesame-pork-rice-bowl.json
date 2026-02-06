@@ -1,0 +1,256 @@
+{
+  "id": "6422351",
+  "slug": "high-protein-sesame-pork-rice-bowl",
+  "title": "High-Protein Sesame Pork Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/high-protein-sesame-pork-rice-bowl",
+  "summary": "This is a high-protein pork dish that you can make on a weeknight in only 35 minutes. It's really that easy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/220A6065-1.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 409,
+    "protein": 23,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 51,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1 Pork Tenderloin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pork Tenderloin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pork Tenderloin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chinese 5 Spice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch of Spring Onions",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Ginger",
+      "quantity": "25",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Gochujang",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Limes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Toasted Sesame Seeds",
+      "quantity": "35",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pouches White or Brown Rice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pouches White or Brown Rice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil,",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pat your pork tenderloin dry and season well with salt. Rub with a couple of tbsp of sesame oil and the Chinese five spice. Set aside for 10-15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the whole bunch of spring onions and separate the green ends from the more oniony white bits. Finely chop the ginger and garlic. Use a peeler to shave the cabbage super fine. Toss the cabbage with salt and set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, mix the soy, honey and gochujang with a drop of sesame oil and the juice of 2/3 of your limes."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a large frying pan over a medium heat. Add a shot of oil and lay in the tenderloin. Cook over a medium heat (nothing too crazy hot!) for 12-15 mins or until the pork is caramelised and when squeezed, is firm with a little bounce. Whip it out the pan and rest while you make the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Add the ginger, garlic and spring onion whites to the pan and cook in the residual fat for 1-2 mins. Pour in the soy mixture and bring to a boil. Once boiling, tip in the sesame seeds and remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Heat the rice following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Cut the pork into thick slices and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between warm bowls and add a handful of shredded cabbage, some spring onion greens and a few slices of pork. Spoon the warm sesame sauce over your bowls and finish with a lime wedge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Most Cooked",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-21T15:00:00+00:00"
+}

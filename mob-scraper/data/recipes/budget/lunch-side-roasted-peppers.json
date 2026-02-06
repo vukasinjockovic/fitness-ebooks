@@ -1,0 +1,88 @@
+{
+  "id": "7063299",
+  "slug": "lunch-side-roasted-peppers",
+  "title": "Roasted Peppers",
+  "url": "https://www.mob.co.uk/recipes/lunch-side-roasted-peppers",
+  "summary": "These perfect roasted peppers are ideal for meal prep. Combine them with your choice of protein, carb and topping to create a gorgeous meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Roasted-Peppers.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 54,
+    "protein": 1,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 4,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "6 Romano Peppers",
+      "quantity": "6",
+      "unit": null,
+      "name": "Romano Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Place the whole Romano peppers on a baking tray, drizzle over a good glug of olive oil and roast for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pair your peppers up with the rest of your lunch components."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-31T00:00:00+01:00"
+}

@@ -1,0 +1,310 @@
+{
+  "id": "6504290",
+  "slug": "takeaway-beef-ho-fun",
+  "title": "Takeaway Beef Ho Fun",
+  "url": "https://www.mob.co.uk/recipes/takeaway-beef-ho-fun",
+  "summary": "This recipe has been passed down from my iconic mum’s Chinese takeaway so you know it’s a goodie. Think tender stir-fried beef, soft rice noodles and an addictive garlicky sauce.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Beef-Ho-Fun.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 23,
+    "fat": 21,
+    "saturated_fat": 4,
+    "carbohydrates": 69,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 1762
+  },
+  "ingredients": [
+    {
+      "label": "250g Beef Flank/Skirt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Beef Flank Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Beef Flank/Skirt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Bicarb Soda",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Choy Sum",
+      "quantity": "160",
+      "unit": null,
+      "name": "Choy Sum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Fresh Ho Fun Rice Noodles",
+      "quantity": "600",
+      "unit": null,
+      "name": "Fresh Ho Fun Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Fresh Ho Fun Rice Noodles",
+      "quantity": "600",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Beansprouts",
+      "quantity": "220",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crispy Chilli Oil, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "3 Tbsp Light Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Dark Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chinese Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Oyster Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Shaoxing Wine",
+      "quantity": "3",
+      "unit": null,
+      "name": "Shaoxing Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 Tsp Ground White Pepper",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tsp Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 Tsp Msg",
+      "quantity": ".25",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Shaoxing Wine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shaoxing Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 Tsp Ground White Pepper",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tsp Salt",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cornstarch",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Thinly slice the beef against the grain. Add to a bowl with the bicarbonate soda then cover with cold water and mix to combine. Set aside for 15 mins to tenderise the meat."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the garlic. Wash the spring onions and choy sum. Chop the ends off the spring onions then chop into three chunks, separating the whites to greens. Chop the ends off the choy sum and then chop into three smaller pieces."
+    },
+    {
+      "heading": null,
+      "description": "Place the fresh ho fun noodles on a heatproof plate and heat in a microwave or steamer for a few mins until soft. Remove and gently separate with your hands."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, mix together all the stir-fry sauce ingredients and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Rinse the beef to remove the excess bicarbonate soda. Combine the beef marinade ingredients in a separate bowl. Add the beef, massage the marinade into the meat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous glug of vegetable oil in a wok set over a medium-high heat. Add the marinated beef and fry for 1-2 mins until mostly cooked then remove and set aside. Add the garlic and the spring onion whites to the same wok and stir fry for 1-2 mins until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the cooked ho fun noodles and choy sum to the wok then immediately add the prepared sauce, pouring from the edge of the wok. Mix well until evenly coated. Add the beef and mix again."
+    },
+    {
+      "heading": null,
+      "description": "Add the beansprouts and the spring onion greens and stir-fry for 30 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Serve with crispy chilli oil and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Cantonese"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-27T06:00:00+01:00"
+}

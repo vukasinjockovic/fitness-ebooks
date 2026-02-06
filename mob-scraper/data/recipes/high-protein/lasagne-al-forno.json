@@ -1,0 +1,353 @@
+{
+  "id": "5512483",
+  "slug": "lasagne-al-forno",
+  "title": "Lasagne al Forno Recipe",
+  "url": "https://www.mob.co.uk/recipes/lasagne-al-forno",
+  "summary": "This is my ‘north star’ lasagne: 7-8 layers of pasta, a rich and very meaty ragù, and a comforting blanket of white sauce. We've made our own lasagne sheets, but feel free to go with dried ones if you want to save time. This lasagne al forno is perfect for family gatherings or cozy dinners, providing a heartwarming meal that’s sure to please everyone. The combination of flavors in the ragù, simmered to perfection with tomatoes, garlic, and aromatic herbs, creates a deep richness that seeps into each layer. The creamy white sauce adds a luscious texture, making every bite a delight. For an extra twist, consider adding a sprinkle of nutmeg to the white sauce or mixing in some spinach for a pop of color and nutrition. Whether you serve it with a simple green salad or garlic bread, this lasagne al forno will surely be a standout dish at your table.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Lasagne-al-Forno.jpg",
+  "cook_time": 135,
+  "prep_time": null,
+  "total_time": 135,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 573,
+    "protein": 31,
+    "fat": 32,
+    "saturated_fat": 14,
+    "carbohydrates": 39,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "4 tbsp olive oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 sticks celery,",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 medium onion,",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 medium-large carrots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 cloves garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 cloves garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g smoked lardons",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon Lardons",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g smoked lardons",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g minced beef",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g minced beef",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g minced pork",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g minced pork",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g tins finely chopped tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml whole milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 bay leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp dried oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp caster sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp balsamic vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "400g typo 00 flour",
+      "quantity": "400",
+      "unit": null,
+      "name": "“00” Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 large eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Eggs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g plain flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 litre whole milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 tsp nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp white pepper",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Parmesan",
+      "quantity": "70",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First make the ragù (on the day is fine, but a day in advance is better). Put half of the olive oil in a casserole dish or a large oven-proof dish set over a medium heat. Finely dice the garlic, celery, onion, and carrots. Add the garlic, celery, onion and carrots and a large pinch of salt, stir and sauté for 10-12 minutes until softened but not coloured, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "In a separate large frying pan or wok set over a high heat, first fry the lardons in the remaining oil until bronzed (6-8 minutes). Transfer to a plate, leaving the oils in the pan. Add the beef mince and fry, stirring only occasionally to try and brown the meat a little. After 6 or 7 minutes, transfer to a plate, and then fry and brown the pork mince for 6-7 minutes. Transfer all the meats and their juices to the dish holding the now-softened vegetables."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven on to 150C fan."
+    },
+    {
+      "heading": null,
+      "description": "Increase the temperature underneath the casserole dish a little, then pour in the tinned tomatoes. Fill half of one can with water and wash out both cans into the pot. Add the milk, oregano, sugar, vinegar, and season with salt and black pepper. Bring to a simmer, place a lid on top and cook in the oven for 90 minutes until intense."
+    },
+    {
+      "heading": null,
+      "description": "On a clean surface, create a mound of flour, and then make a crater in the middle of it. Break the eggs into the crater, then use a fork to pop the yolks and beat the eggs, gradually drawing flour into the liquid. After a while, use the fork or a bench scraper to turn and chop the flour and eggs into a scraggy mix. Then use your hands to bring the mixture into a ball of dough. Knead, using the bottom of your palms to stretch and push the dough, eventually into a smooth, silky but elastic ball. It’ll take 8-10 minutes, but it’s therapeutic. Put in a sealable bag and leave to rest for 90 minutes or more (overnight in the fridge is fine)."
+    },
+    {
+      "heading": null,
+      "description": "When ready to roll, cut the dough in half, flatten it a little with your palms, then run through a pasta machine, beginning with the widest setting, ending with the pasta around 1mm thick (probably 2-3 settings from the thinnest). Dust with semolina to avoid it sticking and cut to lengths 2-3mm shorter than your lasagne dish (it will swell when blanched)."
+    },
+    {
+      "heading": null,
+      "description": "When ready to assemble, par-boil the pasta sheets. Do this in 2-3 batches (to save space and stress), the second two while you are building the lasagne. Bring a large pot of salted water to a boil and spread 2-3 tea towels over your kitchen surface. Cook ⅓ of the pasta sheets for 1 minute, until they rise to the top of the water. Pick them out with tongs or a slotted spoon and lay them over the tea towels. Repeat as required."
+    },
+    {
+      "heading": null,
+      "description": "Make the white sauce. Do this by melting the butter in a medium-sized saucepan set over a moderate heat. Add the flour and stir with a spatula until the combination (a ‘roux’) is slack, light golden in colour and smells only slightly nutty (30-60 seconds). Add a splash of milk (about 60ml), and stir into the roux, again using the spatula, until the liquid is completely incorporated. Repeat 3 or 4 times, then begin to increase the amount of milk you’re adding, and use a whisk instead of a spatula, each time ensuring there are no lumps before adding more milk."
+    },
+    {
+      "heading": null,
+      "description": "Once all the milk is in, add the grated nutmeg, white pepper, and half the Parmesan, and gently cook over a low heat for 10 minutes, stirring frequently, until the sauce thickens and generously coats the back of a spoon."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200C fan."
+    },
+    {
+      "heading": null,
+      "description": "Spoon a small ladle-worth of ragù over the base of your 1 x 2.5 litre oven-proof dish. Lay pasta sheets over the top, trimming to fit as necessary. Then add layers of ragù, dotted with white sauce, and pasta, until the dish is full, leaving enough white sauce to cover the top at the end. Quantity-wise you should have enough to create 6-7 layers of ragù, and 7-8 layers of pasta, depending on the dimensions of your dish, so judge the sauce quantities accordingly."
+    },
+    {
+      "heading": null,
+      "description": "Cover the lasagne with Parmesan and bake for 35-40 minutes, until fully bronzed and bubbling. Leave to rest for 15 minutes, then serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ed Smith",
+      "uri": "chefs/ed-smith",
+      "summary": "Ed Smith is an award-winning food and recipe writer. After leaving a career as a lawyer for a life in food, he trained as a chef, worked briefly in restaurants and pop-ups, and now cooks, consults and writes. He’s the author of 4 cookbooks (Good Eggs; Crave; On the Side; and The Borough Market Cookbook), and the co-author of 1 book about food for kids (Welcome to Our Table). Ed regularly contributes recipes to all the major UK food magazines, websites and broadsheet supplements, and is the curator of the Rocket & Squash newsletter and social accounts (@rocketandsquash).\n\nPhotographer: Sam A Harris."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-16T06:00:00+01:00"
+}

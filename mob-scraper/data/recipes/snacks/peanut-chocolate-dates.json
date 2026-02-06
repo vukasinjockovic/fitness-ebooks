@@ -1,0 +1,119 @@
+{
+  "id": "7068406",
+  "slug": "peanut-chocolate-dates",
+  "title": "Peanut Chocolate Dates",
+  "url": "https://www.mob.co.uk/recipes/peanut-chocolate-dates",
+  "summary": "These sweet and fudgy dates are the ultimate health snack. Store them in the fridge and thank yourself later.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Peanut-Chocolate-Dates.jpg",
+  "cook_time": 0,
+  "prep_time": 80,
+  "total_time": 80,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 5,
+    "saturated_fat": 3,
+    "carbohydrates": 18,
+    "dietary_fibre": 2,
+    "sugars": 15,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "20 Pitted Medjool Dates",
+      "quantity": "20",
+      "unit": null,
+      "name": "Pitted Medjool Dates",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Peanut Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dark Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dark Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Coconut Oil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Using a knife, cut down one side of the date and open it up slightly."
+    },
+    {
+      "heading": null,
+      "description": "Fill the cavity with ½ a teaspoon of peanut butter and close the date around the peanut butter. Repeat with the remaining dates."
+    },
+    {
+      "heading": null,
+      "description": "Place the dates in the freezer for at least 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Melt the dark chocolate and coconut oil together in the microwave in 30-second bursts, stirring between each go until smooth and spread over the top."
+    },
+    {
+      "heading": null,
+      "description": "Dip each date third into the melted chocolate and place on a tray lined with greaseproof paper and sprinkle with sea salt."
+    },
+    {
+      "heading": null,
+      "description": "Chill in the freezer for at least another hour. You can store in the freezer or fridge depending on your preference."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-14T10:49:00+00:00"
+}

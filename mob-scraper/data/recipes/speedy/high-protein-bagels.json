@@ -1,0 +1,166 @@
+{
+  "id": "7047736",
+  "slug": "high-protein-bagels",
+  "title": "High-Protein Bagels",
+  "url": "https://www.mob.co.uk/recipes/high-protein-bagels",
+  "summary": "These easy high-protein bagels use just five ingredients (plus salt) and require no yeast or proving. Perfect for a quick and healthy breakfast or snack. Make a big batch, slice ‘em up and whack ‘em in the freezer until you're ready to eat. Make sure you use 0% yoghurt as these won't work with any other types of yoghurt!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/High-Protein-Bagel.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 153,
+    "protein": 9,
+    "fat": 1,
+    "saturated_fat": null,
+    "carbohydrates": 27,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 154
+  },
+  "ingredients": [
+    {
+      "label": "200g White Bread Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Wholemeal Bread Flour",
+      "quantity": "40",
+      "unit": null,
+      "name": "Strong Wholemeal Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g 0% Greek Yoghurt",
+      "quantity": "375",
+      "unit": null,
+      "name": "0% Fat Greek Yoghurt⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g 0% Greek Yoghurt",
+      "quantity": "375",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Poppy seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Poppy Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Everything Bagel Seasoning",
+      "quantity": null,
+      "unit": null,
+      "name": "Everything Bagel Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 170°C fan. Add the white bread flour, wholemeal bread flour, Greek yoghurt, baking powder and salt to a large bowl. Mix with a spoon until it forms a dough, then transfer to a lightly floured surface and knead for a minute until it comes together. (Or, if using a stand mixer, add all of the ingredients to the bowl and mix with a dough hook for a minute.)"
+    },
+    {
+      "heading": null,
+      "description": "Crack the egg into a bowl and whisk well. Fill a small bowl with warm water."
+    },
+    {
+      "heading": null,
+      "description": "Cut the dough into equal pieces (if you're making the recipe to serve 6, cut it into 6 pieces, etc.). Flour the surface again, then roll each piece into a sausage. Feel free to sprinkle over a little extra flour if the dough gets too sticky. \nDab the ends with warm water and press them together to form a ring. Repeat with the remaining dough."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle your chosen seasoning onto a plate. Brush each bagel with the beaten egg, then press the egg-washed side into the seasoning. Place onto a lined baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 20-25 mins until golden and firm. Allow to cool, then slice in half before freezing."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Batch",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Brunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-18T15:14:00+00:00"
+}

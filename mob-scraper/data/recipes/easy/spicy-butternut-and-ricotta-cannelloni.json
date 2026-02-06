@@ -1,0 +1,290 @@
+{
+  "id": "4915016",
+  "slug": "spicy-butternut-and-ricotta-cannelloni",
+  "title": "Spicy Butternut and Ricotta Cannelloni",
+  "url": "https://www.mob.co.uk/recipes/spicy-butternut-and-ricotta-cannelloni",
+  "summary": "The days may be getting longer and lighter, but I still like to finish the day with something warm and filling. Enter my roasted squash cannelloni, loaded up with not one, but two delicious sauces – one cheesy and creamy, the other rich and tomatoey. Sophie x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Spicy-Butternut-and-Ricotta-Cannelloni.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 495,
+    "protein": 22,
+    "fat": 27,
+    "saturated_fat": 15,
+    "carbohydrates": 39,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "800g Butternut Squash",
+      "quantity": "800",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bulb of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Parmesan",
+      "quantity": "70",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Butter",
+      "quantity": "35",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Plain Flour",
+      "quantity": "35",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Nutmeg",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Basil (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Fresh Lasagne Sheets",
+      "quantity": "8",
+      "unit": null,
+      "name": "Fresh Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Fresh Lasagne Sheets",
+      "quantity": "8",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Halve your butternut squash and scoop out the seeds. Wrap your garlic bulb in foil."
+    },
+    {
+      "heading": null,
+      "description": "Pop your squash, garlic and half of your chillies on a roasting tray, then drizzle your squash with olive oil and a pinch of salt. Roast for 45 mins."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop your remaining chilli and garlic cloves."
+    },
+    {
+      "heading": null,
+      "description": "Heat a saucepan over a low heat with a splash of olive oil. Add your chilli and garlic, then simmer for 2 mins until fragrant. Tip in your tinned tomatoes and simmer gently for 30 mins. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Melt your butter in a sauté pan over a medium heat. Add your flour and cook out for 2 mins. Gradually pour in your milk in small increments, stirring all the while until you have a smooth paste before adding more. Bring the mixture to a simmer for 2 mins to thicken, then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Add half of your Parmesan into the pan, and tear in your mozzarella. Stir until just melted, then season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Back to your squash. Once the squash is cool enough to handle, scoop the flesh out of the skins. Squeeze the caramelised pulp from your garlic by pushing down on it with a knife."
+    },
+    {
+      "heading": null,
+      "description": "Add your squash, chilli (seeds removed) and garlic to your food processor and pulse to a rough paste."
+    },
+    {
+      "heading": null,
+      "description": "Spoon your squash paste into a bowl. Tear in your basil leaves, then add your ricotta, nearly all of your Parmesan, nutmeg, and a good pinch of salt and pepper. Mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Arrange your filling down the width of one of your lasagne sheets, about 4cm from the edge. Roll it up into a cigar shape, then repeat with your remaining lasagne and filling."
+    },
+    {
+      "heading": null,
+      "description": "Arrange your cannelloni in a row in a baking dish, then top with your tomato sauce. Pour over your béchamel, then sprinkle with your remaining Parmesan and bake for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-01-08T16:07:00+00:00"
+}

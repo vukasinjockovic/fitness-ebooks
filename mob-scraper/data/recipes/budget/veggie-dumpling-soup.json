@@ -1,0 +1,247 @@
+{
+  "id": "5026559",
+  "slug": "veggie-dumpling-soup",
+  "title": "Veggie Dumpling Soup",
+  "url": "https://www.mob.co.uk/recipes/veggie-dumpling-soup",
+  "summary": "Rich mushroom broth with soft veg and pillowy porcini and dill dumplings. Think of matzo ball soup, but veggie.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Veggie-Matzo-Ball-Soup.jpg",
+  "cook_time": 45,
+  "prep_time": 30,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 323,
+    "protein": 6,
+    "fat": 16,
+    "saturated_fat": 7,
+    "carbohydrates": 34,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "30g Porchini Mushrooms",
+      "quantity": "30",
+      "unit": null,
+      "name": "Porcini Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Porchini Mushrooms",
+      "quantity": "30",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Self-Raising Flour",
+      "quantity": "150",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Tsp Table Salt",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 teaspoon mustard powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Carrots",
+      "quantity": "5",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 celery stalks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Mushroom Stock",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mushroom Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Vegetable Suet",
+      "quantity": "80",
+      "unit": null,
+      "name": "Vegetable Suet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour in ⅗ of the water over the porcini mushrooms and soak for 30 mins. Once soft, remove the mushrooms from the liquid and squeeze out as much moisture as possible before roughly chopping. Reserve the soaking liquid to use later."
+    },
+    {
+      "heading": null,
+      "description": "Combine the flour, table salt, mustard powder, porcini mushrooms, most of the dill, suet and a pinch of pepper in a large bowl, then gradually add the rest of the water, mixing with your hands to combine. You are looking for a very soft dough that isn't sticky. If it’s tacky, add a little more flour. Stop mixing once you’ve achieved the perfect texture, otherwise your dumplings will be chewy. Roll into 16 small balls and pop onto a baking tray, then cover with cling film and set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Peel and cut the carrots on the bias into 2cm pieces, then cut the celery in the same way. Finely slice the onion and garlic. Melt the butter and a splash of oil in a medium sized pot set over a low-medium heat and fry the onion, garlic, carrot and celery for 10-15 mins. Add the mushroom stock, porcini soaking liquid and bay leaf, then bring to a simmer and cook for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pick the parsley leaves. Get the dumplings out of the fridge and carefully drop them into the soup so they are just balancing on top of the vegetables, ¼ submerged in the stock - if they sink down too much they will disintegrate. At this point, if you feel like the dumplings will sink, transfer everything to a smaller pot so they can balance nicely. Cover with a lid and cook for a further 10-15 mins – the vegetables will be very soft. Ladle the soup into bowls and top with the parsley and remaining dill."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Jewish"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-20T06:00:00+00:00"
+}

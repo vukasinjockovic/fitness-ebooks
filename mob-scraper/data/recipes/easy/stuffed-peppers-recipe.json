@@ -1,0 +1,291 @@
+{
+  "id": "5768699",
+  "slug": "stuffed-peppers-recipe",
+  "title": "Greek Stuffed Peppers",
+  "url": "https://www.mob.co.uk/recipes/stuffed-peppers-recipe",
+  "summary": "Gorgeous charred pepper stuffed with courgettes and potatoes. This gemista recipe is so, so, so good.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Greek-Stuffed-Peppers-Recipe.jpg",
+  "cook_time": 45,
+  "prep_time": 20,
+  "total_time": 100,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 287,
+    "protein": 6,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 48,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 384
+  },
+  "ingredients": [
+    {
+      "label": "1 Medium Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Short-Grain Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Short Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Short-Grain Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Hot Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Hot Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Stock Cubes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pine Nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint (5g)",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Large Baking Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Large Baking Potatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Parsley (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Finely chop the onion and mince the garlic (use a small food processor for this, if you like), then transfer to a bowl. Grate the courgette and add to the onion and garlic with plenty of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Sauté the courgette mixture with ½ of the tomato purée and a good drizzle of olive oil for 8-10 mins over a medium-high heat, until the garlic is fragrant and the courgette is starting to caramelise."
+    },
+    {
+      "heading": null,
+      "description": "Add the rice to the pan and cook for 2-3 mins. This will help seal the rice so that it doesn’t go too mushy in the oven. Add the chopped tomatoes, water and ½ of the stock cubes, then simmer over a low-medium heat for 10 mins, stirring occasionally. Add the pine nuts and oregano, then tear in the mint, if using. Season well with salt and pepper and continue to simmer."
+    },
+    {
+      "heading": null,
+      "description": "Slice the bottoms (keep them for later) off the tomatoes – not the stem side – and scoop out the insides with a small spoon. Chop the insides finely and add them to the simmering rice."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tops off of the peppers (keep them for later) and trim down the stems if they are very long. Remove the insides and discard. Peel and chop the potatoes into large wedges."
+    },
+    {
+      "heading": null,
+      "description": "Add the potato, tomatoes and peppers to a small baking dish where they will fit together very snuggly. Packing them fairly tightly will stop them from collapsing and falling over in the oven."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the parsley and stir it through the rice. Spoon the rice into the peppers and tomatoes, overfilling them so the rice almost spills out of the top if you have enough to do that. Pop the lids of all the veggies back on."
+    },
+    {
+      "heading": null,
+      "description": "Add hot water to a small bowl with the remaining stock cube and remaining tomato purée, plus plenty of salt and pepper. Carefully pour this over the peppers, tomatoes and potatoes. Drizzle olive oil over the whole dish and then cover tightly with foil."
+    },
+    {
+      "heading": null,
+      "description": "Cook in the oven for 1 hr, then remove the foil and cook for another 20 mins until the tops are nicely charred and the water has turned into a sauce. Let the dish cool for 10 mins before serving. This dish is even better the next day."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-09-06T16:30:00+01:00"
+}

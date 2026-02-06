@@ -1,0 +1,171 @@
+{
+  "id": "4768320",
+  "slug": "squash-gorgonzolla-quesadilla",
+  "title": "Squash & Gorgonzola Quesadilla",
+  "url": "https://www.mob.co.uk/recipes/squash-gorgonzolla-quesadilla",
+  "summary": "A seasonal quesadilla for all the blue cheese lovers out there. It's rich, it's tangy, and it's so, so good.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Squash-Gorgonzola-Quesadilla.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 430,
+    "protein": 20,
+    "fat": 22,
+    "saturated_fat": 12,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 7,
+    "sodium": 770
+  },
+  "ingredients": [
+    {
+      "label": "½ Butternut Squash",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Sage Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tortilla Wraps",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250 Grated Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250 Grated Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Blue Cheese",
+      "quantity": "100",
+      "unit": null,
+      "name": "Blue Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Blue Cheese",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Jam, plus extra to serve",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Jam",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and dice squash, finely chop the onion and finely slice the garlic, red chilli and sage."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a frying pan over a medium-high heat. Add a goog lug of olive oil and tip in the squash. Season with salt and cook, tossing regularly, for 12-13 mins, until the squash is starting to soften and pick up lots of colour."
+    },
+    {
+      "heading": null,
+      "description": "At this point, add the onion and cook for another 5 mins. Now add the garlic, chilli and sage and cook for a final 2-3 mins to take the raw edge off of the garlic. Tip the mixture into a bowl, season with salt and pepper and allow to cool a little."
+    },
+    {
+      "heading": null,
+      "description": "Grab your wraps and lay them out ready to fill. Top each wrap with a handful of grated mozz, a good spoonful of the squash mixture and dot over a little blue cheese. Add a little chilli jam (not too much!) and fold them over to close."
+    },
+    {
+      "heading": null,
+      "description": "Toast each quesadilla in a dry pan over a medium heat until the exterior is golden brown and the interior is gooey and melted."
+    },
+    {
+      "heading": null,
+      "description": "Serve with extra chilli jam for dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-22T16:51:00+00:00"
+}

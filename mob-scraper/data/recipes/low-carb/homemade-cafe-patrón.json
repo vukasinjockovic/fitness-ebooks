@@ -1,0 +1,122 @@
+{
+  "id": "3576592",
+  "slug": "homemade-cafe-patrón",
+  "title": "Homemade Cafe Patrón",
+  "url": "https://www.mob.co.uk/recipes/homemade-cafe-patrón",
+  "summary": "We've come through for all your coffee Tequilla needs.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A5017.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 1440,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 1680,
+    "protein": 0,
+    "fat": null,
+    "saturated_fat": null,
+    "carbohydrates": 200,
+    "dietary_fibre": null,
+    "sugars": 200,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "1 Vanilla Pod",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Tequila",
+      "quantity": "700",
+      "unit": null,
+      "name": "Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Freshly Ground Coffee",
+      "quantity": "150",
+      "unit": null,
+      "name": "Freshly Ground Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut open your vanilla pod and place it in the bottle of tequila. Leave that overnight in a safe space."
+    },
+    {
+      "heading": null,
+      "description": "Add the freshly ground coffee to the bottle and put in the freezer for 5/6 hours to allow it to cold brew."
+    },
+    {
+      "heading": null,
+      "description": "Take out and strain through a coffee filter into a large jug."
+    },
+    {
+      "heading": null,
+      "description": "Now add your water and sugar to a pan and bring it to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "When the sugar mixture has dissolved, add the sieved coffee tequila to the bottle along with the sugar syrup and give it a good shake."
+    },
+    {
+      "heading": null,
+      "description": "Serve up a big old shot and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-15T15:35:00+01:00"
+}

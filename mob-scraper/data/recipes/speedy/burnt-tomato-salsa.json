@@ -1,0 +1,139 @@
+{
+  "id": "2181702",
+  "slug": "burnt-tomato-salsa",
+  "title": "Burnt Tomato Salsa",
+  "url": "https://www.mob.co.uk/recipes/burnt-tomato-salsa",
+  "summary": "A fresh and vibrant salsa that's perfect for the summer. It'll give you a bit of an arm workout but it's so, so worth it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/IMG_6227-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 69,
+    "protein": 1,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 7,
+    "dietary_fibre": 2,
+    "sugars": 5,
+    "sodium": 246
+  },
+  "ingredients": [
+    {
+      "label": "500g Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove Of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your grill to the highest setting."
+    },
+    {
+      "heading": null,
+      "description": "Cover all your veg in olive oil on a baking tray before popping them under the grill for 15-20 mins until very charred (every grill is different, so keep an eye on them every couple of minutes). Another option is to char them using a blowtorch or the flame of the hob instead, but make sure to be very careful if doing so."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the charred veg and place the garlic, red chillies, 1 tsp flaky sea salt into a mortar and pestle. Bash them together to form a fine paste. After you've made this chilli and garlic paste, add in the peppers and tomatoes and continue bashing until you form a chunky salsa. This could take up to 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Serve with some tortilla chips and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-06-20T14:40:00+01:00"
+}

@@ -1,0 +1,186 @@
+{
+  "id": "5984043",
+  "slug": "herby-omelette-tomato-sandwich",
+  "title": "Herby Omelette Tomato Sandwich",
+  "url": "https://www.mob.co.uk/recipes/herby-omelette-tomato-sandwich",
+  "summary": "This is the perfect breakfast or lunch recipe that will set you up for a great day ahead. Give it a go.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/tomatoomlette.png",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 790,
+    "protein": 33,
+    "fat": 46,
+    "saturated_fat": 12,
+    "carbohydrates": 62,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 900
+  },
+  "ingredients": [
+    {
+      "label": "1 Small Baguette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Demi-Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Garlic Clove",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Garlic Clove",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Finely Chopped Chives",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Finely Chopped Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Manchego",
+      "quantity": "25",
+      "unit": null,
+      "name": "Manchego",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mayo",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by halving the baguette lengthways, drizzling with olive oil and toasting it cut-side down in a non-stick frying pan over a medium heat until golden."
+    },
+    {
+      "heading": null,
+      "description": "Lightly rub the peeled garlic across the toasted surfaces of both sides of the baguette. Half the tomato and rub that over both toasted sides, too. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the finely chopped herbs to a bowl with the eggs and a pinch of salt. Whisk well."
+    },
+    {
+      "heading": null,
+      "description": "Return the pan to a medium heat, add a generous drizzle of olive oil and pour in the eggs. Stir vigorously as they cook. After about 1 min, when they are beginning to set but are still loose and custardy, stop stirring."
+    },
+    {
+      "heading": null,
+      "description": "Grate the cheese over the eggs, then tilt the pan and roll up the omelette from one side."
+    },
+    {
+      "heading": null,
+      "description": "Pop it into the baguette and add the mayo, if you like. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-12T10:06:00+01:00"
+}

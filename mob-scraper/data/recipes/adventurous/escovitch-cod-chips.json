@@ -1,0 +1,291 @@
+{
+  "id": "4481206",
+  "slug": "escovitch-cod-chips",
+  "title": "Escovitch Cod & Chips",
+  "url": "https://www.mob.co.uk/recipes/escovitch-cod-chips",
+  "summary": "Experience island vibes with Twerk'N'Jerk's Jamaican-inspired fish and chips. Crispy fish fillets, seasoned fries, and zesty Caribbean flavours in every bite.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Escovitch-Cod-Chips.jpg",
+  "cook_time": 20,
+  "prep_time": 25,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 18,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 87,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 429
+  },
+  "ingredients": [
+    {
+      "label": "55g All-Purpose Flour",
+      "quantity": "55",
+      "unit": null,
+      "name": "All Purpose Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "55g Cornflour",
+      "quantity": "55",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp All Purpose Seasoning",
+      "quantity": "1",
+      "unit": null,
+      "name": "All Purpose Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Thick Skinless Cod Fillets",
+      "quantity": "240",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80ml Red Stripe Beer",
+      "quantity": "80",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80ml Sparkling Water",
+      "quantity": "80",
+      "unit": null,
+      "name": "Sparkling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Scotch Bonnet Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Pimento Seed (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pimento Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml White Vinegar",
+      "quantity": "150",
+      "unit": null,
+      "name": "White Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Maris Piper Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Maris Piper Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Litre of Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt, To Taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tartar Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tartar Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Parsley, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Set aside 2 tbsp of flour. In a large, roomy bowl, mix the remaining flour with the cornstarch and baking powder. Season lightly with a tiny pinch of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Using a fork to whisk continuously, add the beer and the sparkling water to the flour mixture and continue mixing until you have a thick, smooth batter. Place the batter in the fridge to rest for 30 mins to 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "To make the escovitch topping place water, white vinegar and pimento seed in a saucepan and heat until boiling. Meanwhile slice you onion, carrot and ½ scotch bonnet pepper (without seeds). Once water and vinegar is boiling add sliced ingredients and boil for a further 2 mins. Remove from heat and leave to rest."
+    },
+    {
+      "heading": null,
+      "description": "Then cut the potatoes into a little less than ½-inch-thick slices, then slice these into ½-inch-wide chips. Place the chips into a colander and rinse under cold running water."
+    },
+    {
+      "heading": null,
+      "description": "Place the washed chips into a pan of cold water. Bring to a gentle boil and simmer for 3 to 4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Drain carefully through a colander, then dry with paper towels. Keep in the fridge covered with paper towels until needed."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, lay the fish fillets on a paper towel and pat dry. Season lightly with a little sea salt."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oil to 180°C in a deep-fat fryer or large, deep saucepan. Cook the chips a few handfuls at a time in the oil for about 2 mins. Do not brown them. Once the chips are slightly cooked, remove them from the oil and drain. Keep to one side."
+    },
+    {
+      "heading": null,
+      "description": "Place the 2 tbsp of flour reserved from the batter mix into a shallow bowl. Toss each fish fillet in the flour and shake off any excess."
+    },
+    {
+      "heading": null,
+      "description": "Dip into the batter, coating the entire fillet."
+    },
+    {
+      "heading": null,
+      "description": "Check that the oil temperature is still 180°C. Carefully lower each fillet into the hot oil. Fry for approximately 8 mins, or until the batter is crisp and golden, turning the fillets from time to time with a large slotted spoon."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop up your fresh parsley and set it aside."
+    },
+    {
+      "heading": null,
+      "description": "Once cooked, remove the fillets from the hot oil and drain on paper towels. Sprinkle with salt. Cover with parchment paper and keep hot."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oil to 200°C, then cook the chips until golden and crisp, or about 5 minutes. Remove from the oil and drain. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Serve immediately with the hot fish. Add tartar sauce and escovitch topping to fish and garnish with chopped parsley."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Tyron Salih",
+      "uri": "chefs/tyron-salih",
+      "summary": "Tyron is the visionary chef behind Twerk'N'Jerk. With an unwavering passion for flavours that know no bounds, Tyron brings a distinctive blend of Turkish and Jamaican culinary heritage to the forefront of the dining scene. His journey began with a vision to marry traditional family recipes with global classics, resulting in the tantalising fusion of tastes that define Twerk'N'Jerk's signature dishes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-11T10:43:00+01:00"
+}

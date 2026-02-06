@@ -1,0 +1,221 @@
+{
+  "id": "4707144",
+  "slug": "aubergine-milanese",
+  "title": "Smoked Aubergine Milanese",
+  "url": "https://www.mob.co.uk/recipes/aubergine-milanese",
+  "summary": "Crunchy, creamy, smoky aubergine nugget with tomato sauce – an amazing vegetarian take on a milanese (or katsu) to enjoy over steaming hot rice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Aubergine-Milanese.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 232,
+    "protein": 6,
+    "fat": 9,
+    "saturated_fat": 2,
+    "carbohydrates": 30,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 97
+  },
+  "ingredients": [
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Apple Cider Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Panko Breadcrumbs",
+      "quantity": "80",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Oil, For Frying",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "400g Tin of Peeled Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Peeled Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of MSG (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Char the aubergines on a gas hob or under the grill. As the aubergines begin to cook, the skin will start to blacken. Once the skin is completely charred and black, remove the aubergines and place them into a bowl and cover. As they cool, the skin will loosen, allowing you to peel the charred skin easily from the aubergine. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "For the sauce, pour the peeled tomatoes into an empty saucepan and crush to break the tomatoes down. Grate the garlic in, add a drizzle of oil and cook on medium-high heat for 6-10 mins, stirring occasionally until thickened. Season with sugar, salt and MSG."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel the aubergines. Using a fork, flatten each one down until it's around 2cm thick. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Crack the eggs onto a plate, pour the vinegar and season with salt, whisk together. Add the flour and breadcrumbs onto two separate plates. Coat the aubergines in flour, then eggs and lastly breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Pour enough oil to coat the bottom of a frying pan with 1cm of oil. Turn the heat up to medium-high. Once hot, fry the aubergine on both sides until golden brown. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Zest half the lime. Re-heat the sauce and sprinkle the aubergine with lime zest. Serve with some tomato sauce and rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-02T09:00:00+00:00"
+}

@@ -1,0 +1,267 @@
+{
+  "id": "7089397",
+  "slug": "salmon-pasta-salad",
+  "title": "Salmon Pasta Salad",
+  "url": "https://www.mob.co.uk/recipes/salmon-pasta-salad",
+  "summary": "A Niçoise-y take on pasta salad with scrumptious flakey salmon, this makes a perfect light dinner ideal for sunny evenings.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Salmon-Pasta-Salad.jpg",
+  "cook_time": 40,
+  "prep_time": 10,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 38,
+    "fat": 36,
+    "saturated_fat": 7,
+    "carbohydrates": 41,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 1082
+  },
+  "ingredients": [
+    {
+      "label": "6 plum tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 plum tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ditalini",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ditalini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ditalini",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g green beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g kalamata olives",
+      "quantity": "25",
+      "unit": null,
+      "name": "Kalamata Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 pickled Guindilla chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pickled Guindilla Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 x 120g salmon fillets",
+      "quantity": "480",
+      "unit": null,
+      "name": "Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 x 120g salmon fillets",
+      "quantity": "480",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 anchovy fillets",
+      "quantity": "8",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g fresh herbs",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g kalamata olives",
+      "quantity": "25",
+      "unit": null,
+      "name": "Kalamata Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 pickled guindilla chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pickled Guindilla Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp extra virgin olive oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Quarter the plum tomatoes and toss with olive oil, salt, and pepper, and roast for 30 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pot of salted water to the boil. Cook the pasta according to packet instructions, adding green beans for the last 2 mins. Drain and cool completely under cold running water."
+    },
+    {
+      "heading": null,
+      "description": "For the dressing, blitz the herbs, the olives, the chillies, capers, olive oil, and lemon juice with salt and pepper until you have a rough pesto. Adjust with more lemon or chilli brine if needed. (You can also finely chop by hand.)"
+    },
+    {
+      "heading": null,
+      "description": "Fill a saucepan full of water and place over a high heat. Once boiling, turn the heat down to medium, gently drop the eggs in and simmer for 7 mins. Transfer to an ice bath to cool down."
+    },
+    {
+      "heading": null,
+      "description": "Season the salmon with salt. Heat a frying pan over high heat with a glug of neutral oil. Once hot, add the salmon skin-side down. Press gently on the flesh so the skin makes even contact with the pan. Cook for 5–6 mins until the skin is crisp, then flip the fillets to colour on each side for a minute or two before turning off the heat, and letting the residual heat finish cooking."
+    },
+    {
+      "heading": null,
+      "description": "In a large bowl, toss the pasta, dressing, green beans, remaining olives, pickled chillies, and roasted tomatoes, and peel the cooled boiled eggs and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Flake the salmon into chunks and toss gently through the salad."
+    },
+    {
+      "heading": null,
+      "description": "Serve with the halved boiled eggs and scatter over the anchovy fillets if you'd like an extra salty kick."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Kitty Coles",
+      "uri": "chefs/kitty-coles",
+      "summary": "Kitty is a supremely talented cook and recipe writer. You can find her recipes here as well as in publications like the Irish Times, Gloss Magazine, and The Guardian. She divides her time between London, Dublin and Mallorca (where her parents live and dad grew up) and her food showcases seasonal ingredients with a splash of Mediterranean style. Kitty is a no-fuss, simple cook, who uses everyday ingredients to make delicious and easy recipes. You can find plenty more of Kitty's recipes in her cookbook: 'Make More With Less: Foolproof Recipes to Make Your Food Go Further'."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-21T07:00:00+01:00"
+}

@@ -1,0 +1,160 @@
+{
+  "id": "4254628",
+  "slug": "fried-egg-sandwich-cheddar-chilli",
+  "title": "Crispy Cheddar & Chilli Fried Egg Sandwich",
+  "url": "https://www.mob.co.uk/recipes/fried-egg-sandwich-cheddar-chilli",
+  "summary": "Your standard fried egg sandwich has had a makeover. We've loaded this sarnie with tons of grated cheese, sweet chilli sauce and chilli flakes.",
+  "image": "https://files.mob-cdn.co.uk/articles/Hangover-Helper-%E2%80%93-Egg-sandwich.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 729,
+    "protein": 36,
+    "fat": 44,
+    "saturated_fat": 17,
+    "carbohydrates": 48,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "60g Cheddar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cheddar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Floury Bap/Roll/Barm/Bread Cake",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bread Roll Sub",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sweet Chilli Sauce, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sweet Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Chilli Flakes, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Coarsely grate the cheddar cheese."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a frying pan over high heat until very hot. Add half the the cheese in a pile in the middle of the pan, cook for 2-3 mins, until turning a little golden at the edges, then crack your egg into the middle. Let it splutter and sizzle until the cheese edges are lacy, crispy, and perfectly golden brown, and the egg is cooked through. Season with salt and a shed load of black pepper."
+    },
+    {
+      "heading": null,
+      "description": "If you like your eggs a little more cooked through, use a spatula to flip it over. Then use a spatula to move to a plate. Repeat with the rest of the cheese and second egg."
+    },
+    {
+      "heading": null,
+      "description": "Reduce the heat for the last 1 min of cooking. Cut open your bun, drizzle a bit more oil into the pan and toast the cut sides of the bun until golden and a little crispy."
+    },
+    {
+      "heading": null,
+      "description": "Flip the bun out the pan and cover the bottom with the sweet chilli sauce. Slap the eggs on top, add the chilli flakes and little extra sweet chilli sauce then crown the sarnie with its lid. Smush down to burst the yolk for extra dip action."
+    },
+    {
+      "heading": null,
+      "description": "Devour with a hot mug of tea. Bliss."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-17T10:19:00+01:00"
+}

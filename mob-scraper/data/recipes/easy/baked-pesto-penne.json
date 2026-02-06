@@ -1,0 +1,199 @@
+{
+  "id": "3062701",
+  "slug": "baked-pesto-penne",
+  "title": "Baked Pesto Penne",
+  "url": "https://www.mob.co.uk/recipes/baked-pesto-penne",
+  "summary": "This easy baked pesto pasta uses Gluten Free Penne for a perfect weeknight dinner. On the table in under half an hour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Baked-Pesto-Penne.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 670,
+    "protein": 27,
+    "fat": 34,
+    "saturated_fat": 14,
+    "carbohydrates": 62,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 357
+  },
+  "ingredients": [
+    {
+      "label": "500g Gluten Free Pasta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gluten Free Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gluten Free Pasta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Almonds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Basil",
+      "quantity": "60",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Plain Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gluten Free Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Milk",
+      "quantity": "500",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Parmesan",
+      "quantity": "200",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Gluten Free Breadcrumbs",
+      "quantity": "30",
+      "unit": null,
+      "name": "Gluten Free Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Ball of Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Ball of Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Boil the pasta in plenty of salted water until slightly more al dente than you would normally have."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, blitz the almonds in a food processor until they resemble breadcrumbs. Then add the basil, a pinch of salt and a big glug of olive oil and blitz again."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a saucepan over a medium heat, then add the flour and cook until golden. Pour in the milk bit by bit, stirring all the while."
+    },
+    {
+      "heading": null,
+      "description": "Once all of the milk has been added, grate in 150g of the parmesan cheese, stir until melted and then stir in the pesto too."
+    },
+    {
+      "heading": null,
+      "description": "Drain the cooked pasta into a large bowl and pour in the pesto béchamel mix. Stir well until the pasta is creamy and well coated."
+    },
+    {
+      "heading": null,
+      "description": "Pour into an oven dish and sprinkle over the breadcrumbs, grate over the remaining parmesan and break up the mozzarella and dot around the top."
+    },
+    {
+      "heading": null,
+      "description": "Bake in the oven at 180°C for 15 mins until golden."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Family-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-02-18T11:30:00+00:00"
+}

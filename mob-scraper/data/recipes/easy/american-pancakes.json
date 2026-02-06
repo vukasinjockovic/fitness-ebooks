@@ -1,0 +1,193 @@
+{
+  "id": "6797324",
+  "slug": "american-pancakes",
+  "title": "American Pancakes",
+  "url": "https://www.mob.co.uk/recipes/american-pancakes",
+  "summary": "Who can resist a fluffy American pancake? For these beauties you make your own buttermilk which literally involves whisking milk and lemon juice together. It really takes them to the next level.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/American-Pancakes.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 386,
+    "protein": 9,
+    "fat": 18,
+    "saturated_fat": 10,
+    "carbohydrates": 44,
+    "dietary_fibre": 1,
+    "sugars": 13,
+    "sodium": 285
+  },
+  "ingredients": [
+    {
+      "label": "15g Unsalted Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Whole Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Self Raising Flour",
+      "quantity": "120",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob Unsalted Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Berries",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Maple Syrup",
+      "quantity": null,
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Nutella",
+      "quantity": null,
+      "unit": null,
+      "name": "Nutella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Peanut Butter",
+      "quantity": null,
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Bacon",
+      "quantity": null,
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Melt the butter in a small pot over a low heat and leave to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "Measure the milk into a jug, squeeze in the lemon juice and whisk with a fork. Set aside for 5 mins to curdle (boom, you’ve made buttermilk)."
+    },
+    {
+      "heading": null,
+      "description": "Measure the flour, baking powder, caster sugar and a pinch of salt into a bowl. Whisk together then make a well in the centre. Crack in the egg, pour in the melted butter and buttermilk then whisk everything together until a smooth pancake batter."
+    },
+    {
+      "heading": null,
+      "description": "Melt a smidge of butter in a non-stick frying pan over a medium heat, swirling the pan so that it coats the base. Spoon in some of the batter to make 3 pancakes, around 6cm in diameter each."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 2-3 mins on this first side until bubbles appear on the top of each pancake and the underside is deeply golden and releases from the pan easily. Flip and cook for a further 1-2 mins on the second side."
+    },
+    {
+      "heading": null,
+      "description": "Repeat with the remaining batter. Serve the pancakes with whatever toppings you like (I love berries and maple syrup with some more butter but you do you)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-10-01T09:34:00+01:00"
+}

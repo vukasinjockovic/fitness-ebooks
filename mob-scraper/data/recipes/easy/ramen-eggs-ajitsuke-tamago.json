@@ -1,0 +1,173 @@
+{
+  "id": "6767339",
+  "slug": "ramen-eggs-ajitsuke-tamago",
+  "title": "Ramen Eggs (Ajitsuke Tamago)",
+  "url": "https://www.mob.co.uk/recipes/ramen-eggs-ajitsuke-tamago",
+  "summary": "Elevate your ramen experience with our killer ramen eggs recipe, also known as ajitsuke tamago in Japanese cuisine. These savoury, marinated eggs are the perfect addition to your bowl of ramen noodles, adding a rich depth of flavor and a touch of umami. The soft-boiled eggs are bathed in a flavorful soy-based marinade that infuses them with a delightful balance of salty and sweet notes, creating a succulent, perfectly seasoned treat. Ideal for enhancing ramen soup, these eggs also make a fantastic topping for stir-fries or a simple snack on their own. Whether you're enjoying a bowl of instant ramen or a homemade noodle dish, these ramen eggs provide a gourmet touch that transforms an everyday meal into something special. Easy to prepare and incredibly versatile, this recipe is a must-try for any fan of Japanese cuisine.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Ramen-Eggs.jpg",
+  "cook_time": 7,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 170,
+    "protein": 8,
+    "fat": 7,
+    "saturated_fat": 2,
+    "carbohydrates": 17,
+    "dietary_fibre": 1,
+    "sugars": 12,
+    "sodium": 1207
+  },
+  "ingredients": [
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Dark Soy Sauce",
+      "quantity": "125",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Mirin",
+      "quantity": "125",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Soft Light Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Soft Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a small saucepan of water to the boil, then carefully lower in the eggs. Reduce the bubble to a gentle simmer and set a timer for 6 mins 30 seconds. Get a bowl of ice cold water ready, then once the timer goes off, lift them straight into the cold water. Once cold, peel the eggs and put them into a small, tall container."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl or jug, mix together the soy sauce, mirin, brown sugar, chilli flakes and star anise. Roughly chop the spring onions, peel and bash the garlic with the side of a chef's knife, then peel and thickly slice the ginger and add these to the bowl/jug too. Pour in 100ml water and mix really well. Pour over the eggs, ensuring they are mostly submerged."
+    },
+    {
+      "heading": null,
+      "description": "Cover and put into the fridge for at least 6 hrs, but no longer than 24 hrs, turning them every now and again to get an even colour."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the liquid and cut in half to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Sides"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-09-04T12:26:00+01:00"
+}

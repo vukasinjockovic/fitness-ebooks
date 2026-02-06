@@ -1,0 +1,280 @@
+{
+  "id": "5556259",
+  "slug": "vietnamese-inspired-poached-chicken-salad",
+  "title": "Vietnamese-Inspired Poached Chicken Salad",
+  "url": "https://www.mob.co.uk/recipes/vietnamese-inspired-poached-chicken-salad",
+  "summary": "A fresh and healthy Vietnamese-inspired salad with tender poached chicken. This is a perfect spring or summer dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Vietnamese-Poached-Chicken-Salad.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 623,
+    "protein": 48,
+    "fat": 32,
+    "saturated_fat": 6,
+    "carbohydrates": 38,
+    "dietary_fibre": 7,
+    "sugars": 21,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "5g Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Thai Chillies",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thai Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Maple Syrup",
+      "quantity": "3",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fresh Lime Juice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Clove",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Clove",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Thai Chili",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thai Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "65g Roasted Peanuts",
+      "quantity": "65",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crispy shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lime wedges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the poached chicken, start by slicing the ginger in half. Put the chicken breasts into a large pot and cover with cold tap water, so it’s just covering the meat. Add a good pinch of salt, as you would with pasta water, and add the ginger slices. Add a lid and bring to a simmer, then immediately reduce the heat to the lowest fire for just 6 mins. Immediately turn the heat off and leave the chicken for 8 mins. Remove and use a knife to check the centre is not pink, then set aside in a small bowl to cool."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the dressing. Combine the fish sauce, syrup, vinegar and lime juice in a small bowl. Use a cheese grater or Microplane to grate or mince the garlic and ginger into the dressing. Finely slice the chillies and add to the dressing."
+    },
+    {
+      "heading": null,
+      "description": "For the salad, ribbon the carrot with a vegetable peeler, then toss into a large bowl. Cut the cabbage into quarters and use a peeler to shred the cabbage, peeling it away from the stem for easy shredding. Transfer to the carrot bowl. Finely slice the onion, mint leaves, coriander with all the stems and chilli, then add to the same bowl. Leave a few leaves behind for garnish."
+    },
+    {
+      "heading": null,
+      "description": "If you like, bash the roasted nuts in a mortar and pestle, or crush in a bag using a rolling pin. Add half of the nuts to the salad bowl."
+    },
+    {
+      "heading": null,
+      "description": "When the chicken is cool enough, shred it using your hands, pulling the large pieces of breast into thin shreds. Add one-quarter of the dressing to the shredded chicken and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining dressing to the salad bowl and toss very well, ensuring to coat every bit of veg. Add two-thirds of the chicken to the salad and mix well again."
+    },
+    {
+      "heading": null,
+      "description": "Divide the salad between serving plates with the remaining chicken on top. Garnish with the remaining nuts, crispy shallots, lime wedges and a few mint and coriander leaves. Make sure you drizzle over all the dressing ingredients that may be left in the mixing bowl."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Vietnamese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-28T04:30:00+01:00"
+}

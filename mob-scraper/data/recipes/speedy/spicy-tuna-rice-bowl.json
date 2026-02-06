@@ -1,0 +1,197 @@
+{
+  "id": "7043762",
+  "slug": "spicy-tuna-rice-bowl",
+  "title": "Spicy Tuna Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/spicy-tuna-rice-bowl",
+  "summary": "This spicy tuna rice bowl with sesame, soy and sriracha comes together in no time. It’s perfect for packed lunches.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/2/Spicy-Tuna-Rice-Bowl-2.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 552,
+    "protein": 27,
+    "fat": 27,
+    "saturated_fat": 4,
+    "carbohydrates": 54,
+    "dietary_fibre": 6,
+    "sugars": 5,
+    "sodium": 701
+  },
+  "ingredients": [
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 x 145g Cans Tuna",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mayonnaise",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Sriracha",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Nori Sheets",
+      "quantity": null,
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "To Serve, Togarashi",
+      "quantity": null,
+      "unit": null,
+      "name": "Shichimi Togarashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the rice following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the spring onions and set aside. Peel and slice the avocado and set aside. Cut the nori into strips, if using and set aside. Finely slice the cucumber and add it to a bowl with the rice vinegar and a pinch of salt. Scrunch with your hands until slightly softened."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, mix the drained tuna with the mayonnaise, sriracha, soy sauce, sesame oil and spring onions. Taste and adjust seasoning with more soy sauce or sriracha if needed."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between containers. Top with a big scoop of spicy tuna, pickled cucumber, avocado and nori, if using. Sprinkle with togarashi and drizzle with more sriracha, if you like."
+    },
+    {
+      "heading": null,
+      "description": "Pop in the fridge for an easy, flavour-packed meal later. It will keep well in the fridge for 3 days."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Most Cooked",
+    "Packed Lunch",
+    "Family-Friendly",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-02T12:28:00+01:00"
+}

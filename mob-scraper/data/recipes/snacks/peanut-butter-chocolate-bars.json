@@ -1,0 +1,123 @@
+{
+  "id": "7127796",
+  "slug": "peanut-butter-chocolate-bars",
+  "title": "Peanut Butter Chocolate Bars",
+  "url": "https://www.mob.co.uk/recipes/peanut-butter-chocolate-bars",
+  "summary": "Packed with loads of peanuts and sticky dates these bars are the perfect prep-ahead snack to power you through the week. No baking, no fuss, just blend, chill and slice!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Peanut-Butter-Chocolate-Bars.jpg",
+  "cook_time": null,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 7,
+    "saturated_fat": 2,
+    "carbohydrates": 11,
+    "dietary_fibre": 2,
+    "sugars": 8,
+    "sodium": 24
+  },
+  "ingredients": [
+    {
+      "label": "180g roasted peanuts",
+      "quantity": "180",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g pitted dates",
+      "quantity": "220",
+      "unit": null,
+      "name": "Pitted Medjool Dates",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp peanut butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g dark chocolate",
+      "quantity": "30",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g dark chocolate",
+      "quantity": "30",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chuck the peanuts into a food processor and blitz until they look like coarse flour."
+    },
+    {
+      "heading": null,
+      "description": "Add the dates, peanut butter and a pinch of salt, then blend again until a sticky dough forms."
+    },
+    {
+      "heading": null,
+      "description": "Break up the dark chocolate and tip into the mixture. Pulse a few more times to mix them through."
+    },
+    {
+      "heading": null,
+      "description": "Press the mixture into a lined tray or mould, roughly 17cm x 24cm – it should be about 2 cm thick. Chill for 20–30 mins to firm up."
+    },
+    {
+      "heading": null,
+      "description": "To store, wrap the bars in baking paper and chill or freeze until needed (these last for a week in the fridge and 3 months in the freezer)."
+    }
+  ],
+  "tips": [
+    "Use almond butter instead of peanut if you prefer.",
+    "Keep them chilled in a sealed container for up to a week.",
+    "Great pre- or post-workout snack."
+  ],
+  "categories": [],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Rachel Pamart",
+      "uri": "chefs/rachel-pamart",
+      "summary": "Rachel is the founder of Rawlala, a cold-pressed juicery based in East London. She came to clean, holistic eating by tuning into what made her feel most alive and now she channels that into expert, ingredient-led recipes designed to nourish, energise, and taste damn good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-01T12:39:00+00:00"
+}

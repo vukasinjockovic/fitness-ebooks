@@ -1,0 +1,222 @@
+{
+  "id": "4979",
+  "slug": "mighty-mushroom-mac-cheese",
+  "title": "Mighty Mushroom Mac & Cheese",
+  "url": "https://www.mob.co.uk/recipes/mighty-mushroom-mac-cheese",
+  "summary": "Why haven't we used mushrooms in a mac & cheese before now, we'll never know. Taleggio works a charm here - give it a go when you need something comforting.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A1720.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 701,
+    "protein": 29,
+    "fat": 32,
+    "saturated_fat": 13,
+    "carbohydrates": 75,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 547
+  },
+  "ingredients": [
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Thyme",
+      "quantity": "30",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Chestnut Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Macaroni",
+      "quantity": "500",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Macaroni",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Mozzarella",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Mozzarella",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Taleggio",
+      "quantity": "150",
+      "unit": null,
+      "name": "Taleggio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pint Whole Milk",
+      "quantity": "568",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Plain Flour",
+      "quantity": "3",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Quarter your mushrooms. Add to a pan with a splash of olive oil. Fry until brown."
+    },
+    {
+      "heading": null,
+      "description": "Add sliced garlic cloves and a handful of sliced thyme leaves. Squeeze a few drops of lemon juice in. Mix everything together. Once the garlic begins to go brown, remove everything from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add 5 tablespoons of olive oil and plain flour to the pan. Whisk it together. Start adding your whole milk, bit by bit, whisking it in. Keep adding milk until you have a smooth white sauce."
+    },
+    {
+      "heading": null,
+      "description": "Get your macaroni cooking."
+    },
+    {
+      "heading": null,
+      "description": "At this point, crumble in the mozzarella and add taleggio to the pan. Stir it in until it melts and you have a smooth white sauce."
+    },
+    {
+      "heading": null,
+      "description": "Re-add your mushrooms and a large handful of parsley. Mix it in."
+    },
+    {
+      "heading": null,
+      "description": "Drain your cooked macaroni and add to the sauce. Mix it in. Season with salt and pepper and add a big squeeze of lemon juice. Smooth out the top of the mac and cheese. Add your remaining taleggio."
+    },
+    {
+      "heading": null,
+      "description": "Place under the grill until the taleggio is golden and bubbling."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven, serve it up, scatter over some more chopped parsley and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-03-27T00:00:00+00:00"
+}

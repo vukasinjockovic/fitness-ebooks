@@ -1,0 +1,174 @@
+{
+  "id": "172803",
+  "slug": "bacony-packet-noodles",
+  "title": "Bacony Packet Noodles",
+  "url": "https://www.mob.co.uk/recipes/bacony-packet-noodles",
+  "summary": "Taking your packet noodles to the next level by ditching the flavour sachet that comes with them and creating your own sauce. Bacon and chilli oil. Go on...",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A8567.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 755,
+    "protein": 29,
+    "fat": 36,
+    "saturated_fat": 10,
+    "carbohydrates": 78,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 1813
+  },
+  "ingredients": [
+    {
+      "label": "450g Smoked Bacon",
+      "quantity": "450",
+      "unit": null,
+      "name": "Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Smoked Bacon",
+      "quantity": "450",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Packet Noodles",
+      "quantity": "500",
+      "unit": null,
+      "name": "Instant Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Packet Noodles",
+      "quantity": "500",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Peanut Butter (we use ManiLife)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tsp Five-Spice",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Spring Onions",
+      "quantity": "10",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Spoon your peanut butter into a bowl and mix together with your soy sauce, chilli oil, rice vinegar and 2 tbsp of water until you get a thick, creamy, rich sauce. Then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop your bacon into chunks and fry in a non-stick pan until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop your spring onion (setting aside a handful for garnish) and ginger. Add to the pan along with your five-spice for an aromatic kick, then stir together."
+    },
+    {
+      "heading": null,
+      "description": "In another pan bring your noodles to the boil. Simmer for about 3 minutes then add to your bacony pan. Set some of the noodle water aside."
+    },
+    {
+      "heading": null,
+      "description": "Next, take your peanut sauce and toss it through the noodles until they are evenly coated - add a splash of the noodle water to loosen it."
+    },
+    {
+      "heading": null,
+      "description": "Plate up and garnish with a sprinkle of spring onion and a tsp chilli oil then you’re ready to dig in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-03-23T16:03:00+00:00"
+}

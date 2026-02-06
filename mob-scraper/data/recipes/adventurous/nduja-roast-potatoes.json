@@ -1,0 +1,124 @@
+{
+  "id": "3163973",
+  "slug": "nduja-roast-potatoes",
+  "title": "'Nduja Roast Potatoes",
+  "url": "https://www.mob.co.uk/recipes/nduja-roast-potatoes",
+  "summary": "Perhaps the most Mob recipe… ever. 'Nduja gives the crispy roasties a spicy kick, with some zingy lemon juice and fragrant rosemary. Jordon x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Nduja-Roast-Potatoes.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 5,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 54,
+    "dietary_fibre": 5,
+    "sugars": 2,
+    "sodium": 98
+  },
+  "ingredients": [
+    {
+      "label": "1.5kg Potatoes",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Nduja",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nduja",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Rosemary",
+      "quantity": "15",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Half a Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Peel and quarter the potatoes, then place into a large saucepan and cover with cold water. Bring to the boil and par cook for about 10 mins until the outside of the potatoes is just softening."
+    },
+    {
+      "heading": null,
+      "description": "While the potatoes parboil, pour about 100ml of olive oil into a large baking tray and place into the oven for 5 minutes to heat up."
+    },
+    {
+      "heading": null,
+      "description": "Once the potatoes are ready, drain and allow to steam dry for a minute, then pour into the hot roasting tray, season with salt and place into the oven to roast for 45 mins."
+    },
+    {
+      "heading": null,
+      "description": "After 45 mins, remove the potatoes. Finely chop the rosemary and add along with the 'nduja. Mix well and roast for another 5 mins until the nduja has melted and the potatoes are crispy."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven, squeeze over the lemon, add another pinch of salt and mix well."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-03-06T09:00:00+00:00"
+}

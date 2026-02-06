@@ -1,0 +1,166 @@
+{
+  "id": "4415053",
+  "slug": "prawns-pil-pil",
+  "title": "Prawns Pil Pil With Ciabatta",
+  "url": "https://www.mob.co.uk/recipes/prawns-pil-pil",
+  "summary": "These king prawns are cooked in olive oil laced with paprika and shedloads of garlic, and then served with crusty ciabatta for mopping up all the oily goodness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Prawns-Pil-Pil-With-Ciabatta.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 789,
+    "protein": 18,
+    "fat": 61,
+    "saturated_fat": 9,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 1,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "2 Loaves of Ciabatta",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 165g Packets of Raw Peeled King Prawns",
+      "quantity": "330",
+      "unit": null,
+      "name": "King Prawns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 165g Packets of Raw Peeled King Prawns",
+      "quantity": "330",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Extra-Virgin Olive Oil",
+      "quantity": "300",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful of Parsley (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the ciabatta in a low oven, 120°C."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the garlic cloves and the red chilli. Dry the prawns on kitchen paper and season with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Get a small saucepan over a medium heat. Pour in the olive oil and heat until just shimmering. You want the oil to be hot but not nuclear otherwise the garlic and chilli will burn."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic and chilli. Fry for 1 min until sizzling, then add the prawns. Cook, stirring occasionally, for a further 2–3 mins until all the prawns have turned pink. Take the pan off the heat and stir in the smoked paprika."
+    },
+    {
+      "heading": null,
+      "description": "Tip the prawns along with their oil into a serving bowl. Roughly chop the parsley and scatter over the top. Serve with the ciabatta for dunking."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Party Food",
+    "Starter"
+  ],
+  "cuisines": [
+    "Spanish",
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-23T09:45:00+01:00"
+}

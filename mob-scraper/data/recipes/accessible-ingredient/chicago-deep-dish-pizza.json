@@ -1,0 +1,276 @@
+{
+  "id": "4450929",
+  "slug": "chicago-deep-dish-pizza",
+  "title": "Chicago Deep Dish Pizza Recipe",
+  "url": "https://www.mob.co.uk/recipes/chicago-deep-dish-pizza",
+  "summary": "Cheesy, saucy, and just the right amount of greasy. This homemade Chicago deep-dish pizza recipe is surprisingly easy to make at home. With its thick, buttery crust, loaded with layers of gooey mozzarella cheese, and topped with a rich, tangy tomato sauce, this pizza is a true comfort food classic. Perfectly baked to achieve that iconic crispy edge and soft, chewy centre, it captures the essence of Chicago-style pizza right in your kitchen. Whether you’re hosting a pizza night or craving a hearty meal, this deep-dish pizza delivers a satisfying, indulgent experience. With just a few key ingredients and a bit of patience, you’ll be able to recreate the legendary flavours of Chicago’s famous pizzerias. So, gather your ingredients, roll up your sleeves, and get ready to enjoy a slice of deep dish heaven.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Chicago-Style-Deep-Dish-Pizza.jpg",
+  "cook_time": 40,
+  "prep_time": 30,
+  "total_time": 70,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 426,
+    "protein": 19,
+    "fat": 23,
+    "saturated_fat": 9,
+    "carbohydrates": 36,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 1017
+  },
+  "ingredients": [
+    {
+      "label": "7g Dried Yeast",
+      "quantity": "7",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g “00” Flour",
+      "quantity": "375",
+      "unit": null,
+      "name": "“00” Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8g Salt",
+      "quantity": "8",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Unsalted Butter",
+      "quantity": "45",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "680g Passata",
+      "quantity": "680",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sliced Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sliced Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spicy Sausages",
+      "quantity": "6",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Sliced Pepperoni",
+      "quantity": "90",
+      "unit": null,
+      "name": "Sliced Pepperoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a large bowl, mix the yeast and honey into 220ml of warm water and set aside. Tip the flour and salt into another bowl, dice the cold butter and add to the flour mixture. Using your fingertips, rub the butter into the flour until it has the texture of fine breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Tip the yeast mixture into the butter and flour and mix to a shaggy dough. Tip out onto a work surface and knead briefly until you have a smooth dough. Form into a ball and add to an oiled bowl, cover and let rise in a warm place until doubled in size. Alternatively, pop the dough into the fridge for 12-24 hours."
+    },
+    {
+      "heading": null,
+      "description": "While the dough is rising, make the sauce. Finely dice the onion and finely grate the garlic. Grab a medium saucepan and set over a medium heat. Add a shot of oil and add the onion with a big pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 5-6 mins until translucent and softened. Add the garlic and dried oregano and cook for a further 2-3 mins. Add the sugar, tomatoes and a whole bunch of basil. Bring to a simmer and cook for 10 mins. Allow the basil leaves to break down and mix through the sauce, fishing out the stems at the end. Set the sauce aside."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 210°C."
+    },
+    {
+      "heading": null,
+      "description": "Grab a round tin or cast iron pan that is roughly 25cm by 5cm. Turn the dough out onto a lightly oiled surface. Roll out until it is a circle measuring roughly 35cm across. Transfer to the pan and work into the corners and up the sides of the pan."
+    },
+    {
+      "heading": null,
+      "description": "Layer the bottom of the dough with the sliced mozzarella so it is completely covered. Remove the meat from the sausage casings and pinch small amounts, dotting over the mozzarella, again, making sure there is an equal amount of meat over the pizza. Now ladle over your tomato sauce, covering the sausage."
+    },
+    {
+      "heading": null,
+      "description": "Top the sauce with the pepperoni, be generous. Cover the whole lot with grated Parmesan and a shed load of black pepper. Drizzle with olive oil and slide into the oven for 35-40 mins."
+    },
+    {
+      "heading": null,
+      "description": "Once baked, remove from the oven and allow to rest for 10 mins before slicing and serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-25T11:25:00+01:00"
+}

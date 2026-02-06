@@ -1,0 +1,264 @@
+{
+  "id": "4329695",
+  "slug": "sticky-ginger-cake",
+  "title": "Sticky Ginger Cake",
+  "url": "https://www.mob.co.uk/recipes/sticky-ginger-cake",
+  "summary": "A gorgeously sticky ginger sponge with coconut caramel and plantain custard. This recipe from Nathan Collymore, head chef of Jam Delish, is a vegan treat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Sticky-Ginger-Cake.jpg",
+  "cook_time": 60,
+  "prep_time": 20,
+  "total_time": 80,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 410,
+    "protein": 3,
+    "fat": 15,
+    "saturated_fat": 10,
+    "carbohydrates": 67,
+    "dietary_fibre": 3,
+    "sugars": 41,
+    "sodium": 170
+  },
+  "ingredients": [
+    {
+      "label": "240ml Oat Milk",
+      "quantity": "240",
+      "unit": null,
+      "name": "Oat Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Apple Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Water",
+      "quantity": "120",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dates",
+      "quantity": "200",
+      "unit": null,
+      "name": "Date",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Self Raising Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Dark Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Bicarbonate of Soda",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Nutmeg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Black Treacle",
+      "quantity": "60",
+      "unit": null,
+      "name": "Black Treacle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Melted Vegan Butter",
+      "quantity": "110",
+      "unit": null,
+      "name": "Vegan Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Very Over Ripe Plantain",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plantain",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Coconut Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g White Sugar",
+      "quantity": "45",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Turmeric",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Tin Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Soft Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Soft Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Add the oat milk to a jug and tip in the apple cider vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop dates and add to a pan. Add roughly 120ml of water and simmer for 5 minutes until the dates are moist and have absorbed the majority of the water, remove from heat, and then blitz two-thirds of this to a paste."
+    },
+    {
+      "heading": null,
+      "description": "In a large mixing bowl, mix the flour, sugar, ginger, bicarb, cinnamon and nutmeg with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the oat milk mixture and beat together, add the date puree and the chopped dates, the vanilla, treacle and vegan butter. Beat together, tip into a lined loaf tin and bake for 45-50 minutes, a skewer inserted should come out clean."
+    },
+    {
+      "heading": null,
+      "description": "To make the coconut caramel, tip the coconut milk into a pan and add the sugar. Bring to a boil and reduce by one-third. Add a big pinch of salt and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "To make the custard, blend plantain with milk until smooth, pour into a saucepan, add the remaining ingredients, cook over a low heat till glossy and custard-like consistency. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Allow the cake to cool for 10-15 mins before tipping out. Cut into slices and finish with the custard and plenty of the coconut caramel."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Nathan Collymore",
+      "uri": "chefs/nathan-collymore",
+      "summary": "Nathan has been a chef for over fifteen years."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-15T10:17:00+01:00"
+}

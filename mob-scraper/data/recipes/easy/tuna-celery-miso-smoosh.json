@@ -1,0 +1,167 @@
+{
+  "id": "6381580",
+  "slug": "tuna-celery-miso-smoosh",
+  "title": "Tuna, Celery & Miso Smoosh",
+  "url": "https://www.mob.co.uk/recipes/tuna-celery-miso-smoosh",
+  "summary": "Here's a protein-packed recipe that you can 'smoosh' over a bagel, toast, pitta bread or whatever takes your fancy. It's a gamechanger.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Tuna-Celery-Miso-Smoosh.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 266,
+    "protein": 25,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 7,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "3 sticks of celery",
+      "quantity": "3",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onion",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g drained tuna",
+      "quantity": "300",
+      "unit": null,
+      "name": "Drained Tuna in Spring Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g drained tuna",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice 1/2 lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1tbsp miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1tbsp miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1tbsp mayo",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3/4 tbsp sesame oil",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2tbsp vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the celery and spring onions into small pieces. Drain your tuna, and juice your lemon."
+    },
+    {
+      "heading": null,
+      "description": "Combine all of the ingredients in a bowl before ‘smooshing’ over toast – or pitta bread, a bagel, or whatever you fancy. Top with finely chopped spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-19T13:00:00+01:00"
+}

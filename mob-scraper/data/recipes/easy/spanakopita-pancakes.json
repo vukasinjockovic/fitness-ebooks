@@ -1,0 +1,254 @@
+{
+  "id": "7047312",
+  "slug": "spanakopita-pancakes",
+  "title": "Spanakopita Pancakes",
+  "url": "https://www.mob.co.uk/recipes/spanakopita-pancakes",
+  "summary": "Adding spinach and dill to the batter gives these pancakes their green herby goodness, then we’ve stuffed them with a creamy cottage cheese filling and topped them with a runny fried egg for a protein boost. Remember to factor in an extra hour for letting the pancake batter rest – it's worth it!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/2/Spanakopita-Pancakes.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 462,
+    "protein": 22,
+    "fat": 33,
+    "saturated_fat": 14,
+    "carbohydrates": 22,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "75g Spinach",
+      "quantity": "75",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Whole Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "235g Spinach",
+      "quantity": "235",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cottage Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cottage Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cottage Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Dill",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Handful Parsley",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Butter",
+      "quantity": "60",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Eggs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sesame Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the batter, get the spinach into a blender with the dill, milk, eggs and a pinch of salt. Blitz until smooth, then add the flour, pulsing until just combined – don’t overmix. Set aside to rest for at least an hour, or pop it in the fridge until ready to use."
+    },
+    {
+      "heading": null,
+      "description": "To cook for pancakes, melt a pat of butter in a large frying pan over a medium-high heat. Add a ladle of batter, swirling to coat the pan. Cook until the edges set and the surface bubbles, then flip and cook the other side. Transfer to a tray and cover with parchment to stop the next pancake from sticking. Repeat until all the batter is used. Keep warm in a low oven."
+    },
+    {
+      "heading": null,
+      "description": "For the filling, get the spinach into a colander and pour over a kettle of boiling water, then leave to cool. Squeeze out as much water as possible and roughly chop.Finely chop the onion and garlic. Roughly chop the dill and parsley. Heat a drizzle of olive oil in a frying pan over a medium heat, then gently cook the onion and garlic for 7-10 mins until soft. Stir in the spinach, cottage cheese, chopped herbs, most of the feta (save a few crumbles for garnish) and a good pinch of salt and black pepper. Squeeze in lemon juice to taste. Keep warm on a very low heat."
+    },
+    {
+      "heading": null,
+      "description": "To cook the eggs, heat a glug of olive oil in a frying pan over a medium-high heat. Crack in the eggs, basting with the oil until the whites are set and the yolks are cooked to your liking."
+    },
+    {
+      "heading": null,
+      "description": "To serve, grab the pancakes from the oven and top each with a generous spoonful of the spinach mixture and a fried egg. Fold over the edges, scatter with sesame seeds, the remaining feta and more herbs, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Brunch",
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-04T09:38:00+00:00"
+}

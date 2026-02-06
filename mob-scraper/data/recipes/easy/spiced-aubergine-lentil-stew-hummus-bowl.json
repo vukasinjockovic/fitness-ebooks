@@ -1,0 +1,291 @@
+{
+  "id": "4883384",
+  "slug": "spiced-aubergine-lentil-stew-hummus-bowl",
+  "title": "Spiced Aubergine & Lentil Stew Hummus Bowl",
+  "url": "https://www.mob.co.uk/recipes/spiced-aubergine-lentil-stew-hummus-bowl",
+  "summary": "Loaded hummus is always a good idea, and this one goes the extra mile. A saucy, spiced aubergine and lentil stew blends into the creamy hummus below.  It’s a full meal, packed with protein, fibre and flavour and is perfectly scoopable.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Spiced-Aubergine-Lentil-Stew-Hummus-Bowl.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 50,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 523,
+    "protein": 20,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 77,
+    "dietary_fibre": 14,
+    "sugars": 11,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "1 Aubergine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Puy Lentils",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Puy Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Puy Lentils",
+      "quantity": "250",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Hummus",
+      "quantity": "250",
+      "unit": null,
+      "name": "Hummus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tahini",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Capers, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2–3 Pitta Breads",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Slice the aubergine into thick rounds, about 2cm thick. Lay them onto a tray, brush with olive oil on both sides, and season with salt and pepper. Add the cherry tomatoes to the tray around the aubergines. Roast for 15 mins, then flip the aubergines. Roast for another 10-15 mins until softened and golden."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the onion and chilli. Mince the garlic and ginger."
+    },
+    {
+      "heading": null,
+      "description": "Cook the onion until softened, about 7 mins. Add the minced garlic, ginger, and half of the sliced chilli, then the tomato purée and spices and cook for 1 minute. Add the plum tomatoes and fill the tin ¾ full with water. Break up the plum tomatoes with the spatula and add plenty of salt. Let it simmer for 15 mins on medium high until thickened. Add the cooked lentils and stir to heat through for a few mins, then remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Add the roasted cherry tomatoes and aubergine and stir."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spread a thick layer of hummus in a shallow bowl and top with the stew. Finish with a good squeeze of lemon, a drizzle of olive oil and tahini. Garnish the sliced chilli, any fresh coriander and capers."
+    },
+    {
+      "heading": null,
+      "description": "Serve with toasted pitta bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Low Calorie",
+    "Most Cooked",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "Mediterranean",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-05T12:00:00+00:00"
+}

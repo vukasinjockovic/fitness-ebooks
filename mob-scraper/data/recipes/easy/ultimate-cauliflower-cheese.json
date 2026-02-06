@@ -1,0 +1,178 @@
+{
+  "id": "6792589",
+  "slug": "ultimate-cauliflower-cheese",
+  "title": "Ultimate Cauliflower Cheese",
+  "url": "https://www.mob.co.uk/recipes/ultimate-cauliflower-cheese",
+  "summary": "This is Mob’s best ever cauli cheese recipe, with lashings of luscious cheese sauce and roasted cauliflower. No roast dinner table is complete without it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Ultimate-Cauliflower-Cheese.jpg",
+  "cook_time": 50,
+  "prep_time": 15,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 527,
+    "protein": 13,
+    "fat": 43,
+    "saturated_fat": 27,
+    "carbohydrates": 18,
+    "dietary_fibre": 2,
+    "sugars": 6,
+    "sodium": 323
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Salted Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Plain Flour",
+      "quantity": "75",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Whole Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Double Cream",
+      "quantity": "400",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mature Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mature Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mature Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Gruyère",
+      "quantity": "100",
+      "unit": null,
+      "name": "Gruyère",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp English Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "English Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Nutmeg",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Chives",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C fan. Cut the cauliflower into large florets, then cut the stem into 2cm pieces. Tip onto a baking tray along with any nice, young leaves from the cauliflower. Drizzle with a little oil, season well with salt and pepper and put into the oven for 25 mins until beginning to char at the edges."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, melt the butter in a saucepan over a medium-high heat. Once foaming, tip in the flour and cook, stirring constantly, for 4-5 mins until the colour has noticeably darkened and it is smelling toasty. Lower the heat to medium. Measure the milk and cream into a large jug, then pour in a little bit of it and whisk furiously. Keep repeating this process until you have a luscious, smooth sauce."
+    },
+    {
+      "heading": null,
+      "description": "Coarsely grate the cheddar and gruyère and scatter ¾ of it into the sauce, spoon in the mustard and finely grate in the nutmeg. Stir together over a medium heat until the cheese has melted into the sauce. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Once the cauliflower has roasted, tip it into a high-sided baking dish where the florets sit relatively snugly in an even layer. Pour the sauce over the top, then scatter with the remaining cheese. At this stage, you could cover and chill for up to 24 hours before finishing."
+    },
+    {
+      "heading": null,
+      "description": "Turn or heat the oven to 200°C fan. Pop the cauli cheese in the oven (we like to put it on a flat baking sheet to catch any drips) and bake for 20-25 mins or until golden and bubbling."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chives and scatter over for a final allium punch."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-09-03T16:39:00+01:00"
+}

@@ -1,0 +1,141 @@
+{
+  "id": "4205324",
+  "slug": "peroni-negroni",
+  "title": "Peroni Nastro Azzurro Negroni",
+  "url": "https://www.mob.co.uk/recipes/peroni-negroni",
+  "summary": "This isn’t just fun to say, it’s also delicious to drink. It’s a little less strong and a lot more smooth than a typical Negroni thanks to the orange juice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Peroni-Nastro-Azzuro-Negroni.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 181,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 18,
+    "dietary_fibre": 0,
+    "sugars": 10,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "20ml Gin",
+      "quantity": "20",
+      "unit": null,
+      "name": "Gin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml Campari",
+      "quantity": "20",
+      "unit": null,
+      "name": "Campari",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml Sweet Vermouth",
+      "quantity": "20",
+      "unit": null,
+      "name": "Sweet Vermouth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Orange Juice",
+      "quantity": "50",
+      "unit": null,
+      "name": "Orange Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dash of Angostura Bitters",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Angostura Bitters",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Peroni Nastro Azzurro",
+      "quantity": "150",
+      "unit": null,
+      "name": "Lager",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprig of Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Using a peeler, peel your entire orange, or as much as you are able. Juice your orange and set aside the juice for later."
+    },
+    {
+      "heading": null,
+      "description": "Tightly wrap up the orange rind into a tight roll, then spear it with a toothpick to create a guide hole. Take the toothpick out and now spear it with the rosemary sprig to create the garnish."
+    },
+    {
+      "heading": null,
+      "description": "In a large mixing glass, add ice and then the gin, Campari, sweet vermouth and orange juice then stir."
+    },
+    {
+      "heading": null,
+      "description": "Strain out into a large glass and top with Peroni Nastro Azzurro."
+    },
+    {
+      "heading": null,
+      "description": "Dash a couple of drops of Angostura Bitters on top and garnish with your orange rose. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-14T09:20:00+01:00"
+}

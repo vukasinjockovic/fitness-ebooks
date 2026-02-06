@@ -1,0 +1,155 @@
+{
+  "id": "5696729",
+  "slug": "ultimate-cookie-dough-recipe",
+  "title": "Ultimate Cookie Dough",
+  "url": "https://www.mob.co.uk/recipes/ultimate-cookie-dough-recipe",
+  "summary": "This cookie dough recipe has been specially made to be eaten raw, so contains no egg. We’ve used chocolate chips but you can swap for your fave chocolate bar, chopped, for the ultimate cookie dough fix.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Ultimate-Cookie-Dough-Recipe.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 241,
+    "protein": 2,
+    "fat": 12,
+    "saturated_fat": 8,
+    "carbohydrates": 32,
+    "dietary_fibre": 1,
+    "sugars": 18,
+    "sodium": 78
+  },
+  "ingredients": [
+    {
+      "label": "80g Plain Flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Soft Salted Butter",
+      "quantity": "60",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Soft Light Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Soft Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Caster Sugar",
+      "quantity": "25",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Chocolate Chips",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate Chip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vanilla Ice Cream, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Vanilla Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Vanilla Ice Cream, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the flour in the microwave for 30 seconds (this makes it sterile) then leave to cool."
+    },
+    {
+      "heading": null,
+      "description": "Beat the butter and sugars together in a bowl until well combined, then add the milk and vanilla. Sieve in the cooled flour. Mix again until resembling a cookie dough, then stir in the chocolate chips along with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "The cookie dough is now ready to eat. Our favourite way is to roll it into little balls and add to a bowl of vanilla ice cream."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Freezer Friendly",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2024-03-13T14:15:00+00:00"
+}

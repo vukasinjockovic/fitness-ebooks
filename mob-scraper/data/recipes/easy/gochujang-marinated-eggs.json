@@ -1,0 +1,159 @@
+{
+  "id": "7187686",
+  "slug": "gochujang-marinated-eggs",
+  "title": "Gochujang Marinated Eggs",
+  "url": "https://www.mob.co.uk/recipes/gochujang-marinated-eggs",
+  "summary": "Rich, spicy, and sweet with a gochujang kick. These deep-red beauties are unreal over rice with a load of fresh spring onions.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Gochujang-Marinated-Eggs.jpg",
+  "cook_time": 6,
+  "prep_time": 10,
+  "total_time": 16,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 120,
+    "protein": 8,
+    "fat": 6,
+    "saturated_fat": 2,
+    "carbohydrates": 10,
+    "dietary_fibre": 1,
+    "sugars": 6,
+    "sodium": 441
+  },
+  "ingredients": [
+    {
+      "label": "6 Large Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Gochujang",
+      "quantity": "90",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Soy Sauce",
+      "quantity": "60",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g  Honey",
+      "quantity": "30",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Gochugaru or Chilli Flakes",
+      "quantity": "10",
+      "unit": null,
+      "name": "Gochugaru",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Thumb-Sized Piece Fresh Ginger, grated",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "SALT",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions, to serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a saucepan of water to the boil. Gently lower in the eggs and boil for 6 mins. Transfer into iced water to cool fully, then peel."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, grate the ginger and add to a bowl with the gochujang, soy sauce, honey, gochugaru (or chilli flakes if you can't find it) and water. Mix well until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pop the peeled eggs into a clean jar or container and pour over the marinade. Make sure they’re fully covered, top up with extra water if needed."
+    },
+    {
+      "heading": null,
+      "description": "Chill for at least 4 hrs, ideally overnight, to let the spice do its thing. \nThese eggs will last for up to 4 days in the fridge, the flavour gets stronger each day."
+    },
+    {
+      "heading": null,
+      "description": "Serve however you like, halving them over hot rice, scattering with chopped spring onions and a drizzle of extra marinade works a treat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Batch",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-12T08:00:00+01:00"
+}

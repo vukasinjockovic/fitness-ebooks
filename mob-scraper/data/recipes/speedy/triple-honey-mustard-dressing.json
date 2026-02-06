@@ -1,0 +1,125 @@
+{
+  "id": "5144307",
+  "slug": "triple-honey-mustard-dressing",
+  "title": "Triple Honey Mustard Dressing",
+  "url": "https://www.mob.co.uk/recipes/triple-honey-mustard-dressing",
+  "summary": "A sweet and tangy dressing made with three different types of mustard. Perfect for pouring over a crunchy green salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Triple-Honey-Mustard-Dressing.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 73,
+    "protein": 0,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 3,
+    "dietary_fibre": 0,
+    "sugars": 3,
+    "sodium": 72
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Wholegrain Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hot English Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "English Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Apple Cider Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the mustards, vinegar and honey in a mixing bowl. Stir to combine before adding the olive oil and seasoning well with salt and pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-02T07:00:00+00:00"
+}

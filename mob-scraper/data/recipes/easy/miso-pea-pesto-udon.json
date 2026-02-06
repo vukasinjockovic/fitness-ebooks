@@ -1,0 +1,215 @@
+{
+  "id": "3593021",
+  "slug": "miso-pea-pesto-udon",
+  "title": "Miso Pea Pesto Udon",
+  "url": "https://www.mob.co.uk/recipes/miso-pea-pesto-udon",
+  "summary": "Miso pea pesto udon - my take on a umami pesto recipe. A super comforting dish that's packed full of flavour and only takes 15 mins to make! Xien x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Miso-Pea-Pesto-Udon.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 16,
+    "fat": 25,
+    "saturated_fat": 4,
+    "carbohydrates": 67,
+    "dietary_fibre": 6,
+    "sugars": 5,
+    "sodium": 808
+  },
+  "ingredients": [
+    {
+      "label": "4 Packs of Udon Noodles",
+      "quantity": "600",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Packs of Udon Noodles",
+      "quantity": "600",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Bunch of Basil (All The Leaves From A Large Pot of Basil)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sunflower Seeds",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sunflower Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Small Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Miso Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Sheets of Nori",
+      "quantity": "3",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crispy Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To make your pesto, add basil, mint, sunflower seeds, peeled garlic, peas, green chillies, the zest of one lemon, the juice from two lemons, 2 sheets of nori and miso to a food processor. Add most of your parmesan to your processor along with a large glug of olive oil (enough to bring it all together to a smooth consistency). Season with salt and pepper then blitz until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Cook your udon according to package instructions, reserving some of the noodle-cooking water for later."
+    },
+    {
+      "heading": null,
+      "description": "Mix your pesto with the udon, adding a small ladle of noodle-cooking water at a time (enough to bring it all together)."
+    },
+    {
+      "heading": null,
+      "description": "Top each plate of udon with torn pieces of nori, grated parmesan and chilli oil. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High Fibre",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-26T17:00:00+00:00"
+}

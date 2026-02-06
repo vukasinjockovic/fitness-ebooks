@@ -1,0 +1,165 @@
+{
+  "id": "4189448",
+  "slug": "green-chilli-sausage-noodles",
+  "title": "Green Chilli & Sausage Noodles",
+  "url": "https://www.mob.co.uk/recipes/green-chilli-sausage-noodles",
+  "summary": "We bloody love a sausage and noodles situation. We’ve topped this dish with our bright and spicy green chilli oil. Winner, winner, sausage dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Green-Chilli-Sausage-Noodles.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 482,
+    "protein": 19,
+    "fat": 25,
+    "saturated_fat": 7,
+    "carbohydrates": 44,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 857
+  },
+  "ingredients": [
+    {
+      "label": "6 Sausages",
+      "quantity": "6",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Hispi Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Hispi Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Hispi Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Rice Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tahini",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Chilli Oil, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the rice noodles into a bowl and cover with warm water, set aside for 15 mins. Heat a tbsp of oil in a frying pan over a medium-high heat and squeeze the sausages from their casing into the pan, using a spatula to break up the meat. Fry for 10 mins, until crispy and browned."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred the hispi cabbage and finely slice three of the spring onions. Whisk the miso with the tahini and the juice of a lime, then add splashes of water until it comes together to make a loose sauce. It should be the consistency of single cream. Don’t worry if it seizes and looks clumpy at the start – keep whisking in the water and it’ll come together."
+    },
+    {
+      "heading": null,
+      "description": "Tip the crispy sausage meat from the pan into a bowl, then add the shredded cabbage and spring onions to the pan along with a big pinch of salt, fry until softened, then stir through half of the crispy sausage meat."
+    },
+    {
+      "heading": null,
+      "description": "Drain the noodles and rinse with a little cold water, then add to the pan with greens and toss well, add the sauce and toss well."
+    },
+    {
+      "heading": null,
+      "description": "Twirl the veg and noodles into 4 bowls, top with the crispy sausage meat, then pour the green chilli oil over the top of each. Scatter with extra sesame seeds, coriander and a finely sliced spring onion. Serve with the final lime, cut into wedges, on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-15T09:47:00+00:00"
+}

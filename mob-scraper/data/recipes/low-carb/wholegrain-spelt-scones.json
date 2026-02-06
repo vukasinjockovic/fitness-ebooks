@@ -1,0 +1,162 @@
+{
+  "id": "6533081",
+  "slug": "wholegrain-spelt-scones",
+  "title": "Wholegrain Spelt Scones",
+  "url": "https://www.mob.co.uk/recipes/wholegrain-spelt-scones",
+  "summary": "These hearty scones have real depth of flavour, with a sprinkling of ground hazelnuts to bring out the nuttiness of the spelt. Incredible with jam, butter and fresh strawberries.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Wholegrain-Spelt-Scones.jpg",
+  "cook_time": 15,
+  "prep_time": 40,
+  "total_time": 55,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 153,
+    "protein": 3,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 17,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 41
+  },
+  "ingredients": [
+    {
+      "label": "170g Unsalted Butter",
+      "quantity": "170",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Wholegrain Spelt Flour",
+      "quantity": "500",
+      "unit": null,
+      "name": "Wholegrain Spelt Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Dark Brown Sugar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Whole Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Blanched Hazelnuts",
+      "quantity": null,
+      "unit": null,
+      "name": "Blanched Hazelnuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Milk",
+      "quantity": "25",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C fan. Line a baking tray with baking parchment. Grind the hazelnuts in a food processor until a crumbly texture. Melt the butter in a pan over a low heat. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "If making the dough by hand, whisk together the sifted flour, baking powder, sugar and a pinch of sea salt (skip the salt if you prefer a sweeter dough) in a large mixing bowl. Add the butter and pass the mix through your fingertips lightly, thumbs across fingers, to make breadcrumbs – the aim here is to coat the flour in the butter, not rub it in, so keep your fingers light and fast. This may take 5 mins or so. Alternatively you can use a food processor for this first stage."
+    },
+    {
+      "heading": null,
+      "description": "Now add the milk and egg, and with well-floured hands bring the mixture together to form a dough. Lightly dust it with flour and shape it into a ball. Wrap the dough in cling film and refrigerate for a minimum of 20 mins. Make an egg wash by whisking together the egg yolk and milk."
+    },
+    {
+      "heading": null,
+      "description": "Remove the dough from the fridge and gently roll out to 3cm thickness on a lightly floured surface. Cut out rounds using a 6cm cutter and place on your prepared baking tray, leaving a little room for expansion. Brush the tops with a thin layer of egg wash and sprinkle with the ground hazelnuts and some extra brown sugar, if you like."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 15 mins, or until just lightly browning. Remove from the oven and allow to cool on the tray for 10 mins before transferring to a wire rack to cool completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Afternoon Tea"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T15:35:00+01:00"
+}

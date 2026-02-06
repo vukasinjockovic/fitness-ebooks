@@ -1,0 +1,311 @@
+{
+  "id": "6397001",
+  "slug": "chilli-oil-tahini-noodles",
+  "title": "Crispy Pork, Tahini & Chilli Oil Noodles",
+  "url": "https://www.mob.co.uk/recipes/chilli-oil-tahini-noodles",
+  "summary": "Inspired by dan dan noodles, these chilli oil tahini noodles are creamy, spicy, and extremely easy to make. The ultimate 20-minute noodle recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chilli-Oil-Tahini-Noodles.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 818,
+    "protein": 32,
+    "fat": 41,
+    "saturated_fat": 10,
+    "carbohydrates": 78,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 2382
+  },
+  "ingredients": [
+    {
+      "label": "175g Minced Pork, ideally 20% fat",
+      "quantity": "175",
+      "unit": null,
+      "name": "20% Fat Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Cucumber",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Fresh Egg Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Fresh Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Fresh Egg Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp MSG",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp White Pepper",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Five-Spice Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bird’s-Eye Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Birds Eye Green Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sichuan Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cayenne Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp MSG",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tahini",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Five-Spice Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First add the pork to a bowl along with the marinade ingredients. Mix well until fully combined. Set aside to marinate while you make the sauce."
+    },
+    {
+      "heading": null,
+      "description": "For the chilli oil, crush the garlic, thinly slice the chilli, grind the peppercorns and mince the spring onion. Add all the chilli oil ingredients to a serving bowl. Heat 2 tbsp vegetable oil until just shy of smoking and pour over the dry ingredients. Stir to combine, then add all the sauce ingredients to the same bowl. Stir again to combine, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of vegetable oil in a frying pan over a high heat for around 1-2 mins. Add the pork and stir-fry for 3-4 mins or until nicely golden (almost brown in colour). Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cut the cucumber into thin matchsticks and thinly slice the coriander. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pot of water to the boil and cook the noodles 1 min shy of pack instructions. Drain, reserving 75ml of the cooking water, and immediately dump the noodles into the bowl of sauce."
+    },
+    {
+      "heading": null,
+      "description": "Place the minced pork on top of the noodles, followed by the cucumber and coriander. Pour half the reserved cooking water into the bowl. Mix the noodles, making sure to get all the sauce from the bottom and all the toppings are fully combined. If the sauce looks too dry, add the remaining reserved water and mix again. Serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-06T12:42:00+01:00"
+}

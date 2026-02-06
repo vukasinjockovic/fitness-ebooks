@@ -1,0 +1,104 @@
+{
+  "id": "3971696",
+  "slug": "yorkshire-puddings",
+  "title": "Yorkshire Puddings",
+  "url": "https://www.mob.co.uk/recipes/yorkshire-puddings",
+  "summary": "Are Yorkshire Puddings the best part of a roast dinner? Whether you love them or hate them, we reckon these ones stand a pretty good chance.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Yorkshire-Puddings-Recipe.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 86,
+    "protein": 2,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 7,
+    "dietary_fibre": 0,
+    "sugars": 1,
+    "sodium": 22
+  },
+  "ingredients": [
+    {
+      "label": "150g Plain Flour",
+      "quantity": "150",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Whole Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Sunflower Oil of Goose Fat",
+      "quantity": "60",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 210°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Add a 1 tsp sunflower oil or goose fat to each of the holes of a 12-hole muffin tin. Then slide into the oven to preheat."
+    },
+    {
+      "heading": null,
+      "description": "Sieve the flour into a large bowl and season with salt and pepper. Whisk the eggs together in a jug until the whites and yolks are combined, then whisk the eggs into the flour to make a thick paste. Slowly add the milk to create a smooth batter. Tip back into the jug."
+    },
+    {
+      "heading": null,
+      "description": "Carefully remove the heated muffin tray from the oven. Pour the batter into the tray holes, it should sizzle a little, filling them around half way up. Bake for 25 mins, until risen and golden. Serve with the rest of your roast dinner, or simply lathered with gravy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-09T15:20:00+00:00"
+}

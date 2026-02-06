@@ -1,0 +1,193 @@
+{
+  "id": "5872919",
+  "slug": "jian-bing-recipe",
+  "title": "Cheat's Jian Bing Recipe",
+  "url": "https://www.mob.co.uk/recipes/jian-bing-recipe",
+  "summary": "I love jian bing (also known as Chinese-style crêpes), but they’re not the easiest to make in a home kitchen. So here’s a cheat’s/inspired version of this iconic Chinese street food breakfast using frozen paratha and Mama Yu’s Chilli Oil. This idea was inspired by the one and only J. Kenji López-Alt.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Jian-Bing-Recipe.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 729,
+    "protein": 18,
+    "fat": 48,
+    "saturated_fat": 9,
+    "carbohydrates": 54,
+    "dietary_fibre": 6,
+    "sugars": 13,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "1 Frozen Paratha",
+      "quantity": "1",
+      "unit": null,
+      "name": "Frozen Paratha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hoisin Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hoisin Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sriracha",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lettuce Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Coriander",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Peanuts",
+      "quantity": "20",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Sesame Seeds",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Chilli Oil",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the frozen paratha to a frying pan set over a medium heat and cook following pack instructions until it's golden brown and crispy. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, whisk the egg and finely chop the spring onion. Add the spring onions to the bowl of whisked egg."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of vegetable oil to the now-empty pan along with the egg mixture. Fry for 30 seconds on each side."
+    },
+    {
+      "heading": null,
+      "description": "While the egg is frying, spread the hoisin and sriracha onto one side of the cooked paratha."
+    },
+    {
+      "heading": null,
+      "description": "When both sides of the egg are cooked, place the paratha directly onto the omelette, sauce-side down, until it sticks, then remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tomato and tear the lettuce leaf into small pieces. Finely chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Crush the peanuts."
+    },
+    {
+      "heading": null,
+      "description": "Top the paratha with the tomato, lettuce, crushed peanuts, coriander, sesame seeds and chilli oil. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-24T05:00:00+01:00"
+}

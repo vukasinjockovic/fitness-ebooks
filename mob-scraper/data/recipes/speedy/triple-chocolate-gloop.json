@@ -1,0 +1,144 @@
+{
+  "id": "4705899",
+  "slug": "triple-chocolate-gloop",
+  "title": "Triple Chocolate Gloop",
+  "url": "https://www.mob.co.uk/recipes/triple-chocolate-gloop",
+  "summary": "A decadent chocolate drink that’s ideal for the holiday season. It’s like an adult milkshake.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Chocolate-Gloop.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 511,
+    "protein": 6,
+    "fat": 23,
+    "saturated_fat": 14,
+    "carbohydrates": 54,
+    "dietary_fibre": 3,
+    "sugars": 48,
+    "sodium": 74
+  },
+  "ingredients": [
+    {
+      "label": "50g Dark Chocolate",
+      "quantity": "50",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Dark Chocolate",
+      "quantity": "50",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Chocolate Syrup",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Ballycastle Blonde Chocolate Cream Liqueur",
+      "quantity": "50",
+      "unit": null,
+      "name": "Ballycastle Blonde Chocolate Cream Liqueur",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Ballycastle Chocolate, Hazelnut & Caramel Flavour Country Cream",
+      "quantity": "50",
+      "unit": null,
+      "name": "Ballycastle Chocolate, Hazelnut & Caramel Flavour Country Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Whiskey",
+      "quantity": "15",
+      "unit": null,
+      "name": "Whiskey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Chocolate Ice Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Chocolate Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Chocolate Ice Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop your dark chocolate, then rim your martini glass with the sauce and dunk it in the chocolate shavings to create a double chocolate rim."
+    },
+    {
+      "heading": null,
+      "description": "Using the sauce create a swirl pattern, or go artistic and make any pattern you like, on the inside of the glass."
+    },
+    {
+      "heading": null,
+      "description": "In a blender, add your chocolate ice cream, Ballycastle Blonde Chocolate Cream Liqueur, Ballycastle Chocolate, Hazelnut &amp; Caramel Flavour Country Cream, and whiskey."
+    },
+    {
+      "heading": null,
+      "description": "Blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour into your glass and garnish with some more of the chocolate shavings if you're feeling wild."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-22T07:00:00+00:00"
+}

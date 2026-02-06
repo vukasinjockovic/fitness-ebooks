@@ -1,0 +1,225 @@
+{
+  "id": "3733835",
+  "slug": "miso-mushroom-quiche",
+  "title": "Miso Mushroom Quiche",
+  "url": "https://www.mob.co.uk/recipes/miso-mushroom-quiche",
+  "summary": "This miso mushroom pie is umami, creamy and flaky, served with a bright wafu style sauce to balance the flavours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/09/Miso-Mushroom-Quiche.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 312,
+    "protein": 13,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 27,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 427
+  },
+  "ingredients": [
+    {
+      "label": "250g Filo Pastry Sheets",
+      "quantity": "250",
+      "unit": null,
+      "name": "Filo Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Dried Mushrooms",
+      "quantity": "30",
+      "unit": null,
+      "name": "Dried Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Dried Mushrooms",
+      "quantity": "30",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Fresh Mixed Mushrooms",
+      "quantity": "700",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 396g Medium Firm Tofu",
+      "quantity": "792",
+      "unit": null,
+      "name": "Medium Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 396g Medium Firm Tofu",
+      "quantity": "792",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Unsweetened Plant Milk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Unsweetened Soy Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mirin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sesame Seeds (I Used Black And White)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 175°C."
+    },
+    {
+      "heading": null,
+      "description": "Place the dried mushrooms in a heatproof bowl and cover with boiling water. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drain the dried mushrooms and keep the broth to one side."
+    },
+    {
+      "heading": null,
+      "description": "Chop the fresh and dried mushrooms and stir fry until browned and cooked through. Add 2 tbsp of soy sauce and sauté for another minute or two."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tofu from the packet and pat it dry. Add it to a blender with the miso and milk, plus 100ml of the mushroom broth. Blend until very smooth, taste and season well with plenty of pepper."
+    },
+    {
+      "heading": null,
+      "description": "Mix the mushrooms through the tofu."
+    },
+    {
+      "heading": null,
+      "description": "If using filo pastry and a cake tin, remove the pastry from the packet and cover with a wet tea towel to stop it from drying out. Lay a circle of parchment paper at the bottom of the tin and brush the sides with olive oil. Lay the sheets one over the other, brushing each with a little oil to help them stick. Hang the extra filo over the side, you can trim this down after. Make sure all of the filo is brushed with oil to prevent it burning."
+    },
+    {
+      "heading": null,
+      "description": "Pour the tofu mushroom mix into the pastry and smooth out the top. Sprinkle the top with plenty of black and white sesame seeds. Bake for 35-45 mins or until it’s set and starting to brown on the top."
+    },
+    {
+      "heading": null,
+      "description": "Allow to cool for 10 mins before serving."
+    },
+    {
+      "heading": null,
+      "description": "To make the sauce, finely slice the chilli and spring onion. Whisk them together with 2 tbsp sesame oil, 2 tbsp rice wine vinegar, 1 tbsp mirin and 1 tbsp soy sauce."
+    },
+    {
+      "heading": null,
+      "description": "To serve, drizzle a teaspoon of the sauce over individual slices. Keep in the fridge and warm leftovers in the microwave or covered with foil in the oven."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-31T15:51:00+01:00"
+}

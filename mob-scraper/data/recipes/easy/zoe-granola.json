@@ -1,0 +1,194 @@
+{
+  "id": "6746934",
+  "slug": "zoe-granola",
+  "title": "ZOE Granola",
+  "url": "https://www.mob.co.uk/recipes/zoe-granola",
+  "summary": "Meet our ZOE-fied granola, with over 10 different plants to get you towards your 30 per week goal. You’ll also get a boost of fibre from the oat bran, psylium husk, nuts and seeds. Once you make this, you won’t want to go back to store-bought.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/ZOE-Granola.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 168,
+    "protein": 3,
+    "fat": 13,
+    "saturated_fat": 5,
+    "carbohydrates": 9,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "60g Slivered Almonds",
+      "quantity": "60",
+      "unit": null,
+      "name": "Slivered Almonds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Oat Bran",
+      "quantity": "100",
+      "unit": null,
+      "name": "Oat Bran",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pecans",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pecans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mixed Seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mixed Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Coconut Flakes",
+      "quantity": "40",
+      "unit": null,
+      "name": "Coconut Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chia Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Flaxseeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Milled Flaxseed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Psyllium Husk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Psyllium Husk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cinnamon",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Coconut Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Honey",
+      "quantity": "4",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Almond Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Almond Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 160°C fan."
+    },
+    {
+      "heading": null,
+      "description": "In a large bowl, mix together all the dry ingredients (everything except the coconut oil, honey and almond butter) along with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "In a separate jug or bowl, mix together the coconut oil, honey and almond butter until combined."
+    },
+    {
+      "heading": null,
+      "description": "Stir the wet ingredients through the dry mixture until everything is coated."
+    },
+    {
+      "heading": null,
+      "description": "Spread the granola mix out onto a lined tray, pressing it into a single flat layer."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 25 mins, checking halfway and turning if necessary to ensure it browns evenly."
+    },
+    {
+      "heading": null,
+      "description": "Rest for 10 mins and do not touch the granola at all if you want large chunks"
+    },
+    {
+      "heading": null,
+      "description": "Once the granola has cooled completely, it should break off into nice chunky pieces. Enjoy immediately or store in an airtight jar for up to a few weeks."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Make-Ahead Breakfasts",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-02T14:56:00+01:00"
+}

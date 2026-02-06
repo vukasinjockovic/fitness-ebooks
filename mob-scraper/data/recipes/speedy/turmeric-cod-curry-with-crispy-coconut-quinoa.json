@@ -1,0 +1,271 @@
+{
+  "id": "4958393",
+  "slug": "turmeric-cod-curry-with-crispy-coconut-quinoa",
+  "title": "Turmeric Cod Curry With Crispy Coconut Quinoa",
+  "url": "https://www.mob.co.uk/recipes/turmeric-cod-curry-with-crispy-coconut-quinoa",
+  "summary": "Beautiful flaky cod on a bed of rich, coconutty curry. Top it off with crispy quinoa and you've got a hell of a recipe on your hands.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Turmeric-Cod-Curry-With-Crispy-Coconut-Quinoa.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 401,
+    "protein": 25,
+    "fat": 22,
+    "saturated_fat": 13,
+    "carbohydrates": 24,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "70g Desiccated Coconut",
+      "quantity": "70",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Pouch of Cooked Quinoa",
+      "quantity": "140",
+      "unit": null,
+      "name": "Cooked Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Pouch of Cooked Quinoa",
+      "quantity": "140",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cod Fillets (About 600g)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Ground Turmeric",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Big Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Kale",
+      "quantity": "250",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Tip the desiccated coconut and quinoa onto a baking tray, drizzle with oil, salt and pepper and cook for 10 mins until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Put the ginger, garlic, chilli, shallot, coriander stalks, turmeric, lime juice, and cumin into a blender and blitz until smooth. You may need to add a splash of water to help it along."
+    },
+    {
+      "heading": null,
+      "description": "Heat a drizzle of oil in a pan, then add the paste you’ve just made. Cook for about 5 mins until thickened. Add the coconut milk, tomatoes, fish sauce and water, then bring to a simmer. Taste and season with salt and pepper if needed."
+    },
+    {
+      "heading": null,
+      "description": "Add the kale (you may need to do this in batches) and stir until reduced in volume but not entirely wilted. Top with the cod fillets and season them with salt and pepper. Pop the lid back on and cook for 5-10 mins – this will depend on the thickness of the cod fillets. You’re looking for the fish to have no resistance and flake off in big pieces."
+    },
+    {
+      "heading": null,
+      "description": "Serve the curry topped with the crispy quinoa and reserved coriander leaves. You can eat as is or with a side of rice, potatoes or chapati."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-06T08:00:00+00:00"
+}

@@ -1,0 +1,274 @@
+{
+  "id": "6974694",
+  "slug": "green-tofu-udon",
+  "title": "Green Noodles",
+  "url": "https://www.mob.co.uk/recipes/green-tofu-udon",
+  "summary": "These veggie udon noodles are high in protein and packed full of green goodness. They’re healthy, delicious and incredibly satisfying.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Green-Tofu-Udon.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 563,
+    "protein": 15,
+    "fat": 32,
+    "saturated_fat": 4,
+    "carbohydrates": 51,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 1102
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallot",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Vegetable Oil",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp MSG (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG (optional)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cavolo Nero",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Baby Spinach",
+      "quantity": "100",
+      "unit": null,
+      "name": "Baby Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Baby Spinach",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Tahini",
+      "quantity": "30",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Sriracha",
+      "quantity": "30",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Miso",
+      "quantity": "30",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Light Soy Sauce",
+      "quantity": "25",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Fresh Udon Noodle",
+      "quantity": "750",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Fresh Udon Noodle",
+      "quantity": "750",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the crispy topping. Peel and slice the garlic, finely slice the chilli and peel and dice the shallot. Add to a small saucepan and cover generously with vegetable oil so the aromatics are fully submerged. Place the pan over a medium-high heat and cook for around 5-7 mins until browned and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Use a slotted spoon to scoop out the crispy aromatics and add to a bowl. Season with the sugar and MSG, if using, and set aside. (Save the oil in the fridge for other uses, such as frying eggs.)"
+    },
+    {
+      "heading": null,
+      "description": "Place a large pan of salted water over a high heat and bring to the boil. Once boiling, add the eggs and cook for 7 mins. Use a slotted spoon to transfer the eggs to a bowl. Rinse under cold water until cool enough to handle, then peel and set aside."
+    },
+    {
+      "heading": null,
+      "description": "While the eggs are boiling, start on the green sauce. Peel the garlic and pull the cavolo nero leaves away from the stems. Add the cavolo nero leaves, spinach, garlic and coriander to the boiling water used for the eggs and cook for 3 mins. Use tongs to transfer the greens to a sieve, then rinse with cold water until cool enough to handle."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze out any excess moisture from the blanched greens, then add them to a blender along with the remaining sauce ingredients. Blitz until smooth, adding a splash of water to loosen a little, then tip the sauce into a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Drop the udon into the boiling water and cook following packet instructions (about 2 mins for fresh or frozen udon). Use tongs to transfer the noodles to the mixing bowl of sauce then toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the noodles between bowls, scraping out all the sauce into the bowls. Top generously with the crispy garlic topping and finish with the halved boiled eggs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "Most Cooked"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Pan-Asian"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-05-15T07:30:00+01:00"
+}

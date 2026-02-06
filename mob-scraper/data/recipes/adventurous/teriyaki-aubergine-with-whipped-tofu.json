@@ -1,0 +1,269 @@
+{
+  "id": "3394406",
+  "slug": "teriyaki-aubergine-with-whipped-tofu",
+  "title": "Teriyaki Aubergine with Whipped Tofu",
+  "url": "https://www.mob.co.uk/recipes/teriyaki-aubergine-with-whipped-tofu",
+  "summary": "The softest aubergines served with not one, but TWO delicious sauces. Silky whipped tofu for creaminess, glossy teriyaki for a sweet umami hit.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A5874-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 8,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 27,
+    "dietary_fibre": 5,
+    "sugars": 18,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Caster Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Light Soy Sauce",
+      "quantity": "75",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2cm Knob of Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Rice Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sheet of Nori",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Smoked Tofu",
+      "quantity": "225",
+      "unit": null,
+      "name": "Smoked Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Smoked Tofu",
+      "quantity": "225",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Miso Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175ml Water",
+      "quantity": "175",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Olive Oil",
+      "quantity": "40",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Cut your aubergines into rounds 3cm thick."
+    },
+    {
+      "heading": null,
+      "description": "Lay them on baking trays lined with parchment paper. Drizzle your aubergine slices with olive oil and a pinch of salt, then pop them in the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Next, make your teriyaki sauce. Add your caster sugar, soy sauce, knob of ginger and the water to a saucepan. Bring to a gentle simmer, stirring until your sugar has dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Mix your cornflour in a bowl with 1 tbsp water to form a paste. Pour this into your sauce and stir immediately. Let the mixture come to a boil. After simmering for 5 mins, it should be drizzle-able and glossy. Add your rice wine vinegar and mix to combine. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the whipped tofu, add your smoked tofu to a blender with your miso paste, water and olive oil. Whizz to a smooth paste, then season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add your nori sheet to a spice grinder or food processor and whizz to a powder. Combine this with your chilli powder and sesame seeds in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Once the 30 mins for your aubergine is up, flip them over and return them to the oven for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Chop the woody ends off your spring onions. Heat a griddle pan over a high heat, and place your spring onions into the pan. Cook for a couple of mins on each side until they have deep char lines. Remove from the pan with tongs, then chop into lengths."
+    },
+    {
+      "heading": null,
+      "description": "Spread your whipped smoked tofu onto your chosen serving platter. Top with your roasted aubergine rounds, then pour over your teriyaki sauce. Add your spring onions and your sesame seed powder on top, then serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Party Food",
+    "Sides",
+    "Starter"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-05-10T17:00:00+01:00"
+}

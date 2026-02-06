@@ -1,0 +1,124 @@
+{
+  "id": "6530902",
+  "slug": "sweet-shortcrust-pastry",
+  "title": "Sweet Shortcrust Pastry",
+  "url": "https://www.mob.co.uk/recipes/sweet-shortcrust-pastry",
+  "summary": "A handy shortcrust pastry recipe that’s perfect for sweet tarts and pies. You'll need a stand mixer or food processor for this one.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Sweet-Pastry.jpg",
+  "cook_time": null,
+  "prep_time": 60,
+  "total_time": 60,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 196,
+    "protein": 2,
+    "fat": 12,
+    "saturated_fat": 7,
+    "carbohydrates": 18,
+    "dietary_fibre": 0,
+    "sugars": 5,
+    "sodium": 31
+  },
+  "ingredients": [
+    {
+      "label": "150g Cold Butter",
+      "quantity": "150",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Icing Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Fine Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Ensure your butter is very cold. Grate the cold butter into a bowl and return to the fridge. Chill the mixing bowl and the pastry attachment in the fridge for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Sift the flour, salt and icing sugar into the bowl of the standing mixer. Add the cold butter and combine in quick pulses to just bring it to the breadcrumbs stage."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, whisk together the egg and extra yolk. Gradually add to the mix, mixing as you do, until it just comes together as a dough."
+    },
+    {
+      "heading": null,
+      "description": "Wrap the dough in clingfilm and refrigerate for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the dough from the fridge and allow it to come to room temperature. Knead it very gently on a lightly floured clean surface to gently soften the dough. Use a floured rolling pin to roll the dough out to your desired thickness."
+    },
+    {
+      "heading": null,
+      "description": "Use the pastry to line the tart or pie tin of your choice then bake in an oven at 180°C fan until browning and starting to crisp."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T12:47:00+01:00"
+}

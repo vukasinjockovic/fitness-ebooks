@@ -1,0 +1,184 @@
+{
+  "id": "5924435",
+  "slug": "roast-celeriac-recipe",
+  "title": "Roast Celeriac Recipe With Salsa Verde",
+  "url": "https://www.mob.co.uk/recipes/roast-celeriac-recipe",
+  "summary": "These celeriac steaks are butter-basted and finished in the oven so they’re crisp and caramelised on the outside and meltingly soft within. Finished with a bright, vibrant and punchy salsa verde. You won’t believe how delicious this roasted celeriac recipe is.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Roast-Celeriac-Recipe.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 312,
+    "protein": 3,
+    "fat": 29,
+    "saturated_fat": 12,
+    "carbohydrates": 11,
+    "dietary_fibre": 5,
+    "sugars": 3,
+    "sodium": 547
+  },
+  "ingredients": [
+    {
+      "label": "1 Celeriac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celeriac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Unpeeled Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Unpeeled Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Handful Flat-Leaf Parsley",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dijon Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Red Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Top and tail the celeriac, then use a large knife to trim off all of the skin, without taking off too much flesh. Cut two 2cm-thick steaks from the middle of the celeriac. Save the rest for soup or mash (can tag both). Use the flat side of the knife to bash the garlic cloves on the chopping board to flatten them."
+    },
+    {
+      "heading": null,
+      "description": "Pour a drizzle of olive oil over the celeriac steaks and season really well with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Heat an ovenproof frying pan, big enough to fit both steaks, set over a medium-high heat."
+    },
+    {
+      "heading": null,
+      "description": "Lay the celeriac steaks into the pan and cook for 3 mins on one side, until caramelised. Flip and cook for 2 mins, then turn the heat down to medium, add the butter and smashed garlic cloves and baste the celeriac steak for another minute, then flip and baste the other side for a further minute. Put the pan into the oven and roast for 15 mins, until the celeriac steaks are charred and soft."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the parsley and scrape into a bowl. Roughly chop the capers and add to the bowl along with the mustard, red wine vinegar and a splash of olive oil. Season with salt and cracked black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Remove the celeriac steaks from the oven and divide between plates, spooning on some of the butter. Serve with a good drizzle of salsa verde."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Low Calorie",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "South American-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-29T11:14:00+01:00"
+}

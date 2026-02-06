@@ -1,0 +1,311 @@
+{
+  "id": "2686088",
+  "slug": "butternut-squash-sandwich",
+  "title": "Butternut Squash Sandwich",
+  "url": "https://www.mob.co.uk/recipes/butternut-squash-sandwich",
+  "summary": "These sandwiches are the perfect mix of crispy, tangy and buttery. Filled with a creamy mayo made with Pret Chipotle Ketchup and pickled avocado, a dream.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/10/Butternut-Squash-Sandwich.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 16,
+    "fat": 32,
+    "saturated_fat": 4,
+    "carbohydrates": 93,
+    "dietary_fibre": 8,
+    "sugars": 18,
+    "sodium": 429
+  },
+  "ingredients": [
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml White Wine Vinegar",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Bunch of Coriander",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Mayo",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Pret Chipotle Ketchup",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chipotle Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Panko Breadcrumbs",
+      "quantity": "200",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Thick White Bread",
+      "quantity": "400",
+      "unit": null,
+      "name": "White Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil for Frying",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat up the sugar with 100ml of water, vinegar, chilli flakes and cumin seeds. When the sugar has dissolved, take it off the heat and allow it to cool down."
+    },
+    {
+      "heading": null,
+      "description": "Halve your avocados and peel the skins. Slice them into thick chunks."
+    },
+    {
+      "heading": null,
+      "description": "Pop the avocado slices into a container and pour over the now-cooled pickling liquid. Close the lid and pop that into the fridge until you’re ready to use it."
+    },
+    {
+      "heading": null,
+      "description": "Shred the cabbage and massage with ½ tsp salt to soften it slightly. Finely chop the coriander and spring onions and add them to the cabbage along with 1 tbsp mayo. Mix well and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "For the chipotle sauce, combine the Pret Chipotle Ketchup with the remaining mayo and set it aside."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, combine the ground cumin, smoked paprika, garlic powder and 1 tsp of salt. This is your seasoning mix."
+    },
+    {
+      "heading": null,
+      "description": "Peel the butternut squash and slice it into thick medallions."
+    },
+    {
+      "heading": null,
+      "description": "Boil the squash in boiling water for 4 mins until slightly tender."
+    },
+    {
+      "heading": null,
+      "description": "Place the cooked squash onto a chopping board and sprinkle with the paprika seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Put your plain flour, eggs and panko breadcrumbs into three separate bowls for each ingredient. Combine the flour with any remaining seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Heat up a large pan with enough oil to deep fry the squash."
+    },
+    {
+      "heading": null,
+      "description": "Dip the squash into the flour, then the eggs and finally the breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Deep fry the squash for 5-6 mins until golden brown and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Cut the crusts off the bread and toast them on one side with a glug of oil in a frying pan until golden."
+    },
+    {
+      "heading": null,
+      "description": "Lay the toast onto a chopping board with the untoasted-side up. Spread a spoonful of the slaw on one slice of toast, then place the butternut squash on top of that followed by a few slices of your avocados. Spread a generous spoonful of the chipotle mayo on the other slice of toast and sandwich them together."
+    },
+    {
+      "heading": null,
+      "description": "Cut your sandwich down the middle and plate up them with the cut-side up. Repeat with the remaining bread and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-11-10T12:00:00+00:00"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "3641368",
+  "slug": "dukkah-tomato-salad",
+  "title": "Dukkah Tomato Salad",
+  "url": "https://www.mob.co.uk/recipes/dukkah-tomato-salad",
+  "summary": "Dukkah is an Egyptian aromatic nut and spice blend, perfect as a topping for juicy summer tomatoes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/IMG_3817.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1022,
+    "protein": 27,
+    "fat": 87,
+    "saturated_fat": 9,
+    "carbohydrates": 36,
+    "dietary_fibre": 13,
+    "sugars": 11,
+    "sodium": 383
+  },
+  "ingredients": [
+    {
+      "label": "5-8 Heritage Tomatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130g Hazelnuts",
+      "quantity": "130",
+      "unit": null,
+      "name": "Hazelnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Almonds",
+      "quantity": "70",
+      "unit": null,
+      "name": "Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g White Sesame Seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pistachios",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Whole Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Whole Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Kosher Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Kosher Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7g Aleppo Pepper (Optional)",
+      "quantity": "7",
+      "unit": null,
+      "name": "Aleppo Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Handful Of Basil Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 160°C/320°F."
+    },
+    {
+      "heading": null,
+      "description": "To make the dukkah, toast all of the nuts separately (almonds: 8-10 mins, hazelnuts: 10-12mins, pistachios: 8-10 mins, sesame seeds: 6-8 mins)."
+    },
+    {
+      "heading": null,
+      "description": "Dry toast the coriander, fennel and cumin seeds separately in a pan. Toast for a few minutes each on medium heat until they begin to smell aromatic."
+    },
+    {
+      "heading": null,
+      "description": "Grind the herbs in a spice grinder or pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Pulse the nuts in a small food processor until you have a chunky crumb, take care not to over process into a powder- you should have large pieces of nuts."
+    },
+    {
+      "heading": null,
+      "description": "Add the seeds to the nuts and season with salt to taste. Add the aleppo pepper here if you’re using it."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tomatoes and lay them flat on a plate. Drizzle with olive oil and season with salt and pepper. Sprinkle a few tablespoons of dukkah and finish with some basil leaves. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-08T09:14:00+01:00"
+}

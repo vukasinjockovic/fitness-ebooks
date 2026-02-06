@@ -1,0 +1,293 @@
+{
+  "id": "1421408",
+  "slug": "pulled-mushroom-ragu",
+  "title": "Pulled Mushroom Ragù",
+  "url": "https://www.mob.co.uk/recipes/pulled-mushroom-ragu",
+  "summary": "The richest, umami-est mushroom ragu you could dream of. Pulled oyster mushrooms replace meat here, and they do it well. Delightful.",
+  "image": "https://files.mob-cdn.co.uk/recipes/pulledmushroom.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 441,
+    "protein": 16,
+    "fat": 8,
+    "saturated_fat": 1,
+    "carbohydrates": 77,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 397
+  },
+  "ingredients": [
+    {
+      "label": "30g Dried Porcini Mushrooms",
+      "quantity": "30",
+      "unit": null,
+      "name": "Dried Porcini Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Dried Porcini Mushrooms",
+      "quantity": "30",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stick of Celery",
+      "quantity": "40",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Rosemary",
+      "quantity": "15",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Thyme",
+      "quantity": "15",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g King Oyster Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Oyster Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g King Oyster Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Red Wine",
+      "quantity": "200",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Whole Plum Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Whole Plum Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Marmite",
+      "quantity": "1",
+      "unit": null,
+      "name": "Marmite",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Panko Breadcrumbs",
+      "quantity": "30",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pop your porcini mushrooms in a heatproof jug and pour over 400ml boiling water. Leave to soak for 20 mins, then remove your mushrooms from the liquid and finely chop them (but keep your liquid)."
+    },
+    {
+      "heading": null,
+      "description": "Prep your veg. Finely dice your onion, carrot and celery. Finely chop your garlic, rosemary and thyme."
+    },
+    {
+      "heading": null,
+      "description": "Heat a small glug of olive oil in a large frying pan over a high heat. Add a few of your king oyster mushrooms at a time with a pinch of salt and sear them hard for a few minutes until browned and softened, turning occasionally so that they cook evenly. Repeat with your remaining mushrooms."
+    },
+    {
+      "heading": null,
+      "description": "Place your mushrooms on a chopping board and finely shred them with 2 forks. Set aside until later."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil over a medium heat in a cast iron pot. Add your onion, carrot and celery and fry over a medium-low heat for 10 minutes until softened. Tip in your tomato puree, garlic and all but a tsp of your rosemary and thyme. Cook for another 2 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Pour your wine into the pan and stir until it has evaporated. Add your chopped tomatoes, porcini mushroom stock, chopped porcini, shredded oyster mushrooms, marmite and bay leaf to the pan. Give it a good mix and bring the mixture to a boil. Turn down the heat and simmer for an hour."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous glug of olive oil in a frying pan. Add your breadcrumbs and remaining herbs along with a pinch of salt and give it a good stir. Toast for about 5 minutes over a medium heat until you have crisp, golden breadcrumbs. They go quickly, so keep an eye on them."
+    },
+    {
+      "heading": null,
+      "description": "Cook your spaghetti according to packet instructions in salted water. Drain, saving a mugful of pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Season ragu with salt and pepper, then toss in your spaghetti along with your pasta water. Mix with your tongs until your sauce coats your spaghetti beautifully, adding more pasta water if needed."
+    },
+    {
+      "heading": null,
+      "description": "Serve up in bowls with your crispy breadcrumbs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Batch",
+    "Freezer Friendly",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-25T13:06:00+00:00"
+}

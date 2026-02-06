@@ -1,0 +1,278 @@
+{
+  "id": "7047386",
+  "slug": "spicy-green-aubergine-curry-rice",
+  "title": "Spicy Green Aubergine Curry",
+  "url": "https://www.mob.co.uk/recipes/spicy-green-aubergine-curry-rice",
+  "summary": "Blending spinach in with your curry paste is a great way to pack in some extra dark leafy greens, plus it gives the curry a really gorgeous deep green colour. The leftovers will keep really well in the fridge or freezer, making it perfect for meal prep.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Spicy-Green-Aubergine-Curry-2.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 343,
+    "protein": 7,
+    "fat": 13,
+    "saturated_fat": 5,
+    "carbohydrates": 46,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 51
+  },
+  "ingredients": [
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Limes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g Drained Cooked Chickpeas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15 Curry Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Caster Sugar",
+      "quantity": null,
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Curry Powder",
+      "quantity": "3",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cinnamon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "55ml Olive Oil",
+      "quantity": "55",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C. Set a full kettle of water to boil."
+    },
+    {
+      "heading": null,
+      "description": "Start by making the curry paste: add the fresh coriander into a sieve and pour the boiling water over to wilt. Repeat the process for the frozen spinach until defrosted, then drain and squeeze as much water out of both greens as you can. Add the greens into a blender with the green chillies, ground spices, water and oil. Blend together until smooth. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Trim and chop the aubergine into 2cm chunks. Place onto a lined baking tray, drizzle with some olive oil and season with salt and pepper. Toss together then slide into the oven to roast for 20-25 mins until soft."
+    },
+    {
+      "heading": null,
+      "description": "Cook the rice following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan with high sides over medium-high heat. Tip in ½ the coconut milk and cook, stirring, until the coconut splits and the solids golden. Add the curry paste and cook, stirring occasionally, for 7-10 mins until the excess water has evaporated and you have a dark green mixture."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the red onion and transfer to a bowl. Squeeze over the lime juice and season with salt and sugar. Drain and rinse the chickpeas."
+    },
+    {
+      "heading": null,
+      "description": "Stir the curry leaves through the green curry base, until fragrant. Tip the chickpeas in with the remaining coconut milk and water, and season with salt and pepper. Turn the heat down to low-medium and let it gently simmer, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Once the aubergines are cooked, stir them through the curry, adding a splash of water if needed to loosen. Taste and season with some of the lime pickling liquid, sugar, salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the rice between bowls. Spoon in the curry and top with some pickled onions."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Batch",
+    "Freezer Friendly",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-03T11:02:00+00:00"
+}

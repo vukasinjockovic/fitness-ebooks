@@ -1,0 +1,288 @@
+{
+  "id": "6055988",
+  "slug": "thai-glass-noodle-salad-prawn-pork",
+  "title": "Thai Glass Noodle Salad With Prawn & Pork",
+  "url": "https://www.mob.co.uk/recipes/thai-glass-noodle-salad-prawn-pork",
+  "summary": "This glass noodle salad is inspired by 'yum woon sen' – a classic Thai salad that's a staple in Thai cuisine. It's fresh, it's spicy, it's exactly what you want for dinner tonight.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Thai-Glass-Noodle-Salad-With-Prawn-Pork.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 523,
+    "protein": 22,
+    "fat": 25,
+    "saturated_fat": 5,
+    "carbohydrates": 54,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 1442
+  },
+  "ingredients": [
+    {
+      "label": "100g Mung Bean Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mung Bean Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mung Bean Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Celery Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Cherry Tomatoes",
+      "quantity": "12",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Cherry Tomatoes",
+      "quantity": "12",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Prawns",
+      "quantity": "10",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Pork Mince",
+      "quantity": "80",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Pork Mince",
+      "quantity": "80",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-5 Thai Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Thai Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Coriander Sprigs",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Light Brown Sugar,",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Fresh Lime Juice",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sambal Oelek",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Roasted Peanuts",
+      "quantity": "60",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crispy Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Iceberg Lettuce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak the noodles in a bowl of hot water until just loosened, then drain. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Fill a medium pot halfway with water and bring to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the dressing. Using a pestle and mortar, pound the garlic, chillies and whole coriander stems together, or mince by hand. Add the sugar, lime juice, fish sauce and sriracha, then mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice the celery, half the cherry tomatoes and finely slice the onions. Transfer it all to a large mixing bowl. Crush the roasted peanuts and add half to the bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the noodles to the boiling water for 2 mins, then use tongs to remove back into the same bowl. Cut four large snips in the noodles and set aside. Cook the prawns for 30 seconds in the same water until opaque, then remove to the salad bowl. Now pour out most of the water, leaving just enough to just coat the base of the pot. Add the pork mince with a pinch of salt and 1 tsp fish sauce, then use a spatula to break up the pork. Simmer for 2 mins, or until cooked."
+    },
+    {
+      "heading": null,
+      "description": "Use a slotted spoon to transfer the pork into the salad along with a spoonful of the pork stock. Tip the hot noodles and all the dressing into the salad bowl, then toss well."
+    },
+    {
+      "heading": null,
+      "description": "Serve immediately with the remaining peanuts, crispy shallots, sliced cucumber and some lettuce cups."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Calorie"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-22T03:30:00+01:00"
+}

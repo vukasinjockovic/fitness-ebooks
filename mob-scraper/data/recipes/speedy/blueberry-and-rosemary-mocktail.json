@@ -1,0 +1,136 @@
+{
+  "id": "3992230",
+  "slug": "blueberry-and-rosemary-mocktail",
+  "title": "Blueberry & Rosemary Mocktail",
+  "url": "https://www.mob.co.uk/recipes/blueberry-and-rosemary-mocktail",
+  "summary": "Made with a super simple syrup flavoured with rosemary, complete with muddled blueberries, this mocktail is delicious as it is or spiked with a measure of gin.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/IMG_0530.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 109,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 27,
+    "dietary_fibre": 1,
+    "sugars": 25,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "100g Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Rosemary Sprigs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen or Fresh Blueberries",
+      "quantity": "200",
+      "unit": null,
+      "name": "Blueberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Sparkling Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Sparkling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a medium pot, add the sugar, water and rosemary. Bring to the boil and simmer for 3 mins, then turn off the heat and set aside to infuse for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, warm the blueberries gently in a pan on the stove or in the microwave until they burst and start to release their juices."
+    },
+    {
+      "heading": null,
+      "description": "Crush the ice, if you like (I used a small food processor). Cut the lime into wedges."
+    },
+    {
+      "heading": null,
+      "description": "To make one drink, add 2 tbsp of blueberries to a small glass followed by 2 tbsp of rosemary syrup and some ice. Top up with sparkling water and garnish with a wedge of lime."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-19T13:59:00+00:00"
+}

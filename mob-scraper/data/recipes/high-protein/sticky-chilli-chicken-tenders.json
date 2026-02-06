@@ -1,0 +1,298 @@
+{
+  "id": "4339851",
+  "slug": "sticky-chilli-chicken-tenders",
+  "title": "Sticky Chilli Chicken Tenders",
+  "url": "https://www.mob.co.uk/recipes/sticky-chilli-chicken-tenders",
+  "summary": "This is the only chicken tenders recipe you will ever need. Brining makes all the difference to ensure maximum juiciness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Sticky-Chilli-Chicken-Tenders.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 818,
+    "protein": 56,
+    "fat": 23,
+    "saturated_fat": 9,
+    "carbohydrates": 92,
+    "dietary_fibre": 3,
+    "sugars": 19,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "1kg Mini Chicken Fillets",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Mini Chicken Fillets",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil, For Frying",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Five Spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Plain Flour",
+      "quantity": "125",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Five-Spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Gochujang",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Honey",
+      "quantity": "4",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add all the brine ingredients to a large bowl. Add the chicken fillets, cover and set aside for an hour in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Make the batter by whisking together the egg and water, then add the flour slowly, whisking with each addition until you make a smooth batter. Season with salt. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "To create the seasoned flour, tip the flour into a bowl, add in the dry spices, and toss to combine. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "To make the sticky chilli sauce, peel and finely grate the ginger and garlic. Melt the butter in a small saucepan over a medium heat, add the grated ginger and garlic, cook for 2 mins then add the chilli powder and cook for a 2 mins further, to toast the spice. Add the gochujang, honey and soy sauce, whisk together to combine, cook for a minute further until the sauce is a sticky consistency then remove from the heat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Tip enough vegetable oil into a large sauce pan to come halfway up the sides. Place over a high heat and heat to 150°C, then turn to a medium heat to keep the heat constant."
+    },
+    {
+      "heading": null,
+      "description": "Remove the chicken from the brine and dry on a paper towel. Working in batches, put a handful of the chicken fillets into the plain flour, then dust off a little. Transfer into the batter, then use your hands to remove from the batter and toss into the seasoned flour. Toss to coat. Use a slotted spoon to lower the chicken into the oil and fry for 2-3 mins, until pale golden. Remove with the slotted spoon and set aside on a wire rack. Repeat with the rest of the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Turn up the heat under the saucepan to heat the oil to 180°C. Lower the chicken back into the pan, and fry for a few more mins until golden and crispy. Drain on the wire rack."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the sticky chilli sauce until glossy, then spread the sauce on all of the tenders and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Angelica Udenweze",
+      "uri": "chefs/angelica-udenweze",
+      "summary": "Angelica Udenweze joined the team as a food assistant and helped develop so many classic dishes, during her time at Mob. When it comes to her cooking, Angelica specialises in complex flavour combos that always leave you wanting more."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-26T09:21:00+01:00"
+}

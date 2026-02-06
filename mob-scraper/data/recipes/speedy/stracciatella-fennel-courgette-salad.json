@@ -1,0 +1,185 @@
+{
+  "id": "4413854",
+  "slug": "stracciatella-fennel-courgette-salad",
+  "title": "Stracciatella, Fennel & Courgette Salad",
+  "url": "https://www.mob.co.uk/recipes/stracciatella-fennel-courgette-salad",
+  "summary": "A fresh and flavourful salad that goes great with an ice cold Birrificio Angelo Poretti beer. The aniseed flavour of the fennel balances well with the chilli.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Stracciatella-Fennel-Courgette-Salad.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 346,
+    "protein": 14,
+    "fat": 19,
+    "saturated_fat": 10,
+    "carbohydrates": 28,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 390
+  },
+  "ingredients": [
+    {
+      "label": "300g Baby Courgettes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Baby Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Baby Courgettes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fennel Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Burrata",
+      "quantity": "400",
+      "unit": null,
+      "name": "Burrata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices of Grilled Bread",
+      "quantity": "4",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the grill or a barbecue to high. Take 2/3 of the courgettes and toss with oil and salt. Spread out onto a tray and slide under the grill, or place on the BBQ. Cook, turning now and then, until roasted and charred all over. Remove and leave to cool."
+    },
+    {
+      "heading": null,
+      "description": "Tear the burrata into chunks to create stracciatella and allow it to come to room temperature."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chilli, de-seeding if you like, and add to a bowl and grate over the garlic. Squeeze the juice of the lemon over the veggies and set aside for 20-30 mins until nicely pickled. Shave the fennel on a mandolin or with a sharp knife as thin as you can and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Pick the leaves from the mint. Add the extra virgin olive oil to the veggies and lemon and stir together. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the raw courgettes into rounds and toss through the dressing. Break the burnt courgettes in and toss together with most of the mint leaves and the fennel."
+    },
+    {
+      "heading": null,
+      "description": "Spread the stracciatella over a plate and season with salt. Tip over the courgette salad, topping with the remaining mint leaves. Serve with grilled bread and pair with an ice cold Birrificio Angelo Poretti."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-04T10:55:00+01:00"
+}

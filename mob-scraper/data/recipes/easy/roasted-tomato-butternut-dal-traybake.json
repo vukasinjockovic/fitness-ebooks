@@ -1,0 +1,274 @@
+{
+  "id": "7728179",
+  "slug": "roasted-tomato-butternut-dal-traybake",
+  "title": "Roasted Tomato & Butternut Dal Traybake",
+  "url": "https://www.mob.co.uk/recipes/roasted-tomato-butternut-dal-traybake",
+  "summary": "A rich, roast-y traybake dal with caramelised tomatoes, creamy coconut and tender squash. Big flavour, minimal faff.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Roasted-Tomato-Butternut-Dal-Traybake.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 332,
+    "protein": 10,
+    "fat": 13,
+    "saturated_fat": 7,
+    "carbohydrates": 39,
+    "dietary_fibre": 7,
+    "sugars": 14,
+    "sodium": 143
+  },
+  "ingredients": [
+    {
+      "label": "800g Butternut Squash",
+      "quantity": "800",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mild Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mild Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tinned Lentils",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cooked Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tinned Lentils",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander (optional)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mango Chutney",
+      "quantity": null,
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Flatbreads",
+      "quantity": null,
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids ServingsHeat the oven to 180°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Peel the butternut squash, remove the seeds and cut it into bite-sized cubes. Halve the tomatoes and cherry tomatoes. Peel and finely slice the red onion and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Tip the squash, tomatoes, onion and garlic into a large roasting tin. Add the curry powder, turmeric, a good drizzle of olive oil and a big pinch of salt. Toss everything together and roast for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, drain and rinse the lentils."
+    },
+    {
+      "heading": null,
+      "description": "After 30 mins, take the tray out of the oven. Stir in the lentils and coconut milk, then return to the oven for 15 mins, until bubbling and golden at the edges."
+    },
+    {
+      "heading": null,
+      "description": "Taste and season with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a dollop of yoghurt, a spoonful of mango chutney, and fresh coriander. Warm flatbreads or rice on the side are essential for mopping it all up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-01T10:35:00+01:00"
+}

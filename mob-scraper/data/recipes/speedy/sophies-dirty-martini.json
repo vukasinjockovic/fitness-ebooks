@@ -1,0 +1,102 @@
+{
+  "id": "3264261",
+  "slug": "sophies-dirty-martini",
+  "title": "Sophie's Dirty Martini",
+  "url": "https://www.mob.co.uk/recipes/sophies-dirty-martini",
+  "summary": "A classic for a reason. Just 3 ingredients for the cleanest, classiest cocktail. I like my martini stirred, not shaken.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A0266-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 340,
+    "protein": 0,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 2,
+    "dietary_fibre": null,
+    "sugars": 0,
+    "sodium": 320
+  },
+  "ingredients": [
+    {
+      "label": "150ml Gin",
+      "quantity": "150",
+      "unit": null,
+      "name": "Gin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Dry Vermouth",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dry Vermouth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Olive Brine",
+      "quantity": "15",
+      "unit": null,
+      "name": "Olive Brine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Good Quality Green Olive",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add some ice to a large glass or a glass jar. Pour in your gin, vermouth and olive brine, then stir the mixture until the jar is very cold to touch."
+    },
+    {
+      "heading": null,
+      "description": "Strain your cocktail into a chilled martini glass. Pop an olive on a cocktail stick and drop this into the cocktail. Serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-01T16:24:00+01:00"
+}

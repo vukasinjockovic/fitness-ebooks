@@ -1,0 +1,302 @@
+{
+  "id": "7130893",
+  "slug": "spicy-salmon-bowl-with-sesame-rice-soy-butter-spinach-2",
+  "title": "Spicy Salmon Bowl with Sesame Rice & Soy Butter Spinach",
+  "url": "https://www.mob.co.uk/recipes/spicy-salmon-bowl-with-sesame-rice-soy-butter-spinach-2",
+  "summary": "This meal prep dinner is anything but boring. Marinated salmon and flavour-packed sides, all prepped in advance for an easy, delicious meal straight from the fridge.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/LunchBoxSpicy-Salmon-Bowl-with-Sesame-Rice-Soy-Butter-Spinach.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 34,
+    "fat": 18,
+    "saturated_fat": 5,
+    "carbohydrates": 54,
+    "dietary_fibre": 3,
+    "sugars": 11,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "500g Skinless Salmon Fillets",
+      "quantity": "500",
+      "unit": null,
+      "name": "Skinless Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Skinless Salmon Fillets",
+      "quantity": "500",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Nori Sheets",
+      "quantity": null,
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Miso",
+      "quantity": "3",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sriracha",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sushi Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sushi Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tbsp Rice Wine Vinegar",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Nori Sheets",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Toasted Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Soy Sauce",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash the sushi rice until the water runs clear. Add the rinsed rice to a saucepan along with the water. Set the pan over a high heat and let the water come to the boil then cover with a lid, turn the heat down to low and leave to cook for 12 mins. Then turn the heat off and leave it covered, undisturbed for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "For the sauce, grate the garlic into a large bowl then add the remaining sauce ingredients and whisk until incorporated. Dice the salmon fillets into large cubes (about 3 per fillet) and add them to the sauce. Toss well to cover then transfer to a container and leave to marinate in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Now let’s make the rice seasoning. In a small bowl, whisk together the salt, sugar and vinegar and set aside. In a blender, blitz the nori into small pieces or cut into small pieces. Once the rice is cooked, stir through the seasoning liquid, nori and sesame seeds."
+    },
+    {
+      "heading": null,
+      "description": "For the spinach, thinly slice the garlic. Melt the butter in a medium saucepan set over a medium heat then add the sliced garlic and cook for about 3 mins until softened and fragrant. Add the spinach and gently wilt before seasoning with the soy sauce and a squeeze of lemon."
+    },
+    {
+      "heading": null,
+      "description": "When you want to eat, pop the salmon in the air fryer and pour over the sauce. Cook at 240°C for 3-4 mins. Heat the rice in the microwave until piping hot, if needed. Thinly slice the spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice into your Tupperware containers, top with the salmon. Finish with the buttery spinach, spring onions and some extra nori, if you like. Box up and pop in the fridge until needed. These will keep for 3 days in the fridge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Packed Lunch",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-01T14:37:00+00:00"
+}

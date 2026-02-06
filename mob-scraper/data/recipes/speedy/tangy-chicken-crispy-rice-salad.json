@@ -1,0 +1,313 @@
+{
+  "id": "7152414",
+  "slug": "tangy-chicken-crispy-rice-salad",
+  "title": "Tangy Chicken & Crispy Rice Salad",
+  "url": "https://www.mob.co.uk/recipes/tangy-chicken-crispy-rice-salad",
+  "summary": "Crispy rice, sticky tamarind chicken and a punchy peanut-lime dressing. This one’s fresh, crunchy and properly zingy. Whip it up in under 40 for a winning mid-week meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Tangy-Chicken-Crispy-Rice-Salad.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 28,
+    "fat": 36,
+    "saturated_fat": 7,
+    "carbohydrates": 73,
+    "dietary_fibre": 7,
+    "sugars": 18,
+    "sodium": 635
+  },
+  "ingredients": [
+    {
+      "label": "500g Leftover Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Leftover Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cabbage",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 green apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 green apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Sugar Snaps",
+      "quantity": "160",
+      "unit": null,
+      "name": "Sugar Snap Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g cherry tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g cherry tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Tamarind Purée",
+      "quantity": "60",
+      "unit": null,
+      "name": "Tamarind Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Honey",
+      "quantity": "3",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Fish Sauce",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Crunchy Peanut Butter",
+      "quantity": "90",
+      "unit": null,
+      "name": "Crunchy Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tamarind Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tamarind Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fish sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking paper. Toss the rice with the chilli oil and olive oil, then spread it out on the tray. Slide into the oven and bake for 30–35 mins, tossing halfway, until golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice or shave the cabbage. Core and thinly slice the apples. Halve the sugar snaps and the cherry tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Make the dressing: Add the cherry tomatoes to a large mixing bowl along with the peanut butter, tamarind purée, lime juice and honey. Stir everything together and gently squash the tomatoes to release their juices. Taste and season with fish sauce to your liking."
+    },
+    {
+      "heading": null,
+      "description": "Season the chicken thighs with salt and pepper. Set a large frying pan over a medium heat with a drizzle of olive oil. Once hot, add the chicken and cook for 10–15 mins, turning occasionally, until golden and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Bash the garlic cloves and add them to the chicken along with the tamarind purée, honey, water and fish sauce. Stir and let it bubble for 2–5 mins until thickened into a sticky glaze. Taste and season again if needed."
+    },
+    {
+      "heading": null,
+      "description": "Once the rice is crispy, toss it into the bowl with the veg and dressing. Mix well to coat."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken and serve on top of the crispy rice salad. Finish with an extra drizzle of chilli oil if you fancy more heat, or olive oil if you're keeping it mild."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-04T07:00:00+01:00"
+}

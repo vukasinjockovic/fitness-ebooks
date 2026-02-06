@@ -1,0 +1,111 @@
+{
+  "id": "7076425",
+  "slug": "protein-peanut-butter-cups",
+  "title": "Protein Peanut Butter Cups",
+  "url": "https://www.mob.co.uk/recipes/protein-peanut-butter-cups",
+  "summary": "These high-protein peanut butter cups will satisfy your sweet tooth. They're an easy, no-bake high-protein snack.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Protein-Peanut-Butter-Cups.jpg",
+  "cook_time": 0,
+  "prep_time": 20,
+  "total_time": 20,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 72,
+    "protein": 3,
+    "fat": 5,
+    "saturated_fat": 2,
+    "carbohydrates": 3,
+    "dietary_fibre": 1,
+    "sugars": 1,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "120g peanut butter",
+      "quantity": "120",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g vanilla whey protein powder",
+      "quantity": "30",
+      "unit": null,
+      "name": "Vanilla Protein Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g dark chocolate",
+      "quantity": "50",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g coconut oil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the peanut butter filling. Warm the peanut butter in the microwave for 20–30 secs until runny. Stir in the protein powder until smooth and thick."
+    },
+    {
+      "heading": null,
+      "description": "In a heatproof bowl, melt the dark chocolate and coconut oil together until glossy — either in short microwave bursts or over a pan of simmering water."
+    },
+    {
+      "heading": null,
+      "description": "Assemble the cups. Line a mini muffin tin or silicone mould with paper cases. Spoon 1 tsp of melted chocolate into the base of each case. Add 1–2 tsp of the peanut butter filling, then cover with another spoonful of melted chocolate."
+    },
+    {
+      "heading": null,
+      "description": "Transfer to the fridge or freezer and chill for at least 1 hour, or until fully set."
+    },
+    {
+      "heading": null,
+      "description": "To serve, peel from the cases and enjoy straight from the fridge or slightly softened at room temp."
+    }
+  ],
+  "tips": [
+    "Fridge: Keeps for up to 1 week in an airtight container.",
+    "Freezer: Freeze for up to 3 months. Store in a sealed container, separating layers with baking paper.",
+    "To eat: Defrost for 10–15 mins before eating, or enjoy frozen for a firmer bite."
+  ],
+  "categories": [],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-01T11:09:00+01:00"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "6706053",
+  "slug": "sausage-kimchi-broth-with-mixed-rice",
+  "title": "Sausage & Kimchi Broth with Mixed Rice",
+  "url": "https://www.mob.co.uk/recipes/sausage-kimchi-broth-with-mixed-rice",
+  "summary": "A Korean-inspired rice and grain bowl with a gochujang, kimchi and anchovy broth and a crispy sausage crumb. Welcome to umami heaven.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Crispy-Sausage-Kimchi-Broth.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 509,
+    "protein": 20,
+    "fat": 25,
+    "saturated_fat": 7,
+    "carbohydrates": 48,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "400g Sausages",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Kimchi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Anchovies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Gochujang",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Water",
+      "quantity": "600",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Mixed Grains",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mixed Cooked Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Squeeze the sausage meat from the casings into a bowl and discard the casings. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Place a strainer over a bowl and tip the kimchi into it. Squeeze as much of the kimchi brine out as possible. Set the brine aside and mince the kimchi. Trim and thinly slice the spring onions, separating the whites and greens."
+    },
+    {
+      "heading": null,
+      "description": "Place a wok or large frying pan onto medium heat. Once hot, add a drizzle of sesame oil and the sausage meat. Break up the meat with the back of your spoon and cook whilst stirring for 5-8 mins until golden brown and cooked through. Transfer to a bowl and cover with a plate to keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Place the wok back onto high heat with a drizzle of sesame oil. Once hot, add the anchovies, spring onion whites, and minced kimchi. Cook until softened and the anchovies have disintegrated. Add the gochujang and cook for 2-3 mins until darkened and caramelised. Pour in the water, bring it to the boil, then remove from the heat and stir through the kimchi brine. Taste and season with salt and sugar, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, reheat the rice and mixed grains then mix together."
+    },
+    {
+      "heading": null,
+      "description": "Share the mixed rice between bowls. Ladle over the kimchi broth and top with the sausage mixture. Finish with a sprinkle of spring onion greens and sesame oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean",
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T09:00:00+01:00"
+}

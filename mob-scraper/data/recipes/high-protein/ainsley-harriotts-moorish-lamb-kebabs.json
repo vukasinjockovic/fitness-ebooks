@@ -1,0 +1,332 @@
+{
+  "id": "967963",
+  "slug": "ainsley-harriotts-moorish-lamb-kebabs",
+  "title": "Moorish Lamb Kebabs by Ainsley Harriott",
+  "url": "https://www.mob.co.uk/recipes/ainsley-harriotts-moorish-lamb-kebabs",
+  "summary": "The legend Ainsley Harriott joins us in the MOB studio making lamb kebabs from his new book ‘Ainsley’s Mediterranean Cookbook’. Yeah boiiiiiiii.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A1090.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 36,
+    "fat": 41,
+    "saturated_fat": 10,
+    "carbohydrates": 11,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 98
+  },
+  "ingredients": [
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Lamb Shoulder",
+      "quantity": "800",
+      "unit": null,
+      "name": "Lamb Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Lamb Shoulder",
+      "quantity": "800",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sherry Vinegar (or Lemon Juice)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Fresh or 1 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cayenne or Hot Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Vine Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Vine Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dukkah",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dukkah",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Natural Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Blanched Almonds",
+      "quantity": "35",
+      "unit": null,
+      "name": "Blanched Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Hazelnuts",
+      "quantity": "20",
+      "unit": null,
+      "name": "Hazelnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Coriander Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Fennel Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch of Chilli Flakes (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grate the garlic, crush the cumin seeds and trim the excess fat off the lamb, cutting into 3cm cubes."
+    },
+    {
+      "heading": null,
+      "description": "Combine 3 tbsp of oil, vinegar, garlic, oregano, cumin seeds, paprika, cayenne pepper, turmeric with a generous pinch of salt and pepper in a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add your lamb to the bowl and toss together with your hands so that the marinade coats the meat. Cover with cling film and marinate in the fridge for at least an hour, or overnight if you have the time."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the lamb is marinating, make the dukkah. Toast the nuts in a dry pan until lightly browned and fragrant. Transfer into a food processor. In the same hot pan, toast the remaining spices for 1 minute until fragrant. Blitz everything in the food processor until it resembles coarse sand."
+    },
+    {
+      "heading": null,
+      "description": "Get your veg ready. Slice the tomatoes and red onion, and finely chop the coriander leaves."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a griddle pan to medium-high heat."
+    },
+    {
+      "heading": null,
+      "description": "Divide the marinated lamb onto eight skewers. Place onto the hot griddle pan and cook for 8 - 10 minutes until they are tender with some nice charring, turning occasionally so that they cook evenly."
+    },
+    {
+      "heading": null,
+      "description": "Mix the yoghurt with another squeeze of lemon and a pinch of cayenne pepper to taste. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Arrange the tomatoes and onion on a serving platter, sprinkle with salt, zest of the lemon and drizzle with olive oil. Scatter with 2 tablespoons of dukkah, your chopped coriander and a squeeze of the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle the kebabs with the yoghurt dressing and serve up with the tomato salad and some toasted flatbreads."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-11-05T15:58:00+00:00"
+}

@@ -1,0 +1,318 @@
+{
+  "id": "6564988",
+  "slug": "high-protein-sweet-potato-chickpea-curry-2",
+  "title": "Warming Sweet Potato & Chickpea Curry",
+  "url": "https://www.mob.co.uk/recipes/high-protein-sweet-potato-chickpea-curry-2",
+  "summary": "A creamy, fragrant and gently spiced vegan curry that will become a staple in your weekly meal rotation.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/High-Protein-Sweet-Potato-Chickpea-Curry.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 522,
+    "protein": 19,
+    "fat": 19,
+    "saturated_fat": 9,
+    "carbohydrates": 61,
+    "dietary_fibre": 13,
+    "sugars": 17,
+    "sodium": 326
+  },
+  "ingredients": [
+    {
+      "label": "½ Big White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Big White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "14g Fresh Ginger",
+      "quantity": "14",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Sweet Potato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Sweet Potato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cinnamon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Nutmeg",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Powder",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Cooked Chickpeas",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Cooked Chickpeas",
+      "quantity": "480",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Can Full-Fat Coconut Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Silken Tofu",
+      "quantity": "150",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Silken Tofu",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Jasmine Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cooked Jasmine Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Coconut Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Coconut Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the onion and peel and mince the ginger and garlic. Wash and roughly chop the sweet potato into bite-sized chunks. Pick the coriander leaves, roughly chop them, discard the stems and set aside for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous glug of oil in a non-stick pan over a medium heat. Once hot, add the onion and fry until it begins to develop some colour. Add the ginger, garlic and a pinch of salt, then fry for 1 min. Stir in the spices, tossing frequently until they are toasted – take care not to burn them."
+    },
+    {
+      "heading": null,
+      "description": "Add the sweet potato, drained chickpeas and chopped tomatoes. Stir until well combined, then bring the mixture to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, blend the coconut milk and silken tofu in a blender until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour the coconut milk mixture into the pan, mix until fully combined, then bring it back to a simmer. Allow to simmer for about 15 mins, or until the sweet potatoes are fork-tender. Turn off the heat, then use a fork to smush about one-third of the chickpeas. Season to taste, stir in the lemon juice, and let the dish sit for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Top with the chopped coriander, then serve with rice and a dollop of vegan coconut yoghurt."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Gigi Grassia",
+      "uri": "chefs/gigi-grassia",
+      "summary": "As a passionate plant-based nutrition coach, personal trainer, and ultra-marathon runner from Italy, Gigi (aka @gigi_goes_vegan) is on a mission: to demonstrate that a high-protein diet is entirely possible on a plant-based regimen and to show that food is a love language."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-09T11:55:00+01:00"
+}

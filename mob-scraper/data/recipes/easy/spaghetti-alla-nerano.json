@@ -1,0 +1,167 @@
+{
+  "id": "6175769",
+  "slug": "spaghetti-alla-nerano",
+  "title": "Spaghetti Alla Nerano",
+  "url": "https://www.mob.co.uk/recipes/spaghetti-alla-nerano",
+  "summary": "In Partnership with GetYourGuide. #ad. A favourite from the bay of Nerano, this is a perfect example of making simple ingredients shine. Traditionally this pasta is made with Provolone del Monaco, but it’s hard to find outside of the region. The best alternative is an equal mix of Parmesan and pecorino.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/220A5130-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1097,
+    "protein": 23,
+    "fat": 77,
+    "saturated_fat": 22,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 649
+  },
+  "ingredients": [
+    {
+      "label": "1kg Courgettes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Olive Oil",
+      "quantity": "300",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pecorino",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pecorino Romano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pecorino",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the courgettes into rounds about 3mm thick (this is much easier and faster with a mandoline)."
+    },
+    {
+      "heading": null,
+      "description": "Heat the olive oil in a high-sided pan to 170°C. You can test this by throwing in a round of courgette – it should sizzle immediately."
+    },
+    {
+      "heading": null,
+      "description": "Fry all of the courgettes in batches until it’s deep golden brown, placing the fried courgettes onto a large paper towel-lined baking tray as you go. Once they're all fried, transfer to a bowl, toss with a tsp of salt and place into the fridge. You can skip the rest in the fridge and this will still be delicious, but leaving them for a few hours, or even better overnight, will really deepen the flavour of the courgettes. It’s also a great way to get ahead the day before."
+    },
+    {
+      "heading": null,
+      "description": "Place a large frying pan over a low heat and add the courgette, a quarter of the butter and 2 tbsp of water. Warm gently, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Put the spaghetti on to boil in lightly-salted water. Once the pasta is still nice and al dente, transfer to the pan with the courgettes along with 100ml of the cooking water. Tear in the basil leaves, add the remaining butter and stir vigorously."
+    },
+    {
+      "heading": null,
+      "description": "Add most of the cheese (save 2 tbsp for garnish) then continue stirring to make a creamy, glossy sauce that coats the pasta."
+    },
+    {
+      "heading": null,
+      "description": "Plate up and top with the cheese."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Most Cooked",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-02-22T05:00:00+00:00"
+}

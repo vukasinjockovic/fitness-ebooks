@@ -1,0 +1,348 @@
+{
+  "id": "5732150",
+  "slug": "grilled-cod-in-green-curry-butter-with-herby-tomatoes-garlic-rice",
+  "title": "Grilled Cod in Green Curry Butter with Herby Tomatoes & Garlic Rice",
+  "url": "https://www.mob.co.uk/recipes/grilled-cod-in-green-curry-butter-with-herby-tomatoes-garlic-rice",
+  "summary": "This dish features herby tomatoes and flaky, tender cod. It's deliciously aromatic and makes a wonderful midweek dinner. We got all ingredients were bought on Deliveroo, delivered in as little as 20 mins.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Grilled-Cod-in-Green-Curry-Butter-With-Herby-Tomatoes-Garlic-Rice.jpg",
+  "cook_time": 55,
+  "prep_time": 5,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 25,
+    "fat": 21,
+    "saturated_fat": 9,
+    "carbohydrates": 68,
+    "dietary_fibre": 4,
+    "sugars": 13,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "Small Bunch Coriander (30g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mixed Soft Herbs (Coriander, Tarragon, Basil)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Shallots",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Green Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tsp Coriander Seeds",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tsp Cumin Seeds",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tbsp Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Softened Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cherry Tomatoes",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cherry Tomatoes",
+      "quantity": "125",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemongrass Stalk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Sugar",
+      "quantity": "35",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Boiling Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Fish Sauce",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Mint",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mixed Soft Herbs (Coriander, Tarragon, Basil)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mixed Soft Herbs (Coriander, Tarragon, Basil)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Garlic Cloves",
+      "quantity": "7",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Garlic Cloves",
+      "quantity": "7",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Cooked Day-Old Rice",
+      "quantity": "600",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Cooked Day-Old Rice",
+      "quantity": "600",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cod Loin",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the grill to high."
+    },
+    {
+      "heading": null,
+      "description": "Start by making the curry butter. Pick the leaves of the herbs. Peel the shallot and garlic, then destem and deseed the chillies. Place all three into a blender with the rest of the curry butter ingredients, except the butter. Blend until smooth, then add the butter and blitz until incorporated. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Prep the salad. Cut the tomatoes in half and place them on a baking tray. To make a dressing, finely mince the lemongrass and add to a mixing bowl along with the sugar and boiling water. Stir together until the sugar dissolves. Then, stir through the fish sauce and juice of the lime. Set aside. Pick the leaves of the herbs and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Start the rice. Finely mince the garlic and spring onions. Heat a glug of vegetable oil in a large frying pan set over a low-medium heat. Add the garlic and gently fry until fragrant and lightly golden in colour. Turn the heat up to high, add the cooked rice and fry until hot. Add the sliced spring onions, sugar and season with salt and pepper. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cook the cod. Place the cod onto the baking tray with the tomatoes and add a drizzle of oil. Season with salt. Place the cod and tomatoes under the grill for 4 mins, until the cod is cooked and the tomatoes are starting to wilt. Add a heaped tbsp of the curry butter to each cod loin then grill for another 2-3 mins, until the butter starts to melt. Remove both from the oven and set aside for a few minutes to rest."
+    },
+    {
+      "heading": null,
+      "description": "Toss the tomatoes and prepared herbs into the salad dressing. To serve, divide the rice and cod loins between plates. Finish with a pile of salad and drizzle over any remaining curry butter and dressing."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Hasan Semay",
+      "uri": "chefs/hasan-semay",
+      "summary": "Born and raised in Edmonton, Turkish Cypriot Hasan Semay was the most recent judge on BBC Three's Young MasterChef.\n\nHe graduated from Jamie Olivers 15 programme in 2011. After a series of jobs that didn't light his fire, and hours spent watching cooking shows, his mum convinced him to apply and from then on cooking became his first love. He went on to spend the next 10 years cooking in high end kitchens all over London until Covid hit and he found himself without a job but with a passion to carry on cooking. This is when his YouTube channel Sunday Sessions was born. It’s all about the food (And some lovely camera work) as he takes beautiful ingredients and cooks them up in his downtrodden back garden come rain or shine and all served with a side of Has’ signature charisma. \n\nIn 2022 Pavilion published his debut cookbook, HOME, and he is currently writing book no. 2, set to publish in Summer 2025."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-07-05T05:00:00+01:00"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "3291221",
+  "slug": "long-island-ice-tea",
+  "title": "Long Island Iced Tea",
+  "url": "https://www.mob.co.uk/recipes/long-island-ice-tea",
+  "summary": "Vodka, gin, white rum, triple sec and tequila. Need I say more?",
+  "image": "https://files.mob-cdn.co.uk/recipes/CMS-3-9949.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 168,
+    "protein": 0,
+    "fat": null,
+    "saturated_fat": null,
+    "carbohydrates": 20,
+    "dietary_fibre": 0,
+    "sugars": 19,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "½ Measure of Vodka",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Measure of White Rum",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Measure of Tequila",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Measure of Triple Sec",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Triple Sec",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Measure of Gin",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Gin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Water",
+      "quantity": "75",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Juice your lemon and save a slice for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Add your sugar and water to a pan, simmering until the two are mixed and form a simple syrup, let it cool."
+    },
+    {
+      "heading": null,
+      "description": "Measure out your spirits and pour them all along with the simple syrup and lemon juice in a cocktail shaker with some ice."
+    },
+    {
+      "heading": null,
+      "description": "Shake well."
+    },
+    {
+      "heading": null,
+      "description": "Strain into a highball glass with ice and garnish with the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-08T16:42:00+01:00"
+}

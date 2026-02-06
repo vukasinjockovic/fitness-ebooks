@@ -1,0 +1,172 @@
+{
+  "id": "5978716",
+  "slug": "roasted-artichoke-recipe",
+  "title": "Roasted Artichoke Recipe With Garlic Drizzle",
+  "url": "https://www.mob.co.uk/recipes/roasted-artichoke-recipe",
+  "summary": "A simple roasted artichoke recipe with an addictive garlic drizzle.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Roasted-Artichoke-with-Garlic-Drizzle.jpg",
+  "cook_time": 50,
+  "prep_time": 5,
+  "total_time": 55,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 10,
+    "saturated_fat": 1,
+    "carbohydrates": 7,
+    "dietary_fibre": 4,
+    "sugars": 1,
+    "sodium": 57
+  },
+  "ingredients": [
+    {
+      "label": "1 Artichoke",
+      "quantity": "1",
+      "unit": null,
+      "name": "Artichoke",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Slivered Almonds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Parsley",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Trim the artichoke stalk. Peel what remains of the stalk until you have removed all of the thick skin (you will remove about one-third of the thickness of the stalk)."
+    },
+    {
+      "heading": null,
+      "description": "Cut the lemon in half, then slice about 3cm off the tip. Slice the artichoke bulb in half lengthways. Immediately rub the lemon all over the open sides of the artichoke to stop it from browning."
+    },
+    {
+      "heading": null,
+      "description": "Dig into the middle of each artichoke heart with a spoon to remove all of the hairs, as these are not edible. Place a peeled garlic clove into each hole where you removed the hair from. Drizzle each side with plenty of olive oil and season with salt and pepper, then cut two slices of lemon and place them over the garlic. Wrap each stuffed artichoke half tightly in foil and bake for around 30-40 mins, depending on their size. Check at 30 mins – if a knife cuts through the heart with no resistance, they’re ready."
+    },
+    {
+      "heading": null,
+      "description": "Remove the artichokes from the foil. Remove and discard the lemon slices. Pour any lemon juice that has pooled into the heart into a small bowl. Take each garlic clove and place them into the bowl with the lemon juice and mash with a fork. Add some olive oil and a squeeze of lemon and some salt and pepper. Drizzle this dressing over the artichoke."
+    },
+    {
+      "heading": null,
+      "description": "Finish with lemon zest, chopped parsley and chilli flakes, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-08T11:04:00+01:00"
+}

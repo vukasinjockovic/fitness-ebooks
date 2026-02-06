@@ -1,0 +1,182 @@
+{
+  "id": "8006123",
+  "slug": "one-pan-chorizo-kale-gnocchi",
+  "title": "One Pan Chorizo Kale Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/one-pan-chorizo-kale-gnocchi",
+  "summary": "Spicy chorizo, pillowy gnocchi & a creamy broth all coming together in one glorious pan. A quick, comforting mid-week dinner, with barely any washing up.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/11/One-Pan-Chorizo-Kale-Gnocchi.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1102,
+    "protein": 44,
+    "fat": 67,
+    "saturated_fat": 27,
+    "carbohydrates": 74,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 2462
+  },
+  "ingredients": [
+    {
+      "label": "Spicy Spanish Chorizo Ring",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "800",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "100",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "200",
+      "unit": null,
+      "name": "Soft Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": true,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the onion, thinly slice the garlic and cut the chorizo into small bite-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large, deep ovenproof frying pan set over a medium-high heat. Add the chorizo and cook for 3–4 mins, stirring occasionally, until it’s crisp and the oil has turned a deep red."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to medium and chuck in the onion, garlic and a pinch of salt. Cook for 6–8 mins until soft and translucent."
+    },
+    {
+      "heading": null,
+      "description": "Add the gnocchi to the pan and toss it through all that lovely oil. Pour in the chicken stock, bring to the boil, then simmer for 3–4 mins until the gnocchi is just cooked."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the shredded kale and soft cheese, and cook for a further minute to wilt the kale and melt the cheese."
+    },
+    {
+      "heading": null,
+      "description": "Finely grate over the parmesan, drizzle with a little more oil and crack over some black pepper to finish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Method",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-11-04T14:39:00+00:00"
+}

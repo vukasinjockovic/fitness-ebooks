@@ -1,0 +1,147 @@
+{
+  "id": "6792431",
+  "slug": "ultimate-hummus",
+  "title": "Ultimate Hummus",
+  "url": "https://www.mob.co.uk/recipes/ultimate-hummus",
+  "summary": "Perfect silky smooth hummus. Use the best quality chickpeas and extra virgin olive oil you can as it really makes a difference.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Hummus.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 332,
+    "protein": 10,
+    "fat": 18,
+    "saturated_fat": 2,
+    "carbohydrates": 29,
+    "dietary_fibre": 7,
+    "sugars": 3,
+    "sodium": 156
+  },
+  "ingredients": [
+    {
+      "label": "570g Cooked Jarred Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tahini",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Za’atar",
+      "quantity": null,
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour the water out of the top of the chickpea jar into a jug then tip the remaining chickpeas and their liquid into a blender or food processor. Add the tahini, finely grate in the garlic if using and add the ground cumin and the juice of ½ the lemon, then blitz."
+    },
+    {
+      "heading": null,
+      "description": "You want to keep blitzing the hummus until it is silky smooth. If still a little coarse, add a little more chickpea liquid and blitz again. Season to taste with salt, pepper and more lemon juice if you like."
+    },
+    {
+      "heading": null,
+      "description": "Spoon or pour the hummus into a bowl, top with a generous drizzle of extra virgin olive oil and a sprinkling of za’atar. Serve with everything. Obvs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Sides",
+    "Starter"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-10-01T16:30:00+01:00"
+}

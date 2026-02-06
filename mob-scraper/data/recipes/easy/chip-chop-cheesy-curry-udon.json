@@ -1,0 +1,186 @@
+{
+  "id": "3715431",
+  "slug": "chip-chop-cheesy-curry-udon",
+  "title": "Chip Shop Cheesy Curry Udon",
+  "url": "https://www.mob.co.uk/recipes/chip-chop-cheesy-curry-udon",
+  "summary": "This is inspired by cheesy curry chips - my go-to late-night scran after a big night out. I've put my twist on it by throwing the flavours into some noodles.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/09/849A8404.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 17,
+    "fat": 21,
+    "saturated_fat": 8,
+    "carbohydrates": 76,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 1427
+  },
+  "ingredients": [
+    {
+      "label": "3 x 200g Udon Noodles",
+      "quantity": "600",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 200g Udon Noodles",
+      "quantity": "600",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Water",
+      "quantity": "600",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Golden Curry Sauce Mix",
+      "quantity": "220",
+      "unit": null,
+      "name": "Golden Curry Sauce Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pak Choi",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cheddar Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cheddar Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook your noodles according to package instructions then rinse with cold water. Save the water for later."
+    },
+    {
+      "heading": null,
+      "description": "Grate your cheese into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice your carrots and spring onions, set them aside in separate bowls. Cut the stems off your pak choi, give it a wash and also set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get a wok on medium heat, pop your curry block in with a tablespoon of oil. Once the mix starts to melt, pour in the water. Give it a good mix and bring the sauce to a boil. Then add your sliced carrots for a minute then your pak choi."
+    },
+    {
+      "heading": null,
+      "description": "Once the carrots and pak choi are softish, add your grated cheese, most of your spring onions and noodles. Season with salt and pepper and give it another mix."
+    },
+    {
+      "heading": null,
+      "description": "Plate up your noodles, top with spring onions and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Family-Friendly",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-21T09:00:00+00:00"
+}

@@ -1,0 +1,300 @@
+{
+  "id": "934400",
+  "slug": "sweet-and-sour-prawns",
+  "title": "Sweet and Sour Prawns",
+  "url": "https://www.mob.co.uk/recipes/sweet-and-sour-prawns",
+  "summary": "We’ve cracked the code to making the best Chinese takeaway-style sweet and sour sauce. Perfect served over egg fried rice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A8055-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 695,
+    "protein": 28,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 116,
+    "dietary_fibre": 4,
+    "sugars": 27,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Pineapple Juice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pineapple Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90ml Apple Cider Vinegar",
+      "quantity": "90",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Light Brown Sugar",
+      "quantity": "80",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90ml Ketchup",
+      "quantity": "90",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cornflour",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g King Prawns",
+      "quantity": "400",
+      "unit": null,
+      "name": "King Prawns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g King Prawns",
+      "quantity": "400",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp White Sugar",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp White Pepper",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tilda Easy Cook Long Grain Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Long Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tilda Easy Cook Long Grain Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash your Tilda Easy Cook Long Grain Rice, and pop it in a pan. Cover with cold water and cook for 10 minutes until tender. Drain the rice and allow to cool."
+    },
+    {
+      "heading": null,
+      "description": "Chop up the onions and peppers into large pieces. Roughly chop the garlic, spring onions and red chilli. Whisk the three eggs in a bowl. Combine 1 tsp of cornflour with 2 tbsps of water into a cup to make a slurry."
+    },
+    {
+      "heading": null,
+      "description": "Add your pineapple juice, apple cider vinegar, sugar, soy sauce and ketchup to a medium sized saucepan set over a medium heat. Bring to a boil, then let it simmer for 2 minutes until your sugar dissolves. Pour in the cornflour slurry and cook until it thickens, about 3 minutes."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl mix the prawns, white sugar, white pepper powder and a pinch of salt. Then crack in the egg and give it a good mix. Add in 50g of cornflour and mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a good glug of oil in a wok over a medium-high heat. Fry your prawns for 1 minute or until crisp and starting to curl. Remove from the pan and drain on kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Heat up a large wok and add in a big glug of oil. Add your onion and red pepper and stir fry for a few minutes until softened and starting to char. Tip your prawns and sauce. Give the mixture a really good mix and cook for 3 minutes until it is piping hot. Put into a serving dish."
+    },
+    {
+      "heading": null,
+      "description": "For the egg fried rice, heat up a large wok until it starts to smoke. Pour in a large glug of oil and add in the garlic. Fry for 30 seconds until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your eggs and scramble until they are fluffy for 1 minute."
+    },
+    {
+      "heading": null,
+      "description": "Push the eggs to the side and add in your cooked rice. Push the rice down to separate the grains. Add in the soy sauce, sesame oil and white pepper. Mix well so the rice is well coated."
+    },
+    {
+      "heading": null,
+      "description": "Finally, add the spring onions and chilli. Stir fry for 1 minute so they are well dispersed in the rice."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the egg fried rice in a bowl, pour over your sweet and sour prawns and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-10-29T09:36:00+00:00"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "4424645",
+  "slug": "barraquito",
+  "title": "Barraquito",
+  "url": "https://www.mob.co.uk/recipes/barraquito",
+  "summary": "In need of a tasty morning pick-me-up? How about a morning pick-me-up that straps jetpacks to your feet? The Barraquito is an excellent coffee cocktail.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Barraquito.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 312,
+    "protein": 7,
+    "fat": 6,
+    "saturated_fat": 4,
+    "carbohydrates": 39,
+    "dietary_fibre": 0,
+    "sugars": 39,
+    "sodium": 97
+  },
+  "ingredients": [
+    {
+      "label": "50ml Condensed Milk",
+      "quantity": "50",
+      "unit": null,
+      "name": "Condensed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Licor 43",
+      "quantity": "50",
+      "unit": null,
+      "name": "Licor 43",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45ml Espresso",
+      "quantity": "45",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Foamed Milk, To The Top",
+      "quantity": "150",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprinkle of Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, get your milk on the stove onto a low heat and whisk it for 30 secs using an electric whisk (if you have one) or manual whisk until its foamy and creamy."
+    },
+    {
+      "heading": null,
+      "description": "Using the back of a spoon, you're going to want to really slowly pour in the following ingredients in this order: the condensed milk, Liquor 43, shot of espresso and then your foamed milk."
+    },
+    {
+      "heading": null,
+      "description": "Dust a little cinnamon on top and then garnish with a small twist of lemon rind."
+    },
+    {
+      "heading": null,
+      "description": "Push the lemon rind down and stir until all the layers are combined. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-30T09:00:00+01:00"
+}

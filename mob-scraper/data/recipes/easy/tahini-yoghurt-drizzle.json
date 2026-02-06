@@ -1,0 +1,88 @@
+{
+  "id": "7023478",
+  "slug": "tahini-yoghurt-drizzle",
+  "title": "Tahini Yoghurt Drizzle",
+  "url": "https://www.mob.co.uk/recipes/tahini-yoghurt-drizzle",
+  "summary": "A simple tahini yoghurt that goes with just about everything. It's perfect for meal prep; combine it with your choice of protein, carb and veg to create your perfect meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Tahini-yoghurt-drizzle.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 3,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "200g greek yogurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 tbsp tahini",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted sesame seeds, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a small bowl, mix together the tahini and yoghurt. Season with salt to taste."
+    },
+    {
+      "heading": null,
+      "description": "If batch cooking for the week, transfer to a container and store in the fridge until ready to eat. Drizzle on top of dishes (it's great with grilled meats and veggies, rice dishes or chickpea stews), followed by a sprinkling of sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-23T10:59:00+00:00"
+}

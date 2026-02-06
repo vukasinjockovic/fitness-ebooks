@@ -1,0 +1,175 @@
+{
+  "id": "2692834",
+  "slug": "cheesy-potato-pasta",
+  "title": "Cheesy Potato Pasta",
+  "url": "https://www.mob.co.uk/recipes/cheesy-potato-pasta",
+  "summary": "This big cheesy double carb winter warmer is a take on the Neapolitan dish pasta e patate con la provola.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Cheesy-Potato-Pasta.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 592,
+    "protein": 26,
+    "fat": 23,
+    "saturated_fat": 9,
+    "carbohydrates": 71,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 857
+  },
+  "ingredients": [
+    {
+      "label": "130g Pancetta",
+      "quantity": "130",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clovr",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Rosemary Sprig",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pasta",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Scamorza",
+      "quantity": "200",
+      "unit": null,
+      "name": "Scamorza",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the pancetta and a splash of olive oil to a large frying pan and place over a medium heat. Cook for about 5 mins until the fat is rendering and it’s starting to turn crispy."
+    },
+    {
+      "heading": null,
+      "description": "Dice the onion and add to the pan with the pancetta. Cube the potatoes and add those along with a good splash of water."
+    },
+    {
+      "heading": null,
+      "description": "Mince the garlic, and after a few mins add this in along with your rosemary. As the water evaporates, top it up so that the texture stays thick and soupy. Cook until the potatoes are soft."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook your pasta in a large pan of boiling salted water until al dente."
+    },
+    {
+      "heading": null,
+      "description": "Drain the pasta (reserving a mug of the cooking water) and add to the pan with the potatoes and pancetta."
+    },
+    {
+      "heading": null,
+      "description": "Dice the scamorza, add along with half a mug of pasta water and the Parmesan and mix gently for about a minute until melted. Add more water as necessary to make a thick soupy consistency. Remove the sprig of rosemary."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-11-11T14:00:00+00:00"
+}

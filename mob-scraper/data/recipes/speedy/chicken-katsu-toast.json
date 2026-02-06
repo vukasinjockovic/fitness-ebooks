@@ -1,0 +1,132 @@
+{
+  "id": "4659385",
+  "slug": "chicken-katsu-toast",
+  "title": "Chicken Katsu Toast",
+  "url": "https://www.mob.co.uk/recipes/chicken-katsu-toast",
+  "summary": "If you love katsu curry, you’re gonna love it reimagined… on toast.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Chicken-Katsu-Toast.png",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 427,
+    "protein": 44,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 46,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 818
+  },
+  "ingredients": [
+    {
+      "label": "1 Chicken Breast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Breast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Thick Slice Of Sourdough",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Katsu Curry Sauce",
+      "quantity": "60",
+      "unit": null,
+      "name": "Katsu Curry Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coriander, To Serve",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "½ Lime, To Serve",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Lay the chicken breast between two sheets of baking paper and use a rolling pin to bash until around 1.5cm-2cm thick. Drizzle with a little olive oil and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large non-stick frying pan over a high heat. Add the bashed chicken breast and leave for 4- 5 mins, then flip over and cook for 3-4 mins further until cooked through. Remove from the pan and set aside on a plate to rest."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, toast the toast. Tip the curry paste into a sauce pan over a medium heat and warm up. Alternatively you can heat it in a covered bowl in the microwave."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken breast, then slide your knife under the sliced breast and lay on the toast. Drizzle with the katsu curry sauce, then finish with the toasted sesame seeds, coriander leaves and a squeeze of lime juice to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-15T16:14:00+00:00"
+}

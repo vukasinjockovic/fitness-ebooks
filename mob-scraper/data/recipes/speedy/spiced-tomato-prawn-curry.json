@@ -1,0 +1,163 @@
+{
+  "id": "4661841",
+  "slug": "spiced-tomato-prawn-curry",
+  "title": "Spiced Tomato & Prawn Curry",
+  "url": "https://www.mob.co.uk/recipes/spiced-tomato-prawn-curry",
+  "summary": "Spiced tomato and prawn curry using a super secret special ingredient (tinned tomato soup). The curry is phenomenal and only uses six ingredients, so we’re extracting as much flavour as possible from each one of them.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Spiced-Tomato-Prawn-Curry.jpg",
+  "cook_time": 23,
+  "prep_time": 7,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 18,
+    "fat": 13,
+    "saturated_fat": 10,
+    "carbohydrates": 13,
+    "dietary_fibre": 2,
+    "sugars": 7,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "700g Shell-On King Prawns",
+      "quantity": "700",
+      "unit": null,
+      "name": "King Prawns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Shell-On King Prawns",
+      "quantity": "700",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Full-Fat Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Cream of Tomato Soup",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cream Of Tomato Soup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Thai Curry Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Thai Red Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Green Beans",
+      "quantity": "150",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bread or Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the heads and shell from the prawns and set aside. Devein the prawns (optional)."
+    },
+    {
+      "heading": null,
+      "description": "Place a saucepan on medium-high heat with half of the coconut milk. Cook the coconut milk, stirring occasionally until the coconut splits and the solids are golden. Add the prawn heads and shells. Cook, stirring for 4-5 mins until pink and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the red Thai curry paste and cook for 30 secs. Pour in the can of tomato soup, the remaining coconut milk, and 100ml of water, making sure to scrape the bottom of the pan. Bring to a boil, turn the heat down to medium and let simmer for 10-15 mins to infuse the flavours."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, trim the green beans and cut into thirds. Strain the soup, discarding the prawn shells. Place the soup back onto medium-high heat, drop the green beans, cook for 5 mins, then add the prawns and cook 3-4 mins, until cooked through. Taste and season with salt, pepper and lime juice."
+    },
+    {
+      "heading": null,
+      "description": "Share the soup between your bowls and enjoy with bread or rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Batch",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-22T10:34:00+00:00"
+}

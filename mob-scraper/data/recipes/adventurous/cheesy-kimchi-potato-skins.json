@@ -1,0 +1,183 @@
+{
+  "id": "3557294",
+  "slug": "cheesy-kimchi-potato-skins",
+  "title": "Cheesy Kimchi Potato Skins",
+  "url": "https://www.mob.co.uk/recipes/cheesy-kimchi-potato-skins",
+  "summary": "These stuffed potato skins are packed with cheddar cheese and kimchi. The kimchi adds a sharp spiciness that cuts through the richness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A9837-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 370,
+    "protein": 13,
+    "fat": 20,
+    "saturated_fat": 7,
+    "carbohydrates": 32,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 820
+  },
+  "ingredients": [
+    {
+      "label": "4 Large Baking Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Baking Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Jar of Kimchi",
+      "quantity": "400",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mature Cheddar Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mature Cheddar Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Hellmann’s Mayonnaise",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Flat-Leaf Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash the potatoes, pat dry and pierce all over with a fork. Place on a microwavable plate and microwave for 15-20 mins, turning over once halfway through. If the potatoes aren’t fork tender by then, continue microwaving in 1 minute increments. Leave to rest for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat your oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Drain and finely chop the kimchi, grate the cheese and thinly slice the spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Split the potatoes in half and scoop out the flesh into a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Lightly oil a baking tray and arrange the potato skins on a single layer. Drizzle with oil and roast for 10 mins, or until crisp."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add the kimchi, cheese, spring onions and mayonnaise into the mixing bowl with your potato flesh. Season with salt and pepper, to taste, and mix well to combine."
+    },
+    {
+      "heading": null,
+      "description": "Stuff the potato skins with the cheesy, kimchi mixture."
+    },
+    {
+      "heading": null,
+      "description": "Return to the oven and bake for 15 to 20 mins, or until browned."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the parsley. Top the golden potato skins with the chopped parsley then serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-07T09:34:00+01:00"
+}

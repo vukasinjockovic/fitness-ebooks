@@ -1,0 +1,232 @@
+{
+  "id": "8029607",
+  "slug": "weeknight-chicken-gyros",
+  "title": "Weeknight Chicken Gyros",
+  "url": "https://www.mob.co.uk/recipes/weeknight-chicken-gyros",
+  "summary": "This one’s all about the contrast between the crispy chicken and the cool, creamy tzatziki. A fakeaway wrap you can make in a flash.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/11/Weeknight-Chicken-Gyros.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 600,
+    "protein": 60,
+    "fat": 12,
+    "saturated_fat": 3,
+    "carbohydrates": 45,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 980
+  },
+  "ingredients": [
+    {
+      "label": "300g Boneless, Skinless Chicken Thighs",
+      "quantity": "300",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Boneless, Skinless Chicken Thighs",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g 0% Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "0% Fat Greek Yoghurt⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g 0% Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Onion Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Flatbreads or Pittas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Fries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen French Fry",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely grate two-thirds of the garlic cloves. Add to a mixing bowl with the chicken thighs, half of the yoghurt, onion powder, paprika, cumin, oregano, zest and juice of half the lemon, and salt. Season with black pepper and mix well. Set aside to marinate while you prep the rest."
+    },
+    {
+      "heading": null,
+      "description": "Grate the cucumber and squeeze out any excess liquid using your hands or a clean tea towel. Add to a bowl with the remaining yoghurt, the juice of the other lemon half, the last garlic clove (grated), and a good pinch of salt. Mix together to make your tzatziki and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the red onion and tomato."
+    },
+    {
+      "heading": null,
+      "description": "Tip the frozen fries into the bottom of your air fryer basket and lay the marinated chicken thighs on top. Cook at 200°C for 10–15 mins until the fries are crisp and the chicken is golden and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Toast the flatbreads in a dry pan until warm and slightly charred."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, spread a generous spoonful of tzatziki over each flatbread. Top with tomato, red onion and slices of the cooked chicken. Add the fries, if using, then wrap it all up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-11-19T09:20:00+00:00"
+}

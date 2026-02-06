@@ -1,0 +1,103 @@
+{
+  "id": "7023305",
+  "slug": "perfect-charred-tenderstem-broccoli",
+  "title": "Perfect Charred Tenderstem Broccoli",
+  "url": "https://www.mob.co.uk/recipes/perfect-charred-tenderstem-broccoli",
+  "summary": "This charred broccoli is perfect for meal prep. Combine it with your choice of protein, carb and topping to create your perfect meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Perfect-charred-broccoli.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 68,
+    "protein": 3,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 4,
+    "dietary_fibre": 4,
+    "sugars": 2,
+    "sodium": 0
+  },
+  "ingredients": [
+    {
+      "label": "300g Tenderstem Broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tenderstem Broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Parmesan, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Lay the broccoli onto a baking sheet and drizzle with olive oil, season with salt and pepper and slide into the oven for 10-15 mins, until charred."
+    },
+    {
+      "heading": null,
+      "description": "To serve, grate over the Parmesan and sprinkle over some chilli flakes. If batch cooking for the week, transfer to a container and store in the fridge until ready to eat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-27T04:00:00+01:00"
+}

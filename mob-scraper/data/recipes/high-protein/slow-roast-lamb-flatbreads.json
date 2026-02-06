@@ -1,0 +1,323 @@
+{
+  "id": "1679661",
+  "slug": "slow-roast-lamb-flatbreads",
+  "title": "Slow Roast Lamb Flatbreads",
+  "url": "https://www.mob.co.uk/recipes/slow-roast-lamb-flatbreads",
+  "summary": "This is based on a dish Sophie Wyburd's mum always makes for parties with a load of salads. I'm doing mine with fresh flatbreads and hummus. Such a crowd-pleaser.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/10/Slow-Roast-Lamb-Flatbreads.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 900,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1442,
+    "protein": 77,
+    "fat": 93,
+    "saturated_fat": 27,
+    "carbohydrates": 74,
+    "dietary_fibre": 8,
+    "sugars": 7,
+    "sodium": 649
+  },
+  "ingredients": [
+    {
+      "label": "2kg Lamb Shoulder",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Lamb Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Lamb Shoulder",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shallots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Cloves of Garlic",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Coriander Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Strong White Bread Flour",
+      "quantity": "500",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Instant Dried Yeast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tinned Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tinned Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tahini",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Za’atar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Pickled Chillies",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pickled Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pomegranate Seeds",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pomegranate Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "290ml water",
+      "quantity": "290",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "50ml chickpea water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Chickpea Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 120°C fan/140°C/280°F."
+    },
+    {
+      "heading": null,
+      "description": "Halve your shallots, leaving their skins on. Bash your unpeeled garlic cloves to crush them slightly."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large roasting tin on the hob over a high heat and add your lamb shoulder fat side down, then salt generously. Brown for a couple of minutes until the fat has rendered a bit, then remove from the pan."
+    },
+    {
+      "heading": null,
+      "description": "Tip your shallots, garlic cloves, cinnamon stick and coriander seeds into the same pan along with a generous pinch of salt and fry for 5 minutes in the lamb fat. Pop the lamb shoulder back into the pan fat side up and pour in your chicken stock."
+    },
+    {
+      "heading": null,
+      "description": "Bring the stock to a simmer, then secure foil tightly around the edge of the tin. Pop your lamb in the oven. Cook for about 14 hours – I tend to do this overnight."
+    },
+    {
+      "heading": null,
+      "description": "Now, make your flatbreads. Toast your coriander seeds in a dry frying pan, then crush them in a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Pop them in a bowl along with your flour, yeast, 2 tsp of salt, 2/3 of the olive oil and warm water. Give it a good mix until you have a rough dough, then turn it out onto your work surface and knead for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pop your dough in a lightly oiled bowl covered in a tea towel and leave to rise until doubled in size – this will take about an hour."
+    },
+    {
+      "heading": null,
+      "description": "Make your hummus. Drain your chickpeas, reserving the water from their can. Add them to a food processor along with the chickpea water, the tahini, lemon juice, za’atar and a good pinch of salt. Blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour the rest of the olive oil into the machine whilst it’s running until you have a smooth and emulsified hummus. Season to taste with salt."
+    },
+    {
+      "heading": null,
+      "description": "Back to your flatbreads. Heat a cast-iron pan on a very high heat. Turn your dough out of the bowl and divide it into 8 equal-sized pieces. Roll each into a 2mm thick circle."
+    },
+    {
+      "heading": null,
+      "description": "Pop one at a time into your hot, dry pan and cook for a minute on each side. They should bubble and get a slight char on them."
+    },
+    {
+      "heading": null,
+      "description": "Remove your lamb from the oven and start to pull it with a pair of forks – this should be very easy to do as the lamb will be practically falling apart."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your mint."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Spread some hummus on your flatbread and top with lamb, mint, pomegranate and chillies. Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-03-09T09:17:00+00:00"
+}

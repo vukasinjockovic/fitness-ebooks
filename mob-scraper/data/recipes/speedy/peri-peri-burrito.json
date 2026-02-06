@@ -1,0 +1,294 @@
+{
+  "id": "1393159",
+  "slug": "peri-peri-burrito",
+  "title": "Peri Peri Burrito",
+  "url": "https://www.mob.co.uk/recipes/peri-peri-burrito",
+  "summary": "We have taken the best bits of a burrito and given it a Portuguese twist. Packed full of spicy rice, beans & delicious Quorn Makes Amazing Peri Peri Strips.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A7128.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 507,
+    "protein": 25,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 77,
+    "dietary_fibre": 10,
+    "sugars": 7,
+    "sodium": 484
+  },
+  "ingredients": [
+    {
+      "label": "2 x 175g Quorn Makes Amazing Peri Peri Strips",
+      "quantity": "350",
+      "unit": null,
+      "name": "Vegetarian Chicken Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Long Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Long Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Long Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cayenne Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chopped Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Cannellini Beans",
+      "quantity": "492",
+      "unit": null,
+      "name": "Drained Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Cannellini Beans",
+      "quantity": "492",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tortilla Wraps",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Baby Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the white onion and sauté half in a pan in a glug of olive oil. Cook for 10 minutes until very soft. Meanwhile, wash the rice until the water runs clear."
+    },
+    {
+      "heading": null,
+      "description": "Add in the cayenne pepper, turmeric, paprika, and grate in the garlic and toast for 1 minute."
+    },
+    {
+      "heading": null,
+      "description": "Add the rice, 300ml water, chopped tomato and salt to taste. Cover the pan with a lid and simmer for 10 minutes. Fluff the rice up with a fork and allow to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "In a separate pan, heat up a glug of oil and pop in the cumin seeds. When they start to sizzle, add in the other half of the white onion and cook for 5-7 minutes until softened. Add in drained cannellini beans and warm through for a few minutes. Season with salt and set to one side."
+    },
+    {
+      "heading": null,
+      "description": "Dice the tomatoes, red onion and coriander, then combine in a bowl with any juices from the tomato. Season with salt and the juice of one lime."
+    },
+    {
+      "heading": null,
+      "description": "Gently fry the Quorn Peri Peri Strips in a frying pan with a small glug of oil until warmed through and slightly crispy."
+    },
+    {
+      "heading": null,
+      "description": "Warm your tortilla, then place it onto a sheet of foil. Layer on the rice, beans, Quorn Peri Peri Strips, salsa and spinach. Roll up the tortilla into a burrito shape and wrap with the foil to keep it together. Cut in half and serve. Optionally, you can toast the burrito in a pan too."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-21T10:20:00+00:00"
+}

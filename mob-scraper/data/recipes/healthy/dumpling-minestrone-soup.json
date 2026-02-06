@@ -1,0 +1,256 @@
+{
+  "id": "4659140",
+  "slug": "dumpling-minestrone-soup",
+  "title": "Dumpling Minestrone Soup",
+  "url": "https://www.mob.co.uk/recipes/dumpling-minestrone-soup",
+  "summary": "There’s a whole new world when you realise dumplings are just juicy meatballs that are covered pasta. They're glorious when dropped into a hearty minestrone soup recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Dumpling-Minestrone-Soup-Recipe.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 357,
+    "protein": 10,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 45,
+    "dietary_fibre": 6,
+    "sugars": 11,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "5 Tbsp Extra Virgin Olive Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Potato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Stalks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Cannellini Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chopped Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1250ml Chicken Stock",
+      "quantity": "1250",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "18 Frozen Dumplings/Gyozas",
+      "quantity": "18",
+      "unit": null,
+      "name": "Frozen Dumplings",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Basil, Plus Extra To Serve",
+      "quantity": "50",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the garlic, onions and celery. Peel carrots and potato and matchstick all the remaining veg."
+    },
+    {
+      "heading": null,
+      "description": "Add olive oil to a large sauce pot on medium high heat. Add onions, celery, garlic and a pinch of salt, then cook for 5 mins or until lightly golden. Add tomato paste, lots of black pepper and cook for 1 min. Add all the vegetables, cook for 5 mins or until slightly soft."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the tinned tomatoes, beans, chicken stock, soy sauce, sugar, chilli powder and all the basil stalks. Bring to the boil with a lid and simmer on low heat for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour in all the cherry tomatoes and cook for 5 mins without the lid. Add in all the dumplings and boil for 3 mins, gently stirring to prevent it from sticking."
+    },
+    {
+      "heading": null,
+      "description": "Add most of the basil leaves, reserving some for garish, then drizzle a little olive oil and taste for seasoning, add a little salt if needed."
+    },
+    {
+      "heading": null,
+      "description": "Serve into bowls and garnish with olive oil, and remaining basil"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-06T10:13:00+00:00"
+}

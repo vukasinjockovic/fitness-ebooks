@@ -1,0 +1,117 @@
+{
+  "id": "3700143",
+  "slug": "watermelon-mint-chilli-ice-pops",
+  "title": "Watermelon, Mint, Chilli Ice Pops",
+  "url": "https://www.mob.co.uk/recipes/watermelon-mint-chilli-ice-pops",
+  "summary": "Fresh and spicy. This flavour combo is perfect for the summertime. Check out the other flavour combos on the website.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/Watermelon-Mint-Chilli-Ice-Pops.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 21,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 5,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "400g Watermelon",
+      "quantity": "400",
+      "unit": null,
+      "name": "Watermelon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Chili (About 10g)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3g Mint",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sumac (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Blend the watermelon (with the seeds for extra nutrients if you like) with the mint, chili and lime, until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour into the molds and freeze for 3-4 hours."
+    },
+    {
+      "heading": null,
+      "description": "Optional to sprinkle some sumac over them, which is really deliciously zingy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-26T15:52:00+01:00"
+}

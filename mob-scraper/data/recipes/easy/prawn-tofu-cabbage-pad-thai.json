@@ -1,0 +1,289 @@
+{
+  "id": "7989227",
+  "slug": "prawn-tofu-cabbage-pad-thai",
+  "title": "Prawn, Tofu & Cabbage Pad Thai",
+  "url": "https://www.mob.co.uk/recipes/prawn-tofu-cabbage-pad-thai",
+  "summary": "Sweet, tangy, chewy, and crunchy. This Pad Thai remix is big on flavour, fast on the hob and very satisfying.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Prawn-Tofu-Cabbage-Pad-Thai.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 655,
+    "protein": 38,
+    "fat": 22,
+    "saturated_fat": 4,
+    "carbohydrates": 73,
+    "dietary_fibre": 6,
+    "sugars": 25,
+    "sodium": 1780
+  },
+  "ingredients": [
+    {
+      "label": "120g Flat Rice Noodles",
+      "quantity": "120",
+      "unit": null,
+      "name": "Dried Rice Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Flat Rice Noodles",
+      "quantity": "120",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Raw Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Firm Tofu",
+      "quantity": "60",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Firm Tofu",
+      "quantity": "60",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Whole Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mung Bean Sprouts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Pointed Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Large Pointed Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Pointed Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Roasted Peanuts",
+      "quantity": "20",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Tamarind Purée",
+      "quantity": "60",
+      "unit": null,
+      "name": "Tamarind Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Brown Sugar",
+      "quantity": "30",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coriander, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Chilli Flakes (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak the rice noodles in hot water for 90 seconds, then rinse under cold water. They should be very al dente — they’ll finish cooking in the pan."
+    },
+    {
+      "heading": null,
+      "description": "Slice the spring onions into 2cm chunks, separating the whites and greens. Finely shred the cabbage. Dice the tofu into 1cm cubes. Crush the peanuts. Set everything aside."
+    },
+    {
+      "heading": null,
+      "description": "Make the sauce by mixing the tamarind purée, brown sugar, fish sauce, dark soy sauce, and grating in the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Set a wok or large frying pan over a medium-high heat with the oil. Once hot, add the tofu and prawns. Fry for 2–3 mins, tossing regularly, until the tofu is golden and the prawns are pink. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the cabbage to the pan and stir-fry for 2–3 mins until it starts to char and wilt."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the noodles and pour over the sauce. Stir-fry for a minute or two until the sauce thickens and coats everything."
+    },
+    {
+      "heading": null,
+      "description": "Push the noodles to one side of the pan and crack in the eggs. Leave to set slightly, then scramble until just cooked. Mix through the noodles."
+    },
+    {
+      "heading": null,
+      "description": "Return the prawns and tofu to the pan, along with the bean sprouts and spring onion whites. Toss everything together for 1–2 mins until hot and combined."
+    },
+    {
+      "heading": null,
+      "description": "Divide between bowls and top with crushed peanuts, coriander and lime wedges. Finish with chilli flakes if you like it spicy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Calorie",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-10-27T11:15:00+00:00"
+}

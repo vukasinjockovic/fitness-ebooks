@@ -1,0 +1,199 @@
+{
+  "id": "5469937",
+  "slug": "prawn-pickled-chopped-salad",
+  "title": "Prawn & Pickled Ginger Chopped Salad",
+  "url": "https://www.mob.co.uk/recipes/prawn-pickled-chopped-salad",
+  "summary": "This is a wonderfully refreshing chopped salad that's perfect for seeing in the summer months.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Sushi-Chopped-Salad.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 210,
+    "protein": 15,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 22,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "2 Cucumbers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Carrots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cooked King Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Smoked Salmon",
+      "quantity": "100",
+      "unit": null,
+      "name": "Smoked Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Smoked Salmon",
+      "quantity": "100",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sushi ginger",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sushi Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice Pouch",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice Pouch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice Pouch",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Edamame",
+      "quantity": "150",
+      "unit": null,
+      "name": "Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Sesame Seeds",
+      "quantity": "25",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ginger Juice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pickled Ginger Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook your rice according to packet instructions and leave to cool. Scoop out the seeds on the cucumber and slice in half lengthwise and peel the carrots."
+    },
+    {
+      "heading": null,
+      "description": "Place your cucumbers and carrots onto a board and chop them into even-sized pieces. Add the smoked salmon, sushi ginger and prawns to the chopping board and continue to chop."
+    },
+    {
+      "heading": null,
+      "description": "Tip your chopped ingredients into a bowl along with the rice, edamame and sesame seeds."
+    },
+    {
+      "heading": null,
+      "description": "Make the dressing by mixing together the ginger juice from the jar along with your soy and rice vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Pour the dressing into the bowl and toss it all together."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Batch",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-26T12:00:00+01:00"
+}

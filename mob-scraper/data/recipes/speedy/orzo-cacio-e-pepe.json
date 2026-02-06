@@ -1,0 +1,138 @@
+{
+  "id": "4415548",
+  "slug": "orzo-cacio-e-pepe",
+  "title": "Orzo Cacio e Pepe",
+  "url": "https://www.mob.co.uk/recipes/orzo-cacio-e-pepe",
+  "summary": "We have nailed the cheesy, creamy pepperiness of an authentic cacio e pepe, and this is the easiest version in existence. Everything’s cooked in one pan.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Orzo-Cacio-e-Pepe.jpg",
+  "cook_time": 12,
+  "prep_time": 3,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 18,
+    "fat": 21,
+    "saturated_fat": 13,
+    "carbohydrates": 64,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 273
+  },
+  "ingredients": [
+    {
+      "label": "400g Dried Orzo Pasta",
+      "quantity": "400",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dried Orzo Pasta",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Measure 750ml of water into a large saucepan. Bring to the boil and season with salt. Drop in the orzo pasta. Cook for 7–8 mins, until you are left with around 100ml of water and the orzo pasta is nearly cooked"
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile finely grate the Parmesan cheese onto a chopping board. Crush the peppercorns, and then toast them in a pan with no oil, until they start smoking."
+    },
+    {
+      "heading": null,
+      "description": "Once the orzo is ready, lower the heat to medium and stir in the butter. Once melted, stir in the Parmesan in three additions, waiting for the first to melt before adding the next one. Once all the Parmesan has been added you should be left with a silky, glossy sauce. Add a splash more water if the sauce looks a little thick."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the cracked black pepper and finely grate in the lemon zest. Spoon the orzo into four bowls. Heaven."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-23T09:35:00+01:00"
+}

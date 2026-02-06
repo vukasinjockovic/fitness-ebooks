@@ -1,0 +1,276 @@
+{
+  "id": "5060715",
+  "slug": "yellow-coconut-braised-chicken-chickpeas",
+  "title": "Coconut-Braised Chicken & Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/yellow-coconut-braised-chicken-chickpeas",
+  "summary": "Braising your chicken in coconut not only tenderises the meat but imparts it with a lovely fragrant flavour. This recipe is guaranteed to get you top marks at dinner time.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Yellow-Coconut-Braised-Chicken-Chickpeas.jpg",
+  "cook_time": 45,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 617,
+    "protein": 38,
+    "fat": 36,
+    "saturated_fat": 18,
+    "carbohydrates": 32,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Bone-In Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves, minced",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves, minced",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger sliced",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemongrass Stalk, bashed",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion sliced, chunky",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Red Curry Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thai Red Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Madras Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Madras Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Full-Fat Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Low-Salt Chicken Stock",
+      "quantity": "150",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown or White Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Tbsp Fish Sauce",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Limes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander Stems",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g White Jasmine Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g White Jasmine Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fried Eggs (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Fried Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fried Shallots",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Pat the chicken skin dry with kitchen paper, then season the skin with salt. Pour in just enough netural oil to cover the base of a large ovenproof casserole dish and add the chicken skin-side down to the cold pan. Now turn the heat to medium low and cook on just one side for 8 mins, without interference – there should be a gentle sizzle as the chicken fat releases and the skin gets golden."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, mince the garlic, and finely slice the peeled ginger into rounds, and finely slice the onion into half moons. Bruise the lemongrass with the flat side of the knife and repeat to the red chillies."
+    },
+    {
+      "heading": null,
+      "description": "Remove the chicken thighs and set aside on a plate (don’t worry about cooking it through now as it will be added back to the pan). Add the onion to the chicken fat and cook for 2 mins or until lightly golden. Now add the ginger, garlic, curry paste and curry powder and the thick white part of the coconut milk and cook for 2 mins or until it begins to lightly caramelise and thicken."
+    },
+    {
+      "heading": null,
+      "description": "Add in the drained chickpeas, the remaining coconut milk, lemongrass, chilli, sugar, and fish sauce. Mix well then bring to a simmer. Return the chicken so it is skin-side up, and add just enough stock so the liquid is halfway up the chicken (you might need a bit more or less stock than listed in the ingredients). Bring to a simmer and cook in the oven for 45 mins uncovered until the chicken is cooked through."
+    },
+    {
+      "heading": null,
+      "description": "When the chicken is ready, remove the hot dish from the oven and remove the lemongrass stalks and ginger pieces. Squeeze in the juice from ⅓ of the limes and taste for seasoning – add a splash more salt or fish sauce if needed. Allow the chicken to rest for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Divide the chicken between plates and sprinkle over chopped fresh coriander leaves and crispy shallots. Serve with your toppings of choice (I suggest cooked rice, lime wedges and fried eggs)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-10-06T11:00:00+01:00"
+}

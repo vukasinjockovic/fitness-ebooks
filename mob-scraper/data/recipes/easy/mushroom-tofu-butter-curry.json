@@ -1,0 +1,291 @@
+{
+  "id": "4714989",
+  "slug": "mushroom-tofu-butter-curry",
+  "title": "Mushroom & Tofu Butter Curry",
+  "url": "https://www.mob.co.uk/recipes/mushroom-tofu-butter-curry",
+  "summary": "This creamy, rich and decadent curry is a spin on butter chicken, but I’ve used caramelised mushrooms for flavour and cubed tofu which absorbs all of the flavour and gives a great protein boost.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Mushroom-and-Tofu-Butter-Curry.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 25,
+    "fat": 38,
+    "saturated_fat": 20,
+    "carbohydrates": 104,
+    "dietary_fibre": 9,
+    "sugars": 10,
+    "sodium": 730
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Grated Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Button Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Button Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Button Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Firm Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Firm Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegan Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegan Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115g Passata",
+      "quantity": "115",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Coconut Milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Basmati Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Basmati Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Roti",
+      "quantity": "2",
+      "unit": null,
+      "name": "Roti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Coriander Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Fresh Red Chilli (Optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the mushrooms into bite-size pieces. Cube the tofu into small cubes. Finely chop the onion, mince the garlic and ginger."
+    },
+    {
+      "heading": null,
+      "description": "Cook your rice according to package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Melt 1 tbsp vegan butter in a large frying pan on medium high heat. Add the mushrooms with some salt and pepper and cook for about 5-7 mins, until they are golden and caramelised. Remove them from the pan and set them aside in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Remove the mushrooms from the pan and melt another 1 tbsp of butter on medium high heat. Add the tofu and cook for about 5 mins, tossing occasionally, until they are golden on each side, about 5 mins. Add 1 soy sauce, stir for 1 minute and then remove from the pan and add them to the bowl with the mushrooms."
+    },
+    {
+      "heading": null,
+      "description": "Heat 2 tbsp of olive oil, Cook the onion for about 5 mins until translucent, then add the garlic and ginger, spices, and 1 tbsp of butter. Cook for about 3 mins until all of the flavours have combined, then stir through the passata and tomato paste. Add the coconut milk and simmer for 5 mins until the sauce has thickened. Add the mushrooms and tofu back into the pan. Simmer for another 5 mins all together until the sauce has thickened a little more and all of the flavours have absorbed into the tofu."
+    },
+    {
+      "heading": null,
+      "description": "To serve, dish the rice out into bowls and spoon over the curry. Finish with coriander leaves and some more chilli flakes or fresh chilli if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-30T13:56:00+00:00"
+}

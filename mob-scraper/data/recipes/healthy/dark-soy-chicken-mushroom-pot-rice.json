@@ -1,0 +1,314 @@
+{
+  "id": "5129640",
+  "slug": "dark-soy-chicken-mushroom-pot-rice",
+  "title": "Dark Soy Chicken & Mushroom Pot Rice",
+  "url": "https://www.mob.co.uk/recipes/dark-soy-chicken-mushroom-pot-rice",
+  "summary": "A rich and umami dish that's got layers and layers of flavour. Rice doesn't get better than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Dark-Soy-Chicken-Mushroom-Pot-Rice.jpg",
+  "cook_time": 40,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 28,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 92,
+    "dietary_fibre": 3,
+    "sugars": 7,
+    "sodium": 1102
+  },
+  "ingredients": [
+    {
+      "label": "150g Shiitake Mushrooms",
+      "quantity": "150",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger, minced",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil, plus extra to serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Oyster Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Dark Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Shaoxing Wine, Dry Sherry or Cooking Wine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shaoxing Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Chicken Stock Cube",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Chicken Stock Cube",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Cornflour",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g White Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g White Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480ml Water",
+      "quantity": "480",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pak Choi",
+      "quantity": null,
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a large bowl with cold tap water, then add the shiitake mushrooms. Leave to soak."
+    },
+    {
+      "heading": null,
+      "description": "Use scissors to cut the chicken into thumb-sized chunks. Transfer to a medium-sized mixing bowl. Drain the mushrooms and discard the stems. Cut the tops into similar thumb-sized pieces then add them into the mixing bowl. Finely grate the ginger and add to the chicken, along with all the other marinade ingredients. Mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Put the rice in a sieve and use your fingers to rinse all the grains under cold tap water. Shake the sieve to release all the starch, then set aside in the sieve to drain."
+    },
+    {
+      "heading": null,
+      "description": "For the rice: Cut the spring onion whites into small chunks (reserve the green tops for later). Mince the garlic and ginger. Add the spring onion whites, garlic, and ginger into a large deep lidded frying pan with a drizzle of oil. Cook for 1 min over a low heat, or until lightly golden. Add the rice, mix well, and cook for another minute. Add the water, sugar and salt, then mix everything very well. Bring up to the boil, then pop the lid on, turn the heat down to low-medium and cook for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour all the marinated chicken and mushrooms on top of the rice (don’t mix it) then pop the lild back on. Turn the heat down to low and cook for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat off, but keep the lid on for 10 mins to finish cooking. To serve, drizzle over some sesame oil and scatter over the finely sliced spring onion green tops and toasted sesame seeds. Use a rice paddle or spatula to reveal the rice beneath the sauce, then gently mix before serving. Eat with any steamed greens on the side, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-28T06:00:00+00:00"
+}

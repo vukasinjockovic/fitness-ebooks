@@ -1,0 +1,107 @@
+{
+  "id": "3187564",
+  "slug": "old-fashioned",
+  "title": "Old Fashioned",
+  "url": "https://www.mob.co.uk/recipes/old-fashioned",
+  "summary": "This is my favourite cocktail and I hope I did it justice. Enjoy",
+  "image": "https://files.mob-cdn.co.uk/recipes/CMS-0715.jpg",
+  "cook_time": null,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 143,
+    "protein": 0,
+    "fat": null,
+    "saturated_fat": null,
+    "carbohydrates": 6,
+    "dietary_fibre": 0,
+    "sugars": 6,
+    "sodium": null
+  },
+  "ingredients": [
+    {
+      "label": "50ml Whiskey",
+      "quantity": "50",
+      "unit": null,
+      "name": "Whiskey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add one teaspoon of soft brown sugar to your glass along with two dashes of Angostura bitters."
+    },
+    {
+      "heading": null,
+      "description": "Muddle them together until it forms a paste at the bottom."
+    },
+    {
+      "heading": null,
+      "description": "Cut a slice of the rind of an orange to use as garnish and another slice to rub around the rim for aromatics."
+    },
+    {
+      "heading": null,
+      "description": "Place a large ice cube in the glass then add your double measure of whiskey."
+    },
+    {
+      "heading": null,
+      "description": "Stir the drink for 1-2 mins, then add your orange garnish."
+    },
+    {
+      "heading": null,
+      "description": "Stir for a further minute and a half then enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-03-11T11:35:00+00:00"
+}

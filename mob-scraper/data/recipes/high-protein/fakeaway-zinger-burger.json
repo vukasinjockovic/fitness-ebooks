@@ -1,0 +1,295 @@
+{
+  "id": "2061477",
+  "slug": "fakeaway-zinger-burger",
+  "title": "Fakeaway Zinger Burger",
+  "url": "https://www.mob.co.uk/recipes/fakeaway-zinger-burger",
+  "summary": "Our ridiculously crispy chicken burger, delicately spiced and sandwiched between soft brioche buns. Seriously finger-licking good.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/new-3867.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 782,
+    "protein": 39,
+    "fat": 39,
+    "saturated_fat": 9,
+    "carbohydrates": 66,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Garlic Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Garlic Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Chilli Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Italian Herb Mix",
+      "quantity": "4",
+      "unit": null,
+      "name": "Italian Herb Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Yellow Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sriracha",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Plain Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mayo",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Apple Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Head Lettuce",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Burger Buns",
+      "quantity": "195",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 American Cheese Slices",
+      "quantity": "4",
+      "unit": null,
+      "name": "American Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 American Cheese Slices",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the marinade, combine the Greek yoghurt, smoked paprika, 2 tsp garlic powder, 2 tsp chilli powder, 2 tsps Italian herb mix, mustard, 1 tbsp sriracha, 1 tsp salt and the eggs in a bowl. Mix well until smooth then add in your chicken thighs and allow to marinate for at least 30 mins in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Combine the plain flour, 2 tsp chilli powder, 2 tsp Italian herb mix, 2 tsp garlic powder and 3 tsp salt in a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Combine the mayonnaise, apple cider vinegar and 2 tbsp sriracha in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Shred the lettuce and slice the tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Heat up a big pot with enough vegetable oil to deep fry the chicken thighs."
+    },
+    {
+      "heading": null,
+      "description": "Lift the chicken out of the marinade and shake off the excess mixture. Put it into the flour mix and press it to coat it. Press and scrunch the chicken into the flour at least 4 times so it will be well coated and has lots of craggy bits; this is what makes it extra crispy."
+    },
+    {
+      "heading": null,
+      "description": "Deep fry the chicken for 5-6 mins until golden brown and cooked through. You can check it is cooked by checking with a meat thermometer - it should be 75°C."
+    },
+    {
+      "heading": null,
+      "description": "Allow the chicken to drain in a metal sieve or colander. This will prevent the bottom from becoming soggy."
+    },
+    {
+      "heading": null,
+      "description": "Toast the buns on a hot dry pan. Spread 1 tbsp of the spicy mayo on the bun before adding a layer of lettuce, tomatoes, the fried chicken and finally a slice of cheese. Close the burger and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-05-17T14:21:00+01:00"
+}

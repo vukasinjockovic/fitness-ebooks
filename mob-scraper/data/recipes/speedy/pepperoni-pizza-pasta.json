@@ -1,0 +1,195 @@
+{
+  "id": "2541156",
+  "slug": "pepperoni-pizza-pasta",
+  "title": "Pepperoni Pizza Pasta",
+  "url": "https://www.mob.co.uk/recipes/pepperoni-pizza-pasta",
+  "summary": "If you love pepperoni pizza then you’re in for a treat. Gooey mozzarella, crispy pepperoni and glossy pasta. Delish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A9119-4.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 782,
+    "protein": 36,
+    "fat": 34,
+    "saturated_fat": 14,
+    "carbohydrates": 80,
+    "dietary_fibre": 6,
+    "sugars": 9,
+    "sodium": 1537
+  },
+  "ingredients": [
+    {
+      "label": "3 Shallots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves Of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Pepperoni Slices",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pepperoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins Chopped Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Small Bunch Of Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parmesan To Serve",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the shallots and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add a big glug of oil to a frying pan and add in the pepperoni. Cook for 5 min until very crispy. Set aside the crispy pepperoni on a paper towel."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the crispy pepperoni."
+    },
+    {
+      "heading": null,
+      "description": "Add your chopped shallots and cook for another 5 mins. Then add in the garlic and cook for 1 min until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add in the chopped tomatoes, oregano and half of your crispy pepperoni. Cook for 15 mins until the sauce has thickened."
+    },
+    {
+      "heading": null,
+      "description": "Pop your spaghetti to cook in some salted boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Tear up the mozzarella and basil."
+    },
+    {
+      "heading": null,
+      "description": "Once the sauce is thickened and your pasta is al dente, add the spaghetti to the pan along with 150ml pasta water and toss together until the pasta is well-coated."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the torn mozzarella and basil, and mix until the cheese is slightly melted."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a sprinkling of parmesan cheese and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Family-Friendly",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-10-31T16:00:00+00:00"
+}

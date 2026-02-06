@@ -1,0 +1,182 @@
+{
+  "id": "5158750",
+  "slug": "spicy-sausage-shakshuka",
+  "title": "Spicy Sausage Shakshuka",
+  "url": "https://www.mob.co.uk/recipes/spicy-sausage-shakshuka",
+  "summary": "Here's a breakfast with a bit of substance, something to get you going in the morning. Sausages are broken up and cooked with spicy harissa and tomatoes, poach a few eggs straight in the sauce and eat with some crusty bread. Beautiful.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Spicy-Sausage-Shakshuka.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 22,
+    "fat": 25,
+    "saturated_fat": 7,
+    "carbohydrates": 18,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 701
+  },
+  "ingredients": [
+    {
+      "label": "4 Sausages",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Harissa",
+      "quantity": "1",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "460g Jar of Roasted Red Peppers",
+      "quantity": "460",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Eggs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a large pan over a high heat and crumble in your sausages. Brown off for a few mins, breaking them up with a spoon as you go."
+    },
+    {
+      "heading": null,
+      "description": "Slice the onion, add to the pan and reduce the heat to medium. Cook for about 5 mins until the onion has softened."
+    },
+    {
+      "heading": null,
+      "description": "Drain and slice the peppers and add to the pan along with the cumin and harissa and cook for another 3 or 4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomatoes and a tsp of salt, stir and allow to simmer for about 10 mins until thickened."
+    },
+    {
+      "heading": null,
+      "description": "Reduce the heat to low, make 4 little wells in the sauce and crack 2 eggs in each and season with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Cover the pan and cook for another 5 mins or until the eggs are cooked (keep an eye on the yolks to make sure they stay runny)."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the heat, squeeze over the juice of the lemon, sprinkle with fresh parsley and a drizzle of olive oil. Serve hot with crusty bread for dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-22T10:11:00+00:00"
+}

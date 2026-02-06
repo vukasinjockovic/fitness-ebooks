@@ -1,0 +1,134 @@
+{
+  "id": "7047720",
+  "slug": "high-protein-breakfast-smoothie",
+  "title": "High-Protein Smoothie Bowl",
+  "url": "https://www.mob.co.uk/recipes/high-protein-breakfast-smoothie",
+  "summary": "Stop drinking shop-bought protein shakes and make this healthy, high-protein breakfast smoothie bowl instead. Packed with fruit, protein and healthy fats, it's the perfect post-workout fuel or quick breakfast.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/High-Protein-Smoothie-Bowl.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 340,
+    "protein": 29,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 32,
+    "dietary_fibre": 7,
+    "sugars": 22,
+    "sodium": 110
+  },
+  "ingredients": [
+    {
+      "label": "50g Vanilla Protein Powder",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vanilla Protein Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Almond Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Almond Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Natural Yoghurt",
+      "quantity": "350",
+      "unit": null,
+      "name": "Skyr Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Natural Yoghurt",
+      "quantity": "350",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Blueberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Blueberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Raspberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Raspberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Frozen Strawberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Chia Seeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Flaxseeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Whole Flaxseed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add all the ingredients to a blender. Blend until smooth and creamy. If you prefer a thinner consistency, add a splash of extra almond milk. Squeeze in some lemon juice for a little extra zing and pour it out into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Finish with your toppings. We've gone for some fruit, granola, peanut butter, a drizzle of honey and more chia seeds for extra crunch. But add whatever you fancy."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-04T15:07:00+00:00"
+}

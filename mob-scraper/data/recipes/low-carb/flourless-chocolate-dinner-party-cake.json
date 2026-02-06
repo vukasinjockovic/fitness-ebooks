@@ -1,0 +1,168 @@
+{
+  "id": "6512972",
+  "slug": "flourless-chocolate-dinner-party-cake",
+  "title": "Flourless Chocolate Dinner Party Cake",
+  "url": "https://www.mob.co.uk/recipes/flourless-chocolate-dinner-party-cake",
+  "summary": "Make this rich, chocolatey gluten-free dessert for your next dinner party.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Flourless-Dinner-Party-Sponge.jpg",
+  "cook_time": 25,
+  "prep_time": 25,
+  "total_time": 50,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 246,
+    "protein": 4,
+    "fat": 17,
+    "saturated_fat": 10,
+    "carbohydrates": 20,
+    "dietary_fibre": 3,
+    "sugars": 16,
+    "sodium": 41
+  },
+  "ingredients": [
+    {
+      "label": "300g 70% Dark Chocolate",
+      "quantity": "300",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Unsalted Butter",
+      "quantity": "200",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dark Brown Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Vanilla Extract",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Of Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Cocoa Powder",
+      "quantity": "5",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Espresso Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Espresso Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Cacao Nibs",
+      "quantity": null,
+      "unit": null,
+      "name": "Cacao Nib",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180˚C fan. Grease and line a 20cm round cake tin. Break the dark chocolate into rough pieces and cut the butter into rough cubes."
+    },
+    {
+      "heading": null,
+      "description": "Set a heatproof mixing bowl above a slightly smaller saucepan of boiling water over a medium heat (for a bain marie). Add the chocolate, espresso powder (if using) and butter to the bowl and stir until melted. Remove from the heat and set aside to cool to room temp."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, separate the egg whites and yolks into two separate bowls. Add the sugar to the egg yolks and whisk (using an electric whisk if possible) for 5 mins until yellow and creamy, then stir through the vanilla and salt."
+    },
+    {
+      "heading": null,
+      "description": "In a clean dry bowl, use an electric whisk to beat the egg whites and baking powder together, starting on a low speed and increasing the speed gently until stiff peaks are formed. If working by hand, you may have to whisk for a while longer."
+    },
+    {
+      "heading": null,
+      "description": "Stir the melted chocolate mixture into the yolk mixture, then sift in the cocoa powder. Stir in a small spoonful of the beaten whites and whisk thoroughly, then very carefully fold in the remaining whites in two parts, until just incorporated. Be careful not to overwork it or you'll knock the air out of the mixture."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the mixture to your prepared tin, level out to the edges and sprinkle the cacao nibs (if using) on top of the batter. Bake for approximately 25 mins – the middle should wobble slightly when the tin is shaken gently."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and leave to cool in the tin for 10 mins before turning out on to a wire rack to cool completely or serving hot. Dust with the espresso powder before serving, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Afternoon Tea",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-08T13:49:00+01:00"
+}

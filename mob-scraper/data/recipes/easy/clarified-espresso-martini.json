@@ -1,0 +1,135 @@
+{
+  "id": "5346256",
+  "slug": "clarified-espresso-martini",
+  "title": "Clarified Espresso Martini",
+  "url": "https://www.mob.co.uk/recipes/clarified-espresso-martini",
+  "summary": "We've taken an espresso martini and clarified it. Simple as that. This smooth cocktail is going to wow at your next dinner party.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Clarified-Espresso-Martini.jpg",
+  "cook_time": 0,
+  "prep_time": 180,
+  "total_time": 180,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 97,
+    "protein": 1,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 11,
+    "dietary_fibre": 0,
+    "sugars": 9,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "175ml Espresso",
+      "quantity": "175",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Fresh Orange Juice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Orange Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Mezcal",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mezcal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Kahlua",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml",
+      "quantity": "200",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coffee Beans (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Coffee Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Juice your oranges until you have the desired amount of liquid."
+    },
+    {
+      "heading": null,
+      "description": "Add your mezcal, orange juice, Kahlúa and coffee to a jug and mix."
+    },
+    {
+      "heading": null,
+      "description": "Pour your cocktail mix into your milk. It is important you do it this way around as then the all the cocktail will touch the milk and clarify."
+    },
+    {
+      "heading": null,
+      "description": "Leave to sit for 2-3 hours while everything curdles and the magic happens."
+    },
+    {
+      "heading": null,
+      "description": "Pour gently through a coffee filter, at first it will run through cloudy but give it some time until it starts dripping clear."
+    },
+    {
+      "heading": null,
+      "description": "Then switch to a new container and let it all pour through clear. Add the cloudy run off back into the funnel to filter."
+    },
+    {
+      "heading": null,
+      "description": "After a few hours it should all be filtered and you’re left with a delicious drink."
+    },
+    {
+      "heading": null,
+      "description": "Serve over ice, and here I used a little coffee froth to top to still give the iconic espresso martini foamy head. Garnished with three coffee beans."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy, the drink should last a few weeks in the freezer."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-05T05:00:00+01:00"
+}

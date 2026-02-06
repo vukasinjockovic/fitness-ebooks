@@ -1,0 +1,156 @@
+{
+  "id": "1972772",
+  "slug": "cacio-e-pepe-gnocchi",
+  "title": "Cacio e Pepe Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/cacio-e-pepe-gnocchi",
+  "summary": "Robert Chambers from the exquisite restaurant Luca shows us the perfect way to make gnocchi with a luscious cacio e pepe sauce.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/849A0667.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 120,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 13,
+    "fat": 14,
+    "saturated_fat": 9,
+    "carbohydrates": 34,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 46
+  },
+  "ingredients": [
+    {
+      "label": "650g Maris Piper Potatoes",
+      "quantity": "650",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "650g Maris Piper Potatoes",
+      "quantity": "650",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Grated Parmesan, Plus More To Serve",
+      "quantity": "90",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "150g  '00' Flour",
+      "quantity": "150",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Unsalted Butter",
+      "quantity": "35",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Bake your potatoes in a thick layer of salt for 40-50 mins until soft all the way through. You will know when you can slice it easily with a knife."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, separate one egg with the whites and yolks in separate bowls."
+    },
+    {
+      "heading": null,
+      "description": "Once your potatoes are cooked, rub off the salt with a clean tea towel. Scoop the insides out with a spoon and pass them through a sieve. Put the potato flesh in a bowl and add in 80g parmesan cheese, flour, 1 whole egg, 1 egg yolk and a heaped tbsp of sea salt."
+    },
+    {
+      "heading": null,
+      "description": "Mix very gently to combine, being careful not to overwork the mixture. Tip the dough onto a work surface and roll it into 2cm thick logs. Cut each log into small cubes, and roll them into balls. Push them off a gnocchi board or a fork to form ridges on the surface."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pot of unsalted water to a boil, and pop the gnocchi into the water. Bring the water back up to a boil, then reduce the heat. Cook until the gnocchi float to the top and then cook for a further 30 seconds and remove from the water."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, in a dry pan toast 1 tsp cracked black pepper for 30 secs on a low heat. Add in the butter and, once the butter has melted, add 3 tbsp of the gnocchi cooking water. Turn the heat up and let the mixture emulsify."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat off and add in the cooked gnocchi. Grate in 10g parmesan cheese and toss together to melt the cheese – this will emulsify the sauce further."
+    },
+    {
+      "heading": null,
+      "description": "Finish with a touch more pepper and a light coating of grated parmesan. Tuck in and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-05-01T12:31:00+01:00"
+}

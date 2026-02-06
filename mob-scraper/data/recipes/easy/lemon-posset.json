@@ -1,0 +1,96 @@
+{
+  "id": "6791956",
+  "slug": "lemon-posset",
+  "title": "Lemon Posset",
+  "url": "https://www.mob.co.uk/recipes/lemon-posset",
+  "summary": "A classic pudding consisting of only three ingredients: lemons, double cream and sugar. Super tangy and creamy, it’s a perfect dinner party dessert.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Lemon-Posset.jpg",
+  "cook_time": 10,
+  "prep_time": 240,
+  "total_time": 250,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 474,
+    "protein": 3,
+    "fat": 41,
+    "saturated_fat": 26,
+    "carbohydrates": 29,
+    "dietary_fibre": 1,
+    "sugars": 29,
+    "sodium": 41
+  },
+  "ingredients": [
+    {
+      "label": "150g Caster Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Lemons",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Double Cream",
+      "quantity": "600",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Measure the caster sugar into a saucepan and add the zest of ⅔ the lemons. Rub the lemon zest into the sugar and leave for a minute or two to bring out the lemon flavour."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, juice the lemons into a jug and measure out 75ml juice."
+    },
+    {
+      "heading": null,
+      "description": "Pour the double cream into the saucepan with the sugar then set it over a low heat. Cook it gently, stirring occasionally until the sugar has dissolved, then turn up the heat to medium and bring the cream to the boil. Bubble away for a minute then take off the heat and stir in the lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Pour the posset into four serving vessels – ramekins, fun small bowls, or even glasses work well here. Transfer to the fridge for at least 4 hours until chilled and set. Enjoy as is or with shortbread biscuits for dunking."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-09-02T15:54:00+01:00"
+}

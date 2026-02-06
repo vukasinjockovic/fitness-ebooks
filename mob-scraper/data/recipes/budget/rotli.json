@@ -1,0 +1,121 @@
+{
+  "id": "1681583",
+  "slug": "rotli",
+  "title": "Rotli",
+  "url": "https://www.mob.co.uk/recipes/rotli",
+  "summary": "Rotli, roti, chapati - what you call this bread depends on where you are from. These rotli are the ones my mum makes and I think they are the best. Seema x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Rotli.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 256,
+    "protein": 7,
+    "fat": 4,
+    "saturated_fat": 0,
+    "carbohydrates": 46,
+    "dietary_fibre": 3,
+    "sugars": 0,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "300g Chapati Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chapati Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Boiling Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the chapati flour with a pinch of salt, 1 tbsp of oil and 200ml of boiling water straight from the kettle. Mix it with a spoon until its cool enough to handle. Knead for 5 mins to form a sticky dough. Pour 1 tbsp of oil over the dough and continue to knead so the dough is less sticky and very soft."
+    },
+    {
+      "heading": null,
+      "description": "Cover the dough and allow it to rest for 15-20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat up a frying pan to a high heat, allow it to warm up for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pinch off a golf ball-sized piece of dough and liberally dust your work surface with flour. Roll the dough gently into a small circle and then coat it again with flour. Continue rolling until you form a thin circle that is about 15cm in diameter."
+    },
+    {
+      "heading": null,
+      "description": "Place the rotli face-side down in the frying pan. Cook for 30 seconds until small bubbles appear and then flip it. Allow to cook for a further 30 seconds and flip again. Then, using a clean tea towel, press down on the rotli. This will help it to puff up - press down on the parts that are puffing up to push the air to all the sides of the rotli."
+    },
+    {
+      "heading": null,
+      "description": "Whilst one is cooking, roll out the next rotli – bring in a friend to help you. Continue rolling and cooking the rotli until you have run out of dough."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy with a curry, or even spread with butter and sprinkled with sugar as a snack."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-03-10T11:20:00+00:00"
+}

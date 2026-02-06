@@ -1,0 +1,179 @@
+{
+  "id": "3344720",
+  "slug": "lemony-confit-garlic-orzo",
+  "title": "Lemony Confit Garlic Orzo",
+  "url": "https://www.mob.co.uk/recipes/lemony-confit-garlic-orzo",
+  "summary": "This delicious pasta number is made with just 5 ingredients. It was a big hit in the test kitchen. We're sure you and your Mob will love it too!",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_0118.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 486,
+    "protein": 17,
+    "fat": 16,
+    "saturated_fat": 5,
+    "carbohydrates": 67,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 47
+  },
+  "ingredients": [
+    {
+      "label": "5 Garlic Bulbs",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Lemons",
+      "quantity": "5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Red Chillies",
+      "quantity": "5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Orzo",
+      "quantity": "400",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Orzo",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan, Plus More for Sprinkling",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the garlic cloves. You want to keep them whole so don’t smash them!"
+    },
+    {
+      "heading": null,
+      "description": "Peel the lemon rinds into long strips and halve and deseed the red chillies."
+    },
+    {
+      "heading": null,
+      "description": "Pop the garlic cloves, lemon rind and deseeded chillies in a small saucepan and cover with 750ml olive oil, or enough to cover."
+    },
+    {
+      "heading": null,
+      "description": "Heat the saucepan over low heat and cook gently for 30 mins or until the garlic is soft. You want the oil to barely be simmering. If it starts to bubble, remove the pan from the heat to cool a little then pop it back onto the stove to continue cooking."
+    },
+    {
+      "heading": null,
+      "description": "Strain the oil into a bowl. This oil is liquid gold - store it in a jar and use it on/in everything!"
+    },
+    {
+      "heading": null,
+      "description": "Cook the orzo in plenty of boiling salted water until al dente, reserving some of the cooking water for later."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the chillies and grate the parmesan. Place both in a bowl with the garlic and season well with salt and pepper. Mash into a paste."
+    },
+    {
+      "heading": null,
+      "description": "Add a ladleful of the orzo cooking water to the cheesy confit garlic paste and mix to loosen."
+    },
+    {
+      "heading": null,
+      "description": "Drain the orzo and return it to the pot. Add the cheesy confit garlic paste and another splash of orzo cooking water and toss."
+    },
+    {
+      "heading": null,
+      "description": "Toss until a luscious sauce forms and the orzo is nicely coated in it, adding more pasta water as needed."
+    },
+    {
+      "heading": null,
+      "description": "To serve, top with a sprinkle of parmesan and the confit lemon pieces - enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-27T12:30:00+01:00"
+}

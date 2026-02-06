@@ -1,0 +1,150 @@
+{
+  "id": "6592758",
+  "slug": "gnocchi-carbonara",
+  "title": "Gnocchi Carbonara",
+  "url": "https://www.mob.co.uk/recipes/gnocchi-carbonara",
+  "summary": "Soft, pillowy gnocchi in a classic carbonara sauce. Your favourite pasta dish but even more comforting. It’s creamy, salty and hits the spot.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Gnocchi-Carbonara.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 507,
+    "protein": 22,
+    "fat": 23,
+    "saturated_fat": 10,
+    "carbohydrates": 51,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "150g Pancetta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Pecorino",
+      "quantity": "40",
+      "unit": null,
+      "name": "Pecorino Romano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Pecorino",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Egg Yolks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Nutmeg",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the pancetta. Add it to a cold frying pan set over a medium heat and cook until it’s rendered and crisp. Take off the heat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Grate the pecorino and Parmesan cheeses. Whisk together the eggs, egg yolks, grated cheeses, black pepper and nutmeg in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Cook the gnocchi following pack instructions then drain, saving the water."
+    },
+    {
+      "heading": null,
+      "description": "Add the gnocchi to the pancetta, then add the egg yolk mixture with a splash of the cooking water. Mix vigorously until emulsified."
+    },
+    {
+      "heading": null,
+      "description": "To serve, top with some extra grated Parmesan and some more black pepper, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Family-Friendly",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-05T10:30:00+01:00"
+}

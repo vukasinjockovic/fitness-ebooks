@@ -1,0 +1,198 @@
+{
+  "id": "2925111",
+  "slug": "garlicky-sesame-leeks",
+  "title": "Garlicky Sesame Leeks",
+  "url": "https://www.mob.co.uk/recipes/garlicky-sesame-leeks",
+  "summary": "These spicy and tender braised leeks are the perfect thing to lay over a bed of fluffy rice for a quick lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A3673.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 263,
+    "protein": 5,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 15,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 902
+  },
+  "ingredients": [
+    {
+      "label": "4 Leeks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Red Chillies",
+      "quantity": "6",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Cloves of Garlic",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4cm Knob of Ginger",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Sesame Oil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Handful of Peanuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Char the leeks directly on the flame of your gas hob until they are evenly blistered. If you don’t have a gas hob, char them under a very hot grill."
+    },
+    {
+      "heading": null,
+      "description": "Cut the ends off the leeks and cut them in half. Nestle them into a baking dish so they are tightly packed."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the red chillies, or blitz them up in a food processor."
+    },
+    {
+      "heading": null,
+      "description": "Add the chillies and 50ml vegetable oil to a pan on medium-low heat and cook for 10 mins until the oil is stained red."
+    },
+    {
+      "heading": null,
+      "description": "Crush the garlic and roughly chop the garlic and ginger."
+    },
+    {
+      "heading": null,
+      "description": "Add in the garlic, ginger and sesame seeds, stir for 1 min and then turn off the heat. Add in the soy sauce, sesame oil, sugar, juice of the orange and 100ml of water."
+    },
+    {
+      "heading": null,
+      "description": "Pour this over the leeks and cover with foil. If your leeks are still a bit tough, add more water. Braise in the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, roughly chop the peanuts."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle peanuts over the leeks and grate over orange zest."
+    },
+    {
+      "heading": null,
+      "description": "Serve over sticky rice and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "East-Asian Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-01-08T09:00:00+00:00"
+}

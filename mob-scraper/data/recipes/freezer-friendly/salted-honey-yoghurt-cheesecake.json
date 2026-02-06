@@ -1,0 +1,171 @@
+{
+  "id": "4427315",
+  "slug": "salted-honey-yoghurt-cheesecake",
+  "title": "Salted Honey & Yoghurt Cheesecake",
+  "url": "https://www.mob.co.uk/recipes/salted-honey-yoghurt-cheesecake",
+  "summary": "This is a lighter version of the cheesecake you might already be familiar with: it’s rich thanks to a combo of soft ricotta, tangy yoghurt and honey.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Salted-Honey-Yoghurt-Cheesecake.jpg",
+  "cook_time": 60,
+  "prep_time": 120,
+  "total_time": 180,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 181,
+    "protein": 7,
+    "fat": 8,
+    "saturated_fat": 4,
+    "carbohydrates": 20,
+    "dietary_fibre": 0,
+    "sugars": 18,
+    "sodium": 142
+  },
+  "ingredients": [
+    {
+      "label": "250g Thick Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Thick Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Ricotta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Ricotta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Runny Honey",
+      "quantity": "150",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Shelled Pistachios",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Line a sieve with a clean tea towel and set it over a bowl. Add\nthe yoghurt and ricotta to the lined sieve, then leave to strain for a\ncouple of hours at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C and line a 15cm springform tin with two squares of baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Tip the ricotta and yoghurt into a large bowl, discarding any of\nthe liquid that has come out of it, and whisk until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Add all but a tablespoon of the honey and whisk again. Add the\neggs one at a time, whisking until you have a totally smooth batter\nbefore adding the next one. Add the vanilla extract, the zest of the\norange and the sea salt, then whisk until just combined."
+    },
+    {
+      "heading": null,
+      "description": "Pour the cheesecake mixture into the lined tin and bake in the\nmiddle of the oven for 45 minutes. When it is done, it should be set\naround the edges but jiggle in the middle."
+    },
+    {
+      "heading": null,
+      "description": "Leave to cool to room temperature, then pop your cheesecake\ninto the fridge to chill for a couple of hours."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, finely chop the pistachios. Remove the\ncheesecake from the tin and top with the remaining honey and\nchopped pistachios."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Freezer Friendly",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-05T16:35:00+01:00"
+}

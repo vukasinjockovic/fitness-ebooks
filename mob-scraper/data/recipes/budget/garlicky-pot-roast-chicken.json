@@ -1,0 +1,171 @@
+{
+  "id": "2734559",
+  "slug": "garlicky-pot-roast-chicken",
+  "title": "Garlicky Pot Roast Chicken",
+  "url": "https://www.mob.co.uk/recipes/garlicky-pot-roast-chicken",
+  "summary": "This chicken will change your roast dinners forever. Garlic and chicken stock make the \nmost moreish gravy imaginable. A classic.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/CMS-3715.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 135,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 495,
+    "protein": 51,
+    "fat": 27,
+    "saturated_fat": 6,
+    "carbohydrates": 13,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 489
+  },
+  "ingredients": [
+    {
+      "label": "1 Whole Chicken",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1O Bulbs of Garlic",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Thyme",
+      "quantity": "25",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 150°C."
+    },
+    {
+      "heading": null,
+      "description": "Brown off the chicken all over in a large pan that can hold the chicken and has a lid."
+    },
+    {
+      "heading": null,
+      "description": "Peel all your cloves of garlic (this may take a while!) and pick off your thyme leaves. Pick the leaves off your parsley and set aside for later. Cut one of your lemons into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken is browned all over, place the garlic, thyme and parsley stalks around your chicken. Add your stock, 2 tbsp olive oil and a generous pinch of salt and pepper. Bring the mixture to a gentle simmer."
+    },
+    {
+      "heading": null,
+      "description": "Pop the lid on the pan and roast in the oven for an hour."
+    },
+    {
+      "heading": null,
+      "description": "Turn the oven temperature up to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Remove the lid from your dish, then return it to the oven for 20 mins to crisp up the skin."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the juice of 1 lemon through the sauce and add some chopped parsley. Carve up and serve with some crusty bread and your remaining lemon wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-11-25T11:00:00+00:00"
+}

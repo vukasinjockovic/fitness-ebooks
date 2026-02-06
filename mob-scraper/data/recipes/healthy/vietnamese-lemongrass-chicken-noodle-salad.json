@@ -1,0 +1,351 @@
+{
+  "id": "5631630",
+  "slug": "vietnamese-lemongrass-chicken-noodle-salad",
+  "title": "Vietnamese Lemongrass Chicken Noodle Salad",
+  "url": "https://www.mob.co.uk/recipes/vietnamese-lemongrass-chicken-noodle-salad",
+  "summary": "If you want to feel like you're in Vietnam without having to splurge on a plane ticket, this does the job.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Vietnamese-Lemongrass-Chicken-Noodle-Salad.jpg",
+  "cook_time": 10,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 792,
+    "protein": 39,
+    "fat": 32,
+    "saturated_fat": 10,
+    "carbohydrates": 87,
+    "dietary_fibre": 5,
+    "sugars": 17,
+    "sodium": 2322
+  },
+  "ingredients": [
+    {
+      "label": "800g Chicken Thighs, bone-in and skin on",
+      "quantity": "800",
+      "unit": null,
+      "name": "Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Chicken Thighs, bone-in and skin on",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemongrass Stalk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Coconut Milk",
+      "quantity": "4",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-3 Bird’s-Eye Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Bird's Eye Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Fish Sauce",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Rice Vinegar",
+      "quantity": "5",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Lime Juice",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2½ Tbsp Sugar",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Water",
+      "quantity": "60",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Vermicelli Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Vermicelli Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Vermicelli Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Iceberg Lettuce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Mint (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Roasted Peanuts",
+      "quantity": "50",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Crispy Shallots",
+      "quantity": "30",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Lime Wedges",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the lemongrass husk and peel the ginger and garlic, then put all the marinade ingredients into a blender or pestle and mortar and blitz or grind until smooth – it will be quite loose. Pour everything into a large bowl, add the chicken and marinate for at least 20 mins (or up to two days) in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Slice the white onion and put into the bottom of a dutch oven or casserole dish. Add the chicken (skin-side up) and marinade on top of the onions, add a lid and cook in the oven for 25 mins."
+    },
+    {
+      "heading": null,
+      "description": "After 25 mins, remove the lid and turn the heat up to 220°C. Put the dish on the top shelf of the oven and cook for 10-15 mins, to sear the chicken skin. Remove from the oven and set aside to rest for at least 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the nước chấm dressing. Mince the garlic and ginger, finely chop the chilli, then combine all the ingredients in a small bowl. Mix well to dissolve the sugar and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the noodle salad, place the vermicelli noodles into a medium-sized bowl and cover with boiling water. Leave for 4-5 mins. The noodles should be cooked through but still hold their shape, so taste at 4 mins in. Strain as soon as there is no more raw bite and set aside in the same bowl."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the carrot and cucumber into thin matchsticks, or use a peeler to make ribbons, then set aside on a large plate. Finely slice the lettuce, mint and coriander, then set aside on the same plate."
+    },
+    {
+      "heading": null,
+      "description": "When the chicken has slightly cooled, remove the bones and cut into slices."
+    },
+    {
+      "heading": null,
+      "description": "Divide the noodles between four serving bowls, then top with the vegetables, herbs and sliced chicken pieces. Drizzle all over with a few tbsp dressing and some spoons of the chicken gravy. Garnish with peanuts, crispy shallots and a lime wedge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Vietnamese"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-22T04:00:00+01:00"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "4155212",
+  "slug": "spicy-margarita-burning-inferno",
+  "title": "Burning Inferno Spicy Margarita",
+  "url": "https://www.mob.co.uk/recipes/spicy-margarita-burning-inferno",
+  "summary": "This spicy margarita-like drink is going to change your life. Or, at the very least, your cocktail of choice when 5 o'clock rolls around.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Burning-Inferno.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 316,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 54,
+    "dietary_fibre": 1,
+    "sugars": 53,
+    "sodium": 186
+  },
+  "ingredients": [
+    {
+      "label": "1 Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeno",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Lime Juice",
+      "quantity": "25",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Vodka",
+      "quantity": "35",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Triple Sec",
+      "quantity": "25",
+      "unit": null,
+      "name": "Triple Sec",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Dashes of Tabasco Sauce",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Tabasco",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice your jalapeño and juice a lime, saving a slice for garnish."
+    },
+    {
+      "heading": null,
+      "description": "In a pan add your water and sugar and gently heat until the sugar is dissolved. Then add ½ of your jalapeño and simmer on a low heat for 3 mins."
+    },
+    {
+      "heading": null,
+      "description": "Fill a cocktail shaker half way with ice, then add your vodka, lime juice, 25ml of your jalapeño-infused sugar syrup, triple sec and Tabasco."
+    },
+    {
+      "heading": null,
+      "description": "Shake for 5-7 seconds until all the ingredients are combined."
+    },
+    {
+      "heading": null,
+      "description": "Double strain into a glass filled with large ice cubes."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with remaining jalapeño and lime slice. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-28T09:56:00+00:00"
+}

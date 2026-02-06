@@ -1,0 +1,170 @@
+{
+  "id": "3907674",
+  "slug": "banana-bread",
+  "title": "Banana Bread",
+  "url": "https://www.mob.co.uk/recipes/banana-bread",
+  "summary": "The secret to the perfect banana bread? Using 4 whole over-ripe bananas. That, plus toasting the slices in a pan and topping them with a big pat of butter.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/220A9805.jpg",
+  "cook_time": 70,
+  "prep_time": 20,
+  "total_time": 90,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 343,
+    "protein": 4,
+    "fat": 22,
+    "saturated_fat": 13,
+    "carbohydrates": 33,
+    "dietary_fibre": 1,
+    "sugars": 16,
+    "sodium": 92
+  },
+  "ingredients": [
+    {
+      "label": "160g Unsalted Butter",
+      "quantity": "160",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Light Brown Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Natural Yogurt (not Greek!)",
+      "quantity": "75",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Natural Yogurt (not Greek!)",
+      "quantity": "75",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Self Raising Flour",
+      "quantity": "280",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Bicarbonate Of Soda",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Ripe Bananas",
+      "quantity": "350",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Butter, to serve",
+      "quantity": "160",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 160C/140C fan. Line a 2lb loaf tin."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in the microwave or in a pan over a low heat, then set aside to cool to room temp."
+    },
+    {
+      "heading": null,
+      "description": "In a large mixing bowl, whisk the melted butter with the sugar, vanilla, eggs, and yogurt."
+    },
+    {
+      "heading": null,
+      "description": "Mix the self-raising flour with the bicarbonate of soda, cinnamon, and a pinch of salt. Tip into the wet mix. Mash the bananas, leaving a few chunkier bits and then stir into the cake mix. Tip into the tin and bake for 1 hour, until a skewer comes out clean when it slides in. If it still looks wet, bake for 10 mins further."
+    },
+    {
+      "heading": null,
+      "description": "Either serve the slices, warm, with a pat of cold butter OR…"
+    },
+    {
+      "heading": null,
+      "description": "To serve, heat a large frying pan over a medium high heat, slice the banana bread into chunky slices. Lie a square of baking paper on each side of the slice and then lie in the frying pan, toast until golden, then flip over and repeat on the other side- move to a plate and slide away the paper. Finish with a pat of cold butter that will melt when it hits the surface."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-10T17:10:00+00:00"
+}

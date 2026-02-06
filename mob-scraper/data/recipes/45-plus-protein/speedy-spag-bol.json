@@ -1,0 +1,118 @@
+{
+  "id": "7220934",
+  "slug": "speedy-spag-bol",
+  "title": "Speedy Spag Bol",
+  "url": "https://www.mob.co.uk/recipes/speedy-spag-bol",
+  "summary": "A lightning-fast pasta that let's your Bolognese Ragú batch truly shine. It's the ultimate midweek classic, done in 15 mins.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Speedy-Spag-Bol.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 563,
+    "protein": 28,
+    "fat": 18,
+    "saturated_fat": 7,
+    "carbohydrates": 71,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "250g Spaghetti",
+      "quantity": "250",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Spaghetti",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Bolognese Ragú."
+    },
+    {
+      "heading": null,
+      "description": "Fill a large saucepan with water and salt it generously. Bring to the boil over high heat."
+    },
+    {
+      "heading": null,
+      "description": "Drop in the spaghetti and cook for two mins less than the pack says for al dente. Reserve 200ml of pasta water, then drain."
+    },
+    {
+      "heading": null,
+      "description": "Grate the Parmesan."
+    },
+    {
+      "heading": null,
+      "description": "Return the pasta to the pan with the ragù and a splash of the pasta water. Cook over a medium heat, stirring, until the sauce clings to the pasta and everything’s piping hot. Add more water if it needs loosening. Taste and season with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Divide between bowls and finish with plenty of grated Parmesan."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-25T11:41:00+01:00"
+}

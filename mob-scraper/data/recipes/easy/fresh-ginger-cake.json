@@ -1,0 +1,189 @@
+{
+  "id": "6747551",
+  "slug": "fresh-ginger-cake",
+  "title": "Fresh Ginger Cake",
+  "url": "https://www.mob.co.uk/recipes/fresh-ginger-cake",
+  "summary": "A fiery ginger loaf cake made with olive oil, soaked dates and sticky molasses. It’s sweet, spicy and very moist. It’s a special bake that’s easy to make.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Giner-Cake.jpg",
+  "cook_time": 45,
+  "prep_time": 50,
+  "total_time": 95,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 355,
+    "protein": 4,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 61,
+    "dietary_fibre": 2,
+    "sugars": 38,
+    "sodium": 156
+  },
+  "ingredients": [
+    {
+      "label": "70g Pitted Dates",
+      "quantity": "70",
+      "unit": null,
+      "name": "Pitted Date",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Fresh Ginger",
+      "quantity": "120",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Caster Sugar",
+      "quantity": "175",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Molasses",
+      "quantity": "200",
+      "unit": null,
+      "name": "Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180ml Olive Oil",
+      "quantity": "180",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "325g Plain Flour",
+      "quantity": "325",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Mixed Spice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mixed Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Bicarbonate of Soda",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240ml Boiling Water",
+      "quantity": "240",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Prepare a 1lb loaf tin by greasing it with butter and lining with baking paper. Add the dates to a bowl and cover with boiling water. Leave to soak for a minimum of 30 mins or overnight."
+    },
+    {
+      "heading": null,
+      "description": "Drain the soaked dates then transfer to a blender and blitz into a paste. Measure out 50g of the blended date paste and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely grate the fresh ginger. Heat the oven to fan 150°C."
+    },
+    {
+      "heading": null,
+      "description": "Add the sugar, molasses, date paste and olive oil to a mixing bowl and use a wooden spoon to mix everything together until no lumps are left – the mixture will split, but don’t worry."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, mix together the flour, spice mix and salt. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, whisk together the baking soda and the boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Add the baking soda and water mix to the sugar and date mix. Add the flour mix and grated ginger and crack in the eggs. Whisk together until you have a smooth batter (an electric whisk will make this faster)."
+    },
+    {
+      "heading": null,
+      "description": "Pour the batter into the loaf tin (it should only fill it ⅔ of the way). Bake in the oven for 30-40 mins, until a toothpick inserted comes out clean. Leave to cool for 10 mins in the tin then transfer to a wire rack to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy as is or drizzle over some salted caramel sauce, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-03T16:01:00+01:00"
+}

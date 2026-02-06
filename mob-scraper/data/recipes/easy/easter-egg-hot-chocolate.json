@@ -1,0 +1,121 @@
+{
+  "id": "5296015",
+  "slug": "easter-egg-hot-chocolate",
+  "title": "Easter Egg Hot Chocolate",
+  "url": "https://www.mob.co.uk/recipes/easter-egg-hot-chocolate",
+  "summary": "Got any leftover Easter eggs kicking about? We know that’s not likely but if you do, we’ve got a mega Easter egg hot chocolate recipe for you right here.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Easter-Egg-Hot-Chocolate.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 7,
+    "fat": 51,
+    "saturated_fat": 32,
+    "carbohydrates": 46,
+    "dietary_fibre": 2,
+    "sugars": 44,
+    "sodium": 61
+  },
+  "ingredients": [
+    {
+      "label": "350g Whole Milk",
+      "quantity": "350",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Double Cream",
+      "quantity": "500",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Leftover Easter Egg Chocolate",
+      "quantity": "300",
+      "unit": null,
+      "name": "Easter Egg Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Leftover Easter Egg Chocolate",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Icing Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Lightly whip 60% of your double cream until you have very soft peaks and set aside in a cool place."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop up your chocolate eggs."
+    },
+    {
+      "heading": null,
+      "description": "Place the milk, icing sugar and remaining double cream in a sauce pan and gently warm over a medium heat. Add in the chocolate and reduce to a low heat. Stir for a couple of minutes until the chocolate has all melted and emulsified to create your hot chocolate. It should be a similar consistency to double cream and glossy."
+    },
+    {
+      "heading": null,
+      "description": "Pour the hot chocolate into mugs and top each with a spoon of the whipped cream."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-31T05:00:00+01:00"
+}

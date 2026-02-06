@@ -1,0 +1,113 @@
+{
+  "id": "4518143",
+  "slug": "cucumber-breeze",
+  "title": "Cucumber Breeze",
+  "url": "https://www.mob.co.uk/recipes/cucumber-breeze",
+  "summary": "A crisp and refreshing cocktail that's perfect for a sunny day. The cucumber notes",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Cucumber-Breeze-Recipe.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 164,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 10,
+    "dietary_fibre": 1,
+    "sugars": 8,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Vodka",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml St Germain",
+      "quantity": "25",
+      "unit": null,
+      "name": "St-Germain Elderflower Liqueur",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Lemon Juice",
+      "quantity": "25",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Using a peeler, peel your cucumber one or two times to make a long strip for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Blend up the remaining cucumber and strain through a sieve, collecting the juice."
+    },
+    {
+      "heading": null,
+      "description": "Fill a cocktail shaker with ice and then go in with 50ml of the cucumber juice, lemon, St Germain and vodka."
+    },
+    {
+      "heading": null,
+      "description": "Shake and strain into a rocks glass with ice."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with your cucumber strip and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-21T10:13:00+01:00"
+}

@@ -1,0 +1,171 @@
+{
+  "id": "4415450",
+  "slug": "coca-cola-chicken-wings",
+  "title": "Coca Cola Chicken Wings",
+  "url": "https://www.mob.co.uk/recipes/coca-cola-chicken-wings",
+  "summary": "A popular dish from the ’90s that we’re bringing back with style. Unlike most wing recipes, these are cooked on the hob to make the stickiest sauce.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Coca-Cola-Chicken-Wings.jpg",
+  "cook_time": 40,
+  "prep_time": 10,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 45,
+    "fat": 41,
+    "saturated_fat": 11,
+    "carbohydrates": 22,
+    "dietary_fibre": 1,
+    "sugars": 19,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "1.2kg Chicken Wings",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Chicken Wing",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2kg Chicken Wings",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb-Sized Piece of Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Coca Cola",
+      "quantity": "500",
+      "unit": null,
+      "name": "Coca Cola",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Shaoxing Wine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shaoxing Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the chicken wings in half at the joint then pat dry with kitchen paper. Season with salt and black pepper. Thickly slice the ginger leaving the skin on."
+    },
+    {
+      "heading": null,
+      "description": "Get a large wok or frying pan over a high heat. Drizzle in a good glug of neutral oil. Add the chicken wings and fry for around 15 mins, flipping regularly, until evenly browned. Add the ginger and chilli flakes to the pan. Stir and cook for a further 30 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the Coca-Cola, soy and Shaoxing wine or sherry and give everything a good mix. Bring to the boil then cover the pan with a lid (or baking tray) and lower the heat to medium. Leave the chicken wings to simmer away for 15 minutes, then remove the lid and turn the heat back up to high."
+    },
+    {
+      "heading": null,
+      "description": "Cook for a further 15 mins until most of the sauce has evaporated and the wings are sticky and tender."
+    },
+    {
+      "heading": null,
+      "description": "Give everything one final stir then pile onto a large serving plate. Thinly slice the spring onions (green and white parts) and scatter over the top. Serve at the table for people to help themselves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-23T09:45:00+01:00"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "2013",
+  "slug": "bacon-rosti",
+  "title": "Mob's Bacon Röstis",
+  "url": "https://www.mob.co.uk/recipes/bacon-rosti",
+  "summary": "Taking your brunch game to the next level with these crispy, bacon-y röstis. Topped with yoghurt, harissa and spring onions. Mouthful straight from heaven.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A3701.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 338,
+    "protein": 17,
+    "fat": 20,
+    "saturated_fat": 6,
+    "carbohydrates": 19,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 755
+  },
+  "ingredients": [
+    {
+      "label": "300g Dry Cured Unsmoked Back Bacon Rashers",
+      "quantity": "300",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Maris Piper Potatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Maris Piper Potatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Greek Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Greek Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Harissa Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice your bacon into small pieces. Drizzle olive oil into a frying pan on a medium heat. Add your bacon and sauté until golden brown and crispy. Slice 3 of your spring onions, leaving one for later, and add them to the pan. Stir until they have softened and add the contents of the pan to a separate bowl, keeping the oil in the pan for later."
+    },
+    {
+      "heading": null,
+      "description": "Grate your potatoes. Once grated, squeeze out excess juices so they are nice and dry for frying."
+    },
+    {
+      "heading": null,
+      "description": "Then, add potato to your bacon along with a grinding of pepper and mix together. Next, take a handful of the grated potato and form a potato patty. Repeat this until you have run out of the potato mixture."
+    },
+    {
+      "heading": null,
+      "description": "Re-heat the oil you saved earlier. Once hot, add your rösti’s to the pan and fry until golden brown on either side."
+    },
+    {
+      "heading": null,
+      "description": "Time to plate up! Add 2 rösti’s to your plate along with a dollop of yoghurt and a tsp of harissa paste. Chop up your remaining spring onion and parsley and sprinkle over the top. Repeat for your MOB and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Brunch"
+  ],
+  "cuisines": [
+    "Swiss"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-11-04T00:00:00+00:00"
+}

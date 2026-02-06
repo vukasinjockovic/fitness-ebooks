@@ -1,0 +1,184 @@
+{
+  "id": "5864260",
+  "slug": "iced-dandan-noodles",
+  "title": "Iced Dandan (ish) Noodles",
+  "url": "https://www.mob.co.uk/recipes/iced-dandan-noodles",
+  "summary": "This soup has got all the flavours of dan dan noodles but we've kept it vegetarian – which means less cooking time and less washing up. Winner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Iced-Dandan-ish-Noodles.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 15,
+    "fat": 38,
+    "saturated_fat": 6,
+    "carbohydrates": 38,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "125g Dried Rice Noodles",
+      "quantity": "125",
+      "unit": null,
+      "name": "Dried Rice Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Dried Rice Noodles",
+      "quantity": "125",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 tbsp chinese Five-Spice",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Tahini",
+      "quantity": "225",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp Black vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chinese Black Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp Soy sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp Chilli oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Peanuts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320ml Cold Water",
+      "quantity": "320",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice Cubes, For Serving",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine chilli oil, soy sauce, tahini, five-spice, and black vinegar in a bowl or jug. Add the cold water gradually whilst stirring until you have a smooth soup consistency. Chill until very cold, you can either pop in the fridge for at least 2 hours or stick in the freezer for max 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "When you’re ready to eat, cook the noodles according to package instructions and then drain and rinse in cold water to stop the cooking process. Toss the noodles in the sesame oil and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut the cucumber into matchsticks. Finely slice the spring onions. Roughly chop the peanuts."
+    },
+    {
+      "heading": null,
+      "description": "Pour the soup broth into a bowl, top with the noodles, a couple of ice cubes, peanuts, cucumber and spring onions. Give it a good mix and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Low Calorie",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-28T08:00:00+01:00"
+}

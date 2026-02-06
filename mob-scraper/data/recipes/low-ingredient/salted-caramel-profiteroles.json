@@ -1,0 +1,198 @@
+{
+  "id": "3326812",
+  "slug": "salted-caramel-profiteroles",
+  "title": "Salted Caramel Profiteroles",
+  "url": "https://www.mob.co.uk/recipes/salted-caramel-profiteroles",
+  "summary": "Profiteroles are easier to make than you might think. Well, these ones are.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Salted-Caramel-Profiteroles.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 527,
+    "protein": 7,
+    "fat": 31,
+    "saturated_fat": 17,
+    "carbohydrates": 54,
+    "dietary_fibre": 1,
+    "sugars": 36,
+    "sodium": 156
+  },
+  "ingredients": [
+    {
+      "label": "160g Unsalted Butter",
+      "quantity": "160",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Plain Flour",
+      "quantity": "150",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Light Brown Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Single Cream",
+      "quantity": "120",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Vanilla Extract",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Dry Roasted Peanuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Dry Roasted Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 460ml Tub Jude’s Salted Caramel Ice Cream",
+      "quantity": "920",
+      "unit": null,
+      "name": "Salted Caramel Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 460ml Tub Jude’s Salted Caramel Ice Cream",
+      "quantity": "920",
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Melt 100g butter in a saucepan over medium heat. Add 240ml water and bring to a rapid simmer."
+    },
+    {
+      "heading": null,
+      "description": "Add the flour and a pinch of salt and mix continuously with a wooden spoon until the dough comes away from the sides of the pan."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the dough to a mixing bowl and leave to cool for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat your oven to 220°C / fan 200°C and line 2 large baking trays with greaseproof paper."
+    },
+    {
+      "heading": null,
+      "description": "Add 1 egg to the cooled dough mixture and beat with a wooden spoon until combined. Repeat with the remaining eggs, ensuring each egg is fully incorporated before adding the next."
+    },
+    {
+      "heading": null,
+      "description": "Using a teaspoon, spoon 15 blobs of the dough onto each of the baking trays. You want each blob to be 1 heaped teaspoon worth of dough."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 18 to 20 mins, or until golden brown and risen."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, place the remaining 60g butter in a saucepan with the light brown sugar, single cream, vanilla extract and 1 teaspoon of salt and bring to a simmer over medium-low heat."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 5 mins, stirring constantly, then transfer to a heatproof bowl to cool. The sauce will thicken as it cools."
+    },
+    {
+      "heading": null,
+      "description": "Take the profiteroles out of the oven and cut a small split in the base of each one to let the steam out. Cool on a wire rack before filling."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, crush up the peanuts."
+    },
+    {
+      "heading": null,
+      "description": "Once the profiteroles have cooled, halve them horizontally and fill each of them with a heaped tablespoon of Jude’s Salted Caramel Ice Cream."
+    },
+    {
+      "heading": null,
+      "description": "Dip the top of each of the assembled profiteroles in the salted caramel sauce and sprinkle with some crushed peanuts."
+    },
+    {
+      "heading": null,
+      "description": "Stack them up onto a large plate, serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-20T11:00:00+01:00"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "6514757",
+  "slug": "oaty-crumble-topping",
+  "title": "Oaty Crumble Topping",
+  "url": "https://www.mob.co.uk/recipes/oaty-crumble-topping",
+  "summary": "This handy crumble recipe will pull together any fruity or creamy dessert. Bake it in the oven over chopped fruit for a traditional crumble, or bake it in advance and sprinkle over ice cream or yoghurt. The possibilities are endless.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Oaty-Crumble-Topping.jpg",
+  "cook_time": 15,
+  "prep_time": 20,
+  "total_time": 35,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 202,
+    "protein": 2,
+    "fat": 9,
+    "saturated_fat": 6,
+    "carbohydrates": 28,
+    "dietary_fibre": 1,
+    "sugars": 9,
+    "sodium": 77
+  },
+  "ingredients": [
+    {
+      "label": "110g Refrigerated Unsalted Butter",
+      "quantity": "110",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Oats",
+      "quantity": "110",
+      "unit": null,
+      "name": "Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Plain Flour",
+      "quantity": "110",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Dark Brown Sugar",
+      "quantity": "110",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Of Sea Salt",
+      "quantity": "Pinch",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C fan and line a baking tray with baking paper. Ensure your butter is very cold. Slice the cold butter into cubes. Put all the ingredients into a bowl and rub together with your fingers to form breadcrumbs. Spread the mixture on the lined baking tray and put into the freezer for 10 mins (this will firm up the butter that you’ve softened with your hands)."
+    },
+    {
+      "heading": null,
+      "description": "Transfer to the oven and bake for 10–15 mins, then remove and turn the oven down to 170°C fan. Allow the crumble to cool completely before crushing up with your hands or a rolling pin."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-08T12:05:00+01:00"
+}

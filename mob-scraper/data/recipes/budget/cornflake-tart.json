@@ -1,0 +1,167 @@
+{
+  "id": "4661665",
+  "slug": "cornflake-tart",
+  "title": "Salted Crunchy Nut Cornflake Tart",
+  "url": "https://www.mob.co.uk/recipes/cornflake-tart",
+  "summary": "This isn't just any old cornflake tart recipe. This is a salted Crunchy Nut cornflake tart. It's sweet, it's salty, and it can be all yours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Cornflake-Tart.jpg",
+  "cook_time": 40,
+  "prep_time": 10,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 10,
+    "fat": 36,
+    "saturated_fat": 15,
+    "carbohydrates": 74,
+    "dietary_fibre": 3,
+    "sugars": 33,
+    "sodium": 340
+  },
+  "ingredients": [
+    {
+      "label": "140g Very Cold Salted Butter",
+      "quantity": "140",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Plain Flour, Plus Extra For Dusting",
+      "quantity": "300",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Icing Sugar",
+      "quantity": "45",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Egg Yolks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cold Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Salted Butter",
+      "quantity": "80",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Golden Syrup",
+      "quantity": "100",
+      "unit": null,
+      "name": "Golden Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Crunchy Nut Cornflakes",
+      "quantity": "175",
+      "unit": null,
+      "name": "Crunchy Nut Cornflakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Salted Peanuts",
+      "quantity": "90",
+      "unit": null,
+      "name": "Salted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Raspberry Jam",
+      "quantity": "3",
+      "unit": null,
+      "name": "Raspberry Jam",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Custard, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Custard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "If you're making your own pastry (if not, skip to the next step), start by chopping the butter into small pieces. Tip them into a bowl with the flour and icing sugar. Using your hands, rub together quickly until the mixture resembles breadcrumbs. Add the egg yolks and cold water and stir until the dough comes together. Form into a ball, wrap in cling film and put in the fridge for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Roll the pastry out on a lightly floured surface into a circle that’s 2cm bigger than a 23cm tart tin and around 1cm thick. Dust with a little flour, then roll the pastry circle onto the rolling pin and drape the pastry over the tart tin. Press the edges into place, making sure there is pastry overhanging, then fold the edges back in on themselves to double up, still allowing space for overhang. Prick the base with a fork and put in the fridge for 10 mins to set."
+    },
+    {
+      "heading": null,
+      "description": "Scrunch up a piece of baking parchment and use it to line the tart, filling it with baking beans (if you don’t have baking beans, use rice). Pop in the oven for 15-20 mins, then remove the beans and paper and bake for a further 5-10 mins or until the pastry looks dry and golden. Using a serrated knife, trim the pastry edges down."
+    },
+    {
+      "heading": null,
+      "description": "For the filling, melt the butter and golden syrup together in a saucepan until combined, then tip in the cornflakes and peanuts, crushing slightly. Mix well. Spread the jam over the pastry base, then top with the cornflake mixture, pressing it down and piling it up. Bake for 7-10 mins until golden and smelling nutty. Allow to cool and set, then serve with hot custard."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-17T09:31:00+00:00"
+}

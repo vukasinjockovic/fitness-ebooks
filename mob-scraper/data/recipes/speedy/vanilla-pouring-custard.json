@@ -1,0 +1,115 @@
+{
+  "id": "6522647",
+  "slug": "vanilla-pouring-custard",
+  "title": "Vanilla Pouring Custard",
+  "url": "https://www.mob.co.uk/recipes/vanilla-pouring-custard",
+  "summary": "A beautifully creamy custard that’s perfect for pouring over desserts. No lumps in sight.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Vanilla-Pouring-Custard.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 277,
+    "protein": 3,
+    "fat": 25,
+    "saturated_fat": 15,
+    "carbohydrates": 8,
+    "dietary_fibre": null,
+    "sugars": 8,
+    "sodium": 19
+  },
+  "ingredients": [
+    {
+      "label": "5 Egg Yolks",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Caster Sugar",
+      "quantity": "35",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360ml Double Cream",
+      "quantity": "360",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Vanilla Pod",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a heatproof bowl, use a wooden spoon to mix the egg yolks and sugar together until combined."
+    },
+    {
+      "heading": null,
+      "description": "Heat the cream in a medium saucepan with the salt and vanilla pod until hot but not boiling. You’ll know it’s hot when it starts to steam. Pour the hot cream over the egg yolks, slowly and evenly, whisking continuously as you go. Get someone to help you here if possible – they can pour while you whisk."
+    },
+    {
+      "heading": null,
+      "description": "Place the bowl over a pan of simmering water. Heat the mixture for about 8 mins, whisking continuously with a large balloon whisk, until it thickens. The custard is ready when the bubbles disappear or when you drag your wooden spoon through the middle and it leaves a mark that takes a moment to disappear."
+    },
+    {
+      "heading": null,
+      "description": "Remove the vanilla pod, split it lengthways and scrape the seeds back into the custard. If necessary, sieve the custard through a fine mesh to eliminate any lumps, then pour into a jug and serve immediately."
+    },
+    {
+      "heading": null,
+      "description": "If you’re not planning to serve it right away, you can keep your custard hot by standing it in the jug in a pan of hot water and covering the top (of the custard, not the jug) with clingfilm to prevent a skin forming. If you want to use it cold, you can cover and refrigerate it for up to a day."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T14:30:00+01:00"
+}

@@ -1,0 +1,325 @@
+{
+  "id": "6955607",
+  "slug": "chicken-massaman-curry",
+  "title": "Chicken Massaman Curry",
+  "url": "https://www.mob.co.uk/recipes/chicken-massaman-curry",
+  "summary": "A classic Thai chicken and potato curry. Mildly spicy and full of flavour with lemongrass, coconut milk and peanut butter. It’s rich, creamy and super satisfying.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chicken-Massaman.jpg",
+  "cook_time": 60,
+  "prep_time": 10,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1068,
+    "protein": 48,
+    "fat": 44,
+    "saturated_fat": 25,
+    "carbohydrates": 120,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "2 Lemongrass Stalks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Full-Fat Coconut Milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Massaman Curry Paste",
+      "quantity": "100",
+      "unit": null,
+      "name": "Thai Massaman Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Palm Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Palm Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tamarind Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tamarind Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Star Anise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Bone-In Chicken Thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bone-In Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Bone-In Chicken Thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large White Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Large White Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large White Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Roasted Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Roast Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Tofu Puffs (Optional)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Deep Fried Tofu Puff",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Tofu Puffs (Optional)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Lime Leaves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Coconut Milk",
+      "quantity": "125",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bash the lemongrass and remove the bottom stems and outer husks. Set aside the core and stems/husks, keeping them separate. Halve the chilli."
+    },
+    {
+      "heading": null,
+      "description": "For the curry, bring ¼ of the coconut milk to a boil in a large lidded pan set over a medium heat. Simmer for about 5 mins, stirring occasionally, to allow the water to evaporate, leaving just a shiny oily surface."
+    },
+    {
+      "heading": null,
+      "description": "Add the curry paste and mix well. Let the mixture simmer for about 4 mins, stirring frequently, until it has thickened and the coconut oil has separated from the paste, then add the star anise and cinnamon stick and cook for another minute. If the paste sticks to the bottom of the pot, deglaze with a bit more coconut milk."
+    },
+    {
+      "heading": null,
+      "description": "Add the palm sugar, tamarind paste, fish sauce, and peanut butter with a pinch of salt and mix well. Then add ⅘ of the remaining coconut milk (set the rest aside for garnish later) and the chilli. Mix well and scrape the bottom to make sure no curry paste is stuck. Add the chicken thighs and bring to a gentle simmer, then reduce the heat to low. Partially cover the pan with a lid and let the mixture simmer gently for 35 mins, stirring halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile make the rice. Wash the rice under cold water until the water runs clear. Transfer to a rice cooker along with the coconut milk, water, salt and ½ the lemongrass stems/husks. Place over high heat, bring to the boil, then cover with a lid and reduce the heat to low. Cook for 12 mins, then remove from the heat and let steam, covered, for another 10."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cut the potatoes into 3cm chunks. Halve the tofu puffs and quarter the onion. When the chicken cooking time is up, remove the chicken to a large bowl and set aside to cool."
+    },
+    {
+      "heading": null,
+      "description": "Add the potato, tofu puffs, onions, water (if needed) and remaining lemongrass husks/stems to the curry and mix to combine. Simmer for another 15 mins with the lid on. The potatoes should just be fork tender; do not overcook it or it will thicken the curry sauce."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely slice the lime leaves and reserved lemongrass core, pick the coriander leaves."
+    },
+    {
+      "heading": null,
+      "description": "When the potato has finished cooking, debone the cooled chicken, break it into large chunks, and return it to the pot. Gently mix and adjust the seasoning if needed with any extra fish sauce, sugar or tamarind paste. Turn off the heat, and leave to rest, with the lid on, for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between bowls and ladle over the curry. Top with the coriander leaves, lime leaves, sliced lemongrass and a drizzle of leftover coconut milk."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-19T09:00:00+00:00"
+}

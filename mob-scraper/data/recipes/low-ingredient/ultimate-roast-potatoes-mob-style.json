@@ -1,0 +1,153 @@
+{
+  "id": "6401",
+  "slug": "ultimate-roast-potatoes-mob-style",
+  "title": "Ultimate Roast Potatoes",
+  "url": "https://www.mob.co.uk/recipes/ultimate-roast-potatoes-mob-style",
+  "summary": "The crispiest, most delicious roast potatoes you’ll ever eat. Follow the method to the letter. Roast garlic is key.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/Z49A7242.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 5,
+    "fat": 12,
+    "saturated_fat": 4,
+    "carbohydrates": 46,
+    "dietary_fibre": 4,
+    "sugars": 2,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "1kg Maris Piper Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Maris Piper Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Goose Fat",
+      "quantity": "4",
+      "unit": null,
+      "name": "Goose Fat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Thyme",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Peel your potatoes and quarter them. Add to a pan of boiling water with a large pinch of salt. Parboil for 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "While the potatoes are cooking, add goose fat to a roasting tray. Place tray in the oven for 10 minutes so the fat can melt and heat through."
+    },
+    {
+      "heading": null,
+      "description": "Drain your potatoes and re-add to the pan. Place a lid on top and give them a good shake. Remove the lid. The outside of the potatoes should be nice and fluffy. This is KEY to the crispiness."
+    },
+    {
+      "heading": null,
+      "description": "Place your fluffy potatoes in the roasting tray. Add 10-12 whole garlic cloves (skin on), a large handful of rosemary, a large handful of thyme, a big pinch of salt and some pepper. Toss everything together. Place the potatoes in the oven for 1 hour and 15 minutes."
+    },
+    {
+      "heading": null,
+      "description": "KEY PART OF THE METHOD. Every 25 minutes you need to remove the roasting tray from the oven and gently turn the potatoes in the goose fat. This will ensure a nice even golden outside."
+    },
+    {
+      "heading": null,
+      "description": "Once the potatoes are gold all over, remove from the oven. Serve with some salt sprinkled on top and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-12-21T00:00:00+00:00"
+}

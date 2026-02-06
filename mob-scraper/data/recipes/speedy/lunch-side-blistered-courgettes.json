@@ -1,0 +1,108 @@
+{
+  "id": "7064633",
+  "slug": "lunch-side-blistered-courgettes",
+  "title": "Blistered Courgettes",
+  "url": "https://www.mob.co.uk/recipes/lunch-side-blistered-courgettes",
+  "summary": "Beautifully blistered coins of courgette that pair great with lean protein and high-fibre grains.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Blistered-Courgettes-Recipe.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 6,
+    "dietary_fibre": 2,
+    "sugars": 5,
+    "sodium": 14
+  },
+  "ingredients": [
+    {
+      "label": "3 Courgettes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the courgettes into 3-4cm-thick coins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a large frying pan and add a good amount of olive oil, enough to almost cover the base of the pan. Season the courgettes with salt and add to the pan, cut-side down. Cook over a high heat for 4-5 mins or until blistered and heavily charred. Carefully flip and cook on the other cut side for 2-3 mins. Remove from the heat and allow the courgettes to sit for 5 mins in the pan, letting the residual heat cook the courgettes through."
+    },
+    {
+      "heading": null,
+      "description": "Serve the courgette coins with your favourite grain or carbohydrate."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-27T00:00:00+00:00"
+}

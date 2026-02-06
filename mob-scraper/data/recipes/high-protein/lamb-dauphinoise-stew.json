@@ -1,0 +1,293 @@
+{
+  "id": "5464193",
+  "slug": "lamb-dauphinoise-stew",
+  "title": "Lamb & Dauphinoise Stew",
+  "url": "https://www.mob.co.uk/recipes/lamb-dauphinoise-stew",
+  "summary": "This lamb is ridiculously tender and features creamy dauphinoise potatoes and briney olives. It's a show-stopper.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Lamb-Dauphinoise-Stew-Recipe.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 225,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 670,
+    "protein": 39,
+    "fat": 38,
+    "saturated_fat": 18,
+    "carbohydrates": 37,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 1047
+  },
+  "ingredients": [
+    {
+      "label": "1kg Lamb Neck",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lamb Neck",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Lamb Neck",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Plain Flour",
+      "quantity": "3",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Sprigs Thyme",
+      "quantity": "4",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tbsp Tomato Purée",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml White Wine",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130g Green Olives",
+      "quantity": "130",
+      "unit": null,
+      "name": "Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "550ml Chicken Stock",
+      "quantity": "550",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2kg Maris Piper Potatoes",
+      "quantity": "1.2",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2kg Maris Piper Potatoes",
+      "quantity": "1.2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Double Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Whole Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Fresh Grated Nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Grated Gruyère",
+      "quantity": "60",
+      "unit": null,
+      "name": "Gruyère",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Parsley Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the lamb neck into 4cm chunks. Add them to a bowl along with the salt and the flour. Give it a mix so each piece is coated."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large frying pan over a medium-high heat. Add a little olive oil, then one-third of the lamb. Brown it for a couple of minutes on each side, then remove from the pan and repeat with the remaining lamb chunks. Set all the browned lamb aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely dice the onion, carrot and celery. Heat a casserole dish over a medium heat with a generous glug of olive oil, then tip in the diced veg. Cook for 15 mins until soft."
+    },
+    {
+      "heading": null,
+      "description": "Add the thyme leaves to the dish, then grate in one clove of garlic and add the tomato purée. Cook for 2 mins. Heat the oven to 160°C."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the wine and let it reduce by two-thirds. Get your lamb into the pan, along with the olives and chicken stock. Bring it up to a simmer, then pop on a lid and transfer to the oven. Cook for 2½ hrs."
+    },
+    {
+      "heading": null,
+      "description": "Peel the potatoes, then finely slice them on a mandolin."
+    },
+    {
+      "heading": null,
+      "description": "Pour the double cream and milk into a large saucepan, then grate in the garlic and nutmeg. Season to taste with salt and lots of black pepper. Bring to a simmer and add the potatoes. Simmer for about 15-20 mins, or until the cream has thickened and the potatoes are cooked."
+    },
+    {
+      "heading": null,
+      "description": "Reduce the oven temperature to 180°C. Once the lamb is cooked, adjust the seasoning. Transfer it to a baking dish, then spoon the potato and cream mixture on top. Sprinkle over the gruyère, then bake in the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "To serve, finely chop the parsley and sprinkle it on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-27T06:00:00+01:00"
+}

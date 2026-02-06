@@ -1,0 +1,157 @@
+{
+  "id": "6454962",
+  "slug": "spicy-shrimp-handrolls",
+  "title": "Spicy Shrimp Handrolls",
+  "url": "https://www.mob.co.uk/recipes/spicy-shrimp-handrolls",
+  "summary": "Delicious, economical, and indulgent. It's time to experience the joy of making hand rolls from the comfort of your own kitchen.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Spicy-Shrimp-Handroll.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 456,
+    "protein": 38,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 48,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "450g Japanese Short Grain Rice",
+      "quantity": "450",
+      "unit": null,
+      "name": "Japanese Short Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Japanese Short Grain Rice",
+      "quantity": "450",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Raw Shrimp",
+      "quantity": "1",
+      "unit": null,
+      "name": "Raw Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Raw Shrimp",
+      "quantity": "1",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Mayonnaise",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Chilli Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Sheets Nori",
+      "quantity": "10",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Furikake",
+      "quantity": null,
+      "unit": null,
+      "name": "Furikake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the rice following pack instructions. Remove the shells and veins from the prawns. Roughly chop the green onions."
+    },
+    {
+      "heading": null,
+      "description": "Heat a medium pot of water over a medium heat. Add the shrimp and boil them for 2-3 mins until opaque and fully cooked. Drain and pat dry with kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the shrimp and mix with the mayonnaise, chilli oil and green onions in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Cut the nori sheets in half lengthwise and lay them out on a clean flat surface."
+    },
+    {
+      "heading": null,
+      "description": "Add a tbsp of cooked rice to one half of each nori and press down with a fork. Generously top with the shrimp mixture and roll into a cone shape."
+    },
+    {
+      "heading": null,
+      "description": "Serve with the remaining shrimp and top with furikake, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Rice Zhang",
+      "uri": "chefs/rice-zhang",
+      "summary": "Rice is a home cook on a journey to make easy and delicious high protein asian meals! Fatigue after a long day of work doesn't mean we have to compromise on flavour or convenience! She hopes to share delicious Asian inspired flavours with the everyday person!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-25T09:00:00+01:00"
+}

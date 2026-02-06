@@ -1,0 +1,106 @@
+{
+  "id": "4695474",
+  "slug": "brown-butter-whiskey",
+  "title": "Brown Butter Whiskey",
+  "url": "https://www.mob.co.uk/recipes/brown-butter-whiskey",
+  "summary": "Homemade brown butter whiskey. You'll feel like an absolute pro pulling this out at your next festive dinner party.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Brown-Butter-Whiskey.jpg",
+  "cook_time": 5,
+  "prep_time": 120,
+  "total_time": 120,
+  "serving_size": 18,
+  "nutrition": {
+    "calories": 124,
+    "protein": 0,
+    "fat": 12,
+    "saturated_fat": 8,
+    "carbohydrates": 0,
+    "dietary_fibre": null,
+    "sugars": 0,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "250g Butter",
+      "quantity": "250",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bottle of Whiskey (700ml)",
+      "quantity": "700",
+      "unit": null,
+      "name": "Whiskey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour out around 150ml of whiskey from the bottle."
+    },
+    {
+      "heading": null,
+      "description": "Melt all the butter and heat making sure to stir regularly until it foams up."
+    },
+    {
+      "heading": null,
+      "description": "At this point turn down the heat, keep stirring and watch for light brown specks to form. It should have a very nutty aroma at this point."
+    },
+    {
+      "heading": null,
+      "description": "It’s easy to cook the butter so be sure to take it off the heat and pour into a bowl to stop it cooking."
+    },
+    {
+      "heading": null,
+      "description": "Using a funnel, pour in all the butter into the whiskey and shake vigorously."
+    },
+    {
+      "heading": null,
+      "description": "Leave to stand for 2 hours shaking every half hour."
+    },
+    {
+      "heading": null,
+      "description": "Place in the freezer overnight."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the freezer and using a skewer gently break up the butter in the bottle."
+    },
+    {
+      "heading": null,
+      "description": "Using a coffee filter or cheesecloth, filter the whiskey into a clean bottle. Do this twice to ensure a pure and clean whiskey."
+    },
+    {
+      "heading": null,
+      "description": "If you like, return the other 150ml of whiskey to the bottle now – this will, however, dilute the flavour slightly. Label with date and flavour."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-27T11:16:00+00:00"
+}

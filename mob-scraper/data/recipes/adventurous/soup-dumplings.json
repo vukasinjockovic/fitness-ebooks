@@ -1,0 +1,375 @@
+{
+  "id": "5456253",
+  "slug": "soup-dumplings",
+  "title": "Homemade Soup Dumplings (Xiao Long Bao)",
+  "url": "https://www.mob.co.uk/recipes/soup-dumplings",
+  "summary": "These chubby homemade soup dumplings are bursting with flavour. Literally. You won't find an easier xiao long bao recipe than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Soup-Dumpling-Recipe.jpg",
+  "cook_time": 120,
+  "prep_time": 60,
+  "total_time": 180,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 355,
+    "protein": 15,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 49,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "300g \"00\" White Pasta Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "“00” Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Neutral Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160ml Boiling Water",
+      "quantity": "160",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Cornflour",
+      "quantity": "5",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Plain Flour",
+      "quantity": "5",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 gelatine leaves (6g)",
+      "quantity": "6",
+      "unit": null,
+      "name": "Gelatine Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Ginger, sliced",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp chicken powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chicken Bouillon Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp dashi, optional",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g pork mince",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g pork mince",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 spring onions, finely sliced",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp fresh ginger, minced",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic clove, minced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic clove, minced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Dark Soy Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Oyster Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Rice wine vinegar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Sesame oil",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp water",
+      "quantity": "3",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g soup jelly",
+      "quantity": "250",
+      "unit": null,
+      "name": "Soup Jelly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Black Chinese Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chinese Black Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Ginger, finely sliced",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Into a small pot, combine all the ingredients except the gelatine leaves, and bring to a boil for 8 mins with a lid, just to infuse the aromatics into the liquid."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime soak the gelatine leaves in a bowl of cold tap water for 3 mins or until softened like contact lenses, squeeze the excess liquid out and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Take the small pot off the heat and add all the gelatine leaves, mix until dissolved then strain into a shallow pasta bowl. When cool enough, place it into the freezer for 30 mins to quickly set up, then leave in the fridge for another 30 mins or until needed. This can be done up to 2 days before."
+    },
+    {
+      "heading": null,
+      "description": "Grab a large bowl and add flour, oil and salt and add ¾ of the boiled water, leaving a little water behind. Use a chopstick or the back of a wooden spoon to mix everything, then use your hands and create a dough ball. If the dough ball feels dry add some of the remaining water and knead until it is soft and feels like play-dough. It should not be stuck to your fingers, just add more flour if this happens."
+    },
+    {
+      "heading": null,
+      "description": "Knead for 2 mins or until smooth, cover in cling film or throw into a sandwich bag, set aside for at least 25 mins. This dough can be made up to 2 nights before."
+    },
+    {
+      "heading": null,
+      "description": "Grab a large bowl and add all the ingredients into the bowl except for the spring onions and water/chicken stock. Use a fork or chopsticks, to mix in one direction until a big meatball forms."
+    },
+    {
+      "heading": null,
+      "description": "Add the water/chicken stock in 2 parts, mixing in between until the meatball absorbs the liquid, then add the renaming liquid. Finely slice the spring onions and mix just until it is evenly incorporated. Clingfilm the bowl and leave in the fridge until needed."
+    },
+    {
+      "heading": null,
+      "description": "When the jelly is fully set, use a knife to score the jelly into small cubes, roughly the size of peas. Then scoop all jelly onto the dumpling filling and use a spatula to mix until the jelly is evenly incorporated into the dumpling filling, cling film and leave in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Prep the steamer basket by cutting a circle of baking paper that fits the bakers, then cut multiple finger-sized holes so that steam can escape, then lightly oil the baking paper and leave inside the steamer basket and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Roll the dough into a log the width of a round cherry tomato and use scissors to cut into 25 pieces, slightly smaller than the size of a cherry tomato, or 12g each if you want to be exact."
+    },
+    {
+      "heading": null,
+      "description": "In a small pot combine a 1:1 ratio of cornflour and flour and mix with fingers, use this for dusting."
+    },
+    {
+      "heading": null,
+      "description": "Lightly dust all the pieces of dough and toss with your hands to lightly coat. Turn the pieces of dough upwards so the sticky part is facing you, then use the fattest part of your palm to press down firmly, revealing a coin shape. Repeat for all the dough pieces, then cover with a lightly damp tea towel to prevent them from drying out."
+    },
+    {
+      "heading": null,
+      "description": "Using the dusting flour, roll out each piece of dough, roughly 10 cm in diameter, trying to keep the centre of the wrapper a bit thicker than the edges of the wrapper. Lightly dust each side if needed, then place onto a sheet of cling film, and lightly cover with cling film."
+    },
+    {
+      "heading": null,
+      "description": "Repeat to all pieces of dough, stacking the wrapper on top of each other, making sure to lightly dust between each wrapper and always covering with the cling film, to prevent it drying out."
+    },
+    {
+      "heading": null,
+      "description": "Place 1 Tbsp of filling in the center of a wrapper and create multiple folds around the filling, making sure to seal it super tight by pinching everything together in the centre. Alternatively fold the dumpling like a tortellini, which is very simple. Fold the dumpling in half and seal all the edges like a purse."
+    },
+    {
+      "heading": null,
+      "description": "Use your pinky finger to lightly dent the middle of the dumpling and the fold the edges together and squeeze to seal, to create a tortellini shape. Place it into the steamer basket. Repeat folding the dumplings as desired, ensuring whatever method you choose, they are tightly sealed and add the dumplings to the steamer basket giving 3 cm space between all the dumplings."
+    },
+    {
+      "heading": null,
+      "description": "Find a saucepan that snugly fits the steamer baskets, and fill the pan ½ way with water. Bring the water to a boil, then add the steamer basket and reduce the heat medium low. Steam for 8 minutes and reveal."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime combine vinegar and thin slices of ginger together for the dipping sauce."
+    },
+    {
+      "heading": null,
+      "description": "When eating, do not burn your mouth, these are pockets of boiling soup. Place a dumpling onto a spoon, pour a tsp of vinegar, poke or bite a small hole to release the heat, drink the soup to test the temperature, then eat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-22T10:10:00+01:00"
+}

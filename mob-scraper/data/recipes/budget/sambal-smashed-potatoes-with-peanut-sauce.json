@@ -1,0 +1,372 @@
+{
+  "id": "3055106",
+  "slug": "sambal-smashed-potatoes-with-peanut-sauce",
+  "title": "Sambal Smashed Potatoes with Peanut Sauce",
+  "url": "https://www.mob.co.uk/recipes/sambal-smashed-potatoes-with-peanut-sauce",
+  "summary": "Crispy, smashed potatoes dipped in the dreamiest peanut sauce with a drizzle of spicy sambal on top. It’s the best of both worlds. What more could you want Mob?",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A2435.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 496,
+    "protein": 10,
+    "fat": 32,
+    "saturated_fat": 7,
+    "carbohydrates": 43,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 273
+  },
+  "ingredients": [
+    {
+      "label": "1kg New Potatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg New Potatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Peanuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Red Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dried Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemongrass Stalk",
+      "quantity": "20",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1cm Knob of Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Banana Shallots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Banana Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Banana Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Banana Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemongrass Stalk",
+      "quantity": "20",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Chilli Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Turmeric Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Coconut Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tamarind Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tamarind Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Crunchy Peanut Butter",
+      "quantity": "220",
+      "unit": null,
+      "name": "Crunchy Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pan of salted water to a boil, then add your potatoes. Simmer for 15 mins until your potatoes are tender, then tip them into a colander and leave to steam dry for a few mins."
+    },
+    {
+      "heading": null,
+      "description": "Bash a clove of garlic with the side of your knife to crush it slightly. Pour a good glug of olive oil into a large baking tray along with your garlic and heat in the oven for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make your peanut sauce. Mince the garlic and finely chop the shallot."
+    },
+    {
+      "heading": null,
+      "description": "Get a pot on to a medium heat, add 2 tbsps of vegetable oil and your chopped alliums. Fry for a few mins until golden."
+    },
+    {
+      "heading": null,
+      "description": "Add the chilli and turmeric powder, and mix well. Pour in 180ml water, coconut milk and soy sauce. Add in tamarind, sugar, peanut butter and a smashed lemongrass stalk. Bring to a boil, making sure to regularly stir so the bottom of the pot doesn’t burn (this will take around 5 mins)."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down for the peanut sauce and let it simmer for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Back to the potatoes. Using the base of a heavy pan, lightly press down on your cooked potatoes to individually smash them. Add them to your baking tray of hot oil in the oven and sprinkle with a generous pinch of salt. Roast for 25 mins until the bases are crisp and golden."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make your sambal sauce. Roughly chop the garlic, ginger and shallots and finely chop the lemongrass. Blend with 3 tbsp of vegetable oil and transfer to a bowl. This is your garlic paste."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the chillies and tomato. Blend your chopped chillies and tomatoes up with chilli flakes and 2 tbsp of vegetable oil. This is your chilli paste."
+    },
+    {
+      "heading": null,
+      "description": "Heat your wok with 200ml of vegetable oil on low heat. Add the garlic paste and cook for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Flip your potatoes over after the first 25 mins of roasting and return to the oven for another 25 mins until the potatoes are golden all over."
+    },
+    {
+      "heading": null,
+      "description": "Back to the sambal. Add in the chilli paste, lime juice and sugar to your garlic paste in the pan and cook for another 20 mins on low heat until the oil separates from the paste."
+    },
+    {
+      "heading": null,
+      "description": "Swoosh your peanut sauce on a large plate and top with your smashed potatoes. Drizzle some sambal on top, garnish with chopped coriander and crushed peanuts, and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indonesian",
+    "Malaysian"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-29T17:00:00+00:00"
+}

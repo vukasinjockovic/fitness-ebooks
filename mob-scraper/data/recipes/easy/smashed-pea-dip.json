@@ -1,0 +1,165 @@
+{
+  "id": "6746418",
+  "slug": "smashed-pea-dip",
+  "title": "Smashed Pea Dip",
+  "url": "https://www.mob.co.uk/recipes/smashed-pea-dip",
+  "summary": "This lemony, herby pea dip couldn’t be quicker or easier to make. It’s delicious as a snack with crackers, or even as a meal topped with grains and roasted vegetables.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Smashed-Pea-Dip.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 181,
+    "protein": 6,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 15,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 196
+  },
+  "ingredients": [
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pickled Red Onions",
+      "quantity": null,
+      "unit": null,
+      "name": "Pickled Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To thaw the frozen peas, put them in a sieve and run them under some cold water."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the spring onion and tear the green chilli into pieces."
+    },
+    {
+      "heading": null,
+      "description": "Add all the ingredients, including the juice of the lemon and a pinch of salt, to a blender and blitz."
+    },
+    {
+      "heading": null,
+      "description": "Taste and add extra salt or lemon juice if needed."
+    },
+    {
+      "heading": null,
+      "description": "Serve as a dip, topped with some pickled red onions, alongside our seedy crackers. Or top it with any roasted veggies, grains, nuts and seeds you like for a more substantial meal!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-03T14:06:00+01:00"
+}

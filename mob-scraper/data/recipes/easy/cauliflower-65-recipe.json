@@ -1,0 +1,189 @@
+{
+  "id": "6012778",
+  "slug": "cauliflower-65-recipe",
+  "title": "Cauliflower 65",
+  "url": "https://www.mob.co.uk/recipes/cauliflower-65-recipe",
+  "summary": "A super simple, one-tray roast cauliflower inspired by the famous Chicken 65. We’ve used a show-stopping whole cauliflower and roasted it in the oven instead of deep-frying. The result is dynamite.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Cauliflower-65-Recipe.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 66,
+    "protein": 2,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 4,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "1 Whole Cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Curry Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Curry Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Kashmiri Red Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Ginger Paste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Garlic Paste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Garlic Paste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Thinly slice the green chillies for the marinade and transfer to a bowl. Add the remaining marinade ingredients, season with salt and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Trim the cauliflower, then rub the marinade all over. Place onto an oiled baking tray, transfer to the oven and roast for 30-35 mins until tender. Crank the oven temperature up to 200°C and roast for another 5 mins to get some colour onto the cauliflower."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add a glug of oil to a small frying pan and place over a medium-high heat. Once hot, drop the curry leaves in and fry until darkened (they’ll splutter, so be careful). Transfer to a plate lined with kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Once the cauliflower is cooked, plate up and drizzle over the pan juices. Finish with a scattering of crispy curry leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-14T08:52:00+01:00"
+}

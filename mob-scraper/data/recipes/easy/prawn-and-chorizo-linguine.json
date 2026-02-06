@@ -1,0 +1,182 @@
+{
+  "id": "2695003",
+  "slug": "prawn-and-chorizo-linguine",
+  "title": "Prawn and Chorizo Linguine",
+  "url": "https://www.mob.co.uk/recipes/prawn-and-chorizo-linguine",
+  "summary": "We're back with an OG Mob banger. The naughtiest surf 'n' turf combo about - salt, crispy chorizo with plump, fresh prawns.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Prawn-and-Chorizo-Linguine.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 28,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "250g Chorizo Ring",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Raw King Prawns (Jumbo Shrimp)",
+      "quantity": "165",
+      "unit": null,
+      "name": "King Prawns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Raw King Prawns (Jumbo Shrimp)",
+      "quantity": "165",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Passata",
+      "quantity": "500",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Dried Linguine",
+      "quantity": "500",
+      "unit": null,
+      "name": "Linguine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Dried Linguine",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Fresh Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the chorizo into bite-sized pieces. Add to a frying pan (skillet) over a medium heat and cook until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Once crispy, add a pinch of dried chilli flakes and the raw prawns. Cook the prawns until they are pink, then add a chopped garlic clove. Cook for a further 30 seconds, and then pour in the passata."
+    },
+    {
+      "heading": null,
+      "description": "Get the linguine on (follow the instructions on the packet)."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, bubble the sauce down until it is nice and thick. Then throw in a handful of chopped basil (keep some whole leaves to garnish) and season well with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Drain your pasta and pour it into the sauce. Mix everything together and serve, with a drizzle of olive oil and the basil leaves scattered on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-11-17T13:00:00+00:00"
+}

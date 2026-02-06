@@ -1,0 +1,324 @@
+{
+  "id": "3367608",
+  "slug": "sweet-and-spicy-gochujang-fried-chicken",
+  "title": "Sweet and Spicy Gochujang Fried Chicken",
+  "url": "https://www.mob.co.uk/recipes/sweet-and-spicy-gochujang-fried-chicken",
+  "summary": "The best type of comfort food. Crispy fried chicken tossed in a killer sauce. It bangs. Xien x",
+  "image": "https://files.mob-cdn.co.uk/recipes/Sweet-and-Spicy-Gochujang-Fried-Chicken.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 39,
+    "fat": 32,
+    "saturated_fat": 6,
+    "carbohydrates": 56,
+    "dietary_fibre": 2,
+    "sugars": 19,
+    "sodium": 1440
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Gochujang",
+      "quantity": "4",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Ketchup",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Maple Syrup",
+      "quantity": "6",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2cm Knob of Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Skinless Boneless Chicken Thigh Fillets",
+      "quantity": "800",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Skinless Boneless Chicken Thigh Fillets",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Cornflour",
+      "quantity": "120",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Plain Flour",
+      "quantity": "40",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Bicarbonate of Soda",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Onion Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Spring Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Toasted White/Black Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Mayo",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Vegetable oil (For Frying)",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add all the ingredients for the sauces into a bowl. Grate in the ginger and garlic and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Slice your chicken into long strips and place in a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the two eggs and set aside."
+    },
+    {
+      "heading": null,
+      "description": "To make 2 bowls of flour mix, add 60g corn flour, 20g plain flour, ½ tsp baking soda to each mixing bowl. Season both bowls of flour with a pinch of salt and pepper and a tsp of garlic powder and onion salt."
+    },
+    {
+      "heading": null,
+      "description": "Now add the first bowl of flour mix to your chicken thigh strips and mix well. Pour the whisked eggs into the bowl of chicken. Then, one at a time, dredge a single chicken thigh strip into the second bowl of flour mix. Once they’ve all been coated, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oil into a deep wok or pot until it reaches 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Fry the chicken in small batches (making sure to shake off any excess flour before placing in the oil) until they float to the top, this will take a few mins. Then place them on a paper-lined rack lined as this will help absorb any excess oil. You want the chicken to be super crispy so pop them back into the oil for a few mins again for the second round of deep-frying. Set aside your chicken in a deep bowl."
+    },
+    {
+      "heading": null,
+      "description": "On medium heat, pour the sauce into a separate pot and cook for just a few mins until the sauce thickens a little."
+    },
+    {
+      "heading": null,
+      "description": "Pour most of the sauce (set aside two tablespoons) onto the chicken and toss well."
+    },
+    {
+      "heading": null,
+      "description": "Mix the remaining 2 tbsps of sauce with some mayo."
+    },
+    {
+      "heading": null,
+      "description": "Garnish the chicken with toasted sesame seeds and sliced spring onions and enjoy with your sweet and spicy gochujang mayo."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-27T18:00:00+00:00"
+}

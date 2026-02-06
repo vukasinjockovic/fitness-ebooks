@@ -1,0 +1,179 @@
+{
+  "id": "6753605",
+  "slug": "coconut-ginger-beetroot-soup",
+  "title": "Coconut, Ginger & Beetroot Soup",
+  "url": "https://www.mob.co.uk/recipes/coconut-ginger-beetroot-soup",
+  "summary": "Earthy beets, warming ginger and creamy coconut milk come together for this bright pink showstopper of a soup.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Coconut-Ginger-Beetroot-Soup.jpg",
+  "cook_time": 60,
+  "prep_time": 10,
+  "total_time": 70,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 627,
+    "protein": 7,
+    "fat": 54,
+    "saturated_fat": 27,
+    "carbohydrates": 29,
+    "dietary_fibre": 8,
+    "sugars": 17,
+    "sodium": 682
+  },
+  "ingredients": [
+    {
+      "label": "6 Beetroots",
+      "quantity": "6",
+      "unit": null,
+      "name": "Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Coconut Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Fresh Ginger",
+      "quantity": "40",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Vegetable Stock",
+      "quantity": "750",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 175°C."
+    },
+    {
+      "heading": null,
+      "description": "Wash and chop the beets. Melt ½ the coconut oil in a small pan set over a medium heat."
+    },
+    {
+      "heading": null,
+      "description": "Toss the diced beets in the melted coconut oil and add to a baking tray. Roast in the oven for 45 mins, turning once halfway through."
+    },
+    {
+      "heading": null,
+      "description": "While the beets are roasting, peel and chop the shallots, and grate the ginger."
+    },
+    {
+      "heading": null,
+      "description": "Heat the remaining coconut oil in a large pot and sauté the shallots and ginger over a low flame, covered, until soft and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the roasted beets, then pour enough stock to cover the beets. Simmer for 10-15 mins until the beets are very soft."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the mixture to a blender and blitz until smooth. Pour in the coconut milk and blend once more to combine, then add more stock as needed to adjust the consistency."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze fresh lime juice into the soup and divide across the bowls. Combine the sesame seeds and sesame oil and drizzle a few spoons over each soup."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Freezer Friendly",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T11:51:00+01:00"
+}

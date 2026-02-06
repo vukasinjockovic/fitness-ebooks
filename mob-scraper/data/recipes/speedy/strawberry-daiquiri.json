@@ -1,0 +1,106 @@
+{
+  "id": "4275802",
+  "slug": "strawberry-daiquiri",
+  "title": "Strawberry Daiquiri",
+  "url": "https://www.mob.co.uk/recipes/strawberry-daiquiri",
+  "summary": "We’ve taken one of the world’s most popular cocktails and dialled up the flavour with some help from our pals at Dead Man’s Fingers. The perfect summer serve.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Strawberry-Daiquiri.jpg",
+  "cook_time": null,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 277,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 48,
+    "dietary_fibre": 2,
+    "sugars": 48,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "100g Strawberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Dead Man’s Fingers Spiced Rum",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Lime Juice",
+      "quantity": "35",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, freeze your strawberries."
+    },
+    {
+      "heading": null,
+      "description": "To make the sugar syrup, pour 50ml of water into a pan, then in with your sugar. Heat gently and mix until everything is dissolved."
+    },
+    {
+      "heading": null,
+      "description": "In a blender, add your Dead Man's Fingers Rum, lime juice, and 50ml of your sugar syrup along with the frozen strawberries. Blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour into your desired glass and garnish with a strawberry. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-12T09:06:00+01:00"
+}

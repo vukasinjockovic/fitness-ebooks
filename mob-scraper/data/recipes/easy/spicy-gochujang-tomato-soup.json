@@ -1,0 +1,193 @@
+{
+  "id": "6753523",
+  "slug": "spicy-gochujang-tomato-soup",
+  "title": "Spicy Gochujang Tomato Soup",
+  "url": "https://www.mob.co.uk/recipes/spicy-gochujang-tomato-soup",
+  "summary": "Level up your tomato soup by adding gochujang. The umami notes of the gochujang balance out the sweetness of the tomatoes, confusing your taste buds in the best possible way.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Spicy-Gochujang-Tomato-Soup.jpg",
+  "cook_time": 60,
+  "prep_time": 10,
+  "total_time": 70,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 552,
+    "protein": 18,
+    "fat": 27,
+    "saturated_fat": 8,
+    "carbohydrates": 56,
+    "dietary_fibre": 7,
+    "sugars": 13,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bell Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Large Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Gochujang",
+      "quantity": "5",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Baguette",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Vegetable Stock",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Black Sesame Seeds",
+      "quantity": "25",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Peel and chop the onion, peel and mince the garlic, slice and de-seed the bell peppers, and remove the core from the tomatoes. Grate the cheddar and set it aside."
+    },
+    {
+      "heading": null,
+      "description": "Place the prepared vegetables (onions, garlic, bell peppers, and tomatoes) in a baking dish. Drizzle generously with olive oil, and season with salt and freshly ground black pepper. Bake for 45-60 mins, or until the vegetables are soft and slightly caramelised"
+    },
+    {
+      "heading": null,
+      "description": "While the vegetables are roasting, slice the baguette into 1cm thick slices. Spread each slice with a layer of gochujang (using about ⅖ of the gochujang), then arrange on a lined baking sheet and sprinkle with grated cheddar."
+    },
+    {
+      "heading": null,
+      "description": "When the vegetables are almost done, place the baking sheet with the baguette slices into the oven and bake for about 10 mins, or until the cheese is melted and golden."
+    },
+    {
+      "heading": null,
+      "description": "Remove the roasted vegetables from the oven and transfer them to a blender. Add the remaining gochujang and a splash of the stock and blend until smooth. Add more stock or water to adjust the soup's thickness to your liking (you may not need all the stock)."
+    },
+    {
+      "heading": null,
+      "description": "Divide the soup across bowls and top each with the cheesy gochujang baguette croutons and a small spoonful of sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T11:40:00+01:00"
+}

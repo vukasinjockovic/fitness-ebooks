@@ -1,0 +1,98 @@
+{
+  "id": "6744515",
+  "slug": "kefir-cherry-ice-cream",
+  "title": "Kefir Cherry Ice Cream",
+  "url": "https://www.mob.co.uk/recipes/kefir-cherry-ice-cream",
+  "summary": "It’s finally feeling like summer and what better way to cool down and pack in some probiotics for your gut health than with this kefir cherry ice cream.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Cherry-Kefir-Ice-Cream.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 168,
+    "protein": 4,
+    "fat": 7,
+    "saturated_fat": 2,
+    "carbohydrates": 22,
+    "dietary_fibre": 4,
+    "sugars": 19,
+    "sodium": 38
+  },
+  "ingredients": [
+    {
+      "label": "350g Pitted Frozen Cherries",
+      "quantity": "350",
+      "unit": null,
+      "name": "Pitted Frozen Cherries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Kefir",
+      "quantity": "150",
+      "unit": null,
+      "name": "Kefir",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cacao Nibs",
+      "quantity": null,
+      "unit": null,
+      "name": "Cacao Nib",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add most of your frozen fruit to a blender with most of the kefir and blend. Give it a stir and see if you’re happy with the texture: add more fruit if you want it thicker or more kefir if you want it runnier and creamier."
+    },
+    {
+      "heading": null,
+      "description": "Serve immediately if you like or, for a scoopable consistency, pop the ice cream back into the freezer for at least an hour before serving. Enjoy with your favourite toppings: we used extra virgin olive oil (don’t knock it until you try it!) and cacao nibs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-02T11:59:00+01:00"
+}

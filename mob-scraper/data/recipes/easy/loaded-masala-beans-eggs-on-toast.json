@@ -1,0 +1,322 @@
+{
+  "id": "5978128",
+  "slug": "loaded-masala-beans-eggs-on-toast",
+  "title": "Loaded Masala Beans & Eggs on Toast",
+  "url": "https://www.mob.co.uk/recipes/loaded-masala-beans-eggs-on-toast",
+  "summary": "Beans on toast, but better. These loaded masala beans make for a mean weeknight dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Loaded-Masala-Beans-Eggs-on-Toast.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1042,
+    "protein": 46,
+    "fat": 65,
+    "saturated_fat": 32,
+    "carbohydrates": 66,
+    "dietary_fibre": 9,
+    "sugars": 11,
+    "sodium": 1542
+  },
+  "ingredients": [
+    {
+      "label": "1 Small Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rapeseed Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rapeseed Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Mustard Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ginger Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8-10 Curry Leaves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Madras Curry Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Madras Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Coriander",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Kashmiri Red Chilli Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Baked Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Baked Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Baked Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Slices Thick-Cut Sourdough",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cheddar Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cheddar Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Large Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8-10 Curry Leaves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Melted Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Kashmiri Red Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the onion and green chilli, then set aside. Grate the cheddar, then set aside as well."
+    },
+    {
+      "heading": null,
+      "description": "Heat the rapeseed oil in a pan over a medium heat. Add the mustard seeds and let them crackle. Add the onion and sauté until soft and translucent. Add the garlic paste, ginger paste, curry leaves and green chilli. Sauté for 2-3 mins until fragrant. Stir through the curry powder, ground coriander, turmeric, chilli powder and ½ tsp salt. Cook for 1-2 mins until the spices are well blended and aromatic."
+    },
+    {
+      "heading": null,
+      "description": "Add the baked beans to the pan, stirring to combine with the spice mixture. Simmer for 5-7 mins. Adjust the seasoning to taste."
+    },
+    {
+      "heading": null,
+      "description": "While the beans are simmering, toast the sourdough. Butter generously and pile some cheese on top."
+    },
+    {
+      "heading": null,
+      "description": "In a separate pan, heat 2 tbsp butter or some oil over a medium heat. Fry the eggs however you like them – I have mine sunny-side up and runny."
+    },
+    {
+      "heading": null,
+      "description": "For the chilli oil tarka, first finely chop the curry leaves. Heat the butter in a small pan over a medium heat until melted. Add the mustard seeds and let them crackle. Add the curry leaves and chilli powder. Fry for a few seconds until the spices are fragrant, then remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the coriander and green chillies."
+    },
+    {
+      "heading": null,
+      "description": "It’s now time to build the toasts. Place a slice of cheesy sourdough toast on a serving plate. Spoon the piping hot masala baked beans generously on top. Top each slice with a fried egg. Finally, drizzle the chilli tarka over the egg. Garnish with the chopped coriander and green chillies, then serve immediately!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High Fibre",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Brunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-30T09:27:00+01:00"
+}

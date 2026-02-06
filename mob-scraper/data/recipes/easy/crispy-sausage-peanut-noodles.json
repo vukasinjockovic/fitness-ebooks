@@ -1,0 +1,204 @@
+{
+  "id": "3330915",
+  "slug": "crispy-sausage-peanut-noodles",
+  "title": "Crispy Sausage Peanut Noodles",
+  "url": "https://www.mob.co.uk/recipes/crispy-sausage-peanut-noodles",
+  "summary": "Crispy sausage bits. Charred spring onions. And an unbelievably creamy peanut sauce. What’s not to love?",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A0270.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 25,
+    "fat": 37,
+    "saturated_fat": 8,
+    "carbohydrates": 48,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "8 Tbsp Peanut Butter",
+      "quantity": "8",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Apple Cider Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch Of Spring Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Medium Egg Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Medium Egg Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Sausages",
+      "quantity": "6",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-Inch Piece of Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the peanut butter, soy sauce, sugar, apple cider vinegar and 250ml water to a bowl and whisk until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of vegetable oil in a large frying pan or wok over high heat. Add the spring onions and cook, turning occasionally, until softened and nicely charred. Transfer to a chopping board and cut into 2cm chunks."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles in boiling water according to the package instructions. Rinse under cold water and drain."
+    },
+    {
+      "heading": null,
+      "description": "Add 2 tablespoons of oil to the noodles and toss to coat. This will prevent them from sticking to each other."
+    },
+    {
+      "heading": null,
+      "description": "Split the sausage casings and remove the sausage meat then mince the garlic and ginger."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of vegetable oil in a large frying pan or wok over high heat. Add the sausage meat and cook, breaking it up with a wooden spoon, until browned and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic, ginger and chilli flakes and stir fry for 1 minute, then add the noodles, peanut sauce and spring onions and toss well to coat."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to low and keep tossing until the sauce nicely coats the noodles, adding more water as necessary to loosen the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the red chilli. Plate up and garnish with the sliced chillies then you’re ready to dig in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-21T12:30:00+01:00"
+}

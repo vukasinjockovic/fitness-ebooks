@@ -1,0 +1,273 @@
+{
+  "id": "4225960",
+  "slug": "halloumi-pomegranate-salad",
+  "title": "Halloumi & Pomegranate Salad",
+  "url": "https://www.mob.co.uk/recipes/halloumi-pomegranate-salad",
+  "summary": "A fresh and vibrant salad that’s good enough to be eaten on its own or as a side. The saltiness of the halloumi goes great with the sweetness of pomegranate.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Halloumi-Pomegranate-Salad.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 573,
+    "protein": 17,
+    "fat": 41,
+    "saturated_fat": 14,
+    "carbohydrates": 33,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "600g Halloumi",
+      "quantity": "600",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pomegranate",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pomegranate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cucumbers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "340g Tin of Sweetcorn",
+      "quantity": "340",
+      "unit": null,
+      "name": "Sweetcorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Mint",
+      "quantity": "10",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Slices of Sourdough",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Za’atar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80ml Extra Virgin Olive Oil",
+      "quantity": "80",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Pomegranate Molasses",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Balsamic Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To make the croutons, heat a large frying pan over a medium heat. Add the olive oil. Rip up the sourdough into small pieces and fry until crisp and golden brown, sprinkle in the za’atar for the last min or so. Tip out the croutons and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut the halloumi into 3cm cubes, add a splash more oil to the pan and start searing off the cheese. Working in batches, cook over a medium heat, turning occasionally until golden brown on all sides."
+    },
+    {
+      "heading": null,
+      "description": "Halve the pomegranate and break open to expose the seeds. Separate the seeds from the white pith and set aside. Dice the veggies into equal-sized pieces and finely chop the herbs."
+    },
+    {
+      "heading": null,
+      "description": "In a large bowl, combine all the ingredients for the dressing, season with salt and pepper, and mix."
+    },
+    {
+      "heading": null,
+      "description": "Add the chopped veg and half the herbs to the bowl with the dressing along with halloumi, croutons and pomegranate. Toss gently together to dress the salad and transfer to a sharing plate. Top with the remaining herbs and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Most Cooked",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Zainab Pirzada",
+      "uri": "chefs/zainab-pirzada",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-24T09:01:00+00:00"
+}

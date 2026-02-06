@@ -1,0 +1,319 @@
+{
+  "id": "4751382",
+  "slug": "kitchari",
+  "title": "Ginger Lemon Lentil Porridge",
+  "url": "https://www.mob.co.uk/recipes/kitchari",
+  "summary": "Inspired by Khicidi (or Khichri) with plenty of gentle lentils, this recipe is a great source of protein and nutrition. We added lots of lemon ginger and aromatic ginger sesame oil for a proper warming bowl of serious cosy goodness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Kitchari.jpg",
+  "cook_time": 50,
+  "prep_time": 5,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 9,
+    "fat": 11,
+    "saturated_fat": 5,
+    "carbohydrates": 52,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coconut Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mild Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt, To Taste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Rice",
+      "quantity": "125",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Red Lentils",
+      "quantity": "125",
+      "unit": null,
+      "name": "Red Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Red Lentils",
+      "quantity": "125",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cherry Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cherry Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions, to Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1250ml Low-Salt Vegetable Stock",
+      "quantity": "1250",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Light Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sesame Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion, garlic and mince the fresh ginger using a microplane or the fine-side of a box grater. Slice the spring onions and set it aside for garnishing."
+    },
+    {
+      "heading": null,
+      "description": "In a medium-sized sauce pan on medium heat, add a heaped Tbsp of coconut oil and onions with ½ a tsp of salt, then cook for 8 mins, or until lightly golden. Add the garlic and ginger and cook for 2 mins or until aromatic. Add in half the cherry tomatoes and cook for 2 mins, using a spatula to smoosh them into the pan as they blister. Add curry powder, cumin, coriander, turmeric, pepper, honey, and soy sauce and cook for 1 minute to release their aroma. Add lentils and rice and stir for 1 min or until the rice smells fragrant - make sure to control the heat as you don’t want anything to burn. Pour in all the stock ingredients, and squeeze in the juice from 1 whole lemon, then chuck in the whole lemon itself. Add in the tomato vines for extra flavor, mix well and bring to the boil, then reduce to the lowest heat and simmer for 30 mins. Stir halfway through to make sure nothing is sticking to the bottom of the pan."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, make the ginger oil by combining minced ginger, a finely sliced spring onion into a small bowl with all the remaining ingredients into a small bowl, mixing well."
+    },
+    {
+      "heading": null,
+      "description": "After 30 mins, remove the discard the tomato vines and use 2 spoons to squeeze out all the hot jammy lemon juice, and then discard. With a whisk carefully whisk vigorously, just until it is creamy. Optionally, add another cup of stock if you’d prefer a looser consistency. Pour in all the remaining cherry tomatoes, put a lid on and simmer for 5 mins or just until the tomatoes begin to pop. Taste for seasoning, especially if more stock was added, you may need a pinch more salt."
+    },
+    {
+      "heading": null,
+      "description": "Serve into bowls and spoon over generous amounts of ginger oil, fresh spring onion, and a wedge of lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-15T14:28:00+00:00"
+}

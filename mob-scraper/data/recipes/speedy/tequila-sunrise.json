@@ -1,0 +1,105 @@
+{
+  "id": "3162833",
+  "slug": "tequila-sunrise",
+  "title": "Tequila Sunrise",
+  "url": "https://www.mob.co.uk/recipes/tequila-sunrise",
+  "summary": "The key to this one is using in season oranges and straining the juice to get rid of the pulp so you get a smooth delicious cocktail!",
+  "image": "https://files.mob-cdn.co.uk/recipes/CMS-0906_2022-03-09-111443_copc.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 282,
+    "protein": 2,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 46,
+    "dietary_fibre": 2,
+    "sugars": 44,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "50ml Tequila",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Oranges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Grenadine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Grenadine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by rolling and juicing your oranges, then strain them to remove all the pulp so your drink is smooth and delicious."
+    },
+    {
+      "heading": null,
+      "description": "Load up a highball glass with ice."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your tequila of choice and orange juice."
+    },
+    {
+      "heading": null,
+      "description": "Gently pour your grenadine over a spoon to allow the liquids of different densities to slowly mix and create the iconic sunrise colours in the glass."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with a slice of your orange and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-03-04T15:30:00+00:00"
+}

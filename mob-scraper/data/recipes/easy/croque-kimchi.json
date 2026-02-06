@@ -1,0 +1,169 @@
+{
+  "id": "5306580",
+  "slug": "croque-kimchi",
+  "title": "Croque Kimchi",
+  "url": "https://www.mob.co.uk/recipes/croque-kimchi",
+  "summary": "Tangy kimchi cuts through the richness of a croque monsieur perfectly. Enjoy with a zingy and crisp green salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Croque-Kimchi.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 36,
+    "fat": 32,
+    "saturated_fat": 18,
+    "carbohydrates": 48,
+    "dietary_fibre": 3,
+    "sugars": 7,
+    "sodium": 1532
+  },
+  "ingredients": [
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Bread",
+      "quantity": "8",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Plain Flour",
+      "quantity": "50",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Yellow Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mature Cheddar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mature Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mature Cheddar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices Ham",
+      "quantity": "8",
+      "unit": null,
+      "name": "Smoked Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices Ham",
+      "quantity": "8",
+      "unit": null,
+      "name": "Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Kimchi",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the grill to high. Thinly slice the spring onions. Grate the cheddar. Put all the bread onto a baking tray and toast it on one side. Heat the oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Put the butter in a saucepan set over a medium heat. Let it melt completely, then add the flour. Stir together until the mixture turns a light golden colour and it turns into a smooth paste."
+    },
+    {
+      "heading": null,
+      "description": "Add the spring onions and cook for 2-3 mins until softened. Whisk in the milk a little at a time until it’s all incorporated and smooth. Cook the béchamel until it comes to a boil. Remove from the heat, stir through the mustard and half the cheddar, then season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Spread some béchamel over four toasted bread sides. Top with a sprinkling of cheddar, two slices of ham, kimchi and some more cheddar. Spread 1 tbsp béchamel onto the other slice of toasted bread, then sandwich the croques together, untoasted-side facing out. Spread more béchamel on top, finish with a light scattering of cheddar and bake for 10-15 mins until melted and bubbly."
+    },
+    {
+      "heading": null,
+      "description": "Switch the oven to grill setting and grill the croques for 2-3 mins until golden on top. Serve immediately."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Brunch",
+    "Lunch"
+  ],
+  "cuisines": [
+    "French-Inspired",
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-12T05:00:00+01:00"
+}

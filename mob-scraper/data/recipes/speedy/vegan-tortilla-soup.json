@@ -1,0 +1,281 @@
+{
+  "id": "5089200",
+  "slug": "vegan-tortilla-soup",
+  "title": "Vegan Tortilla Soup",
+  "url": "https://www.mob.co.uk/recipes/vegan-tortilla-soup",
+  "summary": "You may not think tortillas in soup would work well together, but we're here to tell you that it does. And best of all? It's completely vegan.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Vegan-Tortilla-Soup.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 357,
+    "protein": 13,
+    "fat": 12,
+    "saturated_fat": 3,
+    "carbohydrates": 44,
+    "dietary_fibre": 12,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jalapeno",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Teaspoon Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tablespoon Tomato Puree",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegan Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Water",
+      "quantity": "400",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Coconut Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Coconut Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Pickled Jalapenos",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Tortilla Chips",
+      "quantity": "25",
+      "unit": null,
+      "name": "Tortilla Chips",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "240g Drained Cooked Kidney Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kidney Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Drained Cooked Kidney Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the red onion, crush the garlic, finely chop the jalapeño and slice the pepper. Heat a shot of oil in a frying pan, then tip in the red onion, jalapeño and garlic. Cook for 5-7 mins until softened and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the beans, paprika, cumin, chipotle paste and tomato purée, then cook for 3 mins, stirring often, until everything is caramelised and starting to brown. Add the red pepper and cook for 1-2 mins, then add the chopped tomatoes, stock cube and water. Simmer for 15 -20 mins until everything is cooked and the beans have softened. Add ⅓ of the yoghurt and stir through before stirring."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the pickled jalapeños and coriander."
+    },
+    {
+      "heading": null,
+      "description": "To serve, ladle the soup into bowls and top with the pickled jalapeño, the rest of the yoghurt and chopped coriander. Crumble over the tortilla chips."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-02T07:30:00+01:00"
+}

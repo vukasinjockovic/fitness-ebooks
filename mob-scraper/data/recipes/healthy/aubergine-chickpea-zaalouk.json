@@ -1,0 +1,212 @@
+{
+  "id": "6490831",
+  "slug": "aubergine-chickpea-zaalouk",
+  "title": "Aubergine & Chickpea Zaalouk",
+  "url": "https://www.mob.co.uk/recipes/aubergine-chickpea-zaalouk",
+  "summary": "A delicious spiced aubergine and chickpea stew inspired by Moroccan zaalouk. Perfect mopped up with crusty bread.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chickpea-Zaalouk.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 324,
+    "protein": 10,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 37,
+    "dietary_fibre": 12,
+    "sugars": 11,
+    "sodium": 16
+  },
+  "ingredients": [
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Aubergines",
+      "quantity": "500",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Chili Flakes",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Chickpeas",
+      "quantity": "400",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Chickpeas",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Water",
+      "quantity": null,
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crusty bread, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Crusty Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mince the garlic and dice the aubergines and tomatoes. Finely chop the fresh coriander. Heat the olive oil and garlic in a non-stick pan over a medium heat. Once warm, add the aubergines and ½ ladle of water. Let the aubergines cook for 5 mins with the lid on."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomatoes, spices and tomato purée, and let it simmer with the lid on for 15 minutes. If it’s too dry, add another ladle of water. Season with salt and pepper to taste. Simmer for another 5-8 mins with the lid off. Once the aubergines are very soft and all the water from the tomatoes has evaporated, turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the coriander and the chickpeas. Leave to sit for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Divide between bowls and serve with crusty bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Batch",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Moroccan-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Gigi Grassia",
+      "uri": "chefs/gigi-grassia",
+      "summary": "As a passionate plant-based nutrition coach, personal trainer, and ultra-marathon runner from Italy, Gigi (aka @gigi_goes_vegan) is on a mission: to demonstrate that a high-protein diet is entirely possible on a plant-based regimen and to show that food is a love language."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-09T12:44:00+01:00"
+}

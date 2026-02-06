@@ -1,0 +1,319 @@
+{
+  "id": "5826565",
+  "slug": "miso-salmon-spring-green-noodle-salad",
+  "title": "Miso Salmon Spring Green Noodle Salad",
+  "url": "https://www.mob.co.uk/recipes/miso-salmon-spring-green-noodle-salad",
+  "summary": "A fresh and flavour-packed green noodle salad with flaky miso salmon. Yes, please.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Miso-Salmon-Spring-Green-Noodle-Salad.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 818,
+    "protein": 44,
+    "fat": 27,
+    "saturated_fat": 4,
+    "carbohydrates": 101,
+    "dietary_fibre": 8,
+    "sugars": 18,
+    "sodium": 2102
+  },
+  "ingredients": [
+    {
+      "label": "250g Salmon Fillet",
+      "quantity": "250",
+      "unit": null,
+      "name": "Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Salmon Fillet",
+      "quantity": "250",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g White Miso Paste",
+      "quantity": "45",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g White Miso Paste",
+      "quantity": "45",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mirin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Maple Syrup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Lemon Zest",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Zest",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Tenderstem Broccoli",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Tenderstem Broccoli",
+      "quantity": "100",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Soba Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Soba Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Soba Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Maple Syrup",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Large Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Toasted Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely mince the ginger. Put all the marinade ingredients into a bowl and add the salmon fillets, tossing well to coat. Set aside in the fridge. You can marinate the salmon up to 24 hours in advance, or use it immediately."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pot of water to the boil and add salt as you would with pasta water. Cut the broccoli into bite-sized pieces, if you like."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine all the noodle sauce ingredients in a small bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cook the broccoli in the boiling water for 1 min, then use a slotted spoon to set aside in a bowl. Add the peas to the pot and cook for just 1 min, then remove using a slotted spoon or sieve. Roughly chop half of the peas to release the sweet flavour, if you like."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles in the same water, then strain and rinse very well in a bowl of cold water, then strain again. Toss in 1 tsp sesame oil and set aside so they don’t stick."
+    },
+    {
+      "heading": null,
+      "description": "Put the marinated salmon fillets onto a baking tray lined with foil. Turn the grill to 200°C and, when hot, cook the salmon for just 7 mins. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Toss the noodles and veg with the sauce in a large bowl. Divide between serving plates, then finish with a fillet of salmon on top and garnish with toasted sesame seeds. Serve with lemon wedges on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "Gut-Friendly",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-19T06:00:00+01:00"
+}

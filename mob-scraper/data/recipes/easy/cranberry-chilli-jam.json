@@ -1,0 +1,143 @@
+{
+  "id": "4732653",
+  "slug": "cranberry-chilli-jam",
+  "title": "Cranberry Chilli Jam",
+  "url": "https://www.mob.co.uk/recipes/cranberry-chilli-jam",
+  "summary": "Sweet, spicy, and extremely nice. This cranberry chilli jam will add an extra bit of oomph to your Christmas dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Cranberry-Christmas-Chilli-Jam.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 92,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 23,
+    "dietary_fibre": 2,
+    "sugars": 22,
+    "sodium": 0
+  },
+  "ingredients": [
+    {
+      "label": "500g Frozen Or Fresh Cranberries",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cranberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Scotch Bonnet Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Fresh Ginger",
+      "quantity": "40",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Caster Sugar",
+      "quantity": "220",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Apple Cider Vinegar",
+      "quantity": "120",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chuck the cranberries, chillies (deseed the scotch bonnet if you want to) and ginger into a food processor or blender. Pulse until coarsely chopped and tip into a large saucepan."
+    },
+    {
+      "heading": null,
+      "description": "Add the sugar and vinegar with a pinch of salt and set over a medium heat. Stir in the cinnamon stick and bring to a simmer. Cook over a low-medium heat, stirring regularly for 20-25 mins."
+    },
+    {
+      "heading": null,
+      "description": "As the jam cooks, the bubbles will change from loose and liquidy to thicker and less regular. You can control how thick your jam will be by how long you cook it for at this stage. The longer you cook it, the thicker it will be! If you have a thermometer, you’re shooting for 104°C as a minimum. You can also check the texture of your jam by freezing a plate and adding a blob of jam to the frozen plate. This will cool the jam down rapidly and you can check the texture once set."
+    },
+    {
+      "heading": null,
+      "description": "When you’re happy with your jam, fish out the cinnamon stick and store the jam in sterilised jars or Tupperware in the fridge. Your jam will keep in a sterilised jar for three months and for two weeks in a Tupperware in the fridge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-11T15:40:00+00:00"
+}

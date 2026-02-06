@@ -1,0 +1,314 @@
+{
+  "id": "5006321",
+  "slug": "crispy-chilli-paneer",
+  "title": "Crispy Chilli Paneer",
+  "url": "https://www.mob.co.uk/recipes/crispy-chilli-paneer",
+  "summary": "This is a neat little crispy chilli paneer recipe. If you're a fan of paneer, chilli, and crispy-ness, this one's for you. Enjoy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Crispy-Chilli-Paneer.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 230,
+    "protein": 8,
+    "fat": 14,
+    "saturated_fat": 4,
+    "carbohydrates": 15,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "225g Paneer",
+      "quantity": "225",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Paneer",
+      "quantity": "225",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 tsp ground black pepper",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 tsp chilli powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g fresh ginger root",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "10g fresh root ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g green beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 red peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 green chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g spring onion",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp soy sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp sriracha",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 tsp chilli powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp rice vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "sesame seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the batter for the paneer. Put the cornflour, water, ground black pepper, and chilli powder into a bowl. Grate in the ginger and garlic then season generously with salt. Mix well until smooth. Dice the paneer into 2cm pieces, then dredge in the batter."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oil in a large frying pan set over a medium heat and add the paneer, shaking off any excess batter back into the bowl. Fry on all sides until crispy, making sure there's space between each piece, for around 7 mins. Remove from the pan and drain on kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "For the sauce, start by grating the ginger and garlic. Trim and cut the green beans in half, then slice the pepper. Halve the green chilli, deseed and finely slice, or for less spice keep them whole and poke holes in them using a knife. Trim the spring onions and cut into 2cm pieces."
+    },
+    {
+      "heading": null,
+      "description": "Heat a little oil in the same frying pan set over a medium-high heat. Add the spring onions, green chilli, red pepper and green beans, fry for 2-3 mins, add the garlic and ginger, cooking for 1 minute, then turn down the heat and add the soy sauce, vinegar, sriracha, chilli powder and a pinch of ground black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the water and mix, then add the leftover cornflour batter, mixing well. Simmer for a couple of minutes until glossy, then add the paneer back in, mixing well and adding more water if necessary. Serve topped with sesame seeds, with rice on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-02-21T05:00:00+00:00"
+}

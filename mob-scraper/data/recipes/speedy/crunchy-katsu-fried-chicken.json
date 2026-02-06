@@ -1,0 +1,259 @@
+{
+  "id": "3957075",
+  "slug": "crunchy-katsu-fried-chicken",
+  "title": "Crunchy Katsu Fried Chicken",
+  "url": "https://www.mob.co.uk/recipes/crunchy-katsu-fried-chicken",
+  "summary": "A nod to the Christmas tradition of eating fried chicken in Japan, this is our super easy, curry-spiced fried chicken with spiced gravy and a zingy slaw.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Crunchy-Katsu-Fried-Chicken.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 29,
+    "fat": 32,
+    "saturated_fat": 9,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 797
+  },
+  "ingredients": [
+    {
+      "label": "4 Boneless Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Boneless Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Plain Flour",
+      "quantity": "150",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "105g YO! Katsu Curry Crumb",
+      "quantity": "105",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½  Tbsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Dark Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Mayonnaise (We like Kewpie Mayo)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Kewpie Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "YO! Korean Sweet Chilli Sauce, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sweet Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Season the chicken thighs with salt and black pepper and set up 3 bowls. Add 100g of flour to one, crack the two eggs into another and pop the panko breadcrumbs into the third. Beat the eggs with a splash of cold water and a big pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Pass the chicken thighs through the flour, egg and breadcrumbs to coat. Set the chicken aside."
+    },
+    {
+      "heading": null,
+      "description": "To make the gravy, add the butter to a saucepan and cook over a medium heat until nutty brown, then add the flour and cook for 2 mins. Throw in the spices and cook for 4-5 mins then gradually add the chicken stock, whisking constantly. Season with salt and pepper and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred the cabbage and red onion and coarsely grate the carrot. Add to a large mixing bowl with the vinegar and mayo. Season with salt and black pepper and toss to combine."
+    },
+    {
+      "heading": null,
+      "description": "Heat a good glug of oil in a frying pan and add the breaded chicken. Cook over medium heat for 4-5 minutes on each side, until nicely golden and cooked through. If the breadcrumbs are colouring too much and the chicken isn't cooked, then pop in the oven to finish cooking through. Serve with a big handful of coleslaw and a pot of gravy for dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Japanese-Inspired",
+    "East-Asian Inspired",
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-02T11:28:00+00:00"
+}

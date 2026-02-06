@@ -1,0 +1,113 @@
+{
+  "id": "7403683",
+  "slug": "choccy-peanut-butter-dates",
+  "title": "Choccy Peanut Butter Dates",
+  "url": "https://www.mob.co.uk/recipes/choccy-peanut-butter-dates",
+  "summary": "A fun, no-fuss treat made with just three ingredients. These chocolate peanut butter dates are naturally sweet, non-processed, and perfect for the whole family.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Choccy-Peanut-Dates.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 70,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 109,
+    "protein": 2,
+    "fat": 5,
+    "saturated_fat": 2,
+    "carbohydrates": 14,
+    "dietary_fibre": 2,
+    "sugars": 12,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "10 dates",
+      "quantity": "10",
+      "unit": null,
+      "name": "Date",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 tsp peanut butter",
+      "quantity": "10",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g milk chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Milk Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g milk chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Serving = 1 Date\nRemove the stones from the dates. Line a large baking tray with baking paper, open up the dates slightly and spoon 1 tsp of peanut butter into each. Freeze for 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Snap the chocolate into pieces and add to a bowl. Melt in 20 second pulses in the microwave."
+    },
+    {
+      "heading": null,
+      "description": "Put a date onto a small fork and lower it into the chocolate, then back onto the lined tray. Repeat, then freeze for 10 minutes. \nKeep in an airtight container in the fridge or freezer for an easy sweet snack."
+    },
+    {
+      "heading": null,
+      "description": "Keep in an airtight container in the fridge or freezer, ready to satisfy a sweet craving."
+    }
+  ],
+  "tips": [
+    "For more sensitive teeth, leave them to soften for a few minutes after freezing, they’re pretty chewy straight out the freezer.",
+    "You can roll them in chopped nuts or coconut before the chocolate sets.",
+    "These will keep in the freezer for up to 3 months."
+  ],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-29T17:28:00+01:00"
+}

@@ -1,0 +1,208 @@
+{
+  "id": "5334267",
+  "slug": "crispy-sesame-tofu-curry-rice",
+  "title": "Crispy Sesame Tofu Curry & Rice",
+  "url": "https://www.mob.co.uk/recipes/crispy-sesame-tofu-curry-rice",
+  "summary": "Crispy tofu dotted with toasted sesame seeds, served with a simple coconut curry sauce and fresh herbs for a fragrant and easy dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Crispy-Sesame-Tofu-Curry-Rice.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 547,
+    "protein": 18,
+    "fat": 22,
+    "saturated_fat": 10,
+    "carbohydrates": 67,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 93
+  },
+  "ingredients": [
+    {
+      "label": "20g Toasted Sesame Seeds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Cornflour",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 300g Blocks Firm Tofu",
+      "quantity": "600",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 300g Blocks Firm Tofu",
+      "quantity": "600",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400 ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Thai Red Curry Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Thai Red Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300 ml Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 g Dill",
+      "quantity": "10",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 g Mint",
+      "quantity": "10",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500 g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500 g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Stir the sesame seeds and cornflour together. Chop the tofu into 2cm squares and toss through the sesame mixture. Transfer to a baking tray lined with baking parchment and drizzle with oil. Season with salt and bake for 20-30 mins until golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel and finely slice the spring onions, separating the whites and greens."
+    },
+    {
+      "heading": null,
+      "description": "Place a saucepan over a medium heat. Once hot, pour half the coconut milk in and cook until the fat separates. Add the spring onion whites and stir-fry until translucent. Add the curry paste and cook until fragrant. Pour in the water and remaining coconut milk, bring to the boil, then turn the heat down and simmer for 10-15 mins until creamy. Taste and season with lime juice, salt and sugar."
+    },
+    {
+      "heading": null,
+      "description": "Pick the dill and mint, discarding the stems. Toss both with the spring onion greens."
+    },
+    {
+      "heading": null,
+      "description": "Share the rice between bowls, ladle over the curry sauce and top with crispy tofu, herbs and any remaining lime wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-20T06:00:00+01:00"
+}

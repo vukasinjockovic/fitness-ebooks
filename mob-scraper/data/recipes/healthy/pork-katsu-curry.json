@@ -1,0 +1,317 @@
+{
+  "id": "7681515",
+  "slug": "pork-katsu-curry",
+  "title": "Crispy Pork Katsu Curry",
+  "url": "https://www.mob.co.uk/recipes/pork-katsu-curry",
+  "summary": "A delicious take on a classic. With crispy pork cutlets, and warming spicy curry sauce, this one is a proper comfort dinner that’s well worth the effort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Commercial/Aldi/Pork-Katsu-Curry.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 41,
+    "fat": 32,
+    "saturated_fat": 6,
+    "carbohydrates": 135,
+    "dietary_fibre": 6,
+    "sugars": 16,
+    "sodium": 1232
+  },
+  "ingredients": [
+    {
+      "label": "Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Apple",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Apple",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Curry Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Plain Flour",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chicken Stock",
+      "quantity": "900",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Banana",
+      "quantity": "1",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Potatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cornstarch",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "White Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ketchup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pork Loin",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pork Loin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pork Loin",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Breadcrumbs",
+      "quantity": "80",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Long White Rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Long White Rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making your curry paste. Roughly chop the onion, garlic, ginger and green apple. Add to a blender or food processor and blitz until smooth. Heat a large saucepan over a medium heat with a drizzle of olive oil. Add the curry paste and fry for 5 mins until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the tomato purée and cook for 2 mins until darkened. Add the curry powder, garam masala, salt and flour. Mix well and cook for another couple of mins until it forms a thick paste. Meanwhile mash the banana."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken stock and stir through the mashed banana. Carefully blitz the sauce with a stick blender until smooth (or leave it chunky if you prefer)."
+    },
+    {
+      "heading": null,
+      "description": "Peel and chop the potatoes and carrots, then chuck them into the pan. Bring to the boil, then simmer for 20–25 mins until the veg is soft."
+    },
+    {
+      "heading": null,
+      "description": "Add the soy sauce, white wine vinegar and ketchup. In a small bowl, mix the cornflour with a spoonful or two of the hot curry sauce to make a slurry. Stir the slurry into the pot and simmer for 5 mins until thick and glossy."
+    },
+    {
+      "heading": null,
+      "description": "Wash the rice in cold water until it runs clear, then drain. Add to a saucepan with enough water to just cover it (roughly 1cm above the rice line). Bring to the boil over a medium-high heat, then cover with a lid and reduce the heat to low. Cook for 12 mins, then turn off the heat and leave to steam for another 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Place the pork steaks between sheets of cling film and bash them to about 1cm thick using something heavy like a rolling pin. Prick each steak a few times with a fork, then season both sides with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Now set up a breading station with cornflour, beaten eggs and breadcrumbs in separate bowls. Dredge each steak in cornflour, dip into the egg, then coat well in breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oil in a large frying pan over a medium heat. Once hot, shallow-fry each cutlet for 3–4 mins on each side until golden and crisp. Transfer to a plate lined with kitchen paper and then slice into strips."
+    },
+    {
+      "heading": null,
+      "description": "Serve each portion with a bowl of rice, a ladle of curry sauce, sliced pork katsu and a scattering of pickled onions and spring onions, if using. Dig in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Other",
+    "Family-Friendly",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-09-23T12:00:00+01:00"
+}

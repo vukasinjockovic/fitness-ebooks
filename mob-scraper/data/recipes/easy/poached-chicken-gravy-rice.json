@@ -1,0 +1,305 @@
+{
+  "id": "5474517",
+  "slug": "poached-chicken-gravy-rice",
+  "title": "Poached Chicken & Gravy Rice",
+  "url": "https://www.mob.co.uk/recipes/poached-chicken-gravy-rice",
+  "summary": "Think of your favourite Chinese takeaway (meat and lots of gravy on rice), all done at home, fuss-free and packed with comforting flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Poached-Chicken-Gravy-Rice.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1082,
+    "protein": 44,
+    "fat": 27,
+    "saturated_fat": 6,
+    "carbohydrates": 168,
+    "dietary_fibre": 4,
+    "sugars": 77,
+    "sodium": 2442
+  },
+  "ingredients": [
+    {
+      "label": "150g Rock Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rock Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs, boneless",
+      "quantity": "8",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs, boneless",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Ginger",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Light Soy Sauce",
+      "quantity": "5",
+      "unit": null,
+      "name": "Chinese Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Light Soy Sauce",
+      "quantity": "5",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Dark Soy Sauce",
+      "quantity": "5",
+      "unit": null,
+      "name": "Chinese Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Cornstarch",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Jasmine Rice",
+      "quantity": "225",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Jasmine Rice",
+      "quantity": "225",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "340ml Chicken Stock",
+      "quantity": "340",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the chicken, add the rock sugar and a splash of water to a saucepan set over a medium heat. Stir thoroughly for around 2 mins to dissolve the sugar. Keep stirring for 5 mins – the sugar will slowly caramelise and turn golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Cut the roots off the spring onion. Add to the pan along with the chicken thighs, whole garlic cloves (skin on), ginger (whole), cinnamon stick, star anise, water, a big pinch of salt and the light and dark soy sauces. Put the lid on and turn the heat up to high. Once boiling, lower the heat to low and cook for 25 mins."
+    },
+    {
+      "heading": null,
+      "description": "For the rice, finely mince the garlic cloves. Cut the ginger into slices then lay flat and slice into matchsticks. Cut and discard the roots off the spring onion. Wash the rice in a bowl until the water is murky, then discard the water and repeat two more times, or until the water is clear, then drain the water completely."
+    },
+    {
+      "heading": null,
+      "description": "Heat a saucepan over medium heat and add the vegetable oil. Add the minced garlic, ginger matchsticks and spring onion, then stir and fry for 1 min. Add the rice, a pinch of salt and the chicken stock. Stir once to combine and put the lid on, then turn the heat up to high and bring to the boil."
+    },
+    {
+      "heading": null,
+      "description": "As soon as the water is boiling, turn the heat down to the lowest setting. Set a timer for 18 mins (don’t take the lid off during this time). Once cooked, turn the heat off and set aside, keeping the lid on until ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "For the garnish, slice the spring onions into thirds, then slice each third lengthways, as thin as possible, into strips. Cut the coriander into thirds, around 2 inches long. Transfer the spring onion and coriander to ice-cold water."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken is cooked, remove it from the liquid and transfer to a plate. Discard all the aromatics and leave the broth in the saucepan over a low heat."
+    },
+    {
+      "heading": null,
+      "description": "To a mug, add the cornstarch and equal parts water. Stir well to combine then slowly drizzle this slurry into the simmering broth while stirring, to avoid any lumps. The sauce should coat the back of a spoon: if too thin, add more cornstarch slurry; if too thick, add a splash of cold water. Taste for seasoning, adding a pinch of salt and more light soy sauce if lacking."
+    },
+    {
+      "heading": null,
+      "description": "Slice the cooked chicken into strips. Divide the rice between two shallow plate bowls, then add the sliced chicken on top and drizzle over a generous amount of gravy. Drain the spring onion and coriander, then use as a garnish. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Asian-Inspired",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-25T11:52:00+01:00"
+}

@@ -1,0 +1,295 @@
+{
+  "id": "6490463",
+  "slug": "curried-chickpeas-loaded-sweet-potatoes",
+  "title": "Curried Chickpeas Loaded Sweet Potatoes",
+  "url": "https://www.mob.co.uk/recipes/curried-chickpeas-loaded-sweet-potatoes",
+  "summary": "Super soft baked sweet potatoes stuffed with spiced chickpeas, crushed pistachios and creamy coconut yoghurt. A cosy plant-based meal that delivers on protein and flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Curried-Chickpeas-Loaded-Sweet-Potato.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 466,
+    "protein": 17,
+    "fat": 13,
+    "saturated_fat": 4,
+    "carbohydrates": 66,
+    "dietary_fibre": 12,
+    "sugars": 18,
+    "sodium": 273
+  },
+  "ingredients": [
+    {
+      "label": "2 Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cumin",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Paprika",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Powder",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garam Masala",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Vegan Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Vegan Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Thick Coconut Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Thick Coconut Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Nutritional Yeast",
+      "quantity": "4",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Spinach",
+      "quantity": null,
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Stock",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coconut Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coconut Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crushed Pistachios",
+      "quantity": null,
+      "unit": null,
+      "name": "Crushed Pistachios",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Chilli",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven at 200C."
+    },
+    {
+      "heading": null,
+      "description": "Place the sweet potatoes on a baking tin previously lined with baking paper and drizzle them with olive oil, pinch of salt and pepper. Brush them to evenly coat. Roast them for 40-50 mins until soft and juicy."
+    },
+    {
+      "heading": null,
+      "description": "While the potatoes roast, dice the onions and mince the garlic. Heat a good glug of olive oil in a pan over a medium heat then add the onion and garlic. Let them cook until softened and brown."
+    },
+    {
+      "heading": null,
+      "description": "Add the spices and stir to let the flavour infuse. Add the chickpeas and stir again. Add a splash of vegetable stock (the more you add, the creamier and saucier it will be). Add nutritional yeast and spinach and stir until wilted. Let it simmer on a low heat, stirring now and then. The chickpeas should be creamy and not too dry. If they are too dry, add more stock. Leave to simmer until the sweet potatoes are cooked. Finally stir through both types of yoghurts and gently heat through until warm."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the cooked sweet potatoes between plates and slice them open down the middle. Top with the creamy chickpeas, a dollop of vegan yoghurt (coconut or soy), crushed pistachios, coriander, sliced red chilli, and a pinch of salt and pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Gigi Grassia",
+      "uri": "chefs/gigi-grassia",
+      "summary": "As a passionate plant-based nutrition coach, personal trainer, and ultra-marathon runner from Italy, Gigi (aka @gigi_goes_vegan) is on a mission: to demonstrate that a high-protein diet is entirely possible on a plant-based regimen and to show that food is a love language."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-09T12:14:00+01:00"
+}

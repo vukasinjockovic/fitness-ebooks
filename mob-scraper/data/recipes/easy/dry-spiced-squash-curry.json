@@ -1,0 +1,274 @@
+{
+  "id": "6930650",
+  "slug": "dry-spiced-squash-curry",
+  "title": "Dry Spiced Squash Curry",
+  "url": "https://www.mob.co.uk/recipes/dry-spiced-squash-curry",
+  "summary": "This curry works best with winter squash varieties that don’t quickly cook down into a mush, and that perhaps might also need a helping hand, flavour-wise — so Crown Prince and Acorn squash are particularly good, or you could use Butternut squash. Serve with chapatis or cook-from-frozen paratha, yoghurt, a mango or aubergine chutney and maybe some dal if you have leftovers.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Dry-Spiced-Squash-Curry.jpg",
+  "cook_time": 20,
+  "prep_time": 20,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 210,
+    "protein": 3,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 28,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 102
+  },
+  "ingredients": [
+    {
+      "label": "500g Squash",
+      "quantity": "500",
+      "unit": null,
+      "name": "Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Mild Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Cardamon Pods",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Dried Chilli Flakes",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Fine Salt",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flatbreads",
+      "quantity": null,
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pickles",
+      "quantity": null,
+      "unit": null,
+      "name": "Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Dal",
+      "quantity": null,
+      "unit": null,
+      "name": "Leftover Dal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and remove the seeds from the squash then cut the flesh into 2-3cm cubes. Mince the ginger. Flatten the unpeeled garlic cloves with the back of a knife. Separate the coriander stalks and leaves, and finely chop both. Finely dice the chilli. Crack open the cardamom pods with the side of a knife."
+    },
+    {
+      "heading": null,
+      "description": "Warm the olive oil in a large frying pan or wok placed over a medium-high heat. Add the chilli flakes, mustard seeds, minced ginger and bashed garlic. Cook for 90 seconds or so, stirring frequently, until the mustard seeds start to pop."
+    },
+    {
+      "heading": null,
+      "description": "Add the diced squash, turmeric, cumin, cardamom pods, sugar and salt. Sauté for 2-3 mins, colouring the squash a little. Add a splash of water if the spices are sticking and burning."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the coriander stalks and diced green chilli plus the water. Cover with a lid, reduce the heat to low-medium and leave the squash to simmer/steam for 5 mins until the squash is tender, but not yet mushy."
+    },
+    {
+      "heading": null,
+      "description": "Now remove the lid and cook with the lid off until there’s no water remaining. If the squash isn't quite tender at that point, add a splash of water and keep cooking until it is."
+    },
+    {
+      "heading": null,
+      "description": "Throw in the chopped coriander leaves, stir carefully so as to avoid breaking up the squash, then serve with flatbreads and/or rice, yoghurt, pickles, and dal if you have some."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Batch",
+    "Low Carb",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "South Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ed Smith",
+      "uri": "chefs/ed-smith",
+      "summary": "Ed Smith is an award-winning food and recipe writer. After leaving a career as a lawyer for a life in food, he trained as a chef, worked briefly in restaurants and pop-ups, and now cooks, consults and writes. He’s the author of 4 cookbooks (Good Eggs; Crave; On the Side; and The Borough Market Cookbook), and the co-author of 1 book about food for kids (Welcome to Our Table). Ed regularly contributes recipes to all the major UK food magazines, websites and broadsheet supplements, and is the curator of the Rocket & Squash newsletter and social accounts (@rocketandsquash).\n\nPhotographer: Sam A Harris."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-10T13:00:00+01:00"
+}

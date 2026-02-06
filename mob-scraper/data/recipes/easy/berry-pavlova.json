@@ -1,0 +1,168 @@
+{
+  "id": "6814974",
+  "slug": "berry-pavlova",
+  "title": "Summer Berry Pavlova",
+  "url": "https://www.mob.co.uk/recipes/berry-pavlova",
+  "summary": "An incredible summer dinner party dessert, with a crisp and slightly chewy meringue, whipped cream and homemade seasonal berry coulis. A real showstopper.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Summer-Berry-Pavlova.jpg",
+  "cook_time": 180,
+  "prep_time": 60,
+  "total_time": 240,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "fat": 15,
+    "saturated_fat": 10,
+    "carbohydrates": 48,
+    "dietary_fibre": 2,
+    "sugars": 47,
+    "sodium": 19
+  },
+  "ingredients": [
+    {
+      "label": "4 Egg Whites",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Lemon Juice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Vanilla Extract",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Mixed Berries",
+      "quantity": "400",
+      "unit": null,
+      "name": "Mixed Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Double Cream",
+      "quantity": "400",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Icing Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Mixed Berries",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mixed Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 120°C fan. Line a baking tray with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, use an electric whisk to whip the egg whites with the lemon juice until soft peaks form. Slowly beat in the sugar – 2 tablespoons at a time – and continue until stiff shiny peaks form."
+    },
+    {
+      "heading": null,
+      "description": "Beat in the vanilla extract. Use a metal spoon to dollop 4 large spoonfuls of the beaten whites on to your prepared baking tray. Use the back of a spoon to hollow out the middle a little, creating a little dip in the centre. You'll need this to fill with cream and berries later."
+    },
+    {
+      "heading": null,
+      "description": "Bake until almost completely dry but still slightly chewy in the centre – approximately 3 hours. Remove from the oven and leave to cool."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the berry coulis. Place all the ingredients in a medium-sized heavy-bottomed pan and bring to the boil over a gentle heat, stirring continuously. Reduce to a simmer and cook for 15 mins, or until thickened (add a splash more water if it needs it). Allow to cool, then transfer the coulis to a liquidiser or use a hand blender to purée. Finally pass it through a sieve, pushing through as much of the pulp as possible and discarding any seeds. Set aside until ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, whip the cream with the sifted icing sugar by hand, until it forms soft swirls. Scoop the cream into the meringue, top with fresh berries (or any other fresh seasonal fruit) and drizzle generously with the coulis. Serve immediately."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-08T15:14:00+01:00"
+}

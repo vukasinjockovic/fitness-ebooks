@@ -1,0 +1,316 @@
+{
+  "id": "5171632",
+  "slug": "braised-chicken-cacciatore-with-cheesy-polenta",
+  "title": "Braised Chicken Cacciatore with Cheesy Polenta",
+  "url": "https://www.mob.co.uk/recipes/braised-chicken-cacciatore-with-cheesy-polenta",
+  "summary": "Creamy, cheesy polenta is the perfect partner for a rich and saucy chicken cacciatore.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Braised-Chicken-Cacciatore-with-Cheesy-Polenta.jpg",
+  "cook_time": 80,
+  "prep_time": 20,
+  "total_time": 100,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 44,
+    "fat": 36,
+    "saturated_fat": 14,
+    "carbohydrates": 41,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 782
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fennel Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Stalks Celery",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Bay Leaves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Rosemary",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml White Wine",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Chopped Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp of Green Olives",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Black Olives",
+      "quantity": "2",
+      "unit": null,
+      "name": "Black Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800ml Water",
+      "quantity": "800",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Whole Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Polenta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Polenta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Butter",
+      "quantity": "60",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parmesan",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ground Nutmeg",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by preheating your oven to 160°C."
+    },
+    {
+      "heading": null,
+      "description": "Split the chicken legs into thighs and drumsticks by slicing through the joint that connects the two. Season with salt and pepper. Preheat a large braising pot or frying pan over a medium heat. Add plenty of olive oil and star browning off the chicken in batches. Start skin side down and cook over medium heat (nothing crazy) for 6-7 mins until the fat has renderred and the skin has crisped. Repeat with the remaining chicken."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the chicken is cooking, roughly chop the celery, fennel and shallots and finely chop the garlic. Once all the chicken is browned off, remove from the pan, leaving behind all that chicken fat and olive oil. Chuck in the celery, shallots and fennel with a pinch of salt and cook for 9-10 mins. Add the garlic, herbs and spices for 2 mins before cranking up the heat and dumping in the white wine. Deglaze the pan with the wine and reduce by half."
+    },
+    {
+      "heading": null,
+      "description": "Deglaze the pan with the wine and reduce by half."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the tomatoes and bring to a boil. Reduce to a simmer and nestle in the chicken pieces. You want a little of the chicken skin sticking out the liquid, like alligators in the swamp. Scatter over the olives and then slide into the oven, uncovered, for an hour."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the chicken is braising, make the polenta. Add the water to a pot along with the milk and bring to a bare simmer. Whisk in the polenta and cook, stirring regularly, for 30-40 mins. Once cooked, season with salt and whisk in the butter and grated cheese. I like to add some grated nutmeg, too."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken has had an hour or so, crank up the heat for the last few minutes to really get some colour on the skin. Divide the polenta between warm bowls and spoon over some of the tomato sauce and a couple of pieces of chicken. Top with extra Parm and chopped parsley."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-11T13:00:00+00:00"
+}

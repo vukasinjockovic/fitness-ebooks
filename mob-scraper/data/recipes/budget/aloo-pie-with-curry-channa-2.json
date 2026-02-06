@@ -1,0 +1,375 @@
+{
+  "id": "6280062",
+  "slug": "aloo-pie-with-curry-channa-2",
+  "title": "Aloo Pie with Curry Channa",
+  "url": "https://www.mob.co.uk/recipes/aloo-pie-with-curry-channa-2",
+  "summary": "You are going to love this recipe from Sheliza Thomson (@thedoubleskitchen). Aloo pie with curry channa is essentially a potato pie with curried chickpeas. It’s all the things  you’d want in a snack – crunchy, spicy, zingy, sweet, savoury and most of all moreish. It totally hits the spot!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Aloo-Pie-with-Curry-Channa.jpg",
+  "cook_time": 65,
+  "prep_time": 185,
+  "total_time": 260,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 523,
+    "protein": 13,
+    "fat": 14,
+    "saturated_fat": 2,
+    "carbohydrates": 85,
+    "dietary_fibre": 9,
+    "sugars": 6,
+    "sodium": 613
+  },
+  "ingredients": [
+    {
+      "label": "450g Plain Flour",
+      "quantity": "450",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Yeast",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Baking Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White or Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Tsp Salt",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250-300ml Tepid Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Lukewarm Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2kg White Potatoes",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5-6 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5-6 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tsp Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Pepper Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pepper Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Tbsp Vegetable Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5L Crisp ‘n’ Dry Oil,",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Crispy 'N' Dry Vegetable Frying Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Scotch Bonnet",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Jarred Chickpeas",
+      "quantity": "400",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Jarred Chickpeas",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Grated Cucumber",
+      "quantity": null,
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tamarind Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Tamarind Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the dough, mix the flour, yeast, baking powder, sugar and salt in a bowl. You can either use a mixer for speed or you can hand mix it. Make a well in the middle and add half the water, mix, then add the remaining water. You want the consistency of a very soft dough with a slightly tacky surface. Place into an oiled bowl and cover with cling film overnight, or leave in a warm place for 2 hours until doubled in size."
+    },
+    {
+      "heading": null,
+      "description": "Peel and chop potatoes into small pieces, then soak in cold water for at least 10 mins to get rid of the starch. Meanwhile, place a saucepan filled with water over a medium heat and bring to the boil. Once bubbling, add a pinch of salt and the potatoes. Boil for at least 10-15 mins until the potatoes are cooked all the way through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, start on the channa. Finely dice the white onion and ⅔ of the garlic cloves, then finely chop the saw leaf. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Dice the scotch bonnet. Add a shot of vegetable oil to a new pot, then the scotch bonnet. Fry over a medium heat for 1 min, then add the chopped onion, garlic and chopped saw leaf. Fry over a medium heat for 2 mins. Add the curry powder and turmeric, then dry-fry for 30 seconds. Add ⅕ of the water and stir quickly to create a paste. Lower the heat slightly and leave to cook down for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Once the paste has thickened, add the chickpeas. Stir and cook for 5 mins. Add the remaining water (just enough to cover the chickpeas), put the lid on and bring to the boil. Lower the heat and cook for about 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, the potatoes should be ready. Drain and leave to cool on a tray or in a bowl. Grate the rest of the garlic for the pie filling, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Lightly flour a clean surface and turn out the dough. Split the dough into 10 pieces and roll into small balls. Place on an oiled tray, spaced apart, then cover. Leave to rest for a minimum of 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "In a small frying pan, dry-roast the cumin and transfer to a bowl. Keep the pan aside. Shred the potatoes into a mixing bowl using a ricer or grater."
+    },
+    {
+      "heading": null,
+      "description": "Using the same pan you fried the cumin in, heat a shot of oil over a medium heat, then add the grated garlic. Stir with a fork to break up any clumps, then add a pinch of salt and mix. Once the garlic starts to brown, turn off the heat immediately and add the garlic to the grated potato bowl. Add the roasted cumin and a dollop of pepper sauce, then mix well."
+    },
+    {
+      "heading": null,
+      "description": "Check the channa for salt and softness, adjusting the seasoning if necessary. Add the remaining chopped saw leaf, stir and cook for 5-10 mins, then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Fill a wok or wide frying pan halfway with the Crisp ‘n’ Dry, then turn the heat to medium-high."
+    },
+    {
+      "heading": null,
+      "description": "While the oil is heating up, fill the pies with the potato mixture. Lightly oil your hands, take one dough ball, then flatten it in your palm to the length of your hand. Add 1-1.5 tbsp of the potato mixture into the centre of the dough, then gently pull one side of the dough to the other and pinch the edges so that the filling is totally encased. Lay back onto the oiled tray and gently flatten a little. Repeat until all dough balls have been filled."
+    },
+    {
+      "heading": null,
+      "description": "Check to see if the Crisp ‘n’ Dry is hot enough by adding a small piece of dough to it – the dough shouldn’t brown too quickly. If it does, lower the heat. You want it to rise up quickly in the oil."
+    },
+    {
+      "heading": null,
+      "description": "Gently flatten each pie, starting from the centre and working outwards to spread the potato mix inside evenly. It should be approximately 1 inch thick. Deep-fry each pie for 3-4 mins, turning occasionally until golden brown. Use tongs to take out and drain well. You may need to oil your hands at regular intervals, so the dough doesn’t stick when flattening. You should be able to fry two pies at a time."
+    },
+    {
+      "heading": null,
+      "description": "Once all the pies have been fried, leave them on a cooling rack for 10 mins. To serve, cut open each pie down one side, fill with channa and drizzle tamarind and pepper sauce on top. Get a napkin and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Trinidadian"
+  ],
+  "chefs": [
+    {
+      "name": "Black Eats",
+      "uri": "chefs/black-eats",
+      "summary": "The best recipes curated by Black Eats LDN, the UK's largest food and culture platform championing Black-owned businesses."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-27T13:00:00+01:00"
+}

@@ -1,0 +1,256 @@
+{
+  "id": "3649145",
+  "slug": "saucy-lime-noodle-salad",
+  "title": "Saucy Lime Noodle Salad",
+  "url": "https://www.mob.co.uk/recipes/saucy-lime-noodle-salad",
+  "summary": "Fresh, filling and smothered in a lime, ginger, and coriander sauce, this salad makes a great packed lunch if you manage not to slurp it all up for dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/IMG_4950.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 601,
+    "protein": 22,
+    "fat": 24,
+    "saturated_fat": 3,
+    "carbohydrates": 74,
+    "dietary_fibre": 10,
+    "sugars": 13,
+    "sodium": 655
+  },
+  "ingredients": [
+    {
+      "label": "200g Soba Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Soba Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Soba Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Edamame",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Shelled Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "65g Coriander Leaves With The Thick Stems Removed",
+      "quantity": "65",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Tahini",
+      "quantity": "120",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Water",
+      "quantity": "120",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of 3 Limes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Ginger",
+      "quantity": "25",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 - 2 ½ Tsp Agave",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Fine Sea Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fine Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Chilli Oil (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Crispy Seaweed",
+      "quantity": null,
+      "unit": null,
+      "name": "Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Boil Soba noodles according to package directions, drain and rinse with cold water."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the broccoli."
+    },
+    {
+      "heading": null,
+      "description": "Boil broccoli for 2 minutes in salted water, add edamame for another 1 minute. Drain and run under cold water to cool down."
+    },
+    {
+      "heading": null,
+      "description": "Slice the courgette and carrot into thin batons using a knife or a julienne peeler."
+    },
+    {
+      "heading": null,
+      "description": "To make the dressing, add the coriander, tahini, water, juice of 3 limes, ginger, miso and agave and blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "To serve, add all of the vegetables to the noodles and top with plenty of dressing. Sprinkle some sesame seeds on top and finish with chilli oil, if using. Serve with the crispy seaweed on top and on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "East-Asian Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-10T10:01:00+01:00"
+}

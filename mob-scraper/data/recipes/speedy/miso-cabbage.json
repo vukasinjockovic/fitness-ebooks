@@ -1,0 +1,167 @@
+{
+  "id": "631428",
+  "slug": "miso-cabbage",
+  "title": "Miso Grilled Cabbage",
+  "url": "https://www.mob.co.uk/recipes/miso-cabbage",
+  "summary": "Charred cabbage drizzled with an incredible creamy tahini miso dressing. Soft + crisp. The perfect side to any dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A5014.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 11,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "2 Hispi Cabbages",
+      "quantity": "2",
+      "unit": null,
+      "name": "Hispi Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Hispi Cabbages",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tahini",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 cm Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Get your griddle pan on and prepare the cabbages. Remove the outer leaves from the cabbage and slice into half then into quarters. Brush the quarters with sesame oil and when the griddle pan is hot, add in the cabbage quarters, two at a time, until nicely charred. Turn the cabbages half way through and brush each side with extra oil."
+    },
+    {
+      "heading": null,
+      "description": "Once griddled, put all the cabbage halves into a baking tray and lightly roast in the oven for 8 minutes."
+    },
+    {
+      "heading": null,
+      "description": "For the dressing, mix together the miso, tahini, soy, grated ginger, mirin and a splash of water."
+    },
+    {
+      "heading": null,
+      "description": "Separate the coriander leaves and stalks. Plate up the cabbage and drizzle over your miso dressing. Sprinkle the sesame seeds and coriander leaves on top then tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-08-18T12:30:00+01:00"
+}

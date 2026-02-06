@@ -1,0 +1,151 @@
+{
+  "id": "6080760",
+  "slug": "spicy-watermelon-margarita",
+  "title": "Spicy Watermelon Margarita",
+  "url": "https://www.mob.co.uk/recipes/spicy-watermelon-margarita",
+  "summary": "A sweet and spicy watermelon margarita made using Altos Plata Tequila. This is your drink of the summer. It's the perfect cocktail for a BBQ and pairs great with a tangy watermelon and feta salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Spicy-Watermelon-Margarita.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 181,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 27,
+    "dietary_fibre": 1,
+    "sugars": 25,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "75g Watermelon",
+      "quantity": "75",
+      "unit": null,
+      "name": "Watermelon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Altos Plata Tequila",
+      "quantity": "50",
+      "unit": null,
+      "name": "Altos Plata Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Lime",
+      "quantity": "35",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Agave",
+      "quantity": "25",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tajín",
+      "quantity": null,
+      "unit": null,
+      "name": "Tajin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut up your watermelon and weigh out the correct amount. Set aside two slices as garnish and dust in Tajín."
+    },
+    {
+      "heading": null,
+      "description": "Juice your limes and slice up the jalapeño."
+    },
+    {
+      "heading": null,
+      "description": "Rub a bit of lime on your glass rim and then coat in Tajín."
+    },
+    {
+      "heading": null,
+      "description": "In your cocktail shaker add the desired amount of jalapeño slices (we go for two or three) and agave and muddle them, then your watermelon and do the same until it’s a thick pulp."
+    },
+    {
+      "heading": null,
+      "description": "Add in your lime juice, tequila and some ice."
+    },
+    {
+      "heading": null,
+      "description": "Shake for 10 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Pour into your glass and garnish with the Tajín watermelon slices. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-08T13:30:00+01:00"
+}

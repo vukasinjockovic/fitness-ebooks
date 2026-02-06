@@ -1,0 +1,290 @@
+{
+  "id": "5826927",
+  "slug": "cod-with-yoghurt-peas-harissa-butter",
+  "title": "Cod with Yoghurt, Peas & Harissa Butter",
+  "url": "https://www.mob.co.uk/recipes/cod-with-yoghurt-peas-harissa-butter",
+  "summary": "We've paired firm fillets of cod with a spicy harissa butter and a scrimmage of peas and broad beans. Lush.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Cod-with-Yoghurt-Peas-Harissa-Butter.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 19,
+    "fat": 14,
+    "saturated_fat": 5,
+    "carbohydrates": 11,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 208
+  },
+  "ingredients": [
+    {
+      "label": "4 Chunky Cod Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Broad Beans",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Broad Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Broad Beans",
+      "quantity": "150",
+      "unit": null,
+      "name": "Broad Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Natural Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Natural Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g cherry tomatoes",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g cherry tomatoes",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Unsalted Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tbsp Harissa",
+      "quantity": "1",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Boiled New Potatoes, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Boiled New Potatoes, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Rub the cod all over with olive oil, then season with salt and pepper before placing on a lined baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pot of water to the boil, then add a generous pinch of salt. Add the peas and broad beans. Cook for 1 ½ mins, then drain and rinse with cold water to cool."
+    },
+    {
+      "heading": null,
+      "description": "Combine the yoghurt, a splash of olive oil, and salt and pepper in a bowl, then add the cooled peas and broad beans. Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Roast the cod in the oven for 9-11 mins or until cooked and flaky."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, in a medium frying pan, add the tomatoes and a splash of olive oil and gently fry for 6-8 minutes until just starting to collapse then add the butter and harissa. Give the pan a shake then turn the heat to the lowest it can go to keep warm until you're ready to serve. Squeeze in the juice of the lemon and grate in the zest."
+    },
+    {
+      "heading": null,
+      "description": "Pick the herbs then dress with the lemon and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Divide the yoghurty peas between plates, then place the cod fillets on top. Spoon over a few spoonfuls of the tomato, harissa butter before piling the herb salad on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Kitty Coles",
+      "uri": "chefs/kitty-coles",
+      "summary": "Kitty is a supremely talented cook and recipe writer. You can find her recipes here as well as in publications like the Irish Times, Gloss Magazine, and The Guardian. She divides her time between London, Dublin and Mallorca (where her parents live and dad grew up) and her food showcases seasonal ingredients with a splash of Mediterranean style. Kitty is a no-fuss, simple cook, who uses everyday ingredients to make delicious and easy recipes. You can find plenty more of Kitty's recipes in her cookbook: 'Make More With Less: Foolproof Recipes to Make Your Food Go Further'."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-15T09:49:00+01:00"
+}

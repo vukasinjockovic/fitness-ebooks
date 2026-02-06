@@ -1,0 +1,249 @@
+{
+  "id": "6645610",
+  "slug": "sichuan-chicken-sando",
+  "title": "Sichuan Chicken Sando",
+  "url": "https://www.mob.co.uk/recipes/sichuan-chicken-sando",
+  "summary": "A crispy, shallow-fried chicken escalope dusted in Sichuan peppercorn and chilli powder, sandwiched between fresh ciabatta with a zingy coriander slaw to cut through the spice. Cut it in half and share it – or eat the whole thing yourself.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Sichuan-Chicken-Sandwich-3.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 729,
+    "protein": 39,
+    "fat": 33,
+    "saturated_fat": 7,
+    "carbohydrates": 67,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "1 Tsp Sichuan Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Five Spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Breast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Breast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Plain Flour",
+      "quantity": "75",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Panko Breadcrumbs",
+      "quantity": "75",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Ciabatta",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Cucumber",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Kewpie Mayonnaise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kewpie Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Crispy Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices American Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "American Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices American Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely ground the Sichuan peppercorns to a powder in a pestle and mortar (or use a pre-ground version). Add a large pinch of salt and the five spice then mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "To flatten the chicken, fold a large piece of greaseproof paper around the chicken breast then bash it with a mallet or rolling pin until it’s about 1-2cm thick. Generously sprinkle the spice mixture over both sides of the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Crack two eggs in a small bowl and vigorously beat with a fork for about 30 seconds then transfer to a plate. Get the flour and a pinch of salt on a separate plate and mix to combine. Pour the panko breadcrumbs onto a third plate."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken to the plate of flour and flip to cover both sides, making sure every part of the breast is covered. Repeat with the beaten egg and then finally the breadcrumbs, pressing your fingers down onto the chicken to make sure they’re really stuck on."
+    },
+    {
+      "heading": null,
+      "description": "Fill a large frying pan with vegetable oil so it’s about 1cm deep. Heat the oil over a medium-high heat for 2-3 mins then gently place the breaded chicken into the oil. Cook for 2-3 mins per side, basting the chicken with the hot oil as you go to make it extra crispy. When it’s golden brown, remove to a plate and dust both sides with the chilli powder."
+    },
+    {
+      "heading": null,
+      "description": "Discard the oil from the pan and set the pan back over a medium heat. Slice the ciabatta in half and toast it in the pan, cut-side down, for 1-2 mins or until golden brown. Remove to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the red onion and cucumber and roughly chop the coriander. Add them to a bowl with the juice of the lime and a pinch of salt then mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Mix the chilli oil and mayonnaise together in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "To assemble the sandwich, generously spread the chilli mayonnaise over the bottom slice of ciabatta. Place the fried chicken on top followed by the American cheese and the coriander slaw. Top with the ciabatta and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-25T14:36:00+01:00"
+}

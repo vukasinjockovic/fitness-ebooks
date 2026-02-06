@@ -1,0 +1,141 @@
+{
+  "id": "1111378",
+  "slug": "crispy-cereal-squares",
+  "title": "Crispy Cereal Squares",
+  "url": "https://www.mob.co.uk/recipes/crispy-cereal-squares",
+  "summary": "This is a nostalgic treat that you may not have made for years, but will want to again now. Crispy cereal set with chocolate or marshmallow. Choose your weapon.",
+  "image": "https://files.mob-cdn.co.uk/recipes/MARSHMALLOW-CAKES-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 872,
+    "protein": 8,
+    "fat": 29,
+    "saturated_fat": 17,
+    "carbohydrates": 143,
+    "dietary_fibre": 4,
+    "sugars": 74,
+    "sodium": 226
+  },
+  "ingredients": [
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Golden Syrup",
+      "quantity": "4",
+      "unit": null,
+      "name": "Golden Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Of Your Chosen Cereal",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cereal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Marshmallows",
+      "quantity": "400",
+      "unit": null,
+      "name": "Marshmallow",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Of Your Chosen Cereal",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cereal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Line the base of a brownie tin or small roasting tin with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "For the chocolate cereal squares, break the chocolate into a large saucepan, then add the golden syrup, butter and a big pinch of salt. Cook over a low heat, stirring regularly until the chocolate and butter have melted and are smooth and glossy."
+    },
+    {
+      "heading": null,
+      "description": "For the marshmallow cereal squares, tip the marshmallows, butter and a big pinch of salt into a large saucepan. Cook over a low heat, stirring regularly until the marshmallows and butter have melted and are smooth and glossy."
+    },
+    {
+      "heading": null,
+      "description": "Off the heat, tip in your chosen cereal and give everything a good mix so that each piece gets completely coated in the mixture. Scrape into your tin, smooth out the top then sprinkle over a little more salt if you like."
+    },
+    {
+      "heading": null,
+      "description": "Put in the fridge for at least 2 hours to set then cut into squares. Will keep in a container in the fridge for a week."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-12-01T14:25:00+00:00"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "6745834",
+  "slug": "kefir-delight",
+  "title": "Kefir Delight",
+  "url": "https://www.mob.co.uk/recipes/kefir-delight",
+  "summary": "This fermented kefir and yoghurt bowl with seasonal fruit and crunchy nuts and seeds is perfect for when you want something sweet but healthy too. Kefir has over ten times more microbe varieties than yoghurt, making it super beneficial for your gut microbes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Kefir-Delight.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 154,
+    "protein": 7,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 13,
+    "dietary_fibre": 2,
+    "sugars": 10,
+    "sodium": 32
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Kefir",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kefir",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Lemon Curd",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Curd",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Frozen Raspberries",
+      "quantity": "15",
+      "unit": null,
+      "name": "Frozen Raspberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mixed Nuts",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mixed Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Mixed Seeds",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mixed Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Stir the kefir and the lemon curd into the yoghurt."
+    },
+    {
+      "heading": null,
+      "description": "Top the creamy mixture with seasonal fresh fruit, frozen raspberries and mixed nuts and seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-03T13:16:00+01:00"
+}

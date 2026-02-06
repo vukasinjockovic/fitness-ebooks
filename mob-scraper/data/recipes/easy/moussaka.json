@@ -1,0 +1,289 @@
+{
+  "id": "6792220",
+  "slug": "moussaka",
+  "title": "Moussaka",
+  "url": "https://www.mob.co.uk/recipes/moussaka",
+  "summary": "A rich and creamy classic moussaka. We once made moussaka for 150 people and learned about this alternative topping: lighter than a bechamel, it soufflés better and cuts through the richness of the moussaka. We also realised that baking the aubergine rather than griddling, saved heaps of time and created a banging result. We hope you love it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Moussaka.jpg",
+  "cook_time": 100,
+  "prep_time": 25,
+  "total_time": 125,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 38,
+    "fat": 39,
+    "saturated_fat": 17,
+    "carbohydrates": 32,
+    "dietary_fibre": 6,
+    "sugars": 11,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cinnamon",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Red Wine",
+      "quantity": "250",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Maris Piper Potatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Maris Piper Potatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Feta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Feta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan Cheese",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Whole Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Greek Yoghurt",
+      "quantity": "300",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Greek Yoghurt",
+      "quantity": "300",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat a splash of olive oil in a large casserole pan or saucepan set over a medium high heat. Tip in the lamb mince and season with a pinch of salt, then use the back of your spoon to break down the mince slightly. Cook for 10-12 mins, stirring occasionally until all the liquid has evaporated and the mince starts to brown and caramelise. Remove with a slotted spoon into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the onion and garlic. Once the lamb is browned, transfer it to a plate and set aside. Add the onion to the pan with a pinch of salt, and cook, stirring regularly for 6-8 mins until soft and golden."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic, cinnamon, oregano, smoked paprika and tomato purée to the pan. Cook for a couple of mins, stirring the spices into the onion, then pour in the red wine. Once the wine has bubbled away and reduced by half, pour in the plum tomatoes, using your spoon to break them down into pieces. Refill the tinned tomato can halfway with water and pour that in too. Add the lamb back in. Turn down the heat to medium and leave the sauce to simmer away for 30 mins until you have a rich sauce, then season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, heat the oven to 190°C fan. Cut the aubergine into 5mm rounds, lay onto a large roasting tray, drizzle well with olive oil and season. Peel the potatoes then cut into 3mm round slices (a mandolin also works well here) and lay on a separate baking tray (overlapping is fine), drizzle with some oil and season. Put both trays into the oven for 15 mins, until the aubergines are soft, and the potatoes are soft and beginning to crisp and roast in places."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Layer the potato slices into the bottom of a medium roasting dish. Top with ½ the moussaka filling then ½ the aubergine slices, then repeat. The moussaka can be assembled like this and kept in the fridge for a day before making the topping and baking."
+    },
+    {
+      "heading": null,
+      "description": "Once ready to eat, turn the oven to 180°C fan. Crumble the feta into a large bowl, finely grate in the nutmeg, Parmesan and lemon zest then measure in the yoghurt. Crack in the eggs then whisk all together, seasoning with a little salt and lots of black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Spread the topping across the moussaka. Bake for 40-50 mins (it will take longer if baking from cold) until puffed up, bubbling and burnished."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "High Fibre",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-05T16:13:00+01:00"
+}

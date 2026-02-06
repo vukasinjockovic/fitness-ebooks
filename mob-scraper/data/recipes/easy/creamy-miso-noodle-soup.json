@@ -1,0 +1,215 @@
+{
+  "id": "7048939",
+  "slug": "creamy-miso-noodle-soup",
+  "title": "Creamy Miso Noodle Soup",
+  "url": "https://www.mob.co.uk/recipes/creamy-miso-noodle-soup",
+  "summary": "An extremely slurpable noodle soup with roasted shiitake mushrooms, miso broth and jammy eggs for good measure. This one is hearty and nourishing. Perfect for midweek.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/2/Mushroom-Soba-Noodles.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 502,
+    "protein": 27,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 54,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "300g Shiitake Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Soba Noodles",
+      "quantity": "125",
+      "unit": null,
+      "name": "Soba Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Soba Noodles",
+      "quantity": "125",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Edamame Beans",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Shelled Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Water",
+      "quantity": "700",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Miso Paste",
+      "quantity": "35",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "To Serve, Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Tear or slice the mushrooms into 1cm chunks, then spread them out on a baking tray. Drizzle with olive oil and ½ the soy sauce. Season with black pepper. Slide into the oven to roast for 30-35 mins, flipping halfway, until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Bring a saucepan of water to the boil, then lower in the eggs and cook for 7 mins. Drain and cool under running water before peeling."
+    },
+    {
+      "heading": null,
+      "description": "Bring another pan of salted water to the boil. Add the soba noodles and edamame beans and cook following packet instructions. Drain and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Blitz the silken tofu and water together in a blender until smooth. Pour into a saucepan set over a medium heat and stir in the stock cube. Place the miso in a small sieve and partially submerge it in the soup. Use the back of a teaspoon to stir and dissolve the miso into the soup. Season with soy sauce to taste."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the spring onions."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the noodles and edamame between bowls, then ladle over the miso broth. Halve the eggs and add them to the bowls, along with the roasted mushrooms. Top with spring onions, a drizzle of chilli oil and a sprinkling of sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-18T12:21:00+00:00"
+}

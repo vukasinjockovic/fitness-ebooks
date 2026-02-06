@@ -1,0 +1,255 @@
+{
+  "id": "6333279",
+  "slug": "chicken-suya-skewers",
+  "title": "Chicken Suya Skewers",
+  "url": "https://www.mob.co.uk/recipes/chicken-suya-skewers",
+  "summary": "When you want to create an African Faaji (party) in your home, here's a quick and easy recipe for our scrumptious suya. Plus, you can follow the link to pair it with our delicious jollof rice recipe. Don’t delay, make your suya today. From the Suya Pit (@thesuyapit).",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/220A1417-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 470,
+    "protein": 48,
+    "fat": 27,
+    "saturated_fat": 6,
+    "carbohydrates": 10,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Onion Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cayenne Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ground Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Chicken Thighs, skinless and boneless",
+      "quantity": "1",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Chicken Thighs, skinless and boneless",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Kuli Kuli",
+      "quantity": "3",
+      "unit": null,
+      "name": "Kuli Kuli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1TSP Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Diced tomatoes (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Diced tomatoes (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chopped red onion (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chopped red onion (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Coriander (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "If you don’t have metal skewers, soak wooden or bamboo ones in water for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 225°C. Add all the dry spices into a large bowl with the kuli kuli. Stir through the stock powder, sugar and salt. Stir together and set aside ⅙ of it to use as a garnish, later."
+    },
+    {
+      "heading": null,
+      "description": "Optional: Wash your chicken with either lemon, salt or vinegar and water. Use a kitchen roll to dry the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Dice the chicken into 3cm chunks and tip it into the spice bowl. Pour a drizzle of olive oil on top and mix together. Leave to marinate for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Thread the marinated chicken onto the skewers and place onto an oiled baking tray. Roast in the oven for 15 mins, turning halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Switch the oven to grill and cook the chicken skewers under the grill for 5-10 mins, turning them halfway through, until starting to char on all sides. Each grill works differently, so keep an eye on them."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the skewers to plates and sprinkle over the leftover seasoning. Top with some diced tomato, red onion and coriander, if using."
+    },
+    {
+      "heading": null,
+      "description": "Plate up the ting and tell your belly it’s time to chow down."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "West African"
+  ],
+  "chefs": [
+    {
+      "name": "Black Eats",
+      "uri": "chefs/black-eats",
+      "summary": "The best recipes curated by Black Eats LDN, the UK's largest food and culture platform championing Black-owned businesses."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-29T16:59:00+01:00"
+}

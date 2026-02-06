@@ -1,0 +1,201 @@
+{
+  "id": "3985881",
+  "slug": "tomato-soup",
+  "title": "Tomato Soup",
+  "url": "https://www.mob.co.uk/recipes/tomato-soup",
+  "summary": "Nothing beats a bowl of homemade soup. This recipe for cream of tomato soup is an absolute classic. You’ll never touch the tinned stuff again. We got all the ingredients for this recipe from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Tomato-Soup_2024-01-05-121740_gyul.jpg",
+  "cook_time": 10,
+  "prep_time": 60,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 181,
+    "protein": 3,
+    "fat": 13,
+    "saturated_fat": 8,
+    "carbohydrates": 13,
+    "dietary_fibre": 3,
+    "sugars": 10,
+    "sodium": 390
+  },
+  "ingredients": [
+    {
+      "label": "30g Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Double Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cheddar Cheese",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cheddar Cheese",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Worcestershire Sauce, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the onion and carrot and dice into 1cm cubes. Add the butter to a large saucepan over a medium heat, then add the onion and carrots along with a big pinch of salt. Fry gently for 10 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the garlic and add it to the pan along with the tomato paste and fry for 2 more min. Add the tomatoes and use your spoon to break them up in the pan, refill one of the cans of tomatoes with water and add to the pan along with the stock cube and the sugar. Bring to the boil, then turn to a simmer and cook for 40 mins."
+    },
+    {
+      "heading": null,
+      "description": "Use a stick blender to blitz into a smooth purée, taste, and season with the vinegar. Add the cream and gently reheat."
+    },
+    {
+      "heading": null,
+      "description": "Tip into bowls and top with a pile of grated cheddar cheese and splashing of Worcestershire sauce. Finish with a crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Family-Friendly",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-01-05T12:17:00+00:00"
+}

@@ -1,0 +1,298 @@
+{
+  "id": "3326768",
+  "slug": "stuffed-peppers-with-garlic-orzo-and-zhoug",
+  "title": "Stuffed Peppers With Garlic Orzo and Zhoug",
+  "url": "https://www.mob.co.uk/recipes/stuffed-peppers-with-garlic-orzo-and-zhoug",
+  "summary": "We've stuffed Romano peppers here are with a mushroom, walnut and lentil mix and baked them with garlic orzo. Serve it with a punchy, spicy zhoug.\"",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A1400-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 728,
+    "protein": 15,
+    "fat": 44,
+    "saturated_fat": 6,
+    "carbohydrates": 66,
+    "dietary_fibre": 8,
+    "sugars": 7,
+    "sodium": 496
+  },
+  "ingredients": [
+    {
+      "label": "3 Romano Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Romano Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Chestnut Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Chestnut Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Walnuts",
+      "quantity": "80",
+      "unit": null,
+      "name": "Walnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Raisins",
+      "quantity": "15",
+      "unit": null,
+      "name": "Raisin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Tomato Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ras El Hanout",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ras el Hanout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Moscatel Vinegar (Or Sub Sherry Vinegar)",
+      "quantity": "3",
+      "unit": null,
+      "name": "Moscatel Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cooked Lentils (I used pre-cooked Puy Lentils)",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cooked Puy Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cooked Lentils (I used pre-cooked Puy Lentils)",
+      "quantity": "125",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Coriander",
+      "quantity": "40",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 large Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeno",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cardamom",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cardamom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Extra Virgin Olive Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Orzo",
+      "quantity": "300",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Orzo",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800ml Vegetable Stock",
+      "quantity": "800",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C. Put the peppers on a baking tray and drizzle with olive oil. Roast for 15 mins. Carefully slice the peppers open lengthwise and scoop out the seeds."
+    },
+    {
+      "heading": null,
+      "description": "Grab a cast-iron skillet with a lid that’s suitable for the oven.* Weigh out your orzo and heat up the stock, set aside. Mince 5 garlic cloves and then heat the skillet on medium-low with 4 tbsp of olive oil. Fry the garlic for 20 seconds, stirring constantly to stop it from burning. Add the orzo and stir to coat evenly with garlic oil, then add the stock and stir again. Place the peppers snuggly into the orzo, close the lid and bake for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "While the orzo is cooking, make the filling. Finely dice the onion and mushrooms, mince three cloves of garlic and set each aside separately. Heat a frying pan over medium heat with a good drizzle of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Fry the onion until translucent then add ½ tsp cumin, 1 tsp ras el hanout, ½ tsp paprika and 2 tsp tomato paste. Stir fry the spices for one minute, then add the garlic and mushrooms and a pinch of salt. Cook the mushrooms for 3-4 mins, then add the lentils, raisins and two-thirds of the walnuts. Cook for another 8-10 mins, until cooked through. If it becomes too dry, add a little more olive oil or a splash of water. Then add the Moscatel and turn the heat up high for a minute or so, until the vinegar evaporates. Season well with salt and pepper, turn off the heat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "To make the zhoug, add the coriander, chopped Jalapeño, ½ tsp cumin, ½ tsp cardamom, ½ tsp red pepper flakes and 80ml of olive oil to a food processor and pulse until finely chopped but still chunky. Be careful not to turn it into a paste, there should be plenty of texture. Season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "After 30 mins of baking, the peppers should be soft and the orzo should be perfectly cooked. Carefully fill the peppers with the mushroom mix. Close the lid and bake for 5 more minutes for the flavours to marinate."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, drizzle plenty of zhoug over the top and sprinkle the rest of the walnuts and a good squeeze of lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-24T00:00:00+01:00"
+}

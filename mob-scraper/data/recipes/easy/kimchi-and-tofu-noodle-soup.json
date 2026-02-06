@@ -1,0 +1,169 @@
+{
+  "id": "2968969",
+  "slug": "kimchi-and-tofu-noodle-soup",
+  "title": "Kimchi & Tofu Noodle Soup",
+  "url": "https://www.mob.co.uk/recipes/kimchi-and-tofu-noodle-soup",
+  "summary": "Inspired by kimchi-jjigae, this soup packs a maximal punch in minimal time. It’s soft, silky and so tangy from the fresh kimchi.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A4099.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 390,
+    "protein": 13,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 60,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1720
+  },
+  "ingredients": [
+    {
+      "label": "6 Cloves of Garlic",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2l Vegetable Stock (2 x Veg Stock Cubes)",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Kimchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Ramen Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Ramen Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Sesame Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grate the garlic and finely chop the red chillies."
+    },
+    {
+      "heading": null,
+      "description": "Heat up a glug of vegetable oil in a pan and fry off the garlic and chilli for 30 seconds. Pour in the vegetable stock. Add in three quarters of the kimchi, ramen noodles and give it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Very gently take out the silken tofu from its packaging and slice it into large pieces."
+    },
+    {
+      "heading": null,
+      "description": "Once the stock has dissolved and the ramen is halfway cooked, add your tofu into the soup. Keep the soup on a gentle simmer and try not to stir it too much to avoid breaking up the tofu."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Serve the soup into bowls being careful not to break the tofu. Sprinkle with spring onions, your remaining kimchi and a drizzle of sesame oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-02-07T17:00:00+00:00"
+}

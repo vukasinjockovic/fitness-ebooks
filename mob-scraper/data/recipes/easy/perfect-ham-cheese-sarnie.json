@@ -1,0 +1,137 @@
+{
+  "id": "7405564",
+  "slug": "perfect-ham-cheese-sarnie",
+  "title": "Perfect Ham & Cheese Sarnie",
+  "url": "https://www.mob.co.uk/recipes/perfect-ham-cheese-sarnie",
+  "summary": "The sandwich your lunch break deserves, this one takes ham and cheese to the next level.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Perfect-Ham-Cheese-Sarnie.jpg",
+  "cook_time": null,
+  "prep_time": 20,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 25,
+    "fat": 32,
+    "saturated_fat": 15,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "100g Unsalted Butter,",
+      "quantity": "100",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cornichons",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cornichon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Wholegrain Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "65g Mayonnaise",
+      "quantity": "65",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Wafer-Thin Ham",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Emmental",
+      "quantity": "120",
+      "unit": null,
+      "name": "Emmental",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sauerkraut",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sauerkraut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Baguettes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "If your butter’s still cold, chuck it into a food processor with the cornichons and blitz until smooth. No food processor? Finely chop the cornichons and mash into softened butter."
+    },
+    {
+      "heading": null,
+      "description": "Stir the mustard and mayo together in a bowl to make a quick dijonnaise."
+    },
+    {
+      "heading": null,
+      "description": "Grate or thinly slice the Emmental and toast the bread or baguettes until golden."
+    },
+    {
+      "heading": null,
+      "description": "Spread the cornichon butter on one side of each bottom slice. Layer with cheese, sauerkraut and ham. Smear the dijonnaise over the top slices, then sandwich together and press lightly. Dig in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-31T07:00:00+01:00"
+}

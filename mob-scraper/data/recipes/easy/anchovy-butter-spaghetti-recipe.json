@@ -1,0 +1,178 @@
+{
+  "id": "5974740",
+  "slug": "anchovy-butter-spaghetti-recipe",
+  "title": "Anchovy Butter Spaghetti",
+  "url": "https://www.mob.co.uk/recipes/anchovy-butter-spaghetti-recipe",
+  "summary": "Heavy on the anchovies and bursting with umami, this simple spaghetti recipe punches well above its weight class. We got all the ingredients from Deliveroo in a little as 20 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Anchovy-Butter-Spaghetti.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 26,
+    "fat": 32,
+    "saturated_fat": 17,
+    "carbohydrates": 70,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful Parsley (10g)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spaghetti",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spaghetti",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 28g Cans Anchovies",
+      "quantity": "1",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a saucepan of salted water to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the egg yolk in a bowl with a big crack of black pepper. Finely grate the Parmesan and add to the egg mixture. Set aside. Finely chop the parsley and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drop the pasta into the boiling water and set a timer for 1 min less than pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, place a large frying pan over a medium-high heat. Add the butter and, once melted and frothy, add all the anchovies, along with the oil from the tins. \nSizzle for 2 mins, using a spatula or wooden spoon to break the anchovies up into a paste. Use a microplane or garlic crusher to grate or crush the garlic straight into the pan. Sizzle for 1 min, then remove from the heat and wait for the pasta timer to go off."
+    },
+    {
+      "heading": null,
+      "description": "If moved off the heat, place the frying pan back over the heat. Use tongs to transfer the cooked pasta to the pan and toss with the sauce. Add a ladle of pasta water and keep tossing until the pasta is silky, then remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Add the egg and Parmesan mix and toss well, adding a splash of water if you need to loosen further. The sauce should be clinging to the pasta. Add the parsley and slowly squeeze in the juice of the lemon until it's seasoned to your liking. Toss further, then tip onto plates and finish with an extra grating of Parmesan and a crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-12T05:30:00+01:00"
+}

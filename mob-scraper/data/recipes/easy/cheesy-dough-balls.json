@@ -1,0 +1,285 @@
+{
+  "id": "4394613",
+  "slug": "cheesy-dough-balls",
+  "title": "Cheesy Dough Balls With Roasted Garlic & Herb Dip",
+  "url": "https://www.mob.co.uk/recipes/cheesy-dough-balls",
+  "summary": "Our take on Pizza Express's classic (and addictive) dough balls. We've nailed this fakeaway recipe, if we do say so ourselves.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Cheesy-Dough-Balls-With-Roasted-Garlic-Herb-Dip.jpg",
+  "cook_time": 15,
+  "prep_time": 120,
+  "total_time": 135,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 427,
+    "protein": 10,
+    "fat": 28,
+    "saturated_fat": 10,
+    "carbohydrates": 32,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 470
+  },
+  "ingredients": [
+    {
+      "label": "½ Tsp Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Extra Virgin Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Yeast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Warm Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Low-Moisture Mozzarella",
+      "quantity": "100",
+      "unit": null,
+      "name": "Low-Moisture Mozzarella Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Low-Moisture Mozzarella",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, Optional",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "½ Small Bunch of Chives (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch of Parsley (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mayonnaise",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Greek Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Greek Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp White Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start with the dough balls. Add the sugar, olive oil and yeast to the warm water, then set aside for 10-15 mins ​​– it should go frothy."
+    },
+    {
+      "heading": null,
+      "description": "Put the flour and salt into a large mixing bowl, make a well in the middle and pour in the yeast mixture, slowly mixing with your hands until combined. Tip the dough onto your work surface, then knead with your hands for about 10 mins until it feels supple and soft – press the dough with your finger and it should bounce back. Put the dough into a lightly oiled bowl and cover with clingfilm. Leave to prove in a warm place for 1 hr or until doubled in size."
+    },
+    {
+      "heading": null,
+      "description": "Dice the mozzarella into pieces around 1cm x 1cm. For the dip, finely chop the chives and parsley. Mix the mayo, greek yogurt and white wine vinegar with the juice and zest of a lemon, a grated garlic clove and the herbs. Mix well and season with salt and pepper, then cover and set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "When the dough has proved, knock back into the bowl and weigh out into 25g pieces. Flatten each one out with your thumbs and fill with cheese. Seal the cheese in by pinching the edges together and rolling the seam on the tabletop. Transfer to a lightly oiled baking tray, spaced apart, and cover with lightly oiled cling film. Set aside in a warm place to prove for another 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C. For the garlic butter, melt the butter in a small pan, then add the oregano, a grated garlic clove and salt."
+    },
+    {
+      "heading": null,
+      "description": "Brush some of the butter over the dough balls and bake in the oven for 12-15 mins. Once golden, remove the dough balls from the oven, brush with the remaining herb butter and grate over the parmesan, if using. Serve with the dip."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Party Food",
+    "Sides",
+    "Starter"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-14T11:10:00+01:00"
+}

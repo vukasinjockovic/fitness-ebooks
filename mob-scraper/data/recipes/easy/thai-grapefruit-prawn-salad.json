@@ -1,0 +1,307 @@
+{
+  "id": "5864493",
+  "slug": "thai-grapefruit-prawn-salad",
+  "title": "Lemongrass Grapefruit Prawn Salad With Toasted Coconut & Peanut",
+  "url": "https://www.mob.co.uk/recipes/thai-grapefruit-prawn-salad",
+  "summary": "A zingy Thai-inspired salad with plenty of acid and heat. Ideal for eating on a hot summer's day.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Thai-Grapefruit-Prawn-Salad.jpg",
+  "cook_time": 5,
+  "prep_time": 20,
+  "total_time": 25,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 332,
+    "protein": 11,
+    "fat": 15,
+    "saturated_fat": 5,
+    "carbohydrates": 36,
+    "dietary_fibre": 5,
+    "sugars": 18,
+    "sodium": 857
+  },
+  "ingredients": [
+    {
+      "label": "1 Lemongrass Stalk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Kaffir Lime Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Makrut Lime Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Palm Sugar",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Palm Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Lime Juice",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sambal Oelek",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sambal Oelek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Thai Chilies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Thai Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Mint Leaves (10g)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander (10g)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Grapefruits",
+      "quantity": "3",
+      "unit": null,
+      "name": "Grapefruit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Desiccated Coconut",
+      "quantity": "2",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Roasted Peanuts",
+      "quantity": "60",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crispy Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g King Prawns",
+      "quantity": "125",
+      "unit": null,
+      "name": "King Prawns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g King Prawns",
+      "quantity": "125",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Eggs",
+      "quantity": null,
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "150g Jasmine",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cooked Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Jasmine",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place the eggs into boiling water and cook for 6½ mins, then set aside. Refill the pot with salted water and bring to the boil. Once boiling, cook the prawns until cooked through, then transfer to a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Pick all the mint and coriander leaves and transfer to a small bowl of ice cold water (this will help them get crispy, crunchy and bring them back to life). Finely slice the coriander stems."
+    },
+    {
+      "heading": null,
+      "description": "Segment the grapefruit, and place into the prawns. Squeeze the juice out of the grapefruit membrane onto the segments. Finely slice the red onions and add to the mixing bowl. Slice the cucumber for garnish and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the dressing, trim and bash the lemongrass and garlic then finely mince. Thinly slice the lime leaves and chillies. Add everything to a small mixing bowl, with some coriander stems, half the sugar and all the remaining dressing ingredients (add more sugar if your grapefruit is very sour/bitter) and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Add the coconut to a small pan set over a high heat and continuously toss for 2 mins or until deeply golden brown, then set aside in a small bowl to stop it cooking. Pound the roasted peanuts and combine with the coconut, then add the crispy shallots, too."
+    },
+    {
+      "heading": null,
+      "description": "When you are ready to serve, drain the herbs and toss through the grapefruit and prawns. Add the crispy coconut garnish, then all the dressing and gently toss."
+    },
+    {
+      "heading": null,
+      "description": "Serve immediately. Eat as a side or serve with the rice, boiled eggs and cucumbers."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-10T07:30:00+01:00"
+}

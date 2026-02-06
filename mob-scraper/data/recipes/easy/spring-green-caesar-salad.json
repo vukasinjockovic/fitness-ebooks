@@ -1,0 +1,304 @@
+{
+  "id": "5067938",
+  "slug": "spring-green-caesar-salad",
+  "title": "Spring Green Caesar Salad",
+  "url": "https://www.mob.co.uk/recipes/spring-green-caesar-salad",
+  "summary": "A beautiful bright green salad with crispy bits of halloumi and pitta. It's all about the texture with this Caesar salad recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Spring-Green-Halloumi-Caesar-Salad.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 16,
+    "fat": 44,
+    "saturated_fat": 12,
+    "carbohydrates": 28,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 1097
+  },
+  "ingredients": [
+    {
+      "label": "2 Pitta Breads",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Heads of Romaine Lettuce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Edamame",
+      "quantity": "100",
+      "unit": null,
+      "name": "Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Basil",
+      "quantity": "20",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Mint",
+      "quantity": "20",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Halloumi",
+      "quantity": "200",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Olive Oil",
+      "quantity": "120",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Tin of Anchovies",
+      "quantity": "50",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 190°C. Use scissors to snip the pittas into 3cm triangles, then put them on a large baking tray. Add the broccoli and fennel seeds, drizzle with olive oil and season well. Toss and make sure everything is well coated. Slide into the oven for 10-15 mins, or until the broccoli is charred and the pitta chips are crisp."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make your dressing. Add the yolk to a bowl and lightly whisk. Add a small squeeze of lemon juice, then very slowly add the oil, a trickle at a time, whisking as you go until it’s emulsified into a thick mayo. Add the Dijon."
+    },
+    {
+      "heading": null,
+      "description": "Add the parsley, mint, basil and anchovies to a blender with the rest of the lemon juice and a splash of water, then blitz into a paste. Tip the paste into the dressing and stir to combine. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Cut the base from the lettuce and pull the leaves apart. Put into a large bowl. Slice the cucumber in half lengthways and use a spoon to scrape out the fleshy middle, then slice into half moons and add to the bowl along with the peas and edamame. Halve, de-stone and peel the avocado, slice into cubes and add to the bowl. Add the herb leaves."
+    },
+    {
+      "heading": null,
+      "description": "Cut the halloumi into small chunks. Heat a large frying pan over a medium-high heat. Add the halloumi and cook for 5 mins, turning the chunks as they colour. Remove from the heat and add the honey."
+    },
+    {
+      "heading": null,
+      "description": "Add the pitta chips and roasted broccoli to the large salad bowl, drizzle with the dressing and toss well. Add the honey halloumi and toss briefly, then serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-19T10:08:00+00:00"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "6513843",
+  "slug": "perfect-chocolate-buttercream",
+  "title": "Perfect Chocolate Buttercream",
+  "url": "https://www.mob.co.uk/recipes/perfect-chocolate-buttercream",
+  "summary": "Need chocolate buttercream to frost your cakes? Here’s how to make it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Perfect-Chocolate-Buttercream.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 104,
+    "protein": 1,
+    "fat": 6,
+    "saturated_fat": 4,
+    "carbohydrates": 13,
+    "dietary_fibre": 1,
+    "sugars": 13,
+    "sodium": 3
+  },
+  "ingredients": [
+    {
+      "label": "100g Soft Unsalted Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Soft Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Cocoa Powder",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Icing Sugar",
+      "quantity": "350",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Vanilla Extract",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Of Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Whole Milk",
+      "quantity": "30",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110ml Double Cream",
+      "quantity": "110",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use an electric whisk to beat the butter in a large mixing bowl for 4–5 mins on high speed. Sift in the cocoa powder and beat until you have a paste."
+    },
+    {
+      "heading": null,
+      "description": "Beat in the icing sugar and add the vanilla, salt, milk and most of the cream then beat together slowly at first on a low speed to bring it together. Beat on high for another 2–3 mins until it’s a smooth consistency. Add more cream if desired."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T15:15:00+01:00"
+}

@@ -1,0 +1,380 @@
+{
+  "id": "1498909",
+  "slug": "sticky-guinness-can-chicken",
+  "title": "Guinness Can Chicken",
+  "url": "https://www.mob.co.uk/recipes/sticky-guinness-can-chicken",
+  "summary": "Gareth Thomas cooks up a stunning dish with us. Roasting a chicken on a Guinness can gives a beautiful savoury flavour. Packed with herbs and served with slaw.",
+  "image": "https://files.mob-cdn.co.uk/recipes/website-version-guinness.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 800,
+    "protein": 70,
+    "fat": 36,
+    "saturated_fat": 8,
+    "carbohydrates": 44,
+    "dietary_fibre": 4,
+    "sugars": 18,
+    "sodium": 1040
+  },
+  "ingredients": [
+    {
+      "label": "450ml Can of Guinness",
+      "quantity": "450",
+      "unit": null,
+      "name": "Guinness",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5kg Whole Chicken",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Thyme",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tomato Purée",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Head of Fennel",
+      "quantity": "234",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pink Lady Apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Mayonnaise",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Apple Cider Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Light Brown Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350ml Guinness",
+      "quantity": "350",
+      "unit": null,
+      "name": "Guinness",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Chicken Stock",
+      "quantity": "150",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Apple Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Plain Flour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chips, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Chip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C/374°F."
+    },
+    {
+      "heading": null,
+      "description": "Open up the can of Guinness and pour out roughly half the can to save for later. Stand the chicken up and push the can into the cavity, standing the chicken up vertically. Place the chicken onto a baking tray."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl combine your dried herbs; oregano, basil, rosemary, thyme, along with the chilli flakes, garlic powder, light brown sugar and a tsp of salt"
+    },
+    {
+      "heading": null,
+      "description": "Rub the tomato purée onto the chicken, making sure you fully cover the surface."
+    },
+    {
+      "heading": null,
+      "description": "Press your dry rub onto the chicken. Firmly push it onto the skin so most of it sticks on – this will form a thick crispy crust on your chicken."
+    },
+    {
+      "heading": null,
+      "description": "Pop it in the oven for an hour."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile make the slaw. Finely shred the fennel, apple and cabbage. Finely chop your parsley."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl mix the mustard, mayonnaise, apple cider vinegar, and sugar with a pinch of salt and black pepper. Dilute it with 2 tbsp of water and massage it into your chopped veg."
+    },
+    {
+      "heading": null,
+      "description": "When the chicken is done, allow it to rest for 5 minutes before carefully removing it from the tin."
+    },
+    {
+      "heading": null,
+      "description": "Measure about 350ml of liquid from the chicken-y Guinness can, making up the difference with the Guinness saved earlier if it is less than this. Pour any juices in the baking pan into a saucepan along with the Guinness."
+    },
+    {
+      "heading": null,
+      "description": "Add in your chicken stock, light brown sugar, tomato purée and the apple cider vinegar. Heat on a medium heat until it starts to bubble. Mix a tbsp of flour with 2 tbsps of water and add this in, whisking vigorously as you pour. Continue cooking for 5 minutes until the sauce thickens. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Carve your chicken and serve it with the Guinness gravy, fresh slaw and chips."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-02-07T10:00:00+00:00"
+}

@@ -1,0 +1,272 @@
+{
+  "id": "7047495",
+  "slug": "thai-green-curry-brothy-rice-with-crispy-tofu",
+  "title": "Thai Green Curry Brothy Rice with Crispy Tofu",
+  "url": "https://www.mob.co.uk/recipes/thai-green-curry-brothy-rice-with-crispy-tofu",
+  "summary": "We’ve served this spicy aromatic Thai green curry soup with fluffy rice and crispy fried soy tofu. It’s fresh and vibrant and packs in extra plant protein from the tofu.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Green-Curry-Soup.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 627,
+    "protein": 23,
+    "fat": 32,
+    "saturated_fat": 17,
+    "carbohydrates": 56,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 1207
+  },
+  "ingredients": [
+    {
+      "label": "100g Uncooked Jasmine Rice",
+      "quantity": "100",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Uncooked Jasmine Rice",
+      "quantity": "100",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Spinach",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400ml Can Coconut Milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Vegetable Stock Cube",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegan Fish Sauce (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegan Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Green Curry Paste",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Thai Green Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Baby Corn",
+      "quantity": "125",
+      "unit": null,
+      "name": "Baby Corn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mangetout",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mangetout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Extra Firm Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Extra-Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Extra Firm Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Agave (Optional)",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the rice following packet instructions. Finely slice the red chilli and the spring onion, separating the onion whites and greens."
+    },
+    {
+      "heading": null,
+      "description": "To a blender, add ½ the spinach, the coriander, coconut milk, soy sauce, stock cube, agave (if using) and vegan fish sauce (if using). Blitz until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of vegetable oil in a large pan set over a low heat. Add the curry paste and spring onion whites and cook, stirring constantly, for 2 mins until fragrant. Add the water, remaining spinach and the blended green sauce to the pan. Leave to gently come to a simmer. Season with lime juice to taste."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the baby corn into bite-sized chunks. Heat a drizzle of vegetable oil in a new large pan set over a high heat. Add the baby corn with a pinch of salt and fry for 2 mins, then add the mangetout and cook for another 3 mins until softened and starting to brown."
+    },
+    {
+      "heading": null,
+      "description": "Remove the veg from the pan then crumble in the tofu. Add another splash of vegetable oil and cook the tofu over a high heat for 3-4 mins, then add the soy sauce and sesame seeds and cook for another 3 mins until really crisped up."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the rice between bowls, pour over the green sauce and top with the charred veggies and crispy tofu. Finish with the sliced chilli, spring onion greens and a wedge of lime, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-13T11:33:00+00:00"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "4669047",
+  "slug": "coffee-jelly",
+  "title": "Coffee Jelly",
+  "url": "https://www.mob.co.uk/recipes/coffee-jelly",
+  "summary": "Coffee jelly isn't just fun to eat, it's fun to make as well. This coffee jelly recipe will show you how to make these lovely, wobbly cubes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Coffee-Jelly.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 60,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 74,
+    "protein": 1,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 15,
+    "dietary_fibre": 0,
+    "sugars": 11,
+    "sodium": 41
+  },
+  "ingredients": [
+    {
+      "label": "200ml Minor Figures Barista Oat",
+      "quantity": "200",
+      "unit": null,
+      "name": "Oat Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Agave",
+      "quantity": "2",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350ml Water",
+      "quantity": "350",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Filter Coffee",
+      "quantity": "150",
+      "unit": null,
+      "name": "Filter Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Agar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Agar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Prepare your coffee and add to a saucepan with the water and agar."
+    },
+    {
+      "heading": null,
+      "description": "Heat until boiling then bring heat right down and simmer until all the agar has dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Pour into a tray and place in the fridge to set. This should take about 2 hours."
+    },
+    {
+      "heading": null,
+      "description": "While the jelly sets prepare the oat milk."
+    },
+    {
+      "heading": null,
+      "description": "Pour your oat milk into the bowl with the agave and vanilla extract then mix until combined."
+    },
+    {
+      "heading": null,
+      "description": "When the jelly is set, cut it into cubes and use a spatula to remove from a tray."
+    },
+    {
+      "heading": null,
+      "description": "Pour into a glass and the fill with your oat milk. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-25T05:00:00+00:00"
+}

@@ -1,0 +1,286 @@
+{
+  "id": "3677729",
+  "slug": "bánh-mì",
+  "title": "Ultimate Vegan Bánh Mì",
+  "url": "https://www.mob.co.uk/recipes/bánh-mì",
+  "summary": "It’s not unusual to find street vendors selling vegan Bánh Mì in Vietnam. I’ve recreated a classic version with vegan 'pulled pork' style protein.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/IMG_0160.JPG",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 18,
+    "fat": 22,
+    "saturated_fat": 4,
+    "carbohydrates": 74,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "2 x 220g Packs Of Eatplanted Pulled Pork",
+      "quantity": "440",
+      "unit": null,
+      "name": "Vegan Pulled Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Jalapeños",
+      "quantity": "2",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240ml White Vinegar",
+      "quantity": "240",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce Or Tamari",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Thumb-Sized Piece Of Fresh Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Lemongrass Puree",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Moscatel/Sherry Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Moscatel Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vegan Mayo",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vegan Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Sriracha",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Spring Onion (For Garnish)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Handful Of Fresh Coriander (For Garnish)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Crusty White Baguettes (I Find The Part-Baked Finish In The Oven Kind Best For This)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, make your pickles. Start by slicing the carrot and cucumber into small batons (sticks) with a knife or a julienne peeler. Slice one jalapeño thinly and save the other for garnish."
+    },
+    {
+      "heading": null,
+      "description": "In a small saucepan, add 240ml water, 240ml white vinegar, 1 tsp salt, 1 tbsp sugar, 1 tsp black peppercorns. Bring to a boil and then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "To make the marinade, mince a thumb-sized piece of ginger and one or two garlic cloves."
+    },
+    {
+      "heading": null,
+      "description": "Then, whisk together 2 tbsp of olive oil, 3 tbsp tamari, the juice and zest of half a lime, the garlic and ginger, 2 tbsp of lemongrass paste and some black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add one 220g pack of Eatplanted Pulled Pork to the marinade and set aside to marinate while you make the rest of the fillings."
+    },
+    {
+      "heading": null,
+      "description": "To make the paté, add the vegan 'pulled pork' protein to a blender with 85ml of water. Add 1tbsp soy sauce, 1 tsp miso, 2 tsp Moscatel or sherry vinegar, 1 stock cube and 2 tsp butter. Blend to a paté, season to taste and adjust the consistency with a little more water if you like."
+    },
+    {
+      "heading": null,
+      "description": "Mix the mayonnaise with the sriracha in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Slice the remaining chilli, the spring onion and pick some coriander leaves for your garnish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-18T13:16:00+01:00"
+}

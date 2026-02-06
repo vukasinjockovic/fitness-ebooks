@@ -1,0 +1,135 @@
+{
+  "id": "4658760",
+  "slug": "tiramisu-mocha",
+  "title": "Tiramisu Mocha",
+  "url": "https://www.mob.co.uk/recipes/tiramisu-mocha",
+  "summary": "We always look forward to a warm drink when the weather is a bit rubbish, and even better when it’s topped up with a bit of Kahlúa.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Tiramisu-Mocha.jpg",
+  "cook_time": 5,
+  "prep_time": 3,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 352,
+    "protein": 12,
+    "fat": 9,
+    "saturated_fat": 5,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 38,
+    "sodium": 104
+  },
+  "ingredients": [
+    {
+      "label": "800ml Whole Milk",
+      "quantity": "800",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cocoa",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Horlicks",
+      "quantity": "6",
+      "unit": null,
+      "name": "Horlicks",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Kahlúa",
+      "quantity": "150",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch of Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Whipped Squirty Cream, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Whipped Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "5g Dark Chocolate",
+      "quantity": "5",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Dark Chocolate",
+      "quantity": "5",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a small bowl mix the cocoa and Horlicks into a paste with a drop of milk, then gradually add more milk until it’s smooth."
+    },
+    {
+      "heading": null,
+      "description": "Add to a pan with the remaining milk and heat gently, before adding in the Kahlúa and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Pour the hot chocolate into a heat-proof glass, top with squirty cream and grate over some dark chocolate."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-11-26T08:00:00+00:00"
+}

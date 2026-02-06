@@ -1,0 +1,256 @@
+{
+  "id": "4459690",
+  "slug": "grilled-chicken-artichoke-salad",
+  "title": "Grilled Chicken & Artichoke Salad with Mustardy Dressing",
+  "url": "https://www.mob.co.uk/recipes/grilled-chicken-artichoke-salad",
+  "summary": "This is a belter of a salad. Jarred artichokes are the secret ingredient here. They make all the difference.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Grilled-Chicken-Artichoke-Salad-with-Mustardy-Dressing.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 410,
+    "protein": 22,
+    "fat": 31,
+    "saturated_fat": 5,
+    "carbohydrates": 11,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "50g Pine Nuts",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless, Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless, Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tenderstem Broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tenderstem Broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch of Rosemary (10g)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Heads of Baby Gem Lettuce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Baby Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Mint (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "230g Jarred Artichoke",
+      "quantity": "230",
+      "unit": null,
+      "name": "Jarred Artichokes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "230g Jarred Artichoke",
+      "quantity": "230",
+      "unit": null,
+      "name": "Artichoke",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Wholegrain Mustard",
+      "quantity": "3",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the grill to high."
+    },
+    {
+      "heading": null,
+      "description": "Place a small frying pan on medium-high heat. Once hot, add the pine nuts and toast, shaking the pan often until golden, 2-3 mins. Transfer to a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken and Tenderstem into a bowl. Peel and grate 3 cloves of garlic, strip the leaves off the rosemary and roughly chop. Add both to the chicken with 2 tbsp of olive oil, then season with a generous pinch of salt and pepper. Add the chicken to a large baking tray and grill until golden, and starting to char, 10-12 mins. Then add the Tenderstem on top and cook until charred, 3-5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, trim and chop the lettuce into bite-sized chunks. Pick the mint leaves, trim and chop the cucumber in 2cm chunks. Trim and thinly slice the spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Drain and finely chop the artichokes. Transfer into a large bowl with the pine nuts. Add the zest of half a lemon and 50ml of olive oil, the juice of the lemons and wholegrain mustard."
+    },
+    {
+      "heading": null,
+      "description": "Slice the cooked chicken into 2cm strips. Toss the lettuce, mint, cucumber, spring onion, broccoli and chicken into the dressing."
+    },
+    {
+      "heading": null,
+      "description": "Share the salad onto a platter or plates."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-04T11:33:00+01:00"
+}

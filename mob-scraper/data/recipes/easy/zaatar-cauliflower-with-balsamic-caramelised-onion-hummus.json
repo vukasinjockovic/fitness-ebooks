@@ -1,0 +1,267 @@
+{
+  "id": "5879765",
+  "slug": "zaatar-cauliflower-with-balsamic-caramelised-onion-hummus",
+  "title": "Za’atar Cauliflower With Balsamic Caramelised Onion Hummus",
+  "url": "https://www.mob.co.uk/recipes/zaatar-cauliflower-with-balsamic-caramelised-onion-hummus",
+  "summary": "Caramelised balsamic red onion hummus with extra jammy onions and za’atar-roasted cauliflower. Roasting the cauliflower like this (by covering and then uncovering it) makes it tender on the inside and perfectly caramelised on the outside. Finished with a zesty pine nut and herb drizzle, it's a delicious dish. Serve with lentils to make a complete meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Za%E2%80%99atar-Cauliflower-With-Balsamic-Caramelised-Onion-Hummus.jpg",
+  "cook_time": 40,
+  "prep_time": 60,
+  "total_time": 100,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 420,
+    "protein": 11,
+    "fat": 27,
+    "saturated_fat": 4,
+    "carbohydrates": 31,
+    "dietary_fibre": 8,
+    "sugars": 7,
+    "sodium": 187
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Za’atar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Balsamic Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Chickpeas",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Chickpeas",
+      "quantity": "480",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Runny Tahini",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½-1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Parsley (20g)",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pine Nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chili Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 190°C. Finely slice the onions and lay them out on a large baking tray in a thin layer. Season with salt and pepper and a good drizzle of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Slice the cauliflower in half and season each half with za’atar, plenty of olive oil, salt and pepper, getting into all of the grooves. Place the cauliflower onto the baking tray with the onions. Cover the tray tightly with foil and bake for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the foil, add the balsamic vinegar and stir well. Return to the oven for 15-20 mins until the onions are caramelised and the cauliflower is starting to char."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the hummus. Drain the chickpeas, reserving half of the water from the jar. Put the reserved water, chickpeas, tahini, lemon juice, garlic and olive oil into a blender and blitz until smooth. Keep the hummus in the blender until the onions and cauliflower are ready."
+    },
+    {
+      "heading": null,
+      "description": "When the onions and cauliflower are cooked, add four heaped spoons of the onions to the hummus and blend again until smooth. Taste and adjust seasonings."
+    },
+    {
+      "heading": null,
+      "description": "To make the herby drizzle, finely chop the parsley and add to a small bowl. Zest the lemon into the bowl and add half of the juice, the pine nuts, chilli flakes and plenty of olive oil, plus salt and pepper to finish."
+    },
+    {
+      "heading": null,
+      "description": "To plate up, spread the hummus over a platter and top with the remaining onions and the cauliflower. Drizzle some extra tahini and the herby drizzle on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-10T15:54:00+01:00"
+}

@@ -1,0 +1,263 @@
+{
+  "id": "4087349",
+  "slug": "shakshuka-gnocchi",
+  "title": "Shakshuka-Inspired Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/shakshuka-gnocchi",
+  "summary": "This dish is inspired by the flavours of shakshuka, a Middle Eastern and North African dish full of tomatoes and spices. I added some lemony tofu crumbles too.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Shakshuka-Inspired-Gnocchi.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 12,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 51,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 384
+  },
+  "ingredients": [
+    {
+      "label": "350g Firm Tofu (The Type In Liquid, Not Extra Firm)",
+      "quantity": "350",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Firm Tofu (The Type In Liquid, Not Extra Firm)",
+      "quantity": "350",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Nutritional Yeast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 450g Jar Roasted Red Peppers",
+      "quantity": "450",
+      "unit": null,
+      "name": "Jarred Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch of Cayenne Pepper (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 x 400g Cans of Chopped Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Harissa (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander Or Parsley (Optional, For Garnish)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, marinate the tofu. Pat it dry and crumble the tofu, then add the juice of 1 lemon, the nutritional yeast and ½ -1 tsp salt (taste as you go - I like this quite salty) a sprinkle of pepper and ½ tbsp of olive oil. Use a fork to mix it into crumbles and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drain and slice the red peppers about 1cm thick. Finely chop the onion and garlic."
+    },
+    {
+      "heading": null,
+      "description": "For the gnocchi, add 2 tbsp of olive oil into a large pan or pot over medium heat. Fry the onion for about 5 mins until softened, then add the garlic and fry for a further 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the cumin, coriander, paprika and cayenne pepper if using, and cook, stirring, for a further 1-2 mins. Then add the peppers and cook for a few more minutes."
+    },
+    {
+      "heading": null,
+      "description": "Mix in the tomatoes, gnocchi and harissa and simmer gently, stirring from time to time, for 7-10 mins. If the sauce becomes a little too thick, add a splash of water. It’s done when the gnocchi is cooked and the tomatoes have turned into a lovely sauce. Taste and season well with salt and pepper, adding more harissa if you like."
+    },
+    {
+      "heading": null,
+      "description": "To serve, ladle the gnocchi into bowls and top with some crumbled tofu. Finish with a sprinkle of coriander, a drizzle of olive oil and a few twists of pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-01-26T09:46:00+00:00"
+}

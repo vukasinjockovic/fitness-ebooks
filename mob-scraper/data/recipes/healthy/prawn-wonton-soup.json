@@ -1,0 +1,326 @@
+{
+  "id": "3925834",
+  "slug": "prawn-wonton-soup",
+  "title": "Prawn Wonton Soup",
+  "url": "https://www.mob.co.uk/recipes/prawn-wonton-soup",
+  "summary": "John Javier whipped us up the most beautiful bowl of wonton soup you ever saw. Treat yourself and cook this one up.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A3405.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 41,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 36,
+    "dietary_fibre": 2,
+    "sugars": 6,
+    "sodium": 1857
+  },
+  "ingredients": [
+    {
+      "label": "4L Chicken Stock",
+      "quantity": "4000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Ginger",
+      "quantity": "100",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Dried Shrimp",
+      "quantity": "50",
+      "unit": null,
+      "name": "Dried Shrimp",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Whole White Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Whole Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tin Anchovies",
+      "quantity": "50",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sliced Jamon",
+      "quantity": "100",
+      "unit": null,
+      "name": "Jamón",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Frozen Prawn Meat",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Frozen Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Frozen Prawn Meat",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Roasted White Sesame Seed Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seed Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dashi Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Msg",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Whole Egg – Whipped",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Packet Wonton Wrappers",
+      "quantity": "200",
+      "unit": null,
+      "name": "Wonton Wrapper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Wonton Broth",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Wonton Broth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "16 Prawn Wontons",
+      "quantity": "16",
+      "unit": null,
+      "name": "Prawn Wonton",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch Yellow Chives (If Unavailable, Spring Onions Will Work Fine)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a pot on medium heat, sweat the onions, ginger, garlic and dried shrimp until translucent. Add the peppercorns and cook for a further minute."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken stock and bring to a simmer for 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Turn off the heat and add the anchovies and sliced jamon. Make sure they are fully submerged."
+    },
+    {
+      "heading": null,
+      "description": "Infuse for 20 minutes before passing through a fine strainer. Allow the liquid to gently fall through making sure not to press down on the solids. Discard the solids."
+    },
+    {
+      "heading": null,
+      "description": "Season broth with salt to taste."
+    },
+    {
+      "heading": null,
+      "description": "Chop prawn meat with a knife until it reaches the texture of coarse mince."
+    },
+    {
+      "heading": null,
+      "description": "Place prawn mince in a large metal bowl with sesame powder, dashi powder, sesame oil, msg, sugar, salt and egg. Using your hand, mix all the ingredients together vigorously making sure everything is well combined. Continue to mix everything with your hand until the mixture thickens and becomes extremely sticky (roughly 5 minutes)."
+    },
+    {
+      "heading": null,
+      "description": "Line your chopping board with wonton wrapper sheets and place a teaspoon of prawn mix in the centre of each sheet. Dip your finger in a small bowl of water and rub it around the edges of the wonton sheet – this will help seal the wrapper."
+    },
+    {
+      "heading": null,
+      "description": "Bring the corners of the wrapper together and pinch the edges firmly to create a ‘money bag’ shape with the wonton. Make sure the filling is not exposed once the edges are sealed, otherwise they will explode when you cook them. You can make them in advance and store them in a lightly greased container so they do not stick before cooking."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pot of salted water to the boil. About 1 teaspoon of salt per litre will do."
+    },
+    {
+      "heading": null,
+      "description": "Cut the yellow chives into 2cm batons (if you have opted for spring onions, slice them 1-2mm thick)."
+    },
+    {
+      "heading": null,
+      "description": "In a smaller pot, bring the wonton broth to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Blanch prawn wontons in the boiling salted water for about a minute. They will rise to the surface when they are fully cooked. Strain the wontons and divide into bowls."
+    },
+    {
+      "heading": null,
+      "description": "Pour the wonton broth into the bowls with prawn wontons and garnish with a pinch of yellow chives or spring onions. If desired, you can serve them with a side of chilli oil and Chinese red vinegar for dipping the prawn wontons into."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Low Carb",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "John Javier",
+      "uri": "chefs/john-javier",
+      "summary": "John Javier was the owner and head chef of the Sydney based restaurant, MASTER which closed its' doors in 2016 - a restaurant Noma's Rene Redzepi labelled as one of his favourites in Australia. Since then, he moved to Hong Kong and opened the critically acclaimed Happy Paradise which was filmed on Anthony Bourdain's 'Parts Unknown' and featured in TIME Magazine's '100 Greatest Places on Earth'. \n\nJavier has since recently opened, London-based restaurant and member's club, The Tent (at the End of the Universe).\n\nPhoto Credit: Bennie Cernow"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-26T10:00:00+00:00"
+}

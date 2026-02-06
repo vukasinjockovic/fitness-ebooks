@@ -1,0 +1,157 @@
+{
+  "id": "5059211",
+  "slug": "marry-me-margarita",
+  "title": "\"Marry Me\" Margarita",
+  "url": "https://www.mob.co.uk/recipes/marry-me-margarita",
+  "summary": "A romantic cocktail that's perfect for a low-lit night in.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Marry-Me-Margarita.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 261,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 35,
+    "sodium": 9
+  },
+  "ingredients": [
+    {
+      "label": "400g Strawberries",
+      "quantity": "400",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70ml Tequila",
+      "quantity": "70",
+      "unit": null,
+      "name": "Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Cointreau",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cointreau",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Lime Juice",
+      "quantity": "50",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Orange, optional for garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by separating a quarter of your strawberries and slice them thinly (the thinner they are the quicker they will de-hydrate) and place them in an oven on 60°C for 3-4 hours until bone dry, or an air-fryer on the dehydrate setting."
+    },
+    {
+      "heading": null,
+      "description": "When these are dehydrated, blend them until they reach a confetti-like texture and set aside. Juice your limes and blend your remaining strawberries into a purée."
+    },
+    {
+      "heading": null,
+      "description": "In a pan, gently dissolve your sugar in your water over a low heat. Do not boil. Mix a pinch of salt in with 10ml of water and dissolve."
+    },
+    {
+      "heading": null,
+      "description": "Prepare your drinking glass by rubbing a lime on the rim and then coating in the strawberry confetti."
+    },
+    {
+      "heading": null,
+      "description": "Using a peeler, peel the skin of the orange then, with a paring knife, cut out three to four small hearts which can be stuck through a cocktail stick as optional garnish."
+    },
+    {
+      "heading": null,
+      "description": "Get a cocktail shaker and add in your ice, your berry purée, tequila, cointreau, lime juice, half of your sugar syrup and a teaspoon of your saline solution (this is just as there is no salty rim but you still want those flavours to balance out)."
+    },
+    {
+      "heading": null,
+      "description": "Shake vigorously and double strain over into your glass over ice."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with your orange hearts and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-14T07:30:00+00:00"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "13080",
+  "slug": "halloumi-orange-sesh-salad",
+  "title": "Halloumi & Orange Salad",
+  "url": "https://www.mob.co.uk/recipes/halloumi-orange-sesh-salad",
+  "summary": "Halloumi, orange and balsamic glaze. A flavour trifecta from the heavens.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A9608-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 324,
+    "protein": 11,
+    "fat": 25,
+    "saturated_fat": 7,
+    "carbohydrates": 13,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "200g Fennel",
+      "quantity": "200",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Flaked Almonds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Walnuts",
+      "quantity": "50",
+      "unit": null,
+      "name": "Walnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Balsamic Glaze",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Glaze",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Oranges",
+      "quantity": "3",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Halloumi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Mint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bags of Mixed Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mixed Salad Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Toast your nuts on a low heat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice up your fennel and grill evenly on both sides."
+    },
+    {
+      "heading": null,
+      "description": "In a separate pan, pour the balsamic glaze, squeeze in some fresh orange and grate some orange zest. Mix on a low heat."
+    },
+    {
+      "heading": null,
+      "description": "Slice up your Halloumi and grill evenly on both sides using olive oil to prevent the cheese sticking to the grill."
+    },
+    {
+      "heading": null,
+      "description": "Remove the skin on your remaining oranges and slice."
+    },
+    {
+      "heading": null,
+      "description": "Add your mixed leaves, toasted nuts, some mint, your sliced orange and some of your glaze into a bowl. Toss away."
+    },
+    {
+      "heading": null,
+      "description": "Add your fennel and Halloumi and some more of your glaze. Toss again."
+    },
+    {
+      "heading": null,
+      "description": "Serve and dress with olive oil and more glaze if you choose to do so. Munch away!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Low Carb",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-04-27T00:00:00+01:00"
+}

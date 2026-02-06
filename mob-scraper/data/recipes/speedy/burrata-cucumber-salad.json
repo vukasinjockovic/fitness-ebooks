@@ -1,0 +1,130 @@
+{
+  "id": "4189450",
+  "slug": "burrata-cucumber-salad",
+  "title": "Burrata & Cucumber Salad With Green Chilli Oil",
+  "url": "https://www.mob.co.uk/recipes/burrata-cucumber-salad",
+  "summary": "Burrata anything and you can count us in. Especially if it's topped with a heaping spoonful of delicious green chilli oil. Yes, please.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Burrata-Cucumber-Salad-With-Green-Chilli-Oil.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 90,
+    "protein": 4,
+    "fat": 7,
+    "saturated_fat": 4,
+    "carbohydrates": 3,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 53
+  },
+  "ingredients": [
+    {
+      "label": "1 Burrata",
+      "quantity": "150",
+      "unit": null,
+      "name": "Burrata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cucumbers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Chilli Oil, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the cucumbers into irregular-shaped pieces, then toss with salt and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the spring onions. Dress the cucumbers with the juice and zest of a lime, and then add around two of the chopped spring onions, saving some for garnish. Add 2 tbsp of the green chilli oil and tip onto a platter."
+    },
+    {
+      "heading": null,
+      "description": "Add the ball of burrata, breaking it open as you do. Spoon over the green chilli oil, top with the coriander and remaining sliced spring onion. Scatter with sesame seeds to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Snacks",
+    "Sides",
+    "Starter"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-15T09:19:00+00:00"
+}

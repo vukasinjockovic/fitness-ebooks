@@ -1,0 +1,321 @@
+{
+  "id": "7041349",
+  "slug": "zaatar-chicken-olive-rice-whipped-feta",
+  "title": "Za'atar Chicken, Olive Rice & Whipped Feta",
+  "url": "https://www.mob.co.uk/recipes/zaatar-chicken-olive-rice-whipped-feta",
+  "summary": "Buttery olive rice, zesty za’atar chicken, salty whipped feta and a fresh crunchy salad. A perfect plate of food and a great one to batch cook.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/2/Zaatar-Chicken-Olive-Rice-Whipped-Feta.jpg",
+  "cook_time": 20,
+  "prep_time": 30,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 51,
+    "fat": 44,
+    "saturated_fat": 15,
+    "carbohydrates": 33,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1122
+  },
+  "ingredients": [
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Dill",
+      "quantity": "20",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Jasmine Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Jasmine Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 Olives",
+      "quantity": "20",
+      "unit": null,
+      "name": "Pitted Mixed Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Chicken Stock",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Kg Skinless Boneless Chicken thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Kg Skinless Boneless Chicken thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Za’atar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Black Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Greek Yoghurt",
+      "quantity": "400",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Greek Yoghurt",
+      "quantity": "400",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the grill to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "For the rice, finely slice the garlic and chop the herbs. Wash the rice two or three times until the water runs clear. Pop a medium-sized saucepan over a medium heat and add the butter. Once melted, throw in the garlic and cook for 8 mins until caramelised. Add the olives and a pinch of salt and sugar then cook for a further minute. Tip in the washed rice followed by the chicken stock (or water if you prefer). Bring to the boil then pop the lid on and reduce the heat to as low as possible. Cook for 12 mins, then turn the heat off and let sit for 15 mins. When the rice is ready, mix through most of the chopped herbs, setting aside a handful of each for the salad."
+    },
+    {
+      "heading": null,
+      "description": "For the chicken, slice the chicken thighs into quarters lengthways and thinly slice the onions. Add both to a large bowl along with the paprika, za’atar, black pepper and olive oil. Season well with salt and mix to combine. Spread evenly on an oven tray then slide under the grill on the top shelf of the oven for 20 mins until cooked through, turning halfway."
+    },
+    {
+      "heading": null,
+      "description": "For the feta, add the Greek yoghurt to a bowl with the chilli flakes and crumble over the feta. Mix well to incorporate."
+    },
+    {
+      "heading": null,
+      "description": "For the salad, slice the cucumber in half lengthways, use a spoon to remove the seeds then slice into half moons. Finely slice the red onion and chillies. Add the salad ingredients to a bowl along with the reserved fresh herbs. Season to taste with salt and lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "To plate, spoon the feta over the bottom of the bowl, top with the rice, the chicken and some salad. Finish with more za’atar, salt, pepper and a lemon wedge, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Family-Friendly",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-26T16:30:00+00:00"
+}

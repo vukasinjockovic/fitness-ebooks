@@ -1,0 +1,109 @@
+{
+  "id": "6893622",
+  "slug": "chocolate-swiss-meringue-buttercream",
+  "title": "Chocolate Swiss Meringue Buttercream",
+  "url": "https://www.mob.co.uk/recipes/chocolate-swiss-meringue-buttercream",
+  "summary": "A classic silky smooth chocolate buttercream made using egg whites. Perfect for sandwiching between cakes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chocolate-Swiss-Meringue-Buttercream.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 325,
+    "protein": 2,
+    "fat": 27,
+    "saturated_fat": 17,
+    "carbohydrates": 19,
+    "dietary_fibre": 1,
+    "sugars": 18,
+    "sodium": 23
+  },
+  "ingredients": [
+    {
+      "label": "150g Egg White",
+      "quantity": "150",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Softened Unsalted Butter",
+      "quantity": "400",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cocoa Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the sugar and egg whites to a heatproof mixing bowl. Cut the butter into cubes and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Fill a large saucepan ¼ of the way with water and set it over a medium-high heat until simmering. Place the bowl, with the sugar and eggs, on top of the saucepan (the bottom of the bowl shouldn’t touch the water) and whisk constantly until the sugar has dissolved and the mixture is hot and no longer grainy to the touch (rub it between your fingers to check)."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the mixture to a stand mixer and beat on the highest speed, until the bowl is completely cool to the touch and you have stiff peaks."
+    },
+    {
+      "heading": null,
+      "description": "Switch to the paddle attachment (to avoid air bubbles) and add all the soft, cubed butter all at once. It's very important that the butter is soft and the same temperature as the meringue, otherwise you risk the mixture splitting. Leave the mixer on a medium speed until the mixture comes together (it may look split to start with, but don't worry it will come together), then turn down to low until you have a smooth buttercream. Add the cocoa powder and whip until incorporated."
+    },
+    {
+      "heading": null,
+      "description": "If the mixture looks split, don't worry; put the whole bowl in the fridge for 10-15 mins then whip again."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-06T15:15:00+01:00"
+}

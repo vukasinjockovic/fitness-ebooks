@@ -1,0 +1,301 @@
+{
+  "id": "6029344",
+  "slug": "rosemary-butter-beans-with-grilled-peaches-tofu-feta-rocket",
+  "title": "Rosemary Butter Beans with Grilled Peaches, Tofu Feta & Rocket",
+  "url": "https://www.mob.co.uk/recipes/rosemary-butter-beans-with-grilled-peaches-tofu-feta-rocket",
+  "summary": "Peach salads are summery, beautiful and delicious. But they are lacking somewhat in the protein department, if eaten as a veggie main… so, enter these rosemary butter beans with grilled peaches, rocket and tofu feta.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Rosemary-Butter-Beans-with-Grilled-Peaches-Tofu-Feta-Rocket.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 19,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 33,
+    "dietary_fibre": 9,
+    "sugars": 6,
+    "sodium": 523
+  },
+  "ingredients": [
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4-5 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4-5 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Jar Butter Beans",
+      "quantity": "700",
+      "unit": null,
+      "name": "Jarred Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Jar Butter Beans",
+      "quantity": "700",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Stock Cube",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Sprigs Fresh Rosemary",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Ripe Peaches",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Fresh Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sherry Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Handfuls Rocket",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sourdough Toast",
+      "quantity": null,
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Extra-Firm Tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Extra-Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Extra-Firm Tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Nutritional Yeast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start with the tofu feta. Squeeze the tofu in kitchen paper to draw out any excess water. In a mixing bowl, break the tofu apart into small, irregular chunks with your hands. Squeeze in the lemon juice, then add the remaining ingredients and ½-1 tsp salt. Gently toss to combine."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the shallots and mince the garlic. Heat a splash of olive oil in a large, wide-sided sauté pan. When a piece of shallot sizzles on contact, tip the rest in and fry over a low-medium heat for 8 mins with a pinch of sea salt. Add the garlic and fry until the raw aroma subsides (at least 3-4 mins). Pour in the beans plus their juices, plus a little water to loosen the mixture if needed. Add the stock cube and rosemary sprigs. Simmer for 15-20 mins, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Season the butter beans to taste and remove the rosemary sprigs. Lower the heat while you prep the peaches."
+    },
+    {
+      "heading": null,
+      "description": "Cut the peaches into neat segments, discarding the stones. Brush with a little olive oil, then place flesh-side down in a griddle pan and cook for 2-3 mins each side, until slightly charred. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Grate the tomato, discarding the skin, into a small bowl, then add the olive oil, sherry vinegar and a pinch of salt. Mix well, then taste and adjust the salt level."
+    },
+    {
+      "heading": null,
+      "description": "Tip the rocket into a large bowl and add half of the tomato dressing. Toss well."
+    },
+    {
+      "heading": null,
+      "description": "Serve the warm butter beans in bowls, topped with the grilled peaches, the dressed rocket, tofu feta and a final drizzle of the reserved tomato dressing. Eat with toast or grains."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Waplington",
+      "uri": "chefs/sophie-waplington",
+      "summary": "Soph (@sophsplantkitchen) is a personal trainer and plant-based recipe developer, specialising in high-protein, high-fibre, wholefood recipes to help support healthy, active lifestyles. Her mission is to redefine ‘fitness food’ by adding more deliciousness into your diet, instead of taking it away."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-21T12:24:00+01:00"
+}

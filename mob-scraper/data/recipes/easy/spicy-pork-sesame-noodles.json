@@ -1,0 +1,281 @@
+{
+  "id": "7017228",
+  "slug": "spicy-pork-sesame-noodles",
+  "title": "Spicy Pork & Sesame Noodles",
+  "url": "https://www.mob.co.uk/recipes/spicy-pork-sesame-noodles",
+  "summary": "This batch cook is a game changer! With everything coming together in just 35 mins, you won’t have to spend your whole Sunday in the kitchen. The best part? It stays fresh in the fridge for up to 5 days, and you can cook the carbs each day to keep it feeling fresh. The beauty of this recipe is how easy it is to switch things up and keep your meals exciting all week long!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Spicy-Pork-Sesame-Noodles.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 54,
+    "fat": 46,
+    "saturated_fat": 9,
+    "carbohydrates": 98,
+    "dietary_fibre": 7,
+    "sugars": 13,
+    "sodium": 2562
+  },
+  "ingredients": [
+    {
+      "label": "120g Tahini",
+      "quantity": "120",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g White Miso",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g White Miso",
+      "quantity": "50",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Rice Vinegar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Light Soy Sauce",
+      "quantity": "40",
+      "unit": null,
+      "name": "Shoyu Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp MSG (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG (optional)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130ml Water",
+      "quantity": "130",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Spring Onions",
+      "quantity": "8",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Gochujang",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Korean Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Korean Chilli Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chinese Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg 5% Fat Pork Mince",
+      "quantity": "1",
+      "unit": null,
+      "name": "5% Fat Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ramen Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ramen Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the tahini miso sauce: In a medium mixing bowl, whisk together all the ingredients (except the water) until smooth and creamy. Slowly add the water, a little at a time, whisking well after each addition until you’ve got a velvety sauce. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the herb salad: Slice the cucumber in half lengthwise, then thinly cut into half moons. Pick the leaves from the coriander and mint, and finely slice the green tops of the spring onions (reserve the white parts for the pork). Toss everything together in a bowl. For an extra crunch and to help the salad last longer, pop it in some iced water while you finish cooking."
+    },
+    {
+      "heading": null,
+      "description": "For the spicy pork, combine all the ingredients for the pork – excluding the mince and oil, and including the spring onion whites – in a blender and blitz until smooth and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large frying pan over high heat. Once it’s sizzling hot, add a glug of vegetable oil and ½ the pork mince. Press the mince into the pan and let it brown on one side. After a few mins, use a spatula to break it up. Once fully cooked, remove the pork and repeat with the remaining mince."
+    },
+    {
+      "heading": null,
+      "description": "Add all the cooked pork back into the pan, then pour in the blended sauce. Stir well and cook for another 2-3 mins, making sure everything is evenly coated."
+    },
+    {
+      "heading": null,
+      "description": "Storage (optional): If making ahead, divide the spicy pork between 4 containers. For freshness, keep the tahini miso sauce and herb salad in separate containers. Store everything in the fridge for up to 5 days."
+    },
+    {
+      "heading": null,
+      "description": "When it’s time to eat, cook your noodles following packet instructions then drain and toss with the tahini miso sauce. If necessary, reheat the spicy pork in the microwave for about 2 mins until nice and hot."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the noodles between plates then top with the pork and fresh herb salad. Finish with an extra drizzle of tahini miso sauce, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Batch",
+    "Most Cooked",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-12-09T03:30:00+00:00"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "3792",
+  "slug": "wild-alaska-salmon-burger",
+  "title": "Mob's Wild Alaska Salmon Burger",
+  "url": "https://www.mob.co.uk/recipes/wild-alaska-salmon-burger",
+  "summary": "Teriyaki salmon - crispy on the outside. Flakey on the inside. With a delicious, gingery beetroot slaw. A great fish burger for the MOB.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A8740.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 29,
+    "fat": 23,
+    "saturated_fat": 3,
+    "carbohydrates": 59,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 1022
+  },
+  "ingredients": [
+    {
+      "label": "6 Tbsp Mayonnaise",
+      "quantity": "6",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Teriyaki Marinade",
+      "quantity": "5",
+      "unit": null,
+      "name": "Teriyaki Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Knobs Grated Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fillets Sockeye Salmon",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Panko Breadcrumbs",
+      "quantity": "70",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Buns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Beetroots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Red Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Spoon 4 tbsp of mayonnaise into a bowl, add 2 tbsp of Teriyaki marinade, grate half a knob of ginger in and mix well until smooth. Leave to chill in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "To prepare your slaw, grate your beetroots and squeeze all of the moisture out using your hands. Grate a whole knob of ginger and finely chop the coriander. In a new bowl, mix the beetroot with 2 tbsp of mayonnaise, half the ginger, coriander, the juice of 1 lime and the red wine vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Patty time. Remove the skin from your sockeye salmon fillets. Chop up 2 fillets into very small pieces and chop the other 2 fillets into chunks. Put the salmon in a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the Panko breadcrumbs, 2 tbsp of Teriyaki marinade, the remaining ginger (grated) and the chilli flakes. Using your hands, mix the contents and keep mixing until you have created a firm ball. On a chopping board, separate the patty mixture into 4 separate patties."
+    },
+    {
+      "heading": null,
+      "description": "Time to get BBQ-ing! Baste each side of the patties with Teriyaki marinade (you will need about 1 tbsp). Cook on the BBQ until both sides begin to char. Halve your brioche buns and lightly toast them on the BBQ - make sure to toast both sides."
+    },
+    {
+      "heading": null,
+      "description": "Now, assemble your burger! Spread some of your prepared mayonnaise onto the bottom bun, pop the patty on top followed by some beetroot slaw. Tuck right in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-06-19T00:00:00+01:00"
+}

@@ -1,0 +1,262 @@
+{
+  "id": "5202929",
+  "slug": "salmon-tacos",
+  "title": "Air Fryer Salmon Tacos with Mango Chipotle Glaze",
+  "url": "https://www.mob.co.uk/recipes/salmon-tacos",
+  "summary": "An easy air fryer recipe that you can make in just 20 minutes. Glazing your salmon fillets in a sweet and spicy marinade makes all the difference.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Air-Fryer-Fish-Tacos.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 25,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 34,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 316
+  },
+  "ingredients": [
+    {
+      "label": "4 Skinless Salmon Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Skinless Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Skinless Salmon Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mango Chutney",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Hispi Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hispi Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Hispi Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spring Onions",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Scotch Bonnet Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Corn or Flour Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Small Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Corn or Flour Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sour Cream",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Radish",
+      "quantity": null,
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the air fryer to high (240°C)."
+    },
+    {
+      "heading": null,
+      "description": "Dice the salmon into medium-sized cubes (about 3 per fillet). Season the salmon with salt and pop into a parchment lined pan or a tray. Mix together the chutney and the chipotle paste and tip over the salmon. Pop into the airfryer for 6-8 mins or until fully cooked, spooning any extra marinade over the fish as it cooks."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the cabbage and red onion and chuck into a bowl. Dress with a little salt and lime juice and toss through chopped dill. Thinly slice the scotch bonnet, season with salt and squeeze a little lime juice over the top."
+    },
+    {
+      "heading": null,
+      "description": "Heat the tacos according to the package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Pull the fish out of the oven, it should be cooked and glazed in the spicy, smoky mango chipotle mix. (Flake it into smaller pieces, if you like.)"
+    },
+    {
+      "heading": null,
+      "description": "Build your tacos starting with the shells, topped with sour cream, some fish, a handful of slaw, the chillies and chopped spring onion and radishes. Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Most Cooked",
+    "Family-Friendly"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-17T06:00:00+01:00"
+}

@@ -1,0 +1,398 @@
+{
+  "id": "5581279",
+  "slug": "pan-fried-soup-dumplings-sheng-jian-bao",
+  "title": "Pan-Fried Soup Dumplings (Sheng Jian Bao)",
+  "url": "https://www.mob.co.uk/recipes/pan-fried-soup-dumplings-sheng-jian-bao",
+  "summary": "If you're looking for something that'll impress, these soup dumplings are just the ticket. They're crunchy on the bottom, soft and fluffy on the top and filled with a steaming hot soup.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Pan-Fried-Soup-Dumplings.jpg",
+  "cook_time": 80,
+  "prep_time": 10,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 408,
+    "protein": 17,
+    "fat": 17,
+    "saturated_fat": 4,
+    "carbohydrates": 46,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 857
+  },
+  "ingredients": [
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dashi Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dashi Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8g Gelatine Leaves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Gelatine Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g All-Purpose Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "All Purpose Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Instant Yeast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tsp Salt",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140ml Warm Water",
+      "quantity": "140",
+      "unit": null,
+      "name": "Warm Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g pork mince",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g pork mince",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Dark Soy Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Oyster Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Rice wine vinegar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½  Tbsp Sesame oil",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Water",
+      "quantity": "3",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Soup Jelly",
+      "quantity": "250",
+      "unit": null,
+      "name": "Soup Jelly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Flour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cornflour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Black or White Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chinese Black Vinegar",
+      "quantity": null,
+      "unit": null,
+      "name": "Chinese Black Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": "FOR THE SOUP JELLY:",
+      "description": "Slice the ginger and set aside. Combine all the ingredients except the gelatin leaves in a small saucepan and bring to the boil for 5 mins with a lid on just to infuse the aromatics into the liquid."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, soak the gelatin leaves in a bowl of cold water for 3 mins, until softened."
+    },
+    {
+      "heading": null,
+      "description": "Take the saucepan off the heat. Squeeze the excess water from the gelatine leaves and mix the gelatin leaves into the soup until dissolved. Pour into a shallow pasta bowl and remove the ginger. When cooled, transfer to the freezer for 20 mins, then leave in the fridge for 1 hour or until needed. When the jelly is fully set, it should be very firm."
+    },
+    {
+      "heading": "FOR THE WRAPPERS:",
+      "description": "To make the wrappers combine the flour, yeast, sugar and salt in a large bowl. Pour the warm water over the flour, then use the back of a wooden spoon to mix together until a dough forms."
+    },
+    {
+      "heading": null,
+      "description": "Quickly work the dough on a flat surface (doing this quickly will stop the dough from sticking to your hands): slap the dough onto a flat surface, stretching the dough into a long rope, then form back into a ball and repeat for 2 mins, making sure not to break the rope – this is the key to fluffy dumplings later."
+    },
+    {
+      "heading": null,
+      "description": "Coat a separate bowl and your hands with vegetable oil. Work the dough quickly to form a rough ball, then place it into the oiled bowl. Cover the bowl with a damp tea towel then wrap it in another tea towel and leave to rise in a warm place for 1 hour."
+    },
+    {
+      "heading": "FOR THE SOUP DUMPLING FILLING:",
+      "description": "Mince the ginger and garlic and thinly slice the spring onions. Get the pork mince in a large mixing bowl along with all the remaining ingredients. Using a fork, mix in one direction until a big meatball forms. Cling film the bowl and chill until needed."
+    },
+    {
+      "heading": null,
+      "description": "Now it’s time to incorporate the soup jelly. Remove the soup jelly from the fridge and use a knife to slice it into small cubes, roughly the size of peas. Scoop all the jelly into the dumpling filling and mix until evenly incorporated. Cover and refrigerate until needed."
+    },
+    {
+      "heading": "TO SHAPE THE BUNS:",
+      "description": "Now it’s time to shape the buns: combine the dusting flour ingredients in a small bowl and set aside. Grab the dough, punch to deflate, then work it into a ball. Use your finger to poke a hole in the centre of the dough to create a doughnut shape. Then use a pair of scissors to make a single cut, revealing a log-shape. Roll out the log and divide into 13 pieces, roughly 30g each."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle your work surface with dusting flour and shape each piece into balls. Cover with a damp tea towel and leave for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle over more dusting flour and roll each piece into a circle around 10cm in circumference or the size of your palm and overlap each piece on a clean work surface and cover with a lightly damp tea towel."
+    },
+    {
+      "heading": "FOR FRYING THE DUMPLINGS:",
+      "description": "Pour 2 tbsp of vegetable oil in a medium pan so it’s covering the whole surface."
+    },
+    {
+      "heading": null,
+      "description": "Add a heaped tbsp of filling into a wrapper and tightly pleat the dough into a ball, ensuring there are no gaps. If you’re new to pleating: bring four edges of the wrapper together and pinch in the middle to create a four-petal flower-like shape, then pinch all the gaps to make a ball. As long as there are no holes, you will have delicious juicy dumplings."
+    },
+    {
+      "heading": null,
+      "description": "Flip the dumpling so it’s seam-side down and place it on the outer edge of your pan. Repeat shaping and adding the dumplings in a circular pattern inside the pan, seam-side down. Cover the dumplings with a damp tea towel and leave in a warm place for 15 mins. Freeze any leftover filling for next time you’re making dumplings."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, prep the garnish: finely slice the spring onions and get the sesame seeds in a small bowl near the stove top."
+    },
+    {
+      "heading": null,
+      "description": "Cover the dumplings in enough room temp water so the tops are just poking out. Now turn the heat to medium high, with a lid on, just until it begins to boil, then reduce the heat to medium and cook for 10 mins. Most of the water should be evaporated. Sprinkle over the spring onions, sesame seeds and a drizzle of vegetable oil then cook with a lid on for another 30 seconds. Use a spatula to check the bottoms are golden brown, then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Soak a tea towel with cold water and place it on a work surface with the hot pan on top; it will create steam and help release the dumplings. Use a spatula to release the dumplings from the edge of the pan then flip them onto a plate."
+    },
+    {
+      "heading": "TO SERVE:",
+      "description": "Serve with black Chinese vinegar, or combine a 3:1 ratio of rice vinegar to soy sauce. Drizzle with chilli oil and pull apart to eat!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Most Cooked",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-13T16:30:00+01:00"
+}

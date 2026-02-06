@@ -1,0 +1,272 @@
+{
+  "id": "6953463",
+  "slug": "sea-bass-yuzu-cerviche-umami-crisps",
+  "title": "Sea Bass Yuzu Ceviche with Umami Crisps",
+  "url": "https://www.mob.co.uk/recipes/sea-bass-yuzu-cerviche-umami-crisps",
+  "summary": "A Japanese twist on a classic Peruvian ceviche, paired with homemade spicy umami crisps. This one’s a crowd pleaser.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Sea-Bass-Cerviche.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 27,
+    "fat": 49,
+    "saturated_fat": 7,
+    "carbohydrates": 27,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1040
+  },
+  "ingredients": [
+    {
+      "label": "360g Skinless Seabass Fillets",
+      "quantity": "360",
+      "unit": null,
+      "name": "Skinless Sea Bass Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360g Skinless Seabass Fillets",
+      "quantity": "360",
+      "unit": null,
+      "name": "Sea Bass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "⅓ Cucumber",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Chives",
+      "quantity": null,
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Extra Virgin Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Potato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Large White Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Potato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp MSG",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cayenne Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Yuzu Juice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yuzu Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the crisps. Use a mandolin (or sharp knife) to cut the potato into discs, as thin as possible. Rinse the discs in a bowl of cold water to draw out the starch then drain and lay them out on a clean tea towel to dry. Place a second tea towel on top and press down to remove any excess moisture."
+    },
+    {
+      "heading": null,
+      "description": "Half fill a large saucepan with vegetable oil. Set it over a medium-high heat for 5 mins to heat the oil. Carefully lower the potato discs into the hot oil and fry for 2-4 mins until golden. Use a slotted spoon to transfer the crisps to a clean dry bowl. Sprinkle over the salt, sugar, MSG and cayenne powder and toss until evenly coated. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the sauce, juice the lemon and lime into a bowl. Grate in the ginger and add the rest of the sauce ingredients and a pinch of salt. Mix to combine and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the sea bass fillets into very thin strips. Thinly slice the cucumber and red onion. Pick the coriander leaves and cut the chives into thirds."
+    },
+    {
+      "heading": null,
+      "description": "Lay the cucumber slices out on a serving plate. Place the raw sea bass slices on top then sprinkle over the chives."
+    },
+    {
+      "heading": null,
+      "description": "Heat the olive oil and sesame oil in a small frying pan set over a medium-high for 2-3 mins until just shy of smoking, then pour the hot oil over the fish to sear it."
+    },
+    {
+      "heading": null,
+      "description": "Pour the sauce over the fish. Top with the red onion and coriander leaves, and serve with the crisps on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Peruvian"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T13:33:00+01:00"
+}

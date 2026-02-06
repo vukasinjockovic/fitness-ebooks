@@ -1,0 +1,190 @@
+{
+  "id": "1059",
+  "slug": "peanut-butter-noodles",
+  "title": "Plant-Based Mince & Peanut Butter Udon",
+  "url": "https://www.mob.co.uk/recipes/peanut-butter-noodles",
+  "summary": "This dish is all in the sauce. Follow the measurements to the letter, it is perfect. The chilli oil. The peanut butter. The five spice. It is incredible.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A1293.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 561,
+    "protein": 25,
+    "fat": 19,
+    "saturated_fat": 3,
+    "carbohydrates": 74,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "450g Meatless Farm Mince",
+      "quantity": "450",
+      "unit": null,
+      "name": "Meatless Farm Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Udon Noodles ",
+      "quantity": "600",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Udon Noodles ",
+      "quantity": "600",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tender-Stem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tender-Stem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Five Spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start with the peanut butter sauce. Into a bowl add your peanut butter, chilli oil, soy sauce and 2 tbsp of warm water, mix together until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Into an oiled wok over a high heat, crumble the mince and add a pinch of salt, a grinding of pepper and your five spice. Cook for about 12 mins or until crispy, breaking up the Meatless Farm Mince with a wooden spoon as you go. Halve your broccoli and add to the wok, and cook off for a few mins."
+    },
+    {
+      "heading": null,
+      "description": "Whack in your noodles to the wok and toss together. Next, spoon in your peanut butter sauce, slice up your spring onion (saving one for garnish) and add to the wok. Fold everything together and cook for a few mins to get everything hot."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a drizzle of chilli oil, and a sprinkling of your remaining spring onion and tuck into this delicious dish. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-01-13T00:00:00+00:00"
+}

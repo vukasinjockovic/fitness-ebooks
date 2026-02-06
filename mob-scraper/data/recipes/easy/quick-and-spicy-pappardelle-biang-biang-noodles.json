@@ -1,0 +1,273 @@
+{
+  "id": "5203763",
+  "slug": "quick-and-spicy-pappardelle-biang-biang-noodles",
+  "title": "Quick & Spicy Pappardelle \"Biang Biang Noodles\"",
+  "url": "https://www.mob.co.uk/recipes/quick-and-spicy-pappardelle-biang-biang-noodles",
+  "summary": "A quick and satisfying pasta recipe inspired by biang biang noodles. On the table in under half an hour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Quick-and-Spicy-Pappardelle.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1202,
+    "protein": 28,
+    "fat": 62,
+    "saturated_fat": 10,
+    "carbohydrates": 132,
+    "dietary_fibre": 10,
+    "sugars": 13,
+    "sodium": 2222
+  },
+  "ingredients": [
+    {
+      "label": "400g Pappardelle",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pappardelle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Pappardelle",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Pasta Water",
+      "quantity": "60",
+      "unit": null,
+      "name": "Pasta Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger, minced",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Neutral Oil or Vegetable Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Toasted Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smooth Roasted Peanut Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Crushed Roasted Peanuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Crushed Roasted Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Chilli Oil",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Steamed Greens (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Fried Eggs (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Fried Egg",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a pot of lightly salted water to the boil for the pasta (season lightly, as it will impart flavour on the pasta – remember you can always add more salt later)."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, mince the garlic and ginger, then finely slice the spring onions (reserve a small handful of the green tops for garnish – place into a bowl of cold tap water to make them super crunchy). Finely slice all the coriander stems to make 3 tbsp. Keep the leaves for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the sauce ingredients in a small bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Put all the oil, ginger and spring onions into a pasta pot, or medium sized pot. Turn the heat to medium, then cook until the ginger starts to sizzle and turns lightly golden brown. Reduce the heat to low, add the garlic and sesame seeds, then cook for 1 min, mixing all the time so nothing burns. Once the seeds are lightly golden, turn off the heat and immediately add the chilli flakes (if your sesame seeds are pre-toasted, then add with the chilli flakes). Pour in the sauce, mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Boil the pappardelle in the boiling water 30 seconds less than pack instructions. Then use tongs to transfer the noodles straight into the sauce pot, allowing some pasta water to come with it. Turn the heat to medium and toss with pasta water, to make it glossy. Turn off the heat and add all the sliced coriander. Taste for seasoning – you may need a dash of salt depending on the saltiness of your pasta water, and you may want to add a small splash more fish sauce."
+    },
+    {
+      "heading": null,
+      "description": "Divide between serving bowls and top with crushed peanuts, chilli oil and the drained spring onion tops and coriander leaves. Eat with steamed greens and fried eggs, if you like. Optionally serve with more rice wine/black vinegar."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-23T11:00:00+00:00"
+}

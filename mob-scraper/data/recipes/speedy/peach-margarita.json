@@ -1,0 +1,167 @@
+{
+  "id": "3774109",
+  "slug": "peach-margarita",
+  "title": "Peach Margarita",
+  "url": "https://www.mob.co.uk/recipes/peach-margarita",
+  "summary": "Peachy liquid deliciousness with a boozy kick",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A0728_2022-10-14-134550_djan.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 381,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 62,
+    "dietary_fibre": 2,
+    "sugars": 59,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "150g Peaches",
+      "quantity": "150",
+      "unit": null,
+      "name": "Peach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Tequila",
+      "quantity": "35",
+      "unit": null,
+      "name": "Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Tripple Sec",
+      "quantity": "25",
+      "unit": null,
+      "name": "Triple Sec",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Peach Liquor",
+      "quantity": "15",
+      "unit": null,
+      "name": "Peach Liquor",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Agave",
+      "quantity": "1",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "De-stone, roughly chop and blitz your peaches until you’ve got a smoothish purée."
+    },
+    {
+      "heading": null,
+      "description": "Strain the blitzed peaches through a sieve to create a really smooth, silky peach juice. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Zest the lime onto a plate, add the sugar and mix to create the rim."
+    },
+    {
+      "heading": null,
+      "description": "Rub a wedge of lime around the rim of your glass and dip it in the sugary zest."
+    },
+    {
+      "heading": null,
+      "description": "Juice your lime."
+    },
+    {
+      "heading": null,
+      "description": "Add the strained peaches, tequila, triple sec, peach liquor, lime juice and agave to a cocktail shaker with ice."
+    },
+    {
+      "heading": null,
+      "description": "Shake hard for 20 seconds to mix well and chill."
+    },
+    {
+      "heading": null,
+      "description": "Put a large ice cube into your rimmed glass and strain in your cocktail."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with some slices of fresh peach and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-09-23T15:00:00+01:00"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "3358489",
+  "slug": "pińa-colada",
+  "title": "Pińa Colada",
+  "url": "https://www.mob.co.uk/recipes/pińa-colada",
+  "summary": "You'll be able to hear that tropical music when you sip these down",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A3894_2022-05-03-091805_bpsu.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 466,
+    "protein": 3,
+    "fat": 14,
+    "saturated_fat": 13,
+    "carbohydrates": 67,
+    "dietary_fibre": 3,
+    "sugars": 62,
+    "sodium": 19
+  },
+  "ingredients": [
+    {
+      "label": "60ml White Rum",
+      "quantity": "60",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Pineapple Juice",
+      "quantity": "60",
+      "unit": null,
+      "name": "Pineapple Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Cream of Coconut",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cream of Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Fresh Pineapple",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice (Crushed)",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Glacé Cherries For Garnish (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Glacé Cherries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut up the pineapple, saving a slice and a pulling out a leaf for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Crush your ice (I put it in a tea towel and slam it against hard surface)"
+    },
+    {
+      "heading": null,
+      "description": "Put your crushed ice into a blender with the rum, pineapple juice, cream of coconut and the fresh pineapple chunks."
+    },
+    {
+      "heading": null,
+      "description": "Blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour into a glass of your choosing and garnish with the pineapple piece, leaf and glacé cherry."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-30T10:30:00+01:00"
+}

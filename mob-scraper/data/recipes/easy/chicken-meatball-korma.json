@@ -1,0 +1,337 @@
+{
+  "id": "7403352",
+  "slug": "chicken-meatball-korma",
+  "title": "Chicken Meatball Korma",
+  "url": "https://www.mob.co.uk/recipes/chicken-meatball-korma",
+  "summary": "Creamy, nutty and mild enough for the littlest eaters, this healthy chicken meatball korma is the ultimate family fakeaway. Big comfort, low effort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Chicken-Meatball-Korma.jpg",
+  "cook_time": 25,
+  "prep_time": 15,
+  "total_time": 40,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 700,
+    "protein": 38,
+    "fat": 25,
+    "saturated_fat": 5,
+    "carbohydrates": 78,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "400g chicken mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g chicken mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp mild curry powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mild Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp breadcrumbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Natural Yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Natural Yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mild Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mild Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Plain Flour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml chicken stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Ground Almonds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Ground Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Natural Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Natural Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g basmati rice",
+      "quantity": "225",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g basmati rice",
+      "quantity": "225",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "fresh coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lime Pickle",
+      "quantity": null,
+      "unit": null,
+      "name": "Lime Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red chilli",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids Servings \nMake the meatballs. Peel and finely grate the garlic and fresh ginger. Add to a mixing bowl with the chicken mince, curry powder, breadcrumbs, yoghurt and a pinch of salt and pepper. Mix well until combined.\nWet your hands and roll the mixture into 16 small meatballs. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Place a large frying pan over a medium heat with a drizzle of sunflower oil. Once hot, add the meatballs and cook for 5–6 mins, turning until golden all over. Transfer to a plate and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely dice the onion. Peel and finely slice the second garlic clove. Grate the remaining 20g of ginger."
+    },
+    {
+      "heading": null,
+      "description": "In the same pan, add another drizzle of oil and cook the onion, garlic and ginger for 4–5 mins until soft. Stir in the curry powder and turmeric, then sprinkle in the flour and cook for 1 min."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the chicken stock and stir through the ground almonds. Mix well to form a smooth sauce, then return the meatballs to the pan. Simmer gently for 15 mins until the sauce has thickened and the meatballs are cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Turn off the heat and stir in the yoghurt. Taste and season with salt if needed."
+    },
+    {
+      "heading": null,
+      "description": "For the adults, prep the garnish. Slice the red chilli, pick the leaves of the coriander and slice the lime into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Serve up!\nKids Plate: Spoon the curry over bowls of rice, with a dollop of yoghurt.\nParents Plate: Top the curry and rice with coriander, lime wedges sliced red chilli and lime pickle or your favourite chutney."
+    }
+  ],
+  "tips": [
+    "This is great for batch cooking — freeze the cooked meatballs in sauce, then defrost and stir through yoghurt when reheating.",
+    "Make it vegetarian with plant-based mince and stock.",
+    "For extra veg, stir through some spinach or peas with the sauce."
+  ],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-29T15:49:00+01:00"
+}

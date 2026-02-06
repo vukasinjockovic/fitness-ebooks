@@ -1,0 +1,192 @@
+{
+  "id": "3986045",
+  "slug": "shaved-brussels-sprout-salad",
+  "title": "Shaved Sprout Salad",
+  "url": "https://www.mob.co.uk/recipes/shaved-brussels-sprout-salad",
+  "summary": "If brussels sprouts aren't your favourite part of a roast dinner then you're not doing them right. This sprout salad is super fresh and delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/849A9277-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 232,
+    "protein": 10,
+    "fat": 14,
+    "saturated_fat": 6,
+    "carbohydrates": 13,
+    "dietary_fibre": 5,
+    "sugars": 6,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "1kg Brussels Sprouts",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Brussels Sprout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Unsalted Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Pear",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pear",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Orange Juice",
+      "quantity": "50",
+      "unit": null,
+      "name": "Orange Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Apple Cider Vinegar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Wholegrain Mustard",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pancetta Cubes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, For Grating",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Trim and wash the brussels. Slice them as thinly as you can and add to a large mixing bowl. Season with salt and toss."
+    },
+    {
+      "heading": null,
+      "description": "Place the pancetta into a cold pan and begin to fry on a medium heat until it becomes crispy. Remove the meat from the pan and set aside. You can clean off your pan after this."
+    },
+    {
+      "heading": null,
+      "description": "Add the butter to a small saucepan and cook until nut brown."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the pear and onion and roughly chop the parsley, add to the bowl with the shaved sprouts."
+    },
+    {
+      "heading": null,
+      "description": "To make the dressing, combine the brown butter and orange juice in a small mixing bowl. Whisk in the vinegar and mustard. Season with salt and pepper to taste. The dressing should be tart, sweet, rich and smoky, with a decent punch of mustard."
+    },
+    {
+      "heading": null,
+      "description": "Toss the dressing with the shaved veggies and finish with the crispy pancetta lardons and a good grating of parmesan. Toss everything together and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-18T09:00:00+00:00"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "6056833",
+  "slug": "chilled-cherry-rice-pudding",
+  "title": "Chilled Cherry Rice Pudding",
+  "url": "https://www.mob.co.uk/recipes/chilled-cherry-rice-pudding",
+  "summary": "A sultry chilled rice pudding topped with fresh cherries. Desserts don't get much more crispy and refreshing than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Chilled-Cherry-Rice-Pudding.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 388,
+    "protein": 8,
+    "fat": 18,
+    "saturated_fat": 9,
+    "carbohydrates": 48,
+    "dietary_fibre": 2,
+    "sugars": 33,
+    "sodium": 61
+  },
+  "ingredients": [
+    {
+      "label": "300g Cherries",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cherry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Caster Sugar",
+      "quantity": "125",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Whole Milk",
+      "quantity": "750",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Double Cream",
+      "quantity": "125",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vanilla Pod",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pudding Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pudding Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pudding Rice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Egg Yolks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Pistachios",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Halve the cherries and transfer to a small saucepan with a fifth of the caster sugar and the water. Place over a medium heat and cook, stirring occasionally, for about 8 mins until softened. Remove from the heat and squeeze in the juice from half the lemon. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Mix the milk, cream, vanilla, cinnamon and zest of the lemon together in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "We’re going to cook this a bit like a risotto. Melt the butter in a large saucepan over a medium heat, add the rice and toast for a couple of minutes, then pour in the milk mix. Bring to a simmer and cook for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the egg yolks and remaining caster sugar together in a bowl until pale, then take about 3 tbsp of the hot milk from the simmering rice, add to the yolks, mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "After about 20-25 mins, when the rice is cooked through but still al dente and most of the liquid has been absorbed, add the egg yolk mix to the rice and continue to cook, stirring continuously, for another 2-3 mins until the mixture is thick."
+    },
+    {
+      "heading": null,
+      "description": "You can serve this hot or cold. If you're going for cold, divide the mix between small bowls or glasses, top it with cling film, and chill it in the fridge until it's cold. When you’re ready to serve, top with the cherries and then roughly chop and sprinkle over the pistachios."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-27T11:31:00+01:00"
+}

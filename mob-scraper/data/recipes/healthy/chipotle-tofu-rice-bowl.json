@@ -1,0 +1,374 @@
+{
+  "id": "1368295",
+  "slug": "chipotle-tofu-rice-bowl",
+  "title": "Chipotle Tofu Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/chipotle-tofu-rice-bowl",
+  "summary": "We have slathered the best sticky, smoky sauce on crispy tofu. Charred corn and spiced salsa. Fluffy rice is essential to mop up all those glorious juices.",
+  "image": "https://files.mob-cdn.co.uk/recipes/TOFUBOWL_FINAL.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 547,
+    "protein": 23,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 81,
+    "dietary_fibre": 8,
+    "sugars": 8,
+    "sodium": 233
+  },
+  "ingredients": [
+    {
+      "label": "400g Tilda Brown Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Brown Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tilda Brown Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans",
+      "quantity": "235",
+      "unit": null,
+      "name": "Drained Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans",
+      "quantity": "235",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cumin Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "560g Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "560g Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Cornflour",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cayenne Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Chipotle Chilli Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Chipotle Chilli Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Agave",
+      "quantity": "1",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Corn on the Cob",
+      "quantity": "2",
+      "unit": null,
+      "name": "Corn On The Cob",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash your Tilda Brown Basmati Rice in cold water, then pop it in a large saucepan and cover with cold water. Bring the rice to a simmer, then cover with a lid and cook for 20-25 minutes until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Heat your grill to its highest setting."
+    },
+    {
+      "heading": null,
+      "description": "Rub your corn with oil and salt, then pop onto a tray and grill until it is charred and blistered, turning occasionally so it cooks evenly."
+    },
+    {
+      "heading": null,
+      "description": "Once cool enough to handle, slice off the corn from the cob and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop up the tofu into 2cm squares. Mix 2 tbsp of your cornflour, cayenne pepper, oregano, garlic powder and ground cumin together in a bowl with a pinch of salt and add your tofu. Toss to coat your tofu in the spiced flour mixture."
+    },
+    {
+      "heading": null,
+      "description": "Add a small glug of oil into a frying pan and fry the tofu on all sides until golden brown for 2-3 minutes. Transfer to a plate lined with a paper towel."
+    },
+    {
+      "heading": null,
+      "description": "In the same pan, add a little oil and grate in your clove of garlic. Fry for one minute, then add your tomato purée and cook for 5 minutes until it is a dark brown. Add in the chipotle paste and the agave."
+    },
+    {
+      "heading": null,
+      "description": "Mix your remaining cornflour with 1 tbsp water. Pour 250ml water into your pan, then add your cornstarch slurry. Mix well until combined, then simmer until you have a thick sauce. Toss in the tofu and coat, adding a little more water to loosen if necessary."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop up the red onion, coriander and green chilli. Dice the tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Combine the tomatoes, coriander, chilli and half of the red onion in a bowl. Squeeze in the juice of a lime and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Back to the rice. In another pan, fry your remaining red onion and cumin seeds in oil for 5-6 minutes until softened. Add in the tin of drained black beans and mix gently to warm through. Drain the cooked rice and stir through with the beans."
+    },
+    {
+      "heading": null,
+      "description": "Time to plate up. Spoon some rice into your bowl and top with your chipotle tofu, tomato salsa and corn. Dig in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-18T09:11:00+00:00"
+}

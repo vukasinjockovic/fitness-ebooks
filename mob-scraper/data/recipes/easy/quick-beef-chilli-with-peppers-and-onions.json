@@ -1,0 +1,319 @@
+{
+  "id": "7708646",
+  "slug": "quick-beef-chilli-with-peppers-and-onions",
+  "title": "Quick Beef Chilli with Peppers and Onions",
+  "url": "https://www.mob.co.uk/recipes/quick-beef-chilli-with-peppers-and-onions",
+  "summary": "Smoky, spicy and unbelievably cosy. This one-pot beef chilli with rice hits the spot every time. Pile it high with Cheddar, sour cream and a squeeze of lime, for easy meals throughout the week.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Lunch-Box-Quick-Beef-Chilli-with-Peppers-and-Onions.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 36,
+    "fat": 27,
+    "saturated_fat": 7,
+    "carbohydrates": 66,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 690
+  },
+  "ingredients": [
+    {
+      "label": "2 tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Beef Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Beef Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Ground Cayenne Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cayenne",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "300g Cooked Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sour Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cheddar",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cheddar",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and dice the onion. Dice the red pepper. Peel and finely slice the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Set a large saucepan over a medium-high heat with a drizzle of olive oil. Add the beef mince and fry for 5–6 mins, breaking it up with a wooden spoon, until browned all over. Season well with salt and black pepper, then transfer to a plate."
+    },
+    {
+      "heading": null,
+      "description": "In the same pan, heat another drizzle of oil if needed. Add the onion, pepper and garlic. Fry for 6–8 mins until soft and starting to catch."
+    },
+    {
+      "heading": null,
+      "description": "Add the bay leaves, cayenne, cumin, oregano and smoked paprika. Stir and cook for 1–2 mins to toast the spices."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze in the tomato purée and stir for 2 mins until deepened in colour."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the chopped tomatoes and chicken stock, then return the browned beef to the pan. Give it all a good stir, bring to the boil, then reduce to a simmer for 25–30 mins until rich and thickened. Taste and season."
+    },
+    {
+      "heading": null,
+      "description": "While that bubbles away, cook the rice according to pack instructions if you haven’t already. Grate the Cheddar and cut the lime into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the chilli over bowls of rice. Top with sour cream, grated Cheddar, a few coriander leaves and a wedge of lime. Finish with black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Packed Lunch",
+    "Family-Friendly",
+    "Power Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-03T15:40:00+01:00"
+}

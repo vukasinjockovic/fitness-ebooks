@@ -1,0 +1,98 @@
+{
+  "id": "6752675",
+  "slug": "vegan-raspberry-buttercream-2",
+  "title": "Vegan Raspberry Buttercream",
+  "url": "https://www.mob.co.uk/recipes/vegan-raspberry-buttercream-2",
+  "summary": "Looking for plant-based buttercream to frost your cakes? Here’s how to make it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Vegan-Raspberry-Buttercream.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 77,
+    "protein": 0,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 10,
+    "dietary_fibre": 0,
+    "sugars": 10,
+    "sodium": 32
+  },
+  "ingredients": [
+    {
+      "label": "150g Icing Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vegan Butter Alternative",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vegan Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Raspberries",
+      "quantity": "15",
+      "unit": null,
+      "name": "Raspberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use an electric whisk to beat the icing sugar and vegan butter together in a mixing bowl until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the raspberries gradually, adding a few at a time until you have a nice pink colour. Don’t add too many or the buttercream will split."
+    },
+    {
+      "heading": null,
+      "description": "Keep chilled (it will melt at room temp)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T09:46:00+01:00"
+}

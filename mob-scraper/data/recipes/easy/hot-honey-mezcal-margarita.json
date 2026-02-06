@@ -1,0 +1,154 @@
+{
+  "id": "5474217",
+  "slug": "hot-honey-mezcal-margarita",
+  "title": "Hot Honey Mezcal Margarita",
+  "url": "https://www.mob.co.uk/recipes/hot-honey-mezcal-margarita",
+  "summary": "A sweet, smoky, and spicy margarita we've made using mezcal and hot honey. This is a ripper.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Hot-Honey-Mezcal-Margarita.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 213,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 21,
+    "dietary_fibre": 0,
+    "sugars": 19,
+    "sodium": 126
+  },
+  "ingredients": [
+    {
+      "label": "Mezcal 250ml",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mezcal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cointreau 200ml",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cointreau",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Lime Juice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Hot Honey",
+      "quantity": "100",
+      "unit": null,
+      "name": "Hot Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Hot Honey",
+      "quantity": "100",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tajin",
+      "quantity": null,
+      "unit": null,
+      "name": "Tajin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add your hot honey to a mixing bowl with the hot water. Stir until it is dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Add your salt and a splash of water into a small pot, then stir until it’s dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Juice all your limes until you have the right amount of juice."
+    },
+    {
+      "heading": null,
+      "description": "Get a large mixing jug and add your mezcal, cointreau, hot honey syrup, salt solution, and lime juice. Mix with a whisk."
+    },
+    {
+      "heading": null,
+      "description": "Pour all this in your bottle and store in fridge or freezer."
+    },
+    {
+      "heading": null,
+      "description": "When you're ready to drink, use a small amount of hot honey on the rim and sprinkle over the Tajín. Then fill your glass with ice and pour in your batched cocktail to enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-26T09:00:00+01:00"
+}

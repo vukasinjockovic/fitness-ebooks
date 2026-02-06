@@ -1,0 +1,137 @@
+{
+  "id": "6797280",
+  "slug": "sugar-cookies",
+  "title": "Sugar Cookies",
+  "url": "https://www.mob.co.uk/recipes/sugar-cookies",
+  "summary": "Sweet, buttery biscuits coated in a crunchy sugar coating. These cookies might look plain but they taste anything but.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Sugar-Cookies.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 134,
+    "protein": 2,
+    "fat": 6,
+    "saturated_fat": 4,
+    "carbohydrates": 18,
+    "dietary_fibre": 0,
+    "sugars": 13,
+    "sodium": 53
+  },
+  "ingredients": [
+    {
+      "label": "130g Soft Salted Butter",
+      "quantity": "130",
+      "unit": null,
+      "name": "Soft Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130g Granulated Sugar",
+      "quantity": "130",
+      "unit": null,
+      "name": "Granulated Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Plain Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Granulated Sugar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Granulated Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 160°C Fan. Line two baking trays with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Beat the butter and granulated sugar together in a large bowl with an electric whisk for 2-3 mins until light and fluffy. Scrape down the sides of the bowl, crack in the egg, add the vanilla extract and whisk again to combine."
+    },
+    {
+      "heading": null,
+      "description": "Measure in the flour and baking powder along with a pinch of salt. Whisk until a smooth cookie dough."
+    },
+    {
+      "heading": null,
+      "description": "For the sugar coating, put the remaining granulated sugar into a shallow bowl. Roll the cookie dough into equal balls weighing about 50g each. Dip each cookie in the sugar, rolling to lightly coat. Once coated in the sugar, place onto the lined baking trays and use the bottom of a glass to flatten into a cookie puck. Repeat until all the cookies are coated in sugar, leaving a decent amount of space between each one on the tray to allow for spreading."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 10-12 mins until very lightly golden. Leave to cool on the tray for 5 mins then transfer to a wire rack to cool completely. Yum."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Afternoon Tea"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-10-01T09:30:00+01:00"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "4404800",
+  "slug": "lemon-basil-ice-cream",
+  "title": "Lemon Basil Ice Cream",
+  "url": "https://www.mob.co.uk/recipes/lemon-basil-ice-cream",
+  "summary": "Here’s the trick to beautiful, fuss-free ice cream that only takes a few minutes to make. The lemon basil flavour is super fresh and summery.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Lemon-Basil-Ice-Cream.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 285,
+    "protein": 4,
+    "fat": 17,
+    "saturated_fat": 11,
+    "carbohydrates": 29,
+    "dietary_fibre": null,
+    "sugars": 29,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "50g Fresh Basil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Double Cream",
+      "quantity": "600",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "397g Can Of Sweetened Condensed Milk",
+      "quantity": "397",
+      "unit": null,
+      "name": "Condensed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Whole, Unwaxed Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pick the basil leaves and roughly chop."
+    },
+    {
+      "heading": null,
+      "description": "In a small pan, combine the sugar, water, chopped basil leaves and heat gently until lightly simmering. When the sugar has melted turn off the heat and leave to steep and cool."
+    },
+    {
+      "heading": null,
+      "description": "Cut ⅓ of the top of your lemons and scoop out the flesh to make your lemon bowls. Save the flesh and put the skins into the freezer."
+    },
+    {
+      "heading": null,
+      "description": "In a sieve, push the lemon flesh through a sieve to get the juice."
+    },
+    {
+      "heading": null,
+      "description": "Once the basil simple syrup is cooled, pour the cream into a large mixing bowl and whisk until soft peaks (careful not to over whisk here otherwise your cream will split!)"
+    },
+    {
+      "heading": null,
+      "description": "Once you have soft peaks, slowly whisk in the condensed milk until combined, then the basil simple syrup until combined, and lastly the lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the mixture into a loaf tin, cover and freeze for 6-8 hours or until set."
+    },
+    {
+      "heading": null,
+      "description": "Once set, serve up your ice cream in the frozen lemon cups or bowls with a garnish of lemon zest. If you're dead-set on everyone having a lemon cup, simply scoop out the flesh of 6 extra lemons (preserving the flesh for later) and freeze the halves along with the other lemons. Otherwise, use bowls and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-18T09:25:00+01:00"
+}

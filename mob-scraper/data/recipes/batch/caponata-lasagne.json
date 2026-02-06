@@ -1,0 +1,373 @@
+{
+  "id": "5514402",
+  "slug": "caponata-lasagne",
+  "title": "Caponata Lasagne",
+  "url": "https://www.mob.co.uk/recipes/caponata-lasagne",
+  "summary": "Caponata and lasagne are two of my favourite things. So I thought I’d combine them … and it works really well!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Caponata-Lasagne.jpg",
+  "cook_time": 180,
+  "prep_time": 0,
+  "total_time": 180,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 563,
+    "protein": 18,
+    "fat": 28,
+    "saturated_fat": 8,
+    "carbohydrates": 56,
+    "dietary_fibre": 8,
+    "sugars": 17,
+    "sodium": 801
+  },
+  "ingredients": [
+    {
+      "label": "3 tbsp sunflower oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g aubergines",
+      "quantity": "800",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 tbsp extra virgin olive oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 sticks celery,",
+      "quantity": "6",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 romano peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Romano Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Canned Anchovies in Oil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Medium-Sized Vine Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Medium-Sized Vine Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 Basil Leaves",
+      "quantity": "20",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Drained Nonpareille Capers",
+      "quantity": "50",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Red Wine Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Caster Sugar",
+      "quantity": "30",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pine Nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Salted Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Plain Flour",
+      "quantity": "75",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Whole Milk",
+      "quantity": "750",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of White Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Finely Grated Parmesan",
+      "quantity": "60",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "325g Dried Lasagne Sheets",
+      "quantity": "325",
+      "unit": null,
+      "name": "Dried Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "325g Dried Lasagne Sheets",
+      "quantity": "325",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Finely Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Salad",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Salad",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Garlic Bread",
+      "quantity": null,
+      "unit": null,
+      "name": "Garlic Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 230°C. Dice the aubergines into 2cm pieces. Arrange the aubergine over two large baking trays, drizzle with the sunflower oil and toss to coat (don’t worry about them being totally glossed). Roast for around 20 mins, so they dry out and brown a bit."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely dice the onion and dice the celery and peppers into 1cm-2cm pieces. Finely slice the garlic and roughly chop the anchovies. Halve the cherry tomatoes and quarter the vine tomatoes. Tear the basil leaves."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large saucepan. Add the onion, celery and peppers and a big pinch of salt. Sauté for 10 mins until softened and glossy. Add the oregano, garlic, anchovies and their oil, and the capers. Mix and set aside off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Once the aubergines are done, remove them and reduce the oven temperature to 160°C. Spoon the celery mix over the base of a large roasting tin. Spread the aubergine on top in one layer, then top with all the tomatoes in one layer. Season the tomatoes with loads of salt, then the vinegar and sugar."
+    },
+    {
+      "heading": null,
+      "description": "Return to the oven and bake for 1 hr – the tomatoes will dry out, soften and intensify. Sprinkle the pine nuts on top, add the torn basil and a glug of olive oil, then gently mix the vegetables (ideally not squashing them too much). Set aside for the flavours to mingle for at least 1 hr, but preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "On the day of eating, make the white sauce. Melt the butter in a medium-sized saucepan set over a medium heat. Add the flour and stir for 30-60 seconds with a spatula until the combination (a ‘roux’) is slack, light golden in colour and smells only slightly nutty. Add a splash of milk and stir with a spatula until the liquid is completely incorporated. Repeat three or four times, then begin to increase the amount of milk you’re adding and use a whisk instead of a spatula, each time ensuring there are no lumps before adding more milk. Once all the milk is in, add the white pepper, nutmeg and half the Parmesan, then gently cook over a low heat for 10 mins, stirring frequently, until the sauce thickens and coats the back of a spoon."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pot of salted water to the boil and spread 2-3 tea towels over your kitchen surface. Cook one-third of the pasta sheets for 3-4 mins until they’re floppy. Pick them out with tongs or a slotted spoon and lay over the tea towels. Repeat when needed, as you assemble the lasagne."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C and assemble the lasagne. We’re aiming for four layers of pasta. First, empty half the canned tomatoes over the base of a 2-2.5L ovenproof dish. Top with pasta sheets, trimming to fit as necessary. Spoon and spread half the caponata over the pasta, then top with more pasta. Add the remaining canned tomatoes, plus a couple of ladles of white sauce. Then more pasta, the remaining caponata, a final layer of pasta, then the remaining white sauce. Finish with the remaining Parmesan."
+    },
+    {
+      "heading": null,
+      "description": "Bake in the oven for 35-40 mins until bronzed and bubbling. Allow to rest and cool for 15 mins before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Batch",
+    "Freezer Friendly",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ed Smith",
+      "uri": "chefs/ed-smith",
+      "summary": "Ed Smith is an award-winning food and recipe writer. After leaving a career as a lawyer for a life in food, he trained as a chef, worked briefly in restaurants and pop-ups, and now cooks, consults and writes. He’s the author of 4 cookbooks (Good Eggs; Crave; On the Side; and The Borough Market Cookbook), and the co-author of 1 book about food for kids (Welcome to Our Table). Ed regularly contributes recipes to all the major UK food magazines, websites and broadsheet supplements, and is the curator of the Rocket & Squash newsletter and social accounts (@rocketandsquash).\n\nPhotographer: Sam A Harris."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-23T04:00:00+01:00"
+}

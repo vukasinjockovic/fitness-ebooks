@@ -1,0 +1,271 @@
+{
+  "id": "6569040",
+  "slug": "one-tray-baked-chicken-rice-with-chilli-vinegar",
+  "title": "One-Tray Baked Chicken Rice with Chilli Vinegar",
+  "url": "https://www.mob.co.uk/recipes/one-tray-baked-chicken-rice-with-chilli-vinegar",
+  "summary": "Crispy chicken skin, tender thighs and fluffy aromatic rice with a garlicky vinegar dressing. What more could you want from a chicken traybake?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/One-pot-chicken-rice-bake-with-chilli-vinegar.jpg",
+  "cook_time": 55,
+  "prep_time": 15,
+  "total_time": 70,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 730,
+    "protein": 39,
+    "fat": 25,
+    "saturated_fat": 7,
+    "carbohydrates": 85,
+    "dietary_fibre": 4,
+    "sugars": 15,
+    "sodium": 1680
+  },
+  "ingredients": [
+    {
+      "label": "6 Boneless Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Boneless Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Ginger",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Spring Onions",
+      "quantity": "5",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270g Basmati Rice",
+      "quantity": "270",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270g Basmati Rice",
+      "quantity": "270",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Red Chillies",
+      "quantity": "5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Rice Wine Vinegar",
+      "quantity": "6",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": ".25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large ovenproof pan over a medium heat. Season the chicken thighs with salt and cook, skin side down, for 8-9 mins or until crispy. Flip ‘em over and briefly seal the bottom then remove from the pan and set aside on a plate. Carefully remove the skin and pop the skins on a separate oven tray."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion, garlic and ginger and tip them straight into the pan with the chicken fat and a pinch of salt. Cook for 8-9 mins until nicely coloured. Cut the spring onions into chunky lengths and wash the rice 2-3 times or until the water runs clear."
+    },
+    {
+      "heading": null,
+      "description": "Tip the rice into the same pan and cook for 4-5 mins until toasty. Now add the stock and soy sauce then pop the chicken thighs back into the pan. Scatter over the spring onions, pop a lid on and slide into the oven for 35-40 mins. Slide the tray with the chicken skin on it into the oven for the last 10-12 mins until super crispy."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile make the chilli vinegar: finely chop the chillies (seeds and all) and finely grate the garlic clove. Add to a small bowl and mix together with the vinegar and sugar. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the coriander and spring onions and add to a bowl. Use a peeler to shave in the cabbage and toss everything together."
+    },
+    {
+      "heading": null,
+      "description": "Once baked, allow the rice and chicken thighs to rest for 10 mins or so before dividing between bowls and serving with crispy chicken skin, cabbage salad and plenty of the chilli vinegar, or you can serve on the side for pickier eaters."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Family-Friendly",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-06T10:00:00+00:00"
+}

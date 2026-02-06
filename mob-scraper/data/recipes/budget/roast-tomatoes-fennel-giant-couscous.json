@@ -1,0 +1,178 @@
+{
+  "id": "4507865",
+  "slug": "roast-tomatoes-fennel-giant-couscous",
+  "title": "Brothy Roast Tomatoes, Fennel & Giant Couscous",
+  "url": "https://www.mob.co.uk/recipes/roast-tomatoes-fennel-giant-couscous",
+  "summary": "This recipe doesn't require a lot of prep and it's extremely comforting. A great one to use as a blueprint for whatever you have on hand.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Brothy-Roast-Tomatoes-Fennel-Giant-Couscous.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 9,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 59,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 563
+  },
+  "ingredients": [
+    {
+      "label": "2 Fennel Bulbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Cherry Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Cherry Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Giant Couscous",
+      "quantity": "350",
+      "unit": null,
+      "name": "Giant Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Giant Couscous",
+      "quantity": "350",
+      "unit": null,
+      "name": "Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.3 Litres of Vegetable Stock",
+      "quantity": "1300",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Dill (20g)",
+      "quantity": "20",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Cut the fennel into wedges and reserve the fronds. Add to a roasting tray with the cherry tomatoes and drizzle with olive oil and season with salt and pepper, then cook for 20-25 mins, until all the veg is tender and a little charred."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely slice the garlic. Heat 1 tbsp of olive oil in a large pot and cook the garlic over a medium heat until softened and slightly golden. Add the couscous and toast for 2 mins until it starts to smell nutty, then pour in the vegetable stock. Cook according to package instructions, and then finely chop the dill."
+    },
+    {
+      "heading": null,
+      "description": "When everything is ready, serve the brothy couscous in bowls and top with the roasted tomato and fennel, making sure to get all the juices in there too. Top with chopped dill, fennel fronds, black pepper and a drizzle of olive oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-01T08:45:00+01:00"
+}

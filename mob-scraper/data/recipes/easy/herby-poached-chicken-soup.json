@@ -1,0 +1,301 @@
+{
+  "id": "5171391",
+  "slug": "herby-poached-chicken-soup",
+  "title": "Herby Poached Chicken Soup",
+  "url": "https://www.mob.co.uk/recipes/herby-poached-chicken-soup",
+  "summary": "A herbaceous and soul-affirming chicken soup recipe. Poaching your chicken is a great way to get it incredibly tender.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Herby-Poached-Chicken-Soup.jpg",
+  "cook_time": 120,
+  "prep_time": 15,
+  "total_time": 135,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 420,
+    "protein": 27,
+    "fat": 13,
+    "saturated_fat": 3,
+    "carbohydrates": 51,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 233
+  },
+  "ingredients": [
+    {
+      "label": "1 Chicken",
+      "quantity": "1",
+      "unit": null,
+      "name": "Whole Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bulb of Fennel",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Fresh Ginger",
+      "quantity": "40",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bulb Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Rosemary",
+      "quantity": "25",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Bay Leaves",
+      "quantity": "20",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seed",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coriander Seed",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Pasta",
+      "quantity": "350",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Leek",
+      "quantity": "1",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fennel Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spring Onions",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6-7 Dill Pickles",
+      "quantity": "6",
+      "unit": null,
+      "name": "Dill Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Crème Fraîche",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Chilli Flakes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pop your chicken in your largest saucepan or stock pot. Roughly chop the fennel, ginger, shallots (skin-on), carrots and halve the bulb of garlic. Drop in the herbs and spices plus a heaping handful of salt and 1 tbsp of whole black peppercorns."
+    },
+    {
+      "heading": null,
+      "description": "Cover the whole lot with cold water and pop a lid on. Set over a medium-high heat and bring to a boil. Reduce to a simmer and cook for 5-6 mins before removing from the heat and leaving, still covered, on the stove for 90 minutes. By the time you come back to the chicken, it will be fully cooked, gently poached in the residual heat."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the chicken is poaching, prep the finishing veggies. Cut the celery, leek, fennel, carrot and spring onions into bite size pieces. Roughly chop the dill and pickles, too."
+    },
+    {
+      "heading": null,
+      "description": "Once your chicken is cooked, remove from the broth and allow it to rest for 10 mins. Pass the broth through a fine sieve into a clean saucepan and set over a high heat. Bring to a boil and reduce by half to intensify the flavour."
+    },
+    {
+      "heading": null,
+      "description": "Shred the meat from the cooked chicken and cut into bite sized pieces. Once your broth has reduced, tip in the pasta and the fennel, carrot, leek and celery and cook for 8-9 mins until al dente. When the pasta is cooked, stir through the spring onions, dill and chopped pickles. Season well with salt and black pepper and divide between warm bowls."
+    },
+    {
+      "heading": null,
+      "description": "Finish each bowl with a spoon of crème fraîche and a pinch of chilli flakes."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-17T11:08:00+00:00"
+}

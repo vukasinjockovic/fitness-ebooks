@@ -1,0 +1,177 @@
+{
+  "id": "7673428",
+  "slug": "ancho-chicken-brothy-rice",
+  "title": "Ancho Chilli Chicken Brothy Rice",
+  "url": "https://www.mob.co.uk/recipes/ancho-chicken-brothy-rice",
+  "summary": "Smoky, zesty, and full of beans, this speedy chipotle chicken broth hits all the comfort buttons.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/8/Ancho-Chilli-Chicken-Brothy-Rice.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 470,
+    "protein": 29,
+    "fat": 15,
+    "saturated_fat": 3,
+    "carbohydrates": 54,
+    "dietary_fibre": 7,
+    "sugars": 6,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Jasmine Rice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cooked Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Jasmine Rice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Chicken Stock",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "saLT",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Before you begin, make the Ancho Chilli Chicken Traybake batch recipe."
+    },
+    {
+      "heading": null,
+      "description": "Separate the chicken and peppers from the beans in the traybake. Shred the chicken, thinly slice the garlic, and pick the coriander leaves, thinly slicing the stems."
+    },
+    {
+      "heading": null,
+      "description": "Set a saucepan over a medium heat with a drizzle of olive oil. Once hot, add the tomato purée, garlic, and coriander stems. Cook for a couple of minutes until softened and the purée has darkened."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the chipotle paste, chicken stock, shredded chicken, and peppers. Leave on the heat until piping hot, then reduce to low. Season to taste with salt, black pepper, and a squeeze of lime juice."
+    },
+    {
+      "heading": null,
+      "description": "Stir the beans through the cooked rice and reheat until steaming."
+    },
+    {
+      "heading": null,
+      "description": "Share the rice between bowls, ladle over the broth, and top with the shredded chicken and peppers. Finish with the coriander leaves and serve with any remaining lime wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-08-27T16:30:00+01:00"
+}

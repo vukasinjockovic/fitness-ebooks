@@ -1,0 +1,179 @@
+{
+  "id": "4643297",
+  "slug": "aloo-paratha-toastie",
+  "title": "Aloo Paratha Toastie",
+  "url": "https://www.mob.co.uk/recipes/aloo-paratha-toastie",
+  "summary": "The most flavourful, double carb toastie. Filled with potato, cheese, spices and pure bliss. Dunk the toastie into your favourite chutney for a 360° experience of deliciousness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Aloo-Paratha-Toastie.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 20,
+    "fat": 28,
+    "saturated_fat": 15,
+    "carbohydrates": 56,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 563
+  },
+  "ingredients": [
+    {
+      "label": "400g Potatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Hot Green Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garam Masala",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Grated Cheddar Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Grated Cheddar Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "95g Grated Mozzarella",
+      "quantity": "95",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "95g Grated Mozzarella",
+      "quantity": "95",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Bread",
+      "quantity": "8",
+      "unit": null,
+      "name": "White Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Butter",
+      "quantity": "80",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "With a fork, stab the potatoes all over. Place them onto a plate and microwave at 800W for 6 mins, turn the potato and keep microwaving for 3 min intervals until cooked through and soft."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, trim and finely chop the chilli and coriander. Add both into a bowl with the garam masala and cumin seeds."
+    },
+    {
+      "heading": null,
+      "description": "Once the potatoes are soft, halve and scoop out the flesh into the spices. Lightly mash, leaving some bits in and let cool down slightly. Once cooled down a little, stir through both cheeses. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Butter the bread on both sides. Share the potato mixture onto 4 slices of bread and top with a slice of bread."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan over medium heat. Once hot, add the sandwiches in and cook on both sides until golden and the cheese has melted, 5-7 mins – if it’s browning too quickly, turn the heat down."
+    },
+    {
+      "heading": null,
+      "description": "Slice the toasties in half and serve with your favourite dip or chutney."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-06T10:45:00+00:00"
+}

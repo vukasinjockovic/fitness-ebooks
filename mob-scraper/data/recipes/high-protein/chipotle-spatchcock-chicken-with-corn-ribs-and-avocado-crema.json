@@ -1,0 +1,271 @@
+{
+  "id": "2361750",
+  "slug": "chipotle-spatchcock-chicken-with-corn-ribs-and-avocado-crema",
+  "title": "Chipotle Spatchcock Chicken with Corn Ribs and Avocado Crema",
+  "url": "https://www.mob.co.uk/recipes/chipotle-spatchcock-chicken-with-corn-ribs-and-avocado-crema",
+  "summary": "This spicy barbecue chicken is a summer party showstopper. Cooked on a gorgeous Weber barbecue and served with crispy corn ribs, avo crema, and tomato salsa.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9675-5.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 44,
+    "fat": 36,
+    "saturated_fat": 8,
+    "carbohydrates": 15,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "2 Tsp Chipotle Chilli Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chipotle Chilli Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Limes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Whole Chicken",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Whole Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Whole Chicken",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeno",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sour Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Corns On The Cob",
+      "quantity": "2",
+      "unit": null,
+      "name": "Corn On The Cob",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Set up you Weber barbecue for indirect cooking and preheat to 200°C, or heat your oven to 200°C/400°F."
+    },
+    {
+      "heading": null,
+      "description": "Combine your chipotle chilli paste, cumin, coriander, smoked paprika and the zest and juice of ½ lime in a bowl with a good pinch of salt and 1 tbsp of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Chicken time. Lay the chicken on your chopping board breast-side down then, using a pair of scissors, cut either side of the backbone to remove it. Once the bone is removed, turn the chicken breast-side up and, using your hands, apply some weight to the chicken to flatten it."
+    },
+    {
+      "heading": null,
+      "description": "Rub your chipotle marinade all over your chicken."
+    },
+    {
+      "heading": null,
+      "description": "Place the chicken breast-side up on the barbecue over the area with no direct heat, or on a tray in the oven. If roasting in the oven, cook for 45 mins until cooked through. For the Weber barbecue, cook the chicken breast-side up for 40 mins with the lid down."
+    },
+    {
+      "heading": null,
+      "description": "Flip the chicken and finish cooking it breast-side down for 10 mins over a direct heat. Remove from the barbecue when the internal temperature reaches 73°C. Let the chicken rest for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Make your jalapeño crema. Roughly chop your jalapeño and your avocados. Pop them in a blender along with your sour cream, the juice of 1 lime and a pinch of salt, then blend to combine. Check the seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice your red onion. Halve your cherry tomatoes. Finely chop your coriander."
+    },
+    {
+      "heading": null,
+      "description": "Add your tomatoes to a bowl with the juice of 1 lime and a pinch of salt, then scrunch up with your hands. Add your tomatoes and toss to combine."
+    },
+    {
+      "heading": null,
+      "description": "Cut your corn into ribs, then rub them with salt and olive oil. Whack those on the barbecue over a direct heat for the final 20 mins of the chicken cooking. If cooking in the oven, place them on a baking tray and cook for the final 20 mins of the chicken cooking, turning them halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Place your chicken on a platter and surround it with your tomato salsa, corn ribs and a bowl of avocado crema. Sprinkle with a little coriander, then carve up the chicken and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-08-09T10:48:00+01:00"
+}

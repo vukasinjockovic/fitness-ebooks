@@ -1,0 +1,252 @@
+{
+  "id": "7052874",
+  "slug": "egg-fried-quinoa-bowl",
+  "title": "Egg Fried Quinoa Bowl",
+  "url": "https://www.mob.co.uk/recipes/egg-fried-quinoa-bowl",
+  "summary": "A high protein, high fibre quinoa bowl that's perfect for a post-workout meal. Plus, it tastes amazing. There's no downside to this meal prep-friendly recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Egg-Fried-Quinoa-Bowl.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 44,
+    "fat": 29,
+    "saturated_fat": 5,
+    "carbohydrates": 56,
+    "dietary_fibre": 11,
+    "sugars": 7,
+    "sodium": 1022
+  },
+  "ingredients": [
+    {
+      "label": "130g quinoa",
+      "quantity": "130",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g edamame",
+      "quantity": "200",
+      "unit": null,
+      "name": "Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp soy sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 cloves garlic,",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 cloves garlic,",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g ginger,",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp water",
+      "quantity": "3",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "260g firm tofu",
+      "quantity": "260",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "260g firm tofu",
+      "quantity": "260",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sriracha",
+      "quantity": null,
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Toasted sesame seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ground White Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the quinoa according to package instructions. Five minutes before the end of the cooking time, add the edamame. Drain and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Grate your garlic and ginger. Dice your tofu, cut your broccoli into small florets, and roughly chop your coriander."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, toss the diced tofu with olive oil, salt, and white pepper. Air fry at 200°C for 10 minutes until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Heat a little oil in a large pan over high heat. Add the broccoli and cook for a few minutes until starting to char."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic and ginger, cooking for another minute, then pour in the soy sauce and water. Simmer until reduced."
+    },
+    {
+      "heading": null,
+      "description": "Push the vegetables to one side of the pan and crack in the eggs. Stir to scramble until just cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Mix in the quinoa and edamame, stirring everything together."
+    },
+    {
+      "heading": null,
+      "description": "Plate up and top with crispy tofu, sriracha, coriander, and sesame seeds, if using."
+    }
+  ],
+  "tips": [
+    "If you don’t have an air fryer, pan-fry the tofu until golden and crispy.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days.",
+    "Reheat gently in a pan or microwave before serving.",
+    "Not suitable for freezing.",
+    "Swap tofu for chicken or tempeh for a different protein option.",
+    "Use tamari instead of soy sauce for a gluten-free version.",
+    "Replace quinoa with brown rice or cauliflower rice."
+  ],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-12T12:00:00+00:00"
+}

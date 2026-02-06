@@ -1,0 +1,149 @@
+{
+  "id": "4741216",
+  "slug": "fried-christmas-pudding",
+  "title": "Fried Christmas Pudding & Bay Custard",
+  "url": "https://www.mob.co.uk/recipes/fried-christmas-pudding",
+  "summary": "The best way to eat leftover Christmas pudding! Pan-frying slices of leftover Christmas pudding in a bit of butter and brown sugar helps the edges go all chewy and caramelised – and these are so good served with a bay-infused custard.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Fried-Christmas-Pudding-Bay-Custard.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 8,
+    "fat": 19,
+    "saturated_fat": 10,
+    "carbohydrates": 65,
+    "dietary_fibre": 2,
+    "sugars": 48,
+    "sodium": 260
+  },
+  "ingredients": [
+    {
+      "label": "4 Slices of Christmas Pudding (Around 1-Inch Thick)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Christmas Pudding",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Salted Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Muscovado Sugar (Or Light Brown Sugar)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Muscovado Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Bay Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Whole Milk",
+      "quantity": "500",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Caster Sugar",
+      "quantity": "90",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Egg Yolks",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Fine Sea Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Fine Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by infusing the milk for the custard. Add the milk, bay leaves and half of the sugar to a heavy-bottomed saucepan and heat until steaming. Remove from the heat and leave to infuse for at least 20 mins (longer is ideal, if you have the time)."
+    },
+    {
+      "heading": null,
+      "description": "To make the custard, heat the milk back up to steaming, then carefully remove the bay leaves. In a separate bowl, whisk together the egg yolks, remaining sugar and cornflour until smooth and slightly lightened in colour. Whisk in around a quarter of the hot milk, followed by the rest. Pour the custard back into the saucepan and place on a very gentle heat and stir continuously with a spatula until the mixture thickens and coats the back of a spoon (this is likely to take a good 10 to 15 mins). Pour the custard through a sieve into a jug and then cover the top with cling film to stop a skin forming. Place aside whilst you get on with the fried Christmas pudding."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan on a medium heat. Whilst the pan is heating up, sprinkle the brown sugar over the slices of Christmas pudding. Once the pan is hot, add the butter (it should immediately start to foam) followed by the slices of Christmas pudding. Fry for 2 to 3 mins on each side, until the edges have caramelised."
+    },
+    {
+      "heading": null,
+      "description": "To serve, pour the custard into shallow bowls then place a slice of fried Christmas pudding in the middle of each bowl."
+    }
+  ],
+  "tips": [
+    "When making custard, half sugar in with milk helps to stop it catching.",
+    "Traditional creme anglaise wouldn't have cornflour but it’s super helpful for stabilising the whole thing and adding a little body."
+  ],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Alexina Anatole",
+      "uri": "chefs/alexina-anatole",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-11T11:15:00+00:00"
+}

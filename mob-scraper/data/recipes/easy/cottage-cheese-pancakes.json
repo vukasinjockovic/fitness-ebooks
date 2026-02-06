@@ -1,0 +1,208 @@
+{
+  "id": "6743539",
+  "slug": "cottage-cheese-pancakes",
+  "title": "Cottage Cheese Pancakes",
+  "url": "https://www.mob.co.uk/recipes/cottage-cheese-pancakes",
+  "summary": "There is no better way to start your day than with a plate of pancakes. We’ve made a few simple swaps to make these more nutritious than your classic pancakes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Cottage-Cheese-Pancakes.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 232,
+    "protein": 11,
+    "fat": 9,
+    "saturated_fat": 2,
+    "carbohydrates": 27,
+    "dietary_fibre": 3,
+    "sugars": 8,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "50g Oats",
+      "quantity": "50",
+      "unit": null,
+      "name": "Oats",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Banana",
+      "quantity": "1",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cottage Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cottage Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cottage Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Baking Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Water",
+      "quantity": null,
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Frozen Raspberries",
+      "quantity": null,
+      "unit": null,
+      "name": "Frozen Raspberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Walnuts",
+      "quantity": null,
+      "unit": null,
+      "name": "Walnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Figs",
+      "quantity": null,
+      "unit": null,
+      "name": "Fig",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Honey",
+      "quantity": null,
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the oats to a blender and process into a flour."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining pancake ingredients to the blender and blitz until smooth. The batter should be thick but pourable so add a splash of water if needed."
+    },
+    {
+      "heading": null,
+      "description": "To a hot pan, add a little splash of olive oil then a couple of tablespoons of pancake batter per pancake."
+    },
+    {
+      "heading": null,
+      "description": "Cook for a few minutes on each side and serve with toppings of your choice. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-02T10:46:00+01:00"
+}

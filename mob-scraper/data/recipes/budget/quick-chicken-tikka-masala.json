@@ -1,0 +1,311 @@
+{
+  "id": "12035",
+  "slug": "quick-chicken-tikka-masala",
+  "title": "Quick Chicken Tikka Masala",
+  "url": "https://www.mob.co.uk/recipes/quick-chicken-tikka-masala",
+  "summary": "A really quick, easy take on the classic. The key here is to get that chicken nice and charred before it goes in to the curry.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/Screen-Shot-2020-02-18-at-13.16.28.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 701,
+    "protein": 36,
+    "fat": 18,
+    "saturated_fat": 5,
+    "carbohydrates": 97,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 52
+  },
+  "ingredients": [
+    {
+      "label": "8 Skinless, Boneless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Skinless, Boneless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Coriander",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Plain Yogurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Brown Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Single Cream",
+      "quantity": "125",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Passata",
+      "quantity": "500",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Basmati Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Start by making the chicken marinade. Place the chicken thighs in a bowl. Add the ground turmeric, chilli powder, ground coriander and garam masala. Grate in the garlic and add the yoghurt. Season with salt and pepper, add a drizzle of olive and mix everything together. Cover and leave to marinate for 30 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Time to get on with the curry sauce. Slice up the brown onions. Add to a large pan with a good drizzle of olive oil. Cook on a medium heat until the onions are lovely and caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the garlic clove and knob of ginger then add to the onions and cook for a minute until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the turmeric, chilli powder, ground coriander and garam masala to the pan and cook for 30 seconds until fragrant. Stir through the tomato purée, followed by the passata and water. Give it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the single cream, stir it through and bring the sauce to the boil. Once it is bubbling, turn it down. Let it simmer away so it can thicken."
+    },
+    {
+      "heading": null,
+      "description": "Get your rice on (follow pack instructions)."
+    },
+    {
+      "heading": null,
+      "description": "Chicken time. Heat a griddle pan. Once very hot, add your chicken thighs in batches. Cook on a high heat for 4 minutes on each side, until charred. Place the char-grilled thighs in the oven for 10 mins or until they are cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Place the chicken on a board and cut into big pieces. Add to the curry sauce and fold everything together. Season the curry with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Serve the chicken tikka masala over a bed of steaming rice. Garnish with some chopped coriander. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-09-13T00:00:00+01:00"
+}

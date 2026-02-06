@@ -1,0 +1,284 @@
+{
+  "id": "3588149",
+  "slug": "spiced-lamb-meatball-orzo",
+  "title": "Spiced Lamb Meatball Orzo",
+  "url": "https://www.mob.co.uk/recipes/spiced-lamb-meatball-orzo",
+  "summary": "This is one of those insanely comforting dishes that you can eat all year round. Plump little meatballs. Rich tomato orzo. Lemony crème fraîche. A beauty.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/Spiced-Lamb-Meatball-Orzo.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 37,
+    "fat": 28,
+    "saturated_fat": 10,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "400g Lamb Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Lamb Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Breadcrumbs",
+      "quantity": "50",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml White Wine",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cirio Passata",
+      "quantity": "500",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Orzo",
+      "quantity": "400",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Orzo",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Crème Fraîche",
+      "quantity": "50",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grate ½ the onion. Combine with breadcrumbs in a large mixing bowl and leave to sit and hydrate for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your parsley."
+    },
+    {
+      "heading": null,
+      "description": "Into the mixing bowl with the breadcrumbs, add your lamb mince, parsley, cinnamon, and plenty of salt and pepper. Combine with your hands."
+    },
+    {
+      "heading": null,
+      "description": "Roll into golf-ball sized balls. Fry for about 3 mins until they have taken on some colour on the outside, but aren’t totally cooked through. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice your remaining onion. Finely chop your garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add a glug of olive oil to a wide casserole dish, then tip in your onions. Cook for about 15 mins on a medium heat until caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic and chilli flakes in with the caramelised onions, and cook for another 2 mins. Pour in your white wine and let it reduce by half. Add your passata and the water, then simmer for 15 mins on a low heat."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pan of salted water to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Tip your orzo into the water and cook for 7 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add your meatballs to the tomato sauce and gently simmer for another 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Drain your orzo. Gently mix with the sauce and meatballs to combine, adding some pasta water to loosen it up where necessary. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Combine the zest and juice of ½ the lemon in a bowl with your crème fraîche. Drizzle this over the top of the orzo, then top with grated parmesan, fresh basil leaves and more black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "High Fibre",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-20T16:55:00+01:00"
+}

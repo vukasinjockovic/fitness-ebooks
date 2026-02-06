@@ -1,0 +1,199 @@
+{
+  "id": "12532",
+  "slug": "mishas-meaty-meatballs",
+  "title": "Misha's Meaty Meatballs",
+  "url": "https://www.mob.co.uk/recipes/mishas-meaty-meatballs",
+  "summary": "Created by Ben's best friend. Lamb mince works perfectly here. So simple. Delicious, rich meatballs on a bed of herby, steaming rice. Give it a pop.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A1791.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 29,
+    "fat": 27,
+    "saturated_fat": 8,
+    "carbohydrates": 77,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 203
+  },
+  "ingredients": [
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Breadcrumbs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Plum Tomatoes (2 Tins)",
+      "quantity": "800",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tsp Harissa Paste",
+      "quantity": "5",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Whole Milk",
+      "quantity": "6",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add your breadcrumbs to a bowl. Cover with twice the amount of whole milk. Set aside and wait until the crumbs have soaked up the liquid."
+    },
+    {
+      "heading": null,
+      "description": "Add the soaked breadcrumbs to a mixing bowl with 1 crushed garlic clove, lamb mince, a handful of parsley stalks, 3 tsp harissa paste, salt and pepper. Mix everything together. Cover and place in fridge for 15 minutes."
+    },
+    {
+      "heading": null,
+      "description": "After 15 minutes, remove mince from fridge. Divide into little meatballs. Add meatballs to a non-stick frying pan with a splash of oil. Cook until browned on the outside. Remove from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get your rice on (follow pack instructions)."
+    },
+    {
+      "heading": null,
+      "description": "Remove excess oil from pan. Add 2 crushed garlic cloves. Before they start browning, add your tomatoes. Break them up with a spoon. Add 2 tsp of harissa and mix everything together."
+    },
+    {
+      "heading": null,
+      "description": "Reintroduce your meatballs. Stir them in and cook the sauce until it is nice and thick."
+    },
+    {
+      "heading": null,
+      "description": "Once the sauce is thick, add a handful of chopped parsley and basil. Season with salt and pepper, mix everything together and remove the meatballs from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Serve on a bed of steaming hot rice and tuck in! Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Family-Friendly",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-06-25T00:00:00+01:00"
+}

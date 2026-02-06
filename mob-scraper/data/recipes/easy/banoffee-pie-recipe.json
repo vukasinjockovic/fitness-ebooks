@@ -1,0 +1,164 @@
+{
+  "id": "5738130",
+  "slug": "banoffee-pie-recipe",
+  "title": "Banoffee Pie",
+  "url": "https://www.mob.co.uk/recipes/banoffee-pie-recipe",
+  "summary": "You can’t beat a classic banoffee pie recipe. Make sure to stir the condensed milk mixture constantly when making the caramel layer so that it doesn’t catch whilst cooking. This is a delicious dessert that can be eaten all year round, especially in summer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Banoffee-Pie-Recipe.jpg",
+  "cook_time": 10,
+  "prep_time": 20,
+  "total_time": 30,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 573,
+    "protein": 6,
+    "fat": 34,
+    "saturated_fat": 20,
+    "carbohydrates": 61,
+    "dietary_fibre": 1,
+    "sugars": 41,
+    "sodium": 180
+  },
+  "ingredients": [
+    {
+      "label": "200g Butter",
+      "quantity": "200",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Digestive Biscuits",
+      "quantity": "225",
+      "unit": null,
+      "name": "Digestive Biscuit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Soft Light Brown Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Soft Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "397g Can Condensed Milk",
+      "quantity": "397",
+      "unit": null,
+      "name": "Condensed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Sea Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Double Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Just-Ripe Bananas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "32g Cadbury Flake",
+      "quantity": "32",
+      "unit": null,
+      "name": "Cadbury Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get a medium saucepan over a low-medium heat, tip in two-thirds of the butter and let it melt. Get out a 20cm springform cake tin and flip the base upside down so that the flat side is facing up in the tin (this will help you get the pie out more easily later)."
+    },
+    {
+      "heading": null,
+      "description": "Use a food processor to blitz the digestive biscuits (or put in a ziplock bag and crush with a rolling pin) until they resemble fine breadcrumbs then tip them into the melted butter and stir together until all the crumbs are coated."
+    },
+    {
+      "heading": null,
+      "description": "Scrape the buttery biscuit crumbs into the cake tin and use your fingers to evenly push them across the base and up the sides of the tin to create your pie shell. You might like to use the bottom of a glass or mug to help push down and create a compact, even crust. Transfer to the fridge to chill for at least 30 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make your caramel. Wipe out the pan you’ve just used then measure in the remaining butter and the brown sugar. Put over a low heat and leave to melt, stirring occasionally until combined. Pour in the condensed milk then turn up the heat to medium. Stirring constantly, bring to the boil then cook for 2-3 minutes until everything is smooth and combined. You don’t want to boil for much longer than 3 minutes otherwise it will start to become much thicker and toffee-like. You’ll need to keep stirring the whole time to make sure the caramel doesn’t catch on the bottom –a silicone spatula works well for this!"
+    },
+    {
+      "heading": null,
+      "description": "Pour the hot caramel into the chilled biscuit base, sprinkle over some sea salt then return to the fridge for at least an 4-5 hours until set, or preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "Once your caramel is set and you’re ready to assemble the rest of the pie, whisk the double cream with the vanilla extract until it’s just holding its shape. Slice the bananas into 1cm rounds."
+    },
+    {
+      "heading": null,
+      "description": "Lay the sliced bananas on top of the set caramel then top with the cream and crumble over the flake, or grate over the chocolate. The banoffee pie is now ready to serve or will keep in the fridge for up to 2 days."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-04T08:38:00+01:00"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "7076147",
+  "slug": "miso-salmon-noodles-lunchbox",
+  "title": "Miso Salmon & Noodles",
+  "url": "https://www.mob.co.uk/recipes/miso-salmon-noodles-lunchbox",
+  "summary": "These miso salmon noodles are seriously hard to beat. Fresh, tasty, and packed with protein, and great for meal prep.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Miso-Salmon-Noodles-Lunchbox.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 857,
+    "protein": 38,
+    "fat": 47,
+    "saturated_fat": 7,
+    "carbohydrates": 74,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 1207
+  },
+  "ingredients": [
+    {
+      "label": "400g dried udon noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Dried Udon Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g tahini",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ sheet nori seaweed",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml shoyu soy sauce",
+      "quantity": "30",
+      "unit": null,
+      "name": "Shoyu Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g ice cubes",
+      "quantity": "40",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml rice vinegar",
+      "quantity": "20",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 salmon fillets, skin on",
+      "quantity": "4",
+      "unit": null,
+      "name": "Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 salmon fillets, skin on",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g white miso paste",
+      "quantity": "45",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g white miso paste",
+      "quantity": "45",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp mirin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp maple syrup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp lemon zest",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Zest",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp fresh ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp chilli oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp rice vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp sesame seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 spring onions",
+      "quantity": "20",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g fresh ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp sea salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp MSG (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG (optional)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml vegetable oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large pan of water to the boil and cook the noodles according to packet instructions. Once cooked, drain and rinse thoroughly under cold running water. Add the tahini, soy sauce, ice cubes, rice vinegar and nori to a blender. Blitz until smooth and creamy. Toss the cold noodles through the dressing until well coated. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the grill to medium-high. In a bowl, mix together the miso, mirin, maple syrup, lemon zest and grated ginger. Add the salmon fillets and coat thoroughly. You can marinate for up to 24 hours or use straight away. Place the salmon fillets, skin-side down, on a foil-lined baking tray. Grill for 7–10 mins, until lightly charred and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Make the cucumber salad. Finely slice the cucumber and add to a bowl with the chilli oil, rice vinegar, sesame seeds, and a good pinch of salt. Toss to coat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Prepare the spring onion dressing. Finely slice the spring onions and mince the ginger. Place in a heatproof bowl with the salt, MSG (if using), and sugar. Heat the oil in a small pan over high heat until smoking hot. Carefully pour it over the spring onion mix and allow it to sizzle. Stir well and let sit for at least 5 mins to infuse."
+    },
+    {
+      "heading": null,
+      "description": "Divide the noodles between containers. Top with grilled salmon and cucumber salad, then drizzle generously with the hot spring onion dressing."
+    }
+  ],
+  "tips": [
+    "Keeps fresh in the fridge for up to 3 days.",
+    "Store noodles, salmon, and dressing separately for best results.",
+    "Serve cold or let the salmon come to room temperature for lunchboxes.",
+    "Cooked salmon can be frozen separately for up to 2 months.",
+    "Do not freeze the noodles, cucumber salad or spring onion dressing — these are best made fresh.",
+    "Defrost salmon overnight in the fridge and add to freshly prepared noodles before serving.",
+    "Udon noodles → Soba or rice noodles for a gluten-free option",
+    "Tahini → Smooth peanut butter or cashew butter",
+    "Shoyu soy sauce → Tamari or light soy",
+    "Maple syrup → Honey or agave syrup",
+    "Salmon → Tofu or tempeh for a vegetarian version",
+    "Nori → Omit or sub with a sprinkle of furikake or sesame"
+  ],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Packed Lunch",
+    "Family-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-12T09:23:00+01:00"
+}

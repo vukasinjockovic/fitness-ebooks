@@ -1,0 +1,160 @@
+{
+  "id": "7191286",
+  "slug": "veggie-chilli-burrito-bowl",
+  "title": "Veggie Chilli Burrito Bowl",
+  "url": "https://www.mob.co.uk/recipes/veggie-chilli-burrito-bowl",
+  "summary": "The easiest burrito bowl you'll ever make. Using our Veggie Chili Sin Carne leftovers served over rice, topped with cheddar cheese, salsa, and crunchy lettuce. Huge flavors, minimal effort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Veggie-Chilli-Burrito-Bowl.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 484,
+    "protein": 20,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 54,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "250g Cooked Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Tomato Salsa",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tomato Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Tomato Salsa",
+      "quantity": "100",
+      "unit": null,
+      "name": "Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Little Gem Lettuce",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Little Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Veggie Chili Sin Carne."
+    },
+    {
+      "heading": null,
+      "description": "Warm the leftover Veggie Chili Sin Carne in a saucepan set over a low heat, stirring occasionally until piping hot. If it’s thickened in the fridge, add a splash of water to loosen it. Meanwhile, reheat the rice following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, grate the cheddar and thinly slice the lettuce."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between bowls. Top with the veggie chilli, grated cheddar, tomato salsa, soured cream and shredded lettuce. Serve with a wedge of lime."
+    }
+  ],
+  "tips": [
+    "Swap the cheddar for vegan cheese to make it plant-based.",
+    "Use brown rice or quinoa for extra fibre.",
+    "Add avocado or guacamole for extra richness."
+  ],
+  "categories": [],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-13T13:08:00+01:00"
+}

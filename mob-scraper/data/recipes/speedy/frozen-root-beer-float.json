@@ -1,0 +1,108 @@
+{
+  "id": "3406537",
+  "slug": "frozen-root-beer-float",
+  "title": "Frozen Root Beer Float",
+  "url": "https://www.mob.co.uk/recipes/frozen-root-beer-float",
+  "summary": "A frozen root beer float means a cocktail and a dessert all at once. I add bourbon, but a dark rum would be just as good. Stay frosty. B x",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9504-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 261,
+    "protein": 2,
+    "fat": 4,
+    "saturated_fat": 2,
+    "carbohydrates": 34,
+    "dietary_fibre": null,
+    "sugars": 33,
+    "sodium": 74
+  },
+  "ingredients": [
+    {
+      "label": "2 x 375ml Bottles of Root Beer, We Like Bundaberg",
+      "quantity": "750",
+      "unit": null,
+      "name": "Root Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Bourbon Whiskey",
+      "quantity": "100",
+      "unit": null,
+      "name": "Bourbon Whiskey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Scoops of Vanilla Ice Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vanilla Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Scoops of Vanilla Ice Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pop open one of your root beers and fill an ice cube tray, cover and freeze until solid."
+    },
+    {
+      "heading": null,
+      "description": "Empty the ice into a blender and add the bourbon and a good glug of extra root beer."
+    },
+    {
+      "heading": null,
+      "description": "Whizz until thick and slushy, add a little more root beer if you need to get it going."
+    },
+    {
+      "heading": null,
+      "description": "Divide between glasses and top with a scoop of vanilla ice cream."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-05-14T18:00:00+01:00"
+}

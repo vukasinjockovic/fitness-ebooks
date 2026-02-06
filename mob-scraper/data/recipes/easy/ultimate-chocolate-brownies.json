@@ -1,0 +1,158 @@
+{
+  "id": "6798141",
+  "slug": "ultimate-chocolate-brownies",
+  "title": "Ultimate Chocolate Brownies",
+  "url": "https://www.mob.co.uk/recipes/ultimate-chocolate-brownies",
+  "summary": "Meet your new favourite chocolate brownie recipe. They’re fudgy and gooey with crispy tops, and so easy to make.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Chocolate-Brownies.jpg",
+  "cook_time": 20,
+  "prep_time": 25,
+  "total_time": 45,
+  "serving_size": 24,
+  "nutrition": {
+    "calories": 163,
+    "protein": 3,
+    "fat": 10,
+    "saturated_fat": 5,
+    "carbohydrates": 15,
+    "dietary_fibre": 2,
+    "sugars": 11,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "5 medium eggs",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g 70% dark chocolate",
+      "quantity": "300",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g room temp unsalted butter",
+      "quantity": "300",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g caster sugar",
+      "quantity": "400",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g cocoa powder",
+      "quantity": "80",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130g self-raising flour",
+      "quantity": "130",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g plain flour",
+      "quantity": "70",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Pistachios",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C fan. Line a 25cm square tin with baking parchment. Roughly chop the dark chocolate into 2-3cm pieces. Roughly chop the pistachios. Make sure your butter is at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, whisk together the cocoa powder and sifted flours until combined."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, whisk the eggs. Add the chocolate pieces to the same bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a small pan over a low heat. Once melted, add the sugar and stir over a low heat until dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Pour the hot butter into the bowl with the chocolate and eggs and stir until the chocolate has melted. Use an electric whisk to beat the mixture for 3–4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the cocoa and flour mix to the chocolate and butter mix. Use a spoon or spatula to gently fold the ingredients together. Stir in the pistachios."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the batter to your prepared tin. Bake in the oven for 18 mins, or until you have a crisp top and a middle that wobbles when you gently shake the tray."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and leave to cool and set in the tin before transferring to a plate. Eat them warm, or keep them in the fridge for later."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-04T11:30:00+01:00"
+}

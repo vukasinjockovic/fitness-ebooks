@@ -1,0 +1,321 @@
+{
+  "id": "7115931",
+  "slug": "lunchbox-poached-chicken-breast-garlic-rice-spring-onion-sauce",
+  "title": "Poached Chicken, Garlic Rice & Spring Onion Sauce",
+  "url": "https://www.mob.co.uk/recipes/lunchbox-poached-chicken-breast-garlic-rice-spring-onion-sauce",
+  "summary": "These perfectly juicy chicken breasts are actually super easy to make, served with garlicky rice and an addictive spring onion sauce they make a great make-ahead lunch to take to work.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Lunch-Box-Poached-Chicken-Breast-Garlic-Rice-Spring-Onion-Sauce.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 427,
+    "protein": 31,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 48,
+    "dietary_fibre": 2,
+    "sugars": 5,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "400g Jasmine Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Jasmine Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Salted Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480ml Chicken Stock",
+      "quantity": "480",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2L Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fine Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Breasts",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Breasts",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 Spring Onions",
+      "quantity": "20",
+      "unit": null,
+      "name": "Small Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fine Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Msg",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Vegetable Oil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crispy Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "sesame seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the rice. Wash the rice two or three times until the water runs clear. Roughly chop the shallots into chunks and peel the garlic cloves. Throw both into a food processor and pulse until finely chopped (or finely chop by hand)."
+    },
+    {
+      "heading": null,
+      "description": "Pop a medium sized saucepan over a medium heat and add the butter. Once melted, throw in the shallot and garlic mix and cook for 10-12 mins until caramelised. Add the salt and sugar and cook for a further minute. Deglaze the pan with the dark soy sauce, scraping up any browned bits on the bottom."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the washed rice followed by the chicken stock. Bring to the boil then pop the lid on and reduce the heat to as low as possible. Cook for 12 mins, then turn the heat off and let sit for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "For the chicken, pop the water, spring onions, garlic cloves and salt in a large saucepan, set over a high heat and bring to the boil. Once boiling, throw in the chicken breasts, bring back to a simmer, pop the lid on and turn off the heat. Leave untouched for 25 mins. The residual heat will cook the chicken. Then, using tongs, remove the chicken from the liquid and set aside to cool. Once cool enough to handle, slice the chicken."
+    },
+    {
+      "heading": null,
+      "description": "For the sauce, finely slice the spring onions and mince the ginger. Add both to a heatproof bowl along with the salt, MSG and sugar. Heat the vegetable oil over a high heat in a small pan until smoking then carefully pour the hot oil over the spring onion mixture. Mix and set aside to marinate for at least 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "For the garnish, slice up the cucumber and set aside."
+    },
+    {
+      "heading": null,
+      "description": "To store, divide the rice between Tupperware containers and top with the sliced chicken. Pop the cucumber in its own separate container and the spring onion sauce in another. Get everything in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "When ready to eat, pop the chicken and rice container, with the lid loosely on but not sealed, in the microwave for 60 seconds or until piping hot. Let it sit for another 60 seconds before removing the lid. Top with the spring onion sauce and some cucumber slices, and a drizzle of your favourite chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Packed Lunch",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-12T03:30:00+00:00"
+}

@@ -1,0 +1,277 @@
+{
+  "id": "7089349",
+  "slug": "one-pan-sausage-and-roasted-pepper-lasagne",
+  "title": "One-Pan Sausage and Roasted Pepper Lasagne",
+  "url": "https://www.mob.co.uk/recipes/one-pan-sausage-and-roasted-pepper-lasagne",
+  "summary": "An easy, breezy one-pan recipe that the whole family is going to love. If you've never made a ragù from sausages before, you've never lived.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/One-Pan-Sausage-and-Roasted-Pepper-Lasagne_2025-08-29-105242_wtnq.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 34,
+    "fat": 36,
+    "saturated_fat": 16,
+    "carbohydrates": 48,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 1022
+  },
+  "ingredients": [
+    {
+      "label": "245g Roasted Red Peppers",
+      "quantity": "245",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Rosemary Sprigs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Cherry Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Cherry Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Fennel Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mascarpone",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Fresh Lasagne",
+      "quantity": "400",
+      "unit": null,
+      "name": "Fresh Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Fresh Lasagne",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Mozzarella",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes,  optional",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Blitz the drained roasted peppers with water until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion, garlic and rosemary. Squeeze the sausages out of their casings into a pan set over a medium heat. Using the back of a spoon, crumble the sausage into pieces and cook until golden. Using a slotted spoon, remove the sausages and add in a glug of oil along with the onion and garlic and chilli flakes, if using. Add a pinch of salt and cook that out for 8 mins. Add the fennel seeds and rosemary and cook for two more minutes."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the blitzed peppers along with the tinned tomatoes. Add the sausages back in, along with a handful of basil leaves. Season with salt and pepper, then bring to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "Blanche the fresh lasagne sheets for 1 minute in boiling water, then drain."
+    },
+    {
+      "heading": null,
+      "description": "Nestle the lasagne sheets into the ragù, then dot with mascarpone before tearing over the mozzarella and grating over the Parmesan. Slide into the oven and cook for 35-40 mins or until bubbling and golden."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and allow to rest for 5 mins before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-American"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-11T13:48:00+01:00"
+}

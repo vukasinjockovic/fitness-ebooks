@@ -1,0 +1,272 @@
+{
+  "id": "3573875",
+  "slug": "icy-spicy-noodles",
+  "title": "Icy Spicy Noodles",
+  "url": "https://www.mob.co.uk/recipes/icy-spicy-noodles",
+  "summary": "Cold noodles are delicious but have you ever had an ice cold noodle soup? This Korean-inspired dish is so tasty and refreshing. Don't knock it till you try it!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/Screenshot-2022-07-18-at-13.16.28.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 406,
+    "protein": 9,
+    "fat": 2,
+    "saturated_fat": 0,
+    "carbohydrates": 86,
+    "dietary_fibre": 2,
+    "sugars": 10,
+    "sodium": 1207
+  },
+  "ingredients": [
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1l Good-Quality Beef Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Pear Juice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pear Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Soy Sauce",
+      "quantity": "50",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Ice Cubes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Rice Vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Gochujang",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Gochugaru",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochugaru",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Pear",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Pear",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dried Vermicelli Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Dried Vermicelli Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dried Vermicelli Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Kimchi",
+      "quantity": "30",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Quarter the spring onions, slice the ginger and smash the garlic cloves. Place in a saucepan with the beef stock, pear juice and soy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Bring to a simmer over high heat, reduce the heat to medium and cook for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Strain the stock into a large mixing bowl, add the ice cubes and stir to combine."
+    },
+    {
+      "heading": null,
+      "description": "Season with salt, to taste, then store in the fridge until ready to use."
+    },
+    {
+      "heading": null,
+      "description": "Slice the cucumber into small matchsticks."
+    },
+    {
+      "heading": null,
+      "description": "Place in a bowl and toss with 1 tsp salt, then add the rice vinegar and sugar and toss to combine."
+    },
+    {
+      "heading": null,
+      "description": "If you’re making the spicy sauce, place the gochujang, soy sauce, sugar and gochugaru in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Grate in the garlic and pear and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Last bit of cooking. Bring a large pot of water to the boil. Season with salt, add the noodles and cook according to the packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Drain, rinse with cold water and drain again."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, place the noodles in a bowl. Top with some of the pickled cucumber and a pinch of kimchi."
+    },
+    {
+      "heading": null,
+      "description": "Ladle in the cold broth and add some of the spicy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Add a couple of ice cubes, stir to combine, then tuck in and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-18T17:00:00+01:00"
+}

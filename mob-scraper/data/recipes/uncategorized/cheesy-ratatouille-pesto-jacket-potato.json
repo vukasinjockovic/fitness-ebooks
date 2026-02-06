@@ -1,0 +1,145 @@
+{
+  "id": "7200552",
+  "slug": "cheesy-ratatouille-pesto-jacket-potato",
+  "title": "Cheesy Ratatouille & Pesto Jacket Potato",
+  "url": "https://www.mob.co.uk/recipes/cheesy-ratatouille-pesto-jacket-potato",
+  "summary": "Crispy baked spuds loaded with leftover ratatouille, gooey melted cheddar and a sprinkle of fresh chives. The perfect fuss-free comfort food for when you want something cosy without the effort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Cheesy-Ratatouille-Pesto-Jacket-Potato.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 400,
+    "protein": 14,
+    "fat": 18,
+    "saturated_fat": 7,
+    "carbohydrates": 44,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 390
+  },
+  "ingredients": [
+    {
+      "label": "2 Maris Piper Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Maris Piper Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cheddar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cheddar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g chives",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Ratatouille."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Heat the ratatouille in a small pan or in the microwave."
+    },
+    {
+      "heading": null,
+      "description": "Poke the potato with a fork all over, then rub with olive oil, salt and pepper. Pop into the oven for 1 hour until soft and fluffy in the middle and crisp on the outside."
+    },
+    {
+      "heading": null,
+      "description": "When the potatoes are cooked, remove them from the oven once they're cool enough to handle. Then, cut a cross in the middle and gently smash them open. Heat the ratatouille in a small pan or the microwave, then spoon it into the middle of the potato. Grate over the cheese and pop back into the oven until melted. If you want a crispier crust on the cheese, slide it under a heated grill."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chives and scatter over the bubbling potato."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-17T13:49:00+01:00"
+}

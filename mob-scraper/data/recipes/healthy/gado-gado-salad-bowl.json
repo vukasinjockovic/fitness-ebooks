@@ -1,0 +1,379 @@
+{
+  "id": "5827086",
+  "slug": "gado-gado-salad-bowl",
+  "title": "Gado Gado Salad Bowl",
+  "url": "https://www.mob.co.uk/recipes/gado-gado-salad-bowl",
+  "summary": "This is our take on a classic Indonesian salad bowl. Featuring crunchy roasted peanuts, various vegetables, and crispy tofu, this is a summery dish that tastes like sunshine.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/220A8234-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 832,
+    "protein": 38,
+    "fat": 48,
+    "saturated_fat": 8,
+    "carbohydrates": 61,
+    "dietary_fibre": 13,
+    "sugars": 22,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "60g Roasted Crunchy Peanut Butter",
+      "quantity": "60",
+      "unit": null,
+      "name": "Crunchy Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tamarind Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tamarind Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tbsp Maple Syrup,",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Kecap Manis or Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Lime Juice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sambal Oelek, Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Tom Yum Paste, Red Curry Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thai Red Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Water",
+      "quantity": "6",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Baby Potatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Baby Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Baby Potatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Beansprouts",
+      "quantity": "150",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Green Beans",
+      "quantity": "150",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tempeh",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tempeh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Firm Tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Firm Tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Sea Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Maple Syrup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Roasted Peanuts",
+      "quantity": "60",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Cherry Tomatoes",
+      "quantity": "12",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Cherry Tomatoes",
+      "quantity": "12",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Iceberg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lime Wedges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Canned Sweetcorn",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sweetcorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fried Shallots",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fried Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Prawn Crackers",
+      "quantity": null,
+      "unit": null,
+      "name": "Prawn Crackers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "If you don’t have roasted peanuts, heat the oven to 160°C. Tip the peanuts onto a baking tray and roast in the oven for 15-20 mins, or until lightly golden, then remove and set aside. Don’t roast them too brown, as they will continue to brown out of the oven."
+    },
+    {
+      "heading": null,
+      "description": "Fill a medium pot with water and season like you would pasta water. Add the baby potatoes and bring to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the tempeh into 1cm-thick pieces, then into matchsticks. Now slice the tofu into 2cm pieces and cut into squares. Finely mince the garlic clove and set aside. Add a shot of oil to a large pan with a good pinch of salt, add all the tofu and tempeh and toss to coat every piece. Cook on each side for 2 mins, or until lightly golden, then add the minced garlic, toss to coat, and cook for 1 min. Add the maple syrup and toss for 30 seconds, then set aside in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the eggs to the boiling water and cook for 7 mins. Remove the potatoes when fork-tender and transfer to a large plate. Remove the eggs into a bowl of cold tap water and lightly crack the shell to soak, then set aside (this helps it peel easier). When the potatoes and egg are removed, add the beansprouts, cook for 2 mins, then remove with a slotted spoon and transfer to the plate. Cut the ends off the green beans, then half them and boil for 2 mins. Remove onto the plate. Now cook the spinach for just 30 seconds, then press against the pot to squeeze out some excess water before adding to the plate."
+    },
+    {
+      "heading": null,
+      "description": "Slice all the cherry tomatoes into halves and set aside on another large plate. Slice the iceberg into ¼ wedges, finely slice the cucumber into slices, slice the potato into ¼ pieces, slice the lime wedges and then peel the eggs, by cracking the shell all over and peeling under the water, then cut in half, and place everything onto the same large plate."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the dressing ingredients in a small bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "To serve, place one layer of iceberg leaves on the base of your serving plates, creating a flower pattern. Squeeze out all the excess water from the spinach and place into a pile on the edge of the plate, then following a circular pattern add a handful of beansprouts, green beans, crispy tofu, tempeh, cherry tomatoes, eggs and cucumber, but leave a gap in the middle for the dressing. Add half the dressing into the centre, then add a heap of sweetcorn on the side. Garnish with roasted peanuts and crispy shallots over the dressing, and serve with a wedge of lime."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indonesian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-27T07:00:00+01:00"
+}

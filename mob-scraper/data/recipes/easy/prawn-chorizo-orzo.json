@@ -1,0 +1,206 @@
+{
+  "id": "2075",
+  "slug": "prawn-chorizo-orzo",
+  "title": "Prawn and Chorizo Orzo",
+  "url": "https://www.mob.co.uk/recipes/prawn-chorizo-orzo",
+  "summary": "Surf and Turf with orzo is a match made in heaven. The freshest, basilly, garlicky tomato sauce. We got all the ingredients for this recipe from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A8251.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 25,
+    "fat": 22,
+    "saturated_fat": 6,
+    "carbohydrates": 66,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "225g Chorizo Ring",
+      "quantity": "225",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chopped Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Easy Chopped Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Orzo",
+      "quantity": "400",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Orzo",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "570ml Chicken Stock",
+      "quantity": "570",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Raw King Prawns",
+      "quantity": "165",
+      "unit": null,
+      "name": "King Prawns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Raw King Prawns",
+      "quantity": "165",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the garlic. Tear all of your chorizo into small pieces and place in a frying pan on a medium heat. Stir the chorizo until crispy (3 minutes). Add the chopped garlic and a tsp of chopped chillies and stir to fully coat the chorizo."
+    },
+    {
+      "heading": null,
+      "description": "Add all of your tomatoes to the frying pan and combine with the chorizo. Sauté for 5 minutes so the tomatoes become soft."
+    },
+    {
+      "heading": null,
+      "description": "Add the orzo to the pan and fold into the chorizo and tomatoes until fully covered. Pour in the chicken stock and stir. Allow the orzo to simmer for 7 minutes, stirring occasionally so it doesn’t stick to the bottom of the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add the prawns, cover and simmer for 5 minutes. At this point, the orzo should be al dente and the prawns should be pink and cooked to perfection. If it needs a bit more time, give it a couple of minutes."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice all of your basil, scattering most of it over the orzo, saving a third for later. Season with a few grinds of pepper, a pinch of salt and give it all a stir."
+    },
+    {
+      "heading": null,
+      "description": "Time to plate up! Spoon the orzo into a bowl and add the second tsp of chopped chillies. Sprinkle the rest of the basil over to garnish with an extra pinch of salt, pepper and a drizzle of olive oil. Dig in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Spanish"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2019-10-30T00:00:00+00:00"
+}

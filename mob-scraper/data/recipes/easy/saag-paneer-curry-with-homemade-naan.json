@@ -1,0 +1,295 @@
+{
+  "id": "5789977",
+  "slug": "saag-paneer-curry-with-homemade-naan",
+  "title": "Saag & Paneer Curry with Homemade Naan",
+  "url": "https://www.mob.co.uk/recipes/saag-paneer-curry-with-homemade-naan",
+  "summary": "A comforting midweek curry that will impress your flatmates and family. It’s fully veggie and comes served with homemade naan.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Saag-Paneer-Curry-with-Homemade-Naan.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 429,
+    "protein": 19,
+    "fat": 25,
+    "saturated_fat": 15,
+    "carbohydrates": 29,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 383
+  },
+  "ingredients": [
+    {
+      "label": "200g Self-Raising Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Yoghurt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Paneer",
+      "quantity": "400",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Paneer",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Curry Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Minced Fresh Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g-600g Spinach",
+      "quantity": "500",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Mixed Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ sp Ground Coriander",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Minced Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start with the naan. Put all the ingredients plus a splash of water into a large bowl and mix well. Knead until a dough forms (this will take about 5 mins) and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Dice the paneer into bite-sized cubes. Set a lidded frying pan over a medium-high heat, then add a splash of oil, the paneer, turmeric, curry powder and a pinch of salt. Fry for 5 mins until all sides of the paneer are golden."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the onion, mince or finely chop the garlic, chop the green chillies and chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Remove the cooked paneer from the pan and set aside on a plate. Add the onion, ginger and 3/5 of the minced garlic into the same pan with a pinch of salt. Cook for 7 mins until translucent, then add the spinach and cook with the lid on over a medium heat for 5 mins. Once half reduced, add all the spices and cook for another 10 mins (you can add extra chillies at this point, if you like). Return the paneer to the pan and cook for 5-10 mins, depending on your choice of texture."
+    },
+    {
+      "heading": null,
+      "description": "Combine the butter, the rest of the minced garlic, and the chopped coriander in a bowl. Next, roll out the naan dough balls into flatbread shapes. Set a fresh, large frying pan (non-stick or cast-iron is best) over a high heat, then add one naan at a time. Toast on one side for 3 mins until bubbles have formed, then quickly flip and cook for another 3 mins. At this point, baste in the garlic, coriander and butter mix."
+    },
+    {
+      "heading": null,
+      "description": "Top your curry with fresh chillies and coriander. Serve!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "High Fibre",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nishat Tahsin",
+      "uri": "chefs/nishat-cooks",
+      "summary": "Nishat is a passionate home cook and Biochemistry PhD student based in London. Combining her love for cooking and University life, Nishat uses her social platforms to share south-asian recipes and promote cost-effective student meals."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-08T10:23:00+01:00"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "5687878",
+  "slug": "baked-lemon-custard-brulee",
+  "title": "Baked Lemon Custard Brûlée",
+  "url": "https://www.mob.co.uk/recipes/baked-lemon-custard-brulee",
+  "summary": "Caramel and lemon is an underrated combination – the tang of the ultra-smooth custard plays so well with the bitterness of the caramel. The custard can be made in advance and brûlée’d when you’re ready to serve.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Baked-Lemon-Custard-Bru%CC%82le%CC%81e.jpg",
+  "cook_time": 30,
+  "prep_time": 40,
+  "total_time": 200,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 238,
+    "protein": 5,
+    "fat": 15,
+    "saturated_fat": 9,
+    "carbohydrates": 23,
+    "dietary_fibre": 0,
+    "sugars": 23,
+    "sodium": 54
+  },
+  "ingredients": [
+    {
+      "label": "Peel of 4 Unwaxed Lemons (Thick Pieces)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lemon Peel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g double cream",
+      "quantity": "125",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "145g caster sugar",
+      "quantity": "145",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Whole Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g lemon juice",
+      "quantity": "125",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Caster Sugar",
+      "quantity": null,
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 120°C fan. Arrange the ramekins in a large baking dish with high sides for the water bath."
+    },
+    {
+      "heading": null,
+      "description": "Heat together the lemon peels, double cream and half the sugar until simmering. Remove from the heat and leave for 30 minutes to infuse."
+    },
+    {
+      "heading": null,
+      "description": "Whisk together the eggs and the remaining sugar very well, followed by the infused double cream and the lemon juice. Pass through a fine sieve. Use a spoon to remove any bubbles or foam from the top of the mixture. This can be a painstaking process but it’s important!"
+    },
+    {
+      "heading": null,
+      "description": "Divide the lemon custard among the ramekins, about 150g per ramekin. Boil the kettle, then pour the boiling water carefully into the baking dish until it reaches halfway up the sides of the ramekins."
+    },
+    {
+      "heading": null,
+      "description": "Bake until there is around 2–3cm of good wobble in the centre of your custards. You don’t want to overbake them as this leads to potential cracks later down the line, so just watch out for that. I start checking after 20 mins and then every 5–10 mins after that. Remember it’s better to underbake than overbake in this case!"
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and carefully transfer each ramekin onto a cooling rack. Allow to cool for 1 hour before transferring to the fridge for at least 2 hours or overnight."
+    },
+    {
+      "heading": null,
+      "description": "Just before serving, sprinkle the top of the custard with a thin, even layer of caster or demerara sugar. Caramelise the sugar using a blow torch. You can do several layers if you prefer a thicker crust."
+    },
+    {
+      "heading": null,
+      "description": "Allow the caramelised crust to cool and harden for 5 mins before serving. If you don’t have a blow torch, preheat the grill to high, then place the custard dishes on a baking sheet and grill for 1–2 mins until the sugar caramelises and turns golden brown. Cool and harden as above."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "French",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nicola Lamb",
+      "uri": "chefs/nicola-lamb",
+      "summary": "Nicola Lamb is a pastry chef, recipe developer and food writer. She trained in some of London and New York’s top bakeries, including Dominique Ansel, Ottolenghi, and Little Bread Pedlar, and is the author of ‘Kitchen Projects’, a top food and drink newsletter on Substack. Her debut book, SIFT: The Elements of Great Baking was an instant Sunday Times bestseller, in which she puts her years of baking experience and wisdom to the page in a stunning guide to becoming a better baker."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-31T05:00:00+01:00"
+}

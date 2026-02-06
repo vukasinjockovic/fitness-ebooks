@@ -1,0 +1,161 @@
+{
+  "id": "3480900",
+  "slug": "chorizo-cheese-toastie",
+  "title": "Chorizo Cheese Toastie",
+  "url": "https://www.mob.co.uk/recipes/chorizo-cheese-toastie",
+  "summary": "Chorizo is an absolute flavour bomb, but often recipes only use a small amount, so you have leftovers. There is a perfect way to use them up - this toastie.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A6685-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 755,
+    "protein": 33,
+    "fat": 41,
+    "saturated_fat": 17,
+    "carbohydrates": 59,
+    "dietary_fibre": 4,
+    "sugars": 13,
+    "sodium": 1540
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Hellmann’s Mayonnaise",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Ring Chorizo (200g)",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Rosemary",
+      "quantity": "15",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cheddar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cheddar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Bread",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Runny Honey",
+      "quantity": "4",
+      "unit": null,
+      "name": "Runny Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Runny Honey",
+      "quantity": "4",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the chorizo and add to a frying pan over a medium low heat with a splash of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Dice the onion and mince the rosemary and add to the chorizo. Cook for about 5 mins until soft and fragrant. Empty the contents of the pan into a bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Spread one side of all of the slices of bread with half a tbsp of mayonnaise. Place 4 of the slices mayo side down into the pan. Grate over the cheese and then spread the chorizo mix evenly between all four slices."
+    },
+    {
+      "heading": null,
+      "description": "Top with the remaining slices of bread (mayonnaise side facing up). Cook for about 3 to 4 mins and then flip and repeat on the other side. You want the bread to be golden brown and the cheese melted."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the pan, drizzle over the honey and plate up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-07T12:00:00+01:00"
+}

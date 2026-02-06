@@ -1,0 +1,272 @@
+{
+  "id": "6154453",
+  "slug": "seafood-paella-recipe",
+  "title": "Seafood Paella Recipe",
+  "url": "https://www.mob.co.uk/recipes/seafood-paella-recipe",
+  "summary": "The secret to this seafood paella recipe lies in its flavourful stock. To create an authentic paella de marisco, you start by roasting prawn heads and shells in a cast iron skillet, infusing the rich prawn flavour into the stock used for cooking the rice. This method ensures that every grain of rice is imbued with delicious prawn essence. The process begins with a sofrito of onions, garlic, and tomatoes, which forms the base of the dish. Adding ingredients like mussels, squid, and clams enhances the dish, making it a true showcase of Spanish cuisine. Garnish with parsley and a squeeze of lemon for a vibrant finish. This seafood paella embodies the essence of Spanish food, with each bite offering a taste of the sea. Perfect for a lunch or dinner, this dish will transport you straight to a Spanish restaurant in Valencia.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Seafood-Paella-Recipe.jpg",
+  "cook_time": 70,
+  "prep_time": 15,
+  "total_time": 85,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 19,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 54,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 755
+  },
+  "ingredients": [
+    {
+      "label": "12 Raw, Shell-On King Prawns",
+      "quantity": "12",
+      "unit": null,
+      "name": "Raw King Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Raw, Shell-On King Prawns",
+      "quantity": "12",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Squid",
+      "quantity": "1",
+      "unit": null,
+      "name": "Squid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mussels",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mussel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Fish or Vegetable Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Saffron (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Saffron",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fennel Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Paella Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Paella Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Paella Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml White Wine",
+      "quantity": "150",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Flat-Leaf Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lemon Wedges",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Green Salad",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Salad",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the heads and shells from the prawns and transfer to a small bowl. Clean and gut the squid, if your fishmonger hasn’t already, then cut the body into 1cm rings, and the tentacles into 2-3 pieces. Clean and debeard the mussels, if the fishmonger hasn’t already. Put the prawn bodies, squid and mussels back in the fridge for the time being."
+    },
+    {
+      "heading": null,
+      "description": "Pour 1 tbsp oil into a saucepan set over a high heat and, once hot, add the prawn heads and shells. Fry for 4-5 mins, stirring occasionally until caramelised, then add the tomato purée and cook for 2 mins while stirring. Pour in the stock, add the saffron, if using, and bring to a gentle simmer. Simmer for 30 mins, then use a potato masher to crush the shells and prawn heads as much as possible. Pour into a large jug through a sieve, squeezing as much liquid as possible out. You should have roughly 750ml liquid. If not, add more boiling water to make it up to 750ml."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion and fennel, then peel and finely chop the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat 3 tbsp oil in a large, deep frying pan set over a medium heat and add the onion and fennel with a pinch of salt. Cook for 8-10 mins until they're soft, then scrape in the garlic and scatter in the fennel seeds and cook for 2 mins until smelling amazing."
+    },
+    {
+      "heading": null,
+      "description": "Add the rice and stir to coat each grain in the oil before pouring in the wine and bubbling for a few minutes."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the 750ml of stock, season with salt and pepper and bring to the boil. Put on the lid and cook over a low-medium heat for 20 mins, until the rice is very nearly cooked."
+    },
+    {
+      "heading": null,
+      "description": "Remove the lid and nestle in the prawn bodies, squid pieces and mussels, then put the lid back on and cook for another 6-8 mins until everything is cooked and the mussels have opened."
+    },
+    {
+      "heading": null,
+      "description": "Scatter over the parsley and serve with lemon wedges for squeezing over and a big green salad."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Spanish",
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-18T11:30:00+01:00"
+}

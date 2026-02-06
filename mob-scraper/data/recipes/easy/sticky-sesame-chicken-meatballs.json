@@ -1,0 +1,279 @@
+{
+  "id": "6423691",
+  "slug": "sticky-sesame-chicken-meatballs",
+  "title": "Sticky Sesame Chicken Meatballs",
+  "url": "https://www.mob.co.uk/recipes/sticky-sesame-chicken-meatballs",
+  "summary": "Homemade chicken meatballs are an excellent protein source. We've thrown them together here with a sticky sesame sauce. It's a healthy fakeaway to remember.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A0414-1.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 563,
+    "protein": 37,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 62,
+    "dietary_fibre": 3,
+    "sugars": 15,
+    "sodium": 1707
+  },
+  "ingredients": [
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Golden Breadcrumbs",
+      "quantity": "30",
+      "unit": null,
+      "name": "Golden Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Light Soy Sauce⁣",
+      "quantity": "40",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Dark Soy Sauce⁣",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Honey⁣",
+      "quantity": "40",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice",
+      "quantity": "450",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Rice",
+      "quantity": "450",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Broccoli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crush all the garlic and thinly slice all the spring onions. Combine all the ingredients for the meatballs in a large bowl, then shape into 12 equal-sized balls using wet hands."
+    },
+    {
+      "heading": null,
+      "description": "Heat the air fryer or oven to 180°C. Cook the meatballs for 16 mins (air fryer) or 20 mins (oven) until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, whisk all of the ingredients for the sauce together with 2 tbsp water in a saucepan. Bring to a simmer and cook for around 4 mins until sticky."
+    },
+    {
+      "heading": null,
+      "description": "Toss the cooked meatballs into the sauce and stir to coat."
+    },
+    {
+      "heading": null,
+      "description": "Serve over rice with broccoli."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Family-Friendly",
+    "Accessible Method",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-12T01:00:00+01:00"
+}

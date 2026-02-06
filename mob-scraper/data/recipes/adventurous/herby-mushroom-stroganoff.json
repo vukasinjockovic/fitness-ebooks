@@ -1,0 +1,278 @@
+{
+  "id": "2913172",
+  "slug": "herby-mushroom-stroganoff",
+  "title": "Herby Mushroom Stroganoff",
+  "url": "https://www.mob.co.uk/recipes/herby-mushroom-stroganoff",
+  "summary": "Luxurious, creamy goodness for the plant-based peeps out there. We’ve veganised this paprika-spiked sauce and loaded it with crispy mushrooms.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Herby-Mushroom-Stroganoff.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 420,
+    "protein": 11,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 70,
+    "dietary_fibre": 5,
+    "sugars": 6,
+    "sodium": 370
+  },
+  "ingredients": [
+    {
+      "label": "60g Cashews",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chestnut Mushrooms",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chestnut Mushrooms",
+      "quantity": "350",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Wild Mushrooms",
+      "quantity": "350",
+      "unit": null,
+      "name": "Wild Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Wild Mushrooms",
+      "quantity": "350",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Thyme",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Plain Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Vegetable Stock",
+      "quantity": "600",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1tsp Henderson's Relish",
+      "quantity": "1",
+      "unit": null,
+      "name": "Henderson's Relish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add your cashews to a small saucepan. Cover with cold water, then bring to a gentle simmer. Cook for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely slice your onions. Finely chop your garlic."
+    },
+    {
+      "heading": null,
+      "description": "Chop your chestnut mushrooms into quarters, leaving wild ones whole."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a high heat with a little olive oil. Add your mushrooms in batches so as not to overcrowd the pan. Fry for a few mins on each side until a deep golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large sauté pan over a medium heat. Add a good glug of olive oil, then tip in your onions. Cook gently for about 25 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Once your cashews have cooled, drain them from their liquid. Add them to a blender along with the water, then blitz to a smooth paste."
+    },
+    {
+      "heading": null,
+      "description": "Pick your thyme leaves into the pan with the onions along with your garlic and tomato purée. Cook out for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Tip your flour and paprika into the pan, then cook out for 2 mins more."
+    },
+    {
+      "heading": null,
+      "description": "Pour your veg stock into the pan gradually, beating your mixture to a smooth paste before adding more. Once all your stock is added, bring your mixture to a simmer for 2 mins to thicken. Cook your rice according to package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Add your cashew cream to the pan along with all but a handful of your mushrooms, then bring to mixture to a simmer. Cook for 5 mins to warm the mushrooms through."
+    },
+    {
+      "heading": null,
+      "description": "Add your Henderson's Relish, Dijon mustard and most of your parsley to the pan. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle over your remaining mushrooms and parsley, then serve with rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Russian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-01-08T16:30:00+00:00"
+}

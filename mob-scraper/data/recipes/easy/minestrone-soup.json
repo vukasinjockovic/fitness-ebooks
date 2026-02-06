@@ -1,0 +1,282 @@
+{
+  "id": "4777824",
+  "slug": "minestrone-soup",
+  "title": "\"Heal Me\" Minestrone Soup",
+  "url": "https://www.mob.co.uk/recipes/minestrone-soup",
+  "summary": "There are few soups better than a minestrone, and this minestrone soup recipe from Alfie Steiner (aka @alfiecooks_) is pure comfort in a bowl. Guaranteed to make you feel better, whatever the weather, it’s packed full of your favourite veggies and juicy legumes, making it incredibly good for you too. An absolute winter staple.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Minestrone-Soup.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 287,
+    "protein": 10,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 48,
+    "dietary_fibre": 7,
+    "sugars": 6,
+    "sodium": 563
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Celery Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Potato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Litre Vegetable Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Glass of White Wine (Optional)",
+      "quantity": "125",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Small Shaped Pasta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch of Spinach (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Nutritional Yeast, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion, carrot, celery and potato, then mince the garlic. In a large saucepan, heat a glug of olive oil on a medium heat. Once warmed, add the onion, carrot, celery and potato with a large pinch of salt. Sauté for 5-10 mins until softened and catching the pan, then add the garlic, frying until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomato purée with the oregano, paprika and chilli flakes, cooking out for another 2-3 mins. Add in your wine and let that cook out for a bit too. Add the butter beans, chopped tomatoes and vegetable stock, then season with salt and pepper and bring to the boil. Lower the heat to a simmer for 10-15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the pasta and cook following packet instructions until almost al dente. Once cooked, chuck in the spinach and basil, allowing to wilt."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon into bowls, top with fresh basil, olive oil, nutritional yeast and more chilli flakes. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Alfie Steiner",
+      "uri": "chefs/alfie-steiner",
+      "summary": "Alfie Steiner (aka @alfiecooks) is a plant-based chef and content creator, he's been making waves on socials with his delicious plant-based recipes, proving that sustainable eating can be both delicious and accessible."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-10-19T05:00:00+01:00"
+}

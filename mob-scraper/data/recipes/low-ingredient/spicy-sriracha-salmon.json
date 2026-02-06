@@ -1,0 +1,172 @@
+{
+  "id": "7058234",
+  "slug": "spicy-sriracha-salmon",
+  "title": "Spicy Sriracha Salmon",
+  "url": "https://www.mob.co.uk/recipes/spicy-sriracha-salmon",
+  "summary": "A bold, punchy salmon dish with a fiery sriracha kick, balanced by the umami depth of miso and a touch of honey. Quick, easy, and perfect for an air fryer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Spicy-Sriracha-Salmon.jpg",
+  "cook_time": 5,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 410,
+    "protein": 46,
+    "fat": 19,
+    "saturated_fat": 3,
+    "carbohydrates": 13,
+    "dietary_fibre": 0,
+    "sugars": 8,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "1kg skinless salmon fillets",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Skinless Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg skinless salmon fillets",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 spring onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame seeds, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lemon wedges, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 garlic cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp miso",
+      "quantity": "3",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp sriracha",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp fish sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp rice vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, grate your garlic cloves. Then, in a large bowl, whisk together all the sauce ingredients. Cut the salmon into large cubes (about 3 per fillet) and finely slice the spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Add the salmon cubes to the bowl and toss well to coat. Transfer to a container and leave to marinate in the fridge for at least 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat your air fryer to 240°C."
+    },
+    {
+      "heading": null,
+      "description": "Add the marinated salmon to the air fryer basket and cook for 3-4 mins, until caramelised and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a sprinkle of sesame seeds, sliced spring onions, and lemon wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-06T10:53:00+00:00"
+}

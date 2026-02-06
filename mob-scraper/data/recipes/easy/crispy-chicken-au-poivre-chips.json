@@ -1,0 +1,285 @@
+{
+  "id": "5171511",
+  "slug": "crispy-chicken-au-poivre-chips",
+  "title": "Crispy Chicken Au Poivre & Chips",
+  "url": "https://www.mob.co.uk/recipes/crispy-chicken-au-poivre-chips",
+  "summary": "Crispy chicken, piping hot homemade chips, and a zippy pepper sauce. Doesn't get much better than this. A gorgeous poultry take on steak au poivre.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Crispy-Chicken-Au-Poivre-Chips.jpg",
+  "cook_time": 80,
+  "prep_time": 30,
+  "total_time": 110,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 41,
+    "fat": 48,
+    "saturated_fat": 17,
+    "carbohydrates": 104,
+    "dietary_fibre": 8,
+    "sugars": 6,
+    "sodium": 355
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Supremes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Supreme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Supremes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Rosemary",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Green Peppercorns",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Whiskey",
+      "quantity": "100",
+      "unit": null,
+      "name": "Whiskey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Good Quality Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Double Cream",
+      "quantity": "60",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sherry Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Chives",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Maris Pipers",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Maris Pipers",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Season the chicken well with salt and if possible set aside for 1-2 hours in the fridge. Don’t worry if you haven’t got this time, just crack on."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, make the chips. Peel and cut the potatoes into chunky chips and tip into a large saucepan. Cover with cold water and season generously with salt. Set over a medium heat and bring to a bare simmer. Cook for 7-8 mins until just tender. Drain and allow to steam dry."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 220°C. Fill a tray with 1cm of vegetable oil and slide into the oven. Once hot, whip it out and carefully lower in the chips one by one. Turn to coat in the hot oil then return to the oven for 30-40 mins, turning regularly, until lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Drain the excess oil from the chips and then return to the oven for 10 mins to finish."
+    },
+    {
+      "heading": null,
+      "description": "Crush the garlic cloves, finely dice the shallot and roughly chop the peppercorns."
+    },
+    {
+      "heading": null,
+      "description": "Pat the chicken breasts dry and preheat a large pan over a medium high heat. Add a shot of oil and lay the breasts in, skin side down. Add a weight on top and cook for 9-10 mins until super crispy, flip them over then add the rosemary, crushed garlic and butter."
+    },
+    {
+      "heading": null,
+      "description": "Baste the hot butter over the chicken and then slide into the oven for 4-5 mins or until just cooked. Tip the contents of the pan out onto a tray and let the chicken rest."
+    },
+    {
+      "heading": null,
+      "description": "Keep some of the fat in the pan and add the diced shallot and about 40 twists of black pepper. Cook for 2-3 mins over a high heat before adding the peppercorns and whiskey. Cook the alcohol off and then add the stock. Bring to a boil and reduce by two-thirds."
+    },
+    {
+      "heading": null,
+      "description": "Finish the sauce with chopped chives, cream and vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Serve the chicken with lots of sauce and a heaping pile of chips."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-27T11:00:00+00:00"
+}

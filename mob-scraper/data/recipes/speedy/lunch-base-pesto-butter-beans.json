@@ -1,0 +1,114 @@
+{
+  "id": "7062710",
+  "slug": "lunch-base-pesto-butter-beans",
+  "title": "Pesto Butter Beans",
+  "url": "https://www.mob.co.uk/recipes/lunch-base-pesto-butter-beans",
+  "summary": "These pesto butter beans are perfect for meal prep. Combine them with your choice of protein, carb, veg and topping to create your perfect meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Pesto-Butter-Beans.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 162,
+    "protein": 8,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 19,
+    "dietary_fibre": 6,
+    "sugars": 0,
+    "sodium": 170
+  },
+  "ingredients": [
+    {
+      "label": "480g Drained Cooked Butter Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g Drained Cooked Butter Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Tbsp Pesto",
+      "quantity": "3.5",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "White Wine Vinegar, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Parmesan",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Chilli Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the butter beans into a saucepan along with the water from their cans, bring to the boil. Add the pesto, taste and season, adding a splash of white wine vinegar if it needs it."
+    },
+    {
+      "heading": null,
+      "description": "If batch cooking for the week, transfer the pesto butter beans to a container and store in the fridge until ready to eat. Top with some Parmesan and chilli flakes before serving, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-20T00:00:00+00:00"
+}

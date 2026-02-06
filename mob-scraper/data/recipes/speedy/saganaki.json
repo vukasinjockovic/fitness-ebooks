@@ -1,0 +1,167 @@
+{
+  "id": "4436898",
+  "slug": "saganaki",
+  "title": "Saganaki",
+  "url": "https://www.mob.co.uk/recipes/saganaki",
+  "summary": "Saganaki is a quick and easy recipe for the summer. Temperatures are important. You want cold cheese, a hot pan, and don't you dare move that cheese around.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Saganaki-Recipe.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 11,
+    "fat": 20,
+    "saturated_fat": 9,
+    "carbohydrates": 19,
+    "dietary_fibre": 1,
+    "sugars": 10,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "200g Kefalograviera (2 Pieces In Saganaki Triangle Cut)",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kefalograviera",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Plain Flour",
+      "quantity": "30",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Honey",
+      "quantity": "3",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of ½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45ml Ouzo",
+      "quantity": "45",
+      "unit": null,
+      "name": "Ouzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Peach",
+      "quantity": "1",
+      "unit": null,
+      "name": "Peach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Sprigs of Thyme",
+      "quantity": "6",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Begin by making your honey liquid. Place honey, half your lemon juice and ouzo in a jar and shake super hard to bring together. Leave to the side."
+    },
+    {
+      "heading": null,
+      "description": "Place a heavy small pan over a high heat. While the pan heats up, add the kefalograviera to the plain flour and cover, before dusting off the excess. Once the pan is hot, add the olive oil and then place the floured cheese on top."
+    },
+    {
+      "heading": null,
+      "description": "Let the cheese sizzle for 2 mins or until you see a caramelised crust start to form around the sides. Using a thin spatula, aggressively push under cheese and flip. Cook for another min before pouring half your honey liquid in. Let the liquid cook for half a min before taking it off heat and finishing with a squeeze of lemon and dried oregano."
+    },
+    {
+      "heading": null,
+      "description": "Repeat process with second piece."
+    },
+    {
+      "heading": null,
+      "description": "For the peach salsa, dice your peach and add it to a bowl with the thyme leaves, lemon juice and salt. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "To serve, plate up the cheese with a good spoonful of your peach salsa"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "chefs": [
+    {
+      "name": "Conor Curran",
+      "uri": "chefs/conor-curran",
+      "summary": "Conor, more only known as Creamy Confusion is a recipe developer, content creator and fallen reality star from Australia. When covid took away his career as a restaurant manager overnight, he accidentally ended up on Masterchef Aus, where he showcased his take on modern Greek food. Today he continues to share his love for food, cocktails and travel on his social media platforms."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-05T10:43:00+01:00"
+}

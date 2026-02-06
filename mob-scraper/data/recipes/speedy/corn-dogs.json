@@ -1,0 +1,185 @@
+{
+  "id": "6644953",
+  "slug": "corn-dogs",
+  "title": "Corn Dogs",
+  "url": "https://www.mob.co.uk/recipes/corn-dogs",
+  "summary": "American-style corn dawgs. Learn how to make this classic US snack by dipping smoked sausages in a cornmeal batter and deep frying them to perfection.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Corn-Dogs.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 304,
+    "protein": 12,
+    "fat": 13,
+    "saturated_fat": 4,
+    "carbohydrates": 33,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 802
+  },
+  "ingredients": [
+    {
+      "label": "400g Bread Flour",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Polenta",
+      "quantity": "50",
+      "unit": null,
+      "name": "Polenta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fine Salt",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "290ml Milk",
+      "quantity": "290",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Frankfurters",
+      "quantity": "8",
+      "unit": null,
+      "name": "Frankfurter Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Frankfurters",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Lollipop Sticks",
+      "quantity": "8",
+      "unit": null,
+      "name": "Lollipop Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tomato Ketchup",
+      "quantity": null,
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mustard",
+      "quantity": null,
+      "unit": null,
+      "name": "American Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the bread flour, sugar, polenta, salt and baking powder into a bowl and whisk together. In a separate bowl, pour in the milk and then crack in the eggs. Mix the wet mixture into the dry mixture until smooth and thick. Pour into a pint glass or tall container."
+    },
+    {
+      "heading": null,
+      "description": "Cut the hotdogs to size. You want them just shorter than your tall container so they’ll fully submerge in the corn mixture. Insert the lollipop stick into the sausage."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a pot filled halfway with vegetable oil to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Dip a sausage into the corn mixture until thoroughly coated and then carefully lower into the hot oil. Fry for 4-5 mins until a deep golden brown. Remove and drain on kitchen paper. Repeat with the remaining hot dogs."
+    },
+    {
+      "heading": null,
+      "description": "Serve with ketchup and mustard."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-24T09:00:00+01:00"
+}

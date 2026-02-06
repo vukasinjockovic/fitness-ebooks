@@ -1,0 +1,176 @@
+{
+  "id": "6752112",
+  "slug": "ultimate-doughnuts",
+  "title": "Ultimate Doughnuts",
+  "url": "https://www.mob.co.uk/recipes/ultimate-doughnuts",
+  "summary": "It’s time you made your own doughnuts. These ones are soft and pillowy in the middle and perfectly crisp on the outside. Toss them in sugar or fill them with vanilla custard cream – either way, you’ll love them.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Doughnuts-2.jpg",
+  "cook_time": 30,
+  "prep_time": 30,
+  "total_time": 60,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "fat": 6,
+    "saturated_fat": 3,
+    "carbohydrates": 25,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 76
+  },
+  "ingredients": [
+    {
+      "label": "30g Caster Sugar",
+      "quantity": "30",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Warm Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Warm Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Yeast",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Plain Flour",
+      "quantity": "400",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Softened butter",
+      "quantity": "60",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sunflower Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Caster Sugar",
+      "quantity": null,
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Jam",
+      "quantity": null,
+      "unit": null,
+      "name": "Strawberry Jam",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Custard Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Custard Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In the bowl of a stand mix, combine the sugar and warm water. Crumble in the yeast and mix together. Leave to sit for 10 mins, or until starting to bubble slightly. Make sure the butter is at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "Add the flour and eggs to the yeast mixture and knead until a dough forms. Mix in the salt, then add in the softened butter, a little at a time, making sure it’s incorporated well after each addition. Continue until the dough is smooth and glossy. Cover the bowl and place in the fridge overnight, or prove at room temperature for about 2-3 hours until doubled in size."
+    },
+    {
+      "heading": null,
+      "description": "Remove the dough from the bowl and place onto a clean work surface. Flour your hands as the dough will be quite wet. Portion the dough out into 60-65g pieces and roll into tight balls (you may need to use a bench scraper if the dough sticks to the surface). Cut 8 squares of baking paper, and place each dough ball onto one. Cover with a tea towel and leave to prove at room temperature for another 30-45 mins."
+    },
+    {
+      "heading": null,
+      "description": "If you want to fry the doughnuts: Add enough sunflower oil into a saucepan so it’s filled halfway up. Once the dough has proved, set the saucepan over a medium-high heat and heat the oil to 170°C. Drop a couple of doughnuts into the oil then peel back the baking paper and discard. Fry on both sides until golden brown then transfer to a wire rack tray. Continue until all the doughnuts have been fried."
+    },
+    {
+      "heading": null,
+      "description": "If you want to bake the doughnuts: Heat the oven to fan 180°C. Place the doughnuts onto a large tray, spacing them out, and bake for 20-30 mins, until golden brown and baked through."
+    },
+    {
+      "heading": null,
+      "description": "Once the doughnuts have cooled, fill them with custard cream or jam, or simply toss in a bit of sugar."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-05T08:50:00+01:00"
+}

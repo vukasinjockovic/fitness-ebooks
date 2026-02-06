@@ -1,0 +1,102 @@
+{
+  "id": "6965204",
+  "slug": "ultimate-roast-beef",
+  "title": "Ultimate Roast Beef",
+  "url": "https://www.mob.co.uk/recipes/ultimate-roast-beef",
+  "summary": "Say goodbye to dry roast beef. This is the ultimate roast beef recipe for a super delicious & juicy centrepiece.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Roast-Beef.jpg",
+  "cook_time": 15,
+  "prep_time": 130,
+  "total_time": 145,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 357,
+    "protein": 38,
+    "fat": 22,
+    "saturated_fat": 6,
+    "carbohydrates": null,
+    "dietary_fibre": null,
+    "sugars": null,
+    "sodium": 52
+  },
+  "ingredients": [
+    {
+      "label": "1kg Beef Roasting Joint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Topside Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Beef Roasting Joint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegetable Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1-2 hrs before you start cooking, remove the roasting joint from the fridge and pat it dry with kitchen paper. Generously season all over with salt and leave on the counter uncovered for 1-2 hours to come to room temperature. The salt will season the meat and draw out the excess moisture to allow us to get a better crust. 2 hrs is ideal but 1 hr will do just fine."
+    },
+    {
+      "heading": null,
+      "description": "When the time is up, heat the oven to 150°C fan. Heat a heavy-bottomed pan over a high heat for 3-4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pat the beef dry with kitchen paper again then rub with ⅓ of the oil. Season with more salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining oil to the hot pan and sear the beef for 30-45 secs on each side until nicely browned."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the pan onto a wire rack lined oven tray and place in the oven for 45 mins for medium rare. If you have a temperature probe, check the beef after 40 mins and remove from the oven when the internal temperature reaches 38°C."
+    },
+    {
+      "heading": null,
+      "description": "Remove the beef from the oven and cover loosely with foil to rest for at least 30 mins. You really can’t skip this part; it’s best to view this period as a continuation of the cooking process. If you slice the beef now, it’ll be very uncooked. Over the 30 mins, the internal temperature will gently increase to 55°C and give you an amazing finished product."
+    },
+    {
+      "heading": null,
+      "description": "To serve, slice the beef against the grain and plate it up. We love to eat it with horseradish cream, gravy and roast potatoes."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-10-01T12:24:00+01:00"
+}

@@ -1,0 +1,470 @@
+{
+  "id": "6752573",
+  "slug": "orzo-herby-turkey-meatballs-in-mushroom-broth",
+  "title": "Orzo & Herby Turkey Meatballs in Mushroom Broth",
+  "url": "https://www.mob.co.uk/recipes/orzo-herby-turkey-meatballs-in-mushroom-broth",
+  "summary": "This soup is a bowl of pure umami. It’s perfect for gloomy winter evenings, or any time your taste buds need a pick-me-up.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Orzo-and-Herby-Meatballs-in-Mushroom-Stock.jpg",
+  "cook_time": 150,
+  "prep_time": 30,
+  "total_time": 180,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 32,
+    "fat": 24,
+    "saturated_fat": 6,
+    "carbohydrates": 56,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 2062
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Fresh Button Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Button Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Fresh Button Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Brown Miso Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brown Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Brown Miso Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dried Shiitake Mushrooms",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dried Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dried Porcini Mushrooms",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dried Porcini Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dried Porcini Mushrooms",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sheet Kombu Seaweed",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kombu Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5L Water",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Eggs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Panko Breadcrumbs",
+      "quantity": "35",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Flaky Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Fresh Parsley",
+      "quantity": "40",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Fresh Mint",
+      "quantity": "40",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Fresh Coriander",
+      "quantity": "40",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Dill",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Turkey Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Turkey Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Turkey Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Turkey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Mushroom Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Mushroom Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Orzo",
+      "quantity": "250",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Orzo",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cabbage Leaves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Crème Fraîche",
+      "quantity": "60",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, make the broth (you can do this in advance and store it in the fridge/freezer until ready to make the soup). Halve the onion, cut the ginger into slices, and halve the head of garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of sesame oil in a large pot over a medium heat. Sear the onion, ginger and garlic for about 5 mins, until very fragrant and slightly burnt."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the button mushrooms, then add them to the pot along with the miso paste, stirring well to ensure everything is nicely coated in the miso. Continue cooking for about 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the dried mushrooms, kombu seaweed, salt, peppercorns and water. Bring to the boil, then reduce the heat and simmer gently for at least 2 hours, allowing the stock to reduce significantly. Strain and discard the solids."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the meatballs. Whisk the eggs in a large bowl with a generous glug of olive oil, then stir in the breadcrumbs and continue mixing to create a paste-like consistency. Mix in the salt, chilli flakes, fennel seeds, and coriander seeds."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the fresh herbs and spring onion, and mince the garlic clove. Stir these in, along with half of the minced turkey. Gradually add the rest of the meat, incorporating it gently so as to keep the mixture light and fluffy."
+    },
+    {
+      "heading": null,
+      "description": "Refrigerate the mixture for about half an hour, then roll it into balls with the diameter of a £1 coin (lightly coating your hands in oil beforehand helps prevent sticking)."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large pan set over a medium-high heat and place as many meatballs as you can fit, leaving enough space between balls to turn them (you can work in batches!)."
+    },
+    {
+      "heading": null,
+      "description": "Cook the meatballs for about 10 mins on medium heat, turning every now and then to ensure all sides are nice and golden. Remove from the pan, but do not wash the pan (yet)."
+    },
+    {
+      "heading": null,
+      "description": "Peel and then thinly slice the onion and garlic cloves, then add them to the pan you used to fry the meatballs, along with another swish of olive oil. Stir with a wooden spoon to scrape up some of the browned bits on the bottom of the pan, and sauté on medium heat until fragrant, about 5 mins. Deglaze the pan with a bit of stock and continue cooking for 5 mins or so."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, lay out the cabbage leaves and cut out the tough inner stem, then roll them up and cut thin slices."
+    },
+    {
+      "heading": null,
+      "description": "Add in the rest of the stock, the cabbage leaves, and the orzo. Cook over a medium heat for 7 mins, or until the orzo is cooked following pack instructions. Add in the meatballs and simmer for a minute or two, until they are warmed up."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the parsley for garnish, then season the soup with salt, pepper, and a drizzle of olive oil. Divide across four bowls and top with crème fraiche, and chopped parsley."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T09:34:00+01:00"
+}

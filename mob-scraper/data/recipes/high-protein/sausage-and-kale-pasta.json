@@ -1,0 +1,182 @@
+{
+  "id": "5695",
+  "slug": "sausage-and-kale-pasta",
+  "title": "Sausage & Kale Pasta",
+  "url": "https://www.mob.co.uk/recipes/sausage-and-kale-pasta",
+  "summary": "Kale and sausage go together great in this simple, satisfying recipe. Nothing says \"tasty\" like this sausage and kale pasta.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Sausage-Kale-Pasta.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1162,
+    "protein": 48,
+    "fat": 56,
+    "saturated_fat": 31,
+    "carbohydrates": 109,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1342
+  },
+  "ingredients": [
+    {
+      "label": "200ml Single Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Curly Kale",
+      "quantity": "180",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175ml White Wine",
+      "quantity": "175",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Taleggio",
+      "quantity": "400",
+      "unit": null,
+      "name": "Taleggio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Conchiglie Pasta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Conchiglie",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Conchiglie Pasta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Squeeze the meat out of each sausage. Break up each sausage into four balls and add to a frying pan. Stir them until they begin to brown. Once browned, add the curly kale."
+    },
+    {
+      "heading": null,
+      "description": "Start boiling your pasta."
+    },
+    {
+      "heading": null,
+      "description": "Chop up your garlic and add to the sausage balls. Add the chilli flakes and a glass of wine. Mix in the single cream along with a ladle of pasta water and mix everything together."
+    },
+    {
+      "heading": null,
+      "description": "Slice up the Taleggio, add to the pan and allow it to melt. Chop your parsley finely and add this to the pan with a good grinding of black pepper and the juice of a whole lemon."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta is cooked, add this to the pan and fold the sauce into the pasta. And that’s it, tuck in and enjoy this warming pasta dish!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Accessible Method",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-12T00:00:00+01:00"
+}

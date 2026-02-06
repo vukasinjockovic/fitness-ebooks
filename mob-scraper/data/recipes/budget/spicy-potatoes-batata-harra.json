@@ -1,0 +1,163 @@
+{
+  "id": "2539817",
+  "slug": "spicy-potatoes-batata-harra",
+  "title": "Spicy Potatoes (Batata Harra)",
+  "url": "https://www.mob.co.uk/recipes/spicy-potatoes-batata-harra",
+  "summary": "This is a take on batata harra – a Lebanese dish which you find as part of a mezze. The red pepper isn’t always included but it’s a nice addition. Jordon x",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_0362-2-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 6,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 60,
+    "dietary_fibre": 6,
+    "sugars": 4,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "1.5kg Potatoes",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Bell Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch of Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and dice the potatoes into roughly one-inch cubes. Parboil in salted boiling water for about 5 mins until just starting to soften. Drain and set aside to steam."
+    },
+    {
+      "heading": null,
+      "description": "Fill a large deep pan with 3 inches of sunflower oil and set over a high heat. Check to see when it’s hot enough by dropping in a bit of potato, it should sizzle immediately."
+    },
+    {
+      "heading": null,
+      "description": "Add the potatoes to the pan (if your pan is small, do this in batches so you don’t crowd it). Fry for 5 or 6 mins until lightly golden and crispy. Drain on paper towels and sprinkle with salt."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the peppers and mince the garlic and coriander."
+    },
+    {
+      "heading": null,
+      "description": "Set a large frying pan over a medium heat and add a generous splash of olive oil. Fry the peppers for about 5 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Now add the minced garlic and coriander and fry for another minute."
+    },
+    {
+      "heading": null,
+      "description": "Add the chilli flakes (you can add more if you like it spicier) and potatoes and mix well, fry for another minute. Season the mix well with salt and add the juice of the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Plate up and add an extra sprinkle of salt, lemon juice and coriander to taste. This is delicious by itself, as part of a spread, or as a side to a nice piece of grilled fish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides"
+  ],
+  "cuisines": [
+    "Lebanese"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-11-01T13:30:00+00:00"
+}

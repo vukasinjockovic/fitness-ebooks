@@ -1,0 +1,148 @@
+{
+  "id": "6820396",
+  "slug": "creme-brulee",
+  "title": "Crème Brûlée",
+  "url": "https://www.mob.co.uk/recipes/creme-brulee",
+  "summary": "An indulgent vanilla custard filling with a caramelised torched sugar top. Creamy, crunchy and classic. A perfect dinner party dessert.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Creme-Brulee.jpg",
+  "cook_time": 45,
+  "prep_time": 60,
+  "total_time": 105,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 291,
+    "protein": 4,
+    "fat": 23,
+    "saturated_fat": 14,
+    "carbohydrates": 15,
+    "dietary_fibre": null,
+    "sugars": 15,
+    "sodium": 38
+  },
+  "ingredients": [
+    {
+      "label": "425ml Double Cream",
+      "quantity": "400",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Whole Milk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vanilla Pod",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Egg Yolks",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Caster Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Sit four 175 ml ramekins in a deep roasting tin that’s at least 7.5cm deep (you need it to be deep enough that you can lay a baking tray across the top of the tin to cover the ramekins without touching them)."
+    },
+    {
+      "heading": null,
+      "description": "Combine the cream and milk in a saucepan. Slice the vanilla pod open lengthways and scrape the seeds into the pan, using a sharp knife. Leave it off the heat for now."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the yolks and sugar together in a bowl for a minute until pale and fluffing up."
+    },
+    {
+      "heading": null,
+      "description": "Set the pan with the cream over a medium heat and bring it almost to the boil. When you see bubbles start to appear around the edge, take off the heat immediately."
+    },
+    {
+      "heading": null,
+      "description": "Slowly pour the hot cream into the beaten egg yolks, whisking as you go. Scoop off and discard the pale foam sitting on the top of the liquid (there will be several spoonfuls). Give the mixture a good stir."
+    },
+    {
+      "heading": null,
+      "description": "Pour enough cold water into the roasting tin to come about 1.5cm up the sides of the ramekins. Pour the hot cream into the ramekins, filling them up right to the top (it’s easier to spoon in the last bit)."
+    },
+    {
+      "heading": null,
+      "description": "Lay a baking tray over the top of the roasting tin, sitting well above and completely covering the ramekins, but not completely covering the roasting tin; leave a small gap at one side to allow air to circulate."
+    },
+    {
+      "heading": null,
+      "description": "Put the roasting tin in the oven and bake for 30-35 mins until the mixture is just set. To check, give the roasting tin a very gentle shake - if the brûlées are ready, they will wobble a bit in the middle. Don't go past this point!"
+    },
+    {
+      "heading": null,
+      "description": "Remove the ramekins and set them on a wire rack to cool for a few mins, then put in the fridge to cool completely (you can do this overnight if making them in advance)."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, wipe round the top edge of the dishes, sprinkle 1 ½ tsp caster sugar over each ramekin and spread it out with the back of a spoon to completely cover."
+    },
+    {
+      "heading": null,
+      "description": "Use a blowtorch to caramelise the sugar. Hold the flame just above the sugar and keep moving it round and round until caramelised. Serve when the sugar is firm."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-15T15:14:00+01:00"
+}

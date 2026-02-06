@@ -1,0 +1,246 @@
+{
+  "id": "5864234",
+  "slug": "iced-green-goddess-soup",
+  "title": "Iced Green Goddess Soup",
+  "url": "https://www.mob.co.uk/recipes/iced-green-goddess-soup",
+  "summary": "A vibrant, herby chilled soup topped with golden halloumi and toasted sesame seeds. It's full of avocado, spinach, natural yogurt, garlic, and green chilli.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Iced-Green-Goddess-Soup.jpg",
+  "cook_time": 7,
+  "prep_time": 5,
+  "total_time": 12,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 563,
+    "protein": 20,
+    "fat": 41,
+    "saturated_fat": 13,
+    "carbohydrates": 22,
+    "dietary_fibre": 9,
+    "sugars": 10,
+    "sodium": 781
+  },
+  "ingredients": [
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spinach",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g natural Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g natural Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 stalks Celery",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Basil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp Toasted sesame seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g halloumi",
+      "quantity": "100",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Red wine vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice cubes",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Halve and remove stones from the avocados and slice. Halve and remove seeds from the green chilli. Wash the spinach, then peel and roughly chop the shallot. Add half of the avocado to a blender with spinach, celery, yoghurt, most of the dill, most of the basil, your peeled garlic, shallot and green chilli. Blitz until smooth and season with salt and pepper before squeezing in the lime juice. Taste and adjust seasoning if needed, then pop in the fridge for at least a couple of hours until very cold."
+    },
+    {
+      "heading": null,
+      "description": "Dice the halloumi into even-sized cubes and fry in a dry pan over a medium heat until golden all over."
+    },
+    {
+      "heading": null,
+      "description": "If you feel like the soup needs additional acidity, add in the red wine vinegar. Serve the soup in chilled bowls with a couple of ice cubes then top with avocado, sesame seeds, halloumi, and remaining herbs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T08:30:00+01:00"
+}

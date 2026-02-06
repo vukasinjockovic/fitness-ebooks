@@ -1,0 +1,209 @@
+{
+  "id": "4385797",
+  "slug": "moules-marinieres",
+  "title": "Moules Marinières",
+  "url": "https://www.mob.co.uk/recipes/moules-marinieres",
+  "summary": "Classic Belgian dish of mussels cooked with a twist. Beer, garlic and cream, cooked from a stove on the beach. Great for sharing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Moules-Marinie%CC%80res.jpg",
+  "cook_time": 25,
+  "prep_time": 30,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 547,
+    "protein": 36,
+    "fat": 22,
+    "saturated_fat": 13,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 857
+  },
+  "ingredients": [
+    {
+      "label": "2kg Fresh Mussels",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Mussel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Leek",
+      "quantity": "1",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Thyme",
+      "quantity": "25",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Rosemary",
+      "quantity": "25",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Stella Artois Unfiltered",
+      "quantity": "250",
+      "unit": null,
+      "name": "Lager",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Baguette, To Serve",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash the mussels well and discard any that don’t close when tapped. Remove the beards."
+    },
+    {
+      "heading": null,
+      "description": "Tie the bay, thyme and rosemary together with butcher’s twine to make a bouquet garni."
+    },
+    {
+      "heading": null,
+      "description": "Place a large pan over a medium heat and add the butter. Finely chop and add the remaining leek, onion and garlic along with the bouquet garni and cook for a few minutes until soft."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat up high, add the mussels and the beer and put a lid on the pan. Cook for 3 mins, shaking the pan occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Add the cream and parsley and remove from the heat. Taste, season with salt and pepper and serve in bowl with warm crusty bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-03T09:15:00+01:00"
+}

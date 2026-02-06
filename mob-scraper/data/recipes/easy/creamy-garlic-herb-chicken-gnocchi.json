@@ -1,0 +1,259 @@
+{
+  "id": "6423575",
+  "slug": "creamy-garlic-herb-chicken-gnocchi",
+  "title": "Creamy Garlic & Herby Chicken Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/creamy-garlic-herb-chicken-gnocchi",
+  "summary": "If you haven’t tried cooking gnocchi in your air fryer yet, this is your sign. Golden and crispy on the outside and fluffy on the inside, they’re like tasty little pillows.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A0458-1.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 522,
+    "protein": 38,
+    "fat": 13,
+    "saturated_fat": 6,
+    "carbohydrates": 62,
+    "dietary_fibre": 5,
+    "sugars": 6,
+    "sodium": 648
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chicken Breasts",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chicken Breasts",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Parsley",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Italian Seasoning⁣",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Italian Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Mixed Herbs⁣",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Mixed Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Sundried Tomatoes⁣",
+      "quantity": "90",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Sundried Tomatoes⁣",
+      "quantity": "90",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Lightest Soft Cheese⁣",
+      "quantity": "90",
+      "unit": null,
+      "name": "Light Soft Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Lightest Soft Cheese⁣",
+      "quantity": "90",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Grated Mozzarella and Cheddar Mix",
+      "quantity": "50",
+      "unit": null,
+      "name": "Grated Cheddar & Mozzarella Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Grated Mozzarella and Cheddar Mix",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion. Dice the chicken into chunks. Crush the garlic and finely chop the parsley."
+    },
+    {
+      "heading": null,
+      "description": "Heat the air fryer to 180°C, then tip the gnocchi into the air fryer with ½ tbsp oil from the sundried tomato jar. Cook for around 15 mins until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large frying pan with another ½ tbsp sun-dried tomato oil. Add the onion with some salt, then cook for a few minutes to soften. Add the chicken and garlic and cook until softened and cooked through – about 10 minutes.⁣⁣"
+    },
+    {
+      "heading": null,
+      "description": "Add the seasoning, mixed herbs, sun-dried tomatoes and soft cheese to the pan along with 3 tbsp water. Mix it together for a few minutes."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the crispy gnocchi, the grated cheese and a small handful of parsley."
+    },
+    {
+      "heading": null,
+      "description": "Season to taste, then share between bowls and top with more parsley and Parmesan."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-04T03:30:00+01:00"
+}

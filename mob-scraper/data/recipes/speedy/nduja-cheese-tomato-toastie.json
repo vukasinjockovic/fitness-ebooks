@@ -1,0 +1,159 @@
+{
+  "id": "3581832",
+  "slug": "nduja-cheese-tomato-toastie",
+  "title": "‘Nduja Cheese & Tomato Toastie",
+  "url": "https://www.mob.co.uk/recipes/nduja-cheese-tomato-toastie",
+  "summary": "‘Nduja, Cheddar and sliced baby tomatoes are loaded onto two slices of bread, covered in butter and fried until golden.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A1358-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 30,
+    "fat": 33,
+    "saturated_fat": 15,
+    "carbohydrates": 60,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 1162
+  },
+  "ingredients": [
+    {
+      "label": "200g Pilgrims Choice Extra Mature Cheddar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Extra Mature Cheddar ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pilgrims Choice Extra Mature Cheddar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Sourdough",
+      "quantity": "512",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g ‘Nduja",
+      "quantity": "100",
+      "unit": null,
+      "name": "Nduja",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Ripe Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a frying pan over a medium heat, add the ‘nduja and a splash of olive oil. Cook for a minute until the 'nduja melts."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tomatoes into 1cm thick rounds and then fry for a minute either side in the pan with the ‘nduja."
+    },
+    {
+      "heading": null,
+      "description": "Pop the cooked tomatoes onto 4 slices of bread and pour over the melted 'nduja. Season with a pinch of salt and the oregano."
+    },
+    {
+      "heading": null,
+      "description": "Grate over the Cheddar and top with the remaining slices of bread."
+    },
+    {
+      "heading": null,
+      "description": "Place the sandwiches back into the same pan over a medium heat and cook for about 4 mins on each side until the outside is golden brown and the cheese is melted."
+    },
+    {
+      "heading": null,
+      "description": "Plate up and serve hot. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-10T04:30:00+01:00"
+}

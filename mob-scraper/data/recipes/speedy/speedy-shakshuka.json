@@ -1,0 +1,181 @@
+{
+  "id": "4407001",
+  "slug": "speedy-shakshuka",
+  "title": "Speediest Chipotle Shakshuka",
+  "url": "https://www.mob.co.uk/recipes/speedy-shakshuka",
+  "summary": "The ultimate hangover cure – saucy, smoky, spicy eggs. Serve our speediest ever shakshuka straight out of the pan so everyone can get stuck in.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Speediest-Chipotle-Shakshuka.jpg",
+  "cook_time": 7,
+  "prep_time": 4,
+  "total_time": 11,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 410,
+    "protein": 19,
+    "fat": 13,
+    "saturated_fat": 3,
+    "carbohydrates": 51,
+    "dietary_fibre": 6,
+    "sugars": 11,
+    "sodium": 384
+  },
+  "ingredients": [
+    {
+      "label": "600g Passata",
+      "quantity": "600",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Jar of Roasted Red Peppers",
+      "quantity": "450",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Medium Eggs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Pittas",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Natural Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Natural Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Fresh Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get a large frying pan over a high heat. Drizzle in some olive\noil, then empty the passata straight into the pan. Add 1–2\ntbsp of chipotle paste (to your taste), then pick out the\nroasted peppers with a fork, leaving their juices behind, and tear\ninto the pan. Give everything a stir and season with salt and black\npepper. Let bubble away for 1 minute."
+    },
+    {
+      "heading": null,
+      "description": "Crack the eggs into the pan and season with salt and black\npepper, then cover with a lid. Cook for 4–5 minutes, until the\nwhites are just set but the yolks are still runny."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, toast the pitta breads, tear into pieces and put into\na serving bowl."
+    },
+    {
+      "heading": null,
+      "description": "Once the eggs are cooked, dollop over spoonfuls of the natural\nyogurt, scatter over the parsley and serve at the table with extra\nblack pepper and the pitta breads for dunking."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-21T17:07:00+01:00"
+}

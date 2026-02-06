@@ -1,0 +1,136 @@
+{
+  "id": "7220745",
+  "slug": "cheesy-bolognese-loaded-jacket-potato",
+  "title": "Cheesy Bolognese Loaded Jacket Potato",
+  "url": "https://www.mob.co.uk/recipes/cheesy-bolognese-loaded-jacket-potato",
+  "summary": "Crispy jacket spuds stuffed with our rich Bolognese Ragú batch recipe and molten cheese. A proper comfort dinner that basically makes itself.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Cheesy-Bolognese-Loaded-Jacket-Potato.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "fat": 18,
+    "saturated_fat": 7,
+    "carbohydrates": 41,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "2 Baking Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Baking Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 125g Mozzarella Ball",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 125g Mozzarella Ball",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Bolognese Ragú."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Scrub the potatoes, prick them all over with a fork, then rub with a little olive oil and salt. Place straight onto the oven rack and bake for 1 hr until crisp on the outside and fluffy in the middle."
+    },
+    {
+      "heading": null,
+      "description": "Tear the mozzarella into chunks. Reheat the Bolognese ragù leftovers in a saucepan until piping hot."
+    },
+    {
+      "heading": null,
+      "description": "Once the potatoes are ready, cut a deep cross into each one and squeeze them open. Fluff the insides with a fork, then spoon over the ragù. Top with mozzarella and a generous grating of pecorino."
+    },
+    {
+      "heading": null,
+      "description": "If you want the cheese extra gooey, pop them under the grill for a couple of mins until bubbling."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-25T11:41:00+01:00"
+}

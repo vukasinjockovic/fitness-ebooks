@@ -1,0 +1,156 @@
+{
+  "id": "3881855",
+  "slug": "chocolate-chip-cookies",
+  "title": "Triple Chocolate Chip Cookies",
+  "url": "https://www.mob.co.uk/recipes/chocolate-chip-cookies",
+  "summary": "Yeh, chocolate chip cookies are great... but TRIPLE CHOCOLATE CHIP cookies... so much better.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/220A3580.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 60,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 247,
+    "protein": 3,
+    "fat": 13,
+    "saturated_fat": 8,
+    "carbohydrates": 29,
+    "dietary_fibre": 1,
+    "sugars": 17,
+    "sodium": 73
+  },
+  "ingredients": [
+    {
+      "label": "160g Butter",
+      "quantity": "160",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Baking Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp bicarbonate of soda",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Chocolate (We Used A Mix of White, Milk and Dark)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "185g Light Brown Sugar",
+      "quantity": "185",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Melt the butter in a large mixing bowl, allow to cool to room temp."
+    },
+    {
+      "heading": null,
+      "description": "Mix the flour, baking powder and bicarbonate of soda together with a pinch of salt. Chop the chocolate into chunks, don't chop them up not too small, having larger chunks is key to getting melty cookies."
+    },
+    {
+      "heading": null,
+      "description": "Combine the melted butter, sugar, vanilla, egg and yolk. Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Combine the dry and wet ingredients to make the cookie dough, then add the chocolate chips, make sure to mix well so they’re well dispersed. Chill the mix in the fridge for around 30 mins until firm to the touch."
+    },
+    {
+      "heading": null,
+      "description": "Line 2 baking trays with baking paper. Roll the cookie dough into clementine-sized balls, then flatten slightly into thick pucks. I like to make sure there are good chunks of chocolate on the top of each so you can see the melty chunks! Lie on the baking trays, spacing them 7cm-10cm apart (if you only have one tray, bake them in batches) and put back into the fridge for at least 30 mins (you can leave them for a couple of hours if you have time!) Heat the oven to 170°C."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 13-15 mins, the middle should look underbaked! Add a pinch of flaky sea salt whilst they’re still hot! If they've spread a lot, use an upside down bowl to gently push the edges of the cookie in, this can help create a more rounded cookie! Set aside for 15 mins to cool then tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-01T09:01:00+00:00"
+}

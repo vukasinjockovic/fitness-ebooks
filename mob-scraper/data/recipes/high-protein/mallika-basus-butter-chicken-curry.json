@@ -1,0 +1,267 @@
+{
+  "id": "774159",
+  "slug": "mallika-basus-butter-chicken-curry",
+  "title": "Mob's Butter Chicken Curry by Mallika Basu",
+  "url": "https://www.mob.co.uk/recipes/mallika-basus-butter-chicken-curry",
+  "summary": "Mallika shows the MOB how to make this classic Punjabi curry, served perfectly over Tilda Pure Basmati rice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A7122.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 441,
+    "protein": 27,
+    "fat": 32,
+    "saturated_fat": 13,
+    "carbohydrates": 13,
+    "dietary_fibre": 2,
+    "sugars": 7,
+    "sodium": 425
+  },
+  "ingredients": [
+    {
+      "label": "600g Skinless Chicken Thigh Fillets",
+      "quantity": "600",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Skinless Chicken Thigh Fillets",
+      "quantity": "600",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Greek-Style Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Greek-Style Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3cm Fresh Root Ginger",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Kashmiri Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of 1⁄2 Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Passata",
+      "quantity": "500",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Sour Cream",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Chilli Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Garam Masala",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Salted Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Dried Fenugreek Leaves, soaked in 1 Tsp Hot Water",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fenugreek Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander, To Garnish",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crushed Toasted Cashews, To Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Crushed Toasted Cashews, To Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the chicken tikka first. You’ll need 4-6 wooden or metal skewers; if using wooden skewers, soak them in water for 20 minutes before using to prevent them from burning. Chop the chicken into cubes (4-6 pieces per thigh) and finely grate your ginger and garlic. Put into a bowl along with the rest of the tikka ingredients. Mix gently, then thread onto the skewers, leaving a small gap between each piece."
+    },
+    {
+      "heading": null,
+      "description": "Place the skewers evenly spaced on a medium-hot, oiled griddle pan and cook for 15 minutes, turning regularly until cooked through and slightly charred. You may have to do this in two lots depending on the size of your griddle and the number of skewers. If you don’t have a griddle pan you can pop the skewers on a foil-lined baking sheet and grill on high for 20–25 minutes until lightly charred on top, turning them over halfway through the cooking time."
+    },
+    {
+      "heading": null,
+      "description": "Get your Tilda Pure Basmati rice on - cook according to packet instructions for the best results."
+    },
+    {
+      "heading": null,
+      "description": "To make the curry, put the passata and sour cream into a heavy-based pan and stir well. Place over a low heat, adding the chilli powder and garam masala and finally the butter. As it starts bubbling, remove the chicken tikkas from the skewers and tip them into the pan, along with their juices and the soaked fenugreek leaves with their water. If the curry starts splattering, loosely cover it with a lid."
+    },
+    {
+      "heading": null,
+      "description": "Simmer for 10 minutes until you see the butter oozing through the curry and the colour deepens to a rich red. Add salt to your taste. Sprinkle with fresh coriander and chopped toasted cashews to serve, on a bed of steaming hot Tilda Pure Basmati Rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Freezer Friendly",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-09-27T09:00:00+01:00"
+}

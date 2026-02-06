@@ -1,0 +1,190 @@
+{
+  "id": "7153798",
+  "slug": "super-greens-garlic-sauce",
+  "title": "Super Greens & Garlic Sauce",
+  "url": "https://www.mob.co.uk/recipes/super-greens-garlic-sauce",
+  "summary": "An easy blitz-it-and-go sauce loaded with herbs, all the green veg and a good hit of garlic. One batch made and midweek meals are practically done.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Super-Greens-Garlic-Sauce.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 6,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "2 Brown Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Garlic Cloves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cavolo Nero",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Flat-Leaf Parsley",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Frozen Spinach, defrosted",
+      "quantity": "300",
+      "unit": null,
+      "name": "Frozen Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Frozen Spinach, defrosted",
+      "quantity": "300",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Vegetable Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": "70",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon, juiced",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Defrost the spinach. Thinly slice the onions. Peel the garlic cloves and gently bash them. Strip the cavolo nero leaves from the stalks and roughly chop the leaves. Roughly chop the parsley, stalks and all. Roughly slice the courgette."
+    },
+    {
+      "heading": null,
+      "description": "Add the olive oil to a large saucepan and set over a medium heat. Add the garlic and let it sizzle gently for a couple of minutes until fragrant, don’t let it go golden. Tip in the sliced onions and cook for 5–6 mins until soft and translucent."
+    },
+    {
+      "heading": null,
+      "description": "Add the cavolo nero and parsley to the pan and cook, stirring regularly, until just wilted. Take the pan off the heat and leave the greens to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "Once cooled, transfer the greens to a blender with the spinach, courgette and vegetable stock. Blitz until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour the sauce back into the empty saucepan and bring to the boil over a medium-high heat. Turn the heat down to medium and simmer until the sauce thickens to your liking. Taste and season to your liking with salt, black pepper and the juice of the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Pour the sauce into a clean, heat-safe jar and seal tightly. Let it cool completely before storing. If sealed, it’ll keep at room temp for up to a month. If unsealed, chill and use within 2 weeks."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Batch",
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-27T07:00:00+01:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "3980404",
+  "slug": "smoked-rosemary-rum-old-fashioned",
+  "title": "Smoked Rosemary & Rum Old Fashioned",
+  "url": "https://www.mob.co.uk/recipes/smoked-rosemary-rum-old-fashioned",
+  "summary": "This is a fun take on a traditional Old Fashioned where we’ve used rum instead of bourbon and maple syrup in place of simple syrup. Yum.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Rosemary-Rum-Old-Fashioned.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 137,
+    "protein": 0,
+    "fat": null,
+    "saturated_fat": null,
+    "carbohydrates": 7,
+    "dietary_fibre": 0,
+    "sugars": 7,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "50ml Mount Gay Black Barrel Rum",
+      "quantity": "50",
+      "unit": null,
+      "name": "Gold Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Maple Syrup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Dashes of Angostura Bitters",
+      "quantity": "2",
+      "unit": null,
+      "name": "Angostura Bitters",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sprig of Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange Rind (For Garnish)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange Rind",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel your orange for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Using a lighter, burn your rosemary sprig until it's smoking a little, then upend your chosen glass and let the smoky flavour take hold."
+    },
+    {
+      "heading": null,
+      "description": "When you think it's smoky enough, put your glass right way up again and pour in your maple syrup and Angostura bitters."
+    },
+    {
+      "heading": null,
+      "description": "Add a large ice cube and the orange peel."
+    },
+    {
+      "heading": null,
+      "description": "Stir for 2-5 minutes to allow the ice to melt, chilling the rum and letting the flavours mellow."
+    },
+    {
+      "heading": null,
+      "description": "Add in your rosemary sprig and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-19T08:00:00+00:00"
+}

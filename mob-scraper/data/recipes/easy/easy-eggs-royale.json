@@ -1,0 +1,158 @@
+{
+  "id": "3466893",
+  "slug": "easy-eggs-royale",
+  "title": "Easy Eggs Royale",
+  "url": "https://www.mob.co.uk/recipes/easy-eggs-royale",
+  "summary": "Meet Eggs Benedict's noble cousin, Eggs Royale. Swapping out the bacon for smoked salmon takes this classic dish to a whole new level, making it perfect for a sophisticated brunch or indulgent lunch. Traditionally served on a toasted English muffin and topped with a perfectly poached egg, the dish is elevated further with a dollop of creamy Greek yoghurt or even a drizzle of buttery béarnaise sauce infused with dill or tarragon. Add a side of sautéed spinach to give it an Eggs Florentine twist, or pair it with a mixed salad for a lighter touch. For extra flavour, try a sprinkle of mustard or a dash of hot sauce.\n\nInspired by the grand dining traditions of eateries like Delmonico's Restaurant, where chef Charles Ranhofer famously shaped American cuisine, this dish fits right in among fine foods like soft-boiled eggs, American pancakes, and a Bloody Mary or glass of prosecco.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A5601-4.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 19,
+    "fat": 48,
+    "saturated_fat": 27,
+    "carbohydrates": 28,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 672
+  },
+  "ingredients": [
+    {
+      "label": "4 English Muffins",
+      "quantity": "288",
+      "unit": null,
+      "name": "English Muffin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g butter",
+      "quantity": "250",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp White Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Egg Yolks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices Smoked Salmon",
+      "quantity": "120",
+      "unit": null,
+      "name": "Smoked Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices Smoked Salmon",
+      "quantity": "120",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Melt the butter in a small pan until it foams, then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Grab a heatproof bowl that will fit over a small pan. Add the egg yolks, white wine vinegar and a pinch of salt and whisk to combine."
+    },
+    {
+      "heading": null,
+      "description": "Fill the pan with water and bring to a simmer, then place the bowl on top (make sure it’s not touching the water). Whisk the mixture and as it warms it will thicken, this will take 3 or 4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Now slowly pour in the melted butter, whisking to emulsify and remove from the heat. Taste and add salt and more vinegar if needed. Set aside somewhere warm."
+    },
+    {
+      "heading": null,
+      "description": "Half and toast the muffins and top each with 2 slices of smoked salmon."
+    },
+    {
+      "heading": null,
+      "description": "To poach the eggs, bring a large pan of water to a boil and then reduce the heat to barely a simmer. Grab a spoon and stir the water hard to make a whirlpool."
+    },
+    {
+      "heading": null,
+      "description": "Crack in the eggs (it’s easier to do 2 at a time) and the spinning water will keep them together as you crack them in."
+    },
+    {
+      "heading": null,
+      "description": "Allow to cook for a couple of minutes, then remove with a slotted spoon and place on top of the salmon."
+    },
+    {
+      "heading": null,
+      "description": "Pour over the hollandaise, top with finely chopped chives and a grind of pepper. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-02T08:30:00+01:00"
+}

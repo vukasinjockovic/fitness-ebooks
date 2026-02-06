@@ -1,0 +1,283 @@
+{
+  "id": "4565813",
+  "slug": "creamy-cauliflower-coconutty-lentils",
+  "title": "Creamy Cauliflower & Coconutty Lentils",
+  "url": "https://www.mob.co.uk/recipes/creamy-cauliflower-coconutty-lentils",
+  "summary": "This creamy sauce is almost a dal that’s blended until smooth, then layered up with roasted cauliflower and its crispy leaves, pickled onions, almonds and chilli. It’s a high protein, high fibre meal with big flavours and textures.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Creamy-Cauliflower-Coconutty-Lentils.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 10,
+    "fat": 18,
+    "saturated_fat": 7,
+    "carbohydrates": 27,
+    "dietary_fibre": 8,
+    "sugars": 10,
+    "sodium": 426
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Roasted Almonds (Or Peanuts)",
+      "quantity": "3",
+      "unit": null,
+      "name": "Roasted Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Cauliflower (About 1kg)",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hot Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hot Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mild Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Tomato Purée",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Chopped Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Almond Butter (Optional, or Sub for Peanut Butter)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Almond Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Red Split Lentils",
+      "quantity": "120",
+      "unit": null,
+      "name": "Red Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Red Split Lentils",
+      "quantity": "120",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225ml Water",
+      "quantity": "225",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Pickled Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pickled Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Mince the garlic and ginger (no need to peel the ginger). Finely dice the shallot. Finely slice the chilli. Roughly chop the almonds."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large pot or saucepan with a good drizzle of olive oil over medium heat. Add the shallots and cook for 5-6 mins until translucent."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop the cauliflower into bite sized pieces and set aside any leaves. Add the cauliflower florets to a large baking tray and drizzle with olive oil, salt and pepper and half of the hot paprika. Toss well and roast for 15 mins, then give them a shake and add the cauliflower leaves to the tray and roast for another 15 mins until the cauliflower and leaves are roasted and golden on the edges."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining smoked paprika, chilli if using, curry powder, garlic, ginger and tomato purée to the pot and cook for 1-2 mins, stirring continuously, until fragrant. Take care not to burn them. Then add the lentils, coconut milk, tinned tomatoes, almond butter, stock cube and water. Bring to the boil and then lower to a simmer. Cook for 25-30 mins until the lentils are tender."
+    },
+    {
+      "heading": null,
+      "description": "When the lentils are cooked through, you have the option to blend them into a creamy sauce or leave them as they are, both ways are delicious. If blending, let it cool slightly before pouring into a blender or use a stick blender to blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Add the cauliflower and leaves to the lentils and top with the fresh chilli, pickled onions, and roasted almonds and a drizzle of olive oil to finish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Family-Friendly",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-18T16:14:00+01:00"
+}

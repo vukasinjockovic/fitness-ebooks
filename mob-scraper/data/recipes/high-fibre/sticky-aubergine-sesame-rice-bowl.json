@@ -1,0 +1,284 @@
+{
+  "id": "1527458",
+  "slug": "sticky-aubergine-sesame-rice-bowl",
+  "title": "Sticky Aubergine Sesame Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/sticky-aubergine-sesame-rice-bowl",
+  "summary": "This is another lockdown dish I have been loving. It's the Holy Trinity of sticky, sweet and spicy. Give it a go MOB, you won't regret it. Ben x",
+  "image": "https://files.mob-cdn.co.uk/recipes/Image-from-iOS-8.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 482,
+    "protein": 8,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 75,
+    "dietary_fibre": 7,
+    "sugars": 11,
+    "sodium": 664
+  },
+  "ingredients": [
+    {
+      "label": "3 Aubergines",
+      "quantity": "3",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": "25",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Half a Red Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Knob of Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360g Sushi Rice",
+      "quantity": "360",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360g Sushi Rice",
+      "quantity": "360",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hoisin Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hoisin Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crispy Chilli Oil (Separating the Oil and the Crispy Chilli)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Agave Nectar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Veggie Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Shichimi (Use 2:1 Chilli Powder and Salt)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shichimi Togarashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 170°C/325°F."
+    },
+    {
+      "heading": null,
+      "description": "Slice your aubergines into batons and whack them in a colander. Salt and leave for 5 mins to extract the water."
+    },
+    {
+      "heading": null,
+      "description": "After 5 mins, pat dry and get them onto a baking tray. Drizzle with vegetable oil and place in the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "While your aubergine is roasting, it's time to prep your veg. Finely slice your spring onions, red cabbage, garlic, ginger and red chillies."
+    },
+    {
+      "heading": null,
+      "description": "Grab 2 bowls. Add your spring onions to one and your red cabbage to the other. Cover your spring onions with the juice of your lime, 1 tbsp of your rice vinegar and a sprinkling of salt. Over your red cabbage pour 1 tbsp of your rice vinegar, 1 tbsp of your sesame oil and salt and mix it through. Cover and place both in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Rinse your sushi rice then add to a pan with just enough water to cover for 30 mins to soak."
+    },
+    {
+      "heading": null,
+      "description": "Into a wok add your garlic, ginger and red chillies with a bit of oil and fry on a low heat. Once softened, add your hoisin sauce, soy sauce, your remaining sesame oil and rice vinegar, chilli oil, sesame seeds, agave and a veggie stock cube."
+    },
+    {
+      "heading": null,
+      "description": "Give everything a good mix together then add your aubergine straight from the oven."
+    },
+    {
+      "heading": null,
+      "description": "Add enough water into the wok to just cover your aubergine and leave to simmer until it has reduced into a lovely thick sauce. Remember to stir every now and then so it doesn't stick to the bottom."
+    },
+    {
+      "heading": null,
+      "description": "Rice time. Drain your rice and add it into a saucepan with 540ml of water and your shichimi. Bring to a boil then turn down to a simmer and place the lid on until cooked."
+    },
+    {
+      "heading": null,
+      "description": "Time to plate up. First, make a bed of your sushi rice. Add a generous dollop of your aubergine sauce, a helping of your marinated red cabbage and some sliced avocado. Garnish with your spring onions, shichimi, crispy chilli bits and some more sesame seeds and tuck in. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-02-10T11:06:00+00:00"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "6645041",
+  "slug": "philly-cheesesteaks",
+  "title": "Philly Cheesesteaks",
+  "url": "https://www.mob.co.uk/recipes/philly-cheesesteaks",
+  "summary": "American-style subs with tender beef short ribs and melted Swiss cheese. A classic for a reason.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Philly-Cheesesteak.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1092,
+    "protein": 54,
+    "fat": 65,
+    "saturated_fat": 22,
+    "carbohydrates": 73,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "8 Boneless Short Ribs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Boneless Beef Short Rib",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Boneless Short Ribs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Slices Swiss Cheese",
+      "quantity": "10",
+      "unit": null,
+      "name": "Swiss Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Slices Swiss Cheese",
+      "quantity": "10",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Sesame Hoagies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sesame Hoagie Roll",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Mayonnaise",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pop the short ribs onto a tray and into the freezer for 10-15 mins. Once super cold and firm, use a long, very sharp knife to cut the ribs into thin strips. Cut the onions into a chunky dice."
+    },
+    {
+      "heading": null,
+      "description": "Preheat your pan over a high heat. Add a shot of olive oil and tip in the onions. Add a pinch of salt and cook for 4-5 mins until softened and beginning to caramelise around the edges. Shimmy the onions over to one side and crank the heat to max. Add the sliced short rib and cook, undisturbed for 2 mins. Now use two spatulas to cut the meat more and break down the slices even further."
+    },
+    {
+      "heading": null,
+      "description": "Once well coloured on one side, toss the meat through the onions and season generously with salt and black pepper. Lay the sliced cheese over the top, covering the whole pan. Keep cooking – the underside of the steak and onions will get crispier and crispier whilst the top gets melty and gooey."
+    },
+    {
+      "heading": null,
+      "description": "Split the bread open and spread with mayo. Toast in a dry pan until golden brown. Add a little more mayonnaise and then load with the cheesy steak. Wrap with foil and then allow to steam for a couple of mins. This will allow everything to meld and properly melt. Now slice open and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-09T05:00:00+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "3948423",
+  "slug": "festive-espresso-martini",
+  "title": "Festive Espresso Martini",
+  "url": "https://www.mob.co.uk/recipes/festive-espresso-martini",
+  "summary": "A good old fashioned Espresso Martini, with a cinnamon Christmas twist",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Festive-Espresso-Martini.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 137,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 13,
+    "dietary_fibre": 0,
+    "sugars": 11,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "25ml Kahlúa",
+      "quantity": "25",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Vodka",
+      "quantity": "25",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Espresso",
+      "quantity": "25",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ground Cinnamon",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Whole Cinnamon Stick",
+      "quantity": null,
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour your ice, vodka, Kahlúa, and shot of espresso into a cocktail shaker."
+    },
+    {
+      "heading": null,
+      "description": "Shake until a frost forms on the outside of the shaker (30 seconds to a minute)."
+    },
+    {
+      "heading": null,
+      "description": "Double strain into a chilled martini glass."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with a dusting of cinnamon. If you’re feeling fancy, hold a lighter under the cinnamon as you sprinkle and watch it cook the cinnamon as it falls to create a beautiful christmassy smell and bouquet for your drink."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-02T14:30:00+00:00"
+}

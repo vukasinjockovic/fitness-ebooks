@@ -1,0 +1,351 @@
+{
+  "id": "2453597",
+  "slug": "seemas-mob-truck-burger",
+  "title": "Seema's Ultimate Gochujang Chicken Burger",
+  "url": "https://www.mob.co.uk/recipes/seemas-mob-truck-burger",
+  "summary": "A crispy chicken burger laced with spicy gochujang. You queued over two hours for this bad boy, and now you can finally make it for yourself.",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_1161-5.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1092,
+    "protein": 44,
+    "fat": 54,
+    "saturated_fat": 12,
+    "carbohydrates": 104,
+    "dietary_fibre": 5,
+    "sugars": 22,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "6 Boneless, Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless, Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Apple Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Gochujang",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "⅓ Tsp White Pepper Powder",
+      "quantity": "0.33",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt (for the chicken marinade) and 1 Tsp Salt (for seasoning the plain flour)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Spring Onions",
+      "quantity": "5",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3cm Knob of Ginger",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sour Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Gochujang",
+      "quantity": "100",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Apple Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Honey",
+      "quantity": "3",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crispy Chilli Oil With Sediment (We Used Lee Kum Kee)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½  Head White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½  Head White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": "25",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mayo",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Apple Cider Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mayo",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Kimchi",
+      "quantity": "100",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Brioche Buns",
+      "quantity": "372",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine your chicken in a bowl with 1 tbsp soy sauce, 1 tbsp apple cider vinegar, 1 tbsp gochujang, 2 eggs, yoghurt, ½ tsp white pepper and ½ tsp of salt. Allow to marinate in the fridge for 30 mins or ideally overnight."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop 5 spring onions and grate your ginger and garlic into a bowl. Whisk in the sour cream, gochujang, 1 tsp apple cider vinegar, sesame oil, honey, 2 tbsp soy sauce, and chilli oil bits."
+    },
+    {
+      "heading": null,
+      "description": "Shred the cabbage and finely chop the coriander and spring onions. Mix 100g mayo, 3 tbsp apple cider vinegar and ½ tsp salt. Mix it all together scrunching it up with your hands."
+    },
+    {
+      "heading": null,
+      "description": "Blitz 100g mayo with your kimchi. Taste and add salt, if needed. This will depend on how salty your kimchi already is."
+    },
+    {
+      "heading": null,
+      "description": "Season the plain flour with 1 tsp salt."
+    },
+    {
+      "heading": null,
+      "description": "Dunk your chicken pieces into the flour, pressing and squeezing the flour into every crevice of the chicken. Lift the chicken pieces out of the flour and repeat the squeezing process 3 times – the aim is to form lots of craggy bits."
+    },
+    {
+      "heading": null,
+      "description": "Get a big pot ready (enough for frying) and fill with enough oil. Deep fry the chicken until cooked through and golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Toast the brioche buns and add in a few dollops of the slaw to the base. After that, layer on your crispy chicken and drizzle over lots of the spicy sauce. Spread the kimchi mayo on the top bun and press down the burger."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy, but make sure to have a lot of napkins to hand."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2021-09-08T14:46:00+01:00"
+}

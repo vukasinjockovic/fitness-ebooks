@@ -1,0 +1,391 @@
+{
+  "id": "91240",
+  "slug": "the-ultimate-lasagne",
+  "title": "The Ultimate Lasagne Recipe",
+  "url": "https://www.mob.co.uk/recipes/the-ultimate-lasagne",
+  "summary": "We've made the best lasagne recipe. The secret ingredient? Milk. It tenderises the meat, to leave you with the most tender ragù. Use a deep dish and find out how to layer a lasagne.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/The-Ultimate-Lasagne-Recipe.jpg",
+  "cook_time": 205,
+  "prep_time": 25,
+  "total_time": 230,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 522,
+    "protein": 29,
+    "fat": 29,
+    "saturated_fat": 13,
+    "carbohydrates": 33,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "800g Beef Mince",
+      "quantity": "800",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Beef Mince",
+      "quantity": "800",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Rosemary (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Thyme (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Bay Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Red Wine",
+      "quantity": "250",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Stock (Or Beef Stock)",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Milk",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Nutmeg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parmesan",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Fresh Lasagne Sheets",
+      "quantity": "600",
+      "unit": null,
+      "name": "Fresh Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Fresh Lasagne Sheets",
+      "quantity": "600",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Low-Moisture Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Low-Moisture Mozzarella Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Low-Moisture Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 150°C."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large oven proof pot or casserole over a high heat until smoking hot, then add a glug of olive oil and crumble in the beef mince. Working in batches if necessary, brown the mince until it’s very crispy. The more colour the better, so take your time and make it count!"
+    },
+    {
+      "heading": null,
+      "description": "While the beef is browning, tip the onions, carrots and celery into a food processor and whizz into a finely chopped paste. Grate in your garlic. Tie the herbs together into a little bundle and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Once the beef is browned off, fish it out of the pan and tip in your veggie mix. Season with salt and cook for 13-15 mins over a medium heat. It should reduce in volume and pick up a little colour. Now add the beef back to the pan and add the wine. Scrape all the flavour off of the bottom of the pan and reduce the wine by half."
+    },
+    {
+      "heading": null,
+      "description": "Drop in the bundle of herbs and pour in the chicken stock, tinned tomatoes, and milk. Bring to a boil, pop the lid on, and slide into the oven for 2 ½ to 3 hours."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the béchamel. Over a medium heat, melt the butter in a small saucepan and tip in the flour. Whisk together and cook for 1-2 mins until it starts to smell biscuity. Now gradually whisk in the milk, making sure you incorporate it fully between each addition. Once all the milk has been added, bring to a boil and season with salt, pepper and nutmeg. Remove from the heat and whisk in the grated Parmesan. Cover and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Pull the ragù out of the oven and season to taste with salt and pepper. It should have reduced significantly and be a deep brown colour. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pot of salted water to a boil and blanch the lasagne sheets for 1 minute before shocking in ice water. Coarsely grate the mozzarella, finely chop the parsley and finely grate the Parmesan."
+    },
+    {
+      "heading": null,
+      "description": "Increase the heat of the oven to 200°C. Grab a lasagne dish and start to layer up. Start with a thin layer of ragu, then pasta, then bechamel topped with grated mozzarella, parsley and Parmesan, then pasta, then ragù. Repeat until all of the ingredients have been used."
+    },
+    {
+      "heading": null,
+      "description": "Finish the top layer with bechamel, mozz and parm and slide into the oven for 35-40 mins. It should come out bubbling, with crispy edges and a beautiful, burnished top. Allow to rest for 15 mins (at least!) before slicing and serving."
+    }
+  ],
+  "tips": [
+    "Simmer your sauce for longer—the richer the flavour, the better the lasagne.",
+    "Don’t skip the béchamel! It adds a creamy balance to the layers.",
+    "Spread ingredients evenly to ensure every bite is perfect.",
+    "If using dried pasta sheets, soak them briefly to avoid uneven cooking.",
+    "Cover with foil for most of the baking time to lock in moisture, then uncover for a golden, bubbling top.",
+    "Let it rest for 10-15 minutes after baking—it’s worth the wait for cleaner slices",
+    "Make it ahead: Lasagne tastes even better the next day!"
+  ],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Most Cooked",
+    "Family-Friendly",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-11-07T10:00:00+00:00"
+}

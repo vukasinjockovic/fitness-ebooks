@@ -1,0 +1,202 @@
+{
+  "id": "260102",
+  "slug": "fry-up-hash",
+  "title": "The Fry Up Hash",
+  "url": "https://www.mob.co.uk/recipes/fry-up-hash",
+  "summary": "Fry Up Police is back, with a Full English hash: all your favourite fry up ingredients all chopped up, whacked in a pan and finished with a crispy egg on top.",
+  "image": "https://files.mob-cdn.co.uk/recipes/fup-hash.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 34,
+    "fat": 44,
+    "saturated_fat": 14,
+    "carbohydrates": 23,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "4 Medium Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sausages",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Smoked Bacon",
+      "quantity": "400",
+      "unit": null,
+      "name": "Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Smoked Bacon",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chestnut Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chestnut Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Black Pudding",
+      "quantity": "200",
+      "unit": null,
+      "name": "Black Pudding",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop up your potatoes into small chunks and parboil for 10 minutes and remove when still slightly al dente."
+    },
+    {
+      "heading": null,
+      "description": "In a separate pan, heat a large glug of oil, add your sausages and fry until browned."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion and dice your black pudding and bacon. Then add these to the sausages along with the drained potatoes."
+    },
+    {
+      "heading": null,
+      "description": "Remove the sausages and set them aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop the mushrooms and tomatoes into small chunks, then toss them into the dish and give it a good stir."
+    },
+    {
+      "heading": null,
+      "description": "Slice the sausages into bite-sized pieces, add them back into the dish and mix it together."
+    },
+    {
+      "heading": null,
+      "description": "Crack in your eggs, then cover with foil for 6 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Remove the foil, serve up and season with salt and pepper. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-04-22T10:19:00+01:00"
+}

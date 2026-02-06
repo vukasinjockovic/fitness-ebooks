@@ -1,0 +1,304 @@
+{
+  "id": "34151",
+  "slug": "jerk-chicken",
+  "title": "Easy Oven Jerk Chicken by Original Flava",
+  "url": "https://www.mob.co.uk/recipes/jerk-chicken",
+  "summary": "Original Flava's sticky fiery jerk chicken with a side of rice, peas, and plantain. It pays homage to the delicious Caribbean flavours... a big dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A0036.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 900,
+    "protein": 32,
+    "fat": 29,
+    "saturated_fat": 15,
+    "carbohydrates": 120,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 340
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dry Kidney Beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kidney Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dry Kidney Beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Thyme Sprigs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Scotch Bonnet Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Cloves of Garlic",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Creamed Coconut",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cream of Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Rice",
+      "quantity": "600",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Pimento Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pimento Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Jerk Seasoning",
+      "quantity": "3",
+      "unit": null,
+      "name": "Jerk Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Nutmeg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Apple Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Browning or Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Plantain",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plantain",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by chopping onion then blend together the onion, 6 peeled garlic cloves, 1 tsp of pimento seeds, 1/2 of your fresh thyme, 2 spring onions, black pepper, ground nutmeg, sugar, salt, apple cider vinegar, juice of the lime, 2 chopped scotch bonnet peppers, browning, and 50ml water. This is your marinade."
+    },
+    {
+      "heading": null,
+      "description": "In another bowl, sprinkle your jerk seasoning over the chicken and rub it in. Then add your paste and massage it all together making sure all the meat is fully covered. Marinate overnight."
+    },
+    {
+      "heading": null,
+      "description": "Wash the kidney beans and soak in a bowl overnight."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken has been marinated and kidneys have been soaked preheat the oven 180°C/ 356°F."
+    },
+    {
+      "heading": null,
+      "description": "Roast the chicken for 45 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, boil the kidney beans and whack in the salt, pepper, 1 tsp of pimento peas, 2 spring onions, 1/2 your thyme, 4 peeled garlic cloves, coconut milk, chopped onion and creamed coconut. Then add your washed rice (make sure there is enough water to cook the rice) and 1 whole scotch bonnet pepper then cook for 20 minutes until the rice is fluffy."
+    },
+    {
+      "heading": null,
+      "description": "In another pan, fill it with vegetable oil and cook up some plantain. When frying you’re looking for a golden brown colour."
+    },
+    {
+      "heading": null,
+      "description": "Finally, toss the rice into a dish with the chicken and fried plantain then dig into this delicious dish! Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2020-02-06T00:00:00+00:00"
+}

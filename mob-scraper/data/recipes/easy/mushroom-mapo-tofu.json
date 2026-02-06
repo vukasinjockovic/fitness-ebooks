@@ -1,0 +1,273 @@
+{
+  "id": "6493546",
+  "slug": "mushroom-mapo-tofu",
+  "title": "Mushroom Mapo-ish Tofu",
+  "url": "https://www.mob.co.uk/recipes/mushroom-mapo-tofu",
+  "summary": "Our vegan take on a Sichuan classic with spicy, aromatic tofu and meaty shiitake mushrooms. Be warned: it’s addictive.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Mushroom-Mapo-ish-Tofu.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 13,
+    "fat": 10,
+    "saturated_fat": 1,
+    "carbohydrates": 23,
+    "dietary_fibre": 6,
+    "sugars": 3,
+    "sodium": 322
+  },
+  "ingredients": [
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Thai Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thai Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Shiitake Mushrooms",
+      "quantity": "150",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Firm Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Firm Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Black Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Black Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chinese Five Spice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Black Bean Paste",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Black Bean Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220ml Water",
+      "quantity": "220",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tsp Sesame Oil",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chinese Black Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Black Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Tsp Sugar",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crispy Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and finely chop the ginger and garlic. Finely slice the chilli. Mince the Shiitake mushrooms as finely as possible (or use a mini chopper). Mix the cornflour with water and set aside. Finely chop the spring onions. Drain and slice the tofu into 3cm pieces. Drain and rinse the beans."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of vegetable oil (or another neutral oil) in a wok or a frying pan over a medium heat. Add the Chinese five spice and cook for 30 seconds. Add in the garlic, ginger and chilli and cook for another 30 seconds. Add in the mushrooms, season with salt and cook for a couple of mins until golden."
+    },
+    {
+      "heading": null,
+      "description": "Add the bean paste and the black beans, along with the water, and mix well. Make the cornflour slurry by mixing together the cornflour and water in a small bowl then add to the pan. Season with salt, to taste, then simmer for about 5 mins until the sauce is starting to thicken then gently stir through the tofu. Simmer for another 5 mins or until the tofu is hot and the sauce has thickened. Taste and season with salt, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Season with, salt, sesame oil, sugar and Chinese black vinegar to taste."
+    },
+    {
+      "heading": null,
+      "description": "Divide between plates and top with the sliced spring onions. Serve with crispy chilli oil and cooked rice, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-11T16:26:00+01:00"
+}

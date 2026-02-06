@@ -1,0 +1,162 @@
+{
+  "id": "4254574",
+  "slug": "sriracha-bloody-mary",
+  "title": "Sriracha Bloody Mary",
+  "url": "https://www.mob.co.uk/recipes/sriracha-bloody-mary",
+  "summary": "Make sure to taste your Bloody Mary as you go to wing in as much spice, salt and ice cold vodka as you dare.  Our ultimate trick: sriracha ice cubes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Spicy-Sriracha-Bloody-Mary.jpg",
+  "cook_time": null,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 23,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 5,
+    "dietary_fibre": 1,
+    "sugars": 3,
+    "sodium": 677
+  },
+  "ingredients": [
+    {
+      "label": "300ml Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sriracha",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Tomato Juice",
+      "quantity": "120",
+      "unit": null,
+      "name": "Tomato Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Tbsp Worcestershire Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch of Celery Salt or Tajin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Grated Horseradish, or 1 Tsp Creamed Horseradish",
+      "quantity": "1",
+      "unit": null,
+      "name": "Horseradish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tabasco, To Taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Tabasco",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Tajin Seasoning",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tajin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Celery Stick",
+      "quantity": "40",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a tall glass with chunky ice cubes. Tip in the vodka and tomato juice and stir. Add the Worcestershire sauce, celery salt/tajin, horseradish and give another thorough stir."
+    },
+    {
+      "heading": null,
+      "description": "Have a taste and decide quite how hungover you are. The more severe, the more spice is required. Adjust with Tabasco, salt and pepper and garnish with a big fat crunchy stick of celery. Drink up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-17T10:27:00+01:00"
+}

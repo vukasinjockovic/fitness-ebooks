@@ -1,0 +1,248 @@
+{
+  "id": "7069989",
+  "slug": "braised-soy-sauce-chicken-udon-soup-noodles",
+  "title": "Braised Soy Sauce Chicken Udon Soup Noodles",
+  "url": "https://www.mob.co.uk/recipes/braised-soy-sauce-chicken-udon-soup-noodles",
+  "summary": "A rich, comforting bowl of broth-soaked udon noodles, tender soy-braised chicken and zingy toppings. Big flavour. Minimal faff.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Braised-Soy-Sauce-Chicken-Udon-Soup-Noodles.jpg",
+  "cook_time": 25,
+  "prep_time": 7,
+  "total_time": 32,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 627,
+    "protein": 38,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 81,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "4 boneless, skinless chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 boneless, skinless chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 brown onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g frozen udon noodle blocks",
+      "quantity": "400",
+      "unit": null,
+      "name": "Frozen Udon Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g frozen udon noodle blocks",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp light soy sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp mirin",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp sake (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml cold water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml dashi stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 spring onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A handful of ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "½ tsp sesame oil",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp sesame seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g fresh ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp shichimi togarashi",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shichimi Togarashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp vegetable oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Sear the chicken. Heat a splash of vegetable oil in a saucepan over high heat. Add the chicken thighs and sear for 2 mins per side until golden. Remove from the pan and reduce the heat to medium."
+    },
+    {
+      "heading": null,
+      "description": "Prep and braise. Peel and thinly slice the onion and add it to the pan. Pour in the soy sauce, mirin, sake (if using), and cold water. Stir gently and cook for 3–5 mins until the onion softens and takes on the soy colour."
+    },
+    {
+      "heading": null,
+      "description": "Return the chicken to the pan and pour in the dashi or chicken stock. Bring to a gentle simmer over medium-high heat and cook for 10 mins. Once cooked, remove the chicken and turn the heat to low."
+    },
+    {
+      "heading": null,
+      "description": "Make the toppings. While the chicken cooks, slice the spring onions into thin strips and submerge them in a bowl of ice water. Zest the lime and grate the ginger."
+    },
+    {
+      "heading": null,
+      "description": "Shred and mix. Shred the chicken and combine it in a bowl with the lime zest, sesame oil, sesame seeds, grated ginger, and drained spring onions. Mix to coat."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles. Bring the broth back to a boil. Add the frozen udon noodles and cook according to packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Divide the noodles between two bowls. Ladle the broth over until the noodles are submerged. Top with a generous pile of shredded chicken and garnish with a wedge of lime and a sprinkle of shichimi togarashi, if using."
+    }
+  ],
+  "tips": [
+    "Chicken and broth can be made ahead and stored for 3 days in the fridge.",
+    "Reheat broth until piping hot before adding fresh-cooked udon.",
+    "Spring onion garnish best added fresh."
+  ],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-01T11:36:00+01:00"
+}

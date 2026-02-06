@@ -1,0 +1,255 @@
+{
+  "id": "4747465",
+  "slug": "chicken-bacon-mashed-potato-pie",
+  "title": "Chicken & Bacon Mashed Potato Pie",
+  "url": "https://www.mob.co.uk/recipes/chicken-bacon-mashed-potato-pie",
+  "summary": "Cheesy, hearty, warming. This chicken and bacon mashed potato pie is exactly the sort of dish you'd want to come home to after a long day at school. Nostalgia done right.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Chicken-Bacon-Mashed-Potato-Pie.jpg",
+  "cook_time": 100,
+  "prep_time": 20,
+  "total_time": 120,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 563,
+    "protein": 37,
+    "fat": 24,
+    "saturated_fat": 11,
+    "carbohydrates": 48,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 629
+  },
+  "ingredients": [
+    {
+      "label": "1kg Skinless, Boneless Chicken Thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Skinless, Boneless Chicken Thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Leeks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful of Thyme (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Smoked Lardons",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon Lardons",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Smoked Lardons",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Plain Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Chicken Stock",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Crème Fraîche",
+      "quantity": "100",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Potatoes",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the chicken into 2cm pieces. Finely slice the garlic, then halve and finely slice the leeks before popping them into a colander and giving them a good rinse. Peel and finely dice the carrots. Pick the leaves from the thyme stems."
+    },
+    {
+      "heading": null,
+      "description": "Add a shot of oil to a pan set over a medium heat, then add the chicken. Brown on all sides before removing the chicken from the pan. Set aside. Add the bacon and fry until golden and crisp. Add the carrots, leeks, thyme and garlic, then fry for 5 mins until the leeks are soft."
+    },
+    {
+      "heading": null,
+      "description": "Add the flour and cook for 2-3 mins. Pour in the stock and simmer away for a couple of minutes until thickened. Return the chicken to the pan, then mix through 5 tbsp of the crème fraîche. Taste the sauce and adjust the seasoning. Set aside while you prepare the mash."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Peel and cut the potatoes into quarters, put them into a large saucepan and cover with cold, salted water. Bring to the boil and cook for 10-15 mins until the potatoes are tender. Meanwhile, grate the cheddar. Drain the potatoes and steam-dry for a couple of minutes, before mashing until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the mashed potato back to the same saucepan and put over a low heat. Add the butter and melt through, then stir through 2 tbsp crème fraîche and your Dijon mustard. Mix until combined, then season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Now your filling and mash are ready, it’s time to assemble! All you need to do is fill a deep casserole dish with the filling and then scoop the mash on top using an ice-cream scoop – if you don’t have one, use a spoon and smooth-out instead (the ice-cream scoop is just very reminiscent of school dinners!). Scatter over the cheese, then transfer the pie to the oven and bake for 25-30 mins until golden."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "High Fibre",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-06T09:00:00+00:00"
+}

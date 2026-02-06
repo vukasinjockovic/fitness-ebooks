@@ -1,0 +1,309 @@
+{
+  "id": "7041420",
+  "slug": "smashed-chicken-tacos-pineapple-salsa",
+  "title": "Smashed Chicken Tacos with Pineapple Salsa",
+  "url": "https://www.mob.co.uk/recipes/smashed-chicken-tacos-pineapple-salsa",
+  "summary": "Indulgent and fresh. These crispy pan-fried tacos with a spicy pineapple salsa are seriously good, and they’re perfect for meal prep. Just fry them up when you’re ready to eat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/2/Smashed-Chicken-Tacos-2.jpg",
+  "cook_time": 5,
+  "prep_time": 25,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 32,
+    "fat": 28,
+    "saturated_fat": 8,
+    "carbohydrates": 38,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 753
+  },
+  "ingredients": [
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Grated Mozzarella",
+      "quantity": "80",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Grated Mozzarella",
+      "quantity": "80",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Flour Tortillas",
+      "quantity": "4",
+      "unit": null,
+      "name": "Flour Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Flour Tortillas",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Jalepenos",
+      "quantity": "2",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Handful Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Pineapple",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 tbsp Challula",
+      "quantity": "2",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "30",
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cabbage",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Feta",
+      "quantity": "40",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Feta",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lime Wedges",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Soured Cream",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grate the onion into a large bowl. Add the chicken mince, grated mozzarella and spices. Season with salt and pepper and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Lay out the tortillas and divide the chicken mix between them. Use a fork to smash the chicken into the tortilla, making sure to go right to the edge. If making ahead, stack the tortillas up between sheets of greaseproof paper in a container and keep in the fridge for up to 3 days or the freezer (covered in foil) for up to 3 months."
+    },
+    {
+      "heading": null,
+      "description": "To make the salsa, dice the jalapeño, pineapple and red onion and chop the coriander. Mix together and season with lime juice, hot sauce and salt to taste. If making ahead, transfer to a container and store in the fridge for up to 3 days."
+    },
+    {
+      "heading": null,
+      "description": "When ready to eat, finely shred the cabbage, slice the avocado and crumble the feta. Heat a medium sized frying pan over a high heat. Once hot, add a little olive oil and place the taco, chicken side down, into the pan. Cook over a medium heat for 4-6 mins until nicely browned. Flip and crisp up the tortilla."
+    },
+    {
+      "heading": null,
+      "description": "Plate up with the salsa, avocado, cabbage, feta and a wedge of lime. Douse in your favourite hot sauce and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Most Cooked",
+    "Family-Friendly",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-11T10:03:00+00:00"
+}

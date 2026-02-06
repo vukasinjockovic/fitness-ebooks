@@ -1,0 +1,305 @@
+{
+  "id": "962187",
+  "slug": "four-bean-spiced-stew",
+  "title": "Four Bean Spiced Stew",
+  "url": "https://www.mob.co.uk/recipes/four-bean-spiced-stew",
+  "summary": "This vegan bean stew takes inspiration from the flavours of Moroccan cooking. A one-pot banger to serve up on cold winter nights using Ocado ingredients.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/THREE-BEAN-TAJINE-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 28,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 233
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Chopped Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Vegetable Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Runner Beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Runner Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Haricot Beans",
+      "quantity": "235",
+      "unit": null,
+      "name": "Drained Haricot Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Haricot Beans",
+      "quantity": "235",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Kidney Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Kidney Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Kidney Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Flaked Almonds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Couscous, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice your red onions and garlic and chop your ginger and coriander."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large saucepan. Add your cinnamon stick and cook for a minute until fragrant, then add your red onion and fry for 10 minutes until softening and starting to caramelise. Add your garlic and ginger, then cook out for a minute more."
+    },
+    {
+      "heading": null,
+      "description": "Add your coriander, paprika, turmeric and tomato paste to the onions and give it a good stir, cooking out for 2 minutes until you have a fragrant and jammy mixture. Tip in your tomatoes and vegetable stock and bring to a simmer, then add your runner beans. Turn down the heat to a whisper, pop on a lid and simmer for 20 minutes until your beans are tender."
+    },
+    {
+      "heading": null,
+      "description": "Tip your chickpeas, haricot beans and kidney beans into the pan and give a good stir. Simmer for 5 minutes until your beans are piping hot. Squeeze in your lemon juice and season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Serve up in a bowl over couscous with toasted almonds and your chopped coriander."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Batch",
+    "Freezer Friendly",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-06T10:00:00+00:00"
+}

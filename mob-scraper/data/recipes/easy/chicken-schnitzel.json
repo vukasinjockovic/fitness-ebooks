@@ -1,0 +1,314 @@
+{
+  "id": "5171301",
+  "slug": "chicken-schnitzel",
+  "title": "Chicken Schnitzel with Sauce Gribiche & Fennel Salad",
+  "url": "https://www.mob.co.uk/recipes/chicken-schnitzel",
+  "summary": "A wicked smart chicken schnitzel with a creamy sauce gribiche and bitter fennel salad to cut through the richness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Chicken-Schnitzel-with-Sauce-Gribiche-Fennel-Salad.jpg",
+  "cook_time": 25,
+  "prep_time": 35,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 44,
+    "fat": 29,
+    "saturated_fat": 4,
+    "carbohydrates": 48,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 858
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Breast Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breast Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Flour",
+      "quantity": "150",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Panko Breadcrumbs",
+      "quantity": "250",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lemon wedges, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Mayo",
+      "quantity": "6",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cornichons",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cornichon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Capers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Dill",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Chives",
+      "quantity": "20",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Tarragon",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Tarragon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Heads of Fennel",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Ripe Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the sauce. Bring a pot of water to the boil and lower in the eggs. Boil for 8 mins before removing and plunging into ice water. Once cool enough to handle, crack and gently peel the eggs, using the bowl of water to help wash away any shards of shell."
+    },
+    {
+      "heading": null,
+      "description": "Pop the eggs onto a board and chop them down into a fine dice. Don’t be super particular about it, just keep chopping until they’re nice and fine. Scrape into a bowl and add the mayo. Finely chop the shallots, cornichons, capers and herbs tip into the bowl, too. Season well with salt and black pepper and add the zest of the lemon, plus a tiny squeeze of juice. Your sauce should be like a loose, chunky egg mayo."
+    },
+    {
+      "heading": null,
+      "description": "Slice the fennel as thinly as you can with a mandolin. Add to a bowl of ice water and let hang out for 15-20 mins. This isn’t completely necessary but will make the fennel super crispy and delicious. While the fennel is on ice, chunk up the tomatoes and finely chop the dill. Drain the fennel and dry as best you can with a salad spinner or in a clean tea towel. Combine everything in a bowl and season well with salt, lemon juice, olive oil and a little black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Set your chicken breasts out on a chopping board and use a sharp knife to butterfly each. To do this, carefully cut through one side of the breast, working your way horizontally across the meat opening it up like a book."
+    },
+    {
+      "heading": null,
+      "description": "Sandwich each breast between two sheets of greaseproof paper and use a small saucepan or frying pan to gently bat the chicken out until it’s super thin. Set up three bowls, one with flour, one beaten eggs, one panko breadcrumbs. Season the chicken breasts very well with salt and pepper and then pass through the flour, egg and then the breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "When ready to fry, cover the bottom of a pan with 1 cm of vegetable oil, with a dash of olive oil for colour. Warm over a medium heat until shimmering, and then fry the schnitzels for 3-4 mins a side or until golden brown. They’re so thin that once they’re looking golden brown and delicious, they’ll be done."
+    },
+    {
+      "heading": null,
+      "description": "Serve each schnitzel with a heaping spoon of gribiche, a wedge of lemon and a big handful of your fresh salad."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Austrian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-01T06:30:00+01:00"
+}

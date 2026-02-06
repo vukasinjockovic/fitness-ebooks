@@ -1,0 +1,117 @@
+{
+  "id": "5738803",
+  "slug": "strawberries-cream-recipe",
+  "title": "Strawberries & Cream",
+  "url": "https://www.mob.co.uk/recipes/strawberries-cream-recipe",
+  "summary": "This is our play on strawberries and cream, with a hint of numbing floral spice from Sichuan peppercorns and some banging homemade meringues. The strawberries get juicier the longer you leave them so feel free to make them well ahead of eating.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Strawberries-Cream-Recipe.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 288,
+    "protein": 3,
+    "fat": 21,
+    "saturated_fat": 14,
+    "carbohydrates": 22,
+    "dietary_fibre": 2,
+    "sugars": 20,
+    "sodium": 29
+  },
+  "ingredients": [
+    {
+      "label": "1 Tsp Sichuan Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Strawberries",
+      "quantity": "400",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Icing Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Double Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Meringues (see our recipe to make your own)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Meringue",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a small dry frying pan, toast the Sichuan peppercorns over a medium heat until smelling fragrant and amazing. Leave to cool then roughly crush in a pestle and mortar and tip into a bowl. Quarter and cut the tops off the strawberries, add to the bowl with the peppercorns. Sprinkle over ⅔ of the icing sugar and squeeze over the lemon juice. Stir and leave to macerate for at least 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Pour the double cream into a large bowl, then sieve in the remaining third of the icing sugar. Whisk together until the cream is just holding its shape."
+    },
+    {
+      "heading": null,
+      "description": "Serve the strawberries and cream alongside the meringues for the ultimate summer pud."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-24T10:33:00+01:00"
+}

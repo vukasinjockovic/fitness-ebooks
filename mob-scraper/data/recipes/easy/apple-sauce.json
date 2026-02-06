@@ -1,0 +1,118 @@
+{
+  "id": "6963666",
+  "slug": "apple-sauce",
+  "title": "Apple Sauce",
+  "url": "https://www.mob.co.uk/recipes/apple-sauce",
+  "summary": "This classic homemade apple sauce is so easy to make, and is much more delicious than the shop-bought stuff. Serve it with roast pork for the perfect Sunday lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Apple-Sauce.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 164,
+    "protein": 1,
+    "fat": 4,
+    "saturated_fat": 3,
+    "carbohydrates": 32,
+    "dietary_fibre": 3,
+    "sugars": 30,
+    "sodium": 3
+  },
+  "ingredients": [
+    {
+      "label": "800g Cooking Apples",
+      "quantity": "800",
+      "unit": null,
+      "name": "Bramley Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Cooking Apples",
+      "quantity": "800",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Caster Sugar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Unsalted Butter",
+      "quantity": "40",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the apples. Coarsely grate the peeled apples into a saucepan."
+    },
+    {
+      "heading": null,
+      "description": "Add the lemon juice, sugar and butter into the grated apples. Mix to combine then set the pan over a medium-high heat."
+    },
+    {
+      "heading": null,
+      "description": "Bring the mixture to a boil, then turn the heat down to medium, place a lid on and cook for 15-20 mins, stirring occasionally, until the apples have softened completely."
+    },
+    {
+      "heading": null,
+      "description": "Once softened, remove the lid. If your apple sauce is too loose for your liking, turn the heat up to medium-high and keep cooking the apple sauce for another 5-10 mins, with the lid off, until thickened."
+    },
+    {
+      "heading": null,
+      "description": "Taste and season with more sugar, if desired. Serve with roast pork."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-10-01T16:43:00+01:00"
+}

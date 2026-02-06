@@ -1,0 +1,382 @@
+{
+  "id": "5845000",
+  "slug": "mushroom-skewers-with-ezme-hummus",
+  "title": "Mushroom Skewers with Ezme & Hummus",
+  "url": "https://www.mob.co.uk/recipes/mushroom-skewers-with-ezme-hummus",
+  "summary": "A plant-based skewer recipe that you're going to love. We've paired charred mushroom skewers with a tangy Turkish-inspired salad and creamy homemade hummus.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Mushroom-Skewers-with-Ezme-Hummus.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 755,
+    "protein": 22,
+    "fat": 37,
+    "saturated_fat": 5,
+    "carbohydrates": 81,
+    "dietary_fibre": 15,
+    "sugars": 18,
+    "sodium": 808
+  },
+  "ingredients": [
+    {
+      "label": "1 red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g cherry tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g cherry tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 red bell pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp lemon juice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp pomegranate molasses",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp aleppo pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aleppo Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g drained chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g drained chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml chickpea water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Reserved Chickpea Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ clove of garlic",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ clove of garlic",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175ml tahini",
+      "quantity": "175",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp lemon juice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g oyster mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Oyster Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g oyster mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 small preserved lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Preserved Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 garlic cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 garlic cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp smoked paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground all spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground All Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp olive oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Flatbreads",
+      "quantity": "2",
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the preserved lemons and remove the pips. Place them into a pestle and mortar and add the garlic and spices, olive oil and salt and pepper, then grind into a paste. If you don't have a pestle and mortar, mince the garlic and mix everything in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Tear the mushrooms if they are very big and then add to a large mixing bowl. Peel and cut the onion into eighths and break up the layers. Add the preserved lemon paste to the mushrooms and onions with some extra olive oil and toss to combine well. If you have time, you can leave them to marinate for an hour in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C and alternate the mushrooms and onions onto the skewers. Line a baking tray and place the skewers onto it. Bake for 10 mins on the top shelf, then turn and bake for another 10-15 mins until golden and crispy on the edges. Finish with a drizzle of pomegranate molasses and a sprinkle of sea salt if you like."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion, chilli, cherry tomatoes, pepper and parsley and keep them all on the chopping board. Once they are all chopped, push them together and chop again to combine all of the flavours and make sure everything is chopped very fine. Add all of the ingredients to a bowl and season with plenty of salt and pepper. Add the lemon juice, pomegranate molasses and Aleppo pepper."
+    },
+    {
+      "heading": null,
+      "description": "Drain the chickpeas and save the chickpea water."
+    },
+    {
+      "heading": null,
+      "description": "Add all of the ingredients to a high speed blender and blend until smooth. Taste and adjust seasonings or add more lemon juice to your preference."
+    },
+    {
+      "heading": null,
+      "description": "To serve, plate up the hummus and top with the ezme salad. Add the mushrooms skewers on the side and scoop it all up with the flatbread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Turkish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-14T12:00:00+01:00"
+}

@@ -1,0 +1,239 @@
+{
+  "id": "7989142",
+  "slug": "tinned-tuna-poke-bowl",
+  "title": "Tinned Tuna Poke Bowl",
+  "url": "https://www.mob.co.uk/recipes/tinned-tuna-poke-bowl",
+  "summary": "Spicy tuna, crunchy slaw, sticky rice, and miso dressing. Build your own mouthfuls with nori and go wild.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Tinned-Tuna-Poke-Bowl.jpg",
+  "cook_time": 5,
+  "prep_time": 15,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 545,
+    "protein": 40,
+    "fat": 14,
+    "saturated_fat": 2,
+    "carbohydrates": 62,
+    "dietary_fibre": 5,
+    "sugars": 14,
+    "sodium": 1640
+  },
+  "ingredients": [
+    {
+      "label": "2 Tins Tuna in Brine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Light Mayonnaise",
+      "quantity": "20",
+      "unit": null,
+      "name": "Light Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Light Mayonnaise",
+      "quantity": "20",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Sriracha",
+      "quantity": "30",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Red Cabbage",
+      "quantity": "100",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Edamame Beans",
+      "quantity": "30",
+      "unit": null,
+      "name": "Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Miso Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cooked Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Nori Sheets",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Drain the tuna and chuck it into a bowl with the mayo, sriracha and soy sauce. Mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and shred the carrots. Finely slice the red cabbage. Blanch the edamame in boiling water for 3 mins, then drain."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, whisk together the miso paste, rice vinegar, soy sauce and honey. Add a splash of water to loosen if it’s too thick."
+    },
+    {
+      "heading": null,
+      "description": "Mix the carrot and cabbage with two-thirds of the miso dressing and toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "To build your bowls, start with a layer of warm rice. Top with the dressed slaw, spicy tuna and edamame beans."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle over the remaining dressing, sprinkle with sesame seeds and serve with lime wedges."
+    },
+    {
+      "heading": null,
+      "description": "Tear up the nori and use it to scoop up all the good stuff."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Calorie",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-10-27T10:51:00+00:00"
+}

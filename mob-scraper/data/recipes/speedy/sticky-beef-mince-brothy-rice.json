@@ -1,0 +1,286 @@
+{
+  "id": "8324265",
+  "slug": "sticky-beef-mince-brothy-rice",
+  "title": "Sticky Beef Mince Brothy Rice",
+  "url": "https://www.mob.co.uk/recipes/sticky-beef-mince-brothy-rice",
+  "summary": "Caramelised, glossy beef mince in a fragrant broth, spooned over hot rice and topped with crisp onions, chilli and lime. Slurpy, beefy comfort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2026/01/STICKY-BEEF-MINCE-AND-RICE0901-1.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1042,
+    "protein": 41,
+    "fat": 54,
+    "saturated_fat": 16,
+    "carbohydrates": 99,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "Beef Stock",
+      "quantity": "700",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "4",
+      "unit": null,
+      "name": "Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "2",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "2",
+      "unit": null,
+      "name": "Microwave Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": null,
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": true,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Thinly slice the onion and chuck it into a bowl of ice-cold water. Leave it to crisp up while you crack on with everything else. Bash the ginger with the side of your knife and gently crush the cardamom pods."
+    },
+    {
+      "heading": null,
+      "description": "Place a saucepan over a medium-high heat and toast the star anise and cardamom for about a minute until fragrant. Add the ginger and a small drizzle of olive oil. Let it sizzle for 30 seconds, then pour in the beef stock. Bring to the boil, turn the heat down and leave to gently simmer."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan over a high heat with a drizzle of olive oil. Add the beef mince and cook, breaking it up, until well browned and starting to crisp."
+    },
+    {
+      "heading": null,
+      "description": "Mix the oyster sauce, sugar, sriracha, beef stock, soy sauce and rice vinegar together in a small bowl. Pour the sauce into the pan with the beef and let it bubble and reduce until sticky and caramelised, taste and season with salt and pepper if needed. Then finish by stirring through the butter."
+    },
+    {
+      "heading": null,
+      "description": "Divide the hot rice between bowls. Just before serving, season the broth with lime juice and fish sauce, to taste. Ladle over the hot broth onto the rice, then top with the beef."
+    },
+    {
+      "heading": null,
+      "description": "Serve with the sliced onion, coriander and sliced red chilli, and some extra lime wedges on the side if you fancy some more zing. Dig in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2026-01-11T18:24:00+00:00"
+}

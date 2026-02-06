@@ -1,0 +1,110 @@
+{
+  "id": "3139370",
+  "slug": "crepes",
+  "title": "Crêpes",
+  "url": "https://www.mob.co.uk/recipes/crepes",
+  "summary": "A total classic, with just 3 ingredients, the way it should be. We like them best served with sugar and lemon.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Crepes.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 97,
+    "protein": 4,
+    "fat": 2,
+    "saturated_fat": 1,
+    "carbohydrates": 15,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 47
+  },
+  "ingredients": [
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Sift the flour into a large bowl and add a pinch of salt. Make a well in the middle and crack in the eggs. Slowly pour in the milk, mixing all the time, until the batter is smooth."
+    },
+    {
+      "heading": null,
+      "description": "Rest in the fridge for 30 mins, or even overnight."
+    },
+    {
+      "heading": null,
+      "description": "To cook, heat a nonstick pan over a medium heat and add a teaspoon of butter. When the butter is foaming, add about 3 tbsp of the pancake batter to the pan and swirl so it spreads into a thin layer."
+    },
+    {
+      "heading": null,
+      "description": "Cook for about 40 seconds, then flip and cook for another 20-30 seconds. Eat straight away or keep on a plate in a warm oven while you make the rest."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-16T10:46:00+00:00"
+}

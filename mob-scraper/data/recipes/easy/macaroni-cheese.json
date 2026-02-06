@@ -1,0 +1,161 @@
+{
+  "id": "3898267",
+  "slug": "macaroni-cheese",
+  "title": "Macaroni Cheese",
+  "url": "https://www.mob.co.uk/recipes/macaroni-cheese",
+  "summary": "We're going back to basics with this simple but perfect mac and cheese.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Macaroni-Cheese.jpg",
+  "cook_time": 40,
+  "prep_time": 10,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1122,
+    "protein": 54,
+    "fat": 66,
+    "saturated_fat": 39,
+    "carbohydrates": 78,
+    "dietary_fibre": 3,
+    "sugars": 10,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "500g Macaroni",
+      "quantity": "500",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Macaroni",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Cheddar Cheese",
+      "quantity": "600",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Cheddar Cheese",
+      "quantity": "600",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Flour",
+      "quantity": "60",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1ltr Milk",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 160°C. Bring a large pan of salted water to the boil. Once boiling, add the macaroni and cook for 1 min less than packet instructions. Drain the pasta, reserving a mug of the cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the pasta cooks, grate the cheddar cheese."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a large, deep pan over a medium heat. Once melted, whisk in the flour to form a sandy paste. Cook this, whisking constantly, for 2-3 mins, until it starts to smell a little nutty. This is how you know the flour has cooked out and you can be sure your sauce won’t taste of raw flour."
+    },
+    {
+      "heading": null,
+      "description": "Add the milk to the pan, a big splash at a time, whisking constantly and making sure it’s all absorbed into the paste. Doing it like this ensures you don’t get a lumpy cheese sauce. Keep adding until you’ve added all the milk, then add the cheese and whisk until it’s melted into a creamy, cheesy sauce. Add the mustard and season generously with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Remove the sauce from the heat, add the macaroni and a splash of the reserved pasta water. Stir together until all the pasta is coated with the cheese sauce. You want the sauce creamy, but just a little looser than you think, add more pasta water if you need to."
+    },
+    {
+      "heading": null,
+      "description": "Spoon into a 25 - 30cm baking dish. Grate the parmesan over the top, then slide into the oven and bake for 25 mins, until golden and bubbling. If it's not browning enough, turn on the grill for the last 5 mins. Cool for a few mins before serving (so you don’t scald your mouth!)."
+    }
+  ],
+  "tips": [
+    "Add a teaspoon of mustard, a pinch of nutmeg, or a splash of Worcestershire sauce to the béchamel for extra depth.",
+    "Sprinkle breadcrumbs mixed with melted butter and Parmesan over the top before baking for a crunchy, golden finish.",
+    "Grate cheese fresh from the block rather than using pre-shredded, as additives in pre-grated cheese can affect melting.",
+    "Macaroni cheese is rich—smaller portions with sides like salad or roasted veggies balance the meal.",
+    "Always add a little milk when reheating to bring back the creaminess and avoid drying out."
+  ],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-06T19:39:00+00:00"
+}

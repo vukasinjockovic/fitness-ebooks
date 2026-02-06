@@ -1,0 +1,158 @@
+{
+  "id": "2139108",
+  "slug": "orange-and-vanilla-cheesecake",
+  "title": "Orange and Vanilla Cheesecake",
+  "url": "https://www.mob.co.uk/recipes/orange-and-vanilla-cheesecake",
+  "summary": "A beautifully creamy and perfectly set orange and vanilla cheesecake, made by Ocado's own Hannah.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A9310.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 300,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 332,
+    "protein": 5,
+    "fat": 21,
+    "saturated_fat": 13,
+    "carbohydrates": 29,
+    "dietary_fibre": 1,
+    "sugars": 19,
+    "sodium": 186
+  },
+  "ingredients": [
+    {
+      "label": "650g Cream Cheese",
+      "quantity": "650",
+      "unit": null,
+      "name": "Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "650g Cream Cheese",
+      "quantity": "650",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Digestive Biscuits",
+      "quantity": "175",
+      "unit": null,
+      "name": "Digestive Biscuit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Salted Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Golden Caster Sugar",
+      "quantity": "175",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Double Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Oranges",
+      "quantity": "4",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the cream cheese from the fridge 30 mins before cooking to allow it to get to room temperature and soften. Preheat the oven to 150°C."
+    },
+    {
+      "heading": null,
+      "description": "Crush the biscuits to fine crumbs either by whizzing in a food processor or put them into a polythene bag and bashing them with a rolling pin."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in the microwave and combine it with the crushed biscuits. Spoon this mixture into the base of a 20cm (8in) springform tin, pressing the biscuit well into the base."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the cream cheese into a large bowl and beat well to soften it. Add the golden caster sugar, double cream, eggs, vanilla extract and grate the zest of your oranges. Mix well until all the ingredients are evenly combined. Pour this mixture over the top of the biscuit base."
+    },
+    {
+      "heading": null,
+      "description": "Bake in the oven for 30 mins then turn off the heat and allow to finish cooking for 1 hour in the heat of the oven. (The cheesecake will still be quite wobbly at this stage)."
+    },
+    {
+      "heading": null,
+      "description": "Carefully remove from the oven and chill overnight or at least 4 hours. Slice into portions and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Freezer Friendly",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-06-06T10:05:00+01:00"
+}

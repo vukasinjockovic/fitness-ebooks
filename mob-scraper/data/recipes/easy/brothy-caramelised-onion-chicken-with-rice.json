@@ -1,0 +1,273 @@
+{
+  "id": "5480065",
+  "slug": "brothy-caramelised-onion-chicken-with-rice",
+  "title": "Brothy Caramelised Onion Chicken with Rice",
+  "url": "https://www.mob.co.uk/recipes/brothy-caramelised-onion-chicken-with-rice",
+  "summary": "Inspired by Senegalese chicken yassa – we've made it into a brothy caramelised onion soup base, reminiscent of French onion soup with a zingy kick you find in yassa. It’s the perfect weeknight meal to make.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Brothy-Caramelised-Onion-Chicken-with-Rice.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 426,
+    "protein": 28,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 54,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "8 Boneless, Skinless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Boneless, Skinless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Brown Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Scotch Bonnet",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Parsley (20g)",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Apple Cider Vinegar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the chicken into a bowl and finely grate over the garlic. Add the mustard and juice of the lemon, season with salt and plenty of black pepper and thoroughly mix together. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Trim and thinly slice the onions. Add a drizzle of oil to a saucepan set over medium-high heat. Once hot, add the onions along with a good pinch of salt. Cook the onions, stirring occasionally until they have softened and caramelised. After about 15-20 mins they should be golden. Add a splash of water if the onions are catching on the bottom of the pan."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, mince the garlic. Prick a few holes into the scotch bonnet or, if you like spice, finely mince. Pick half the parsley leaves and thinly slice the rest (stems included)."
+    },
+    {
+      "heading": null,
+      "description": "Stir the chopped parsley, garlic, mustard and scotch bonnet through the onions and pour in the vinegar. Cook it out, making sure to scrape the bottom of the pan to lift any caramelised bits. Add the bay leaves and pour in the chicken stock, bring to the boil, then turn the heat down to a gentle simmer."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, place a frying pan over a medium-high heat and add a drizzle of olive oil. Once hot, fry the marinated chicken for 10-15 mins until cooked through and golden on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Share the cooked rice between bowls. Taste and season the broth with lemon juice, salt and pepper before ladeling into the bowls. Top with sliced chicken and a scattering of parsley."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Power Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-29T08:00:00+01:00"
+}

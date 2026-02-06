@@ -1,0 +1,186 @@
+{
+  "id": "5840403",
+  "slug": "peach-burrata-chopped-salad",
+  "title": "Peach & Burrata Chopped Salad",
+  "url": "https://www.mob.co.uk/recipes/peach-burrata-chopped-salad",
+  "summary": "This is a gloriously summery chopped salad that's perfect for when the sun is shining. Or when it's not. Give it a go.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/849A7542.png",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 370,
+    "protein": 13,
+    "fat": 22,
+    "saturated_fat": 7,
+    "carbohydrates": 29,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "Small Bunch Mint (30g)",
+      "quantity": "30",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Peaches",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Burrata",
+      "quantity": "150",
+      "unit": null,
+      "name": "Burrata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Microwavable Mixed Grains Pouch",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mixed Grain Pouch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Parma Ham",
+      "quantity": "80",
+      "unit": null,
+      "name": "Parma Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Parma Ham",
+      "quantity": "80",
+      "unit": null,
+      "name": "Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Rocket",
+      "quantity": "40",
+      "unit": null,
+      "name": "Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Balsamic Vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 tbsp Olive Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pick the mint leaves. Cut the peaches in half and discard the pits. Cook the grains following pack instructions and set aside to cool."
+    },
+    {
+      "heading": null,
+      "description": "Add the broccoli to a pan of boiling water and cook for 2 mins, then drain and run under cold water."
+    },
+    {
+      "heading": null,
+      "description": "Put the broccoli, mint and Parma ham on a chopping board and chop everything into rough chunks. Add the peaches to the board and chop again, until the peaches are also in rough chunks. Tip everything into a bowl, along with the rocket and mixed grains."
+    },
+    {
+      "heading": null,
+      "description": "Combine the olive oil, balsamic, honey and a pinch of salt in a separate bowl. Mix well, then add to the other bowl."
+    },
+    {
+      "heading": null,
+      "description": "Stir well and then top your salad with a ball of burrata before slicing it open. Mix the cheese around a bit and serve!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Batch",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-20T13:28:00+01:00"
+}

@@ -1,0 +1,181 @@
+{
+  "id": "4080765",
+  "slug": "macaroni-kimchi-cauliflower",
+  "title": "Kimchi Cauliflower Creamy Macaroni",
+  "url": "https://www.mob.co.uk/recipes/macaroni-kimchi-cauliflower",
+  "summary": "A spicy spin on two classics: Mac and Cheese, and Cauliflower Cheese. Prepare for the tastiest sauce, made by blending cauliflower with cashews and kimchi.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/IMG_3836-1.jpg",
+  "cook_time": 35,
+  "prep_time": 20,
+  "total_time": 50,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 246,
+    "protein": 11,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 33,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 482
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Cauliflower (About 1kg)",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Raw Cashews",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450ml Unsweetened Soy Milk",
+      "quantity": "450",
+      "unit": null,
+      "name": "Unsweetened Soy Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Vegan Kimchi",
+      "quantity": "150",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Nutritional Yeast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Flaky Sea Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Gochujang (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "170g Elbow Macaroni",
+      "quantity": "170",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "170g Elbow Macaroni",
+      "quantity": "170",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Smoked Vegan Cheese (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegan Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cover the cashews in boiling water and set aside. Chop the cauliflower into bite-sized pieces, including the stem."
+    },
+    {
+      "heading": null,
+      "description": "You’ll need to steam or boil all of the cauliflower. You can also microwave the florets in batches in a microwaveable bowl, covered, with a little water at the bottom. Half will be blended into the creamy sauce and half will be left whole for the bake."
+    },
+    {
+      "heading": null,
+      "description": "Steam the cauliflower for about 10-15 mins, or until just tender. Remove half of the cauliflower and put it into a small to medium sized baking dish. Try to leave the harder stem pieces behind, so they can become the sauce rather than be eaten whole in the bake.\nLeave the other half to continue cooking for another 5-7 mins, until very tender and falling apart."
+    },
+    {
+      "heading": null,
+      "description": "When the second batch of cauliflower has finished steaming and is very soft, transfer it to a blender with the cashews, nutritional yeast, plant milk, kimchi and gochujang (if using). Blend until very smooth and season well with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the macaroni al dente. Drain and pour into the baking tray with the cauliflower. Pour over the creamy sauce and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Scatter some vegan cheese, if using, over the top, and finish with a sprinkle of chilli flakes."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 5 mins uncovered under the grill on a medium heat, until golden brown."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-01-23T10:22:00+00:00"
+}

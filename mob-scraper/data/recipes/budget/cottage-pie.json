@@ -1,0 +1,278 @@
+{
+  "id": "3815665",
+  "slug": "cottage-pie",
+  "title": "Cottage Pie",
+  "url": "https://www.mob.co.uk/recipes/cottage-pie",
+  "summary": "Cottage pie is a classic British recipe. A family favourite. We've tweaked it a bit to enhance the flavours and ensure the elite cottage pie experience.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Cottage-Pie.jpg",
+  "cook_time": 45,
+  "prep_time": 80,
+  "total_time": 125,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 511,
+    "protein": 32,
+    "fat": 27,
+    "saturated_fat": 13,
+    "carbohydrates": 32,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "800g Beef Mince",
+      "quantity": "800",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Beef Mince",
+      "quantity": "800",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Carrots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Celery Sticks",
+      "quantity": "120",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sprigs of Rosemary",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tomato Purée",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Worcestershire Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp English Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "English Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Red Wine",
+      "quantity": "250",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Beef Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2kg Potatoes",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Whole Milk",
+      "quantity": "50",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Butter",
+      "quantity": "80",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Grated Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Grated Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chard",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat a large casserole or cast iron pot over a high heat. Add a splash of olive oil and brown off your beef mince in batches. Don’t add any salt yet! Once the beef is browned off, move to a plate or tray and repeat with the remaining mince."
+    },
+    {
+      "heading": null,
+      "description": "While your beef is browning, chunk up the carrots, onion and celery and chuck them into a food processor. Blitz into a coarse paste. You can finely chop the lot if you don’t have a processor or you fancy the practice, this is just an easy time saver!"
+    },
+    {
+      "heading": null,
+      "description": "Add the veggies to the pan with the beef drippings (you can add an extra splash of oil here if you need it) and a big whack of salt and black pepper. Chuck in the rosemary sprigs whole and cook over a medium heat for 10-12 mins. Add the beef back to the pan, along with the tomato purée, Worcestershire sauce and mustard and cook for a further 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Now crank up the heat to high and deglaze with the red wine. Reduce by half and add the beef stock. Lower the heat to a simmer and leave the sauce to bubble away for 40 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel your potatoes and cut into even 5-6cm chunks. Boil in well seasoned water until very tender. This will take between 10-12 mins. Drain and allow to steam for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Mash until smooth with the butter and milk. Season with salt and add the grated cheddar."
+    },
+    {
+      "heading": null,
+      "description": "Taste your ragù and season with more Worcestershire sauce, salt and black pepper (we like it very peppery!). Now roughly chop your chard, stems and all, and get it into the sauce. Pour into a baking dish and top with your mash."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 35-45 mins until golden brown and bubbling. Serve with steamy seasonal greens, peas, broccoli – whatever you fancy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-16T15:42:00+00:00"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "251897",
+  "slug": "aglio-e-olio",
+  "title": "Aglio E Olio",
+  "url": "https://www.mob.co.uk/recipes/aglio-e-olio",
+  "summary": "We have perfected the aglio e olio. Lemon is key. Creating an emulsion with the olive oil & the pasta water makes the most delicious pasta you'll ever eat. We got all the ingredients for this from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Aglio-E-Olio.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 14,
+    "fat": 19,
+    "saturated_fat": 3,
+    "carbohydrates": 83,
+    "dietary_fibre": 5,
+    "sugars": 3,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "Bunch of Parsley (100g)",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cloves of Garlic",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Pasta Water",
+      "quantity": "8",
+      "unit": null,
+      "name": "Pasta Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Good Quality Olive Oil",
+      "quantity": "6",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Boil a pan of water, salt it generously and then add your spaghetti."
+    },
+    {
+      "heading": null,
+      "description": "Get a frying pan and heat the olive oil. Finely slice your garlic and add to the pan with your chilli flakes. It is important to not let your garlic burn so keep stirring it on a low heat."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta is al dente, reserve a mug of the starchy pasta water and add a little into the garlic pan along with a pinch of salt. Stir together and lightly simmer. This is when the sauce will start coming together."
+    },
+    {
+      "heading": null,
+      "description": "Chop your parsley (saving some for garnish) and drain the pasta. Add them both into the frying pan along with the juice from a lemon. Salt the dish and start tossing it all together to create an emulsion between the pasta water and olive oil. Add more of the water if the pasta looks dry."
+    },
+    {
+      "heading": null,
+      "description": "Once everything is mixed in and the pasta is thick and almost creamy (from the pasta water), remove from the heat. Season and serve it up with extra chopped parsley on top as a garnish. Drizzle over some more olive oil. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2020-09-16T11:00:00+01:00"
+}

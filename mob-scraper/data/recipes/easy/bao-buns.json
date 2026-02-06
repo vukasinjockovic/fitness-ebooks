@@ -1,0 +1,161 @@
+{
+  "id": "7053110",
+  "slug": "bao-buns",
+  "title": "Bao Buns",
+  "url": "https://www.mob.co.uk/recipes/bao-buns",
+  "summary": "Here's the insider info on how to make the fluffiest, softest bao buns in town. Make them solo or bring in the crew and make an afternoon of it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Bao-Buns.jpg",
+  "cook_time": 30,
+  "prep_time": 120,
+  "total_time": 180,
+  "serving_size": 15,
+  "nutrition": {
+    "calories": 109,
+    "protein": 3,
+    "fat": 2,
+    "saturated_fat": 0,
+    "carbohydrates": 20,
+    "dietary_fibre": 1,
+    "sugars": 3,
+    "sodium": 79
+  },
+  "ingredients": [
+    {
+      "label": "500g Bao Flour",
+      "quantity": "500",
+      "unit": null,
+      "name": "Bao Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5.5g Dried Active Yeast",
+      "quantity": "5.5",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240ml Warm Water",
+      "quantity": "240",
+      "unit": null,
+      "name": "Warm Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Oil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4.5g Baking Powder",
+      "quantity": "4.5",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3g Salt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": "Whisk The Yeast.",
+      "description": "Tip the yeast into a bowl and add 240ml warm water. Whisk well and set aside for 10 mins."
+    },
+    {
+      "heading": "Make The Dough.",
+      "description": "Tip the flour, baking powder and sugar into a large mixing bowl. Slowly add water mix and then oil. Add salt and mix together, then tip onto a clean surface and knead for 10 mins."
+    },
+    {
+      "heading": "Rest The Dough.",
+      "description": "Add dough to a bowl and add a small layer of oil to top of dough – I like to use sesame oil but any oil will do. Cover with cling film."
+    },
+    {
+      "heading": "Proof.",
+      "description": "Leave to prove for 40-60 mins or until the dough has doubled in size, then remove the dough on a well-floured table top and lightly knead till the dough is smooth"
+    },
+    {
+      "heading": "Shape Your Bao.",
+      "description": "Get some scales and weigh out chunks of dough into 55g balls, shaping them into smooth balls (the smoother the better)."
+    },
+    {
+      "heading": "Proof The Again.",
+      "description": "Place them on a tabletop or baking sheet a couple inches apart, cover lightly with cling film and let them prove for another 20-30 mins, until puffed up."
+    },
+    {
+      "heading": "Roll Out Your Bao.",
+      "description": "Take each ball and with a rolling pin roll them into an oval shape, trying to get them about 1cm thick, then brush lightly with oil, I use sesame."
+    },
+    {
+      "heading": "Fold The Bao.",
+      "description": "Carefully fold in half and place inside your steamers. Repeat this process until they’re all done, put the steamer lid on and let them sit for another 30-40 mins."
+    },
+    {
+      "heading": "Steam.",
+      "description": "Get a pan big enough to sit the steamers on and bring the temperature up to a rolling boil. Once the water has come up to temp, add the steamers on top and let them steam for 10-12 minutes until the buns are fluffy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Asian-Inspired",
+    "Chinese-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2025-02-21T14:03:00+00:00"
+}

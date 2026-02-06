@@ -1,0 +1,132 @@
+{
+  "id": "7175959",
+  "slug": "spicy-porky-rigatoni",
+  "title": "Spicy Porky Rigatoni",
+  "url": "https://www.mob.co.uk/recipes/spicy-porky-rigatoni",
+  "summary": "Big porky flavours, minimal effort. This one’s all about using leftover Spicy Pork Ragù to make the ultimate spicy pasta in minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Spicy-Porky-Pasta.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 728,
+    "protein": 36,
+    "fat": 33,
+    "saturated_fat": 11,
+    "carbohydrates": 74,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "150g Pasta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rigatoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pasta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Spicy Pork Ragù batch recipe."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large saucepan of salted water to the boil. \nTip in the rigatoni and cook according to pack instructions until al dente."
+    },
+    {
+      "heading": null,
+      "description": "While the pasta cooks, warm the pork ragù in a separate saucepan over a low heat. Add a splash of water if it’s looking thick."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta’s ready, reserve a mugful of the pasta water, then drain. \nTip the pasta into the ragù pan and toss everything together over a medium heat until glossy and piping hot. Add a splash of pasta water to loosen, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Grate the Parmesan and stir through most of it into the ragú. Then squeeze in the juice of the lime. Season with salt and black pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Divide between bowls, then finish with the remaining Parmesan and a drizzle of olive oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-01T14:11:00+01:00"
+}

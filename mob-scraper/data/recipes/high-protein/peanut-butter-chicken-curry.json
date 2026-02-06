@@ -1,0 +1,334 @@
+{
+  "id": "5978316",
+  "slug": "peanut-butter-chicken-curry",
+  "title": "Peanut Butter Chicken Curry",
+  "url": "https://www.mob.co.uk/recipes/peanut-butter-chicken-curry",
+  "summary": "This a rich and indulgent peanut butter chicken curry that tastes even better than it sounds. Give it a go tonight and thank yourself later.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/220A1371.png",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 50,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 46,
+    "fat": 80,
+    "saturated_fat": 29,
+    "carbohydrates": 27,
+    "dietary_fibre": 6,
+    "sugars": 16,
+    "sodium": 1533
+  },
+  "ingredients": [
+    {
+      "label": "100g Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garam Masala",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ginger Paste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Paste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Paste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Melted Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander,",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ginger Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Kasoori Methi",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kasoori Methi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Kashmiri Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Double Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Knob of Butter, to serve",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "500g Chicken Thighs, boneless and skinless",
+      "quantity": "500",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Thighs, boneless and skinless",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the chicken into bite-sized pieces. Juice the lime, and add to a large bowl with all the remaining marinade ingredients, mixing to combine. Add the chicken pieces and toss, ensuring they are well coated in the marinade. Cover and chill for 1-2 hrs, or overnight for best results."
+    },
+    {
+      "heading": null,
+      "description": "Once marinated, grill or air fry the chicken on the highest setting for 10-15 mins until charred in places. Don’t worry if the chicken hasn’t cooked through fully – it will be simmered in the curry later. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the onion and chop the coriander. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oil in a large pan over a medium heat and add the chopped onion. Cook for 5-6 mins until they start to brown slightly. Add the ginger and garlic pastes and cook for 2-3 mins until fragrant. Stir in the chopped tomatoes and tomato purée, then cook until the mixture thickens and the oil starts to separate from the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Add the ground coriander, garam masala, kasoori methi, chilli powder and 1 tsp salt to the tomato mixture. Cook for 2 mins. Lower the heat and stir in the peanut butter until fully incorporated. Pour in the cream, mixing well to create a smooth, creamy sauce. Let the curry simmer for 10 mins, adding a splash of water if it gets too thick."
+    },
+    {
+      "heading": null,
+      "description": "Return the cooked chicken to the pan, stirring to coat it in the sauce. Simmer for 6-8 mins to ensure the chicken is heated through."
+    },
+    {
+      "heading": null,
+      "description": "Top with chopped coriander and a drizzle of cream or melted butter, just before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Most Cooked",
+    "Family-Friendly",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-09-16T01:00:00+01:00"
+}

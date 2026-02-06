@@ -1,0 +1,285 @@
+{
+  "id": "7047415",
+  "slug": "chicken-spring-onion-meatball-miso-soup",
+  "title": "Chicken Spring Onion Meatball Miso Soup",
+  "url": "https://www.mob.co.uk/recipes/chicken-spring-onion-meatball-miso-soup",
+  "summary": "A comforting and nourishing miso soup packed with juicy chicken meatballs, sweet napa cabbage and a deep umami broth. Perfect for a cosy night in.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Chicken-Spring-Onion-Meatballs-and-Napa-Cabbage-Miso-Soup.jpg",
+  "cook_time": 20,
+  "prep_time": 20,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 282,
+    "protein": 19,
+    "fat": 15,
+    "saturated_fat": 3,
+    "carbohydrates": 15,
+    "dietary_fibre": 2,
+    "sugars": 6,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Onion",
+      "quantity": ".25",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Onion",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Minced Chicken",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Minced Chicken",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornstarch",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mirin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Napa Cabbage",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Napa Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Napa Cabbage",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ White Onion",
+      "quantity": ".75",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ White Onion",
+      "quantity": ".75",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Chicken Stock",
+      "quantity": "700",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp White Miso Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp White Miso Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To make the meatballs, peel and grate the ginger and white onion. Mince the spring onions. To a large mixing bowl, add the minced chicken, egg and cornstarch. Use your hands to mix and squeeze until well combined and paste-like. Add the grated ginger, grated onion, minced spring onions, soy sauce, mirin and a pinch of salt and black pepper. Mix for a few more minutes until fully combined. Take small spoonfuls of the chicken mixture and roll them between the palms of your hands to form meatballs. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "To prep the soup, cut the napa cabbage into 2½ cm chunks. Peel and dice the carrot. Thinly slice the white onion. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "To cook the meatballs, heat a glug of vegetable oil in a large saucepan over a high heat then add the meatballs and brown them on all sides for 2-3 mins."
+    },
+    {
+      "heading": null,
+      "description": "To build the soup, pour the mirin into the pan (leave the meatballs in) to deglaze, scraping up any bits stuck to the pan. Add the chicken stock. Add the cabbage, carrot and white onion to the pan. Cover with a lid and simmer on a medium heat for 15-20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the remaining spring onion and set aside. Place the miso paste in a small bowl. Ladle in a few spoonfuls of the hot chicken stock to help loosen it up. Use the back of a spoon to press and stir it into a smooth paste."
+    },
+    {
+      "heading": null,
+      "description": "When the soup cooking time is up, turn off the heat. Stir through the miso paste until fully dissolved then stir through the sliced spring onion and sesame oil."
+    },
+    {
+      "heading": null,
+      "description": "Ladle the soup into bowls and serve with a wedge of lime."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Batch",
+    "Low Carb",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-10T11:10:00+00:00"
+}

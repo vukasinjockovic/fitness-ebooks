@@ -1,0 +1,175 @@
+{
+  "id": "3907246",
+  "slug": "french-onion-soup-with-comte-grilled-cheese",
+  "title": "French Onion Soup with Comté Grilled Cheese",
+  "url": "https://www.mob.co.uk/recipes/french-onion-soup-with-comte-grilled-cheese",
+  "summary": "Thinly sliced onions are caramelised with thyme and butter, cooked in beef broth and topped with bubbling cheesy toast. Surely there’s no better winter warmer!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/French-Onion-Soup-with-Comte%CC%81-Grilled-Cheese.jpg",
+  "cook_time": 60,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 22,
+    "fat": 24,
+    "saturated_fat": 13,
+    "carbohydrates": 62,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "8 Large Onions",
+      "quantity": "8",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2L Beef Stock",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Thyme",
+      "quantity": "15",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Baguette",
+      "quantity": "400",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Comté",
+      "quantity": "150",
+      "unit": null,
+      "name": "Comté",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Comté",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and slice all of the onions. Place a large saucepan over a medium heat and add 2 tbsp of olive oil and the onions along with a good pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Cook the onions, stirring occasionally, until they have softened and lost a lot of liquid. After about half an hour they should be pale golden and very soft."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice and add the garlic and the butter and cook for another 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the stock and scrape the bottom of the pan to deglaze. Pick the thyme leaves and add them to the pan, simmer for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Now taste the soup and add salt as needed (check first because your stock might already be salty enough)."
+    },
+    {
+      "heading": null,
+      "description": "Slice your baguette into rounds. Separate the soup into oven-proof bowls, add a few slices of the baguette to each bowl and grate over the comté."
+    },
+    {
+      "heading": null,
+      "description": "Place under a hot grill until the cheese is melted and golden. Finish with black pepper and serve hot!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-20T16:00:00+00:00"
+}

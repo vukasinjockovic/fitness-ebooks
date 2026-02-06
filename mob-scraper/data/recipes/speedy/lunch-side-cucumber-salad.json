@@ -1,0 +1,111 @@
+{
+  "id": "7064523",
+  "slug": "lunch-side-cucumber-salad",
+  "title": "Cucumber Salad",
+  "url": "https://www.mob.co.uk/recipes/lunch-side-cucumber-salad",
+  "summary": "This fresh cucumber salad pairs wonderfully with just about everything. They're a quick and easy way to add some zip to a meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Cucumber-Salad.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 32,
+    "protein": 1,
+    "fat": 2,
+    "saturated_fat": 0,
+    "carbohydrates": 3,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 98
+  },
+  "ingredients": [
+    {
+      "label": "½ Cucumber",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Sesame Seeds (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the cucumber and add it to a bowl with the chilli oil, rice vinegar, a pinch of salt and the sesame seeds. Finely slice the spring onions and set aside for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Serve the cucumber salad with your protein of choice and top it with a scattering of spring onions."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-04T00:00:00+00:00"
+}

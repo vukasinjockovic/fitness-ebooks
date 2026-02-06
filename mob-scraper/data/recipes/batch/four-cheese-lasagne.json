@@ -1,0 +1,267 @@
+{
+  "id": "4167224",
+  "slug": "four-cheese-lasagne",
+  "title": "Four Cheese Lasagne",
+  "url": "https://www.mob.co.uk/recipes/four-cheese-lasagne",
+  "summary": "Here's our ultimate take on lasagne. We’ve chosen four of our favourite cheeses and combined them with a lemony, green filling to create a showstopper.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Four-Cheese-Lasagne.jpg",
+  "cook_time": 75,
+  "prep_time": 40,
+  "total_time": 115,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 563,
+    "protein": 29,
+    "fat": 32,
+    "saturated_fat": 18,
+    "carbohydrates": 38,
+    "dietary_fibre": 5,
+    "sugars": 9,
+    "sodium": 726
+  },
+  "ingredients": [
+    {
+      "label": "400g Fresh Lasagne Sheets",
+      "quantity": "400",
+      "unit": null,
+      "name": "Fresh Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Fresh Lasagne Sheets",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Mozzarella",
+      "quantity": "225",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Mozzarella",
+      "quantity": "225",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2kg Spinach",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Broccoli",
+      "quantity": "2",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Pinch of Nutmeg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cheddar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cheddar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Gorgonzola",
+      "quantity": "150",
+      "unit": null,
+      "name": "Gorgonzola",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.15L Milk",
+      "quantity": "1150",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Butter",
+      "quantity": "80",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Chop the onion and garlic and finely chop the broccoli — stalks and all! Heat a big glug of oil in a large pot over a medium heat and sweat down the onion for about 5 mins before adding the broccoli and garlic along with a big pinch of salt. Continue cooking for around 5 mins, until the broccoli is just starting to colour."
+    },
+    {
+      "heading": null,
+      "description": "Add the spinach to the pot and wilt — you may need to do this in batches. Once wilted, add lemon juice and zest, then transfer into a colander in the sink whilst you get on with the cheese sauce."
+    },
+    {
+      "heading": null,
+      "description": "Grate your cheddar and half of the Parmesan. Crumble or tear your Gorgonzola. Then, melt butter in a saucepan and add the flour, cooking it out for 2 mins until it smells nutty. Gradually add in your milk, whisking constantly — this will ensure you get a nice smooth sauce."
+    },
+    {
+      "heading": null,
+      "description": "Once all of the milk is added, add the bay leaf, mustard and a big pinch of nutmeg. Bubble away for 3-5 mins until thickened, then remove the bay leaf and add in your grated and crumbled cheese. Mix well over a low heat until all the cheese has melted, then taste and adjust seasoning with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Time to assemble! Butter the baking dish. Ladle a couple of spoons of the cheese sauce into the dish and spread evenly. Add a layer of pasta sheets, cutting down if needed to fit snugly. Dot over some of the spinach mixture then continue layering with the cheese sauce and pasta sheets until everything is used up, ending with a layer of cheese sauce. This recipe makes a lasagne with 5 layers of pasta. Top with the mozzarella and grate over the remaining Parmesan. Put the dish onto a tray and bake for 30-40 mins, until golden and bubbly. Allow to cool for about 15 mins before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Batch",
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-20T11:00:00+00:00"
+}

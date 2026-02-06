@@ -1,0 +1,143 @@
+{
+  "id": "6753947",
+  "slug": "beetroot-chickpea-soup",
+  "title": "Beetroot Chickpea Soup",
+  "url": "https://www.mob.co.uk/recipes/beetroot-chickpea-soup",
+  "summary": "An earthy, sweet and creamy beetroot soup that’s packed with protective antioxidants. Combined with the fibre and plant protein from the chickpeas, you’ve got yourself a super bowl.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Beetroot-Chickpea-Soup.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 282,
+    "protein": 8,
+    "fat": 17,
+    "saturated_fat": 7,
+    "carbohydrates": 21,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 491
+  },
+  "ingredients": [
+    {
+      "label": "4 Large Beetroots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Chicken Stock",
+      "quantity": "750",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Crème Fraîche",
+      "quantity": "250",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 175°C and line a tray with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Wash and scrub the beets (no need to peel), then roughly chop them into quarters. Add to a bowl and toss with a glug of olive oil and salt. Roast in the oven for 45 mins, turning once halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Heat another glug of olive oil in a large pan set over a low-medium heat. Peel and slice the shallots, then sauté them for about 5 mins until soft and fragrant. Stir in the roasted beets, then cover with broth and simmer for 10-15 mins, until the beets are very soft."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the mixture to a blender and blend until smooth. Allow to cool for a few mins, then blend in half a cup of the crème fraîche. Transfer the soup back to the pot, drain the chickpeas (reserve the liquid for another recipe), and stir them into the soup."
+    },
+    {
+      "heading": null,
+      "description": "Divide the soup across four bowls and serve with the remaining crème fraîche, a few stalks of dill, and a drizzle of olive oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T12:18:00+01:00"
+}

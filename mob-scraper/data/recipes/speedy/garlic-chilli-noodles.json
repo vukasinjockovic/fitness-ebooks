@@ -1,0 +1,272 @@
+{
+  "id": "4567849",
+  "slug": "garlic-chilli-noodles",
+  "title": "Garlic Chilli Noodles",
+  "url": "https://www.mob.co.uk/recipes/garlic-chilli-noodles",
+  "summary": "Stir fried noodles are some of the best things on the planet. This quick and easy chicken noodle dish is inspired by Thai pad see ew. It's garlicky and delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Garlic-Chilli-Noodles.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 750,
+    "protein": 38,
+    "fat": 23,
+    "saturated_fat": 5,
+    "carbohydrates": 97,
+    "dietary_fibre": 7,
+    "sugars": 13,
+    "sodium": 2820
+  },
+  "ingredients": [
+    {
+      "label": "410g Cooked Egg Noodles",
+      "quantity": "410",
+      "unit": null,
+      "name": "Fresh Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "410g Cooked Egg Noodles",
+      "quantity": "410",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Kale",
+      "quantity": "100",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Coriander, To Serve",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Skinless Boneless Chicken Thighs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Skinless Boneless Chicken Thighs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp White Vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fresh Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Honey",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the chicken thighs into bite-sized pieces, place into a bowl and add chicken marinade, then leave in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice all the garlic cloves and your chilli. Wash the kale."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl add chilli, five pieces of sliced garlic, honey, and vinegar for the chilli vinegar, set aside."
+    },
+    {
+      "heading": null,
+      "description": "In another small bowl, combine the noodle sauce ingredients together and set aside."
+    },
+    {
+      "heading": null,
+      "description": "In another bowl, whisk eggs with a pinch of salt and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Rinse the cooked egg noodles in hot water to loosen, drain and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large pan to high heat, add 2 tbsp of oil, then use tongs to add the chicken without the excess marinating liquid, as it can burn. Spread the chicken evenly on the pan and leave to cook for 2 mins without touching, this is to get a nice golden colour. Flip and cook for another 2 mins or until lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic and cook for another minute or until they have softened, don’t let it burn. Reduce the heat to medium-high if needed."
+    },
+    {
+      "heading": null,
+      "description": "On high heat, push everything to the edge of the pan, add a tbsp of oil to the centre of the pan and pour in the eggs but don't touch them, allow the eggs to puff into a big omelette. Once the egg is mostly set, use tongs to break into big fluffy egg pieces."
+    },
+    {
+      "heading": null,
+      "description": "Toss everything together then add the noodle sauce allowing it to cook for another minute to caramelise."
+    },
+    {
+      "heading": null,
+      "description": "Add in your egg noodles, 2 tbsp of water and toss for 1 minute."
+    },
+    {
+      "heading": null,
+      "description": "Add the kale and toss for 1 minute. Add a splash more of dark soy sauce for colour, if needed, but taste the dish before adding to avoid over-seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Add fresh coriander and serve immediately with the chilli vinegar on the side"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2023-09-28T10:26:00+01:00"
+}

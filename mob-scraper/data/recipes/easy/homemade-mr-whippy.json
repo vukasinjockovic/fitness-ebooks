@@ -1,0 +1,172 @@
+{
+  "id": "7053148",
+  "slug": "homemade-mr-whippy",
+  "title": "Homemade Mr Whippy",
+  "url": "https://www.mob.co.uk/recipes/homemade-mr-whippy",
+  "summary": "Always wanted to make a Mr Whippy at home? Well, we've cracked the recipe. This easy ice cream recipe is an awfully tasty way to cool off.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Homemade-Mr-Whippy.jpg",
+  "cook_time": 25,
+  "prep_time": 120,
+  "total_time": 145,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 277,
+    "protein": 3,
+    "fat": 21,
+    "saturated_fat": 13,
+    "carbohydrates": 18,
+    "dietary_fibre": 0,
+    "sugars": 18,
+    "sodium": 23
+  },
+  "ingredients": [
+    {
+      "label": "600ml Double Cream",
+      "quantity": "600",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275g Tin of Condensed Milk",
+      "quantity": "275",
+      "unit": null,
+      "name": "Condensed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Pinch of Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Vanilla Extract",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Piping Bag",
+      "quantity": "1",
+      "unit": null,
+      "name": "Piping Bag",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Star Nozzle Attachment (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Nozzle Attachment (Optional)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chocolate Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Chocolate Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Chocolate Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Crispy Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice Cream Cones",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cream Cone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oli",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Line a large baking tin with cling film, making sure there's some overhang."
+    },
+    {
+      "heading": null,
+      "description": "Pour the cream into a large bowl and whisk into soft peaks. Pour in the condensed milk, vanilla extract and sea salt. Fold it to combine, then pour into your lined baking tin. Transfer to the freezer and set for at least 2 hours, or overnight."
+    },
+    {
+      "heading": null,
+      "description": "Cut off the end of a piping bag, and use a star nozzle if you have one, it's not essential but I like it. Using the cling film to help you, remove the ice cream from the baking tin and cut into pieces. Quickly transfer to a large mixing bowl and whip up using an electric whisk, or if you have it – a stand mixer. Scoop it into your piping bag and swirl into cones. Top with your choice of toppings and get stuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-19T14:29:00+00:00"
+}

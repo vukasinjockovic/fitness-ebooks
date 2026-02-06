@@ -1,0 +1,298 @@
+{
+  "id": "6935788",
+  "slug": "quick-spicy-beef-ramen",
+  "title": "Quick & Spicy Beef Ramen",
+  "url": "https://www.mob.co.uk/recipes/quick-spicy-beef-ramen",
+  "summary": "Proper ramen takes days to make but this is a simple way to get your fix. It’s spicy, umami and salty. Slurp it up until it’s gone.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/849A7090-1.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 782,
+    "protein": 38,
+    "fat": 32,
+    "saturated_fat": 7,
+    "carbohydrates": 82,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 2772
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cracked Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sirloin Steak",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sirloin Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sirloin Steak",
+      "quantity": "200",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Beef Broth",
+      "quantity": "600",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sriracha",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp MSG (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Beansprouts",
+      "quantity": null,
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Fresh Ramen Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Fresh Ramen Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix together the soy sauce, vegetable oil, black pepper and a pinch of salt in a mixing bowl. Add the steak and make sure it’s well coated in the sauce, then set aside to marinate."
+    },
+    {
+      "heading": null,
+      "description": "For the broth, smash the ginger with the back of a knife and peel and halve the onion. Add to a large saucepan along with the remaining broth ingredients and a pinch of salt and mix to combine. Set the pan over a high heat, pop the lid on and bring the mixture to a boil then turn the heat down to low-medium and let it simmer for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, prep your garnish. Thinly slice the white onion, spring onion and fresh coriander. Add to a mixing bowl and mix until fully combined, then set aside. Cut the lime into wedges and set aside."
+    },
+    {
+      "heading": null,
+      "description": "When the broth has 10-15 mins left, cook the steak. Heat a dry frying pan over a high heat for a minute. Add a glug of vegetable oil and swirl the pan around to coat it in the oil. Gently place the steak into the pan and cook for 1 min 30 secs per side (this will give you a medium steak; adjust timings if you prefer it more or less cooked). Transfer the steak to a plate and set aside to rest."
+    },
+    {
+      "heading": null,
+      "description": "For the beansprouts and noodles, bring a pan of water to the boil. Add the beansprouts and cook for 30-45 secs then fish them out with a sieve and set aside. Add the ramen noodles to the same pan and cook for a minute less than packet instructions then drain and divide between the serving bowls."
+    },
+    {
+      "heading": null,
+      "description": "Cut the rested steak into thin strips."
+    },
+    {
+      "heading": null,
+      "description": "To serve, ladle the broth over the noodles. Top with the slices of steak along one side and the beansprouts along the other. Put a generous handful of the onion coriander mix in the middle. Drizzle over the sesame oil and chilli oil and finish with a wedge of lime."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-30T09:00:00+00:00"
+}

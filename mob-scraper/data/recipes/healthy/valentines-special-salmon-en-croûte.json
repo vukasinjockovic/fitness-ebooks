@@ -1,0 +1,185 @@
+{
+  "id": "13800",
+  "slug": "valentines-special-salmon-en-croûte",
+  "title": "Salmon En Croûte",
+  "url": "https://www.mob.co.uk/recipes/valentines-special-salmon-en-croûte",
+  "summary": "A great Valentines day dish. Go to your fish monger & get some nice salmon to make this really special.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A3517.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 80,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 482,
+    "protein": 18,
+    "fat": 31,
+    "saturated_fat": 10,
+    "carbohydrates": 33,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "2 Salmon Fillets",
+      "quantity": "240",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tbsp Horseradish",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Horseradish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tbsp Sour Cream",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pack of Puff Pastry",
+      "quantity": "320",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Splash some olive oil into a frying pan. Add sliced garlic cloves. After 20 seconds, add your spinach. Once wilted, remove from the heat and squeeze through a sieve to drain."
+    },
+    {
+      "heading": null,
+      "description": "Add the spinach to a bowl with a horseradish and sour cream. Add a handful of chopped dill, a handful of chopped parsley, salt and pepper. Mix together."
+    },
+    {
+      "heading": null,
+      "description": "Roll out your sheet of puff pastry. Cut it in half."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking paper. Add 1 of the pastry halves to the paper. Add some spinach mix and then add your salmon fillet. Top with spinach. Fold the pastry over, crimp it, brush with egg yolk and sprinkle with some sea salt. Repeat with the other pastry half."
+    },
+    {
+      "heading": null,
+      "description": "Place the tray in the oven for 30 minutes or until the pastry is golden and crisp. Serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-02-14T00:00:00+00:00"
+}

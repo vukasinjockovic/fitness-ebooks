@@ -1,0 +1,102 @@
+{
+  "id": "6513956",
+  "slug": "perfect-almond-buttercream",
+  "title": "Perfect Almond Buttercream",
+  "url": "https://www.mob.co.uk/recipes/perfect-almond-buttercream",
+  "summary": "Need almond buttercream to fill your cakes? Here’s how to make it. The grainy texture makes it perfect for the inside of cakes, then you can use one of our other buttercreams to frost the outside.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Perfect-Almond-Buttercream.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 120,
+    "protein": 0,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 12,
+    "dietary_fibre": 0,
+    "sugars": 12,
+    "sodium": 3
+  },
+  "ingredients": [
+    {
+      "label": "55g Soft Unsalted Butter",
+      "quantity": "55",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Icing Sugar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Ground Almonds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ground Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Double Cream",
+      "quantity": "75",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make sure your butter is at room temperature. Use an electric whisk to beat the butter in a large mixing bowl for 4–5 mins on high speed."
+    },
+    {
+      "heading": null,
+      "description": "Sift in the icing sugar and add the ground almonds, vanilla and a little splash of double cream. Beat on a low speed and continue to add double cream gradually until you reach your desired thickness. Beat for a further 3 minutes, until smooth and light."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T15:15:00+01:00"
+}

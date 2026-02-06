@@ -1,0 +1,163 @@
+{
+  "id": "3057835",
+  "slug": "parsley-pesto-linguine",
+  "title": "Parsley Pesto Linguine",
+  "url": "https://www.mob.co.uk/recipes/parsley-pesto-linguine",
+  "summary": "This delicious creamy walnut and parsley pesto is totally plant-based, simple and delicious. A perfect way to use up old herbs for a delicious dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Parsley-Pesto-Linguine.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 646,
+    "protein": 12,
+    "fat": 38,
+    "saturated_fat": 5,
+    "carbohydrates": 62,
+    "dietary_fibre": 5,
+    "sugars": 2,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Linguine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parsley",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Walnuts",
+      "quantity": "75",
+      "unit": null,
+      "name": "Walnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Olive Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large pan of salted water to the boil and cook your pasta until al dente."
+    },
+    {
+      "heading": null,
+      "description": "Grate the garlic clove into your food processor (it won't break down enough if you just blend it). Add the walnuts, reserving a few for garnish, and blitz until it resembles breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Add the parsley, removing any big stalks, and 100ml of olive oil and blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta is ready, drain and reserve a large mug of the cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Toss the pesto and pasta together along with the juice of the lemon, adding pasta water as you go until you have a smooth and creamy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Season with salt and pepper and plate up, finishing with a few more chunks of walnuts and a sprinkle of parsley."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-11T04:00:00+01:00"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "5965936",
+  "slug": "strawberry-sando",
+  "title": "Strawberry Sando",
+  "url": "https://www.mob.co.uk/recipes/strawberry-sando",
+  "summary": "A recipe styled after a Japanese konbini sandwich. This simple strawberry sando is a summer delight.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Strawberry-Sando.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 470,
+    "protein": 7,
+    "fat": 32,
+    "saturated_fat": 17,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 19,
+    "sodium": 143
+  },
+  "ingredients": [
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Maple Syrup",
+      "quantity": "3",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices Milk Bread",
+      "quantity": "2",
+      "unit": null,
+      "name": "Milk Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "18 Large Strawberries",
+      "quantity": "18",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Toasted & Crushed Nuts,",
+      "quantity": "30",
+      "unit": null,
+      "name": "Toasted Nut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Whip the cream, maple syrup, vanilla and a pinch of salt in a stand mixer (or use a whisk) until you get medium-stiff peaks. It should easily hold its shape when scooped with a spoon. Add more maple syrup if you prefer it sweeter, then transfer to the fridge."
+    },
+    {
+      "heading": null,
+      "description": "If making the sando, cut the crusts off the bread. If making the maritozzi buns, slice three-quarters of the way through your brioche buns so they open like a Pac-Man."
+    },
+    {
+      "heading": null,
+      "description": "Cut the green tops of the strawberries in a ‘V’ shape to reveal strawberry hearts later."
+    },
+    {
+      "heading": null,
+      "description": "For the sando, spread a generous amount of whipped cream over a piece of bread, then place 3 strawberries, narrow-side down (for the heart shape later), on the diagonal per slice of bread. Add another 2 strawberries in the empty gaps and spread another layer of whipped cream on top. Push the cream into any empty gaps, then add the other slice of bread on top and scrape more cream on the sides like icing a cake."
+    },
+    {
+      "heading": null,
+      "description": "Lightly make a diagonal cut where the strawberries line is, so you know where to cut later."
+    },
+    {
+      "heading": null,
+      "description": "Wrap the sandwich tightly in plastic wrap and chill for at least 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Carefully remove the sandwich from the plastic wrap and slice to reveal the strawberries inside. Slice again to make four pieces, if you like. Enjoy!"
+    },
+    {
+      "heading": null,
+      "description": "For the maritozzi buns, add a dollop of cream into the back of the bun, then place a strawberry in the centre of the bun. Add 3-4 tbsp cream, then lightly press down on the bun to spread the cream evenly. Use a knife to scrape along the edge to make a flat surface. Add sliced strawberries along the outside and transfer to the fridge."
+    },
+    {
+      "heading": null,
+      "description": "To finish, roll the bun in toasted nuts, if you like. Use kitchen paper or a brush to clean up the edges."
+    },
+    {
+      "heading": null,
+      "description": "Chill for at least 20 mins, then cut in half to reveal the strawberry heart."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-14T03:00:00+01:00"
+}

@@ -1,0 +1,294 @@
+{
+  "id": "4548196",
+  "slug": "sticky-short-ribs-with-peanut-rice",
+  "title": "Sticky Short Ribs With Herb & Peanut Rice",
+  "url": "https://www.mob.co.uk/recipes/sticky-short-ribs-with-peanut-rice",
+  "summary": "Unctuous and sticky short ribs with a fresh salad and the most addictive peanut dusting. This one's special, folks.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Sticky-Short-Ribs-With-Herb-Peanut-Rice.jpg",
+  "cook_time": 190,
+  "prep_time": 20,
+  "total_time": 210,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1682,
+    "protein": 93,
+    "fat": 80,
+    "saturated_fat": 20,
+    "carbohydrates": 139,
+    "dietary_fibre": 7,
+    "sugars": 18,
+    "sodium": 2462
+  },
+  "ingredients": [
+    {
+      "label": "2 Bone-In Beef Short Ribs",
+      "quantity": "900",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bulb of Garlic, Halved",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Gochugaru",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochugaru",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Knob of Ginger, Sliced",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Mirin",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions (Whites Only)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Breakfast Radishes, Sliced",
+      "quantity": "6",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions (Greens Only)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Wine Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sesame Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Shelled Peanuts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Gochugaru",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochugaru",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp MSG",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Short-Grain Sushi Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Short-Grain Sushi Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Prep your short ribs and season them with an outrageous amount of salt. Go big here, they can take it. Get a heavy bottomed pan ripping hot, add a couple of tablespoons of vegetable oil and sear the short ribs all over, until deliciously golden brown. Remove from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice up the whites of your spring onions, saving the greens for later. Add your garlic, ginger, spring onion whites, miso and mirin to deglaze before adding your short ribs back into the pan. Cover with chicken stock, pop the lid on, and get into the oven at 160°C for 2.5-3 hours or until they fall off the bone."
+    },
+    {
+      "heading": null,
+      "description": "Roast your peanuts in the same oven for around 20 mins until golden brown and leave to cool. Once cool, crush them in a pestle and mortar or food processor until sandy in texture. Mix through the sugar, salt, MSG and chili flakes and set aside for later."
+    },
+    {
+      "heading": null,
+      "description": "Pick your coriander leaves and slice your spring onion greens and radishes. I like to give them a bath in iced water here, to crisp them up but it’s totally optional. If iced, dry them off and just mix the sesame oil, soy sauce, sugar and vinegar to make the dressing. You want to dress this just before eating."
+    },
+    {
+      "heading": null,
+      "description": "Wash your rice two to three times and add to a heavy-bottomed pan with the water. Bring to a simmer, turn the heat down as low as possible and pop the lid on. Cook for 15 mins, turn the heat off and let sit for at least 10 mins. You can leave it longer at this stage if you need to wait for anything. Fluff up your rice before serving."
+    },
+    {
+      "heading": null,
+      "description": "Get the short ribs out of the oven. Remove from the braising stock, discard the bones and shred with two forks. Strain the stock and reduce by half. Add the shredded beef to the pan with a few ladles of the reduced stock and heat through. You want this a little saucy so you get that wonderful flavour through your rice."
+    },
+    {
+      "heading": null,
+      "description": "Dress your salad. Add a good portion of rice to a bowl, top with a generous pile of saucy short rib, cover with half the salad and finish with a generous sprinkle of your peanut dust. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-12T09:25:00+01:00"
+}

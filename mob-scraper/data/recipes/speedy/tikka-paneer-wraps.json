@@ -1,0 +1,205 @@
+{
+  "id": "4407486",
+  "slug": "tikka-paneer-wraps",
+  "title": "Tikka Paneer Wraps",
+  "url": "https://www.mob.co.uk/recipes/tikka-paneer-wraps",
+  "summary": "The ultimate veggie Indian-inspired kebab. Paneer and peppers are fried in tikka masala curry paste and served with a speedy raita, roti and mango chutney.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Tikka-Paneer-Wraps.jpg",
+  "cook_time": 7,
+  "prep_time": 4,
+  "total_time": 12,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 23,
+    "fat": 27,
+    "saturated_fat": 10,
+    "carbohydrates": 56,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 528
+  },
+  "ingredients": [
+    {
+      "label": "2 x 225g Blocks of Paneer",
+      "quantity": "450",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 225g Blocks of Paneer",
+      "quantity": "450",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Bell Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sunflower Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tikka Masala Curry Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tikka Masala Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Greek Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Greek Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Mint Leaves (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fat Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fat Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chapattis or Rotis",
+      "quantity": "8",
+      "unit": null,
+      "name": "Roti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mango Chutney",
+      "quantity": null,
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut each block of paneer into 12 cubes. Deseed and roughly\nchop the peppers. Scrape both into a mixing bowl. Add the oil\nand curry paste. Mix to coat the cheese and peppers in the paste."
+    },
+    {
+      "heading": null,
+      "description": "Get a large frying pan over a high heat. Tip in the paneer and\npeppers along with all the oil and paste. Spread out in the pan and\nfry for 5 mins, turning everything regularly with a spatula, until\nthe paneer is crisp on all sides."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make a quick raita. Dollop the yogurt into a small bowl\nand tear in half the mint leaves. Coarsely grate in the cucumber,\nthen peel and finely grate in the garlic. Season with salt and black\npepper and stir."
+    },
+    {
+      "heading": null,
+      "description": "Take the paneer off the heat when ready. Warm the chapattis or\nrotis in the microwave following the packet instructions and put\ntwo on each plate. Spoon over the tikka paneer and peppers,\nthen dollop over some raita and mango chutney. Tear over the\nremaining mint leaves to finish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-21T17:24:00+01:00"
+}

@@ -1,0 +1,261 @@
+{
+  "id": "7049672",
+  "slug": "chicken-spinach-cheddar-soup",
+  "title": "Chicken, Spinach & Cheddar Soup",
+  "url": "https://www.mob.co.uk/recipes/chicken-spinach-cheddar-soup",
+  "summary": "If you want to eat your greens and hit your protein, this one’s for you. Shredded chicken in a vibrant green broth, topped with quick pickled onions for added zing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Green-Chicken-Cheddar-Soup.jpg",
+  "cook_time": 25,
+  "prep_time": 15,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 432,
+    "protein": 46,
+    "fat": 23,
+    "saturated_fat": 9,
+    "carbohydrates": 11,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 872
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Stalks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Frozen Spinach",
+      "quantity": "350",
+      "unit": null,
+      "name": "Frozen Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Frozen Spinach",
+      "quantity": "350",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1l Chicken Stock",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Skinless Boneless Chicken Thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Skinless Boneless Chicken Thighs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Fresh Spinach",
+      "quantity": "120",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Mature Cheddar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Mature Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Mature Cheddar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Toasted Sourdough",
+      "quantity": null,
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the red onion and add to a bowl with the juice of ¼ the lemon and a pinch of salt. Mix and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice the white onion and celery, and mince the garlic. Melt the butter in a large saucepan set over a medium heat. Add the onion and celery and cook for 6-7 mins until soft and jammy. Add the garlic, coriander and chilli flakes and cook for another 3-4 mins, until the garlic is soft."
+    },
+    {
+      "heading": null,
+      "description": "Add the frozen spinach and chicken stock and bring to a gentle simmer. Once the spinach has defrosted and the broth is simmering, add the chicken thighs and gently simmer for 20 mins until cooked through. Then, remove the chicken and use two forks to shred."
+    },
+    {
+      "heading": null,
+      "description": "Pour the broth mixture into a blender then add the fresh spinach and grate in the Cheddar. Blend on high until vivid green and smooth. Season to taste with salt, pepper and lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "To serve, add the shredded chicken to a bowl and pour over the broth. Top with the pickled onions, a crack of black pepper and some extra grated Cheddar, if you like. Serve with toasted sourdough."
+    },
+    {
+      "heading": null,
+      "description": "If batch cooking for the week, transfer the leftover chicken and broth to a container and the pickled onions to another. It will keep in the fridge for 3 days. Reheat the chicken and broth together until piping hot before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Low Calorie",
+    "Power Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-04T14:39:00+00:00"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "16291",
+  "slug": "chorizo-baked-eggs",
+  "title": "Chorizo Baked Eggs",
+  "url": "https://www.mob.co.uk/recipes/chorizo-baked-eggs",
+  "summary": "Want a breakfast that'll fuel you for the day? These chorizo baked eggs are spicy, warming, and the perfect weekend breakfast.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Chorizo-Baked-Eggs.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 34,
+    "fat": 39,
+    "saturated_fat": 16,
+    "carbohydrates": 18,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 1532
+  },
+  "ingredients": [
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chorizo Ring",
+      "quantity": "225",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Eggs",
+      "quantity": "10",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Can Chopped Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180ºC/356ºF."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chilli, the onion and the garlic cloves. Cut the peppers into strips, and break the chorizo into little nuggets."
+    },
+    {
+      "heading": null,
+      "description": "Add the chorizo to a big pan. Fry until crisp. Then add the vegetables. Fry for 6 minutes, until slightly softened, and then add your tinned tomatoes. Fill up both tins with water, and pour that in too. Give it a stir and let it bubble away. You want the sauce to be a thick consistency, so allow it to reduce by around a half."
+    },
+    {
+      "heading": null,
+      "description": "Take the sauce off the heat and smooth out the surface. Then make little holes in the sauce and gently drop in the eggs, so the yolks stay intact."
+    },
+    {
+      "heading": null,
+      "description": "Place the whole pan into the oven for 12 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pan, and add crumbled feta and parsley. Enjoy"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2017-06-23T00:00:00+01:00"
+}

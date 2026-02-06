@@ -1,0 +1,115 @@
+{
+  "id": "3138366",
+  "slug": "whiskey-sours",
+  "title": "Whiskey Sour",
+  "url": "https://www.mob.co.uk/recipes/whiskey-sours",
+  "summary": "This simple cocktail recipe is one that you should be adding to your weekend repertoire. Grab a cocktail shaker and you're set.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Screenshot-2022-02-25-at-12.09.52.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 312,
+    "protein": 4,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 77,
+    "dietary_fibre": 2,
+    "sugars": 75,
+    "sodium": 54
+  },
+  "ingredients": [
+    {
+      "label": "50ml Whiskey",
+      "quantity": "50",
+      "unit": null,
+      "name": "Whiskey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Water",
+      "quantity": "75",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut a thin piece of rind off the lemon and set aside for garnish, then juice the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Add your sugar and water to a pan, simmering until the two are mixed and form a simple syrup."
+    },
+    {
+      "heading": null,
+      "description": "Separate your egg yolk from the white. Add the white to the cocktail shaker, saving the yolk for a hungover omelette the next day."
+    },
+    {
+      "heading": null,
+      "description": "Dry shake your white in a shaker to achieve a foamy texture, then add a 25ml measure of the lemon juice, a 25ml measure of the simple syrup (save the leftover syrup for the next round), a double shot of whiskey (50ml or a 25ml single depending how strong you want it) and some ice."
+    },
+    {
+      "heading": null,
+      "description": "Shake the cocktail shaker for 30 seconds, then pour it out into your glass."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with a lemon and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-02-25T12:48:00+00:00"
+}

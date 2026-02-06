@@ -1,0 +1,104 @@
+{
+  "id": "869962",
+  "slug": "miso-butter-onions-by-ixta-belfrage",
+  "title": "Miso Butter Onions",
+  "url": "https://www.mob.co.uk/recipes/miso-butter-onions-by-ixta-belfrage",
+  "summary": "The humble onion is transformed with just two additional ingredients - miso paste and butter. Recipe from Flavour by Yotam Ottolenghi and Ixta Belfrage.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/IXTA-ONIONS.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 263,
+    "protein": 4,
+    "fat": 18,
+    "saturated_fat": 11,
+    "carbohydrates": 20,
+    "dietary_fibre": 4,
+    "sugars": 9,
+    "sodium": 753
+  },
+  "ingredients": [
+    {
+      "label": "8 Onions",
+      "quantity": "8",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Unsalted Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g White Miso Paste",
+      "quantity": "100",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 240°C fan/464°F."
+    },
+    {
+      "heading": null,
+      "description": "Halve your onions lengthways and discard the papery skin. Trim any dry tops and carefully trim the base, ensuring that your onion halves remain whole."
+    },
+    {
+      "heading": null,
+      "description": "Melt your butter in a large pan or in a heatproof bowl in the microwave. Add your miso paste and a litre of warm water, then whisk together until you have a homogenous sauce."
+    },
+    {
+      "heading": null,
+      "description": "Place your onions cut side down in a large, high-sided baking tray. Pour over your miso water, then tightly cover with tin foil. Bake for 35 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Remove your tray from the oven, discard your foil and flip your onions over. Give the onions a good baste with a spoon, then return to the oven. Bake for another 45-50 minutes, basting well every 10 minutes. Your onions should be deeply golden and soft with gentle charring around the edges. Your sauce will be lovely, thick and golden."
+    },
+    {
+      "heading": null,
+      "description": "Transfer your onions to your chosen serving plate and pour your lovely sauce all over the top. Serve whilst still hot and juicy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-10-18T10:00:00+01:00"
+}

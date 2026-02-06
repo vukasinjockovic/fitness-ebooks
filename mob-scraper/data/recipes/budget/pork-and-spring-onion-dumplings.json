@@ -1,0 +1,368 @@
+{
+  "id": "5002011",
+  "slug": "pork-and-spring-onion-dumplings",
+  "title": "Pot-Sticker Pork & Spring Onion Dumplings",
+  "url": "https://www.mob.co.uk/recipes/pork-and-spring-onion-dumplings",
+  "summary": "These homemade potsticker dumplings (or guō tiē) are filled with a juicy pork and spring onion mixture.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Pot-Sticker-Pork-Spring-Onion-Dumplings.jpg",
+  "cook_time": 10,
+  "prep_time": 60,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 28,
+    "fat": 25,
+    "saturated_fat": 6,
+    "carbohydrates": 71,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 1817
+  },
+  "ingredients": [
+    {
+      "label": "300g ‘00” White Pasta Flour” or Plain White Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Neutral Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml - 180ml Boiling Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Cornflour, for dusting",
+      "quantity": "5",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Plain flour, for dusting",
+      "quantity": "5",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Mince 20% Fat  (minimum 5-10% fat)",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Mince 20% Fat  (minimum 5-10% fat)",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½  Tsp Salt",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar (any)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger, minced",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove, minced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove, minced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160ml (14 Tbsp) Water/Unsalted Chicken Stock",
+      "quantity": "160",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "14 Spring Onions",
+      "quantity": "14",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml warm/hot water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Oil Crisp, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Spring Onion, to garnish",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the dumpling wrappers. Grab a large bowl and add flour, oil and salt and ¾ of the kettle-boiled water, leaving a little water behind. Use a chopstick or the back of a wooden spoon to mix everything, then use your hands and create a dough ball. If the dough ball feels dry, add some of the remaining water and knead until it is soft and feels like playdough. It should not be stuck to your fingers, just add more flour if this happens."
+    },
+    {
+      "heading": null,
+      "description": "Knead for 2 mins or until smooth, cover in cling film or throw into a sandwich bag, and then set aside for at least 25 mins. This dough can be made up to 2 nights before."
+    },
+    {
+      "heading": null,
+      "description": "Make the dumpling filling. Mince the garlic and ginger. Grab a large bowl and add all the ingredients into the bowl except for the spring onions and water. Use a fork or chopsticks to mix in one direction until a big meatball forms. Add the water in 2 parts, mixing in between until the meatball absorbs the liquid, then add the remaining liquid. Finely slice the spring onions and mix just until it is evenly incorporated. Clingfilm the bowl and leave in the fridge until needed."
+    },
+    {
+      "heading": null,
+      "description": "Continue making the wrappers. Roll the dough into a log the width of a round cherry tomato and use scissors to cut into 16 pieces, roughly the size of a cherry tomato, or 15g each if you want to be exact."
+    },
+    {
+      "heading": null,
+      "description": "In a small pot combine a 1:1 ratio of cornflour and flour and mix with fingers, use this for dusting."
+    },
+    {
+      "heading": null,
+      "description": "Lightly dust all the pieces of dough and toss with your hands to lightly coat. Turn the pieces of dough upwards so the sticky part is facing you, then use the fattest part of your palm to press down firmly, revealing a coin shape. Repeat for all the dough pieces, then cover with a lightly damp tea towel to prevent them from drying out."
+    },
+    {
+      "heading": null,
+      "description": "Using the dusting flour roll out each piece of dough, roughly 10 cm in diameter. Lightly dust each side if needed, then place onto a sheet of cling film, and lightly cover with cling film."
+    },
+    {
+      "heading": null,
+      "description": "Repeat to all pieces of dough, stacking the wrapper on top of each other, making sure to lightly dust between each wrapper and always covering with the cling film, to prevent it drying out."
+    },
+    {
+      "heading": null,
+      "description": "If you’re using store-bought wrappers, grab a small bowl of tap water, and lightly wet the edges of the wrapper with your index finger before folding, skip this step if your wrappers are freshly made."
+    },
+    {
+      "heading": null,
+      "description": "Now to fold the dumplings. Prep a large plate or tray and lightly dust it, for the folded dumplings to sit on."
+    },
+    {
+      "heading": null,
+      "description": "Place 1 tbsp of filling into the centre of a wrapper, then fold it in half like a purse and pinch the middle closed. Fold the dumplings like in the video, using your index finger as the guide to crimp around. As long as the dough is sealed tight, it doesn't matter how they look, they will be juicy. Place each dumpling onto the plate or tray and lightly push down to create a flat bottom, cover with a lightly damp tea towel so they don’t dry out. Repeat with all the wrappers."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the dumpling dipping sauce ingredients in a bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Now to cook the dumplings. Heat a non-stick heavy frying pan over a medium-low heat. Add 2 tbsp of neutral oil and swirl over the entire surface of the pan. Arrange the dumplings neatly so each dumpling is completely flat on the surface of the pan."
+    },
+    {
+      "heading": null,
+      "description": "Cook until the bottoms of the dumplings are lightly golden brown, using your hands to check one dumpling bottom. Now, carefully add the warm/boiling water, keeping at arm's distance from the pan. Immediately add a lid and cook for 5 mins – or once you can hear sizzling, which means the water has evaporated. Feel free to check at 4 mins – it won’t ruin the dumplings."
+    },
+    {
+      "heading": null,
+      "description": "Lift the lid and fry the dumplings for around 1-2 mins or until the bottoms are golden, checking whenever to make sure they don’t burn. Then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Place the pan onto a soaking wet cold tea towel and carefully place the pan on top, it will steam. When the steam stops, this will help release the dumplings from the pan. Use a spatula and run it around the edge of the dumplings. Place a plate on top and flip. Alternatively, just remove the dumplings with a spatula. Serve immediately with the dipping sauce on the side and chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-29T06:00:00+00:00"
+}

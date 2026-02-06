@@ -1,0 +1,184 @@
+{
+  "id": "1937",
+  "slug": "butternut-soup",
+  "title": "Butternut Squash Soup with Garlic Bread",
+  "url": "https://www.mob.co.uk/recipes/butternut-soup",
+  "summary": "The key to this dish? Ginger. It brings a subtle heat that cuts the richness of the soup. Served with crunchy homemade garlic bread for dipping. Perfection.",
+  "image": "https://files.mob-cdn.co.uk/recipes/new_VL.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 95,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 9,
+    "fat": 8,
+    "saturated_fat": 1,
+    "carbohydrates": 60,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 441
+  },
+  "ingredients": [
+    {
+      "label": "2 Butternut Squash",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Vegetable Stock",
+      "quantity": "600",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Small Loaves of Ciabatta",
+      "quantity": "400",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Halve and peel your butternut squash, scoop out the seeds and cut it into cubes. Place the cubes on a baking tray and season with a few cracks of black pepper, a pinch of salt and a drizzle of olive oil. Toss the butternut squash to season on all sides and whack the tray in the oven for 50 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice your carrots and onion. Finely chop the garlic and ginger. Pour a large drizzle of olive oil into a frying pan on medium-high heat. Add your carrots and onion and sauté for 10 minutes, until the carrots have softened and the onions are translucent. Add the chopped ginger and give it all a stir."
+    },
+    {
+      "heading": null,
+      "description": "Squash time! Add the roasted butternut squash to your pan and stir to combine (leave the oven on for your garlic bread). Pour in the vegetable stock and season with a few cracks of pepper. Leave to simmer for 15 minutes. Blitz the soup in the pan with a stick blender until silky smooth, or your desired consistency."
+    },
+    {
+      "heading": null,
+      "description": "Now for the garlic bread. Slice your ciabatta in half down the middle and place on a baking tray. Finely chop a large handful of parsley, leaving a third for later. In a bowl, mix together 3 tbsp of olive oil, the chopped garlic, two thirds of the parsley, a pinch of salt, and a few grinds of pepper. Give it a mix and spread over the ciabatta. Pop in the oven for 20 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Serve the soup with a drizzle of olive oil, a pinch of parsley, a crack of black pepper and your garlic bread. Dig in and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-11-08T00:00:00+00:00"
+}

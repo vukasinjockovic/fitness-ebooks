@@ -1,0 +1,155 @@
+{
+  "id": "6513108",
+  "slug": "blackcurrant-lemon-friands",
+  "title": "Blackcurrant & Lemon Friands",
+  "url": "https://www.mob.co.uk/recipes/blackcurrant-lemon-friands",
+  "summary": "These gluten-free almond friands are chewy, moist and oh-so light. Delicious eaten fresh from the oven.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Friands.jpg",
+  "cook_time": 20,
+  "prep_time": 25,
+  "total_time": 45,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 154,
+    "protein": 3,
+    "fat": 10,
+    "saturated_fat": 4,
+    "carbohydrates": 13,
+    "dietary_fibre": 1,
+    "sugars": 8,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "90g Plain Flour",
+      "quantity": "90",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Icing Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Good Pinch Of Sea Salt",
+      "quantity": "Pinch",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Ground Almonds",
+      "quantity": "180",
+      "unit": null,
+      "name": "Ground Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Egg Whites",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Unsalted Butter",
+      "quantity": "200",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Blackcurrants",
+      "quantity": null,
+      "unit": null,
+      "name": "Blackcurrant",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Flaked Almonds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C fan assisted/gas mark 6. Grease a 12-hole cupcake or muffin tray with butter or oil spray (a silicone tray is best)."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a small saucepan over a low heat then leave to cool and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Sift the flour and icing sugar into a bowl and whisk together, then whisk in the salt and ground almonds, and zest in the lemons."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, use an electric whisk to beat the egg whites until thick and glossy with stiff peaks forming. Using a spoon, very gently fold the egg whites into the flour and icing sugar mix, then lightly stir in the melted butter. It should come together into a batter."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the mixture evenly into your prepared cupcake or muffin tray and press a few of the berries into each one. Scatter all over with the flaked almonds and bake for 15–20 mins, or until a cocktail stick inserted into the centre comes out clean (avoid skewering the fruit, as this may result in the stick coming out clean before it’s baked properly)."
+    },
+    {
+      "heading": null,
+      "description": "Allow to cool in the tin for 10 mins before transferring on to a wire rack to cool completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Afternoon Tea",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T14:10:00+01:00"
+}

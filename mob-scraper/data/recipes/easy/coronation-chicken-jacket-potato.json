@@ -1,0 +1,304 @@
+{
+  "id": "5789617",
+  "slug": "coronation-chicken-jacket-potato",
+  "title": "Coronation Chicken Jacket Potato",
+  "url": "https://www.mob.co.uk/recipes/coronation-chicken-jacket-potato",
+  "summary": "A curried spin on the classic jacket potato. Super simple steps to create incredible spuds.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Coronation-Chicken-Jacket-Potato.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 17,
+    "fat": 13,
+    "saturated_fat": 5,
+    "carbohydrates": 34,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 234
+  },
+  "ingredients": [
+    {
+      "label": "3-4 Large Baking Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Large Baking Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cheddar Cheese",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cheddar Cheese",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chicken Breast",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chicken Breast",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mixed Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Tbsp Mayo",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mango Chutney",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lettuce",
+      "quantity": null,
+      "unit": null,
+      "name": "Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Onion",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Onion",
+      "quantity": null,
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tomato",
+      "quantity": null,
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cucumber",
+      "quantity": null,
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crisps",
+      "quantity": null,
+      "unit": null,
+      "name": "Crisps",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sour Cream & Chive Dip",
+      "quantity": null,
+      "unit": null,
+      "name": "Sour Cream & Chive Dip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 230°C. Put the whole potatoes into a large saucepan filled with cold water. Bring to the boil over a high heat and cook for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Drain the potatoes, pat dry and set each one on a square of foil. Add a drizzle of oil and a pinch of salt on top and wrap them up well. Transfer to a baking tray and roast in the oven for 40 mins. Alternatively, lightly coat your potatoes in olive oil and salt, wrap in foil and air fry at 200C for 40 mins)."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, get started on the coronation chicken filling. Dice the chicken into chunks and transfer to a large bowl. Add the curry powder, garlic powder and yoghurt. Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Set a frying pan over a medium-high heat, add the chicken and cook for 5-7 mins. Alternatively, grill the chicken instead at 180°C for 15 mins total, 7 mins each side."
+    },
+    {
+      "heading": null,
+      "description": "Dice the red onion and tear the coriander, then transfer to a large bowl with the mayonnaise and mango chutney. Add the cooked chicken, season to taste with salt and pepper and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Once the jacket potatoes are done, split them open, fill with a little butter and a light dusting of curry powder, then top with the coronation filling. Finish with a sprinkle of grated cheese on top, then air-fry or grill the tops at 200°C for 5 mins to get a melty finish."
+    },
+    {
+      "heading": null,
+      "description": "Serve with salad, crisps and dip on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nishat Tahsin",
+      "uri": "chefs/nishat-cooks",
+      "summary": "Nishat is a passionate home cook and Biochemistry PhD student based in London. Combining her love for cooking and University life, Nishat uses her social platforms to share south-asian recipes and promote cost-effective student meals."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-18T09:32:00+01:00"
+}

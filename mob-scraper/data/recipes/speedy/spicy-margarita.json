@@ -1,0 +1,152 @@
+{
+  "id": "3215023",
+  "slug": "spicy-margarita",
+  "title": "Spicy Margarita",
+  "url": "https://www.mob.co.uk/recipes/spicy-margarita",
+  "summary": "The margarita is an absolute classic. Perfectly balanced and super refreshing. Want to level up? Make it spicy. Toby x",
+  "image": "https://files.mob-cdn.co.uk/recipes/CMS-3-0477.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 172,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 9,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 319
+  },
+  "ingredients": [
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeno",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Tequila",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tequila",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Cointreau",
+      "quantity": "25",
+      "unit": null,
+      "name": "Cointreau",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut a small wedge of lime and rub it on the rim of your glass to help the salt and chilli flakes stick. Juice the rest of the lime and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut 4 slices of the jalapeño."
+    },
+    {
+      "heading": null,
+      "description": "On a small plate, sprinkle the salt and chilli flakes in a circle the same circumference as your glass."
+    },
+    {
+      "heading": null,
+      "description": "Rub the rim of your glass gently in the chilli salt, fill it with ice and then set it aside."
+    },
+    {
+      "heading": null,
+      "description": "Add a handful of ice, the tequila, Cointreau, sliced jalapeño and lime juice to your cocktail shaker."
+    },
+    {
+      "heading": null,
+      "description": "Shake hard for 20 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Double strain into your glass and garnish with a slice of chilli."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican",
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-03-18T16:10:00+00:00"
+}

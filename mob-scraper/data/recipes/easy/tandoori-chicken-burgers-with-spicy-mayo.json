@@ -1,0 +1,269 @@
+{
+  "id": "5798036",
+  "slug": "tandoori-chicken-burgers-with-spicy-mayo",
+  "title": "Tandoori Chicken Burgers with Spicy Mayo",
+  "url": "https://www.mob.co.uk/recipes/tandoori-chicken-burgers-with-spicy-mayo",
+  "summary": "A spicy twist on a succulent chicken burger. This tandoori chicken burger is the ultimate fakeaway recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Tandoori-Chicken-Burgers-with-Spicy-Mayo-Recipe.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 22,
+    "fat": 25,
+    "saturated_fat": 5,
+    "carbohydrates": 51,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "2-3 Chicken Thighs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Chicken Thighs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Curry Powde",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tandoori Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tandoori Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Veg oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cheese Slice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Edam",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mango Chutney",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Curry Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mayonnaise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Burger Buns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Burger Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mayonnaise",
+      "quantity": null,
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g lettuce",
+      "quantity": "25",
+      "unit": null,
+      "name": "Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tomato",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tomato",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put the chicken pieces into a large bowl with the curry powder, tandoori paste, juice of the lemon, yoghurt and a pinch of salt and pepper. You can leave it to marinate briefly or use it straight away."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large lidded frying pan over a medium heat, then add the chicken. Fry for 5 mins on each side, until golden all over."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine the sauce ingredients in a small bowl. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the red onion into rings and add them to the chicken pan. Cook for 3 mins until charred."
+    },
+    {
+      "heading": null,
+      "description": "Top the chicken with the cheese slice, then put a lid on the pan and leave for 5 mins, so the cheese melts."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop the lettuce and tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, split the burger buns into halves. Spread a light layer of mayo over each bun half, then toast the bun halves, mayo-side down, in a frying pan over a low-medium heat for 2 mins. Spread one burger half with sauce, add some chicken and charred onion, then finish with the shredded lettuce and sliced tomato on top. Top with a bun half and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nishat Tahsin",
+      "uri": "chefs/nishat-cooks",
+      "summary": "Nishat is a passionate home cook and Biochemistry PhD student based in London. Combining her love for cooking and University life, Nishat uses her social platforms to share south-asian recipes and promote cost-effective student meals."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-07T15:04:00+01:00"
+}

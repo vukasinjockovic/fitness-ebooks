@@ -1,0 +1,355 @@
+{
+  "id": "6501392",
+  "slug": "pasilla-beef-and-black-bean-chilli-tacos",
+  "title": "Pasilla Beef & Black Bean Chilli Crunchy Tacos",
+  "url": "https://www.mob.co.uk/recipes/pasilla-beef-and-black-bean-chilli-tacos",
+  "summary": "Rich, tangy Pasilla chillies bring a real depth of flavour to these hard shell beef tacos. Make them for family or friends and watch them disappear.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Crunchy-Tacos-with-Pasilla-Beef-Black-Bean-Chilli.jpg",
+  "cook_time": 60,
+  "prep_time": 25,
+  "total_time": 85,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 32,
+    "fat": 38,
+    "saturated_fat": 13,
+    "carbohydrates": 48,
+    "dietary_fibre": 10,
+    "sugars": 8,
+    "sodium": 613
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Unpeeled Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cherry Tomatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cherry Tomatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pasilla Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pasilla Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sweet Paprika",
+      "quantity": null,
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Mexican Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Mexican Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tsp Ground Cinnamon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Black Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Black Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Dark Chocolate",
+      "quantity": "20",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Dark Chocolate",
+      "quantity": "20",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Crisp Taco Shells",
+      "quantity": "8",
+      "unit": null,
+      "name": "Crunchy Taco Shells",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Roasted Crunchy Corn",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crunchy Corn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Feta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Feta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Jalapeno Chilli",
+      "quantity": "2",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sour Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 180°C/160°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice ½ the red onion and place in a bowl. Pour over boiling water to cover the onions then drain. Squeeze over the juice of ½ the lime and add a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Cut the remaining red onion into 4 wedges and dry fry in a large pan over a medium heat, along with the unpeeled garlic cloves and cherry tomatoes, for about 6-8 mins until lightly charred. Remove to a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Stem and deseed the Pasilla chilli. Add to the dry pan for a minute then remove from the heat and add to the small bowl with the other charred ingredients."
+    },
+    {
+      "heading": null,
+      "description": "Add boiling water to the same bowl, just enough to cover the charred ingredients, and leave for 5 mins then drain and reserve the liquid. Discard the garlic skins (they should slip off) and transfer the rest of the solid ingredients to a blender. Blitz to a smooth purée with a splash of the soaking liquid and a big pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Heat ½ of the olive oil in a pan over a moderate heat then fry the mince off until the liquid evaporates and the meat begins to brown. Add the ground spices to the mince and fry off for 30 seconds, then add the blended Pasilla and onion paste to the mince and fry for another 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add 2 tbsp of the soaking water, cover with a lid and simmer gently over a low-medium heat for about 25-30 mins, adding a splash more water if you think the pan needs it, until the sauce is thick and flavourful and the mince is melting and tender."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the red and green peppers. Heat the remaining olive oil in a separate large frying pan over a medium-high heat, add the peppers and fry for 5-7 mins until soft and slightly caramelised. Add salt and pepper to taste then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drain the beans and stir into the beef along with the chocolate. Leave to warm through for a few minutes, adding salt and plenty of black pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Fill each taco shell with spoonfuls of the Pasilla beef mince, followed by some sautéed peppers and bake in the oven for around 10 mins to warm through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, crush the crunchy corn, crumble the feta and thinly slice the jalapeño chilli."
+    },
+    {
+      "heading": null,
+      "description": "Serve the filled taco shells sprinkled with the pink onions, feta cheese, crunchy corn, coriander leaves and sliced chilli, along with a drizzle of the sour cream and a dash of hot sauce if you like. Serve the remaining lime, cut into wedges, on the side for squeezing over the tacos."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Claire Thomson",
+      "uri": "chefs/claire-thomson",
+      "summary": "Claire Thomson (@5oclockapron) is a chef, author of 10 cookbooks and mum of 3 daughters. Claire began cooking professionally before smartphones were invented. Her food is delicious as it is uncomplicated, she is almost always in an apron cooking breakfast, lunch or dinner. In short, there is nothing Claire can’t cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-17T11:56:00+01:00"
+}

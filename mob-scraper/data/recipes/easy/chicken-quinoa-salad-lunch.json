@@ -1,0 +1,288 @@
+{
+  "id": "7044076",
+  "slug": "chicken-quinoa-salad-lunch",
+  "title": "Crunchy Quinoa, Chicken & Bean Salad",
+  "url": "https://www.mob.co.uk/recipes/chicken-quinoa-salad-lunch",
+  "summary": "This healthy salad recipe is packed with fibre and protein. The crunchy quinoa adds a nice pop of texture.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Lunch-Box-Crunchy-Quinoa-Chicken-Salad.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 41,
+    "fat": 32,
+    "saturated_fat": 6,
+    "carbohydrates": 44,
+    "dietary_fibre": 11,
+    "sugars": 6,
+    "sodium": 657
+  },
+  "ingredients": [
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Pouch Cooked Quinoa",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Pouch Cooked Quinoa",
+      "quantity": "250",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cavolo Nero",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 240g Cans Cooked Cannellini Beans",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Drained Pickled Jalapeños",
+      "quantity": "125",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Jalapeño Pickle Brine",
+      "quantity": "40",
+      "unit": null,
+      "name": "Pickled Jalapeño Brine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Greek Yoghurt",
+      "quantity": "70",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Greek Yoghurt",
+      "quantity": "70",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Flat-Leaf Parsley (30g)",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Olive Oil",
+      "quantity": "60",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Put the chicken thighs into a bowl. Finely grate the garlic over the chicken and squeeze in the lemon juice. Add the oregano, drizzle with olive oil and generously season. Mix and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Tip the quinoa onto a baking tray, drizzle with olive oil and season. Toss together and bake for 15-20 mins. The quinoa will crisp-up as it cools."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, strip the stems off the cavolo nero, tear the leaves into bite-sized chunks and transfer to a bowl. Season with salt and scrunch together until the cavolo nero wilts. Thinly slice the spring onions, drain the cannellini beans and toss both through the cavolo nero."
+    },
+    {
+      "heading": null,
+      "description": "Add all the dressing ingredients to a blender and blend until smooth. Taste and season."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan over a medium-high heat with a drizzle of olive oil. Once hot, fry the chicken on both sides (10-15 mins in total) until golden brown and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Toss three-quarters of the crispy quinoa through the bean mixture with 2 tbsp of the dressing. Slice the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Share the salad between meal-prep containers, top with the chicken and drizzle over some more dressing. Sprinkle with the remaining crispy quinoa and parsley leaves. It will keep in the fridge for 3 days."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Low Carb",
+    "Packed Lunch",
+    "Power Protein",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-07-30T05:00:00+01:00"
+}

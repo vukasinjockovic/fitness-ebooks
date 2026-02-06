@@ -1,0 +1,101 @@
+{
+  "id": "6513271",
+  "slug": "chocolate-ganache-glaze",
+  "title": "Chocolate Ganache Glaze",
+  "url": "https://www.mob.co.uk/recipes/chocolate-ganache-glaze",
+  "summary": "Ganache is a velvety mixture of chocolate and cream used in lots of baking recipes to give cakes a smooth shiny glaze. Here’s how to make it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Chocolate-Ganache-Glaze_2024-11-13-170605_vusl.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 9,
+    "saturated_fat": 6,
+    "carbohydrates": 8,
+    "dietary_fibre": 2,
+    "sugars": 5,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "220g 70% Dark Chocolate",
+      "quantity": "220",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Unsalted Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180ml Double Cream",
+      "quantity": "180",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly chop the dark chocolate and chop the butter into cubes. Add both to a bowl with a pinch of sea salt and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat the cream in a heatproof bowl set over a pan of boiling water until it starts to simmer. Your aim is to heat the cream until it’s just hot enough to melt chocolate but not much hotter, so keep a close eye on it and don’t allow it to boil – it’s ready when it starts to bubble up just at the edge."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the heat and add the chocolate and butter, stirring to bring together and melt the chocolate. If necessary you can return the mixture to the double boiler very briefly, but make sure it doesn’t overheat or it will split. If your ganache splits, add some chilled cream and whisk hard to try to bring the emulsion back together."
+    },
+    {
+      "heading": null,
+      "description": "Allow it to cool slightly before spreading over cakes."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T14:27:00+01:00"
+}

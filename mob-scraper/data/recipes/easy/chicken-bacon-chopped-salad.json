@@ -1,0 +1,213 @@
+{
+  "id": "5022336",
+  "slug": "chicken-bacon-chopped-salad",
+  "title": "Chicken & Bacon Chopped Salad",
+  "url": "https://www.mob.co.uk/recipes/chicken-bacon-chopped-salad",
+  "summary": "It's time for another chopped salad. This protein-heavy, veg-filled salad can easily be whipped up on a weeknight. We think you might like it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/220A3653-1-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 495,
+    "protein": 28,
+    "fat": 32,
+    "saturated_fat": 7,
+    "carbohydrates": 23,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1011
+  },
+  "ingredients": [
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Streaky Bacon",
+      "quantity": "180",
+      "unit": null,
+      "name": "Smoked Streaky Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Streaky Bacon",
+      "quantity": "180",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sweet Gem Lettuce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sweet Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pre-cooked Quinoa",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cooked Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pre-cooked Quinoa",
+      "quantity": "200",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Wholegrain Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 lemons",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Olive Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Boil the broccoli in a pot of salted boiling water for 3-4 mins until it’s just about cooked. Then remove it and allow it to cool."
+    },
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C. Season your chicken breasts generously with salt and pepper. Place your breasts onto a baking tray and get them in the oven for 25 mins. Allow them to cool once cooked – the salad doesn’t need to be warm. Add the bacon in for the last 10 mins until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Heat up your quinoa according to the package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Add lettuce, broccoli, chicken, and bacon to a board and chop it all up."
+    },
+    {
+      "heading": null,
+      "description": "Add it all to a bowl with the quinoa."
+    },
+    {
+      "heading": null,
+      "description": "Make the dressing with oil, lemon juice, mustard, and honey. Mix it all up until emulsified and coat the salad."
+    },
+    {
+      "heading": null,
+      "description": "Give it a good toss and serve on plates."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-09T02:30:00+00:00"
+}

@@ -1,0 +1,257 @@
+{
+  "id": "4386380",
+  "slug": "chicken-noodle-salad",
+  "title": "Chicken Noodle Salad",
+  "url": "https://www.mob.co.uk/recipes/chicken-noodle-salad",
+  "summary": "Crispy fried egg noodles add an awesome texture to this salad. Whip a big batch of this up at your next picnic. It'll go down a treat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Chicken-Noodle-Salad.jpg",
+  "cook_time": 50,
+  "prep_time": 25,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 22,
+    "fat": 29,
+    "saturated_fat": 7,
+    "carbohydrates": 28,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "150g Egg Noodles",
+      "quantity": "150",
+      "unit": null,
+      "name": "Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Egg Noodles",
+      "quantity": "150",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs, Skinless & Boneless",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs, Skinless & Boneless",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Celery Sticks",
+      "quantity": "120",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Little Gem Lettuces",
+      "quantity": "2",
+      "unit": null,
+      "name": "Little Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch of Dill (12.5g)",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch of Parsley (12.5)g",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil, For Frying",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sour Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the noodles following pack instructions, then drain well and rinse in cold water to remove the starch. Spread over a large baking sheet until dry (this should take around 20 mins)."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Put the chicken thighs onto a large baking tray, drizzle with a little olive oil and season with salt and pepper. Roast for 30 mins, until the chicken is cooked through and golden. Set aside to cool."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, fill a large deep saucepan half-full with oil and heat it to 180°C. Line a plate with kitchen paper. Tip the noodles into a large bowl and add the cornflour, then toss well. Carefully drop the noodles into the oil a handful at a time, then deep-fry for 3-5 mins until crisp. Remove with a slotted spoon and drain on the lined plate. Season with a pinch of salt. Repeat with the remaining noodles. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Put the sour cream in a bowl, then squeeze in the juice of ½ a lemon and add the mustard. Finely grate the garlic into the bowl and season well with salt and pepper. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel the carrots into long ribbons, then tip them into a large bowl. Finely slice the celery and spring onions, and thickly slice the lettuces. Tip it all into the bowl. Shred your chicken before adding it to the bowl with 2 tbsp olive oil and most of the dill and parsley. Squeeze in the juice from 1 lemon. Toss well."
+    },
+    {
+      "heading": null,
+      "description": "Add the crispy noodles to the bowl and toss again, then drizzle with the sour cream dressing. Finish with the reserved herbs and a crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-13T09:58:00+01:00"
+}

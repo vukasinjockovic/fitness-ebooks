@@ -1,0 +1,278 @@
+{
+  "id": "6767724",
+  "slug": "sticky-aubergine-vegan-ramen-recipe",
+  "title": "Sticky Aubergine Vegan Ramen Recipe",
+  "url": "https://www.mob.co.uk/recipes/sticky-aubergine-vegan-ramen-recipe",
+  "summary": "Dive into a bowl of comfort with this Sticky Aubergine Vegan Ramen Recipe, a savoury delight for those craving a plant-based twist on a classic. This vegan ramen combines tender ramen noodles with caramelised aubergine, creating a rich, umami-packed broth that’s perfect for a cosy meal. The sticky aubergine is glazed with a blend of soy sauce, chilli oil, and garlic sauce, infusing each bite with deep, satisfying flavour. Ideal for any time of year, this vegan ramen recipe is not only delicious but also versatile—swap in your favourite vegetables or plant-based proteins to suit your taste. Whether you’re new to Japanese noodle soup or a seasoned fan, this recipe will surely become a staple. Enjoy it as a hearty lunch or a comforting dinner; this ramen will warm your soul and tantalise your taste buds.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Sticky-Aubergine-Vegan-Ramen.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 448,
+    "protein": 13,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 72,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 1702
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Litres Vegetable Stock",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dried Shiitake Mushrooms",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small White Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Shiitake Mushrooms",
+      "quantity": "400",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Teriyaki Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Teriyaki Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Nests Ramen Noodles",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Nests Ramen Noodles",
+      "quantity": "4",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Halve and thinly slice the onion, peel and roughly chop the garlic, then peel the ginger and slice."
+    },
+    {
+      "heading": null,
+      "description": "Heat 1 tbsp vegetable oil in a large saucepan over a high heat. Once smoking hot, scatter in the onion, garlic and ginger, add a pinch of salt and cook for 5 mins, stirring regularly, until lightly charred and softening."
+    },
+    {
+      "heading": null,
+      "description": "Lower the heat and carefully pour in the vegetable stock (it might spatter a bit). Add the dried shiitake mushrooms and miso and leave to gently simmer for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cut the cabbage into quarters, then use a speed or potato peeler to very thinly shred the cabbage into a bowl. Add a pinch of salt, the sugar and rice vinegar, then mix well."
+    },
+    {
+      "heading": null,
+      "description": "Cut the aubergine into 3cm cubes and cut the mushrooms into thick slices. Heat a large frying pan over a medium-high heat with ½ tbsp oil, then fry the aubergine with a pinch of salt for 4-5 mins until charred and crisp. Remove to a plate, then drizzle over ½ tbsp oil. Cook the mushrooms in the same way, then set both the aubergine and mushrooms aside."
+    },
+    {
+      "heading": null,
+      "description": "Mix the teriyaki sauce with 100ml water and pour into the broth pan. Turn the heat to medium and bubble away for 5-7 mins until thickened and saucy."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the noodle nests in a big pan of salted water following pack instructions, then drain."
+    },
+    {
+      "heading": null,
+      "description": "Divide the ramen broth between four bowls, then add the noodles. Top each bowl with a pile of the aubergine and mushrooms, then a pile of cabbage. To serve, sprinkle over some sesame seeds and finish with chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-09-04T12:57:00+01:00"
+}

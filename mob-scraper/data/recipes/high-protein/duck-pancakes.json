@@ -1,0 +1,276 @@
+{
+  "id": "4751285",
+  "slug": "duck-pancakes",
+  "title": "Duck Pancakes",
+  "url": "https://www.mob.co.uk/recipes/duck-pancakes",
+  "summary": "Homemade duck pancakes, proving cooking duck is as easy as chicken and you can cook and glaze it all in one pan. These Chinese style pancakes are super fun to make and cooked in a pan with a little char for flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Duck-Pancakes-Recipe.jpg",
+  "cook_time": 30,
+  "prep_time": 30,
+  "total_time": 60,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1092,
+    "protein": 41,
+    "fat": 54,
+    "saturated_fat": 10,
+    "carbohydrates": 110,
+    "dietary_fibre": 5,
+    "sugars": 23,
+    "sodium": 2062
+  },
+  "ingredients": [
+    {
+      "label": "2 Duck Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Duck Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Duck Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Duck",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Hot Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Hot Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chinese 5 Spice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Hoisin Sauce, to Serve",
+      "quantity": "4",
+      "unit": null,
+      "name": "Hoisin Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Chilli Oil, To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First put the flour into a large bowl and set aside. Pour the hot water and all the remaining ingredients into a jug. Slowly pour the hot water mixture into the flour, using a spoon or chopsticks to stir, then knead for 5 minutes, adding a dusting of flour if it’s sticky. Cover the bowl and leave for 20-30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, pat the duck skin dry with kitchen paper and, use a knife to create rough criss-cross scores in the fat, (not the flesh). Sprinkle both sides generously with salt and leave on a plate to come to room temperature."
+    },
+    {
+      "heading": null,
+      "description": "For the pickle, slice the cucumber in half on a diagonal, then use a small tsp to scoop out the watery core. Then finely slice on the diagonal. Combine in a small bowl with the remaining pickle ingredients. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the slaw, slice each spring onion into three chunks, then place them all into a long line and finely shred. Put into a bowl of cold tap water and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Now it’s time to shape and cook the pancakes. \nDust your hands in flour and poke a hole in the middle of the dough. Keep squeezing the dough to make a massive doughnut, around the thickness of a 50p coin, then make a slit to turn the doughnut into a long log. Dust the log with flour and use scissors to cut it into 16 doughballs. Sprinkle all the pieces with flour, coating each piece well, then flatten them one by one with the fattest part of your palm. Divide into pairs and add a tsp of sesame to one pancake, then stick the two together. Repeat with the remaining dough pieces so that you have 8 dough stacks in total."
+    },
+    {
+      "heading": null,
+      "description": "Take one dough stack and, using a rolling pin, roll it in to a circle the size of a ping-pong bat. Flour the circle, then repeat with the remaining dough stacks. Cover them all with a towel."
+    },
+    {
+      "heading": null,
+      "description": "Cook the pancakes in a small, dry pan set over a medium heat, with the lid on, for 2 mins each side. Carefully remove the pancakes and let them cool for 30 seconds, then pull apart the 2 pancakes by finding a small opening., immediately wrap min a towel to keep them soft. Repeat with all the pancakes, stacking each one inside the towel. You should have 16 pancakes in total."
+    },
+    {
+      "heading": null,
+      "description": "Mix all the honey glaze ingredients together in a small bowl. Set aside. Pat the duck dry with kitchen paper to remove the excess water, then add to a cold pan with no oil and no heat. Turn the fire to low-medium and cook for 6-7 mins – the fat will slowly release, giving you super-crispy golden skin. Flip the duck, then pour over the honey glaze and use a spoon to baste, spooning the glaze over the skin for 2 minutes. Remove the duck to a plate and rest skin-side up."
+    },
+    {
+      "heading": null,
+      "description": "Drain any excess liquid from the cucumber pickle and decant into a nice bowl. Drain the spring onions well, then add to another bowl with the 1 tbsp sesame oil ."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the duck on a diagonal, transfer toserve on a serving plate and pour over any resting juices."
+    },
+    {
+      "heading": null,
+      "description": "Before serving, ensure the pancakes are warm. You can microwave inside the kitchen towel for 30 seconds, or warm in the pan, with the lid on for 2 mins over a low-medium heat. Always keep the pancakes covered in order to keep them warm and soft."
+    },
+    {
+      "heading": null,
+      "description": "Serve the duck with the pancakes, cucumber pickle, spring onion slaw, hoisin sauce and chilli oil or chilli paste."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-17T09:00:00+01:00"
+}

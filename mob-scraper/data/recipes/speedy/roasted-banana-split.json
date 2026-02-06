@@ -1,0 +1,129 @@
+{
+  "id": "4417682",
+  "slug": "roasted-banana-split",
+  "title": "Roasted Banana Split",
+  "url": "https://www.mob.co.uk/recipes/roasted-banana-split",
+  "summary": "This healthy version of a childhood classic will satisfy all of your sweet-tooth cravings in a super healthy way. It's also a great use for overripe bananas.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/IMG_5277.jpg",
+  "cook_time": 25,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 5,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 36,
+    "dietary_fibre": 5,
+    "sugars": 22,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "4 Ripe Bananas",
+      "quantity": "4",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Pecans (Or Any Other Nuts Or Seeds)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pecans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Vegan Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vegan Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Vegan Dark Chocolate",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vegan Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Date syrup (Or Maple Syrup/ Agave)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Date Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Tahini (Or Any Nut Butter)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190C."
+    },
+    {
+      "heading": null,
+      "description": "Pierce the bananas all over with a fork and place on a lined baking tray. Roast for 20 mins, flip and roast for another 10 mins. They should be jet black all over."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, roast the pecans for 5-6 mins, tossing once. Roughly chop."
+    },
+    {
+      "heading": null,
+      "description": "To prepare the bananas, Slice them down the middle, lengthwise. I like to mash them slightly with a fork at this point, to get maximum surface area for the toppings."
+    },
+    {
+      "heading": null,
+      "description": "Layer up the tahini, syrup, nuts, and yoghurt, Chop the chocolate or use a speed peeler to carve it into thin shavings over the bananas."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Brunch",
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-23T11:04:00+01:00"
+}

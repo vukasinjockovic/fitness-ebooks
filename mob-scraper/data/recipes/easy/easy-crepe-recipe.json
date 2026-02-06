@@ -1,0 +1,138 @@
+{
+  "id": "6792672",
+  "slug": "easy-crepe-recipe",
+  "title": "Super Easy Crêpes",
+  "url": "https://www.mob.co.uk/recipes/easy-crepe-recipe",
+  "summary": "The classic pancakes for Shrove Tuesday. Served simply with lemon and sugar, this is a recipe for pancake purists.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Crepes.jpg",
+  "cook_time": 15,
+  "prep_time": 20,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 181,
+    "protein": 8,
+    "fat": 6,
+    "saturated_fat": 3,
+    "carbohydrates": 23,
+    "dietary_fibre": 1,
+    "sugars": 8,
+    "sodium": 90
+  },
+  "ingredients": [
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Pinch Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Whole Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salted Butter",
+      "quantity": null,
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Caster Sugar",
+      "quantity": null,
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the flour into a bowl along with a pinch of salt. Crack in the egg, pour in the milk and whisk everything together until a smooth, thin batter. Leave for at least 15 mins or cover with a plate/kitchen foil and leave in the fridge for up to overnight."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large frying pan over a medium-high heat and add a little knob of butter. Swirl it round the pan to completely cover the base. Take a full large ladleful of the batter and pour it into the pan, instantly tipping the pan and moving the batter around so it completely covers the base in a thin, even layer."
+    },
+    {
+      "heading": null,
+      "description": "Cook for one minute until the batter has set and is free from the pan and lightly golden. Flip the pancake in one movement, or use a spatula, and cook for another minute."
+    },
+    {
+      "heading": null,
+      "description": "Slide out onto a plate and scatter over a good coating of the sugar and squeeze over the juice of as much lemon as you like. Repeat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Pudding"
+  ],
+  "cuisines": [
+    "French",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-05T16:43:00+01:00"
+}

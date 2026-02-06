@@ -1,0 +1,277 @@
+{
+  "id": "4412461",
+  "slug": "curried-chicken-schnitzel",
+  "title": "Curried Chicken Schnitzel with Burst Tomato Butter Sauce",
+  "url": "https://www.mob.co.uk/recipes/curried-chicken-schnitzel",
+  "summary": "Crispy, juicy, flavourful chicken schnitzel and a beautiful burst tomato butter sauce to go along (everything should have this sauce drizzled over), it’s fab.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Curried-Chicken-Schnitzel-with-Burst-Tomato-Butter-Sauce.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 482,
+    "protein": 33,
+    "fat": 22,
+    "saturated_fat": 6,
+    "carbohydrates": 37,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 442
+  },
+  "ingredients": [
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280ml Buttermilk",
+      "quantity": "280",
+      "unit": null,
+      "name": "Buttermilk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garam Masala",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Breadcrumbs",
+      "quantity": "120",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Cumin Seeds",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Baby Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Baby Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Baby Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Chicken Stock",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Bunch of Coriander (20g)",
+      "quantity": "20",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Cold Unsalted Butter",
+      "quantity": "80",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place the chicken between two squares of baking parchment. Gently bash with a rolling pin to flatten them to 2cm. Place the chicken in the buttermilk, season with salt, garam masala and curry powder. Mix and let marinate for a minimum of 1 hour, up to overnight."
+    },
+    {
+      "heading": null,
+      "description": "Once ready, add the flour onto a plate, season with salt and pepper, and add the breadcrumbs onto another plate. Dip each chicken thigh into the flour, pat off the extra, then coat in egg, then breadcrumbs until thoroughly coated. Place the schnitzels onto a baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Place a large saucepan onto medium-high heat and fill with 1cm of oil. Once hot, add the chicken and cook until golden brown and cooked through (turn the heat down slightly if it's browning too quickly), 3-4 mins on each side."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel, halve and finely slice the shallot and garlic, peel and finely dice the ginger, trim and mince the chilli. Finely mince the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Place another frying pan on medium heat with 2 tbsp of oil. Once hot, stir through the cumin seeds and fry for 20 secs. Add the shallot, cook until softened. Then add the garlic, chilli and ginger, cook for 2-3 mins. Pour in the chicken stock and tomatoes bring to the boil, then turn the heat down to medium-low and simmer until reduced by three-quarters, 7-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Once reduced, remove from the heat, stir in the cold butter until the sauce has thickened. Taste and season with salt, pepper and lemon juice, then fold in the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Serve the curried chicken schnitzels with the burst tomato butter sauce."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-20T14:17:00+01:00"
+}

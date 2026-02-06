@@ -1,0 +1,136 @@
+{
+  "id": "5353299",
+  "slug": "creamy-chicken-courgette-pasta",
+  "title": "Creamy Chicken & Courgette Pasta",
+  "url": "https://www.mob.co.uk/recipes/creamy-chicken-courgette-pasta",
+  "summary": "This easy chicken pasta recipe screams spring and summer. Full of fresh, creamy goodness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Creamy-Chicken-Courgette-Pasta.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 684,
+    "protein": 26,
+    "fat": 32,
+    "saturated_fat": 15,
+    "carbohydrates": 71,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 206
+  },
+  "ingredients": [
+    {
+      "label": "250g Pasta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Creme Fraiche",
+      "quantity": "200",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Roast Chicken with Schmaltzy Courgettes."
+    },
+    {
+      "heading": null,
+      "description": "Cut the very top off of each garlic bulb, grab a piece of foil and sit the garlic bulbs on top. Drizzle with oil, season with salt and pepper and wrap into a little garlicky parcel. Sit that in the tray with the veggies and chicken and slide the whole lot into the oven for an hour."
+    },
+    {
+      "heading": null,
+      "description": "Get your pasta on to boil in generously salted water."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the garlic cloves and pop into a cold pan. Add a glug of olive oil and set over a medium heat. Bring the temperature up and begin to sizzle the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 2-3 mins before tipping in the crème fraîche. Tear in the leftover Roast Chicken and the Schmaltzy Courgettes."
+    },
+    {
+      "heading": null,
+      "description": "Cook together for 4-5 mins before adding the zest and juice of the lemon. Add the cooked pasta and half of the Parmesan cheese."
+    },
+    {
+      "heading": null,
+      "description": "Toss until creamy and divide between warm bowls. Top with extra Parmesan and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Italian-Inspired",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-01T13:04:00+01:00"
+}

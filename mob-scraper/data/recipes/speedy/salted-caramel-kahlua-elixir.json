@@ -1,0 +1,127 @@
+{
+  "id": "4632391",
+  "slug": "salted-caramel-kahlua-elixir",
+  "title": "Salted Caramel Kahlúa Elixir",
+  "url": "https://www.mob.co.uk/recipes/salted-caramel-kahlua-elixir",
+  "summary": "A sweet and delicious cocktail with a lovely salted rim. This is a delicious coffee cocktail.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Salted-Caramel-Kahlu%CC%81a-Elixir.jpg",
+  "cook_time": 2,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 270,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 27,
+    "dietary_fibre": null,
+    "sugars": 27,
+    "sodium": 318
+  },
+  "ingredients": [
+    {
+      "label": "50ml Kahlúa",
+      "quantity": "50",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Salted Caramel Vodka",
+      "quantity": "35",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Dark Rum",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dark Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Caramel Syrup",
+      "quantity": "15",
+      "unit": null,
+      "name": "Caramel Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Caramel Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Caramel Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cinnamon",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Rim your chosen glass with caramel sauce and a sprinkle of salt, then set aside in the freezer to set."
+    },
+    {
+      "heading": null,
+      "description": "Put your Kahlúa into a cocktail shaker with salted caramel vodka, dark rum, and syrup with some ice. Shake well for 10 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Fill your glass with large ice and strain your cocktail in. Garnish with a sprinkle of sea salt and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-11-10T06:00:00+00:00"
+}

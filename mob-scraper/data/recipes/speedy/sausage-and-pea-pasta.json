@@ -1,0 +1,167 @@
+{
+  "id": "2329923",
+  "slug": "sausage-and-pea-pasta",
+  "title": "Sausage and Pea Pasta",
+  "url": "https://www.mob.co.uk/recipes/sausage-and-pea-pasta",
+  "summary": "A ridiculously affordable simple pasta packed with peas, runner beans and crispy sausage bits. Perfect for a 20-minute meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Sausage-and-Pea-Pasta.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 900,
+    "protein": 38,
+    "fat": 44,
+    "saturated_fat": 18,
+    "carbohydrates": 85,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "150g Runner Beans",
+      "quantity": "150",
+      "unit": null,
+      "name": "Runner Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Sausages",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch Of Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Mascarpone",
+      "quantity": "150",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pasta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice up the runner beans into 2cm pieces."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze your sausages out of their skins straight into a large pan with a small glug of oil. Brown on a gentle heat, breaking up the meat as you go, for about 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Put your pasta in a pot of heavily-salted boiling water and cook according to the package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Add the chill flakes, peas and runner beans to the sausage mix, cooking for about 30 seconds. Scoop out 4 tablespoons of this mix and set aside in a separate bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add 200ml of pasta cooking water to that pan along with the mascarpone and parmesan. Mix well to form a sauce."
+    },
+    {
+      "heading": null,
+      "description": "Toss in your pasta and mix well, adding more pasta water if necessary. Season with more parmesan, salt and pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Top with a final shaving of parmesan and the cooked sausage and runner bean mixture you reserved earlier. Give it a good crack of black pepper and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-07-30T15:52:00+01:00"
+}

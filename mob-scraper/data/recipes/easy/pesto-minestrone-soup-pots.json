@@ -1,0 +1,188 @@
+{
+  "id": "5437749",
+  "slug": "pesto-minestrone-soup-pots",
+  "title": "Pesto Minestrone Soup",
+  "url": "https://www.mob.co.uk/recipes/pesto-minestrone-soup-pots",
+  "summary": "An easy pesto minestrone soup recipe that's plant-based, delicious, and incredibly quick.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Pesto-Minestrone-Soup-Pots.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 181,
+    "protein": 12,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 18,
+    "dietary_fibre": 7,
+    "sugars": 2,
+    "sodium": 232
+  },
+  "ingredients": [
+    {
+      "label": "1 tsp miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp vegan green pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegan Green Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp vegan green pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp nutritional yeast",
+      "quantity": "4",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g Drained Cannellini Beans",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g tenderstem broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g tenderstem broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g frozen peas",
+      "quantity": "120",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g frozen peas",
+      "quantity": "120",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp chili flakes (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp flaked toasted almonds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Flaked Almonds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "This recipe was written to make 4 servings."
+    },
+    {
+      "heading": null,
+      "description": "Chop the Tenderstem broccoli into small pieces. Finely chop all of the herbs. Drain the beans."
+    },
+    {
+      "heading": null,
+      "description": "Add a ¼ of the pesto, nutritional yeast, chili flakes and miso with a little salt and pepper into each pot and stir well to combine."
+    },
+    {
+      "heading": null,
+      "description": "Layer up the veggies and beans and top with the almonds."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, pour over about 300ml of boiling water and set aside for 5-8 mins to soften."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Packed Lunch",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-29T06:00:00+01:00"
+}

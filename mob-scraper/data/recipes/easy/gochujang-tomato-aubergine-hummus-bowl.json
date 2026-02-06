@@ -1,0 +1,175 @@
+{
+  "id": "7142624",
+  "slug": "gochujang-tomato-aubergine-hummus-bowl",
+  "title": "Gochujang Tomato & Aubergine Hummus Bowl",
+  "url": "https://www.mob.co.uk/recipes/gochujang-tomato-aubergine-hummus-bowl",
+  "summary": "Sweet, spicy smoky chickpea and aubergine stew made with our Gochujang Tomato & Sweet Onion Sauce piled on top of creamy hummus. Scoop it all up with golden toast – proper satisfying stuff.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Gochujang-Tomato-Aubergine-Hummus-Bowl.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 627,
+    "protein": 20,
+    "fat": 23,
+    "saturated_fat": 5,
+    "carbohydrates": 78,
+    "dietary_fibre": 13,
+    "sugars": 10,
+    "sodium": 701
+  },
+  "ingredients": [
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1x400g Can Cooked Chickpeas, drained",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Hummus",
+      "quantity": "200",
+      "unit": null,
+      "name": "Hummus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Toasted Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices Sourdough",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Before you begin, make the Gochujang Tomato &amp; Sweet Onion Sauce."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Trim the aubergines and chop into 2cm chunks. Tip onto a baking tray lined with baking paper, drizzle with olive oil and season with salt. Slide into the oven and roast for 20–25 mins, until soft and golden."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add the chickpeas and Gochujang Tomato &amp; Sweet Onion Sauce to a saucepan. Pick the coriander leaves and set aside. Finely slice the corinader stems, then stir them through the chickpeas. Trim and finely slice the spring onion. Toast the sourdough."
+    },
+    {
+      "heading": null,
+      "description": "Once the aubergines are cooked, tip them into the saucepan with the chickpeas. Set over a medium heat and stir until piping hot."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the hummus into shallow bowls and spread it out to make a base. Top with the stew, then scatter over the spring onion, coriander leaves and sesame seeds. Serve with the toast on the side and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Party Food",
+    "Sides",
+    "Starter"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-20T18:32:00+01:00"
+}

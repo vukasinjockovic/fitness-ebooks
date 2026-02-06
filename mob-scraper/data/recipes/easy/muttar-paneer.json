@@ -1,0 +1,289 @@
+{
+  "id": "1452094",
+  "slug": "muttar-paneer",
+  "title": "Muttar Paneer",
+  "url": "https://www.mob.co.uk/recipes/muttar-paneer",
+  "summary": "A mild, creamy Punjabi curry for all you cheese lovers. Fried paneer, sweet peas and all the spices. Ditch your takeaway and have this instead. Sophie x",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A8625.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 410,
+    "protein": 18,
+    "fat": 28,
+    "saturated_fat": 15,
+    "carbohydrates": 22,
+    "dietary_fibre": 5,
+    "sugars": 14,
+    "sodium": 241
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Knob of Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Birds Eye Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Paneer",
+      "quantity": "450",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Paneer",
+      "quantity": "450",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cardamom Pods",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Frozen Peas",
+      "quantity": "250",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Frozen Peas",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Double Cream",
+      "quantity": "75",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "230ml Water",
+      "quantity": "230",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place your onion, garlic, ginger and chilli in a food processor and blend to a paste. Scrape into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "In the same food processor, add the plum tomatoes from their tin, discarding the juice. Blend to a paste. Don’t worry about washing it up in between blends - it will just add more flavour to the tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Cut your paneer into 1 inch cubes."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a medium-high heat. Add a little vegetable oil and your paneer, then pan fry on all sides until crisp. Remove from the pan."
+    },
+    {
+      "heading": null,
+      "description": "Pour a small glug of oil into the same frying pan. Add your cumin seeds and cardamom pods and fry for a minute until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add your onion paste to the same pan and cook out for 10 minutes until your paste is a light golden brown. Add your coriander, turmeric, garam masala and chilli powder. Cook out for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add your chopped tomatoes and tomato puree and simmer for 5 minutes until they have darkened and gone jammy. Pour in your cream and the water, then simmer briefly."
+    },
+    {
+      "heading": null,
+      "description": "Tip in your peas and paneer. Simmer for 10 mins, then season to taste with salt."
+    },
+    {
+      "heading": null,
+      "description": "Top with a drizzle of cream and a sprinkle of coriander, then serve up with rice or chapatis.Freezing TipsLet the curry cool to room temperature before transferring it to an airtight Tupperware. Store in the freezer for up to 3 months. When ready to eat, either reheat straight in a pan over a low heat, pop in the microwave until piping hot, or leave in the fridge to thaw before reheating"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Freezer Friendly",
+    "Low Carb",
+    "High Fibre",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-29T14:25:00+00:00"
+}

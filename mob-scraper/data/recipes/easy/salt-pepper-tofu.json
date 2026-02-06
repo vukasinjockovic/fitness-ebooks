@@ -1,0 +1,198 @@
+{
+  "id": "2058",
+  "slug": "salt-pepper-tofu",
+  "title": "Salt & Pepper Tofu",
+  "url": "https://www.mob.co.uk/recipes/salt-pepper-tofu",
+  "summary": "Nothing hits the spot like salt and pepper tofu. This fakeaway classic is the epitome of a crowdpleaser. Whip it up in just 20 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Salt-Pepper-Tofu.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "fat": 16,
+    "saturated_fat": 2,
+    "carbohydrates": 17,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 46
+  },
+  "ingredients": [
+    {
+      "label": "560g Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "560g Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Cornflour",
+      "quantity": "6",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Spring Onions",
+      "quantity": "5",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "9 Red Chillies",
+      "quantity": "9",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a bowl, add roughly 1 tbsp of pepper, a big pinch of salt and the sugar. Give it a mix and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice your tofu into 1 inch cubes. Add the cornflour to a bowl and dip the tofu in one by one. Fry time! Pour roughly 1 inch of vegetable oil into a large frying pan on a medium-high heat."
+    },
+    {
+      "heading": null,
+      "description": "When the oil is hot, add the tofu and fry until crispy on all sides before removing from the heat and set aside for later."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop your spring onions, garlic and chillies. In a new pan, add a glug of vegetable oil and fry the spring onions, garlic and chilli on a medium heat until soft and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the tofu and stir to combine with the spring onion mixture. Sprinkle the pepper, salt and sugar over the tofu and stir through until fully coated. Serve and munch!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-13T09:10:00+01:00"
+}

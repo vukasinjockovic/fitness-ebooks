@@ -1,0 +1,196 @@
+{
+  "id": "6752187",
+  "slug": "chocolate-pecan-pie",
+  "title": "Chocolate Pecan Pie",
+  "url": "https://www.mob.co.uk/recipes/chocolate-pecan-pie",
+  "summary": "Our riff on an American classic. This cinnamon, ginger and chocolate pecan pie is perfect for an autumnal dinner party or Thanksgiving feast.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Chocolate-Pecan-Pie.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 246,
+    "protein": 3,
+    "fat": 15,
+    "saturated_fat": 5,
+    "carbohydrates": 25,
+    "dietary_fibre": 2,
+    "sugars": 14,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "125g Chopped Pecan Pieces",
+      "quantity": "125",
+      "unit": null,
+      "name": "Pecan Pieces",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Dark Chocolate",
+      "quantity": "45",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Dark Chocolate",
+      "quantity": "45",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "55g Unsalted Butter",
+      "quantity": "55",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Light Brown Sugar",
+      "quantity": "120",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Maple Syrup",
+      "quantity": "75",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp Maldon Sea Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Maldon Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Ground Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Ground Ginger",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Soured Cream",
+      "quantity": "120",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Whole Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pre-Baked Sweet Pastry Case",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pre-Baked Sweet Pastry Case",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Add the pecan pieces to a baking tray (if you’re using whole pecans, roughly chop them first). Once the oven is preheated, toast the nuts for 5-7 mins then set aside to cool."
+    },
+    {
+      "heading": null,
+      "description": "Break the chocolate into 2-3cm pieces. Melt the chocolate in a heatproof bowl set over a pan of gently boiling water. Stir until melted then remove the bowl from the heat and leave for a minute or two to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, whisk together the butter, sugar, maple syrup, salt, ground cinnamon and ground ginger. Pour in the melted chocolate and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Use a whisk or spoon to beat together the mixture. Add the soured cream, whole eggs and egg yolk then beat to combine. Stir through the toasted pecan pieces."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture into the pre-cooked 20cm pastry case. Bake for 10 mins then turn the heat down to 140°C fan and bake for another 25-30 mins until golden brown. The filling should wobble a little in the centre when shaken."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and allow to cool fully before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-09T08:55:00+01:00"
+}

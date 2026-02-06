@@ -1,0 +1,264 @@
+{
+  "id": "4415663",
+  "slug": "lamb-neck-osso-buco",
+  "title": "Lamb Neck Osso Buco",
+  "url": "https://www.mob.co.uk/recipes/lamb-neck-osso-buco",
+  "summary": "This is everything you want to eat: slow-braised saucy lamb, cheesy polenta, and a tangy, fresh salsa verde. We use bone-in lamb neck chops from the butcher’s.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Lamb-Neck-Osso-Buco.jpg",
+  "cook_time": 120,
+  "prep_time": 60,
+  "total_time": 180,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 792,
+    "protein": 48,
+    "fat": 44,
+    "saturated_fat": 17,
+    "carbohydrates": 38,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 1622
+  },
+  "ingredients": [
+    {
+      "label": "4 Thick Bone-In Lamb Neck Chops",
+      "quantity": "520",
+      "unit": null,
+      "name": "Lamb Neck Chop",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Thick Bone-In Lamb Neck Chops",
+      "quantity": "520",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "80",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tomato Purée",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Handful of Fresh Thyme (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Glass of White Wine (250ml)",
+      "quantity": "250",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Litres of Chicken Stock",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Fresh Parsley (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Quick-Cook Polenta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Polenta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ciabatta, For Mopping Up The Juices",
+      "quantity": null,
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get a large saucepan or casserole over a high heat. Season the lamb neck chops generously with salt and black pepper. Drizzle some olive oil into the pan. Fry the meat for around 5 mins until evenly browned. Transfer to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile chop the onion, carrot and celery. Once the browned meat is on a plate, scrape the veg into the pan. Turn down the heat and cook, stirring occasionally, until soft."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop four garlic cloves. Add them to the pan, cook for 1 min more then stir in the tomato purée and thyme. Pour in the white wine. Once mostly bubbled away, put the lamb back into the pan, pour in 1 litre of chicken stock and add the rind from the Parmesan. Bring to a boil then reduce the heat to low, season with salt and black pepper, put on a lid and simmer away for 2–2½ hours until the lamb is completely tender. The meat will come away from the bone."
+    },
+    {
+      "heading": null,
+      "description": "Carefully transfer the lamb onto a plate. Turn up the heat and reduce the sauce then return the meat to the pan and keep warm. Season to taste with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Salsa verde time. Grate the remaining garlic clove into a small bowl. Finely chop the parsley and roughly chop the capers. Scrape into the bowl. Add 1 tbsp of red wine vinegar and 3 tablespoons of olive oil. Season to taste with salt and black pepper and add more vinegar if you like the sharpness."
+    },
+    {
+      "heading": null,
+      "description": "Pour the remaining chicken stock into a large saucepan and bring to the boil. Finely grate the Parmesan cheese onto a chopping board."
+    },
+    {
+      "heading": null,
+      "description": "Grab a whisk. Pour the polenta into the boiling stock, whisking continuously to combine. Keep whisking for a minute or so to get out any lumps as the polenta cooks and thickens. Once it is at the consistency of a loose mash, take off the heat, stir in the butter and Parmesan and let it melt. Season to taste with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the polenta into four bowls. Top each one with the lamb neck osso bucco then spoon over the salsa verde to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-23T09:44:00+01:00"
+}

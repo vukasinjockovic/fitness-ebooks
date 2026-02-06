@@ -1,0 +1,103 @@
+{
+  "id": "6798613",
+  "slug": "honeycomb",
+  "title": "Honeycomb",
+  "url": "https://www.mob.co.uk/recipes/honeycomb",
+  "summary": "All you need to make delicious crunchy cinder toffee is sugar, golden syrup, bicarb and a sugar thermometer. Perfect for decorating bakes, giving as a festive gift or just eating as it is.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Honeycomb.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 120,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 30,
+    "dietary_fibre": null,
+    "sugars": 30,
+    "sodium": 68
+  },
+  "ingredients": [
+    {
+      "label": "150g Golden Caster Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Golden Syrup",
+      "quantity": "75",
+      "unit": null,
+      "name": "Golden Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Bicarbonate Of Soda",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Line a large baking tray with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Place the sugar and golden syrup in a large saucepan with a sugar thermometer attached. Set over a low heat and stir slowly until the temperature reaches around 150°C (the hard crack stage). This might take 4–5 mins, so be patient – keep a close eye on the thermometer, as it might suddenly start to rise much faster."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the heat, add the bicarbonate of soda and stir very quickly and evenly. It will bubble up as the bicarbonate of soda releases carbon dioxide very rapidly – this is what makes the amazing honeycomb effect. Make sure you stir well or you may be left with a bitter, soapy taste."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture into the prepared baking tray and leave to cool completely. Break the cooled slab of honeycomb into pieces to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T12:18:00+01:00"
+}

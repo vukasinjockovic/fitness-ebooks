@@ -1,0 +1,140 @@
+{
+  "id": "3334989",
+  "slug": "garden-party",
+  "title": "Garden Party",
+  "url": "https://www.mob.co.uk/recipes/garden-party",
+  "summary": "This is summer freshness incarnate. Zingy light and everything you want on a hot day when you're sat in the sun.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A2783_2022-04-22-110343_ddvp.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 522,
+    "protein": 3,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 132,
+    "dietary_fibre": 5,
+    "sugars": 124,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g sugar",
+      "quantity": "125",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 bag of mint",
+      "quantity": "30",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sparkling water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Sparkling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by juicing your lemon and picking the mint leaves off your stalks (saving the top of one of your stalks for garnish)."
+    },
+    {
+      "heading": null,
+      "description": "Use a peeler create thin strips of your cucumber and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Then one stalks worth of the mint to a bowl along with 25g of sugar and the lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Gently muddle these to release the flavours of the mint and dissolve the sugar."
+    },
+    {
+      "heading": null,
+      "description": "Put the rest of the mint and sugar into a blender and blend until combined to form a mint sugar."
+    },
+    {
+      "heading": null,
+      "description": "Wipe a lemon wedge around the rim of the glass then grind the glass in the mint sugar to create a green rim around the glass."
+    },
+    {
+      "heading": null,
+      "description": "Add ice to the glass, then the muddled mint lemon mixture, a few of the cucumber strips and then top off with sparkling water."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-22T11:58:00+01:00"
+}

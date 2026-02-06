@@ -1,0 +1,270 @@
+{
+  "id": "4030188",
+  "slug": "udon-noodle-soup-with-coconut-tofu",
+  "title": "Udon Noodle Soup With Coconut Tofu",
+  "url": "https://www.mob.co.uk/recipes/udon-noodle-soup-with-coconut-tofu",
+  "summary": "This curry udon soup is inspired by Japanese Curry Udon, Malaysian Massaman curry and my love for turning vegetables into sauces.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Udon-Noodle-Soup-With-Coconut-Tofu.jpg",
+  "cook_time": 45,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 19,
+    "fat": 19,
+    "saturated_fat": 8,
+    "carbohydrates": 77,
+    "dietary_fibre": 8,
+    "sugars": 13,
+    "sodium": 1047
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Coconut Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Butternut Squash",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½  Tbsp Curry Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Vegetable Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tbsp Smooth Peanut Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 200g Packs of Udon",
+      "quantity": "400",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 200g Packs of Udon",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Extra Firm Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Extra-Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Extra Firm Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Soy Sauce",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sesame Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dessicated Coconut (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Chilli (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coriander (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and deseed the squash. If you would like some ideas for what to do with the skin and seeds, check out the other squash recipes on site."
+    },
+    {
+      "heading": null,
+      "description": "Cut the squash into 1cm cubes. Mince the garlic. Wash and grate the ginger, you don't need to peel it."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large pot over medium heat. Once hot, add oil, onions, ginger and garlic. Sauté for 2 minutes, stirring frequently. Add the butternut squash and season with salt, pepper, and curry powder. Stir to coat well. Then cover and cook for 4 mins, stirring occasionally. Add coconut milk, peanut butter, and vegetable stock. Bring to a low boil over medium heat and then reduce heat to low, cover, and simmer for 15 mins or until butternut squash is fork tender."
+    },
+    {
+      "heading": null,
+      "description": "While the soup is simmering, cook the tofu. Drain the tofu and pat it dry. Cut it into 2cm cubes. Heat a drizzle of oil in a large skillet over medium-high heat. Once hot, add the tofu and fry for 3-4 mins until it starts to brown. Add the soy sauce, sesame seeds and coconut, if using. Fry for another minute and remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Use an immersion blender, or transfer soup to a blender, and purée on high until creamy and smooth. If using a blender, return soup back to pot.\nTaste and adjust seasonings, adding more curry powder, salt, or sweetener as needed. Continue cooking for a few more minutes over medium heat."
+    },
+    {
+      "heading": null,
+      "description": "Cook your udon noodles according to package instructions."
+    },
+    {
+      "heading": null,
+      "description": "To serve, pour the soup into a large bowl, add the noodles and top with the tofu. Scatter some more sesame seeds, coconut coconut and fresh chilli and coriander."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-01-04T15:46:00+00:00"
+}

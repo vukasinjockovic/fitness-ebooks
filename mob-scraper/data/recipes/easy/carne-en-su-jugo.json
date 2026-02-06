@@ -1,0 +1,299 @@
+{
+  "id": "6755838",
+  "slug": "carne-en-su-jugo",
+  "title": "Carne en su Jugo",
+  "url": "https://www.mob.co.uk/recipes/carne-en-su-jugo",
+  "summary": "This ‘meat in its juices’ is a delicious and easy recipe from the state of Jalisco that’s going to blow your mind. A quick and hearty meal for a cold day.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Carne-en-su-Jugo.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 36,
+    "fat": 29,
+    "saturated_fat": 7,
+    "carbohydrates": 56,
+    "dietary_fibre": 10,
+    "sugars": 6,
+    "sodium": 786
+  },
+  "ingredients": [
+    {
+      "label": "½ Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Rashers Smoked Streaky Bacon",
+      "quantity": "6",
+      "unit": null,
+      "name": "Smoked Streaky Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Rashers Smoked Streaky Bacon",
+      "quantity": "6",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Bavette Steak",
+      "quantity": "350",
+      "unit": null,
+      "name": "Bavette Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Bavette Steak",
+      "quantity": "350",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegetable Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "550g Cooked Pinto Beans",
+      "quantity": "550",
+      "unit": null,
+      "name": "Cooked Pinto Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "550g Cooked Pinto Beans",
+      "quantity": "550",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tomatillos",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomatillo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Jalapeños",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 g Fresh Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pinch Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Small Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Warmed Corn Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Warmed Corn Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the salsa verde: peel the onion and garlic cloves and add them to a saucepan along with the fresh tomatillos and fresh jalapeños. Cover them with water. Bring to a boil over a medium heat then lower the heat and simmer for 10 mins. Meanwhile, roughly chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Strain the vegetables from the water (don’t discard the water yet) and transfer them to a blender, adding the coriander, salt and pinch of caster sugar. Blend until smooth. If the salsa is too thick, add a splash of water until it’s the desired consistency. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the onion and garlic. Dice the bacon rashers and cut the bavette steak into thin strips."
+    },
+    {
+      "heading": null,
+      "description": "Heat the vegetable oil in a large deep-frying pan set over a low-medium heat. Add the onion and fry for 2 mins, before adding the garlic and cooking for another minute."
+    },
+    {
+      "heading": null,
+      "description": "Add the bacon and fry for 3-5 mins until the bacon is cooked and just slightly crispy (don’t overcook it). Throw in the bavette strips and fry for 3 mins until they’re just cooked."
+    },
+    {
+      "heading": null,
+      "description": "Add in the pinto beans, their bean juice and the salsa verde. Lower the heat and cook for about 10 mins. Season with salt to taste."
+    },
+    {
+      "heading": null,
+      "description": "To prep the garnish, finely chop the onion and coriander."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the beans between bowls and top with the chopped onion and coriander, with warm corn tortillas on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "High Fibre",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Karla Zazueta",
+      "uri": "chefs/karla-zazueta",
+      "summary": "Karla Zazueta is an incredible Mexican cook, food writer and cookery teacher. She teaches her Mexican traditions, recipes and techniques through cooking classes at her Mexican Food Memories cooking school. She also hosts Mexican supper clubs at her family home. Her recipes have been featured in The Guardian, BBC Food, NatGeo Food Magazine and many more. She's also just released her first cookbook, Norteña, where she shares the story of her family recipes and northern Mexico."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T16:18:00+01:00"
+}

@@ -1,0 +1,253 @@
+{
+  "id": "5512730",
+  "slug": "fennel-sausage-and-courgette-one-pot-lasagne",
+  "title": "Fennel, Sausage and Courgette One-Pot Lasagne",
+  "url": "https://www.mob.co.uk/recipes/fennel-sausage-and-courgette-one-pot-lasagne",
+  "summary": "I love this one-pot lasagne, and think it covers so many bases — it’s comforting enough to suit autumn/winter eating, but the fennel seeds, courgettes and lemon mean this is summer-ish too. It could be one you serve to family and friends, but is also low-key enough to make it to the mid-week menu too.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Fennel-Sausage-and-Courgette-One-Pot-Lasagne.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 782,
+    "protein": 36,
+    "fat": 54,
+    "saturated_fat": 21,
+    "carbohydrates": 34,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "400g plain pork sausages",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pork Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g plain pork sausages",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tablespoons olive oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp fennel seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x medium courgettes (approx 400-500g)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 cloves garlic, finely sliced",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 cloves garlic, finely sliced",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6-7 sprigs thyme",
+      "quantity": "6",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g full fat creme fraiche",
+      "quantity": "200",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml chicken or vegetable stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g dried lasagne sheets",
+      "quantity": "125",
+      "unit": null,
+      "name": "Dried Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g dried lasagne sheets",
+      "quantity": "125",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g cooking mozzarella",
+      "quantity": "175",
+      "unit": null,
+      "name": "Low-Moisture Mozzarella Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g cooking mozzarella",
+      "quantity": "175",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Score the sausages and strip the casings from the meat (discard the casings).  Grate the Parmesan, and then set it aside."
+    },
+    {
+      "heading": null,
+      "description": "Set a low-sided, 26-28cm casserole or other oven- and hob-proof dish over a medium heat. Add 1 tbsp olive oil and, once warm, the sausagemeat. Use the back of a wooden spoon or similar to push and squash the sausagemeat so that it breaks up into a mince, then cook for 5 mins, stirring only occasionally so some browns."
+    },
+    {
+      "heading": null,
+      "description": "Lightly bash the fennel seeds to grind them up. Stir them through the sausagemeat and add the water, deglazing the pan if necessary. Simmer for 2 mins, then transfer the mixture to a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Slice the courgettes into ½cm rounds, finely slice the garlic, strip the leaves from the thyme and finely zest the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining oil to the same dish you used for the sausagemeat, plus the courgettes and a good pinch of salt. Fry for 4-5 mins over a medium-high heat, turning occasionally. It’s fine for the courgettes to colour a little. Reduce the heat to low, add the garlic, thyme, lemon zest and a generous grind of pepper, then cover and cook for 4-5 mins until the courgettes are soft and glossy, but are not mushy."
+    },
+    {
+      "heading": null,
+      "description": "Return the sausagemeat to the dish, add the crème fraîche and stock, then stir and simmer for 5 mins. Heat the oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Once the crème fraîche and stock have been simmering for 5 mins, add the lasagne sheets, breaking them in half as you submerge them in the liquid. Cook for 4 mins so the pasta softens, then remove the dish from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Arrange the lasagne sheets so that they are evenly distributed. Try to make them a little wavy and ruffled, and keep most below the level of the liquid. Cover with mozzarella and Parmesan, then bake in the oven for 15-20 mins until burnished and golden."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ed Smith",
+      "uri": "chefs/ed-smith",
+      "summary": "Ed Smith is an award-winning food and recipe writer. After leaving a career as a lawyer for a life in food, he trained as a chef, worked briefly in restaurants and pop-ups, and now cooks, consults and writes. He’s the author of 4 cookbooks (Good Eggs; Crave; On the Side; and The Borough Market Cookbook), and the co-author of 1 book about food for kids (Welcome to Our Table). Ed regularly contributes recipes to all the major UK food magazines, websites and broadsheet supplements, and is the curator of the Rocket & Squash newsletter and social accounts (@rocketandsquash).\n\nPhotographer: Sam A Harris."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-13T08:04:00+01:00"
+}

@@ -1,0 +1,271 @@
+{
+  "id": "5827057",
+  "slug": "hazelnut-spiced-chicken-schnitzel-with-pickled-oranges-fennel",
+  "title": "Hazelnut & Spiced Chicken Schnitzel With Pickled Oranges & Fennel",
+  "url": "https://www.mob.co.uk/recipes/hazelnut-spiced-chicken-schnitzel-with-pickled-oranges-fennel",
+  "summary": "Hazelnut-coated chicken schnitzel and a zesty pickled orange side salad. Expect loads of different textures and flavours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Hazelnut-Spiced-Chicken-Schnitzel-With-Pickled-Oranges-Fennel.jpg",
+  "cook_time": 10,
+  "prep_time": 20,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 32,
+    "fat": 48,
+    "saturated_fat": 7,
+    "carbohydrates": 44,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 245
+  },
+  "ingredients": [
+    {
+      "label": "150g Stale Bread or Fresh Breadcrumbs",
+      "quantity": "150",
+      "unit": null,
+      "name": "Fresh Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Hazelnuts",
+      "quantity": "40",
+      "unit": null,
+      "name": "Hazelnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Vegetable Oil",
+      "quantity": "150",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Boiling Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Rice Wine Vinegar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fennel Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Caster Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful Finely",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Mayonnaise",
+      "quantity": "8",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the pickle. Add the water, vinegar, caster sugar and salt into a sauce pan. Bring to the boil. Immediately turn off the heat and allow to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Halve the fennel bulb lengthwise and very finely slice. Peel the orange, then thinly slice. Transfer both to a large bowl then pour over the cooled pickle liquor. This will last 3-4 days in the fridge, so just drain off before using."
+    },
+    {
+      "heading": null,
+      "description": "If you have stale bread, cut off the crusts and add it to a food processor with the hazelnuts and spices. Blitz until you have breadcrumbs. If you already have fresh breadcrumbs, crush the nuts and spices in a pestle and mortar or blender until fine, then stir into the breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Place each chicken breast between two pieces of baking parchment. Bash them with a rolling pin, one at a time, to flatten to about 1cm thick. (you can also butterfly these first if you want)"
+    },
+    {
+      "heading": null,
+      "description": "Get three wide bowls out. Add the flour to one, seasoning with a pinch of salt and pepper, then the breadcrumbs and sesame seeds to another, and finally beat the eggs in the last bowl. Prepare an empty baking tray to put the chicken on once breaded."
+    },
+    {
+      "heading": null,
+      "description": "Dip each piece of chicken into the flour, coating every surface by patting it into the meat. Shake off any excess, then dip into the egg mixture, again making sure every bit of the meat is coated. Finally dip the chicken into the spiced breadcrumb mix (toss it into the bowl, so every little bit is covered), then place the breadcrumbed chicken breasts onto the prepared tray."
+    },
+    {
+      "heading": null,
+      "description": "Get a large frying pan over a medium heat and add all the oil so it comes to 1½ cm up the pan. Allow the oil to heat up. Once hot, add in one piece of chicken at a time so as not to overcrowd the pan, and fry for 3 mins each side until golden on both sides. Lift out and onto a plate lined with kitchen paper, then repeat."
+    },
+    {
+      "heading": null,
+      "description": "This also works great in the oven if you don't want to fry. Simply preheat the oven to 190c then place them on a baking tray drizzled with olive oil and bake for 15-20 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Mix the herby mayo ingredients together in a small bowl. Serve the schnitzels with a dollop of the mayo and a pile of pickled fennel and orange."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Kitty Coles",
+      "uri": "chefs/kitty-coles",
+      "summary": "Kitty is a supremely talented cook and recipe writer. You can find her recipes here as well as in publications like the Irish Times, Gloss Magazine, and The Guardian. She divides her time between London, Dublin and Mallorca (where her parents live and dad grew up) and her food showcases seasonal ingredients with a splash of Mediterranean style. Kitty is a no-fuss, simple cook, who uses everyday ingredients to make delicious and easy recipes. You can find plenty more of Kitty's recipes in her cookbook: 'Make More With Less: Foolproof Recipes to Make Your Food Go Further'."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-04T13:00:00+00:00"
+}

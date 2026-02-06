@@ -1,0 +1,266 @@
+{
+  "id": "6951682",
+  "slug": "marry-me-spaghetti-meatballs",
+  "title": "“Marry Me” Spaghetti & Meatballs",
+  "url": "https://www.mob.co.uk/recipes/marry-me-spaghetti-meatballs",
+  "summary": "If you’re looking to impress someone over dinner, look no further. This silky spaghetti with beef meatballs in a delicious creamy sauce will be a definite winner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Marry-Me-Spaghetti-Meatballs.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 708,
+    "protein": 32,
+    "fat": 22,
+    "saturated_fat": 7,
+    "carbohydrates": 92,
+    "dietary_fibre": 7,
+    "sugars": 13,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Jarred Sun Dried Tomatoes",
+      "quantity": "70",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Jarred Sun Dried Tomatoes",
+      "quantity": "70",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Beef Meatballs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Beef Meatball",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Thyme",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Reduced-Fat Red Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Reduced-Fat Red Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Reduced-Fat Red Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Single Cream",
+      "quantity": "50",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Spaghetti",
+      "quantity": "180",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Spaghetti",
+      "quantity": "180",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion, crush the garlic cloves and slice the sundried tomatoes into bite-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Pour a glug of oil from the sundried tomato jar into a large pan over a medium heat. Add the meatballs and fry for about 10 mins or until the meatballs are nicely browned and cooked through. Transfer the meatballs to a plate and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, set a large saucepan of boiling water over a high heat then add the stock cube and stir to dissolve."
+    },
+    {
+      "heading": null,
+      "description": "Return the empty meatball pan to the hob and reduce the heat to low-medium. Add another splash of the sundried tomato oil then add the onion and garlic and fry for about 7 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Drop your spaghetti into the boiling water and cook following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Add the sundried tomatoes, oregano, thyme, pesto, salt and pepper to the pan with the onion and garlic. Toss the meatballs back in and stir to coat then pour in the cream and a couple of ladles of pasta water. Stir and bring to a gentle simmer."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, roughly chop the basil."
+    },
+    {
+      "heading": null,
+      "description": "Drain the cooked spaghetti then add to the pan with the sauce, along with ½ the chopped basil and a splash of the pasta cooking water. Mix well to combine."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the spaghetti between bowls and top with the remaining basil and some grated Parmesan."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-01T04:00:00+01:00"
+}

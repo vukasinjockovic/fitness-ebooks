@@ -1,0 +1,190 @@
+{
+  "id": "2329649",
+  "slug": "tobys-breakfast-fried-rice",
+  "title": "Toby's Breakfast Fried Rice",
+  "url": "https://www.mob.co.uk/recipes/tobys-breakfast-fried-rice",
+  "summary": "Toby, our magical video editor, treated the studio to his breakfast fried rice and mornings haven't been the same since. This recipe is a scorcher.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A0416-5.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 783,
+    "protein": 36,
+    "fat": 46,
+    "saturated_fat": 16,
+    "carbohydrates": 56,
+    "dietary_fibre": 2,
+    "sugars": 10,
+    "sodium": 1707
+  },
+  "ingredients": [
+    {
+      "label": "200g Smoked Bacon",
+      "quantity": "200",
+      "unit": null,
+      "name": "Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Smoked Bacon",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves Of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Halloumi",
+      "quantity": "225",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Leftover Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Leftover Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Sesame Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Spring Onions",
+      "quantity": "5",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, chop up your bacon and garlic before cutting your halloumi into cubes that are roughly 2cm in size."
+    },
+    {
+      "heading": null,
+      "description": "Put a bit of oil in your wok and cook the bacon for 5 mins until it’s crispy. In the same pan, add your sliced garlic and cook for 1 min until it’s all golden. Remove the bacon and garlic onto a paper towel and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add another glug of oil and fry the halloumi for 3 mins until golden brown. Allow it to drain on the paper towel with the bacon."
+    },
+    {
+      "heading": null,
+      "description": "Finally, add your eggs into the pan and scramble for 3 mins until very dry. Add back in the bacon, garlic and halloumi as well as your leftover rice. Give that a stir then add your sesame oil, mirin, soy sauce, and honey, continuing to stir it all together as you go."
+    },
+    {
+      "heading": null,
+      "description": "When the rice is all coated and mixed well, spoon it onto plates and garnish with some chopped spring onions. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Accessible Method",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-07-30T15:03:00+01:00"
+}

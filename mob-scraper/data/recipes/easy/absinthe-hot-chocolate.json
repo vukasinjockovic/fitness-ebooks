@@ -1,0 +1,112 @@
+{
+  "id": "6511282",
+  "slug": "absinthe-hot-chocolate",
+  "title": "Absinthe Hot Chocolate",
+  "url": "https://www.mob.co.uk/recipes/absinthe-hot-chocolate",
+  "summary": "This is a seriously indulgent hard hot chocolate to keep you warm this winter. Super creamy and spiked with absinthe, it’s ideal for getting that going out feeling when staying in.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Absinthe-Hot-Chocolate.jpg",
+  "cook_time": 5,
+  "prep_time": 10,
+  "total_time": 15,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 670,
+    "protein": 8,
+    "fat": 47,
+    "saturated_fat": 28,
+    "carbohydrates": 44,
+    "dietary_fibre": 8,
+    "sugars": 36,
+    "sodium": 16
+  },
+  "ingredients": [
+    {
+      "label": "400g 70% Dark Chocolate",
+      "quantity": "400",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Double Cream",
+      "quantity": "60",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Whole Milk",
+      "quantity": "60",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Absinthe",
+      "quantity": "100",
+      "unit": null,
+      "name": "Absinthe",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly break up the chocolate into small 2-3cm pieces. Place the chocolate in a medium metal bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat the cream and milk in a medium saucepan set over a low-medium heat until the mixture just starts to bubble at the sides (not boiling but getting there)."
+    },
+    {
+      "heading": null,
+      "description": "Slowly pour the hot cream over the chocolate and leave to sit for 1–2 mins until the chocolate starts to melt. Sprinkle in the salt and whisk gently to bring the mixture together."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture back into the saucepan, turn the heat back up to low-medium and add the absinthe. Stir over the heat for a minute or two before serving hot."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T11:09:00+01:00"
+}

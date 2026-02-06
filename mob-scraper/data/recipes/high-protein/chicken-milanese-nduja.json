@@ -1,0 +1,301 @@
+{
+  "id": "4387769",
+  "slug": "chicken-milanese-nduja",
+  "title": "'Nduja Chicken Milanese",
+  "url": "https://www.mob.co.uk/recipes/chicken-milanese-nduja",
+  "summary": "Essentially, an enormous chicken nugget with tomato pasta but with the flavours levelled up big time. 'Nduja is melted into the tomato sauce for a fiery kick.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Nduja-Chicken-Milanese-Spaghetti.jpg",
+  "cook_time": 20,
+  "prep_time": 20,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1372,
+    "protein": 59,
+    "fat": 68,
+    "saturated_fat": 18,
+    "carbohydrates": 120,
+    "dietary_fibre": 9,
+    "sugars": 15,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "5 Tbsp Extra Virgin Olive Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Fresh Thyme Sprigs, Leaves Only",
+      "quantity": "6",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp ’Nduja Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Nduja",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Finely Chopped Tomatoes or Similar",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sherry Vinegar, To Taste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Sugar (Optional), To Taste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Salted Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Crispy Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Crispy Fried Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan, Grated",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Panko Breadcrumbs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Plain Flour",
+      "quantity": "150",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spaghetti",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spaghetti",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil, To Fry",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon, Zested and Cut Into Wedges",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Handful of Fresh Basil Leaves, To Serve",
+      "quantity": "30",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the extra virgin olive oil and finely grated garlic to a cold frying pan. Turn up the heat until the garlic wiggles and dances, then throw in half of the thyme leaves and ‘nduja and cook until fragrant (1-2 mins)."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the tinned tomatoes, a tin full of water, a good pinch of salt and pepper and simmer until reduced, around 20 mins. Season with sherry vinegar (and maybe a pinch of sugar) until the sauce is fiery, balanced and tangy."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, place the chicken breast between two pieces of parchment paper, season with salt and bash with something heavy until flattened and thin."
+    },
+    {
+      "heading": null,
+      "description": "In a shallow bowl, mix the oregano and crispy onions with the remaining thyme leaves and most of the Parmesan with the panko breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle flour directly on the chicken on the parchment to coat (to save on washing up). Crack the eggs into another shallow bowl and season with a pinch of salt. Transfer the floured chicken into the egg mixture, then through the breadcrumbs to coat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pan of water to the boil and salt generously. Boil the spaghetti until al dente, around 8-9 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour enough neutral oil into a large frying pan to coat the base of the pan around 1cm. Shallow fry the chicken fillets until golden brown, around 2 and a half mins on each side. Rest for 2 mins on a chopping board, sprinkle with flaky salt and the lemon zest and slice into strips."
+    },
+    {
+      "heading": null,
+      "description": "To bring everything together, toss the spaghetti with the spicy tomato sauce with a big glug of pasta water and serve with the sliced chicken fillets, lots of fresh basil leaves, the remaining grated Parmesan and a big squeeze of fresh lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Saskia Sidey",
+      "uri": "chefs/saskia-sidey",
+      "summary": "Saskia Sidey is a food stylist, recipe developer and author of 8 cookbooks - some under her own name, a few ghost-written and a few co-written (she developed lots of recipes for MOB 6). Saskia's cooking focuses on the classics, elevated with twists and tricks to make them the best possible version of themselves."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-08T16:47:00+01:00"
+}

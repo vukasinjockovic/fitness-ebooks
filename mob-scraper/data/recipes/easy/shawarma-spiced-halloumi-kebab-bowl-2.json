@@ -1,0 +1,262 @@
+{
+  "id": "7403090",
+  "slug": "shawarma-spiced-halloumi-kebab-bowl-2",
+  "title": "Shawarma Spiced Halloumi Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/shawarma-spiced-halloumi-kebab-bowl-2",
+  "summary": "Chunky, golden shawarma-spiced halloumi, roasted mushrooms and fluffy buttery rice. It’s just like a kebab, but in a bowl...",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Shawarma-Spiced-Halloumi-Kebab-Bowl.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 27,
+    "fat": 32,
+    "saturated_fat": 16,
+    "carbohydrates": 41,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "200g Long-Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Long Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Long-Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Orzo",
+      "quantity": "70",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Orzo",
+      "quantity": "70",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Salted Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Parlsey",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250g Halloumi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Al'Fez Shawarma Spice Mix",
+      "quantity": "2",
+      "unit": null,
+      "name": "Al'Fez Shawarma Spice Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tomato Purée",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sumac (optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Al'Fez Tahini Squeezy Sauce, to taste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Al'Fez Tahini Squeezy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Flat-Leaf Parsley (10g)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Wash the rice until the water runs clear, then drain well."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a saucepan set over a medium heat. Add the orzo and toast for 5-10 mins, stirring regularly, until deeply golden. Stir through the rice, then pour in the water. Bring to the boil, then pop a lid on, reduce the heat to low and cook for 12 mins. Once the time is up, remove the pan from the heat and leave it to steam for 10 mins with the lid on."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, split the halloumi down the crease and chop into 2cm chunks. Halve any larger mushrooms.\nPeel and finely grate the garlic into a bowl. Stir through the yoghurt, tomato purée, and Al'Fez Shawarma Spice Mix to taste. Season with salt, then toss in the halloumi and mushrooms until well coated."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking parchment. Tip the marinated halloumi and mushrooms onto the tray and spread out. Roast for 15-20 mins, until golden and starting to char.\nPeel and finely slice the red onion, then toss it with the sumac (if using) and a pinch of salt. Set aside to soften slightly."
+    },
+    {
+      "heading": null,
+      "description": "Pick the parsley leaves and finely slice the stalks and half the leaves.\nOnce the rice is ready, fluff it with a fork and stir through the chopped parsley. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between bowls and top with the roasted halloumi and mushrooms. Finish with the sumac onions, parsley leaves and a generous drizzle of Al'Fez Tahini Squeezy Sauce."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2025-07-30T05:00:00+01:00"
+}

@@ -1,0 +1,378 @@
+{
+  "id": "5925867",
+  "slug": "yaki-udon-recipe",
+  "title": "Chicken Yaki Udon",
+  "url": "https://www.mob.co.uk/recipes/yaki-udon-recipe",
+  "summary": "The iconic stir-fried Japanese noodle is so easy to make at home!  Caramelised soy sauce udon, chunks of tender soy marinated chicken, and lots of veggies.  A super savoury and satisfying weeknight dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Chicken-Yaki-Udon.jpg",
+  "cook_time": 10,
+  "prep_time": 20,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 755,
+    "protein": 32,
+    "fat": 19,
+    "saturated_fat": 3,
+    "carbohydrates": 116,
+    "dietary_fibre": 7,
+    "sugars": 15,
+    "sodium": 2772
+  },
+  "ingredients": [
+    {
+      "label": "2 Chicken Thighs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Thighs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Udon Noodles",
+      "quantity": "450",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Udon Noodles",
+      "quantity": "450",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Large White Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Large White Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Carrot",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Shiitake Mushrooms",
+      "quantity": "150",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Water",
+      "quantity": "3",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Mirin",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sake",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dashi Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dashi Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Katsuobushi",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bonito Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Pickled Red Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pickled Red Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Seaweed Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Seaweed Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Egg Yolk",
+      "quantity": null,
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large pot of water to the boil. Slice the chicken thighs into 2cm strips, then transfer to a bowl with the soy sauce. Set aside in the fridge to marinate."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles in the boiling water for 1 min less than pack instructions, then drain very well under cold water. Toss with your hands to remove all the starch. Leave the udon in the sieve, tossed with a bit of sesame oil to prevent the noodles from sticking together."
+    },
+    {
+      "heading": null,
+      "description": "Combine the mentsuyu ingredients in a small saucepan, then boil for 3-5 mins until lightly syrupy (like maple syrup). Set aside in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the onion into half moons, cut the cabbage into bite-sized squares, then slice the carrots, peppers and mushrooms into matchsticks. Chop the spring onions into 5cm pieces. Mince the garlic. Set everything aside on a large plate. All the prep is now done – it’s time to stir-fry!"
+    },
+    {
+      "heading": null,
+      "description": "Heat a large pan and add a splash of oil when hot. Carefully add the chicken thighs at arm’s length, toss well in the oil, then lay each piece of chicken flat and leave to cook on each side for 2 mins, without tossing, until lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Push everything to the side and tilt the pan so the oil comes to one edge. Add the garlic, cook for 1 min until lightly golden, then toss everything together. Add the onions, carrots, mushrooms, cabbage, peppers and a splash of water to deglaze the pan. If anything is sticking to the bottom, the water will help scrape it away – you don't want anything to burn."
+    },
+    {
+      "heading": null,
+      "description": "Toss everything well, then add a splash of oil, the noodles and 4 tbsp mentsuyu sauce, saving a bit for later. Cook, tossing everything very well, for 1 min. Add 1 tsp dark soy sauce just for colour, then lay the noodles flat and allow to caramelise for 1 min (don’t move them). Toss and caramelise again."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat off and add the spring onions, sesame oil and rice vinegar. Toss well to combine."
+    },
+    {
+      "heading": null,
+      "description": "Serve with bonito flakes, ginger pickles, seaweed flakes, an egg yolk and chilli oil, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Jamaican-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-09T05:00:00+01:00"
+}

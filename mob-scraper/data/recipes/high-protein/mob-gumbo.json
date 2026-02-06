@@ -1,0 +1,261 @@
+{
+  "id": "6645721",
+  "slug": "mob-gumbo",
+  "title": "Mob’s Gumbo",
+  "url": "https://www.mob.co.uk/recipes/mob-gumbo",
+  "summary": "Our take on a Creole classic. A cajun-spiced chicken, sausage and okra one-pot that will transport you to Louisiana.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Mobs-Gumbo.jpg",
+  "cook_time": 85,
+  "prep_time": 15,
+  "total_time": 100,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 670,
+    "protein": 28,
+    "fat": 36,
+    "saturated_fat": 7,
+    "carbohydrates": 56,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1040
+  },
+  "ingredients": [
+    {
+      "label": "2 Large Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Celery Stalks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Okra",
+      "quantity": "200",
+      "unit": null,
+      "name": "Okra",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Boneless Skinless Chicken Thighs",
+      "quantity": "500",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Boneless Skinless Chicken Thighs",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Frankfurter Sausages",
+      "quantity": "250",
+      "unit": null,
+      "name": "Frankfurter Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Frankfurter Sausages",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Vegetable Oil",
+      "quantity": "125",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Plain Flour",
+      "quantity": "75",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cayenne Pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cajun Seasoning",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cajun Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Good Quality Chicken Stock",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fresh Bay Leaves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Thyme",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the onions, pepper and celery to create your cajun ‘trinity’. I like to go for a pretty chunky dice to give the gumbo some texture. Roughly chop the okra and thinly slice the garlic cloves, too."
+    },
+    {
+      "heading": null,
+      "description": "Cut the chicken thighs and sausage into bite-sized chunks. Season the chicken and sear off in a large saucepan or dutch oven with a little vegetable oil until browned all over. Remove the chicken from the pan and then add the sausages. Cook until crispy and then remove from the pot."
+    },
+    {
+      "heading": null,
+      "description": "Time to cook the roux, the most important bit! Tip the vegetable oil into the pan and whisk in the flour. Cook over a medium-low heat for 10-12 mins until very dark, whisking constantly. Tip in the cajun trinity with a pinch of salt and cook in the hot roux for 6-7 mins. Add the garlic, cayenne pepper and cajun seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the stock and bring to a boil, whisking now and then. Add the chicken and sausage back to the pan along with the bay leaves and thyme. Cook the lot for an hour or so before adding the chopped okra. Cook for another 10 mins or so – the okra will help thicken the gumbo. Season to taste with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, reheat the rice."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between bowls and ladle over generous portions of the gumbo. Top with sliced spring onions and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-02T12:21:00+01:00"
+}

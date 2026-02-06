@@ -1,0 +1,257 @@
+{
+  "id": "7031604",
+  "slug": "high-protein-ribollita-with-crumbled-sausage",
+  "title": "High-Protein Ribollita with Crumbled Sausage",
+  "url": "https://www.mob.co.uk/recipes/high-protein-ribollita-with-crumbled-sausage",
+  "summary": "Ribollita is my favourite Italian soup, but I’ve mixed it up a bit here by crisping up the bread and crumbling in chicken sausage for a protein boost. Comforting, healthy and delicious, you will go back for seconds.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/12/Ribollita-with-Chicken-Sausage-Crumble.jpg",
+  "cook_time": 30,
+  "prep_time": 20,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 39,
+    "fat": 27,
+    "saturated_fat": 9,
+    "carbohydrates": 41,
+    "dietary_fibre": 9,
+    "sugars": 10,
+    "sodium": 1442
+  },
+  "ingredients": [
+    {
+      "label": "680g Chicken Sausages",
+      "quantity": "680",
+      "unit": null,
+      "name": "Chicken Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "680g Chicken Sausages",
+      "quantity": "680",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Celery Sticks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Peeled Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Peeled Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cavolo Nero",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 700g Jar Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 700g Jar Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Parmesan",
+      "quantity": "80",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Stock",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices Sourdough Bread",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Parsley",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Get the chicken sausages into a bowl and use a fork to smash them up into small pieces. Dice the onion and celery and thinly slice the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large heavy pan set over a medium heat. Add the sausage pieces and cook for 6-7 mins until browned. Using a slotted spoon, remove from the pan and set aside. Add the diced veggies to the pan with a good pinch of salt. Cook the mixture, stirring regularly, for 8-10 mins until soft and caramelised. If catching on the bottom of the pan, just add a splash of water and scrape the bits up."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, tip the canned tomatoes into a bowl and use your hands to crush them. Remove the cavolo nero leaves from the stem and roughly chop. Drain the butter beans."
+    },
+    {
+      "heading": null,
+      "description": "To the pan with the caramelised veggies, add the garlic, chilli flakes and fennel seeds and cook for a minute or two over a medium heat. Add the tomato purée and bay leaves and cook out for another few minutes. Add the canned tomatoes, butter beans and chicken stock and bring to a simmer, then add the cavolo nero and leave to simmer for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, dice the bread into cubes and transfer to a baking tray. Drizzle with a little olive oil and season with salt then roast in the oven for 15 mins, until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "To plate, add the croutons to the bottom of the bowl and ladle over the soup. Cover with some grated Parmesan and top with the crumbled sausage. Finish with salt, loads of black pepper and some parsley leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "High Fibre",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-16T04:30:00+00:00"
+}

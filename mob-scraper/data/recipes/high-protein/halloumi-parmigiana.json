@@ -1,0 +1,172 @@
+{
+  "id": "4672750",
+  "slug": "halloumi-parmigiana",
+  "title": "Halloumi Parmigiana",
+  "url": "https://www.mob.co.uk/recipes/halloumi-parmigiana",
+  "summary": "The mash up you never knew wanted.. until now. The flavour and texture of the halloumi works wonders in this parmigiana recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Halloumi-Parmigiana.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 29,
+    "fat": 38,
+    "saturated_fat": 18,
+    "carbohydrates": 23,
+    "dietary_fibre": 8,
+    "sugars": 17,
+    "sodium": 1532
+  },
+  "ingredients": [
+    {
+      "label": "3 Tbsp Harissa Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Passata",
+      "quantity": "800",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Red Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Aubergines",
+      "quantity": "6",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250g Blocks of Halloumi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parsley, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat a large saucepan over a medium heat. Add a big splash of olive oil and then add the harissa paste and sizzle for a minute, then add the passata. Add the sugar and red wine vinegar, season well with salt and pepper. Bring to a simmer, then turn the heat down and cover with a lid."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the aubergines lengthways and season with salt. Put two large frying pans or griddle pans over a high heat. Working in batches, add the slices to the pans and char on each side until blackened and soft, then move to a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C/180°C fan. Taste the sauce and season with a little extra vinegar, sugar or salt if it needs it."
+    },
+    {
+      "heading": null,
+      "description": "Spoon a little sauce into the base of a deep roasting tin around 20cm x 30cm. Arrange a layer of aubergine over the sauce, then cover with another spoon of the sauce. Finely grate a layer of Parmesan over the top, then repeat with the next layer of aubergine slices. You should finish with a layer of sauce."
+    },
+    {
+      "heading": null,
+      "description": "Slice the halloumi into 0.5cm thick slices and layer on the top. Finish with a thick layer of grated Parmesan. Slide into the oven and bake for 30 mins, then turn on the grill and cook for 5-7 mins further or until golden brown. Set aside for 5 mins, then slice into 4 to serve."
+    },
+    {
+      "heading": null,
+      "description": "Scatter with parsley and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-23T17:49:00+00:00"
+}

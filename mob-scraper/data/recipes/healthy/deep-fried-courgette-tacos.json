@@ -1,0 +1,416 @@
+{
+  "id": "5917851",
+  "slug": "deep-fried-courgette-tacos",
+  "title": "Deep-Fried Courgette Tacos",
+  "url": "https://www.mob.co.uk/recipes/deep-fried-courgette-tacos",
+  "summary": "A wonderful vegetarian taco recipe with homemade salsa macha and watermelon hot sauce. This one screams summer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Deep-Fried-Courgette-Tacos.jpg",
+  "cook_time": 45,
+  "prep_time": 10,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 3,
+    "fat": 38,
+    "saturated_fat": 6,
+    "carbohydrates": 5,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 141
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Boiling Water, to cover",
+      "quantity": null,
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Unsalted Peanuts",
+      "quantity": "25",
+      "unit": null,
+      "name": "Unsalted Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Sesame Seeds",
+      "quantity": "25",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Pumpkin Seeds",
+      "quantity": "25",
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Dried Oregano",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½-1 Tsp Chipotle Flake",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½-1 Tsp Chipotle Flake",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Olive Oil",
+      "quantity": "125",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-3 Scotch Bonnet",
+      "quantity": "2",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Cider Vinegar",
+      "quantity": "25",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Watermelon Flesh",
+      "quantity": "150",
+      "unit": null,
+      "name": "Watermelon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Firm Courgettes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Corn Tortillas",
+      "quantity": null,
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Corn Tortillas",
+      "quantity": null,
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Avocado",
+      "quantity": null,
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Beans",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Beans",
+      "quantity": null,
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lime Wedges",
+      "quantity": null,
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the pickled onions, very thinly slice the onions and transfer to a small bowl. Cover with boiling water and leave for 1 min. Drain the onions well, add a pinch of salt, squeeze in the lime juice and stir well."
+    },
+    {
+      "heading": null,
+      "description": "For the salsa, split the dried chillies open, remove the seeds and cut the stalks off. Heat a dry frying pan over a medium heat, add the dried chillies and toast for 1-2 mins each side until fragrant and slightly puffed – take care not to burn them. Remove from the pan and leave to cool."
+    },
+    {
+      "heading": null,
+      "description": "In the same pan, toast the peanuts, sesame seeds and pumpkin seeds over a medium heat for 2-3 mins, until they become golden brown and fragrant. Remove from the pan and set aside to cool."
+    },
+    {
+      "heading": null,
+      "description": "Put the toasted chillies, peanuts, sesame seeds, pumpkin seeds, cumin, oregano, chipotle flakes and a pinch of salt in a blender or pestle and mortar. Pulse or crush to form a coarse paste."
+    },
+    {
+      "heading": null,
+      "description": "Heat the olive oil in a frying pan over a medium heat. Add the paste, grate in the garlic and cook, stirring, for 1 min until fragrant. Remove the pan from the heat and leave the paste to cool (it will thicken as it cools)."
+    },
+    {
+      "heading": null,
+      "description": "For the watermelon hot sauce, remove the seeds and stems from the Scotch bonnet, then roughly chop. Roughly chop the tomatoes, garlic and shallots, too. Put all of the ingredients apart from the watermelon into a non-reactive saucepan. Bring the liquid to a rapid simmer and cook for 3-5 mins to soften and combine. Remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Chop the watermelon into cubes. Using a hand-held stick blender, blitz the watermelon cubes into the Scotch bonnet mixture and keep blitzing until the sauce is completely smooth. Transfer to a small bowl (the sauce will keep well in the fridge for up to four days)."
+    },
+    {
+      "heading": null,
+      "description": "For the courgettes, very thinly slice the courgettes into rounds. Fill a small, deep saucepan one-third full with oil and place it over a medium heat. Heat the oil until a slice of courgette dropped in sizzles and floats to the surface immediately (or the oil temperature reads 180°C on a digital cooking thermometer)."
+    },
+    {
+      "heading": null,
+      "description": "In small batches, taking care not to overcrowd the pan, fry the courgette slices for 2-3 mins per batch, until they are just golden. Remove each batch using a slotted spoon and set aside on a plate lined with kitchen paper to drain any excess oil while you fry the remainder."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the lime juice over the cooked courgettes and scatter with flaky salt to serve."
+    },
+    {
+      "heading": null,
+      "description": "Slice the avocado and chop the coriander. Serve the tacos with sliced avocado, a big handful of coriander and some lime wedges for squeezing over."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Claire Thomson",
+      "uri": "chefs/claire-thomson",
+      "summary": "Claire Thomson (@5oclockapron) is a chef, author of 10 cookbooks and mum of 3 daughters. Claire began cooking professionally before smartphones were invented. Her food is delicious as it is uncomplicated, she is almost always in an apron cooking breakfast, lunch or dinner. In short, there is nothing Claire can’t cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-09T04:30:00+01:00"
+}

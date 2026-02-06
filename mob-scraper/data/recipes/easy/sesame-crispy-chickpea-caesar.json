@@ -1,0 +1,278 @@
+{
+  "id": "5067480",
+  "slug": "sesame-crispy-chickpea-caesar",
+  "title": "Sesame Crispy Chickpea Salad",
+  "url": "https://www.mob.co.uk/recipes/sesame-crispy-chickpea-caesar",
+  "summary": "Crispy chickpeas are a wonderful addition to this bright and flavourful salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Sesame-Crispy-Chickpea-Caesar.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 426,
+    "protein": 15,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 41,
+    "dietary_fibre": 8,
+    "sugars": 7,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "3 Heads of Romaine Lettuce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tenderstem Broccoli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Frozen Peas",
+      "quantity": "50",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Frozen Peas",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Frozen Edamame",
+      "quantity": "50",
+      "unit": null,
+      "name": "Frozen Shelled Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Shichimi Togarashi",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shichimi Togarashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sourdough Bread",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Crispy Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Crispy Fried Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Furikake",
+      "quantity": "30",
+      "unit": null,
+      "name": "Furikake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Tahini",
+      "quantity": "160",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Soy Sauce",
+      "quantity": "30",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Rice Vinegar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dashi Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dashi Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Toasted Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80ml Water",
+      "quantity": "80",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Drain and pat the chickpeas dry. Place onto a baking tray and drizzle with olive oil. Toss to evenly coat and season with salt. Place in the oven and roast until golden and crispy, 25-30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, trim and separate the romaine leaves. Trim the Tenderstem and halve. Trim and chop the cucumber into small 1cm chunks."
+    },
+    {
+      "heading": null,
+      "description": "For the dressing: stir the tahini, soy sauce, sugar, rice vinegar, dashi powder (skip the dashi to keep it vegan), toasted sesame seeds, water, and the juice of the lemon until creamy. It’ll split at first, but keep going. Add a tbsp of water at a time if you want it thinner."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, tear the sourdough bread into 2cm pieces, place onto another baking tray and drizzle with oil, season with salt and pepper, toss, then roast until golden brown, 10-15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Bring a saucepan of salted water to the boil. Once boiling, add the broccoli and cook for 3-4 mins until tender. The last minute, drop the peas and edamame to reheat. Let fully drain."
+    },
+    {
+      "heading": null,
+      "description": "Divide the lettuce between bowls and top with the veggies, chickpeas, croutons, crispy onions and furikake. Drizzle the dressing over and serve with a wedge of lemon. Toss before eating."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-19T10:08:00+00:00"
+}

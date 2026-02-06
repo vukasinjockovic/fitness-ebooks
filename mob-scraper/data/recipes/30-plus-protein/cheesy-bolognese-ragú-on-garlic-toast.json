@@ -1,0 +1,174 @@
+{
+  "id": "7220901",
+  "slug": "cheesy-bolognese-ragú-on-garlic-toast",
+  "title": "Cheesy Bolognese Ragú on Garlic Toast",
+  "url": "https://www.mob.co.uk/recipes/cheesy-bolognese-ragú-on-garlic-toast",
+  "summary": "Thick sourdough toast slathered in garlic and butter, piled high with ragù and smothered in cheese. It’s giving lasagne vibes, but quicker. And a perfect way to use up leftovers from our Bolognese Ragú batch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Cheesy-Bolognese-Ragu%CC%81-on-Garlic-Toast.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 677,
+    "protein": 34,
+    "fat": 39,
+    "saturated_fat": 19,
+    "carbohydrates": 43,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 1122
+  },
+  "ingredients": [
+    {
+      "label": "2–4 Slices Thick Sourdough",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Butter",
+      "quantity": "40",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 125g Mozzarella Ball",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 125g Mozzarella Ball",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Basil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Basil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Bolognese Ragú."
+    },
+    {
+      "heading": null,
+      "description": "Toast the sourdough slices until golden, then rub one side of each slice with the garlic clove. Spread over the butter while the toast is still warm."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the Bolognese ragù in a saucepan until piping hot. Add a splash of water if it needs loosening."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the ragù over the garlic toasts. Tear the mozzarella and scatter it on top. Finely grate the Parmesan over everything and finish with a few basil leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian-American",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-25T11:41:00+01:00"
+}

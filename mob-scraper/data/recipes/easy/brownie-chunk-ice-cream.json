@@ -1,0 +1,131 @@
+{
+  "id": "6798040",
+  "slug": "brownie-chunk-ice-cream",
+  "title": "Brownie Chunk Ice Cream",
+  "url": "https://www.mob.co.uk/recipes/brownie-chunk-ice-cream",
+  "summary": "Indulgent vanilla ice cream with soft, fudgy brownie pieces. A match made in heaven.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Brownie-Ice-Cream-2.jpg",
+  "cook_time": 5,
+  "prep_time": 150,
+  "total_time": 155,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 322,
+    "protein": 5,
+    "fat": 19,
+    "saturated_fat": 11,
+    "carbohydrates": 32,
+    "dietary_fibre": 1,
+    "sugars": 25,
+    "sodium": 82
+  },
+  "ingredients": [
+    {
+      "label": "300ml Whole Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vanilla Pod",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Egg Yolks",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Chocolate Brownies",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chocolate Brownie",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour the milk into a pan, add the vanilla pod and bring slowly up to scalding point – do not let it reach the boil. Cover the surface with clingfilm to prevent a skin forming, then leave to cool and infuse with the vanilla for approximately 1 hour. Once cool, carefully remove the vanilla pod from the pan and scrape out the seeds into the milk."
+    },
+    {
+      "heading": null,
+      "description": "Tip a bag of ice cubes into the sink and place a large wide metal bowl on top, to chill the bowl. Alternatively, place a metal bowl in the freezer."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, beat together the egg yolks and sugar until thick and fluffy – approximately 4 mins. Pour in the vanilla milk and stir until you get a thin custard."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture into a clean heavy-bottomed pan, place over a medium heat and stir continuously with a wooden spoon as you slowly bring it nearly to the boil. When the custard has thickened and the foam bubbles on the surface have disappeared, remove it from the heat, whisk it for a couple of mins with a large balloon whisk (this will help it to cool quicker), then pour into your cold, dry metal bowl."
+    },
+    {
+      "heading": null,
+      "description": "Leave it to cool for approximately 10 mins, stirring occasionally to prevent a skin forming."
+    },
+    {
+      "heading": null,
+      "description": "If churning in an ice cream maker: turn on your ice cream maker and roughly chop the brownies. Once the mixture has cooled, stir in the cream, churn in the ice cream maker for 15 mins. Stir through the brownie pieces, then churn for another 15-20 mins. Transfer to an ice cream container and place in the freezer to set completely."
+    },
+    {
+      "heading": null,
+      "description": "If churning by hand: once the mixture is cool, put it into the fridge for 1-2 hours. Remove, stir in the cream and transfer to an ice cream container. Pop it in the freezer for half an hour (meanwhile, roughly chop the brownies) then give it a churn with a spoon and stir through the brownies pieces. Return to the freezer to set completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-16T11:20:00+01:00"
+}

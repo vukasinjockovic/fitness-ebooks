@@ -1,0 +1,336 @@
+{
+  "id": "6950881",
+  "slug": "beef-birria",
+  "title": "Beef Birria",
+  "url": "https://www.mob.co.uk/recipes/beef-birria",
+  "summary": "A fuss-free slow-cooked birria with tender beef and a rich broth. This dish from Guadalajara is a Mexican broth made using dried chilies and lots of different spices. In my family, we make birria using beef, because it’s easier to find and quicker to cook than goat. We cook birria for special occasions and we love having the leftovers for breakfast.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Beef-Birria.jpg",
+  "cook_time": 160,
+  "prep_time": 10,
+  "total_time": 170,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 412,
+    "protein": 44,
+    "fat": 23,
+    "saturated_fat": 9,
+    "carbohydrates": 7,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 857
+  },
+  "ingredients": [
+    {
+      "label": "1kg Bone-In Beef Shin",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Bone-In Beef Shin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Short Ribs",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Short Rib",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Beef Chuck",
+      "quantity": "250",
+      "unit": null,
+      "name": "Beef Chuck",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Beef Chuck",
+      "quantity": "250",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Guajillo Chillies",
+      "quantity": "7",
+      "unit": null,
+      "name": "Dried Guajillo Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Ancho Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Ancho Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Small Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Marjoram",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Marjoram",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Black Peppercorns",
+      "quantity": "10",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Whole Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp White Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "White Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Maldon Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2L Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinto Beans From The Pot",
+      "quantity": null,
+      "unit": null,
+      "name": "Leftover Beans de la Olla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Onion",
+      "quantity": null,
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Spicy Salsa",
+      "quantity": null,
+      "unit": null,
+      "name": "Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lime wedges",
+      "quantity": null,
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Corn Tortillas",
+      "quantity": null,
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Corn Tortillas",
+      "quantity": null,
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the bone-in beef shin and beef chuck into big 6-8cm chunks, separating the bone marrow from the shin meat."
+    },
+    {
+      "heading": null,
+      "description": "Heat the grill to high. Get all the beef chunks, bone marrow and short ribs on a baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Slide the tray under the grill to cook for 8 mins until the meat is nicely browned, turning the beef and marrow over halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the meat to a large cast iron pot and set aside while you prep the adobo (sauce)."
+    },
+    {
+      "heading": null,
+      "description": "Remove the seeds and stem from the dried chilies. Add the chillies to a small bowl, cover with boiling water and set aside for 5 mins to rehydrate. Halve the tomatoes and onions. Peel the garlic cloves."
+    },
+    {
+      "heading": null,
+      "description": "Get the tomatoes, onion and garlic in a blender and add all the spices, vinegar and ½ the salt. Add the soaked chilies and a splash of their water then blend until smooth (add more water if it feels too thick)."
+    },
+    {
+      "heading": null,
+      "description": "Pass the adobo through a sieve and pour it over the meat. Stir through ¾ of the water."
+    },
+    {
+      "heading": null,
+      "description": "Set the pot over a high heat and bring the liquid to a boil then pop the lid on, reduce the heat to low and cook for about 2 hours, adding the remaining salt and water halfway through. The cooking time will vary depending on your hob so make sure the meat is tender and falling apart easily before you turn off the heat. Once cooked, season to taste with more salt if needed."
+    },
+    {
+      "heading": null,
+      "description": "Before serving, transfer the pieces of meat to a bowl or plate and use two forks to shred it."
+    },
+    {
+      "heading": null,
+      "description": "To serve, portion out some meat into bowls and ladle over some broth. Serve with warmed beans from the pot, if you like, and garnish with finely chopped fresh coriander, diced onion, spicy salsa and lime wedges on the side and warm rolled up corn tortillas."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Freezer Friendly",
+    "Low Carb",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Karla Zazueta",
+      "uri": "chefs/karla-zazueta",
+      "summary": "Karla Zazueta is an incredible Mexican cook, food writer and cookery teacher. She teaches her Mexican traditions, recipes and techniques through cooking classes at her Mexican Food Memories cooking school. She also hosts Mexican supper clubs at her family home. Her recipes have been featured in The Guardian, BBC Food, NatGeo Food Magazine and many more. She's also just released her first cookbook, Norteña, where she shares the story of her family recipes and northern Mexico."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-05T08:35:00+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "4255050",
+  "slug": "millionaire-shortbread-date",
+  "title": "Millionaire's Shortbread Date",
+  "url": "https://www.mob.co.uk/recipes/millionaire-shortbread-date",
+  "summary": "Everything you love about a millionaire's shortbread, but in date form. The perfect sweet pick-me-up.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Millionaires-Shortbread-Date.jpg",
+  "cook_time": 5,
+  "prep_time": 10,
+  "total_time": 15,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 266,
+    "protein": 2,
+    "fat": 13,
+    "saturated_fat": 7,
+    "carbohydrates": 36,
+    "dietary_fibre": 2,
+    "sugars": 26,
+    "sodium": 61
+  },
+  "ingredients": [
+    {
+      "label": "7-10 Medjool Dates",
+      "quantity": "10",
+      "unit": null,
+      "name": "Medjool Date",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pack of Shortbread",
+      "quantity": "200",
+      "unit": null,
+      "name": "Shortbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Jar of Caramel Sauce",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caramel Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Semisweet Chocolate Chips",
+      "quantity": "320",
+      "unit": null,
+      "name": "Semisweet Chocolate Chip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "120ml Heavy Cream",
+      "quantity": "120",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Vanilla Extract",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the cream until it’s steaming in a saucepan. Once it’s looking right, pour your cream over the chocolate chips in a heatproof bowl. Add your vanilla extract and give it a good stir."
+    },
+    {
+      "heading": null,
+      "description": "Cut up your shortbread into inch-sized pieces. Add your shortbread pieces to your chocolate sauce and use a spoon to mix it all together. Add your chocolatey mixture to your dates and place them onto a plate. Drizzle your stuffed dates with a generous amount of caramel. Top with flaky sea salt. Dig in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ayesha Erkin",
+      "uri": "chefs/ayesha-erkin",
+      "summary": "Ayesha Erkin is a trained architect that found herself spending more late nights in the kitchen than in the studio. Her favorite type of recipe development is obsessing over one thing and making it in a 100 different ways, which resulted in her debut cookbook, 'Date Of The Day'. Ayesha is an immigrant of mixed Turkic and Arab heritage. She was born and raised in Pakistan, alongside living between Saudi Arabia, Germany and moved to America when she was 14. Ayesha is the founder of 'Brown Girls Food Club' and 'People, Places & Spaces' - a design, culinary and research practice. She is based between London and Texas, but you'll often find her traveling elsewhere."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-07T08:00:00+01:00"
+}

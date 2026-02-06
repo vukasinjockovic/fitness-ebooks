@@ -1,0 +1,199 @@
+{
+  "id": "1009",
+  "slug": "ultimate-breakfast-sandwich",
+  "title": "Ultimate Breakfast Sandwich",
+  "url": "https://www.mob.co.uk/recipes/ultimate-breakfast-sandwich",
+  "summary": "Founder of The Fry Up Police, Thomas Shiers, presents his Ultimate Breakfast Sandwich. All your favourite fry-up ingredients in a bap with a secret mayo sauce.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A7357_1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1112,
+    "protein": 39,
+    "fat": 74,
+    "saturated_fat": 22,
+    "carbohydrates": 70,
+    "dietary_fibre": 5,
+    "sugars": 15,
+    "sodium": 2107
+  },
+  "ingredients": [
+    {
+      "label": "8 Frozen Hash Browns",
+      "quantity": "8",
+      "unit": null,
+      "name": "Hash Brown",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Rashers Dry-Cured Smoked Streaky Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Rashers Dry-Cured Smoked Streaky Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices Leerdammer Cheese ",
+      "quantity": "8",
+      "unit": null,
+      "name": "Leerdammer Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices Leerdammer Cheese ",
+      "quantity": "8",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Buns ",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs ",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Mayonnaise",
+      "quantity": "8",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Ketchup",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Hot Sauce",
+      "quantity": "8",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by defrosting your hash browns, mash them up with your hands and cut or form them into 4 patties, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze out your sausage meat and cut them into 4 patties. Add a glug of oil into a frying pan and fry your sausage patties on a low and slow heat (good things can’t be rushed)."
+    },
+    {
+      "heading": null,
+      "description": "Move your patties to the edge of the pan and fry your bacon. Flip the bacon once it begins to get brown and crispy on one side."
+    },
+    {
+      "heading": null,
+      "description": "Make room for your hash browns to fry. Once golden on one side, flip them. Add 2 slices of cheese on top of each sausage patty. Then, place 2 rashers of bacon on top of the sausage and leave to melt together until the cheese is oozing."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, halve and whack your burger buns in and lightly toast so they begin to char. Once your patties are ready, take everything off the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Fried egg time. Into a new pan, add a generous glug of oil and crack your eggs in once the oil is very hot. Again, cook on a low and slow heat. Drizzle the oil over the top of the egg to baste it. Season with pepper and continue to coat the egg in oil until perfectly cooked. Set your egg aside and construct your sauce."
+    },
+    {
+      "heading": null,
+      "description": "Take your mayo, ketchup and hot sauce and whisk together in a bowl until fully combined. Smother your buns with a dollop of the sauce. Assemble with your bun, hash brown patty, then your sausage patty with your bacon and finally the egg. Repeat these steps for the rest of the sandwiches. Then, tuck into the best breakfast sarnie you will ever eat. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-01-16T00:00:00+00:00"
+}

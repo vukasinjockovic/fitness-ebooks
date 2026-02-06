@@ -1,0 +1,338 @@
+{
+  "id": "5879045",
+  "slug": "vegetable-tagine",
+  "title": "Vegetable Tagine Recipe",
+  "url": "https://www.mob.co.uk/recipes/vegetable-tagine",
+  "summary": "Use this vegetable tagine as a base to play around with your cooking. You can swap out the vegetables depending on what you have in your fridge, butternut works super well instead of sweet potato, for instance, and if you’re looking for a bit of added spice or flavour, try stirring in some harissa, too. It’s easy to see why this Moroccan dish has taken over the world. This is one of our favourite Middle Eastern-inspired recipes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Vegetable-Tagine-Recipe.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 9,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 39,
+    "dietary_fibre": 7,
+    "sugars": 15,
+    "sodium": 324
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Carrots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Turmeric",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Reserved Chickpea Water",
+      "quantity": null,
+      "unit": null,
+      "name": "Reserved Chickpea Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Preserved Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Preserved Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Parsley (30g)",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dried Apricots",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dried Apricot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Toasted Flaked Almonds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Toasted Flaked Almonds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Couscous or Flatbread, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the red onions. Heat a half of the oil in a large saucepan or casserole dish set over a medium heat. Scrape in the onions with some seasoning. Cook for 8-10 mins, stirring occasionally until soft."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel the carrots and sweet potatoes and cut into medium 3cm-sized chunks. Finely chop the garlic cloves."
+    },
+    {
+      "heading": null,
+      "description": "Add the carrot, sweet potato and garlic to the onion along with the remaining oil. Cook, stirring for a couple of minutes then stir in the tomato purée, smoked paprika, cumin, turmeric and cinnamon. Cook, stirring for 2 mins more."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the plum tomatoes and the chickpeas along with their water, then refill one of the tins with water and pour that in, too. Bring everything up to the boil, using the back of your spoon to break up the tomatoes a little."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the preserved lemons, and add half to the pan. Once boiling, reduce the heat and simmer away for 20-25 mins until the sweet potato is tender whilst holding its shape."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, scrape the remaining preserved lemon into a small bowl. Stir in the yoghurt, then season with salt, pepper and lemon juice to taste."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop all the parsley (stalks and all), along with the prunes or dried apricots. Stir the fruit and most of the parsley through the tagine then season to taste, adding any remaining lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Serve the tagine with couscous or flatbreads, the preserved lemon yoghurt spooned over, along with the remaining parsley and toasted flaked almonds, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-17T13:45:00+01:00"
+}

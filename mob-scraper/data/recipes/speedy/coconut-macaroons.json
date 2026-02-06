@@ -1,0 +1,123 @@
+{
+  "id": "6512630",
+  "slug": "coconut-macaroons",
+  "title": "Coconut Macaroons",
+  "url": "https://www.mob.co.uk/recipes/coconut-macaroons",
+  "summary": "These coconut macaroons are a surprisingly easy bake. Perfect for a gluten-free afternoon tea.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Coconut-Macaroons_2024-11-04-094913_metu.jpg",
+  "cook_time": 25,
+  "prep_time": 0,
+  "total_time": 25,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 144,
+    "protein": 2,
+    "fat": 6,
+    "saturated_fat": 6,
+    "carbohydrates": 21,
+    "dietary_fibre": 2,
+    "sugars": 19,
+    "sodium": 57
+  },
+  "ingredients": [
+    {
+      "label": "3 Egg Whites",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Caster sugar",
+      "quantity": "220",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Sea Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Honey",
+      "quantity": "20",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Desiccated Coconut",
+      "quantity": "200",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Non-Stick Vegetable Oil Spray",
+      "quantity": null,
+      "unit": null,
+      "name": "Non-Stick Vegetable Oil Spray",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C fan. Grease a mini cake tin (with multiple moulds in one tray) with non-stick vegetable oil spray."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the ingredients in a large saucepan and set over a medium heat. Stir and turn the mixture thoroughly and constantly with a spatula, making sure to scrape the bottom as you go. Cook until the mixture is drying out and just starting to turn brown and singe a little."
+    },
+    {
+      "heading": null,
+      "description": "Scoop the mixture into the mini cake moulds. Bake for around 15 mins until crisp on the outside (keep an eye on them or they can dry out)."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and leave to cool in the trays for 10 mins before transferring to a wire rack to cool completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Afternoon Tea",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T13:12:00+01:00"
+}

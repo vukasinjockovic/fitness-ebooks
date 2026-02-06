@@ -1,0 +1,147 @@
+{
+  "id": "4304624",
+  "slug": "fried-halloumi-salad",
+  "title": "Fried Halloumi Salad With Fennel, Quinoa & Roasted Garlic Dressing",
+  "url": "https://www.mob.co.uk/recipes/fried-halloumi-salad",
+  "summary": "We love halloumi. Salty, squeaky, and great in a salad. We've thrown in some quinoa and fennel for a mega dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Fried-Halloumi-Salad-with-Fennel-Quinoa-and-a-Roasted-Garlic-Dressing.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 26,
+    "fat": 25,
+    "saturated_fat": 13,
+    "carbohydrates": 32,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1010
+  },
+  "ingredients": [
+    {
+      "label": "2 x 250g Pouches of Quinoa",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250g Pouches of Quinoa",
+      "quantity": "500",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fennel Bulbs",
+      "quantity": "348",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Parsley (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Roasted Garlic Bulbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Blocks of Halloumi",
+      "quantity": "450",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Lemons",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 200°C. Drizzle the garlic bulbs with a little oil and wrap tightly in foil. Roast for 30-35 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the quinoa according to package instructions. Finely slice the fennel (use a mandoline if you have one), roughly chop the parsley, add the yoghurt, zest and juice of two lemons to a large bowl along with the squeezed out roasted garlic bulbs. Whisk well and season with salt and pepper. Add the cooked quinoa, fennel and parsley before giving it a good stir."
+    },
+    {
+      "heading": null,
+      "description": "Onto the halloumi. Slice the halloumi into pieces. Heat oil in a large frying pan over a medium heat and add the halloumi, cooking for 4-5 min on each side, until golden. In the meantime, cut the last lemon into wedges. Remove from the pan then serve up a big portion of fennel salad, topping with the halloumi and some lemon wedges!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-19T06:00:00+01:00"
+}

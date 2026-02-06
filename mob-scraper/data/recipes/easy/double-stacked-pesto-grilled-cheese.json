@@ -1,0 +1,140 @@
+{
+  "id": "5458001",
+  "slug": "double-stacked-pesto-grilled-cheese",
+  "title": "Double Stacked Pesto Grilled Cheese",
+  "url": "https://www.mob.co.uk/recipes/double-stacked-pesto-grilled-cheese",
+  "summary": "How do you make a grilled cheese (which, let's face it, is already an objectively perfect food) even better? By adding pesto, of course.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Double-Stacked-Pesto-Grilled-Cheese.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 1042,
+    "protein": 36,
+    "fat": 65,
+    "saturated_fat": 21,
+    "carbohydrates": 73,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 1382
+  },
+  "ingredients": [
+    {
+      "label": "3 Slices of White Bread",
+      "quantity": "3",
+      "unit": null,
+      "name": "White Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Tbsp Pesto",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Grated Mozzarella",
+      "quantity": "50",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Grated Mozzarella",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mayonnaise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grate the cheese. Toast one slice of bread. Spread half of the pesto across one of the slices of bread, top with half of the cheese. Spread the slice of toast with the remaining pesto and place on top of the cheese pesto-side up. Add the remainder of the cheese then top with the final slice of bread. Spread the outside of the top slice of bread with mayo, then scatter with the sesame seeds."
+    },
+    {
+      "heading": null,
+      "description": "Place a non-stick frying pan over a medium heat and place the toastie, sesame seed side down in the pan. Place another frying pan on top and press down. Allow to cook for 3-4 mins, until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Spread mayo across the bread top, then scatter with sesame seeds, pressing them in a little so they stick. Flip the toastie over, so the freshly mayo’d and sesame’d side is now face down in the pan. Place the pan on top again to press the toastie down. Cook for another 3-4 mins, until the cheese is melted and the toastie is golden. Serve immediately."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-27T04:00:00+01:00"
+}

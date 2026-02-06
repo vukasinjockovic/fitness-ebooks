@@ -1,0 +1,204 @@
+{
+  "id": "7221026",
+  "slug": "pulled-chipotle-chicken-jacket-potato",
+  "title": "Pulled Chipotle Chicken Jacket Potato",
+  "url": "https://www.mob.co.uk/recipes/pulled-chipotle-chicken-jacket-potato",
+  "summary": "Golden crispy jackets stuffed with leftovers from your Juicy Pulled Chipotle Chicken batch, topped with feta, salsa and zingy pickled onions. It's super easy and utterly delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Pulled-Chipotle-Chicken-Jacket-Potato.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 526,
+    "protein": 27,
+    "fat": 27,
+    "saturated_fat": 10,
+    "carbohydrates": 41,
+    "dietary_fibre": 7,
+    "sugars": 9,
+    "sodium": 813
+  },
+  "ingredients": [
+    {
+      "label": "2 Large Baking Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Baking Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Coriander",
+      "quantity": "5",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tomato or Tomatillo Salsa",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomatillo Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tomato or Tomatillo Salsa",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Feta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Feta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Sauce, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Juicy Pulled Chipotle Chicken"
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Scrub the potatoes, prick them all over with a fork, then rub with olive oil and salt. Bake directly on the oven shelf for 1 hr until crisp on the outside and fluffy inside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the red onion and squeeze over the juice half the limes. Season with a pinch of salt and set aside to pickle. Pick the coriander leaves from their stems and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Warm the leftover pulled chipotle chicken in a saucepan set over a low heat until piping hot throughout. Add a splash of water if needed to loosen the sauce. Crumble the feta."
+    },
+    {
+      "heading": null,
+      "description": "Once the potatoes are cooked, cut a deep cross into each one and squeeze from the base to open. Fluff up the inside with a fork, then pile in the hot chipotle chicken."
+    },
+    {
+      "heading": null,
+      "description": "Top each jacket with a spoonful of salsa, crumbled feta, the quick-pickled onions and fresh coriander. Serve with lime wedges and hot sauce on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-25T14:07:00+01:00"
+}

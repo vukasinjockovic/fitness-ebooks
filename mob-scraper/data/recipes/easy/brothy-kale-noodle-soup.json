@@ -1,0 +1,130 @@
+{
+  "id": "6752770",
+  "slug": "brothy-kale-noodle-soup",
+  "title": "Brothy Kale Noodle Soup",
+  "url": "https://www.mob.co.uk/recipes/brothy-kale-noodle-soup",
+  "summary": "A light, easy and nutritious cavolo nero and noodle soup. Perfect for when you need a bowl of goodness on your table in less than 15 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Brothy-Kale-Noodle-Soup.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 246,
+    "protein": 13,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 41,
+    "dietary_fibre": 6,
+    "sugars": 3,
+    "sodium": 1017
+  },
+  "ingredients": [
+    {
+      "label": "50g Soba Noodles",
+      "quantity": "50",
+      "unit": null,
+      "name": "Soba Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Soba Noodles",
+      "quantity": "50",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cavolo Nero",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "475ml Chicken Stock",
+      "quantity": "475",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Tamari",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Tamari",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove and discard the tough stems of the cavolo nero, then chop the leaves into slices and place in a steamer basket or sieve."
+    },
+    {
+      "heading": null,
+      "description": "Heat up the stock in a small pot."
+    },
+    {
+      "heading": null,
+      "description": "Bring a medium pot of salted water to the boil, then reduce to a simmer. Add the soba noodles into the pot, rest the sieve or steamer basket with the kale on top, then cover with a lid. Cook the noodles following packet instructions, then drain and place the noodles and the cavolo nero into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Pour the hot stock over the noodles and cavolo nero. Finely chop the chives and sprinkle them on top, followed by a splash of tamari and the black sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T10:10:00+01:00"
+}

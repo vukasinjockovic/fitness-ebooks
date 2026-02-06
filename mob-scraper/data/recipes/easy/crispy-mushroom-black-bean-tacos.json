@@ -1,0 +1,365 @@
+{
+  "id": "5165686",
+  "slug": "crispy-mushroom-black-bean-tacos",
+  "title": "Crispy Mushroom & Black Bean Tacos with Pea Guacamole",
+  "url": "https://www.mob.co.uk/recipes/crispy-mushroom-black-bean-tacos",
+  "summary": "Tasty vegan tacos with a homemade pea guacamole. Vegan recipes don't get better than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Crispy-Mushroom-Black-Bean-Tacos-with-Pea-Guacamole.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 45,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 662,
+    "protein": 22,
+    "fat": 27,
+    "saturated_fat": 4,
+    "carbohydrates": 78,
+    "dietary_fibre": 17,
+    "sugars": 15,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "200g Mixed Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mixed Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mixed Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chipotle Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chipotle Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sun-dried Tomatoes",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sun-dried Tomatoes",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Peas",
+      "quantity": "220",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Peas",
+      "quantity": "220",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Tahini",
+      "quantity": "30",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "22ml Lime Juice",
+      "quantity": "22",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Jalapeños",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4-5 Medium Corn Tortillas",
+      "quantity": "5",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4-5 Medium Corn Tortillas",
+      "quantity": "5",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pickled Red Onions",
+      "quantity": null,
+      "unit": null,
+      "name": "Pickled Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lime Wedges",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Roughly chop the mushrooms and put them in a small baking dish. Add all of the mushroom spices and plenty of olive oil, salt and black pepper. Toss to combine and roast for 25-30 mins until golden and caramelised, stirring at least twice to get an even cook."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the beans. Finely slice the onion and mince the garlic. Fry the onion in a large saucepan with a little olive oil for 8-10 mins until softened, then add the garlic. Add the tomato purée, soy sauce and spices and cook for a few more minutes until all the flavours have combined."
+    },
+    {
+      "heading": null,
+      "description": "Add the sun-dried tomatoes and drained beans. Rinse the bean tin and fill it halfway with water, then add this to the pan. Simmer for about 10 mins until most of the liquid has evaporated and the beans have really softened."
+    },
+    {
+      "heading": null,
+      "description": "To make the pea guacamole, defrost the peas and then put all of the ingredients into a small blender and blitz until almost smooth. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, brush one side of the tortillas with olive oil and heat on this side in a large frying pan. Fill one half of each tortilla with the beans and mushrooms, then close them up. Fry them in the pan over a medium heat for 2 mins on each side until crispy on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Serve with the pea guacamole, some extra lime and pickles, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Most Cooked",
+    "Family-Friendly",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-26T07:00:00+00:00"
+}

@@ -1,0 +1,193 @@
+{
+  "id": "6381769",
+  "slug": "chicken-basil-fennel-smoosh",
+  "title": "Chicken, Basil & Fennel Smoosh",
+  "url": "https://www.mob.co.uk/recipes/chicken-basil-fennel-smoosh",
+  "summary": "An Italian-ish smoosh flavoured with fresh basil, Parmesan and fennel. The ultimate high-protein, low-effort lunch or dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chicken-Basil-Smoosh.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 573,
+    "protein": 51,
+    "fat": 36,
+    "saturated_fat": 10,
+    "carbohydrates": 10,
+    "dietary_fibre": 6,
+    "sugars": 3,
+    "sodium": 805
+  },
+  "ingredients": [
+    {
+      "label": "3 Chicken Breasts",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Chicken Breasts",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Basil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Basil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Parmesan",
+      "quantity": "80",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cottage Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cottage Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cottage Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 180°C. Season your chicken breasts with salt, pepper and a good drizzle of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Put your chicken breasts on a baking tray and cook in the oven for 30 mins until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely dice your cucumber and avocado, finely chop your basil, and grate your Parmesan."
+    },
+    {
+      "heading": null,
+      "description": "When your chicken is cooked, chop it into even-sized pieces. Combine it with all the remaining ingredients in a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Now it’s time to ‘smoosh’ the mixture over a few slices of toast, a pitta bread, a bagel, or whatever you fancy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Low Carb",
+    "Power Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-22T09:00:00+01:00"
+}

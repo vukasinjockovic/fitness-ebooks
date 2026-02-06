@@ -1,0 +1,399 @@
+{
+  "id": "2999860",
+  "slug": "xiengnis-vegan-laksa",
+  "title": "Xiengni's Vegan Laksa",
+  "url": "https://www.mob.co.uk/recipes/xiengnis-vegan-laksa",
+  "summary": "All the flavours of a laksa without any of the meat, this is the ultimate vegan laksa. Every mouthful is a flavour bomb. Rich, warming and spicy, it's a goodie.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A2720-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 15,
+    "fat": 23,
+    "saturated_fat": 13,
+    "carbohydrates": 74,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "5cm Knob of Ginger",
+      "quantity": "25",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Shallots",
+      "quantity": "200",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Cloves of Garlic",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemongrass Stalks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "9 Red Chillies",
+      "quantity": "9",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Dried Chillies",
+      "quantity": "5",
+      "unit": null,
+      "name": "Dried Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Miso Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Ground Turmeric",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Tbsp Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tamarind Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tamarind Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 Tins of Coconut Milk",
+      "quantity": "600",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5L Vegetable Stock",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Curry Leaves (Optional)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cornflour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chinese 5 Spice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Firm Tofu",
+      "quantity": "450",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Firm Tofu",
+      "quantity": "450",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Oyster Mushrooms",
+      "quantity": "150",
+      "unit": null,
+      "name": "Oyster Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Oyster Mushrooms",
+      "quantity": "150",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pak Choi",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Bean Sprouts",
+      "quantity": "150",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Green Beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vermicelli Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vermicelli Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vermicelli Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, soak the dried chillies in boiling water in a heatproof bowl."
+    },
+    {
+      "heading": null,
+      "description": "Now let's make the spice paste. Roughly chop the ginger, peeled shallots and one lemongrass stalk. Add to a blender along with your garlic and 3 tbsp of vegetable oil. Blend the ingredients till it forms a purée. This is your garlic paste."
+    },
+    {
+      "heading": null,
+      "description": "Add your garlic paste to a large non-stick wok, pour in 200ml of vegetable oil and let this cook for 30 mins on a medium-low heat."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, roughly chop the fresh chillies and tomato. Blend the drained dried chillies, chopped chillies and tomato with 2 tbsp of vegetable oil in the same blender till it forms a purée. This is your chilli paste."
+    },
+    {
+      "heading": null,
+      "description": "Now add the chilli paste to your wok and give it a good mix. Let it cook until the oil separates from the paste."
+    },
+    {
+      "heading": null,
+      "description": "Add in miso paste, turmeric, curry powder and coriander powder before squeezing in the juice of a lime and giving it a good mix. Next you’re going to want to add in the sugar, tamarind paste, coconut milk, stock, and a smashed lemongrass stalk along with a small handful of coriander leaves and 12 curry leaves."
+    },
+    {
+      "heading": null,
+      "description": "Bring the laska broth to a boil then let it simmer on a low heat for 25 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop your tofu into halves then into quarters. Add cornflour, salt, pepper and Chinese five-spice to a large bowl and thoroughly mix the tofu in."
+    },
+    {
+      "heading": null,
+      "description": "Get a pan on medium-high heat, pour in a glug of oil and fry your tofu until crispy. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Thoroughly mix your oyster mushrooms in the same five-spice cornflour mix before chucking them in the pan. Fry on each side for a few mins each until crispy and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Whack your noodles into a large heatproof bowl with boiling water. This will take 3-4 mins to cook. Drain, rinse with cold water (to stop it from cooking) and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get a pot of boiling water on then add your green beans for 3 mins. Add your beansprouts to the same pot and blanch for 15 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Add the pak choi to your laksa broth and cook for 10 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Now, add your noodles to a medium-sized bowl, add in a large ladle of laksa broth and the tofu, mushrooms, green beans, beansprouts and pak choi. Garnish each bowl with red chillies, coriander, mint and halved limes and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Malaysian"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-28T12:03:00+00:00"
+}

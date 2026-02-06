@@ -1,0 +1,152 @@
+{
+  "id": "3516923",
+  "slug": "captain-morgan-sliced-apple-and-rhubarb-fizz",
+  "title": "Sliced Apple and Rhubarb Fizz",
+  "url": "https://www.mob.co.uk/recipes/captain-morgan-sliced-apple-and-rhubarb-fizz",
+  "summary": "This fizzy little number is set to be your drink of the summer. It's not too sweet and makes the most of seasonal rhubarb. Anyone can make this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/06/Rhubarb.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 324,
+    "protein": 2,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 62,
+    "dietary_fibre": 2,
+    "sugars": 61,
+    "sodium": 19
+  },
+  "ingredients": [
+    {
+      "label": "50ml Captain Morgan Sliced Apple",
+      "quantity": "50",
+      "unit": null,
+      "name": "Gold Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Rhubarb",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rhubarb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10ml Grenadine",
+      "quantity": "10",
+      "unit": null,
+      "name": "Grenadine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220ml Simple Syrup",
+      "quantity": "220",
+      "unit": null,
+      "name": "Simple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Lemon Juice",
+      "quantity": "25",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Egg White",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Cubed Ice",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml Sparkling Water",
+      "quantity": "20",
+      "unit": null,
+      "name": "Sparkling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rhubarb Ribbon and Lemon Twist Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Rhubarb Ribbon And Lemon Twist Garnish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grab your longest, pinkest rhubarb stalk and use a peeler to make a few ribbons."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the remaining rhubarb and pop it into a heat-proof bowl. Add the grenadine and toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "Heat the syrup to a simmer and pour over the chopped rhubarb. Let that steep until it's around room temperature. Pass through a fine sieve and store in the fridge. The syrup will keep for up to a week."
+    },
+    {
+      "heading": null,
+      "description": "Combine 25ml of the rhubarb syrup with 50ml of Captain Morgan Sliced Apple, lemon juice and egg white in a cocktail shaker. Add one ice cube and dry shake for 10 secs. Now fill to the brim with ice and shake again for 15 secs."
+    },
+    {
+      "heading": null,
+      "description": "Strain into a chilled tumbler, top up with sparkling water and garnish with a rhubarb ribbon and a lemon twist."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-07T08:00:00+01:00"
+}

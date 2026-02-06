@@ -1,0 +1,146 @@
+{
+  "id": "6965253",
+  "slug": "basic-easy-pancakes",
+  "title": "Basic Easy Pancakes",
+  "url": "https://www.mob.co.uk/recipes/basic-easy-pancakes",
+  "summary": "A foolproof recipe for classic pancakes. The only recipe you need for Pancake Day.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Basic-Pancakes.jpg",
+  "cook_time": 5,
+  "prep_time": 10,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 156,
+    "protein": 6,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 20,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 128
+  },
+  "ingredients": [
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Salt",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Lemon Juice",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "To Serve, Sugar",
+      "quantity": null,
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crack the eggs into a bowl. Add the milk, sugar and salt and whisk together until combined. Sift in the flour and whisk until a smooth batter forms. If it’s not smooth, pass it through a sieve."
+    },
+    {
+      "heading": null,
+      "description": "Heat a non-stick frying pan over a medium heat. Once hot, add a drizzle of olive oil and tilt the pan so the oil covers the pan. If there's any excess oil, use kitchen roll to wipe it out."
+    },
+    {
+      "heading": null,
+      "description": "Pour a ladle full (around 6 tbsp) of batter into the pan, making sure to swirl and tilt the pan so that the batter evenly coats the bottom (it should be slightly thicker than a crepe). Let the pancake cook until the batter has dried and the edges are starting to lift from the pan. Flip the pancake over and cook on the other side until starting to go golden. Transfer to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Repeat for all the pancakes. Serve with lemon juice and sugar, or your choice of toppings."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-10-01T12:16:00+01:00"
+}

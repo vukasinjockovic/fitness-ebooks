@@ -1,0 +1,182 @@
+{
+  "id": "4319706",
+  "slug": "broccoli-cheese-pie",
+  "title": "Broccoli Cheese Pie",
+  "url": "https://www.mob.co.uk/recipes/broccoli-cheese-pie",
+  "summary": "It's pie weather. This cheesy, veggie-friendly pie is loaded with broccoli and a mountain of cheddar. It's just the thing to get you through the evening.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Broccoli-Cheese-Pie.jpg",
+  "cook_time": 30,
+  "prep_time": 30,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 507,
+    "protein": 17,
+    "fat": 31,
+    "saturated_fat": 17,
+    "carbohydrates": 38,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 473
+  },
+  "ingredients": [
+    {
+      "label": "2 Heads of Broccoli",
+      "quantity": "2",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Leek",
+      "quantity": "1",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Pack Ready Roll Puff Pastry",
+      "quantity": "1",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Butter",
+      "quantity": "70",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Plain Flour",
+      "quantity": "70",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Milk",
+      "quantity": "700",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cheddar Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cheddar Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Wholegrain Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat an oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Start by making the cheese sauce. Add the butter to a saucepan, set over a medium heat and allow to melt before adding the flour. Cook the butter and flour together for a minute or so then start to slowly add in the milk bit by bit, whisking constantly."
+    },
+    {
+      "heading": null,
+      "description": "Once you have added all the milk, allow it to bubble away for a couple of minutes before adding the cheese and mustard and stirring through. Season with salt and pepper and allow to cool."
+    },
+    {
+      "heading": null,
+      "description": "Next prepare the vegetables, cut the leek lengthways and roughly chop, discarding the tough ends. Take the broccoli and cut into bite-sized florets."
+    },
+    {
+      "heading": null,
+      "description": "In a separate large saucepan add a small knob of butter with a splash of olive oil and set over a medium heat. Add the leek and cook for 5 mins before adding the broccoli and cooking for 10 mins. Stir the peas through and take off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Season with salt and pepper, pour over the cheese sauce and transfer to a pie dish to cool. Roll out the puff pastry so it will fit over the pie dish. Whisk the egg and brush it over the edge of a pie dish then place on the pastry lid."
+    },
+    {
+      "heading": null,
+      "description": "With a fork dusted with flour press down the edges on the pastry then cut off any excess. Decorate the pie with any extra pastry then brush all over with the egg wash and sprinkle with a little flaky salt. Place in a preheated oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and allow to cool slightly before digging in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-10T11:34:00+01:00"
+}

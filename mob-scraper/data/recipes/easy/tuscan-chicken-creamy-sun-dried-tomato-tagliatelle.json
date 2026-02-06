@@ -1,0 +1,254 @@
+{
+  "id": "7946723",
+  "slug": "tuscan-chicken-creamy-sun-dried-tomato-tagliatelle",
+  "title": "Tuscan Chicken & Creamy Sun-Dried Tomato Tagliatelle",
+  "url": "https://www.mob.co.uk/recipes/tuscan-chicken-creamy-sun-dried-tomato-tagliatelle",
+  "summary": "Golden chicken patties simmered in a creamy sundried tomato sauce, tossed wiht pasta and finished with parmesan. Even the pickiest ones will love this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Tuscan-chicken-patties-with-creamy-sun-dried-tomato-sauce.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 819,
+    "protein": 48,
+    "fat": 32,
+    "saturated_fat": 11,
+    "carbohydrates": 85,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Italian Herb Mix",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mixed Italian Herb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sundried Tomatoes, drained",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sundried Tomatoes, drained",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Chicken Stock",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Double Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Baby Spinach",
+      "quantity": "80",
+      "unit": null,
+      "name": "Baby Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Baby Spinach",
+      "quantity": "80",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pasta (e.g. fusilli or rigatoni)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tagliatelle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pasta (e.g. fusilli or rigatoni)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sunflower Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Basil (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Basil (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the chicken mince into a large mixing bowl. Add half of the Italian herb mix and season lightly with salt and pepper. Finely chop the drained sun-dried tomatoes and add half to the bowl. Mix everything together well, then form into small patties, roughly golf ball-sized, and flatten slightly."
+    },
+    {
+      "heading": null,
+      "description": "Heat half of the sunflower oil in a non-stick frying pan set over a medium heat. Fry the patties in batches for 3-4 mins on each side until golden and cooked through. Scoop out onto a plate and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get the pasta on to cook, following pack instructions. Once it's cooked, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely chop the onion and halve the cherry tomatoes. Heat the remaining oil in the same frying pan and add the onion, tomatoes and remaining herbs. Cook for 5-6 mins until soft and jammy. Pour in the chicken stock and double cream, then stir through the remaining sun-dried tomatoes. Bring to the boil, then simmer for 5 mins until thickened slightly."
+    },
+    {
+      "heading": null,
+      "description": "Add the patties back into the sauce and let them warm through for a minute."
+    },
+    {
+      "heading": null,
+      "description": "Serve up! Kids Plate: Serve the meatballs and pasta separately or tossed together and shower with parmesan.Parents Plate: Toss the pasta through the sauce with the spinach letting it wilt, grate over parmesan and give it a good mix. Dish up and add a scattering of basil leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Anna Helm Baxter",
+      "uri": "chefs/anna-baxter",
+      "summary": "Anna Helm Baxter is a cookbook author, food stylist, and food producer at Mob. Having spent most of her life in the US, she loves potlucks, tailgates, and a good Thanksgiving spread. As a working mum of three, she gets the dinner struggle, which is why she’s all about recipes that are joyful, healthy, and totally doable. And if all else fails she always has cookies stashed in the freezer."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-10-09T06:00:00+01:00"
+}

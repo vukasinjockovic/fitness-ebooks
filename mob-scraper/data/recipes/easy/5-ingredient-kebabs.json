@@ -1,0 +1,145 @@
+{
+  "id": "3283308",
+  "slug": "5-ingredient-kebabs",
+  "title": "5-Ingredient Kebabs",
+  "url": "https://www.mob.co.uk/recipes/5-ingredient-kebabs",
+  "summary": "Juicy and tender lamb kebabs that you can make in just a few minutes with only 5 ingredients and minimal effort.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A1339-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 31,
+    "fat": 23,
+    "saturated_fat": 9,
+    "carbohydrates": 56,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 486
+  },
+  "ingredients": [
+    {
+      "label": "A Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Harissa",
+      "quantity": "1",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Flatbreads",
+      "quantity": "320",
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop up the mint."
+    },
+    {
+      "heading": null,
+      "description": "Grate the onion into a bowl using a box grater and then add in the lamb mince, harissa and mint."
+    },
+    {
+      "heading": null,
+      "description": "Mix the lamb really well for 5 mins so it becomes very well mixed - this will help the fat emulsify."
+    },
+    {
+      "heading": null,
+      "description": "Roll the lamb into 10 evenly sized sausages and place onto an oven-proof rack."
+    },
+    {
+      "heading": null,
+      "description": "Pop the rack onto a tray and bake for 4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Take the tray out of the oven and turn the kebabs. Pop your flatbread onto the baking tray underneath the rack so they can soak up the lamb juices. Bake for another 4 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and enjoy the kebabs with the soft flatbread and your favourite toppings."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Turkish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-06T17:00:00+01:00"
+}

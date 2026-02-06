@@ -1,0 +1,178 @@
+{
+  "id": "6512007",
+  "slug": "blackberry-pear-pine-nut-crumble",
+  "title": "Blackberry, Pear & Pine Nut Crumble",
+  "url": "https://www.mob.co.uk/recipes/blackberry-pear-pine-nut-crumble",
+  "summary": "This might just be the perfect dessert for the colder months. Who doesn’t love a crumble?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A7570-1.jpg",
+  "cook_time": 35,
+  "prep_time": 15,
+  "total_time": 50,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 370,
+    "protein": 5,
+    "fat": 16,
+    "saturated_fat": 6,
+    "carbohydrates": 54,
+    "dietary_fibre": 4,
+    "sugars": 32,
+    "sodium": 97
+  },
+  "ingredients": [
+    {
+      "label": "8 English Pears",
+      "quantity": "8",
+      "unit": null,
+      "name": "Pear",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Light Brown Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275g Blackberries",
+      "quantity": "275",
+      "unit": null,
+      "name": "Blackberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Pine Nuts",
+      "quantity": "60",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Refrigerated Unsalted Butter",
+      "quantity": "110",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Oats",
+      "quantity": "110",
+      "unit": null,
+      "name": "Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Plain Flour",
+      "quantity": "110",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Dark Brown Sugar",
+      "quantity": "110",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Of Sea Salt",
+      "quantity": "Pinch",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Custard",
+      "quantity": null,
+      "unit": null,
+      "name": "Custard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vanilla Ice Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Vanilla Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vanilla Ice Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C fan and line a baking tray with baking paper.  Ensure your butter is very cold. Cut the cold butter into cubes."
+    },
+    {
+      "heading": null,
+      "description": "To make the oaty crumble topping, put all the ingredients and a pinch of sea salt into a bowl and rub together with your fingers to form breadcrumbs. Spread the mixture on the lined baking tray and put into the freezer for 10 mins (this will firm up the butter that you’ve softened with your hands). Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, core, peel and slice the pears lengthways into 1.5cm thick slices. Add the sliced pears and the sugar to a heavy-bottomed pan and cook gently over a medium heat until the fruit begins to soften and starts releasing its juice – approximately 7 mins, depending on the ripeness of your fruit. Add the blackberries and bring to the boil. Spoon into a 30 x 20cm pie dish."
+    },
+    {
+      "heading": null,
+      "description": "Allow the fruit to cool just slightly, then sprinkle the oaty crumble mix evenly over the top of the fruit (break up the crumble with your hands if necessary). \nThen scatter over the pine nuts."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 20-25 mins, or until the pine nuts are starting to turn a light golden brown. Serve hot with custard, ice cream, double cream or yoghurt."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-06T12:05:00+01:00"
+}

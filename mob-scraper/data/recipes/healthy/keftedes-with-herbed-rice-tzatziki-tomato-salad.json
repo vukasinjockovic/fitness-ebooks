@@ -1,0 +1,400 @@
+{
+  "id": "7199850",
+  "slug": "keftedes-with-herbed-rice-tzatziki-tomato-salad",
+  "title": "Keftedes with Herbed Rice, Tzatziki & Tomato Salad",
+  "url": "https://www.mob.co.uk/recipes/keftedes-with-herbed-rice-tzatziki-tomato-salad",
+  "summary": "In Partnership with GetYourGuide. #ad. \n\nCrispy Greek meatballs with zesty rice, creamy tzatziki and a bright tomato salad. Proper sunshine food.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Keftedes-with-Herbed-Rice-Tzatziki-Tomato-Salad.jpg",
+  "cook_time": 30,
+  "prep_time": 30,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 28,
+    "fat": 29,
+    "saturated_fat": 7,
+    "carbohydrates": 75,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices Stale Bread",
+      "quantity": "2",
+      "unit": null,
+      "name": "Stale Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Mint",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ground Cumin",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Wine Vinegar",
+      "quantity": "10",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Plain Flour, for coating",
+      "quantity": null,
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g short-grian rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Short Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g short-grian rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Mint",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Dill",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cucumber",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Mint",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 ripe tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g olives",
+      "quantity": "40",
+      "unit": null,
+      "name": "Kalamata Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dried Oregano",
+      "quantity": null,
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "SAlt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Rinse the rice under cold water until clear. Add to a pot with 450ml water and a pinch of salt. Bring to the boil, then reduce the heat to low, cover, and simmer for 15 mins. Turn off the heat and leave covered for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "While the rice cooks make your keftedes. Peel and finely grate the onion. Peel and mince the garlic clove. Tear the stale bread into a bowl, soak in water for a few mins, then squeeze out the excess moisture."
+    },
+    {
+      "heading": null,
+      "description": "In a large mixing bowl, combine the beef mince, grated onion, minced garlic, soaked bread, egg, finely chopped mint, dried oregano, salt, pepper and cumin. Add a splash of red wine or vinegar. Mix well with your hands until smooth. Chill in the fridge while you continue."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the spring onions, mint and dill. Zest and juice the lemon. Add everything to the cooked rice, season with salt and stir well. Set aside and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Make the Tzatziki. Grate the cucumber and squeeze out the excess liquid. Peel and mince the garlic. Finely chop the mint. In a bowl, combine the grated cucumber, yoghurt, garlic, mint, juice of the lemon and salt to taste. Stir and chill."
+    },
+    {
+      "heading": null,
+      "description": "Now for your tomato salad. Chop the tomatoes into wedges or chunks. Pit and roughly chop the olives if needed. In a bowl, combine the tomatoes, olives and capers. Drizzle with olive oil, sprinkle with dried oregano and season with salt. Toss and leave to sit."
+    },
+    {
+      "heading": null,
+      "description": "Take the meat mixture from the fridge and shape into small meatballs. Roll each one lightly in plain flour."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous drizzle of olive oil in a large frying pan over medium heat. Fry the keftedes in batches for 8-10 mins, turning until golden brown and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Serve up the herbed rice with the keftedes, a big spoonful of tzatziki, and the tomato salad on the side and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-07-16T07:00:00+01:00"
+}

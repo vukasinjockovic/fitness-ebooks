@@ -1,0 +1,270 @@
+{
+  "id": "1454001",
+  "slug": "roasted-squash-fennel-and-chickpea-salad",
+  "title": "Roasted Squash, Fennel and Chickpea Salad",
+  "url": "https://www.mob.co.uk/recipes/roasted-squash-fennel-and-chickpea-salad",
+  "summary": "A riff on a recipe by Diana Henry I'm very fond of. Warm spiced veg with a creamy tahini and date drizzle is out of this world. The perfect winter salad. Soph x",
+  "image": "https://files.mob-cdn.co.uk/recipes/9C425F54-129D-48AF-B38A-96EB2D522ACA.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 367,
+    "protein": 11,
+    "fat": 16,
+    "saturated_fat": 2,
+    "carbohydrates": 44,
+    "dietary_fibre": 9,
+    "sugars": 14,
+    "sodium": 111
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bulbs of Fennel",
+      "quantity": "468",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Aleppo Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aleppo Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml White White Vinegar",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Chickpeas",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tinned Chickpeas",
+      "quantity": "480",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Za’atar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Tahini",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Dairy-Free Yoghurt",
+      "quantity": "50",
+      "unit": null,
+      "name": "Dairy-Free Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Pine Nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Date Syrup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Date Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flatbreads, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 200°C/400°F."
+    },
+    {
+      "heading": null,
+      "description": "Chop your squash into crescent moons 1cm thick - no need to peel it. Cut your fennel and red onions into chunky slices, saving your fennel tops for later."
+    },
+    {
+      "heading": null,
+      "description": "Place them all on a large baking tray and add your cumin, 1 tsp of Aleppo chilli flakes, a good pinch of salt and a drizzle of olive oil. Toss to combine, then roast for 35 mins until tender and caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Slice your fennel tops into thin rounds and place in a small bowl. Add your white wine vinegar, sugar and 50ml of boiling water. Give it a good stir and set aside until later."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your parsley."
+    },
+    {
+      "heading": null,
+      "description": "Drain your chickpeas and pop them onto a baking tray with your remaining Aleppo chilli flakes, za’atar, a pinch of salt and a drizzle of olive oil. Toss to combine, and pop in the oven for the final 10 minutes of the other veg’s roasting time."
+    },
+    {
+      "heading": null,
+      "description": "Place your tahini and yoghurt in a medium sized bowl. Add the zest and juice from your lemon along with 70ml water and a pinch of salt. Whisk until you have a smooth, drizzle-able sauce, adding more water if needed."
+    },
+    {
+      "heading": null,
+      "description": "Tip your pine nuts into a dry frying pan set over a medium heat and fry for 5 minutes until golden and toasted. Tip out onto a plate to cool."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Pour your chickpeas onto a large platter and arrange your roasted veg on top. Drizzle with a generous amount of your tahini dressing and your date syrup. Drain your pickled fennel tops and scatter them on top, along with your chopped parsley and pine nuts. Serve whilst still warm with a pile of flatbreads."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-29T16:59:00+00:00"
+}

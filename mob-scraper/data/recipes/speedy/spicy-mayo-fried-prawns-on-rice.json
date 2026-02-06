@@ -1,0 +1,327 @@
+{
+  "id": "6337688",
+  "slug": "spicy-mayo-fried-prawns-on-rice",
+  "title": "Spicy Mayo Fried Prawns on Rice",
+  "url": "https://www.mob.co.uk/recipes/spicy-mayo-fried-prawns-on-rice",
+  "summary": "Easy, crispy shallow-fried prawns coated in an addictive tangy spicy mayo, sat on a bed of sushi rice and drenched in a sweet soy sauce. A quick, no-fuss weekday dinner, topped with a herb salad to cut through the richness, this Japanese fusion rice bowl will become a weekly staple before you know it!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/prawns.png",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1202,
+    "protein": 28,
+    "fat": 92,
+    "saturated_fat": 13,
+    "carbohydrates": 74,
+    "dietary_fibre": 4,
+    "sugars": 17,
+    "sodium": 3552
+  },
+  "ingredients": [
+    {
+      "label": "200g  Uncooked sushi rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g  Uncooked sushi rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240 ml cold water",
+      "quantity": "240",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Shelled Raw Prawns",
+      "quantity": "300",
+      "unit": null,
+      "name": "Shell-On Raw King Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Shelled Raw Prawns",
+      "quantity": "300",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Light Soy Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Cornstarch",
+      "quantity": "5",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160ml Vegetable Oil",
+      "quantity": "160",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Japanese Mayonnaise",
+      "quantity": "6",
+      "unit": null,
+      "name": "Kewpie Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sriracha",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Light Soy Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Light Soy Sauce",
+      "quantity": "6",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Mirin",
+      "quantity": "6",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Neutral Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Light Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put the rice into a small saucepan. Add cold water and wash the rice, then drain and repeat twice more, or until the water runs clear."
+    },
+    {
+      "heading": null,
+      "description": "Add the cold water to the drained rice and let it sit for 15 mins. Put the lid on, set the pan over a very high heat and bring to the boil. Once boiling, lower the heat to its lowest setting and cook for 11 mins. Turn off the heat and let sit for 10 mins with the lid on."
+    },
+    {
+      "heading": null,
+      "description": "For the spicy mayo, zest the lemon into a large mixing bowl, then add the mayonnaise, sriracha, 1 tbsp lemon juice, 1 tbsp lime juice (save the rest of the lime for the salad) and ½ tbsp light soy sauce. Stir well to combine, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Put 6 tbsp light soy sauce, the mirin and 1 tbsp brown sugar into a small saucepan. Heat on high and cook for around 2 mins until the sauce has reduced by one-third. Pour into a bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the salad, put 1 tbsp neutral oil, 1 tbsp soy sauce, 1 tsp brown sugar, the juice of half a lime and the sesame seeds into a bowl. Stir thoroughly to combine until the sugar has dissolved. Slice the coriander into 2cm pieces, slice the red onion as thin as possible and tear the basil leaves. Add to the salad dressing, but don’t mix. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Grab a bowl and add the prawns. Grate in the ginger, then add ½ tbsp light soy sauce, a pinch of salt and a few cracks of black pepper. Mix to combine. Add the cornstarch and toss to coat. The batter should be on the drier side. If it isn’t, add more cornstarch."
+    },
+    {
+      "heading": null,
+      "description": "Add the vegetable oil to a medium frying pan. It should be around 1-2cm deep – add more oil if not. Heat on high for 4 mins, or until the oil is shimmering (trick: grab a chopstick and put it into the oil – if bubbles come out of the tip, the oil is ready). Add the prawns, one by one, and cook for 1-2 mins each side, or until golden. Transfer the prawns straight into the spicy mayo mix, making sure to drain any excess oil first. Toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon the rice into a deep bowl and top with the mayo-coated prawns. Drizzle with the sweet soy sauce and finish with a generous handful of the dressed salad."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-30T10:50:00+01:00"
+}

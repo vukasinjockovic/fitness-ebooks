@@ -1,0 +1,101 @@
+{
+  "id": "3730717",
+  "slug": "tahini-salted-caramel",
+  "title": "Tahini Salted Caramel",
+  "url": "https://www.mob.co.uk/recipes/tahini-salted-caramel",
+  "summary": "Salty sweet > sweet sweet, all day, every day. Adding tahini to your caramel is a game changer. It makes the best ice cream topping.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/09/849A7382-4.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 16,
+  "nutrition": {
+    "calories": 97,
+    "protein": 1,
+    "fat": 7,
+    "saturated_fat": 4,
+    "carbohydrates": 9,
+    "dietary_fibre": 0,
+    "sugars": 9,
+    "sodium": 4920
+  },
+  "ingredients": [
+    {
+      "label": "250g Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Soft Brown Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Soft Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "85g Tahini",
+      "quantity": "85",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Vanilla Extract",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place all the ingredients in a small saucepan with 2 tsp Maldon salt and bring to a simmer over medium-low heat, stirring constantly until the sugar has dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 2 to 4 mins, or until golden and syrupy, then transfer to a heatproof bowl to cool. It will thicken as it sits."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-09-06T09:00:00+01:00"
+}

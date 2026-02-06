@@ -1,0 +1,123 @@
+{
+  "id": "7062879",
+  "slug": "lunch-base-tomato-bulgur",
+  "title": "Tomato Bulgur",
+  "url": "https://www.mob.co.uk/recipes/lunch-base-tomato-bulgur",
+  "summary": "A beautiful tomatoey bulgur vase packed with goodness. Top it with your favourite proteins and dressings.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Tomato-Bulgur.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 5,
+    "fat": 6,
+    "saturated_fat": 1,
+    "carbohydrates": 41,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 191
+  },
+  "ingredients": [
+    {
+      "label": "1 ½ Tbsp Tomato Purée",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450ml Water",
+      "quantity": "450",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Olive Oil",
+      "quantity": "40",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Pomegranate Molasses",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Bulgur Wheat",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bulgur Wheat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour the water and olive oil into a saucepan. Add the tomato purée and the pomegranate molasses, season with salt and bring the mixture to a boil."
+    },
+    {
+      "heading": null,
+      "description": "Once boiling, tip the bulgur wheat in, let it come back to the boil, then cover and turn the heat down to low. Cook for 10 mins until the bulgur has absorbed the water."
+    },
+    {
+      "heading": null,
+      "description": "Once absorbed, use a fork to fluff it up. Taste and season with the juice of a lemon and more salt, if needed."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-28T00:00:00+00:00"
+}

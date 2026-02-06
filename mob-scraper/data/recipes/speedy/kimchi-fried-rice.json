@@ -1,0 +1,156 @@
+{
+  "id": "4406980",
+  "slug": "kimchi-fried-rice",
+  "title": "Kimchi Fried Rice",
+  "url": "https://www.mob.co.uk/recipes/kimchi-fried-rice",
+  "summary": "Kimchi is king. If cooking veggie, check your kimchi to make sure it doesn’t contain shrimp. Go bold, the more potent the kimchi – the better the rice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Kimchi-Fried-Rice.jpg",
+  "cook_time": 7,
+  "prep_time": 4,
+  "total_time": 12,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 507,
+    "protein": 15,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 62,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "2 Pak Choi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil, For Frying",
+      "quantity": "25",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "215g Kimchi",
+      "quantity": "215",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250g Pouches of Pre-Cooked Rice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Microwave Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250g Pouches of Pre-Cooked Rice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mixed Black & White Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Black And White Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Fresh Coriander (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the pak choi, keeping the white stalks and leaves separate,\nand set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get a large frying pan or wok over a high heat. Drizzle in some\nsesame oil and use a fork to add the kimchi straight from the jar,\n(saving the juice for later) and the white pak choi stalks. Stir-fry for 1 minute, then tip in the pouches of rice. Use the back of your\nspoon to break up the rice grains and give everything a good stir.\nTurn down the heat to medium."
+    },
+    {
+      "heading": null,
+      "description": "Get a second large frying pan over a high heat and drizzle in\na good glug of sesame oil. Crack in the eggs. Once the whites\nbegin to set, sprinkle over the sesame seeds and chilli flakes, then\nuse a spoon to baste the egg whites with the sesame oil until\nthey begin to crisp. Turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Back to the rice. Turn the heat back up and then stir through a\nlarge splash of kimchi juice and the pak choi leaves. Tear in most\nof the coriander leaves. Cook for a further minute."
+    },
+    {
+      "heading": null,
+      "description": "Divide the kimchi fried rice between four bowls. Top each portion\nwith a sesame and chilli fried egg and tear over the remaining\ncoriander leaves to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-21T17:07:00+01:00"
+}

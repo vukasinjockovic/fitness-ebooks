@@ -1,0 +1,97 @@
+{
+  "id": "6855000",
+  "slug": "espresso-martini",
+  "title": "Espresso Martini",
+  "url": "https://www.mob.co.uk/recipes/espresso-martini",
+  "summary": "Who doesn’t love an espresso martini? Booze + coffee = perfection. Shaken, not stirred.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Espresso-Martini.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 98,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 7,
+    "dietary_fibre": null,
+    "sugars": 7,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "50ml Vodka",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Kahlua",
+      "quantity": "50",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Espresso",
+      "quantity": "25",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coffee Beans",
+      "quantity": null,
+      "unit": null,
+      "name": "Coffee Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour all of the ingredients into a cocktail shaker with a big handful of ice. Shake really well."
+    },
+    {
+      "heading": null,
+      "description": "Line two martini glasses up and pour the mixture through a small fine sieve into each of the glasses. Top with coffee beans to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-09-11T16:34:00+01:00"
+}

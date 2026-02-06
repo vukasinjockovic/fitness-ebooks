@@ -1,0 +1,91 @@
+{
+  "id": "4635846",
+  "slug": "black-velvet-cocktail",
+  "title": "Black Velvet Cocktail Recipe",
+  "url": "https://www.mob.co.uk/recipes/black-velvet-cocktail",
+  "summary": "If you've never heard of a Black Velvet, it's a classic cocktail made from the simple yet intriguing combination of sparkling wine and stout beer. Traditionally, these two ingredients create a rich, velvety drink that's both refreshing and darkly indulgent. This version takes things up a notch by adding Kahlúa, the iconic coffee liqueur, for an extra layer of depth and sweetness. The addition of Kahlúa brings subtle coffee and caramel notes that blend perfectly with the stout's roasted flavours and the crisp, bubbly finish of sparkling wine. Whether you're a fan of rich stouts, love the sophistication of sparkling wine, or crave a hint of coffee in your cocktails, this twist on the Black Velvet is sure to impress. Perfect for special occasions or a cozy night in, this cocktail offers a deliciously bold and balanced flavour profile that’s as indulgent as it is easy to make.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Black-Velvet-Cocktail.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 210,
+    "protein": 2,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 23,
+    "dietary_fibre": null,
+    "sugars": 15,
+    "sodium": 16
+  },
+  "ingredients": [
+    {
+      "label": "150ml Stout",
+      "quantity": "150",
+      "unit": null,
+      "name": "Stout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Kahlúa",
+      "quantity": "25",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Sparkling Wine",
+      "quantity": "75",
+      "unit": null,
+      "name": "Sparkling Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grab a tall, chilled glass and pour in your stout."
+    },
+    {
+      "heading": null,
+      "description": "Add the Kahlúa and top up with sparkling wine."
+    },
+    {
+      "heading": null,
+      "description": "If you like it a little sweeter, add a drop more Kahlúa."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-11-16T09:27:00+00:00"
+}

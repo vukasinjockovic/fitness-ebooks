@@ -1,0 +1,292 @@
+{
+  "id": "6362228",
+  "slug": "tagliatelle-bolognese-recipe",
+  "title": "Tagliatelle Bolognese",
+  "url": "https://www.mob.co.uk/recipes/tagliatelle-bolognese-recipe",
+  "summary": "Tagliatelle Bolognese is a classic Italian dish that embodies the rich flavours of Bologna's culinary traditions. Unlike the more common spaghetti Bolognese, this dish pairs hearty tagliatelle with a slow-simmered ragu alla Bolognese, creating a perfect harmony between the tender fresh pasta and the savoury meat sauce. The Bolognese sauce, enriched with red wine, minced garlic, and a blend of herbs like thyme and oregano, develops deep, complex flavours as it gently simmers in a saucepan. Finished with a generous sprinkle of parmesan, this authentic Italian pasta dish showcases the best of northern Italian cooking. Perfect for a comforting dinner, Tagliatelle Bolognese is a must-try for anyone who appreciates the art of Italian cuisine.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Tagliatelle-Bolognese-Recipe.jpg",
+  "cook_time": 145,
+  "prep_time": 8,
+  "total_time": 155,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 627,
+    "protein": 32,
+    "fat": 19,
+    "saturated_fat": 7,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 429
+  },
+  "ingredients": [
+    {
+      "label": "150g Diced Pancetta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Diced Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Medium Carrots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Celery Stalks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Red Wine",
+      "quantity": "250",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tomato Purée",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Passata",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Bay Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Whole Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tagliatelle",
+      "quantity": "800",
+      "unit": null,
+      "name": "Tagliatelle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Tagliatelle",
+      "quantity": "800",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Basil (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Basil (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the pancetta into your largest saucepan/casserole pot and set over a medium heat. Add 1 tbsp olive oil and cook for 8-10 mins, stirring occasionally, until the fat has rendered and the meat is crisp."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely dice the onion, carrot (peel if dirty) and celery into similar-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Add the vegetables to the pan with the pancetta and a splash of oil. Cook, stirring regularly, for 8-10 mins until the vegetables are soft. Crush and add the garlic and cook for another minute until fragrant. Tip in both the pork and beef mince, season with a good pinch of salt and pepper, then use the back of your spoon to break the mince into smaller pieces."
+    },
+    {
+      "heading": null,
+      "description": "Turn up the heat to medium-high and cook, stirring and breaking up the meat regularly, for 5-6 mins until the meat has browned."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the red wine. Bring to the boil and simmer for about 5 mins until the wine has evaporated, then stir in the tomato purée. Cook for 1 min, then pour in the passata and the bay leaves."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to medium and leave the bolognese to simmer away with the lid off, stirring occasionally, for 1 hr 15 mins. If it starts to catch, give it a good stir and put the lid on for the final 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the milk, stir, then leave the bolognese to simmer away for a further 30 mins until you are left with a rich, thickened ragù. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Once the bolognese is nearly ready, drop the tagliatelle into a large pan of salted water and cook for 1 min less than pack instructions. Drain, saving half a mug of pasta water, then tip the pasta back into the saucepan. Add the bolognese to the pasta, tossing with tongs, and adding any pasta water if it needs it."
+    },
+    {
+      "heading": null,
+      "description": "Serve the bolognese showered with a mountain of Parmesan and a few basil leaves, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-01T00:30:00+01:00"
+}

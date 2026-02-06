@@ -1,0 +1,175 @@
+{
+  "id": "6931342",
+  "slug": "leftover-chip-shop-potato-bread",
+  "title": "Leftover Chip Shop Potato Bread",
+  "url": "https://www.mob.co.uk/recipes/leftover-chip-shop-potato-bread",
+  "summary": "Stop throwing away chip shop chips and turn them into a beautiful loaf of potato bread. Served with a whipped salt and vinegar butter. An iconic makeover.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Chip-Shop-Potato-Bread.jpg",
+  "cook_time": 45,
+  "prep_time": 120,
+  "total_time": 180,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 322,
+    "protein": 6,
+    "fat": 15,
+    "saturated_fat": 10,
+    "carbohydrates": 39,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 323
+  },
+  "ingredients": [
+    {
+      "label": "425g Leftover Chip Shop Chips",
+      "quantity": "425",
+      "unit": null,
+      "name": "Leftover Chip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375ml Water",
+      "quantity": "375",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Unsalted Butter",
+      "quantity": "90",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Strong White Bread Flour",
+      "quantity": "500",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7g Dried Yeast",
+      "quantity": "7",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Fine Salt",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Malt Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Malt Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get your chips and water in a large saucepan. Set it over a medium heat and bring the water to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pan from the heat, add the butter and use a stick blender to blitz it into a smooth purée. Set aside to cool slightly until just warm."
+    },
+    {
+      "heading": null,
+      "description": "Mix together the flour and yeast in a large mixing bowl. Add the potato purée and use your hands to knead it until it comes together in a dough. Add the salt and continue to knead until smooth. Pop it back in the bowl, cover with a tea towel and leave it to prove until doubled in size (just under an hour)."
+    },
+    {
+      "heading": null,
+      "description": "While the dough proves, line a 2lb loaf tin with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Lightly sprinkle the dough with flour and transfer it to a lightly floured surface. Use a dough scraper to push it into roughly the same shape as your loaf tin, flouring it as much as necessary if it’s sticking."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the dough to the loaf tin, cover with a tea towel and leave it to prove again until almost doubled in size (just under an hour again)."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, heat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Get the bread in the oven to bake for 35 mins until lightly golden and cooked through (if you have a temperature probe, it should be about 90°C in the centre). Transfer to a wire rack to cool a little."
+    },
+    {
+      "heading": null,
+      "description": "While the bread cools, make the salt and vinegar butter. Put the room temperature butter in a mixing bowl and add the sea salt and malt vinegar. Use a whisk to whip the butter until soft and the salt and vinegar has been evenly incorporated."
+    },
+    {
+      "heading": null,
+      "description": "Serve the bread warm with good quality butter."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-14T15:30:00+00:00"
+}

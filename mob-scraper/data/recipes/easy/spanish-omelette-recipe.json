@@ -1,0 +1,155 @@
+{
+  "id": "5738093",
+  "slug": "spanish-omelette-recipe",
+  "title": "Spanish Omelette",
+  "url": "https://www.mob.co.uk/recipes/spanish-omelette-recipe",
+  "summary": "This Spanish omelette recipe has minimal ingredients, but it’s all about gentle, careful cooking to get a caramelised crust with an oozing centre. These flavours are perfect for breakfast (and lunch and dinner).",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Spanish-Omelette-Recipe.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 237,
+    "protein": 11,
+    "fat": 13,
+    "saturated_fat": 3,
+    "carbohydrates": 17,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 109
+  },
+  "ingredients": [
+    {
+      "label": "300g Waxy Potatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Waxy Potatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Medium Eggs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Green Salad",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Salad",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the potatoes, cut in half lengthways and cut into 2-3mm thick slices. Halve and thinly slice the onion."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of the oil in a small, deep, non-stick frying pan (roughly 22-25cm in diameter) over a medium heat. Add the onion to the pan with a pinch of salt and cook for 5 minutes, stirring regularly until beginning to soften and caramelise. Tip in the sliced potatoes, mix well and cook for 20 minutes, carefully flipping and stirring every few minutes. You want the potatoes to be cooked, starting to caramelise but not collapsing. Ensure your potatoes are evenly spread and touching the surface of the pan for an even cook."
+    },
+    {
+      "heading": null,
+      "description": "While your potatoes are cooking, crack the eggs into a large bowl and whisk them together with a fork. Season really well with salt and black pepper. Scrape in the onions, potatoes and oil from the pan into the bowl and fold together. Leave to sit for 15 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of oil in the frying pan, now over a medium-low heat – you want to cook the eggs gently. Pour the eggs, onions and potatoes into the pan, spreading everything so it’s even in the pan."
+    },
+    {
+      "heading": null,
+      "description": "Cook gently for 6-8 minutes, having a peek at the underside to check if it’s lightly golden. Use a spatula to gently press in the sides of the omelette as it cooks, to create an even, round side. When ready to flip, the underside will be golden and the top will still be soft and runny in the middle."
+    },
+    {
+      "heading": null,
+      "description": "Carefully slide the omelette out onto a large plate. Put the pan over the plate and omelette and, in one swift movement, flip the omelette back into the pan, so the lightly golden side is facing up."
+    },
+    {
+      "heading": null,
+      "description": "Put back over a medium heat and cook for 2-3 minutes, using the spatula to press the edges to make them neat and rounded. You want the underside to be lightly golden, but you’re looking to keep some of that wobble inside in the very centre."
+    },
+    {
+      "heading": null,
+      "description": "Slide out onto a plate, cut into wedges and serve with a green salad, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Spanish",
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-02T08:30:00+01:00"
+}

@@ -1,0 +1,190 @@
+{
+  "id": "2428",
+  "slug": "mobs-pulled-chicken-burger",
+  "title": "Mob's Pulled Chicken Burger",
+  "url": "https://www.mob.co.uk/recipes/mobs-pulled-chicken-burger",
+  "summary": "The time has come for the best pulled chicken burger around. The soft bun, zingy guac and a soft pulled chicken with a sticky BBQ sauce. It's a thing of beauty.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A5239.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 380,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 493,
+    "protein": 27,
+    "fat": 20,
+    "saturated_fat": 5,
+    "carbohydrates": 52,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 547
+  },
+  "ingredients": [
+    {
+      "label": "8 Boneless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Boneless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Passata",
+      "quantity": "125",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Barbecue Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Barbecue Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Gem Lettuce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baby Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Buns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Into the Crock-Pot Lift &amp; Serve slow cooker, place your chicken, chipotle paste, passata, 2 tbsp of barbecue sauce, chop up your onion and add this along with a sprinkling of salt and pepper. Mix together to make sure the chicken is coated completely, then leave this to cook on the ‘Low’ heat setting for 6 hours."
+    },
+    {
+      "heading": null,
+      "description": "Guac Time. Into a bowl, add your avocados and mix with a fork until it resembles a chunky guac. Next, chop up your coriander and add to the bowl, followed by the juice of your lime, a sprinkle of salt and pepper and mix together."
+    },
+    {
+      "heading": null,
+      "description": "Once your chicken is done, shred it all up within the Crock-Pot Lift &amp; Serve slow cooker. Lightly toast your buns and add a squeeze of barbecue sauce to the bottom bun, then add a spoonful of your chipotle chicken followed by a spoonful of guac. Add 2 leaves of lettuce and top it off with your bun. Repeat for the rest of your MOB and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-10-07T00:00:00+01:00"
+}

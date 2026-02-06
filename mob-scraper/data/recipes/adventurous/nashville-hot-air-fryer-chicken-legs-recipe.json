@@ -1,0 +1,291 @@
+{
+  "id": "6396653",
+  "slug": "nashville-hot-air-fryer-chicken-legs-recipe",
+  "title": "Nashville Hot Air Fryer Chicken Legs Recipe",
+  "url": "https://www.mob.co.uk/recipes/nashville-hot-air-fryer-chicken-legs-recipe",
+  "summary": "If you're craving crispy, spicy chicken with minimal effort, this Nashville Hot Air Fryer Chicken Legs recipe is perfect for you. These air fryer chicken legs deliver all the bold flavours of classic fried chicken, but with less oil and mess. Coated in a fiery mix of smoked paprika, cayenne pepper, and garlic powder, the chicken legs develop a crispy skin that rivals deep-fried alternatives. The airfryer method ensures even cooking, leaving the chicken tender and juicy inside while perfectly crispy outside. Whether you’re serving them with fries, a fresh salad, or dipping in honey mustard, this recipe for air fryer chicken legs makes for a quick and delicious dinner. Pair it with your favourite sides like coleslaw or roasted vegetables for a satisfying meal with a spicy kick.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Nashville-Hot-Air-Fryer-Chicken-Legs-Recipe.jpg",
+  "cook_time": 47,
+  "prep_time": 8,
+  "total_time": 55,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 729,
+    "protein": 36,
+    "fat": 48,
+    "saturated_fat": 22,
+    "carbohydrates": 36,
+    "dietary_fibre": 2,
+    "sugars": 10,
+    "sodium": 1817
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Buttermilk or Natural Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Buttermilk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Frank’s Hot Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Frank's Red Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Legs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Legs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Plain Flour",
+      "quantity": "6",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Baking Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cayenne Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Spray Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil Spray",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "75g Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Frank’s Hot Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Frank's Red Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soft Light Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soft Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cayenne Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pickle Slices",
+      "quantity": null,
+      "unit": null,
+      "name": "Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sliced White Bread",
+      "quantity": null,
+      "unit": null,
+      "name": "White Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Spoon the buttermilk into a bowl or container along with the hot sauce and plenty of salt and pepper. Add the chicken legs and toss really well to coat. You can leave this to marinate for up to 12 hrs, or you can use it straight away."
+    },
+    {
+      "heading": null,
+      "description": "Put the flour into a shallow bowl with the baking powder, garlic powder, paprika and cayenne pepper, plus plenty of salt and pepper. Mix until well combined."
+    },
+    {
+      "heading": null,
+      "description": "Take the chicken legs, one at a time, from the buttermilk mix and straight into the flour, really patting to coat. Repeat with the other chicken leg and put onto a plate while you prep the air fryer."
+    },
+    {
+      "heading": null,
+      "description": "Line the basket of the air fryer with foil, then lay in the chicken legs, skin-side up. Give the chicken legs a really good spray with oil, to evenly coat, then set the air fryer to 190°C and put the timer on for 45 mins."
+    },
+    {
+      "heading": null,
+      "description": "Check and shake the basket every 15 mins or so. Give the chicken legs another spray of oil if they need it."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, melt the butter in a small pan and add all the sauce ingredients. Whisk together until even – adjust the spice level and seasoning to your liking. Reheat the sauce just before the chicken is ready."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken is super crisp, pour over the sauce and serve with buttered bread and sliced pickles, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-09-01T12:06:00+01:00"
+}

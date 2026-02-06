@@ -1,0 +1,146 @@
+{
+  "id": "6954354",
+  "slug": "cacio-e-pepe",
+  "title": "Cacio e Pepe",
+  "url": "https://www.mob.co.uk/recipes/cacio-e-pepe",
+  "summary": "The simplest and oldest of all the Roman pastas. Some people add olive oil or butter. I do not.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Cacio-e-Pepe.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "fat": 16,
+    "saturated_fat": 10,
+    "carbohydrates": 59,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 690
+  },
+  "ingredients": [
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pecorino Romano",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pecorino Romano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pecorino Romano",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4L Water",
+      "quantity": "4",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Salt",
+      "quantity": "3",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the water and salt to a saucepan and bring to a boil over a medium-high heat. Add the pasta and cook following packet instructions until al dente."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, gently toast the peppercorns for a minute in a small dry frying pan set over a medium heat (skip this step if you prefer a milder pepper flavour)."
+    },
+    {
+      "heading": null,
+      "description": "Use a pepper mill (or spice grinder or pestle and mortar) to grind the pepper into a mixing bowl. Grate in the cheese."
+    },
+    {
+      "heading": null,
+      "description": "When the pasta has boiled for about 5 mins, take a tbsp of the boiling water, add to the cheese and mix vigorously into a paste (it will be thick and dry), then add another tbsp and keep mixing. Keep adding water and mixing until you have something nice and smooth, the texture of cream cheese."
+    },
+    {
+      "heading": null,
+      "description": "Warm your serving bowls by soaking them in a washing up bowl of very hot water, then dry with a tea towel just before serving."
+    },
+    {
+      "heading": null,
+      "description": "Drain the pasta, reserving a small bowl of the cooking water. Place the drained pasta back into the saucepan, then add the cheese paste and a splash of the cooking water and mix well, adding more cooking water a little at a time until you have a rich, smooth, creamy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Plate in the warm bowls (this is particularly important with cacio e pepe, otherwise the sauce will go cold and claggy very quickly). Finish with a little more pepper, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-03T15:36:00+01:00"
+}

@@ -1,0 +1,270 @@
+{
+  "id": "4401890",
+  "slug": "sticky-short-ribs",
+  "title": "Sticky Short Ribs With Lemon-y Grains & Salad",
+  "url": "https://www.mob.co.uk/recipes/sticky-short-ribs",
+  "summary": "There's only one thing we're teaming this meltingly tender piece of beef short rib up with, and that's a gorgeous side of lemon grains and herby salad. Oh yes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Sticky-Short-Ribs.jpg",
+  "cook_time": 285,
+  "prep_time": 30,
+  "total_time": 315,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 695,
+    "protein": 46,
+    "fat": 27,
+    "saturated_fat": 8,
+    "carbohydrates": 67,
+    "dietary_fibre": 9,
+    "sugars": 13,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "4 Short Ribs (1kg)",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Pomegranate Molasses",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pearl Barley or Freekeh",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pearl Barley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Preserved Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Preserved Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dijon Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pul Biber or Chilli Flakes, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Pul Biber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pomegranate Seeds, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Pomegranate Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Small Bunch of Dill (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Parsley (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Mint (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Pumpkin Seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 140ºC. Slice the onions into wedges (no need to peel) and cut the garlic bulb in half horizontally across the centre."
+    },
+    {
+      "heading": null,
+      "description": "Heat ½ tbsp of olive oil in a large non-stick frying pan over a high heat. Season the short ribs with salt and pepper and add to the pan, cook for 3-4 mins, until charred on one side, then turn the ribs until browned on each side. Use tongs to move into a large deep roasting tin."
+    },
+    {
+      "heading": null,
+      "description": "Add the onions to the pan along with a big pinch of salt and fry until softened, around 5 mins, then tip into the roasting tin with the short ribs. Snuggle in the garlic halves, then pour in the stock. Cover tightly with foil, then slide into the oven for 4 hours."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, rinse the grains until the water runs clear. Add a tbsp of olive oil to a large saucepan over a medium-high heat, then add the fennel seeds and toast for a min. Stir the barley in and toast for a min, then cover with water. Add a big pinch of salt and cook for 45 mins, or until soft with a slight bite."
+    },
+    {
+      "heading": null,
+      "description": "Drain well and tip into a large bowl. Add the zest and juice of 1 of the lemons. Finely chop the preserved lemon and stir through along with the mustard and 3–4 tbsp of olive oil. Season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "To make the salad, pick the herb leaves from the stems, rinse and drain on kitchen paper, then cover and set aside in the fridge until needed — this will keep them crisp. Toast the pumpkin seeds in a dry frying pan over a medium heat, until they pop and start to turn golden, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Remove the short ribs from the oven, they should be meltingly tender. Use tongs to move onto a plate and cover with foil. Tip the contents of the roasting tin through a sieve into a large saucepan or deep frying pan, discard the contents of the sieve. Add the pomegranate molasses to the saucepan and place over a high heat, cook for 20-25 mins, until thick and glossy."
+    },
+    {
+      "heading": null,
+      "description": "Toss the herb leaves with the sumac, pumpkin seeds and the juice of half of the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Spoon a little of the sauce over each of the short ribs. Spoon the pearl barley salad into bowls, top each with a short rib, adding a little extra sauce over the meat. Add a small handful of the herb salad to the side of the bowl. Finish with the pomegranate seeds and a pinch of the pul biber to serve. Serve with the remaining lemon half, sliced into wedges, on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-19T09:00:00+01:00"
+}

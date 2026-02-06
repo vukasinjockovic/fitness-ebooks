@@ -1,0 +1,270 @@
+{
+  "id": "4733196",
+  "slug": "beef-wellington",
+  "title": "Beef Wellington",
+  "url": "https://www.mob.co.uk/recipes/beef-wellington",
+  "summary": "This beef wellington recipe is the be all and end all of beef wellington recipe. Follow the steps here and you'll know how to make beef wellington the proper way. The only way.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Beef-Wellington.jpg",
+  "cook_time": 40,
+  "prep_time": 50,
+  "total_time": 240,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 561,
+    "protein": 34,
+    "fat": 33,
+    "saturated_fat": 12,
+    "carbohydrates": 29,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 654
+  },
+  "ingredients": [
+    {
+      "label": "1kg Beef Fillet",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp English Mustard",
+      "quantity": "3",
+      "unit": null,
+      "name": "English Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chard",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch of Thyme (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Mushrooms",
+      "quantity": "800",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Unsalted Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Cognac or Brandy",
+      "quantity": "50",
+      "unit": null,
+      "name": "Brandy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250g Sheets of All-Butter Puff Pastry",
+      "quantity": "500",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Parma Ham Slices",
+      "quantity": "160",
+      "unit": null,
+      "name": "Parma Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Parma Ham Slices",
+      "quantity": "160",
+      "unit": null,
+      "name": "Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Egg Yolks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaky Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by preparing the beef. Make sure the fillet is fridge-cold before seasoning generously with salt and pepper. Preheat a frying pan until it is screaming hot. Add a shot of oil and sear the beef on all sides. Pull out of the pan and brush with the English mustard. Pop back on a tray and into the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Remove the leaves from the stems of the chard and cook for 1 min in boiling salted water. Transfer to ice water to stop the cooking process – this will also make sure the leaves stay bright green. Remove the leaves from the ice bath and squeeze out the excess moisture. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "To make the duxelle, finely chop the shallots, grate the garlic and pick the leaves from the thyme stems. Tip the mushrooms into a food processor and blitz until finely chopped."
+    },
+    {
+      "heading": null,
+      "description": "Grab a large frying pan and add a splash of olive oil and the butter. Tip in the shallots and garlic and cook over a low heat until just translucent. Add the mushrooms and thyme and crank up the heat. Cook with a pinch of salt for 10-15 mins, stirring regularly, until the mixture is very dry. Now add the cognac and flambé. Cook until the cognac has evaporated, then tip into a bowl and set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Time to assemble. Lay out a sheet or two of cling film and spread the chard leaves out in an even layer. Add the beef fillet and wrap in the chard leaves, using the cling film to help you. Roll tightly and put in the fridge for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Now lay out some more cling film and cover it with the sliced parma ham. Add an even rectangle of duxelle (about 1cm thick). Unwrap your beef fillet and lay it on top of the duxelle. Wrap the duxelle and ham up and around the beef and wrap that with the cling film. Twist to tighten and pop back into the fridge for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Lay out the pastry sheets and pop the (unwrapped) beef on top. Egg-wash and wrap everything up, sealing the beef inside. Pop this back into the fridge for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Egg-wash the wellington and sprinkle with loads of flaky salt. Bake for 35-50 mins until a deep golden-brown and the beef has an internal temp of 40°C. Rest for 1 hr before slicing and serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-15T13:00:00+00:00"
+}

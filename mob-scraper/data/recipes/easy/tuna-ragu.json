@@ -1,0 +1,180 @@
+{
+  "id": "5507633",
+  "slug": "tuna-ragu",
+  "title": "Tuna Ragù",
+  "url": "https://www.mob.co.uk/recipes/tuna-ragu",
+  "summary": "This simple store-cupboard ragù is an excellent recipe to whip out when you're in a fix. It's packed with lean protein and perfect for meal prepping throughout the week.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Batch-Tuna-Ragu.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 153,
+    "protein": 17,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 10,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 180
+  },
+  "ingredients": [
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Cans Peeled Plum Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Cans Peeled Plum Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Canned Tuna",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Trim and finely dice the shallots, then thinly slice the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Place a saucepan over a medium-high heat with a drizzle of olive oil. Once hot, add the shallot and garlic and cook, stirring, for 3-4 mins until translucent and fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the lemon juice in and cook it out completely before tipping the canned tomatoes in. Using the back of a spoon or masher, crush the tomatoes. Bring the mixture to the boil, drop half the basil in (stalks and all), then turn the heat down to a gentle simmer. Cook, stirring occasionally, for 20-25 mins until thickened."
+    },
+    {
+      "heading": null,
+      "description": "Once thickened, drain the tuna and stir it through the sauce. Taste and season with salt and pepper. Discard the cooked basil and stir through the remaining basil leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-02T12:51:00+01:00"
+}

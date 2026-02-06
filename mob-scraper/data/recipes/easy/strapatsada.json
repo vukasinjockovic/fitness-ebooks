@@ -1,0 +1,209 @@
+{
+  "id": "5353539",
+  "slug": "strapatsada",
+  "title": "Strapatsada",
+  "url": "https://www.mob.co.uk/recipes/strapatsada",
+  "summary": "These are eggs like you've never seen them before. Easy to rustle up and equally as delicious, you're gonna be in for a treat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Strapatsada.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 495,
+    "protein": 23,
+    "fat": 32,
+    "saturated_fat": 13,
+    "carbohydrates": 32,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 661
+  },
+  "ingredients": [
+    {
+      "label": "6 Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices of Bread",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ pack Dill (10g)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Feta",
+      "quantity": "50",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Feta",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the grill to high. Halve your tomatoes and pop them on a tray, then drizzle with oil, a scattering of oregano, and season with salt and pepper. Grill the tomatoes for 10 mins until charred and juicy."
+    },
+    {
+      "heading": null,
+      "description": "Crack your eggs into a bowl and whisk well. Finely slice the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add the butter to a pan over a medium heat, once melted add in the garlic, cooking for a couple of minutes until fragrant. Add the tomato purée and cook for another minute, then reduce the heat to low. Pour in the egg and gently cook whilst stirring so you get soft curds and a dreamy texture. Take it off the heat and fold through the tomatoes before seasoning with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Toast your bread, top with your eggs, feta, dill, and another crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-06T06:00:00+01:00"
+}

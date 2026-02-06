@@ -1,0 +1,127 @@
+{
+  "id": "5030390",
+  "slug": "rich-bean-chilli-jalapeno-sauce",
+  "title": "Rich Bean Chilli with Spicy Jalapeño Sauce",
+  "url": "https://www.mob.co.uk/recipes/rich-bean-chilli-jalapeno-sauce",
+  "summary": "A lovely rich and warming chilli topped with a zingy green sauce. You can make this in a flash.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Rich-Bean-Chilli-with-Spicy-Jalapen%CC%83o-Sauce.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 143,
+    "protein": 6,
+    "fat": 3,
+    "saturated_fat": 1,
+    "carbohydrates": 22,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 478
+  },
+  "ingredients": [
+    {
+      "label": "Medium Bunch of Coriander (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pickled Jalapeños",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tortilla Chips, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Tortilla Chips",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Veggie Chilli Sin Carne."
+    },
+    {
+      "heading": null,
+      "description": "Put most of the coriander into a blender with the jalapeños, garlic, lime juice and a nice slosh of the jalapeño pickle juice. Season with salt and whizz until smooth – loosen with water if it’s a bit thick!"
+    },
+    {
+      "heading": null,
+      "description": "Heat the leftover Veggie Chilli Sin Carne through until piping hot and top with the spicy coriander sauce and the remaining coriander leaves. Eat as is, or scoop up with tortilla chips."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-09T07:00:00+00:00"
+}

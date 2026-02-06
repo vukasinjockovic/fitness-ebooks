@@ -1,0 +1,115 @@
+{
+  "id": "7187462",
+  "slug": "oozy-jammy-eggs",
+  "title": "Oozy Jammy Eggs",
+  "url": "https://www.mob.co.uk/recipes/oozy-jammy-eggs",
+  "summary": "While the humble egg seems simple to cook, getting the perfect jammy yolks and soft whites is an art. These eggs are made with meal-prep in mind, ready for you to chuck on toast, add to salads or eat straight from the fridge for a high-protein snack.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Oozy-Jammy-Eggs.jpg",
+  "cook_time": 6,
+  "prep_time": 5,
+  "total_time": 11,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 78,
+    "protein": 7,
+    "fat": 5,
+    "saturated_fat": 2,
+    "carbohydrates": 1,
+    "dietary_fibre": 0,
+    "sugars": 1,
+    "sodium": 62
+  },
+  "ingredients": [
+    {
+      "label": "6 eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "water",
+      "quantity": null,
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a medium saucepan with water to and bring to a rolling boil."
+    },
+    {
+      "heading": null,
+      "description": "Use a spoon to gently lower in the eggs into the boiling water. Don’t overcrowd the pan or lower the heat."
+    },
+    {
+      "heading": null,
+      "description": "Set a timer for 6 mins if the eggs are room temp, or 6 mins 30 secs if they’re cold."
+    },
+    {
+      "heading": null,
+      "description": "While they boil, fill a bowl with cold water and ice. Once the timer goes, transfer the eggs to the ice bath for 3 mins to stop them cooking further."
+    },
+    {
+      "heading": null,
+      "description": "Peel if you’re eating them now – run them under cold water as you go to make it easier. \nIf you’re storing them, keep unpeeled eggs in the shell for up to 7 days in the fridge. Peeled eggs should be stored submerged in cold water in a sealed container – they’ll stay fresh for up to 4 days."
+    },
+    {
+      "heading": null,
+      "description": "To reheat, pop a cold egg in a bowl of warm water for 5 mins. The yolk stays oozy and delicious."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Batch",
+    "Low Carb",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-12T08:00:00+01:00"
+}

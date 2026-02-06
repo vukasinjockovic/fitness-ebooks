@@ -1,0 +1,142 @@
+{
+  "id": "7063247",
+  "slug": "lunch-main-miso-salmon",
+  "title": "Miso Salmon",
+  "url": "https://www.mob.co.uk/recipes/lunch-main-miso-salmon",
+  "summary": "A fresh and flavour-packed flaky miso salmon. Pair it with whatever you like for a nutritious and delicious lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Miso-Salmon.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 338,
+    "protein": 27,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 16,
+    "dietary_fibre": 1,
+    "sugars": 8,
+    "sodium": 764
+  },
+  "ingredients": [
+    {
+      "label": "500g Salmon Fillet",
+      "quantity": "500",
+      "unit": null,
+      "name": "Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Salmon Fillet",
+      "quantity": "500",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g White Miso Paste",
+      "quantity": "90",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g White Miso Paste",
+      "quantity": "90",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Maple Syrup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Lemon Zest",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon Zest",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mince the ginger. Put all the marinade ingredients into a bowl and add the salmon fillets, tossing well to coat. Set aside in the fridge. You can marinate the salmon up to 24 hours in advance, or use it immediately."
+    },
+    {
+      "heading": null,
+      "description": "Put the marinated salmon fillets skin side down onto a baking tray lined with foil. Turn the grill to 200°C and, when hot, cook the salmon for just 7 mins. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Garnish your salmon with toasted sesame seeds and pair it with your favourite base."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-23T00:00:00+00:00"
+}

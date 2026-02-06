@@ -1,0 +1,339 @@
+{
+  "id": "4374972",
+  "slug": "hoisin-duck-sausage-rolls",
+  "title": "Hoisin Duck 'Sausage' Rolls",
+  "url": "https://www.mob.co.uk/recipes/hoisin-duck-sausage-rolls",
+  "summary": "This recipe from Crystelle Pereira takes all the best bits of duck pancakes and throws them into a sausage roll. Yum.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Hoisin-Duck-Sausage-Rolls.jpg",
+  "cook_time": 65,
+  "prep_time": 20,
+  "total_time": 85,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 322,
+    "protein": 10,
+    "fat": 21,
+    "saturated_fat": 7,
+    "carbohydrates": 20,
+    "dietary_fibre": 1,
+    "sugars": 3,
+    "sodium": 340
+  },
+  "ingredients": [
+    {
+      "label": "2 Duck Legs (440g)",
+      "quantity": "440",
+      "unit": null,
+      "name": "Duck Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Duck Legs (440g)",
+      "quantity": "440",
+      "unit": null,
+      "name": "Duck",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pancetta, Diced",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Ready-Rolled Puff Pastry",
+      "quantity": "375",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg, Beaten",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Sesame Seeds, To Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Garlic Cloves, Grated",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves, Grated",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2.5cm Piece of Fresh Ginger, Grated",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chinese Five-Spice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Rice Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Black Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Fine Sea Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Fine Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Plum Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plum Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Rice Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Smooth Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch of Ground Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 170°C, if not marinating. Otherwise preheat 10 mins before cooking."
+    },
+    {
+      "heading": null,
+      "description": "First make the marinade. Place all the ingredients in a bowl and mix well to combine."
+    },
+    {
+      "heading": null,
+      "description": "Using a sharp knife, carefully score the duck skin in diagonal lines, then rub the marinade all over the duck, making sure to rub it inside the scored lines. You can then either leave the duck to marinate for a few hours or place it on a roasting tray straight away and cook it for 45 mins."
+    },
+    {
+      "heading": null,
+      "description": "Once cooked, remove the duck from the oven and turn up the oven temperature to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Remove the duck from the bone, and use two forks to shred the duck meat, fat and skin into fine pieces. If the meat is still pink, don't worry as this will be going back in the oven. Once shredded, add the duck to a food processor along with the spring onions and pancetta and pulse until almost smooth, similar to the consistency of sausage meat."
+    },
+    {
+      "heading": null,
+      "description": "Next, make the hoisin sauce. Combine all the ingredients in a bowl and mix well. Spoon 4 tbsp of the sauce into the shredded duck mixture and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Next, assemble your rolls. Ensure the duck is cool to the touch before assembling the pastry (it should be by now). Cut your sheet of puff pastry into four long strips widthways (approximately 26cm x 9cm) and spread 1⁄2 tbsp of hoisin sauce over each piece. Divide the duck mixture into four and distribute it down the middle of each strip. Now fold over each pastry strip lengthways, to enclose the meat and, using a fork, press down to seal tightly and create a pattern down each side. Cut each log into 8 pieces, 4cm long."
+    },
+    {
+      "heading": null,
+      "description": "Brush beaten egg over each roll and sprinkle with a few sesame seeds. Arrange them on a lined baking tray and, if your kitchen is warm and your pastry is getting warm and soft, place it in the freezer for about 10 mins to firm up - this will help the pastry rise when you bake the rolls."
+    },
+    {
+      "heading": null,
+      "description": "Bake in the oven for 20-25 mins until the pastry has puffed up and is golden brown."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Crystelle Pereira",
+      "uri": "chefs/crystelle-pereira",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-08T12:01:00+01:00"
+}

@@ -1,0 +1,168 @@
+{
+  "id": "561504",
+  "slug": "charred-broccoli-and-spiced-labneh",
+  "title": "Charred Broccoli and Spiced Labneh",
+  "url": "https://www.mob.co.uk/recipes/charred-broccoli-and-spiced-labneh",
+  "summary": "Labneh is a middle-eastern style yoghurt cheese. It’s thick and creamy and is a great combo with the crunchy broccoli. So simple. The tastiest side dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A3369.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 1460,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 353,
+    "protein": 10,
+    "fat": 30,
+    "saturated_fat": 3,
+    "carbohydrates": 13,
+    "dietary_fibre": 6,
+    "sugars": 5,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Broccoli Florets",
+      "quantity": "400",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tbsp Cayenne Pepper",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Toasted Hazelnuts",
+      "quantity": "200",
+      "unit": null,
+      "name": "Toasted Hazelnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the Labneh. Line a measuring jug with a cheesecloth and spoon the greek yoghurt into the cloth. Pick up the edges of the cloth and tie at the top. Then leave the cloth in the measuring jug and place in the fridge for a day to allow the yoghurt to thicken. The Labneh can be left in the cheesecloth to drain for 24 to 48 hours. The longer the yoghurt is left the thicker the consistency."
+    },
+    {
+      "heading": null,
+      "description": "Once the Labneh is ready, it’s time to prepare the broccoli. Cut the broccoli into small, bite size florets."
+    },
+    {
+      "heading": null,
+      "description": "Get a non-stick frying pan with a tbsp of oil on a high heat and fry the broccoli until nicely charred."
+    },
+    {
+      "heading": null,
+      "description": "While the broccoli is cooking, untie the cheesecloth and spoon the Labneh into a bowl. Add a squeeze of lemon, a tbsp of cayenne pepper, salt and pepper. Mix together and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the toasted hazelnuts."
+    },
+    {
+      "heading": null,
+      "description": "Serve the charred broccoli on a large platter and dollop over the spiced Labneh. Chop your dill and finish off each dish with a scattering of the dill, 1/2 tbsp of cayenne pepper and the chopped hazelnuts. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-07-27T23:05:00+01:00"
+}

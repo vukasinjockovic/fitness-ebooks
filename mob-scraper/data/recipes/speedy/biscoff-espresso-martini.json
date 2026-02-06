@@ -1,0 +1,138 @@
+{
+  "id": "3647175",
+  "slug": "biscoff-espresso-martini",
+  "title": "Biscoff Espresso Martini",
+  "url": "https://www.mob.co.uk/recipes/biscoff-espresso-martini",
+  "summary": "An unholy marriage between the best spread and James Bond’s second-favourite cocktail is what creates this unhinged beverage: the Biscoff Espresso Martini.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A1666.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 466,
+    "protein": 4,
+    "fat": 16,
+    "saturated_fat": 7,
+    "carbohydrates": 54,
+    "dietary_fibre": 1,
+    "sugars": 29,
+    "sodium": 210
+  },
+  "ingredients": [
+    {
+      "label": "25ml Vodka",
+      "quantity": "25",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Frangelico",
+      "quantity": "25",
+      "unit": null,
+      "name": "Frangelico",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Kahlúa",
+      "quantity": "25",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shot of Espresso",
+      "quantity": "44",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Biscoff Spread",
+      "quantity": "1",
+      "unit": null,
+      "name": "Biscoff Spread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Biscoff Biscuits",
+      "quantity": "50",
+      "unit": null,
+      "name": "Biscoff Biscuit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crush up the Biscoff biscuits in a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Gently spread a small amount of the Biscoff spread around the rim of your glass and rub it in the biscuit crumbs."
+    },
+    {
+      "heading": null,
+      "description": "In a cocktail shaker, add the ice, vodka, Frangelico, Kahlúa, espresso, and the Biscoff spread."
+    },
+    {
+      "heading": null,
+      "description": "Shake for a minute and a half or until a frost forms on the shaker."
+    },
+    {
+      "heading": null,
+      "description": "Double-strain the mix into your Biscoff-rimmed glass."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-11T15:00:00+01:00"
+}

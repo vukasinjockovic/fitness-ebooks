@@ -1,0 +1,203 @@
+{
+  "id": "10102",
+  "slug": "halloumibake",
+  "title": "Halloumi Bake",
+  "url": "https://www.mob.co.uk/recipes/halloumibake",
+  "summary": "The quickest and tastiest dish about. You will love this one MOB.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A0357.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 468,
+    "protein": 23,
+    "fat": 31,
+    "saturated_fat": 15,
+    "carbohydrates": 25,
+    "dietary_fibre": 7,
+    "sugars": 17,
+    "sodium": 1708
+  },
+  "ingredients": [
+    {
+      "label": "500g Halloumi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Kalamata Olives",
+      "quantity": "100",
+      "unit": null,
+      "name": "Kalamata Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Brown Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fennel Bulbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Passata",
+      "quantity": "800",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Fennel Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Courgettes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop up your aubergines and add them into a non-stick frying pan. Cook until they brown, remove from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add your chopped onion along with most of the fennel seeds and chilli flakes, and a shot of oil. Give it a good stir. Chop up your fennel, peppers and courgettes. Add to the pan and stir everything together."
+    },
+    {
+      "heading": null,
+      "description": "Once the peppers and onions have cooked through, add the aubergine, olives and capers. Add the passata, chop up your basil and add this along with your vegetable stock, salt and pepper. Mix everything together and add 100ml of water and keep mixing. Cook for 12 minutes on a medium heat. Once the sauce is nice and thick, flatten it out with the top of a spoon."
+    },
+    {
+      "heading": null,
+      "description": "Chop up your Halloumi and place each slice on top of the thick mixture. Sprinkle the remaining fennel seeds and chilli flakes over the top. Finish with a drizzle of olive oil. Place under the grill for 12 minutes until golden and bubbling. Tuck into this dish and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-04-29T00:00:00+01:00"
+}

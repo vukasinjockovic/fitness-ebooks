@@ -1,0 +1,175 @@
+{
+  "id": "1807319",
+  "slug": "roasted-squash-and-wild-rice-bowl",
+  "title": "Roasted Squash, Halloumi & Wild Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/roasted-squash-and-wild-rice-bowl",
+  "summary": "Salty halloumi, sweet roasted squash served on top of wild rice and finished with a nutty tahini drizzle, it doesn't get any better.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Roasted-Squash-and-Wild-Rice-Bowl.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 13,
+    "fat": 20,
+    "saturated_fat": 7,
+    "carbohydrates": 36,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Thyme",
+      "quantity": "5",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "halloumi",
+      "quantity": "225",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "tahini",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Tilda Basmati And Wild Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Wild Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Tilda Basmati And Wild Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pomegranate Seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pomegranate Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Handful Of Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Peel and slice up the butternut into thin slices. Toss in a tbsp of olive oil, a pinch of salt and thyme leaves. Bake for 20-30 mins until tender, turning halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Split the halloumi down the crease and chop into 2cm chunks. When theres 10 mins left for the squash, add the halloumi to the tray, drizzle with some oil and cook for the remainder of the time, until golden."
+    },
+    {
+      "heading": null,
+      "description": "Zest the lemon and pour the tahini into a bowl. Add a squeeze of lemon juice and season with salt and a touch of honey or sugar. Stir together, adding 1 tbsp of cold water at a time, until you get a velvety, creamy consistency."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the rice and share between bowls. Top with the squash and halloumi, drizzle over the tahini and finish with a scattering of pomegranate seeds and dill."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-25T00:00:00+01:00"
+}

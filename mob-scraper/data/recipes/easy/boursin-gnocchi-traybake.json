@@ -1,0 +1,154 @@
+{
+  "id": "4669734",
+  "slug": "boursin-gnocchi-traybake",
+  "title": "Boursin & Gnocchi Traybake",
+  "url": "https://www.mob.co.uk/recipes/boursin-gnocchi-traybake",
+  "summary": "An easy gnocchi traybake that has a secret ingredient: Boursin cheese. It's garlicky goodness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Boursin-Gnocchi-Traybake.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 718,
+    "protein": 27,
+    "fat": 27,
+    "saturated_fat": 16,
+    "carbohydrates": 89,
+    "dietary_fibre": 8,
+    "sugars": 7,
+    "sodium": 1097
+  },
+  "ingredients": [
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Fresh Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Boursin Garlic & Fine Herbs Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Boursin Garlic & Fine Herbs Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Boursin Garlic & Fine Herbs Cheese",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Spinach",
+      "quantity": "60",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan Cheese",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 200°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Tip the gnocchi into a large tray. Slice the broccoli into 3cm- 5cm lengths and add to the tray. Snuggle the Boursin in. Drizzle with olive oil and season well. Slide into the oven and bake for 15-20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and stir to combine. Add the spinach along with a big splash of boiling water. Keep string, adding enough boiling water to wilt the spinach. Add the juice of the lemon and then finely grate most of the Parmesan into the tray and stir to make a silky cheesy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Spoon into bowls, finely grate the remaining Parmesan over the top, then finish with a crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Family-Friendly",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-21T16:37:00+00:00"
+}

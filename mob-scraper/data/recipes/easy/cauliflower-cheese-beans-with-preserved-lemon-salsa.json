@@ -1,0 +1,261 @@
+{
+  "id": "7047760",
+  "slug": "cauliflower-cheese-beans-with-preserved-lemon-salsa",
+  "title": "Cauliflower Cheese Beans with Preserved Lemon Salsa",
+  "url": "https://www.mob.co.uk/recipes/cauliflower-cheese-beans-with-preserved-lemon-salsa",
+  "summary": "My slightly elevated, slightly healthier twist on a cauliflower cheese, with extra protein from the butter beans and a little bit of something special with the preserved lemon salsa. If you want unadulterated comfort, you can always skip the salsa.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Cauliflower-Cheese-Beans-2.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 449,
+    "protein": 20,
+    "fat": 22,
+    "saturated_fat": 9,
+    "carbohydrates": 39,
+    "dietary_fibre": 8,
+    "sugars": 7,
+    "sodium": 661
+  },
+  "ingredients": [
+    {
+      "label": "1 Cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 400g Cans Cooked Butter Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 400g Cans Cooked Butter Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Plain Flour",
+      "quantity": "50",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Semi-Skimmed Milk",
+      "quantity": "700",
+      "unit": null,
+      "name": "Semi-Skimmed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Semi-Skimmed Milk",
+      "quantity": "700",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Feta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Feta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mixed Salad Leaves",
+      "quantity": null,
+      "unit": null,
+      "name": "Mixed Salad Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Handful Fresh Parsley",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Preserved Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Preserved Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sherry Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Preserved Lemon Brine",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Preserved Lemon Brine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Cut the cauliflower into florets then transfer to a baking tray and toss with olive oil, salt and pepper. Slide into the oven and roast for 15 mins until charred, then remove and set aside. Drain and rinse the butter beans and reduce the oven temperature to 190°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, start making a béchamel sauce by melting the butter in a large saucepan set over a medium heat. Once the butter is foaming, add the flour and cook it out for 2 mins until it smells nutty. Gradually pour in the milk, whisking as you go, until fully incorporated. Bring the mixture to the boil then reduce to a simmer, add the bay leaf and mustard and let it bubble away for a couple of minutes. Remove the pan from the heat, season the mixture with salt and pepper and remove the bay leaf."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the cauliflower and beans to an ovenproof dish and pour over the béchamel sauce. Scatter with crumbled feta then slide into the oven to bake for 25 mins until bubbling, then remove and let stand for 5-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, for the salsa, finely chop the parsley and deseed and finely chop the red chilli. Halve the preserved lemons and scoop out and discard the middles, then finely dice the skin. Grate the garlic. Add the parsley, chilli, preserved lemon and garlic to a bowl along with the olive oil, sherry vinegar and preserved lemon brine. Whisk well to emulsify then taste and adjust seasoning with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon the cauliflower beans onto plates and drizzle over the salsa. Serve with some salad leaves, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-03T15:27:00+00:00"
+}

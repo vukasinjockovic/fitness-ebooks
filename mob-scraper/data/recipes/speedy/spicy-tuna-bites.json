@@ -1,0 +1,204 @@
+{
+  "id": "4296519",
+  "slug": "spicy-tuna-bites",
+  "title": "Spicy Tuna Bites",
+  "url": "https://www.mob.co.uk/recipes/spicy-tuna-bites",
+  "summary": "A quick and easy snack that will fill you right up. These protein-packed bad boys are a gym bro's dream come true.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Spicy-Tuna-Bites.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 323,
+    "protein": 20,
+    "fat": 12,
+    "saturated_fat": 2,
+    "carbohydrates": 33,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "150g Jarred Tuna",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Tbsp Sriracha",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Mayonnaise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp 0% Fat Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp 0% Fat Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Bunch of Chives",
+      "quantity": "25",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Chickpeas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Chickpeas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices of Thin Rye Bread",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rye Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Black Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the drained tuna into a bowl and add the sriracha, mayo and yoghurt with the zest of the lemon and half its juice. Finely chop the chives and red onion and add to the bowl along with the chickpeas."
+    },
+    {
+      "heading": null,
+      "description": "Mix everything together and season with salt. Add more hot sauce if you like it spicy."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the cucumber and lay over the rye bread. Top with a scoop of your tuna mixture and sprinkle with black sesame. Cut the lemon into wedges and serve alongside."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks",
+    "Sides"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-05T09:24:00+01:00"
+}

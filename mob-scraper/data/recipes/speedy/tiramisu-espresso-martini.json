@@ -1,0 +1,184 @@
+{
+  "id": "4542238",
+  "slug": "tiramisu-espresso-martini",
+  "title": "Tiramisu Espresso Martini",
+  "url": "https://www.mob.co.uk/recipes/tiramisu-espresso-martini",
+  "summary": "It’s sweet, it’s punchy, and it’ll wake you the hell up. This tiramisu espresso martini is all you’ve ever wanted.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Tiramisu-Espresso-Martini.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 393,
+    "protein": 5,
+    "fat": 15,
+    "saturated_fat": 9,
+    "carbohydrates": 37,
+    "dietary_fibre": 0,
+    "sugars": 28,
+    "sodium": 54
+  },
+  "ingredients": [
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Sugar",
+      "quantity": "25",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Mascarpone",
+      "quantity": "80",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Condensed Milk",
+      "quantity": "25",
+      "unit": null,
+      "name": "Condensed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Frangelico",
+      "quantity": "25",
+      "unit": null,
+      "name": "Frangelico",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Black Coffee",
+      "quantity": "100",
+      "unit": null,
+      "name": "Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Vodka",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Baileys",
+      "quantity": "50",
+      "unit": null,
+      "name": "Baileys",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Kahlúa",
+      "quantity": "50",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cocoa Powder",
+      "quantity": null,
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sponge Fingers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sponge Fingers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Separate your egg whites and yolk, then mix the yolk in a bowl with the sugar until the colour of the yolk turns pale and fluffy."
+    },
+    {
+      "heading": null,
+      "description": "Add the mascarpone to the bowl and whisk to combine."
+    },
+    {
+      "heading": null,
+      "description": "Add in the condensed milk and Frangelico then mix until the consistency is thick, but still loose enough to drizzle. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chill a large martini coupe glass with ice and water."
+    },
+    {
+      "heading": null,
+      "description": "Add all your wet espresso martini elements to a cocktail shaker and shake until a frost forms on the outside of the shaker."
+    },
+    {
+      "heading": null,
+      "description": "Remove all the ice and water from the coupe and double strain in your martini mix."
+    },
+    {
+      "heading": null,
+      "description": "Pour over half of your tiramisu mix in circles over the martini. Dust thickly with the cocoa powder and dig in with a sponge finger."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-31T09:00:00+00:00"
+}

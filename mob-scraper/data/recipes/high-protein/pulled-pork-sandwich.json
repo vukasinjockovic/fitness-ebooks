@@ -1,0 +1,281 @@
+{
+  "id": "4294248",
+  "slug": "pulled-pork-sandwich",
+  "title": "Easy Pulled Pork Sandwich",
+  "url": "https://www.mob.co.uk/recipes/pulled-pork-sandwich",
+  "summary": "This pulled pork sandwich recipe from Ruben Dawnay (of Ruben's Reubens) is big, beautiful, and perfect for an alfresco dinner party.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Easy-Pulled-Pork-Sandwich-%E2%80%93-Ruben.jpg",
+  "cook_time": 200,
+  "prep_time": 15,
+  "total_time": 255,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 1202,
+    "protein": 70,
+    "fat": 62,
+    "saturated_fat": 15,
+    "carbohydrates": 91,
+    "dietary_fibre": 7,
+    "sugars": 17,
+    "sodium": 3552
+  },
+  "ingredients": [
+    {
+      "label": "50g Fine Ground Coffee",
+      "quantity": "50",
+      "unit": null,
+      "name": "Freshly Ground Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Salt",
+      "quantity": "50",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Garlic Granules/Powder",
+      "quantity": "25",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Garlic Granules/Powder",
+      "quantity": "25",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Black Pepper",
+      "quantity": "25",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12g Cinnamon",
+      "quantity": "12",
+      "unit": null,
+      "name": "Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12g Ground Cumin",
+      "quantity": "12",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12g Chilli Powder",
+      "quantity": "12",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3kg Boneless Skinless Pork Shoulder",
+      "quantity": "3000",
+      "unit": null,
+      "name": "Pork Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3kg Boneless Skinless Pork Shoulder",
+      "quantity": "3000",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Can of Beer/Cider",
+      "quantity": "355",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small White Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small White Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch of Spring Onions",
+      "quantity": "25",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Carrots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml White Wine Vinegar",
+      "quantity": "15",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mayonnaise",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Ciabatta Rolls",
+      "quantity": "540",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine all of your dry rub ingredients and mix well. This will make more than you need, store the excess in an airtight container in your spice cupboard!"
+    },
+    {
+      "heading": null,
+      "description": "Place your pork onto a baking tray and sprinkle generously with 5-6 tbsp of the rub until covered on all sides. Leave to sit for an hour or so to allow the rub to adhere."
+    },
+    {
+      "heading": null,
+      "description": "Place a large, deep pot (ideally cast iron) with a lid into the oven. Whack your oven on full blast (250°C)."
+    },
+    {
+      "heading": null,
+      "description": "Once heated, remove the pot, pour in a splash of oil and add the pork shoulder. Return to the oven for 10 mins to form a bark"
+    },
+    {
+      "heading": null,
+      "description": "Take the pork out of the oven again, pour the beer around it, cover with a lid and return to the oven. Turn down to 150°C and leave for 4 hours."
+    },
+    {
+      "heading": null,
+      "description": "While your pork is cooking you can knock up a quick slaw. Use a peeler to get long ribbons of carrot. Thinly slice your cabbage and onion. Combine in a colander and add sugar, salt and vinegar. Leave over a bowl to drain."
+    },
+    {
+      "heading": null,
+      "description": "After an hour, transfer the veg to a large bowl and add the mayonnaise."
+    },
+    {
+      "heading": null,
+      "description": "When the pork has had four hours, remove it from the oven. Using two forks, pull the pork and give it a mix. Taste and season with more rub if necessary!"
+    },
+    {
+      "heading": null,
+      "description": "Toast your ciabatta, slice in half, pile in your pulled pork, top with some slaw and, if you like, your favourite condiment."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "American",
+    "Southern-American"
+  ],
+  "chefs": [
+    {
+      "name": "Ruben Dawnay",
+      "uri": "chefs/ruben-dawnay",
+      "summary": "Ruben is an exciting talent and a man who knows his way around a smoker."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-27T12:51:00+01:00"
+}

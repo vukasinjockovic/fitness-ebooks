@@ -1,0 +1,177 @@
+{
+  "id": "7221174",
+  "slug": "chipotle-chicken-burrito-bow",
+  "title": "Chipotle Chicken Burrito Bowl",
+  "url": "https://www.mob.co.uk/recipes/chipotle-chicken-burrito-bow",
+  "summary": "Elevating leftovers from your Juicy Pulled Chipotle Chicken batch with all the best bits of a burrito. The definition of a speedy midweek dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Chipotle-Chicken-Burrito-Bowl.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 695,
+    "protein": 26,
+    "fat": 32,
+    "saturated_fat": 10,
+    "carbohydrates": 74,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": ".5 red onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 red onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15 coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Feta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Feta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Guac",
+      "quantity": "100",
+      "unit": null,
+      "name": "Guacamole",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Crispy Corn Snacks",
+      "quantity": "75",
+      "unit": null,
+      "name": "Crispy Corn Snacks",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Juicy Pulled Chipotle Chicken."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the red onion and add to a bowl. Squeeze over the juice of half the lime, season with salt and set aside to pickle."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the coriander, saving a few whole leaves for garnish. Crumble the feta and have your guac and crispy corn ready."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the rice and chipotle chicken in separate saucepans until piping hot. Stir the chopped coriander through the hot rice and squeeze over the juice of the remaining lime."
+    },
+    {
+      "heading": null,
+      "description": "Build your bowls: start with a layer of coriander rice, then add pulled chipotle chicken, crumbled feta, spoonfuls of guac, pickled onions and a good handful of crunchy corn. Garnish with coriander leaves and serve with a lime wedge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-25T14:07:00+01:00"
+}

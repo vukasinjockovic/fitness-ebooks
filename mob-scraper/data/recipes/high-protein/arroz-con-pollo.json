@@ -1,0 +1,397 @@
+{
+  "id": "4724749",
+  "slug": "arroz-con-pollo",
+  "title": "Arroz Con Pollo",
+  "url": "https://www.mob.co.uk/recipes/arroz-con-pollo",
+  "summary": "Arroz con pollo is a delicious Peruvian dish from Erik Ramirez, the chef and owner of Llama Inn.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Arroz-Con-Pollo.jpg",
+  "cook_time": 40,
+  "prep_time": 240,
+  "total_time": 280,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 38,
+    "fat": 23,
+    "saturated_fat": 5,
+    "carbohydrates": 67,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 154
+  },
+  "ingredients": [
+    {
+      "label": "400g Chicken Legs & Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Legs & Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Beer",
+      "quantity": "200",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Salt, Plus Extra",
+      "quantity": "10",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3g Black Pepper, Plus Extra",
+      "quantity": "3",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3g Ground Cumin, Plus Extra",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2g MSG",
+      "quantity": "2",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10ml White Wine Vinegar",
+      "quantity": "10",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spanish Onions",
+      "quantity": "100",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Garlic Cloves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Garlic Cloves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Aji Amarillo Purée",
+      "quantity": "30",
+      "unit": null,
+      "name": "Aji Amarillo Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Big Bunch of Coriander (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Long-Grain Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Long Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Long-Grain Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Choclo Peruvian Corn",
+      "quantity": "150",
+      "unit": null,
+      "name": "Corn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Jalapeños",
+      "quantity": "30",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Coriander (20g)",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml Vegetable Oil",
+      "quantity": "20",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml Water",
+      "quantity": "20",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4g Salt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1g MSG",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Red Onions",
+      "quantity": "100",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Red Onions",
+      "quantity": "100",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Habaneros",
+      "quantity": "10",
+      "unit": null,
+      "name": "Habanero Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml Lime Juice",
+      "quantity": "20",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5ml Olive Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the chicken, beer, salt, black pepper, cumin, MSG and white wine vinegar in a large bowl. Mix well to coat the chicken evenly. Cover and refrigerate overnight, or for at least 4 hrs."
+    },
+    {
+      "heading": null,
+      "description": "For the aji verde, first remove the seeds from the jalapeños then put them in a blender with the coriander, vegetable oil, water, garlic cloves, salt and MSG. Blitz until smooth and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the salsa criolla, first julienne the red onion, de-seed and julienne the habaneros as thinly as possible and chop the coriander. Tip it all into a bowl with the lime juice, olive oil, salt and pepper. Mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Remove the chicken from the marinade and pat dry with paper towels, making sure to reserve the marinade. Heat some oil in a large dutch oven (casserole dish) over a high heat. Sear the chicken pieces until browned on all sides. Remove the chicken from the pan and set aside. Don't wash your dish."
+    },
+    {
+      "heading": null,
+      "description": "Chop the Spanish onions and mince the garlic. Add the aji amarillo purée to the same casserole dish, alongside the chopped onions and minced garlic. Sauté until the onions are translucent and aromatic."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, blend the coriander and 200ml water together, then pour it all into the casserole dish once the onions are cooked. Add the reserved chicken marinade and bring the liquid to a simmer. Return the seared chicken pieces to the dish, cover and braise over a low heat for 30 mins until the chicken is cooked through and tender. Adjust the seasoning with salt, pepper and cumin as desired."
+    },
+    {
+      "heading": null,
+      "description": "Remove the cooked chicken and set aside. Add all the chicken fat and drippings to the pot, alongside the rice and choclo. Stir well to combine. Cover the pan and cook over a low heat for 15 mins until the rice is cooked and has absorbed the flavours of the liquid."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken back to the dish (don’t stir), cover and cook for another 10 mins over a low heat. Remove from the heat and let it rest. Serve each person rice, a piece of chicken, salsa criolla and a little of the aji verde. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Peruvian-Inspired",
+    "Peruvian"
+  ],
+  "chefs": [
+    {
+      "name": "Erik Ramirez",
+      "uri": "chefs/erik-ramirez",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-06T09:30:00+00:00"
+}

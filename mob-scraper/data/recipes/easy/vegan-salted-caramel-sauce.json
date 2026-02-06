@@ -1,0 +1,102 @@
+{
+  "id": "6797798",
+  "slug": "vegan-salted-caramel-sauce",
+  "title": "Vegan Salted Caramel Sauce",
+  "url": "https://www.mob.co.uk/recipes/vegan-salted-caramel-sauce",
+  "summary": "Indulgent plant-based salted caramel made with just three ingredients: coconut milk, sugar and salt. Drizzle it over cakes or brownies, spoon some over ice cream or pour it over warm banana bread.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Vegan-Salted-Caramel-Sauce.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "fat": 3,
+    "saturated_fat": 3,
+    "carbohydrates": 23,
+    "dietary_fibre": null,
+    "sugars": 23,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "150g Light Muscovado Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Light Muscovado Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Coconut Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Set a heavy-bottomed saucepan over a medium high heat. Add the sugar and stir it around the pan for about a minute to heat through. Add the coconut milk and stir to combine."
+    },
+    {
+      "heading": null,
+      "description": "Bring everything to a boil, then reduce it to a low-medium heat and let it simmer for about 15 mins, stirring occasionally, until the caramel has thickened and sticks to the back of the spatula."
+    },
+    {
+      "heading": null,
+      "description": "Stir in ¾ of your salt. Don’t try and taste the caramel while it's hot – wait until it's cool."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pan from the heat and leave the caramel to cool slightly for around 10 mins before tasting and adding more salt if needed. Transfer the caramel to a sealed container and pop it in the fridge for at least two hours to thicken up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T10:32:00+01:00"
+}

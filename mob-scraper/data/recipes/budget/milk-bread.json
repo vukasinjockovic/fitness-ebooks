@@ -1,0 +1,159 @@
+{
+  "id": "5206914",
+  "slug": "milk-bread",
+  "title": "Milk Bread",
+  "url": "https://www.mob.co.uk/recipes/milk-bread",
+  "summary": "This milk bread recipe doesn’t need any special equipment, but still creates the fluffiest, softest loaf ever. It’s wildly impressive and all of that is down to the yudane (Japanese flour paste) and the sweet, sweet kneading.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/849A7276-2.jpg",
+  "cook_time": 30,
+  "prep_time": 30,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 9,
+    "fat": 6,
+    "saturated_fat": 3,
+    "carbohydrates": 54,
+    "dietary_fibre": 2,
+    "sugars": 6,
+    "sodium": 687
+  },
+  "ingredients": [
+    {
+      "label": "60g Bread Flour",
+      "quantity": "60",
+      "unit": null,
+      "name": "Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "57g Boiling Water",
+      "quantity": "57",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "216g Whole Milk",
+      "quantity": "216",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "21g Caster Sugar",
+      "quantity": "21",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7g Instant Dry Yeast",
+      "quantity": "7",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "14g Unsalted Room-temp Butter, plus extra",
+      "quantity": "14",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Bread Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7g Sea Salt",
+      "quantity": "7",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the yudane, combine the flour and boiling water in a bowl and stir until completely mixed. Cover and chill in the fridge for a couple of hours, or up to overnight."
+    },
+    {
+      "heading": null,
+      "description": "Once the yudane is ready, heat the milk until lukewarm (around 35°C) and stir the sugar and yeast into it. Whisk together and let sit for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour the milk mixture into a large bowl, tear the yudane into it, then add the butter, flour and salt. Stir until a dough forms, then tip onto a clean surface. Knead the dough for 20-30 mins until smooth – the dough will be very tacky and sticky at first, but trust the process and it will transform itself. You know it’s ready when you can gently stretch the dough until it goes so thin you can see shadows through it. Form the dough into a ball and transfer to a greased bowl. Cover and prove for 1-1½ hrs until doubled in size."
+    },
+    {
+      "heading": null,
+      "description": "Tip the dough out and split it in half, then roll each half out into a long rectangle. Take a dough half and fold the long sides in so the seams meet in the middle, then starting from the short side furthest from you, tightly roll into a thick log. Repeat with the other half."
+    },
+    {
+      "heading": null,
+      "description": "Grease a 2LB (see notes) loaf tin and place both logs into it, seam-side down so they touch in the middle. Cover and prove for another 45 mins until puffy – test by gently poking it with a wet finger (if it slowly bounces back leaving an indentation, it’s ready). Halfway through proving, heat the oven to 185°C."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 25-30 mins until golden brown. Once baked, brush the top of the loaf with some melted butter, if you like. Allow the bread to cool for at least 30 mins before eating."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-14T11:18:00+00:00"
+}

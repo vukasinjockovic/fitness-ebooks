@@ -1,0 +1,171 @@
+{
+  "id": "4868485",
+  "slug": "spaghetti-with-spicy-tomato-and-pepper-sauce",
+  "title": "Spaghetti with Spicy Tomato & Pepper Sauce",
+  "url": "https://www.mob.co.uk/recipes/spaghetti-with-spicy-tomato-and-pepper-sauce",
+  "summary": "A taste of summer in the middle of winter, this super simple sauce uses jarred tomatoes and peppers to bring you sunny vibes all year round. Tangy tomatoes and sweet peppers with a good kick of chilli, tossed through spaghetti. It's exactly what you need for a quick, fresh midweek meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Spaghetti-with-Spicy-Tomato-and-Pepper-Sauce.jpg",
+  "cook_time": 10,
+  "prep_time": 20,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 22,
+    "fat": 20,
+    "saturated_fat": 6,
+    "carbohydrates": 75,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "350g Roasted Red Peppers",
+      "quantity": "350",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pinch of Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Pecorino Romano or Parmesan Cheese",
+      "quantity": "120",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grab a blender, drain the peppers and add them along with the tomatoes, then whizz until almost smooth."
+    },
+    {
+      "heading": null,
+      "description": "Place a big frying pan over a medium low heat, add the olive oil and then either very finely chop, crush or grate your garlic cloves and add them."
+    },
+    {
+      "heading": null,
+      "description": "Cook the garlic very gently in the oil until fragrant but not coloured (about 2 mins), add the chilli and cook for another 30 seconds, then pour in the pepper and tomato mix and add a big pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Bring the sauce to a simmer and cook for about 15 mins. While the sauce bubbles away gently, cook your spaghetti in a big pan of well salted water until al dente."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the pasta to the pan with the tomato and pepper sauce and mix it really well so that the spaghetti is well coated and glossy. Turn off the heat, add about 1/3rd of your grated cheese and mix gently until the cheese has melted into the sauce. You might need to loosen it up with a splash of pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Taste now and add salt if needed, then plate up into warm bowls and top with the remaining cheese and some black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-01-21T07:00:00+00:00"
+}

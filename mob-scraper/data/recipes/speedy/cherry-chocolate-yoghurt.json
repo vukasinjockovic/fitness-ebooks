@@ -1,0 +1,118 @@
+{
+  "id": "3700279",
+  "slug": "cherry-chocolate-yoghurt",
+  "title": "Cherry Chocolate Froyo",
+  "url": "https://www.mob.co.uk/recipes/cherry-chocolate-yoghurt",
+  "summary": "Who doesn't love a cherry chocolate combo? This froyo is perfect to share with friends on a summers day. Check out the other flavour combos on the website.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/Cherry-Chocolate-Froyo.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 48,
+    "protein": 1,
+    "fat": 2,
+    "saturated_fat": 1,
+    "carbohydrates": 7,
+    "dietary_fibre": 1,
+    "sugars": 6,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "150g Cherries",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cherry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Vegan Chocolate",
+      "quantity": "35",
+      "unit": null,
+      "name": "Vegan Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Vegan Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Vegan Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Squeeze Of Agave",
+      "quantity": null,
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Roughly Chopped Pistachios",
+      "quantity": null,
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Deseed and roughly chop the cherries."
+    },
+    {
+      "heading": null,
+      "description": "Blend the cherries and chocolate with the yogurt and a squeeze of agave if you like, until smooth."
+    },
+    {
+      "heading": null,
+      "description": "You can also keep some cherries and chocolate pieces to put directly into the molds for some extra texture. Pour into molds and freeze for 3-4 hours."
+    },
+    {
+      "heading": null,
+      "description": "Optional also to drizzle the finished ones with melted chocolate and chopped pistachios."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-26T16:34:00+01:00"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "7064788",
+  "slug": "lunch-dressing-tzatziki",
+  "title": "Tzatziki",
+  "url": "https://www.mob.co.uk/recipes/lunch-dressing-tzatziki",
+  "summary": "A simple classic tzatziki that goes with just about everything. It's perfect for meal prep; combine it with your choice of protein, carb and veg to create your perfect meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Tzatziki.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 36,
+    "protein": 3,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 4,
+    "dietary_fibre": 1,
+    "sugars": 4,
+    "sodium": 28
+  },
+  "ingredients": [
+    {
+      "label": "1/2 Cucumber",
+      "quantity": "0.50",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Natural Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Natural Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful of Fresh Mint, plus extra to serve (optional)",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Halve the cucumber lengthwise and scoop out the seeds. Cut into strips and finely dice before adding to a bowl with the yoghurt. Grate in the garlic, then finely chop the mint and add that in too. Zest and juice the lemon into the yoghurt, then season with salt and pepper before giving it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Serve with your choice of carb and protein (it's great with grilled meats, halloumi and rice dishes). If batch cooking for the week, transfer to a container and store in the fridge until ready to eat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-01T00:00:00+01:00"
+}

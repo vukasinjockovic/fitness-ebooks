@@ -1,0 +1,179 @@
+{
+  "id": "330784",
+  "slug": "orange-zaatar-lamb-chops",
+  "title": "Grilled Orange & Za'atar Lamb Chops",
+  "url": "https://www.mob.co.uk/recipes/orange-zaatar-lamb-chops",
+  "summary": "Charred chilli and za’atar chops with a zesty, minty yoghurt sauce. A flavour combo from heaven. The tastiest chop you’ll ever chomp on.",
+  "image": "https://files.mob-cdn.co.uk/recipes/chops-website.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 406,
+    "protein": 31,
+    "fat": 29,
+    "saturated_fat": 9,
+    "carbohydrates": 7,
+    "dietary_fibre": 1,
+    "sugars": 5,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "8 Lamb Chops",
+      "quantity": "8",
+      "unit": null,
+      "name": "Lamb Chop",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Lamb Chops",
+      "quantity": "8",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "9 Tbsp Plain Yoghurt",
+      "quantity": "9",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tbsp Za’atar",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tsp Chilli Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place your lamb chops, 4 tbsp yoghurt, za’atar, chilli powder, and the zest of half an orange into a bowl. Grate in your garlic, salt, pepper and add a drizzle of olive oil then mix together until evenly coated. Cover and leave to marinate for 30 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Time for the sauce. Chop your mint (saving some for garnish) and add into another bowl along with the rest of your yoghurt, the zest of half an orange and a squeeze of orange and lemon juice. Season with salt and pepper, and drizzle with olive oil. Stir together and leave in the fridge until ready to use."
+    },
+    {
+      "heading": null,
+      "description": "Once your chops are ready, get them on a high heat griddle pan and cook for about 5 minutes on each side until cooked through and nicely charred."
+    },
+    {
+      "heading": null,
+      "description": "Stack them on a plate, drizzle your zesty yoghurt over the top and scatter over the leftover mint, a grating of orange zest and a pinch of chilli powder. Tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-06-15T09:59:00+01:00"
+}

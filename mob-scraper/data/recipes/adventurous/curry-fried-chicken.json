@@ -1,0 +1,340 @@
+{
+  "id": "3932951",
+  "slug": "curry-fried-chicken",
+  "title": "Curry Fried Chicken",
+  "url": "https://www.mob.co.uk/recipes/curry-fried-chicken",
+  "summary": "We had Melissa Thompson make her Curry Fried Chicken from her new book Motherland and it was all the things we love. Big flavours. Incredible textures.",
+  "image": "https://files.mob-cdn.co.uk/recipes/220A2870.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 29,
+    "fat": 36,
+    "saturated_fat": 7,
+    "carbohydrates": 32,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 304
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tbsp Pimento Berries",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Pimento Berry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tbsp Fenugreek Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fenugreek Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cloves",
+      "quantity": "1",
+      "unit": null,
+      "name": "Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ground Turmeric",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Skinless Boneless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Skinless Boneless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Jamaican Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Jamaican Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb-Sized Piece Of Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Thyme Sprigs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ Tsp Salt",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Coconut Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Freshly Ground Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Potato Starch/Flour, Or Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Potato Starch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Fine Cornmeal",
+      "quantity": "100",
+      "unit": null,
+      "name": "Fine Cornmeal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Ground Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Shop-Bought Mayonnaise",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄4 Scotch Bonnet, Finely Chopped",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coco Bread",
+      "quantity": null,
+      "unit": null,
+      "name": "Coco Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": "For The Jamaican Curry Powder:",
+      "description": "Mix all the spices together and store in an airtight container for up to 3 months."
+    },
+    {
+      "heading": null,
+      "description": "Shake before use, remove as much as you need, then grind it to a powder. Keeping the spices whole will help it to remain fresh and aromatic."
+    },
+    {
+      "heading": null,
+      "description": "Cut each thigh into 2-3 pieces, each about 4cm big. Put the pieces in a bowl with the curry powder and mix well. Add the garlic, ginger, thyme, salt and a pinch of pepper and mix well, then add the coconut milk and mix to coat completely. Cover and marinate for at least 4 hours in the fridge, but ideally overnight."
+    },
+    {
+      "heading": null,
+      "description": "To make the coating, mix the flour, cornmeal, salt and spices in a bowl. remove the chicken from the marinade, scraping off any big bits but otherwise leaving everything where it is, and place in the flour mix."
+    },
+    {
+      "heading": null,
+      "description": "Turn the pieces over and press down, ensuring every nook and cranny is exposed to the flour. Remove and rest on a plate for at least 5 minutes, giving the starch enough time to adhere the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Mix together all the ingredients for the mayo in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Set up a wire rack over a tray lined with kitchen paper. Following all the usual precautions for deep-frying, pour enough oil into a saucepan to lie at least 10cm deep. Heat it to about 140°C. If you don't have a thermometer, a sprinkling of flour should sizzle gently a few seconds after being dropped into it."
+    },
+    {
+      "heading": null,
+      "description": "Place a few pieces of chicken into the oil, making sure you don't crowd them. Fry for 3-4 minutes, until they start to colour, then remove with a slotted spoon to the wire rack. Continue until every piece has had its first fry."
+    },
+    {
+      "heading": null,
+      "description": "Now increase the oil temperate to 180°C or until a pinch of flour sizzles almost immediately on contact with the oil."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken pieces, starting with those that went first into the oil before. Fry for a further 2 minutes or until they have turned a deeper golden brown and are crisp. Remove and drain on the rack, continuing until all pieces have been fried twice."
+    },
+    {
+      "heading": null,
+      "description": "Fry the scotch bonnet rings for a minute or so, then drain on the rack."
+    },
+    {
+      "heading": null,
+      "description": "Serve the chicken with a sprinkling of fried chilli on top and the chilli and lime mayo for dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Melissa Thompson",
+      "uri": "chefs/melissa-thompson",
+      "summary": "Melissa is a writer, broadcaster and author of Motherland: A Jamaican Cookbook. She cooks a lot over fire, and writes recipes for a host of publications."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-25T10:00:00+00:00"
+}

@@ -1,0 +1,173 @@
+{
+  "id": "3951098",
+  "slug": "butter-beer",
+  "title": "Butter Beer",
+  "url": "https://www.mob.co.uk/recipes/butter-beer",
+  "summary": "This is the ultimate winter warmer with a coffee kick and crushed gingerbread garnish. Creamy rich and spiced, you’ll have to treat yourself to one of these.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/220A3155.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 230,
+    "protein": 1,
+    "fat": 11,
+    "saturated_fat": 7,
+    "carbohydrates": 23,
+    "dietary_fibre": 0,
+    "sugars": 21,
+    "sodium": 44
+  },
+  "ingredients": [
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Icing Sugar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Kahlúa",
+      "quantity": "75",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Vanilla Ice Cream",
+      "quantity": "75",
+      "unit": null,
+      "name": "Vanilla Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Vanilla Ice Cream",
+      "quantity": "75",
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Nutmeg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Gingerbread (For Garnish)",
+      "quantity": null,
+      "unit": null,
+      "name": "Gingerbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Squirty Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Squirty Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Hot Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crush some gingerbread up in a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a saucepan, then add the brown sugar until it’s all dissolved followed by the icing sugar."
+    },
+    {
+      "heading": null,
+      "description": "Let this mixture cool a little, then add to a blender with the ice cream, cinnamon, and nutmeg."
+    },
+    {
+      "heading": null,
+      "description": "Blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Put two roughly tbsp of this mixture into each glass along with an even split of your Kahlúa, then top the lot off with hot water."
+    },
+    {
+      "heading": null,
+      "description": "Mix this up until the butter mixture has melted, then top with a head of squirty cream and your crushed gingerbread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-14T07:00:00+00:00"
+}

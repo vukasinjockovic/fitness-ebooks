@@ -1,0 +1,315 @@
+{
+  "id": "6945513",
+  "slug": "marry-me-gochujang-chicken-noodles",
+  "title": "\"Marry Me\" Gochujang Chicken Noodles",
+  "url": "https://www.mob.co.uk/recipes/marry-me-gochujang-chicken-noodles",
+  "summary": "A spicy take on the viral ‘marry me’ chicken using gochujang and sundried tomatoes to make a quick and indulgent dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Marry-Me-Gochujang-Chicken-Noodles.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 728,
+    "protein": 36,
+    "fat": 29,
+    "saturated_fat": 13,
+    "carbohydrates": 81,
+    "dietary_fibre": 5,
+    "sugars": 15,
+    "sodium": 463
+  },
+  "ingredients": [
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Chives",
+      "quantity": null,
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Baby Chestnut Mushrooms",
+      "quantity": "150",
+      "unit": null,
+      "name": "Baby Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Skinless Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Skinless Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Tagliatelle",
+      "quantity": "320",
+      "unit": null,
+      "name": "Tagliatelle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Tagliatelle",
+      "quantity": "320",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tomato Purée",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 ½ Tbsp Gochujang",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220ml Double Cream",
+      "quantity": "220",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Sundried Tomatoes",
+      "quantity": "140",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Sundried Tomatoes",
+      "quantity": "140",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tbsp Butter",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Panko Breadcrumbs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Chives",
+      "quantity": null,
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice your onion, mince your garlic, chop both your chives (for the noodles, and the panko topping) and thinly slice the mushrooms."
+    },
+    {
+      "heading": null,
+      "description": "Pound the chicken to an even thickness and season both sides with salt, pepper and garlic powder."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of vegetable oil in a large frying pan set over a medium heat. Add the chicken and pan fry it for 6-8 mins on each side, depending on thickness, until cooked through. Don't overcrowd the pan; do it in batches if necessary."
+    },
+    {
+      "heading": null,
+      "description": "While the chicken cooks, bring a large pot of salted water to the boil, add the tagliatelle and cook until al dente following packet instructions. Drain the tagliatelle, reserving a mug of the pasta cooking water, and rinse the tagliatelle in cold water."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add the butter, onion and garlic to another large pan set over a medium heat. Fry for a few minutes until softened then add the sliced mushrooms to the pan and cook until they release their moisture and become tender (this should take about 5 mins)."
+    },
+    {
+      "heading": null,
+      "description": "Add the chilli oil, gochujang, tomato purée to the pan and mix to combine. Stir through the double cream and sundried tomatoes. Add the honey and the juice of the lime. Bring the sauce to a simmer and let it gently bubble away while the pasta and chicken finish cooking."
+    },
+    {
+      "heading": null,
+      "description": "Add the cooked noodles and a ladle of the pasta water to the sauce. Season with salt and pepper and add the chives then mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "To make the chive panko, melt butter in a pan, then add the chopped chives and panko. Stir well to combine and cook until the panko is golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the tagliatelle between bowls then top with chicken, panko and some extra chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Most Cooked",
+    "Power Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-02T15:00:00+00:00"
+}

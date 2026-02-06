@@ -1,0 +1,189 @@
+{
+  "id": "3795396",
+  "slug": "blt-toastie",
+  "title": "BLT Toastie",
+  "url": "https://www.mob.co.uk/recipes/blt-toastie",
+  "summary": "A BLT is the GOAT sandwich. Add cheese? Sure. We've levelled up your grilled cheese with juicy tomatoes and crispy bacon. Lettuce on the side.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A6861-2.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 44,
+    "fat": 61,
+    "saturated_fat": 25,
+    "carbohydrates": 65,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 1811
+  },
+  "ingredients": [
+    {
+      "label": "12 Slices of Streaky Bacon",
+      "quantity": "12",
+      "unit": null,
+      "name": "Smoked Streaky Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Slices of Streaky Bacon",
+      "quantity": "12",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Ripe Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Baby Gem Lettuce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baby Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360g Pilgrims Choice Extra Mature Cheddar",
+      "quantity": "360",
+      "unit": null,
+      "name": "Extra Mature Cheddar ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360g Pilgrims Choice Extra Mature Cheddar",
+      "quantity": "360",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Thick Slices of Sourdough",
+      "quantity": "512",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Mayonnaise",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Lay the bacon in an even layer in a large, cold frying pan. Set the pan over a medium heat and allow the bacon fat to render and the rashers to crisp. This should take between 10-11 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the crispy bacon from the pan, leaving the residual fat, this is what we'll use to cook our toasties."
+    },
+    {
+      "heading": null,
+      "description": "Thickly slice the tomatoes and season generously with salt and black pepper. Separate the lettuce into leaves and coarsely grate the cheddar cheese."
+    },
+    {
+      "heading": null,
+      "description": "To build your sandwiches, start with a slice of sourdough, top with mayo, black pepper, cheese, bacon, a couple of thick slices of tomato, more cheese and crown with a mayo'd lid."
+    },
+    {
+      "heading": null,
+      "description": "Cook the sandwiches over a medium heat in the bacon fat, turning regularly, for 10-12 mins until fully melted and warm all the way through."
+    },
+    {
+      "heading": null,
+      "description": "Dress the lettuce with olive oil, salt and lemon and serve on the side of your warm, gooey BLT toasties for a hit of fresh crunch."
+    },
+    {
+      "heading": null,
+      "description": "Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-09-30T12:00:00+01:00"
+}

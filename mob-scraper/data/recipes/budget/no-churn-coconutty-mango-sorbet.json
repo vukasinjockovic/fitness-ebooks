@@ -1,0 +1,111 @@
+{
+  "id": "3576373",
+  "slug": "no-churn-coconutty-mango-sorbet",
+  "title": "No-Churn Coconutty Mango Sorbet",
+  "url": "https://www.mob.co.uk/recipes/no-churn-coconutty-mango-sorbet",
+  "summary": "It is ridiculously hot. Cool yourself down with this easy 4-ingredient sorbet that takes minutes to make. If tropical vibes are your thing, you’ll love this!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A5033.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 180,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 181,
+    "protein": 2,
+    "fat": 3,
+    "saturated_fat": 3,
+    "carbohydrates": 39,
+    "dietary_fibre": 3,
+    "sugars": 35,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "500g Frozen Mango Chunks",
+      "quantity": "500",
+      "unit": null,
+      "name": "Frozen Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Frozen Mango Chunks",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Coconut Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Agave Nectar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place the frozen mango chunks in a high-powered blender or food processor."
+    },
+    {
+      "heading": null,
+      "description": "Add the coconut milk, agave nectar and zest and juice of the limes."
+    },
+    {
+      "heading": null,
+      "description": "Blitz until smooth, scraping down the sides and blending as necessary."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy immediately, or freeze for 1 hour for a firmer texture."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-16T09:30:00+01:00"
+}

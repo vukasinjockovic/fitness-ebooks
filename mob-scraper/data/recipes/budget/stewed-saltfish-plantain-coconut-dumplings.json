@@ -1,0 +1,310 @@
+{
+  "id": "4294940",
+  "slug": "stewed-saltfish-plantain-coconut-dumplings",
+  "title": "Stewed Saltfish, Plantain & Coconut Dumplings",
+  "url": "https://www.mob.co.uk/recipes/stewed-saltfish-plantain-coconut-dumplings",
+  "summary": "Savoury and sweet. Here’s a stewed saltfish, dumplings and plantain recipe from Chef Kevin Jones inspired by the beautiful islands of St. Kitts and Nevis.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Stewed-Saltfish-Plantain-Coconut-Dumplings.jpg",
+  "cook_time": 65,
+  "prep_time": 40,
+  "total_time": 105,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 573,
+    "protein": 18,
+    "fat": 21,
+    "saturated_fat": 3,
+    "carbohydrates": 75,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 1162
+  },
+  "ingredients": [
+    {
+      "label": "500g Salted Cod",
+      "quantity": "500",
+      "unit": null,
+      "name": "Salted Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Salted Cod",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Scotch Bonnet",
+      "quantity": "1",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sprig of Thyme, Leaves Picked",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Black Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Garlic Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Garlic Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sprig of Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270g Fine Cornmeal",
+      "quantity": "270",
+      "unit": null,
+      "name": "Fine Cornmeal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180ml Water",
+      "quantity": "180",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Desiccated Coconut",
+      "quantity": "50",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Ripe Plantains",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plantain",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Vegetable Oil",
+      "quantity": "120",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place the salt fish in a medium size pot, with enough water just to cover it. Then bring to a boil for 10 mins. Drain and repeat. Allow the saltfish to cool enough to handle, then flake with a fork removing any bones. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Dice the onion, green pepper and red pepper. Finely chop the garlic and stab a hole in the scotch bonnet, but leave it whole. Pick the thyme leaves from the stems."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large saucepan with oil over medium heat. Add onion, thyme, garlic, scotch bonnet and peppers with a pinch of salt. Cook for 7-8 mins or until the onions are translucent."
+    },
+    {
+      "heading": null,
+      "description": "Add the flaked saltfish, diced tomatoes, tomato purée and seasonings. Cook for 25 mins on low heat with a lid until tomatoes are super soft. Season to taste with salt and pepper. Finely slice the spring onions and sprinkle over top. Set aside and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "To make the dumplings, tip the flour, coconut, cornmeal, and salt into a bowl and mix thoroughly. Add in 180ml of water while gradually mixing, to form a shaggy dough. Tip onto a clean surface and knead the dough for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Cover the bowl with a cloth and Allow dough to rest for 10 mins. Pull the dough apart forming a golf ball size shape. Roll each piece into a ball, and flatten the middle with your thumb. You want these around 4-5cm thick."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pan of water to a boil. Place the dumplings into the boiling water and boil for 20 mins and cook until they start to float."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Batch",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-07T10:20:00+01:00"
+}

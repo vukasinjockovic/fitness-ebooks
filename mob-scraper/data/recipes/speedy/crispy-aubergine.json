@@ -1,0 +1,161 @@
+{
+  "id": "4433365",
+  "slug": "crispy-aubergine",
+  "title": "Crispy Aubergine",
+  "url": "https://www.mob.co.uk/recipes/crispy-aubergine",
+  "summary": "A simple recipe for crispy aubergine. We'd recommend pairing this with some freshly made steamed bao buns.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Crispy-Aubergine.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 730,
+    "protein": 19,
+    "fat": 31,
+    "saturated_fat": 4,
+    "carbohydrates": 92,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Plain Flour",
+      "quantity": "500",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Panko Breadcrumbs",
+      "quantity": "250",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Head of Lettuce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sriracha, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hoisin, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Hoisin Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sesame Seeds",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Soy Milk",
+      "quantity": null,
+      "unit": null,
+      "name": "Soya Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix the sesame and panko together and add into a bowl, seasoning with salt and pepper. Tip the flour into a bowl and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add the soy milk and lemon juice to another bowl and whisk until it creates a vegan buttermilk."
+    },
+    {
+      "heading": null,
+      "description": "Take the aubergine and slice into 1 cm circular pieces, once done slice down the middle of each creating semi circles."
+    },
+    {
+      "heading": null,
+      "description": "Now you have all your mixes and cut pieces it's time to dredge. Dip each piece in this order: vegan buttermilk, then the flour, then back into the vegan buttermilk, then finally into panko/sesame mix. Set aside on a plate or baking sheet."
+    },
+    {
+      "heading": null,
+      "description": "Shred the lettuce and finely slice spring onion."
+    },
+    {
+      "heading": null,
+      "description": "When ready to cook, tip enough vegetable oil into a saucepan so it comes halfway up the sides. Place over a high heat until the oil reaches 180 degrees, then turn the heat to medium. Line a plate with kitchen paper. Working in batches, add in the aubergine and allow each side to cook for 2-3 mins, until golden brown, remove and rest on kitchen roll to absorb any excess oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chantel & Joe Yeung",
+      "uri": "chefs/chantel-joe-yeung",
+      "summary": "Chantel & Joe run street food business Chubby Dumpling. They serve Dad's dumplings from a converted fire truck across London. Their family recipes are full of flavour and not to be missed!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-03T10:57:00+01:00"
+}

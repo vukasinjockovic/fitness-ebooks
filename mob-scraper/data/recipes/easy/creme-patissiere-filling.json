@@ -1,0 +1,134 @@
+{
+  "id": "6747510",
+  "slug": "creme-patissiere-filling",
+  "title": "Crème Pâtissière Filling",
+  "url": "https://www.mob.co.uk/recipes/creme-patissiere-filling",
+  "summary": "This thick and creamy vanilla pastry filling is useful for loads of bakes. Use it to fill doughnuts, as a base for tarts, or even as a luxurious cake filling.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Cre%CC%80me-Pa%CC%82tissie%CC%80re-Filling.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 20,
+  "nutrition": {
+    "calories": 54,
+    "protein": 1,
+    "fat": 4,
+    "saturated_fat": 2,
+    "carbohydrates": 3,
+    "dietary_fibre": 0,
+    "sugars": 2,
+    "sodium": 12
+  },
+  "ingredients": [
+    {
+      "label": "½ Vanilla Pod",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Whole Milk",
+      "quantity": "500",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Egg Yolks",
+      "quantity": "90",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12g Caster Sugar",
+      "quantity": "12",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Plain Flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Double Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slit the vanilla pod open lengthways and scrape out the seeds into a heavy-based saucepan. Add the empty pod and milk to the pan and set it over a low-medium heat. Heat it slowly and gently until just boiling, to infuse the vanilla."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, use a spoon to mix the egg yolks and sugar together in a mixing bowl until fully combined. Sift in the flour and mix again until incorporated."
+    },
+    {
+      "heading": null,
+      "description": "Slowly pour the just-boiling milk over the yolk and butter mixture and whisk the mixture constantly to prevent curdling. Transfer the mixture back into the saucepan and cook it over a medium heat for about 5 mins, whisking constantly, until very thick."
+    },
+    {
+      "heading": null,
+      "description": "Pass the mixture through a fine sieve into a bowl and discard the vanilla pod. Place a sheet of clingfilm on the surface of the custard to prevent a skin forming. Leave to cool, then refrigerate."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, use an electric whisk to beat together the cream until thick and creamy with stiff peaks forming (don't continue past this point). Fold the whipped cream into the chilled custard."
+    },
+    {
+      "heading": null,
+      "description": "Use the crème pâtissière to fill doughnuts or as a base for tarts."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "French",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-02T15:56:00+01:00"
+}

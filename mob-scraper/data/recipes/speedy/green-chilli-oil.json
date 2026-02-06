@@ -1,0 +1,143 @@
+{
+  "id": "4189287",
+  "slug": "green-chilli-oil",
+  "title": "Green Chilli Oil",
+  "url": "https://www.mob.co.uk/recipes/green-chilli-oil",
+  "summary": "This is really easy and looks super impressive! The trick to making the oil clear is boiling all of the moisture out of it – the more you know.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Green-Chilli-Oil.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 462,
+    "protein": 2,
+    "fat": 51,
+    "saturated_fat": 6,
+    "carbohydrates": 2,
+    "dietary_fibre": 1,
+    "sugars": 1,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb-Sized Chunk of Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Toasted Sesame Seeds, Plus Extra To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "30g Coriander, Plus Extra To Serve",
+      "quantity": "30",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "30g Basil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Sunflower Oil",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and finely slice the garlic, peel the ginger and slice into matchsticks. Finely slice the green chilli, add them all to a small saucepan along with the sesame seeds and cover with the oil. Put the pan over a low heat and cook for 10 mins, until the garlic and ginger are crisp."
+    },
+    {
+      "heading": null,
+      "description": "Place a sieve over a bowl and tip the oil through, catching the crispy bits. Tip the oil into a blender, then tip the contents of the sieve into the bowl. Line the sieve with a cloth or clean tea towel and place back over the bowl."
+    },
+    {
+      "heading": null,
+      "description": "Grab a bowl of ice water. Bring a pan of salted water to the boil, drop the basil leaves in, discarding the stalks, along with the coriander (stalks and all). Count to 10, then use tongs to transfer to the ice water."
+    },
+    {
+      "heading": null,
+      "description": "Leave for 5 mins until cold, then remove, squeeze out as much water as possible and add to the blender with the oil, blitz until smooth as possible, then pour into the lined sieve and set aside to drip through, creating a vibrant green chilli oil."
+    },
+    {
+      "heading": null,
+      "description": "If the oil isn’t super clear at this point, you can transfer it to a pan and boil for a couple of minutes until it goes clear (it’s a magic trick!). Cool, and transfer into a jar or bottle."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-14T12:15:00+00:00"
+}

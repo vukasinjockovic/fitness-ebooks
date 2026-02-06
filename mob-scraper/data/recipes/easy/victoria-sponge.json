@@ -1,0 +1,159 @@
+{
+  "id": "6792013",
+  "slug": "victoria-sponge",
+  "title": "Victoria Sponge",
+  "url": "https://www.mob.co.uk/recipes/victoria-sponge",
+  "summary": "A classic Victoria sponge recipe with vanilla cream and raspberry jam. Grab your pals and put the kettle on; you just can’t beat a Vicky sponge.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Victoria-Sponge.jpg",
+  "cook_time": 20,
+  "prep_time": 25,
+  "total_time": 45,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 357,
+    "protein": 4,
+    "fat": 23,
+    "saturated_fat": 14,
+    "carbohydrates": 33,
+    "dietary_fibre": 1,
+    "sugars": 21,
+    "sodium": 110
+  },
+  "ingredients": [
+    {
+      "label": "225g softened salted butter",
+      "quantity": "225",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g golden caster sugar",
+      "quantity": "225",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 medium eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g self-raising flour",
+      "quantity": "225",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp milk",
+      "quantity": "2",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml double cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp icing sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp vanilla extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 tbsp seeded raspberry jam",
+      "quantity": "6",
+      "unit": null,
+      "name": "Raspberry Jam",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 160°C fan. Lightly grease two 20°Cm springform cake tins and line the base with baking paper. Make sure the butter is at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "Measure your butter into a mixing bowl or stand mixer. Using electric beaters, whisk for a minute or so on its own to make sure it is super soft. Add the caster sugar and continue to whisk for 3-5 mins until super aerated, light and fluffy."
+    },
+    {
+      "heading": null,
+      "description": "Measure your flour into a small bowl. One at a time, crack an egg into the butter and sugar mixture and add a spoonful of your measured flour at the same time — this stops the batter from splitting."
+    },
+    {
+      "heading": null,
+      "description": "Whisk together, scrape down the sides of the bowl then repeat until all the eggs are incorporated. Sieve in the remaining flour, add a pinch of salt, the milk and fold together with a spatula."
+    },
+    {
+      "heading": null,
+      "description": "Divide the batter evenly between the two tins. Smooth the top then bake in the centre of the oven for 20 mins until well risen, the top is golden and the cake has just come away from the sides. If you insert a skewer into the centre it should come out with only a few crumbs attached."
+    },
+    {
+      "heading": null,
+      "description": "Leave to cool for 5 mins then transfer to a wire rack to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Whisk the double cream with the icing sugar and vanilla extract until it just holds its shape then put one of the sponges top down onto a serving plate and spread raspberry jam all over it. Top with the whipped cream then sandwich together with the remaining sponge and dust with icing sugar to finish. Heavenly."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-10-01T15:59:00+01:00"
+}

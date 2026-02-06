@@ -1,0 +1,189 @@
+{
+  "id": "5470017",
+  "slug": "spring-chopped-salad",
+  "title": "Spring Chopped Salad",
+  "url": "https://www.mob.co.uk/recipes/spring-chopped-salad",
+  "summary": "Spring has sprung, and there's no better way to celebrate in-season vegetables than with a fresh and flavourful chopped salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Spring-Chopped-Salad.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 282,
+    "protein": 6,
+    "fat": 14,
+    "saturated_fat": 2,
+    "carbohydrates": 32,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "250g Asparagus",
+      "quantity": "250",
+      "unit": null,
+      "name": "Asparagus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Radish",
+      "quantity": "200",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cucumbers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mint",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mixed Grains or Quinoa",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mixed Cooked Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Wholegrain Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Lemon",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Olive Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large pan of salty water to a boil the asparagus for 1-2 mins. Drain and run under cold water to stop any further cooking and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cook your mixed grains/quinoa according to package instructions and allow it to cool. Add your frozen peas to a microwave-safe bowl and microwave for 2 mins on high. Once cooked, allow them to cool."
+    },
+    {
+      "heading": null,
+      "description": "Slice your cucumber in half lengthwise and scoop at the seeds. Chop off the tops and bottoms of the radishes."
+    },
+    {
+      "heading": null,
+      "description": "Add your asparagus, radish, cucumber, and mint (reserving some of the mint for garnish later) to a chopping board and chop them up into rough chunks."
+    },
+    {
+      "heading": null,
+      "description": "Add your chopped ingredients all to a bowl and throw in your cooked grains and peas."
+    },
+    {
+      "heading": null,
+      "description": "Make a quick dressing by combining the olive oil, mustard, honey and juice of the lemons. Mix until emulsified and season with salt to taste."
+    },
+    {
+      "heading": null,
+      "description": "And the dressing to the bowl and toss it vigorously. Garnish with some torn mint and salt. Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Batch",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-04T10:40:00+01:00"
+}

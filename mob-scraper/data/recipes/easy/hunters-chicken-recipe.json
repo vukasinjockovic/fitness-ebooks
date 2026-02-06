@@ -1,0 +1,166 @@
+{
+  "id": "5695205",
+  "slug": "hunters-chicken-recipe",
+  "title": "Classic Hunter’s Chicken",
+  "url": "https://www.mob.co.uk/recipes/hunters-chicken-recipe",
+  "summary": "This is a pub classic and just about the most comforting thing you can make. Serve this hunter’s chicken recipe with the butteriest mash and some simple steamed greens.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Hunters-Chicken-Recipe.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 406,
+    "protein": 44,
+    "fat": 20,
+    "saturated_fat": 8,
+    "carbohydrates": 13,
+    "dietary_fibre": 1,
+    "sugars": 10,
+    "sodium": 1372
+  },
+  "ingredients": [
+    {
+      "label": "8 Rashers Smoked Streaky Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Smoked Streaky Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Rashers Smoked Streaky Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Skinless Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Skinless Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Chives",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Mature Cheddar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Mature Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Mature Cheddar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp Worcestershire Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml BBQ Sauce",
+      "quantity": "100",
+      "unit": null,
+      "name": "Barbecue Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Lay a streaky bacon rasher on a chopping board and use the back of a large knife to stretch the rasher so it becomes elongated (you want it to be about 1.5 times its normal length). Repeat with the remaining rashers."
+    },
+    {
+      "heading": null,
+      "description": "Season the chicken breasts lightly with salt and cracked black pepper. Taking one rasher at a time, wrap the rasher around the chicken breast, slightly overlapping it as you go, then repeat with another rasher so that the chicken is wrapped in two slices of bacon. Repeat with the remaining chicken breasts and bacon rashers. Put the chicken breasts into a roasting tin and into the oven for 25 mins."
+    },
+    {
+      "heading": null,
+      "description": "While the chicken roasts, use a sharp knife to finely slice the chives, then set aside and finely grate the cheddar."
+    },
+    {
+      "heading": null,
+      "description": "Mix the Worcestershire sauce and the BBQ sauce together, then spoon over the chicken, and scatter over the cheddar. Put back into the oven for 5 mins until the cheese and sauce are bubbling. Remove from the oven and top with the finely chopped chives."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired",
+    "British-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2024-06-01T09:48:00+01:00"
+}

@@ -1,0 +1,371 @@
+{
+  "id": "6953380",
+  "slug": "char-siu-chicken-rice",
+  "title": "Char Siu Chicken & Rice",
+  "url": "https://www.mob.co.uk/recipes/char-siu-chicken-rice",
+  "summary": "Sticky oven-baked Chinese BBQ chicken, served with garlicky chicken rice. A quick and simple dinner that really hits the spot.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Char-Siu-Chicken-1.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 44,
+    "fat": 41,
+    "saturated_fat": 8,
+    "carbohydrates": 116,
+    "dietary_fibre": 3,
+    "sugars": 17,
+    "sodium": 2102
+  },
+  "ingredients": [
+    {
+      "label": "6 Skin-On Boneless Chicken Thighs",
+      "quantity": "5",
+      "unit": null,
+      "name": "Boneless Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Skin-On Boneless Chicken Thighs",
+      "quantity": "5",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp 5 Spice Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Fresh Ginger",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450ml Chicken Stock",
+      "quantity": "450",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Chicken Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cornstarch",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Into a mixing bowl, add the chicken and all the ingredients for the marinade. Mix to coat the chicken thoroughly. Set aside to marinate for at least 30 mins or up to overnight."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Line a baking tray with tin foil."
+    },
+    {
+      "heading": null,
+      "description": "Place the marinated chicken on the tray, skin side up. Slide the tray into the oven to bake for 30 mins. Set aside the leftover marinade."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, start on the rice. Halve and finely slice the shallot. Mince the fresh ginger and garlic. Heat the vegetable oil in a medium saucepan set over a medium heat. Add the shallot and fry for 5-10 mins until golden brown and almost burnt. Add the ginger and garlic and fry for another 45 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Tip the rice into the pan and toast for 45 seconds. Add the chicken stock, fish sauce and a pinch of salt. Put the lid on, turn the heat to high and bring to a boil. Once boiling, turn the heat to low and cook for 18 mins, then turn the heat off and set the pan aside with the lid on until needed."
+    },
+    {
+      "heading": null,
+      "description": "Get all the ingredients for the sauce – except the cornstarch and water – into a saucepan. Stir through the leftover marinade. Bring to a boil over a high heat then turn the heat down to medium and simmer for 1-2 mins."
+    },
+    {
+      "heading": null,
+      "description": "In a mug or small bowl, make a cornstarch slurry by mixing the cornstarch and water together. Turn the heat down to the lowest setting and slowly pour the slurry into the pan whilst stirring. It should have the consistency of a gravy; if too thin, add more slurry. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the garnish, cut the spring onion into thirds and then slice into thin matchsticks. Roughly chop the fresh coriander. Add both to a bowl of icy water to curl and crisp."
+    },
+    {
+      "heading": null,
+      "description": "Remove the chicken from the oven and leave to rest for 5 mins, then slice into 1cm strips."
+    },
+    {
+      "heading": null,
+      "description": "To serve, add a generous amount of rice to a plate, followed by the sliced chicken. Ladle the sauce over the top. Add some of the spring onion and coriander to the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T13:33:00+01:00"
+}

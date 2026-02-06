@@ -1,0 +1,333 @@
+{
+  "id": "2114325",
+  "slug": "tandoori-fried-chicken-sandwich",
+  "title": "Tandoori Fried Chicken Sandwich",
+  "url": "https://www.mob.co.uk/recipes/tandoori-fried-chicken-sandwich",
+  "summary": "James Cochran from 12:51 stuns us with his belter of a sandwich. Expect crispy fried chicken, curry mayo, tangy pickles, and heaps of crunchy Bombay mix.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A2724-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 1440,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1042,
+    "protein": 38,
+    "fat": 48,
+    "saturated_fat": 8,
+    "carbohydrates": 112,
+    "dietary_fibre": 7,
+    "sugars": 27,
+    "sodium": 983
+  },
+  "ingredients": [
+    {
+      "label": "20g Tandoori Masala",
+      "quantity": "20",
+      "unit": null,
+      "name": "Tandoori Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Ginger",
+      "quantity": "50",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sea Salt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Boneless Skinless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Boneless Skinless Chicken Thighs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Buttermilk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Buttermilk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Curry Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Turmeric",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Bunch Mint",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml White Wine Vinegar",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Granny Smith Apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Granny Smith Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Granny Smith Apples",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Mustard Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Mayo",
+      "quantity": "150",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Plain Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cornflour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Bombay Mix",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bombay Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Crispy Shallots",
+      "quantity": "100",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices Of Thick White Bread",
+      "quantity": "240",
+      "unit": null,
+      "name": "White Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start with making your brine for the chicken. Put tandoori spice, ginger, garlic, 100g salt and 200ml of water in a blender and blend till smooth. Add 300ml water and the spices paste to the pan, bring to a boil and then take it off the heat. Allow it to cool fully in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Once the brine is cold, add in the chicken thighs and brine for 2-4 hours."
+    },
+    {
+      "heading": null,
+      "description": "Combine the buttermilk, 2 tsp curry powder and 1 tsp turmeric in a bowl. Drain the chicken thighs from the brine and add it to the buttermilk. Pop it back into the fridge until you are ready to fry."
+    },
+    {
+      "heading": null,
+      "description": "On to your pickles. Pick the mint leaves off the stems, reserving the stems and finely slice your red chilli. Bring the mint stems, finely sliced chilli, vinegar, sugar, a pinch of salt and 300ml water to the boil in a small saucepan. Once the sugar has dissolved, after 3 mins, take it off the heat and allow to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Once the pickling liquid is cold, very thinly slice your apples and cucumber. Put the apples, cucumber and mint leaves into the cold pickling liquid. Pop this into the fridge for 2 hours."
+    },
+    {
+      "heading": null,
+      "description": "Add your yoghurt to a bowl and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "For the curry mayo, add 2 tsp curry powder, 1 tsp turmeric, black mustard seeds, 50ml vegetable oil. Heat for 2 mins on medium heat until bubbling and aromatic."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, combine the mayonnaise with 1 tbsp of the curry oil. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Mix together the plain flour and cornflour into a shallow bowl."
+    },
+    {
+      "heading": null,
+      "description": "Fill up a big pan with vegetable oil and bring it to medium-high heat."
+    },
+    {
+      "heading": null,
+      "description": "Get your chicken out of the fridge and shake off the excess. Dip it into the flour, pressing firmly so it’s coated completely. Dip the chicken into the hot oil and fry for 4-5 mins until golden brown, crispy, and cooked through. Remove and let it drain on some paper towels."
+    },
+    {
+      "heading": null,
+      "description": "Now to build the sandwich. Get two slices of bread and layer it up with your fried chicken followed by the seasoned yoghurt and curry mayo, pickled cucumber and apples, a spoon of Bombay mix, some crispy shallots, and mint. Spread yoghurt and curry mayo on the other slice of bread and sandwich the two together. Slice in half and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British-Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-05-29T02:00:00+01:00"
+}

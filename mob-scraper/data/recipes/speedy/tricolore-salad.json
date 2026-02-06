@@ -1,0 +1,180 @@
+{
+  "id": "323899",
+  "slug": "tricolore-salad",
+  "title": "The Mob Tricolore",
+  "url": "https://www.mob.co.uk/recipes/tricolore-salad",
+  "summary": "Mob's take on the Italian classic. Mozzarella, tomato, avocado and basil. So fresh, so delicious. The key is in the red wine vinegar dressing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/Image-from-iOS-20.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 8,
+    "fat": 34,
+    "saturated_fat": 8,
+    "carbohydrates": 10,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 187
+  },
+  "ingredients": [
+    {
+      "label": "7 Large Vine Tomatoes",
+      "quantity": "7",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Large Vine Tomatoes",
+      "quantity": "7",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Red Wine Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Balls of Mozzarella",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Balls of Mozzarella",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Avocados",
+      "quantity": "3",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Olive Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop the tomatoes into chunks, add a big pinch of salt and rub together. This will remove the excess water. Place the colander over a bowl and allow to sit for 15 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Dressing time. Add the olive oil, red wine vinegar, a tsp of salt, pepper and a tsp of chilli flakes into a jar. Shake until completely combined."
+    },
+    {
+      "heading": null,
+      "description": "Chop up your mozzarella, and avocados into big chunks and add them into a bowl along with the tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop your basil and scatter over (saving some for garnish). Pour over your dressing and toss all together."
+    },
+    {
+      "heading": null,
+      "description": "Serve up and garnish with more chilli flakes, salt, pepper and the leftover basil. Tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-05-29T17:53:00+01:00"
+}

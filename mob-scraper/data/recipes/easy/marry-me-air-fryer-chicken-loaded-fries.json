@@ -1,0 +1,276 @@
+{
+  "id": "6953512",
+  "slug": "marry-me-air-fryer-chicken-loaded-fries",
+  "title": "“Marry Me” Air Fryer Chicken-Loaded Fries",
+  "url": "https://www.mob.co.uk/recipes/marry-me-air-fryer-chicken-loaded-fries",
+  "summary": "Using reduced-fat versions of pesto, cream cheese and oil makes this seemingly indulgent dish a lot healthier. It’s high in protein and absolutely delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/220A6579-3.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 322,
+    "protein": 25,
+    "fat": 6,
+    "saturated_fat": 2,
+    "carbohydrates": 43,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 238
+  },
+  "ingredients": [
+    {
+      "label": "400g White Potatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "White Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g White Potatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Chicken Breast",
+      "quantity": "150",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Chicken Breast",
+      "quantity": "150",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sun Dried Tomatoes",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sun Dried Tomatoes",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Paprika",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Mixed Herbs",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Dried Mixed Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Thyme",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Dried Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Oregano",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Basil",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Dried Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Basil",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Reduced-Fat Red Pesto",
+      "quantity": "1",
+      "unit": null,
+      "name": "Reduced-Fat Red Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Reduced-Fat Red Pesto",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Lightest Cream Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Lightest Cream Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Low Calorie Cooking Spray",
+      "quantity": null,
+      "unit": null,
+      "name": "Low-Calorie Cooking Spray",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use a sharp knife to cut the potatoes into even-sized skinny chips. Transfer them to a microwave-safe container and cook them on a medium-high setting in the microwave for 7 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile dice the chicken into bite-sized chunks, crush the garlic cloves, and slice the sundried tomatoes into bite-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Heat the air fryer to 190°C. Transfer the softened chips to the air fryer basket. Spray with the low calorie cooking spray and season with the paprika, mixed herbs and salt and pepper. Shake to coat the fries then cook in the air fryer for around 20 mins until golden."
+    },
+    {
+      "heading": null,
+      "description": "Spray a large frying pan with the low calorie cooking spray and set it over a medium heat. Add the chicken and pan fry for about 7 mins or until cooked through. Add the garlic and sundried tomatoes and cook for another couple of minutes until fragrant and softened."
+    },
+    {
+      "heading": null,
+      "description": "Add the ground thyme, ground oregano, ground basil, red pesto, cream cheese and water. Mix to combine and bring to a gentle simmer. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Tip the chips into a bowl and top with the creamy chicken. Scatter over some chopped fresh basil and dig in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-09T04:00:00+01:00"
+}

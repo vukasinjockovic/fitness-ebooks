@@ -1,0 +1,260 @@
+{
+  "id": "6153018",
+  "slug": "turkey-soup-recipe",
+  "title": "Pearl Barley & Spiced Turkey Soup Recipe",
+  "url": "https://www.mob.co.uk/recipes/turkey-soup-recipe",
+  "summary": "This turkey soup recipe is the epitome of nourishing comfort, making it a fantastic choice for batch cooking. It’s packed with vegetables, nutty pearl barley, and tender turkey meat, offering a hearty and satisfying meal. The recipe is incredibly versatile, allowing you to substitute cooked chicken meat if you prefer. Perfect for preparing in advance, this turkey soup will keep in the fridge for up to a week, or you can freeze individual portions for a quick and easy meal anytime. The soup is also customisable with your choice of vegetables and fresh herbs, such as dill and parsley, to enhance the flavour. Whether enjoyed as a cosy dinner or a hearty lunch, this turkey soup is a wholesome addition to your recipe repertoire. For those who enjoy making soups, this recipe is a great alternative to chicken noodle soup or minestrone, bringing comfort and convenience to your kitchen.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Pearl-Barley-Spiced-Turkey-Soup-Recipe.jpg",
+  "cook_time": 55,
+  "prep_time": 12,
+  "total_time": 67,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 202,
+    "protein": 12,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 22,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 632
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Stalks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Turnip",
+      "quantity": "1",
+      "unit": null,
+      "name": "Turnip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rapeseed Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rapeseed Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Ginger",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Turmeric",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cinnamon Sticks (optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2L Chicken Stock",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Pearl Barley",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pearl Barley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Turkey Meat",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cooked Turkey Meat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Turkey Meat",
+      "quantity": "300",
+      "unit": null,
+      "name": "Turkey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red or Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the onion. Finely slice the celery then peel the carrot and turnip or swede and cut into similar-sized pieces. Scrape all the veg into your largest saucepan."
+    },
+    {
+      "heading": null,
+      "description": "Add the oil and a good pinch of salt. Cook over a medium heat, stirring occasionally for 15 mins until the veg has collapsed and softened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel the ginger then finely grate the ginger and garlic. Add to the saucepan and cook, stirring for 1 min, then stir in the cumin, mustard seeds, turmeric and cinnamon, if using. Cook for 1 min more then pour in the stock."
+    },
+    {
+      "heading": null,
+      "description": "Bring the soup base to a boil, drop in the pearl barley and simmer, stirring occasionally, for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "After 30 mins, use your hands to shred the turkey meat into small chunks and add to the pan. Cook for a further 5 mins until the meat is heated through, the pearl barley has a pleasing bite and the vegetables are soft."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the coriander (stalks and all), then stir most of it through the soup. Finely slice the chilli. Season the soup with salt, pepper and lemon juice to taste, then ladle into bowls and top with the remaining coriander and chilli to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Freezer Friendly",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-01T10:26:00+01:00"
+}

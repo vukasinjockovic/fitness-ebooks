@@ -1,0 +1,134 @@
+{
+  "id": "7062593",
+  "slug": "lunch-base-dill-rice",
+  "title": "Dilly Rice",
+  "url": "https://www.mob.co.uk/recipes/lunch-base-dill-rice",
+  "summary": "This simple dill rice is ideal for meal prep. Combine it with your favourite protein, veg and dressing to create your perfect meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Dill-Rice.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 202,
+    "protein": 4,
+    "fat": 4,
+    "saturated_fat": 3,
+    "carbohydrates": 37,
+    "dietary_fibre": 1,
+    "sugars": 1,
+    "sodium": 32
+  },
+  "ingredients": [
+    {
+      "label": "200g Long-Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Long Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Long-Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Dill",
+      "quantity": "20",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Salted Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Orzo",
+      "quantity": "70",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Orzo",
+      "quantity": "70",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash the rice until the water runs clear. Pick and roughly chop the dill fronds. Finely slice the dill stems."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a saucepan set over a medium heat. Add the orzo and cook for 3-4 mins, stirring constantly, until toasted and browned. Stir through the rice then pour in the water. Let it come to the boil then pop the lid on and turn the heat down to low. Leave it for 12 mins (don’t remove the lid), then remove the pan from the heat and set it aside for another 10 min, still covered. Before serving, stir through the dill fronds and stems."
+    },
+    {
+      "heading": null,
+      "description": "Serve with your choice of protein and veg. If batch cooking for the week, transfer the rice to a container and store in the fridge until ready to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-01T00:00:00+01:00"
+}

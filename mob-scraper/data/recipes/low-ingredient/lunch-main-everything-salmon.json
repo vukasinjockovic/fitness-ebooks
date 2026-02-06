@@ -1,0 +1,163 @@
+{
+  "id": "7063201",
+  "slug": "lunch-main-everything-salmon",
+  "title": "Everything Salmon",
+  "url": "https://www.mob.co.uk/recipes/lunch-main-everything-salmon",
+  "summary": "As you might be able to guess from the title, this everything-bagel-seasoned salmon has it all. If you're after something healthy, delicious and easy to make, this is your guy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Everything-Salmon.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 29,
+    "fat": 25,
+    "saturated_fat": 4,
+    "carbohydrates": 3,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 246
+  },
+  "ingredients": [
+    {
+      "label": "4 Tsp Poppy Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Poppy Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp White Sesame Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "White Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Black Sesame Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Onion Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fillets Of Salmon",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fillets Of Salmon",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 190°C. Place a small baking tray in there to preheat."
+    },
+    {
+      "heading": null,
+      "description": "Mix your poppy seeds, sesame seeds, garlic powder, onion powder and salt in a bowl. Give it all a mix."
+    },
+    {
+      "heading": null,
+      "description": "Pat your salmon fillets dry, and place them on a board skin side down. Press your everything seasoning mix all over the salmon flesh (avoiding the skin)."
+    },
+    {
+      "heading": null,
+      "description": "Remove your hot baking sheet from the oven, and place a piece of baking parchment on it. Pop your salmon fillets skin side down on top, then drizzle on a little olive oil, and bake them for 7 mins."
+    },
+    {
+      "heading": null,
+      "description": "Turn your grill up to high. Blast your salmon under the grill for 2 mins until the top has turned a little golden."
+    },
+    {
+      "heading": null,
+      "description": "Serve your salmon with your base and dressing of choice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-02T00:00:00+01:00"
+}

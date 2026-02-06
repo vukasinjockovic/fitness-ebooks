@@ -1,0 +1,256 @@
+{
+  "id": "4338369",
+  "slug": "sweet-sour-aubergine",
+  "title": "Sweet & Sour Aubergine",
+  "url": "https://www.mob.co.uk/recipes/sweet-sour-aubergine",
+  "summary": "Here's another one to add to your roster of fakeaway meals. The perfect dish to cook up when you're feeding a crowd, the aubergine soaks up all the flavours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Sweet-Sour-Aubergine.jpg",
+  "cook_time": 30,
+  "prep_time": 20,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 202,
+    "protein": 4,
+    "fat": 8,
+    "saturated_fat": 1,
+    "carbohydrates": 30,
+    "dietary_fibre": 5,
+    "sugars": 15,
+    "sodium": 668
+  },
+  "ingredients": [
+    {
+      "label": "3 Aubergines",
+      "quantity": "3",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Ginger",
+      "quantity": "5",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Yellow Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Yellow Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Seeds, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "75ml Rice Wine Vinegar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Ketchup",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sesame Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly chop your aubergines into 3cm wedges. Add the chunks to a colander, then sprinkle with 2 tbsp table salt, toss well, then set aside over a bowl to drain."
+    },
+    {
+      "heading": null,
+      "description": "Peel your ginger and garlic, and pound them in a pestle and mortar until broken and bruised."
+    },
+    {
+      "heading": null,
+      "description": "Cut off the tops and remove the stem from the peppers, then slice into 3cm chunks. Slice the spring onions into 3cm lengths. Finely slice the chillies. Peel the onions and slice into wedges. Set all the prepped veg aside."
+    },
+    {
+      "heading": null,
+      "description": "Pat the aubergine chunks dry with some kitchen paper or a tea towel. Tip the cornflour into a bowl, add the aubergine chunks and toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "Tip the vegetable oil into a large saucepan until it comes halfway up the side. Heat to 180ºC. Add the aubergine chunks and fry for around 2 mins until crisp, then drain on a plate lined with kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Mix the ingredients for the sauce together until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large frying pan or wok over a high heat. Add 2 tbsp vegetable oil to the pan, then tip in the peppers and cook until the skins are blistered, around 4-5 mins. Then use a slotted spoon to remove from the pan. Add the onion wedges to the pan and fry for 2 mins then add the spring onion along with the bashed ginger and garlic and sliced red chilli, fry for 2-3 mins further, then return the peppers and aubergine to the pan along with the sauce. Toss until glossy and thickened. Taste for seasoning and balance of sweet and sour, adding more sugar or vinegar if needed."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the rice into bowls, and top with the aubergine mix. Top with sesame seeds and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Chinese",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Angelica Udenweze",
+      "uri": "chefs/angelica-udenweze",
+      "summary": "Angelica Udenweze joined the team as a food assistant and helped develop so many classic dishes, during her time at Mob. When it comes to her cooking, Angelica specialises in complex flavour combos that always leave you wanting more."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-17T10:30:00+01:00"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "6746460",
+  "slug": "squash-bean-barley-soup",
+  "title": "Squash, Bean & Barley Soup",
+  "url": "https://www.mob.co.uk/recipes/squash-bean-barley-soup",
+  "summary": "This protein and fibre-packed soup is a hug in a bowl. It’s perfect for those autumn days when you want an easy, comforting and nourishing meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Squash-bean-and-barley-soup.jpg",
+  "cook_time": 60,
+  "prep_time": 10,
+  "total_time": 70,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 143,
+    "protein": 5,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 22,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "1 Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Leeks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shallots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "235g Drained Cannellini Beans",
+      "quantity": "235",
+      "unit": null,
+      "name": "Drained Cooked Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pearl Barley",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pearl Barley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Veg Stock",
+      "quantity": "750",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Kale",
+      "quantity": "100",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly dice the squash (for small and medium varieties the skin is thin enough to leave on but if you have a really large one you may be better off peeling it). Slice the leeks and finely chop the shallots."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a large pan over a medium heat. Add the squash then cover with a lid and allow to cook for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the leeks and shallots and cook for another 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the drained beans to the pan along with the pearl barley then cover with the stock. Bring to a simmer then leave to cook for 45 minutes, adding more water as needed, until the pearl barley is cooked."
+    },
+    {
+      "heading": null,
+      "description": "To finish, stir through the kale until it wilts and season to taste then divide between bowls."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-03T14:11:00+01:00"
+}

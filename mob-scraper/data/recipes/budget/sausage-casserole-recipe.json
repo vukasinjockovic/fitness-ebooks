@@ -1,0 +1,274 @@
+{
+  "id": "5739039",
+  "slug": "sausage-casserole-recipe",
+  "title": "Classic Sausage Casserole",
+  "url": "https://www.mob.co.uk/recipes/sausage-casserole-recipe",
+  "summary": "Whip up a hearty sausage casserole with Mob’s classic sausage casserole recipe. Tender sausages, rich broth, and fresh vegetables. Perfect for a cosy meal. If you’re after an easy recipe that will leave you feeling full and satisfied, you need to look no further. Enjoy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Classic-Sausage-Casserole.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 29,
+    "fat": 24,
+    "saturated_fat": 7,
+    "carbohydrates": 54,
+    "dietary_fibre": 13,
+    "sugars": 10,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Mixed Peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Pork Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Pork Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Pork Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Chopped Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Pot or Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Pot or Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Worcestershire Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g can White Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "White Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g can White Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Borlotti beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Borlotti Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Flat-Leaf Parsley (30g)",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Garlic Bread",
+      "quantity": null,
+      "unit": null,
+      "name": "Garlic Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Halve, peel and thinly slice the onion, then remove the top and seeds from the peppers, and cut them into long, 1cm-wide slices. Peel and finely chop the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat a shot of olive oil in a large, deep frying pan over a medium-high heat and cook the sausages for around 5 minutes, until browned all over. Use tongs to lift them out of the pan and put onto a plate."
+    },
+    {
+      "heading": null,
+      "description": "Add another shot of olive oil into the pan, then scrape in the sliced onions and peppers. Cook, stirring, for 10 minutes until softening and caramelising."
+    },
+    {
+      "heading": null,
+      "description": "Add the chopped garlic and tomato purée and cook for 2 minutes, stirring regularly. Tip in the chopped tomatoes, chicken stock pot or cube, Worcestershire sauce and both cans of beans, along with the liquid from the cans. Bring to the boil and simmer gently for 20 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Nestle the sausages into the pan and simmer for another 10 minutes, turning the sausages halfway, until they’re cooked through and the sauce has thickened slightly."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the parsley (stalks and all) and scrape into a bowl. Finely chop the red chilli ( remove the seeds if you prefer less heat), add to the bowl then zest in the lemon. Drizzle in another shot of oil and add a little salt and plenty of cracked black pepper. Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Season the casserole to taste, then spoon into bowls and serve with the chilli gremolata on top and garlic bread for mopping up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-06T11:00:00+01:00"
+}

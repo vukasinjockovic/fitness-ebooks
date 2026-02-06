@@ -1,0 +1,277 @@
+{
+  "id": "6080595",
+  "slug": "ginger-chicken-sesame-rice",
+  "title": "Ginger Chicken Sesame Rice",
+  "url": "https://www.mob.co.uk/recipes/ginger-chicken-sesame-rice",
+  "summary": "These perfectly cooked easy crispy chicken thighs on a bed of sesame rice will become part of your midweek staple. Paired with a punchy, tangy ginger oil sauce for dipping or pouring.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/220A3777-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 38,
+    "fat": 48,
+    "saturated_fat": 8,
+    "carbohydrates": 78,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "225g Jasmine Rice",
+      "quantity": "225",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Jasmine Rice",
+      "quantity": "225",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Pak Choi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil, plus 1 tsp",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "260ml Chicken Stock",
+      "quantity": "260",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Sesame Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp MSG (optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegetable Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sriracha",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs, skin on and boneless",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Thighs, skin on and boneless",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tip the rice into a bowl, then wash it thoroughly. Drain, then repeat twice or until the water runs clear. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the chives. Finely mince ¾ of the garlic cloves and the pak choi. Set aside on separate plates."
+    },
+    {
+      "heading": null,
+      "description": "Heat a saucepan over a medium-high heat for 1 min. Add the sesame oil followed by the minced garlic. Sauté for 30 seconds. Add the pak choi and fry for a further 1-2 mins. Add the rice and stir to toast for 1 min. Add the chicken stock, a pinch of salt and a few cracks of black pepper. Put the lid on a bring to a boil. Once boiling, turn the heat to the lowest setting and cook for 18 mins. Once cooked, turn the heat off, add the chives and sesame seeds, then gently mix to combine. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely mince the ginger, spring onions, coriander and remaining garlic clove, or blend in a blender. Transfer to a bowl and add a pinch of salt and the MSG. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the vegetable oil to a saucepan set over a high heat. Heat for 1-2 mins, or until just shy of smoking. Gently pour the oil over the ginger mixture and stir. Add the lime juice, sriracha, vinegar, dark soy sauce and 1 tsp sesame oil. Mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Pat the skin side of the chicken dry with kitchen paper and season with a pinch of salt. Add the chicken skin-side down into a cold, dry, frying pan. Turn the heat to medium and cook for 5-7 mins. Flip the chicken onto the flesh side and cook for a further 2 mins. Remove the chicken from the pan and rest for 1-2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken into 2-3cm pieces. Add the rice to a plate followed by the chicken. Put the sauce in a little dish and place on the side, or spoon over the sauce. Finish with fresh mint leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Low Carb",
+    "Most Cooked",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2025-01-03T12:30:00+00:00"
+}

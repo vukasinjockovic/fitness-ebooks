@@ -1,0 +1,195 @@
+{
+  "id": "6012709",
+  "slug": "lemon-rice-recipe",
+  "title": "Spiced Lemon Rice",
+  "url": "https://www.mob.co.uk/recipes/lemon-rice-recipe",
+  "summary": "This South Indian recipe is a great way to use up leftover rice. Make a big batch of the lemon mix and store it in the fridge for weeks. Just mix with some cooked rice any time and serve hot, warm or even cold.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Lemon-Rice-Recipe.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 4,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 41,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10-15 Cashew Nuts",
+      "quantity": "10",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Split White Lentils",
+      "quantity": "1",
+      "unit": null,
+      "name": "Peeled Urid Dal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Asafoetida",
+      "quantity": "1",
+      "unit": null,
+      "name": "Asafoetida",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8-10 Curry Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Dried Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked White Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked White Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Squeeze the lemon juice into a bowl. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan over a medium heat with a drizzle of oil. Once hot, add the cashews and fry until golden. Transfer to a kitchen paper-lined plate using a slotted spoon, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to low. Tip the mustard seeds into the same pan and fry until the seeds crackle, then add the remaining ingredients (except the lemon juice and rice). Fry everything for 3-4 mins until the lentils are golden."
+    },
+    {
+      "heading": null,
+      "description": "Add the hot mixture to the lemon juice bowl and stir well. Add the cashews and allow the dish to rest for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Stir the cooked rice through the rested mixture. Serve warm or cold."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-29T08:38:00+01:00"
+}

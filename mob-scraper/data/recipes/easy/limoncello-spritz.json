@@ -1,0 +1,129 @@
+{
+  "id": "5560544",
+  "slug": "limoncello-spritz",
+  "title": "Limoncello Spritz",
+  "url": "https://www.mob.co.uk/recipes/limoncello-spritz",
+  "summary": "Refreshing, zesty, and exactly what you want to be sipping on when the sun is out.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Limoncello-Spritz.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 23,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 4,
+    "dietary_fibre": 0,
+    "sugars": 4,
+    "sodium": 0
+  },
+  "ingredients": [
+    {
+      "label": "5 Mint Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Limoncello",
+      "quantity": "35",
+      "unit": null,
+      "name": "Limoncello",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml St-Germain Elderflower Liqueur",
+      "quantity": "25",
+      "unit": null,
+      "name": "St-Germain Elderflower Liqueur",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Sparkling Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sparkling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Prosecco",
+      "quantity": null,
+      "unit": null,
+      "name": "Prosecco",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put your mint leaves in your glass with your St-Germain and muddle."
+    },
+    {
+      "heading": null,
+      "description": "Add your limoncello, ice, and sparkling water then stir."
+    },
+    {
+      "heading": null,
+      "description": "Top up each glass with prosecco and then garnish with lemon wheel and mint leaves. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-09T06:00:00+01:00"
+}

@@ -1,0 +1,267 @@
+{
+  "id": "4606634",
+  "slug": "tomato-curry-egg-drop-rice",
+  "title": "Tomato Curry Egg Drop Rice",
+  "url": "https://www.mob.co.uk/recipes/tomato-curry-egg-drop-rice",
+  "summary": "When I am home, tired, hungry and need something quick and nourishing I make this. A take on a classic Hong Kong dish, with a little spice and inspired by Lucas Sin’s egg drop method.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Tomato-Curry-Egg-Drop-Rice.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 563,
+    "protein": 16,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 81,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 1097
+  },
+  "ingredients": [
+    {
+      "label": "3 Medium Vine Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Medium Vine Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Mild Curry Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Oil, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Chicken Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Dashi Powder (Or 1 Tsp Fish Sauce)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cornstarch",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Jasmine/Sushi Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Jasmine/Sushi Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For perfect fluffy white rice - rinse the rice in a sieve under cold tap water, and shake off as much excess water possible. Tip the rice into a heavy-bottomed pot, with a 1 : 1 ¼ ratio of rice to cold water and a good pinch of salt. Turn the heat to medium low, add a tight fitted lid and boil for 10 mins. Reduce to the lowest heat and cook for another 10 mins. Turn the heat off and leave to steam for 5 mins, before fluffing the rice. Always keep the rice covered, unless serving, or your rice will be dry."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tomatoes into ¼ wedges (optionally - boil the tomatoes whole, with a 'X' sliced into its bottom, for 30 seconds, then remove to cool and peel the skins before slicing into ¼ , to make a smooth sauce, but this is not necessary). Now mince the garlic, and slice the spring onions into chunks, saving the green parts for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the stock ingredients into a jug and mix well. Then in another bowl whisk the egg mixture. Lastly, combine the slurry ingredients in a small cup and set everything aside."
+    },
+    {
+      "heading": null,
+      "description": "In medium-sized saucepan over a high heat, add a splash of oil and fry the garlic and spring onion for 30 seconds, then add curry powder, tomato purée and tomato wedges with a pinch of salt and toss well. Reduce the heat to medium and cook for 2-3 mins or until the tomatoes get jammy."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the stock mixture and bring to a simmer, cook for 6 mins, then give the cornstarch slurry a quick mix with your finger, before drizzling into the sauce. Gently mix, to make sure not to break the tomatoes too much and cook for 1 minute."
+    },
+    {
+      "heading": null,
+      "description": "Now drizzle the egg mixture into the pan, creating circular motions and let it simmer for 1 minute then reduce the heat to the lowest fire. Use a spatula to drag three gentle folds of silky ribboned pieces of egg. Add a lid and cook for 1 more minute."
+    },
+    {
+      "heading": null,
+      "description": "Lastly, drizzle toasted sesame oil, toasted sesame seeds and the spring onions greens to garnish. Use a large serving spoon to gently scoop the tomato curry over some fresh rice to serve"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-18T04:00:00+00:00"
+}

@@ -1,0 +1,176 @@
+{
+  "id": "6797235",
+  "slug": "gingerbread",
+  "title": "Gingerbread",
+  "url": "https://www.mob.co.uk/recipes/gingerbread",
+  "summary": "This classic festive biscuit is easy to bake and full of flavour. The dough is super forgiving and can be re-rolled countless times without changing the taste. Make it for Christmas or year-round.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Gingerbread.jpg",
+  "cook_time": 55,
+  "prep_time": 15,
+  "total_time": 70,
+  "serving_size": 16,
+  "nutrition": {
+    "calories": 61,
+    "protein": 1,
+    "fat": 2,
+    "saturated_fat": 1,
+    "carbohydrates": 11,
+    "dietary_fibre": 0,
+    "sugars": 6,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "75g Soft Light Brown Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Soft Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Golden Syrup",
+      "quantity": "3",
+      "unit": null,
+      "name": "Golden Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Unsalted Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Bicarbonate Of Soda",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Ground Cloves",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Plain Flour",
+      "quantity": "225",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Icing Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the butter into cubes then add to a medium saucepan set over a low heat, along with the sugar and golden syrup. Heat gently until the butter is melted, stirring occasionally, then turn up the heat and bubble away for a minute. Remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Measure the bicarb, spices and plain flour into a bowl. Tip everything into the saucepan and beat together until you have a smooth dough – at this point it will be sticky and wet, don’t worry it will firm up as it cools."
+    },
+    {
+      "heading": null,
+      "description": "Put the dough into the fridge to set for 30 mins (you can leave it in the saucepan)."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 170°C fan. Line a couple of baking trays with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Lightly flour a clean surface then roll out the gingerbread to roughly ½ cm thickness. Cut out whatever shapes you like from the dough and place them on the lined tray. Once you’ve cut out your biscuits, simply re-form the dough and re-roll, then repeat until all your biscuits have been stamped out."
+    },
+    {
+      "heading": null,
+      "description": "Bake in the centre of the oven for 10-12 mins until the biscuits are slightly puffed up, darkening at the edges and firm. Leave to cool for 5 mins on the tray then transfer to a wire rack to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Once cool, mix the icing sugar with the water to form a thick icing then drizzle or pipe onto your gingerbread shapes."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Afternoon Tea",
+    "Party Food"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-07T09:24:00+01:00"
+}

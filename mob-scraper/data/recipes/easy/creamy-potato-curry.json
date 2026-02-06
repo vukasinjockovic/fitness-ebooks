@@ -1,0 +1,261 @@
+{
+  "id": "7385273",
+  "slug": "creamy-potato-curry",
+  "title": "Creamy  Potato Curry",
+  "url": "https://www.mob.co.uk/recipes/creamy-potato-curry",
+  "summary": "A mild and creamy curry the whole fam can get behind. Packed with potatoes and spinach, it’s a one-pot winner for kids and a easy to dial up for grown-ups.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Creamy-Potato-Curry.jpg",
+  "cook_time": 40,
+  "prep_time": 10,
+  "total_time": 50,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 755,
+    "protein": 14,
+    "fat": 19,
+    "saturated_fat": 10,
+    "carbohydrates": 129,
+    "dietary_fibre": 11,
+    "sugars": 11,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mild Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mild Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g new / baby Potatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Baby Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g new / baby Potatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml can Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Water",
+      "quantity": "400",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen spinach",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen spinach",
+      "quantity": "150",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Basmati Rice",
+      "quantity": "600",
+      "unit": null,
+      "name": "Cooked Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Basmati Rice",
+      "quantity": "600",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lime wedges",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lime pickle",
+      "quantity": null,
+      "unit": null,
+      "name": "Lime Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids Servings\n\nFinely dice the onion. Finely slice the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Place a large lidded saucepan over a medium heat with a drizzle of olive oil. Add the onion, garlic and ginger and fry for 5–6 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the curry powder and turmeric. Cook for 1–2 mins until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Peel the potatoes and chop into bite-sized chunks. Tip them into the pan, then pour in the chopped tomatoes, coconut milk and water. Stir well."
+    },
+    {
+      "heading": null,
+      "description": "Bring to the boil, then reduce the heat to low. Cover with a lid and simmer for 35–40 mins until the potatoes are tender and the sauce has thickened."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the frozen spinach and let it wilt for a few mins. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Serve up! \nKids Plate: Dollop the curry over basmati rice. \nParents Plate: For the adults, top the curry and rice with coriander leaves, a squeeze of lime and a spoon of yoghurt and lime pickle, if using."
+    }
+  ],
+  "tips": [
+    "You can blend part of the curry to make it extra smooth for fussy kids.",
+    "Curry keeps in the fridge for 3 days and freezes beautifully (for up to 3 months)."
+  ],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "High Fibre",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-24T10:00:00+01:00"
+}

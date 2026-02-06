@@ -1,0 +1,174 @@
+{
+  "id": "4218341",
+  "slug": "pickle-dip",
+  "title": "Creamy Pickle Dip",
+  "url": "https://www.mob.co.uk/recipes/pickle-dip",
+  "summary": "Take those half jars of pickles and last bits of herbs and create this delicious pickle dip topped with buttery onions. Best served with crispbreads.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Creamy-Pickle-Dip.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 232,
+    "protein": 4,
+    "fat": 13,
+    "saturated_fat": 3,
+    "carbohydrates": 22,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 232
+  },
+  "ingredients": [
+    {
+      "label": "1 Packet of Jacob's Crispbreads",
+      "quantity": "190",
+      "unit": null,
+      "name": "Crispbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mayonnaise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Natural Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Natural Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Cornichons",
+      "quantity": "6",
+      "unit": null,
+      "name": "Cornichon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Unsalted Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel, halve and finely slice the onions into half moons, then add them into a frying pan with 2 tbsp of olive oil and a pinch of salt. Cook on medium heat for 10-15 mins until soft and golden. Once cooked, add the butter in to melt and turn off the heat. Alternatively, I like to put the onions in a bowl with a pinch of salt and the oil, cover with cling film and microwave them for 6-8 minutes, stirring regularly until very soft, then adding them to a pan on a medium heat for the last few minutes until golden.\n(If using spring onion, roughly chop them then add to the pan with the oil and salt, but cook on medium/high for 4-5 minutes until soft but slightly golden, adding the butter at the end to melt)."
+    },
+    {
+      "heading": null,
+      "description": "Zest the lemon. In a bowl, add 2 tbsp of mayo, 4 tbsp of the yoghurt, ½ of your chopped herbs, roughly chopped pickles, the juice of ½ a lemon, plus a good pinch of flakey sea salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Spoon over the onions with the melted butter and finish with the remaining herbs, lemon zest and some freshly cracked black pepper. Serve with a pile of crispbreads for scooping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-11T09:09:00+01:00"
+}

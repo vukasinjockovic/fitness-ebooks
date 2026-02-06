@@ -1,0 +1,320 @@
+{
+  "id": "3734633",
+  "slug": "chicken-shawarma-burger",
+  "title": "Chicken Shawarma Burger",
+  "url": "https://www.mob.co.uk/recipes/chicken-shawarma-burger",
+  "summary": "Juicy chicken shawarma, minty yoghurt and a chopped salad burger relish, all loaded up into brioche buns.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/09/849A1433-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 34,
+    "fat": 33,
+    "saturated_fat": 7,
+    "carbohydrates": 60,
+    "dietary_fibre": 4,
+    "sugars": 13,
+    "sodium": 1052
+  },
+  "ingredients": [
+    {
+      "label": "1 Tbsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Turmeric Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Ground Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tbsp Ground Cloves",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tbsp Chilli Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Thighs (Boneless And Skinless)",
+      "quantity": "6",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Thighs (Boneless And Skinless)",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ a Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ a Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Gherkin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gherkin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Burger Buns",
+      "quantity": "272",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the first six ingredients in a small bowl and mix."
+    },
+    {
+      "heading": null,
+      "description": "Slice the onion and add to a large bowl. Dice up the chicken thighs into roughly 1 inch pieces and add to the same bowl with the onions."
+    },
+    {
+      "heading": null,
+      "description": "Pour over the spice mix and squeeze over the juice of a lemon. Add the salt and olive oil and mix really well to coat the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Cover and transfer to the fridge, ideally overnight but an hour or so is fine, too."
+    },
+    {
+      "heading": null,
+      "description": "Once you’re ready to cook the chicken, preheat your grill to max. Spread the chicken and onions out in a single layer on a large baking tray and place into the oven for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "While the chicken cooks, make the chopped salad relish. Take the core and seeds out of the tomato and add to a food processor along with the red onion, gherkin and coriander. Pulse until finely chopped."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the mix to a sieve and squeeze out as much liquid as you can, then transfer to small bowl. Add the red wine vinegar, sugar and a pinch of salt, stir and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the mint and mix through the Greek yoghurt with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Check that the chicken is cooked through and remove from the oven. It should be well browned and crispy on one side and soft and juicy on the other."
+    },
+    {
+      "heading": null,
+      "description": "Toast the buns, then spread the bottom half with a layer of the minty yoghurt. Top with a big spoonful of the chicken and onions."
+    },
+    {
+      "heading": null,
+      "description": "Spread the top layer of the bun with a spoon of the relish, then sandwich the burger together and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Lebanese"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-09-07T16:47:00+01:00"
+}

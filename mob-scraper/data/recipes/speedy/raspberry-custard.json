@@ -1,0 +1,161 @@
+{
+  "id": "5175184",
+  "slug": "raspberry-custard",
+  "title": "Raspberry Custard",
+  "url": "https://www.mob.co.uk/recipes/raspberry-custard",
+  "summary": "Think normal custard's a bit boring? We've got you covered. This raspberry custard will make you wish it was always pink.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Raspberrry-Custard.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 293,
+    "protein": 4,
+    "fat": 18,
+    "saturated_fat": 11,
+    "carbohydrates": 27,
+    "dietary_fibre": 2,
+    "sugars": 25,
+    "sodium": 44
+  },
+  "ingredients": [
+    {
+      "label": "300g of fresh raspberries",
+      "quantity": "300",
+      "unit": null,
+      "name": "Raspberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp golden caster sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280ml of whole milk",
+      "quantity": "280",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml of double cream",
+      "quantity": "60",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 tbsp golden caster sugar",
+      "quantity": "5",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp vanilla extract",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 large egg yolks",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g cornflour",
+      "quantity": "10",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g of cold butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pinch of Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the raspberries and the golden caster sugar to a saucepan over a medium heat. Cook the raspberries until they have broken down and then simmer for a couple of minutes to thicken. You might need to squish them slightly with a spoon! Set aside to cool."
+    },
+    {
+      "heading": null,
+      "description": "When the raspberry mixture has cooled, pass it through the finest sieve you have to discard the seeds."
+    },
+    {
+      "heading": null,
+      "description": "Now onto the custard. Add 2/5 of the golden caster sugar to a large bowl and add in the egg yolks, whisking until it looks creamy. Add in the cornflour and whisk again until combined. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat the remaining golden caster sugar in a saucepan along with the milk, cream, vanilla extract and a tiny pinch of salt. Stir over a medium heat until the sugar has dissolved. Just before it starts simmering remove from the heat and cool down for a couple of minutes - if it's too hot it will scramble the egg yolks. Carefully and gradually pour the warm milk into the egg yolks, whisking constantly until all the mixture has been used up. Transfer back into the saucepan over a medium heat and stir until thickened. Remove the pan from the heat, take your fridge cold butter, finely dice and add it in. If the butter is too warm it won't emulsify properly, so work quickly!"
+    },
+    {
+      "heading": null,
+      "description": "Add the raspberry purée to the custard, then pass through the sieve again to make sure it's really smooth. If not using immediately, cover with cling film making sure it touches the surface and transfer to the fridge. Please note, the colour will fade slightly over time."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-29T08:00:00+00:00"
+}

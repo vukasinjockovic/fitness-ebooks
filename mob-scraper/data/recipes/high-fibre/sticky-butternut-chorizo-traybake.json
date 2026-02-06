@@ -1,0 +1,197 @@
+{
+  "id": "4334479",
+  "slug": "sticky-butternut-chorizo-traybake",
+  "title": "Sticky Butternut & Chorizo Traybake",
+  "url": "https://www.mob.co.uk/recipes/sticky-butternut-chorizo-traybake",
+  "summary": "We put butternut swquash to use in a traybake loaded with chorizo and chickpeas. You drizzle the dish with guindilla chilli salsa, but jalapeños work, too.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Sticky-Butternut-Chorizo-Traybake-Recipe.jpg",
+  "cook_time": 50,
+  "prep_time": 20,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 13,
+    "fat": 20,
+    "saturated_fat": 5,
+    "carbohydrates": 36,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 770
+  },
+  "ingredients": [
+    {
+      "label": "1 Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Hot Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hot Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Chorizo",
+      "quantity": "220",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Sourdough",
+      "quantity": "120",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g of Tinned Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g of Tinned Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Guindilla Chillies",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pickled Guindilla Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 210°C."
+    },
+    {
+      "heading": null,
+      "description": "Halve your squash, then scoop out the seeds and cut them into large chunks."
+    },
+    {
+      "heading": null,
+      "description": "Arrange them on a baking tray and drizzle with olive oil, paprika and salt. Place in the oven to roast for 25 mins."
+    },
+    {
+      "heading": null,
+      "description": "Cut your chorizo into discs. Cube your sourdough. Rinse your chickpeas in a colander, then pat them dry."
+    },
+    {
+      "heading": null,
+      "description": "Tip your chorizo and chickpeas into your roasting tray, then return to the oven for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "On to your salsa. Finely chop your guindilla chillies and parsley. Add these both to a bowl and zest in your lemon. Add your lemon juice and 4 tbsp of olive oil. Mix to combine, then season to taste with salt."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle everything in the tray with honey. Nestle your sourdough bread cubes into the tray, then bake for another 12 mins."
+    },
+    {
+      "heading": null,
+      "description": "Spoon your salsa over the top, then plate up and serve!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-16T11:04:00+01:00"
+}

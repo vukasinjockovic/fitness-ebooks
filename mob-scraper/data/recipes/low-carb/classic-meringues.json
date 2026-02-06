@@ -1,0 +1,93 @@
+{
+  "id": "6520927",
+  "slug": "classic-meringues",
+  "title": "Classic Meringues",
+  "url": "https://www.mob.co.uk/recipes/classic-meringues",
+  "summary": "Here is a simple meringue recipe which you can use and adapt to make different shapes and flavours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Classic-Meringues.jpg",
+  "cook_time": 120,
+  "prep_time": 15,
+  "total_time": 135,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 110,
+    "protein": 2,
+    "fat": null,
+    "saturated_fat": null,
+    "carbohydrates": 28,
+    "dietary_fibre": null,
+    "sugars": 28,
+    "sodium": 30
+  },
+  "ingredients": [
+    {
+      "label": "6 room temperature egg whites",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/6 Lemon",
+      "quantity": ".16",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g caster sugar",
+      "quantity": "280",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 120ºC fan. Line a baking tray with baking parchment. Make sure your egg whites are at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, use an electric whisk to whip the egg whites with the juice of the lemon for about 5 mins until thick and glossy with soft peaks starting to form. Slowly beat in the sugar, 2 tablespoons at a time, and continue until you have stiff peaks form (when you hold the whisk up, the mixture should stand in a firm peak)."
+    },
+    {
+      "heading": null,
+      "description": "Use a metal spoon to spoon out big fist-sized, roughly rounded dollops of the beaten whites onto your prepared baking tray and bake for 1 hour or until set. Turn off the oven and leave the meringues inside to dry for another hour, with the oven door closed."
+    },
+    {
+      "heading": null,
+      "description": "Once cooled, serve or store in an airtight container until ready to serve (they’ll keep for up to two weeks)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T11:29:00+01:00"
+}

@@ -1,0 +1,340 @@
+{
+  "id": "5784871",
+  "slug": "coconut-chicken-curry-homemade-naan",
+  "title": "Coconut Chicken Curry & Homemade Naan",
+  "url": "https://www.mob.co.uk/recipes/coconut-chicken-curry-homemade-naan",
+  "summary": "This creamy coconut chicken curry is a fuss-free one-pan dish. Baking your naan while the pan is simmering is the trick to perfecting this evening meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/849A9146-1.png",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 522,
+    "protein": 23,
+    "fat": 32,
+    "saturated_fat": 16,
+    "carbohydrates": 33,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 355
+  },
+  "ingredients": [
+    {
+      "label": "2-3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Thighs, skin on",
+      "quantity": "500",
+      "unit": null,
+      "name": "Bone-In Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Thighs, skin on",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mixed Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Minced Fresh Ginger",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Coconut Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Green Beans",
+      "quantity": "100",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1½ Tsp Mixed Curry Powder",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprinkle Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "200g Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Plain Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Plain Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Plain Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.5 Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tsp minced garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Cashew Nuts",
+      "quantity": "25",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Red Chillies",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mince the garlic and ginger and then dice the onion. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Dice the chicken thighs into small pieces, transfer to a bowl and season with the curry powder and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Set a large frying pan over a medium-high heat, add a splash of oil and the chicken pieces, then sear the chicken for 5 mins. Remove to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic, ginger and onions to the same pan, add a little more oil and a splash of water, then fry over a medium-high heat for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add all the seasonings to the pan and cook for 2 mins. Throw in the chicken, coconut cream and green beans, then simmer for 5-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "To serve, top the curry with coriander, cashew nuts and sliced red chillies, if you like. Serve on a bed of rice."
+    },
+    {
+      "heading": null,
+      "description": "Mix the flour, yoghurt, sugar, and salt in a bowl until a dough is formed. Add a little more flour if the dough is too wet, or a little splash of water if too dry."
+    },
+    {
+      "heading": null,
+      "description": "On a surface, knead the dough for 5 mins on a flat surface and allow to rest for another 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Split the dough into 4 portions."
+    },
+    {
+      "heading": null,
+      "description": "Using extra flour and a rolling pin, roll out flatbreads into an oval shape with roughly 1 cm thickness."
+    },
+    {
+      "heading": null,
+      "description": "Optionally - melt butter, minced garlic and a pinch of coriander in a hot pan."
+    },
+    {
+      "heading": null,
+      "description": "On a non-stick pan at high heat, add the naan and cook for 1-2 mins. A bubble should form at the top of the surface, and once formed, flip the naan and cook for another 2 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Generously coat the naan in the garlic butter mix and take off the pan."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Family-Friendly",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nishat Tahsin",
+      "uri": "chefs/nishat-cooks",
+      "summary": "Nishat is a passionate home cook and Biochemistry PhD student based in London. Combining her love for cooking and University life, Nishat uses her social platforms to share south-asian recipes and promote cost-effective student meals."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-09T14:44:00+01:00"
+}

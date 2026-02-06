@@ -1,0 +1,195 @@
+{
+  "id": "4547045",
+  "slug": "dark-chocolate-chunk-cookies",
+  "title": "Dark Chocolate Chunk Cookies",
+  "url": "https://www.mob.co.uk/recipes/dark-chocolate-chunk-cookies",
+  "summary": "Everyone needs a classic chocolate chip cookie recipe. We like them slightly crispy on the outside with a soft, chewy centre. Good chocolate makes a difference.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Dark-Chocolate-Chunk-Cookies.jpg",
+  "cook_time": 15,
+  "prep_time": 30,
+  "total_time": 45,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 23,
+    "dietary_fibre": 2,
+    "sugars": 13,
+    "sodium": 27
+  },
+  "ingredients": [
+    {
+      "label": "110g Unsalted Butter, Softened",
+      "quantity": "110",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Dark Muscovado Sugar",
+      "quantity": "120",
+      "unit": null,
+      "name": "Dark Muscovado Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Granulated Sugar",
+      "quantity": "80",
+      "unit": null,
+      "name": "Granulated Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2g Sea Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Whole Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g All-Purpose Flour",
+      "quantity": "225",
+      "unit": null,
+      "name": "All Purpose Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Cornstarch",
+      "quantity": "5",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Bicarbonate of Soda",
+      "quantity": "5",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2g Baking Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Chopped Dark Chocolate, Plus More For Topping",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Chopped Dark Chocolate, Plus More For Topping",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In the bowl of a stand mixer fitted with the paddle attachment, combine the butter, dark muscovado sugar, granulated sugar, and salt. Beat on medium-high speed until the mixture is light and fluffy, about 3 mins, pausing to scrape down the sides as needed."
+    },
+    {
+      "heading": null,
+      "description": "Add the egg and beat until it has been fully incorporated, scraping down the sides to make sure all the butter is also incorporated."
+    },
+    {
+      "heading": null,
+      "description": "In a medium bowl, whisk together the all-purpose flour, cornstarch, baking soda, and baking powder."
+    },
+    {
+      "heading": null,
+      "description": "Place a sieve over the stand mixer bowl and sift the dry ingredients into the wet ingredients. Mix on low speed just until the flour has been incorporated."
+    },
+    {
+      "heading": null,
+      "description": "Add the chopped dark chocolate and mix again to incorporate."
+    },
+    {
+      "heading": null,
+      "description": "Roll the dough into 65g balls in your hand and place them on a baking tray. Cover with cling film and refrigerate for 2 hours."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 170°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Working in batches, place 6 dough balls on a baking tray lined with parchment paper. Press a few more bits of chopped dark chocolate into the top of the balls."
+    },
+    {
+      "heading": null,
+      "description": "Place the tray in the oven and bake for 12 to 14 mins or until lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tray from the oven and while still hot, take a cookie cutter slightly larger than the baked cookie and quickly rotate it around the cookie. This neatens up the edges and gives you a perfectly round cookie."
+    },
+    {
+      "heading": null,
+      "description": "Allow the cookies to cool on the tray for 5 mins before transferring them to a cooling rack to completely cool."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Matt Adlard",
+      "uri": "chefs/matt-adlard",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-10-31T14:22:00+00:00"
+}

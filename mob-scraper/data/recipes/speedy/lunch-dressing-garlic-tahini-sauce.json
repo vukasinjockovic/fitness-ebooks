@@ -1,0 +1,124 @@
+{
+  "id": "7064819",
+  "slug": "lunch-dressing-garlic-tahini-sauce",
+  "title": "Garlic Tahini Sauce",
+  "url": "https://www.mob.co.uk/recipes/lunch-dressing-garlic-tahini-sauce",
+  "summary": "This garlicky tahini sauce is incredibly addictive. You can drizzle this on just about anything.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Garlic-Tahini-Sauce-Recipe.jpg",
+  "cook_time": 3,
+  "prep_time": 2,
+  "total_time": 5,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 224,
+    "protein": 6,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 7,
+    "dietary_fibre": 3,
+    "sugars": 1,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "7 Garlic Cloves",
+      "quantity": "7",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7 Garlic Cloves",
+      "quantity": "7",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Tahini",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cold Water",
+      "quantity": null,
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the garlic cloves (skins included) into a blender with the juice of the lemons and the ground cumin. Blend together until a purée is formed. Place a fine mesh strainer over a bowl and transfer the purée into it. Squeeze as much juice out of the purée as possible, then discard the solids."
+    },
+    {
+      "heading": null,
+      "description": "Stir the tahini into the lemon juice mixture – the tahini will seize and go grainy, stir in 1 tbsp of cold water at a time until a smooth sauce forms, it should be as thick as yoghurt. Taste and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the tahini sauce into a clean airtight container and store in the fridge for 1 week."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-12T00:00:00+00:00"
+}

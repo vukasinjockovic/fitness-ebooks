@@ -1,0 +1,335 @@
+{
+  "id": "6453779",
+  "slug": "cheesy-lentils-fridge-raid-greens",
+  "title": "Cheesy Lentils & Fridge-raid Greens",
+  "url": "https://www.mob.co.uk/recipes/cheesy-lentils-fridge-raid-greens",
+  "summary": "A cosy, comforting vegan dinner using the leftover greens in your fridge. It's packed with plant-based protein too.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A0380-1_2024-09-12-181341_cyya.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 26,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 32,
+    "dietary_fibre": 8,
+    "sugars": 5,
+    "sodium": 857
+  },
+  "ingredients": [
+    {
+      "label": "200g Tempeh",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tempeh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Tamari",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Tamari",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Leeks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dried Green Lentils",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dried Green Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dried Green Lentils",
+      "quantity": "200",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Vegetable Stock",
+      "quantity": "600",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Cashews",
+      "quantity": "35",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Silken Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Silken Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Nutritional Yeast",
+      "quantity": "15",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Sweet White Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Sweet White Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Dijon mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Leftover Greens (eg Broccoli, Kale or Spinach)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Greens (Broccoli, Kale or Spinach)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sourdough",
+      "quantity": null,
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Mixed Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cover the cashews in boiling water and leave to soak for 10 mins then drain and set aside. Slice the leeks in half lengthwise and finely chop into half moons. Mince the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of olive oil in a large sauté pan over a medium heat. Crumble in the tempeh using your hands, add a pinch of salt and fry for 5 mins. Add the tamari and continue to cook on a medium heat until the liquid has been absorbed and the tempeh is looking golden and a little crispy. Remove from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Wipe the pan out, then heat a glug of olive oil over a medium heat. Add the chopped leeks and a pinch of salt and fry for 7-8 mins. Add the garlic and fry for another 2-3 mins more, then add the smoked paprika, cumin and coriander. Continue frying for another minute."
+    },
+    {
+      "heading": null,
+      "description": "Add the lentils and stock and stir. Bring the mixture to a boil then reduce to a simmer, cover with a lid and cook for 20-25 mins until the lentils are soft."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, in a blender, whizz up all the ingredients for the creamy cheesy sauce, including the juice of your lemon. Add a splash of water if needed so it’s a pourable consistency. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop and wash your greens. Heat a dry frying pan over a high heat, add the greens and cook until starting to wilt and turning bright green. Add the oil, crushed garlic, salt and pepper. Fry 3-4 mins more, then turn off the heat and squeeze over the lemon. Set aside until ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "Once the lentils are cooked, add the creamy cheesy sauce to the pan, stir well, and season to taste. Divide into bowls and serve with the fried tempeh and greens on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Low Carb",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Sophie Waplington",
+      "uri": "chefs/sophie-waplington",
+      "summary": "Soph (@sophsplantkitchen) is a personal trainer and plant-based recipe developer, specialising in high-protein, high-fibre, wholefood recipes to help support healthy, active lifestyles. Her mission is to redefine ‘fitness food’ by adding more deliciousness into your diet, instead of taking it away."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-24T12:00:00+01:00"
+}

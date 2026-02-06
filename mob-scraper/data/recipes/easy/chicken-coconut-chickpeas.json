@@ -1,0 +1,201 @@
+{
+  "id": "5675156",
+  "slug": "chicken-coconut-chickpeas",
+  "title": "Chicken & Coconut Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/chicken-coconut-chickpeas",
+  "summary": "A healthy, high-protein recipe that you can make in just half an hour. We got all the ingredients from Deliveroo in just 20 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Chicken-Coconut-Chickpeas.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 792,
+    "protein": 46,
+    "fat": 38,
+    "saturated_fat": 18,
+    "carbohydrates": 66,
+    "dietary_fibre": 13,
+    "sugars": 11,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "½ cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 skinless and boneless chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 skinless and boneless chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 garlic cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 garlic cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Drained Cooked Chickpeas",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml tin coconut milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fish Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": true,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli flakes, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the cucumber on an angle, then add to a bowl with the juice of one of the limes and a pinch of salt. Toss and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle a little olive oil over the chicken and season with salt and pepper. Place a frying pan over a medium-high heat and add the chicken. Cook for 10 mins, turning halfway through, until golden-brown on both sides. While it’s cooking, peel the garlic and ginger and drain the chickpeas. Remove the chicken from the pan and set aside on a plate to rest."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of olive oil to the pan, turn the heat down to medium and grate the garlic and ginger directly into the pan. Add the turmeric, then stir to cook for a minute. Add the chickpeas along with the coconut milk, season with fish sauce and pepper and simmer for 10 mins until thickened. Before serving, taste and season with fish sauce, if needed. Add the juice of half a lime, cutting the other half into two wedges to serve."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken, then spoon the chickpeas into the bowl and top with the sliced chicken and cucumber salad. Scatter with coriander leaves and top with a pinch of chilli flakes. Serve with a lime wedge on the side of each bowl."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Family-Friendly",
+    "High Fibre",
+    "Power Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2024-06-07T09:30:00+01:00"
+}

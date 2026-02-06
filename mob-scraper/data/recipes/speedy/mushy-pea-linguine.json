@@ -1,0 +1,184 @@
+{
+  "id": "14518",
+  "slug": "mushy-pea-linguine",
+  "title": "Mushy Pea Linguine",
+  "url": "https://www.mob.co.uk/recipes/mushy-pea-linguine",
+  "summary": "6 ingredients. 12 minutes. Crispy bacon. Creamy ricotta. Sweet peas. It's a game changer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_0068.jpeg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 12,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 755,
+    "protein": 39,
+    "fat": 27,
+    "saturated_fat": 10,
+    "carbohydrates": 85,
+    "dietary_fibre": 9,
+    "sugars": 10,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Ricotta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "330g Smoked Bacon",
+      "quantity": "330",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Petit Pois",
+      "quantity": "800",
+      "unit": null,
+      "name": "Petit Pois",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Linguine",
+      "quantity": "500",
+      "unit": null,
+      "name": "Linguine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Linguine",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut bacon into small bits and chuck into a pan. Fry until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Get the linguine on."
+    },
+    {
+      "heading": null,
+      "description": "Rest a colander over the pan and add the peas."
+    },
+    {
+      "heading": null,
+      "description": "After 5 minutes, the peas should be ready. Remove from the heat and put in a bowl. Add ricotta, a handful of chopped mint and the juice of a lemon. Season with salt and pepper, a drizzle of olive oil and mash."
+    },
+    {
+      "heading": null,
+      "description": "Take half of the peas and blend with 3 ladles of pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Drain pasta. Pour pasta into the bacon pan. Add the blended mushy peas and the rest of the mushy peas."
+    },
+    {
+      "heading": null,
+      "description": "Dollop ricotta over the top and squeeze over some lemon juice. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2017-11-10T00:00:00+00:00"
+}

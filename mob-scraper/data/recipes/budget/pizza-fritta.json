@@ -1,0 +1,202 @@
+{
+  "id": "4406284",
+  "slug": "pizza-fritta",
+  "title": "Pizza Fritta",
+  "url": "https://www.mob.co.uk/recipes/pizza-fritta",
+  "summary": "This is the most delicious fried dough finished with various toppings. We've used artichokes, burrata and Calabrian chilli but you can choose what you like!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Pizza-Fritta-Recipe.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 401,
+    "protein": 13,
+    "fat": 19,
+    "saturated_fat": 8,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 739
+  },
+  "ingredients": [
+    {
+      "label": "560g 00 Flour",
+      "quantity": "560",
+      "unit": null,
+      "name": "“00” Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "364g Cold Water",
+      "quantity": "364",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Yeast",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Salt",
+      "quantity": "15",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of High-Quality Chopped Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Balls of Burrata",
+      "quantity": "3",
+      "unit": null,
+      "name": "Burrata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Jar of Artichoke Hearts (Approx 530g)",
+      "quantity": "530",
+      "unit": null,
+      "name": "Artichoke Heart",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Jar of Artichoke Hearts (Approx 530g)",
+      "quantity": "530",
+      "unit": null,
+      "name": "Artichoke",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Jar of Calabrian Chilli",
+      "quantity": "310",
+      "unit": null,
+      "name": "Calabrian Chilli Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Basil",
+      "quantity": "20",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Blitz the tomatoes smooth with a stick blender. Pour into a sauce pan and bring to boil, turn down heat and simmer for 5-6 mins, season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Mix water and flour in a bowl, combine till shaggy, leave for 30 mins (this is the autolyse) makes it easier to knead and gives the dough strength."
+    },
+    {
+      "heading": null,
+      "description": "Crumble in yeast and turn out onto a cold surface. Knead to combine yeast. Then add salt and knead to combine until the dough is smooth and elastic."
+    },
+    {
+      "heading": null,
+      "description": "At this point I would leave the dough for anywhere between 24 and 72 hours in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "On the day you using it divide into 8 equal amounts (115g each) and roll into tight balls. Leave to prove again at room temp for 4-6 hours."
+    },
+    {
+      "heading": null,
+      "description": "Pour 1L veg oil into large deep metal pot, heat to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Stretch out the dough balls into pizza shapes (as round as possible) and the correct size for your pan."
+    },
+    {
+      "heading": null,
+      "description": "With two hands gently drop the stretched dough into the oil (drop away from your to avoid getting flicked with hot oil)."
+    },
+    {
+      "heading": null,
+      "description": "Use a metal spoon to adjust the dough if it has folded on top of itself."
+    },
+    {
+      "heading": null,
+      "description": "Fry until golden occasionally turning the dough over so both sides are evenly cooked."
+    },
+    {
+      "heading": null,
+      "description": "Drain on a bit of kitchen roll/blue roll."
+    },
+    {
+      "heading": null,
+      "description": "Top with the tomato sauce, then ⅓ buratta each, then a few pieces of artichoke and some Calabrian chili with its oil, tear up a few basil leaves then a sprinkle of flaky salt and you’re done!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Hannah Drye",
+      "uri": "chefs/hannah-drye",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-16T08:43:00+01:00"
+}

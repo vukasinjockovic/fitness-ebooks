@@ -1,0 +1,166 @@
+{
+  "id": "7121543",
+  "slug": "chewy-apple-oat-almond-bars",
+  "title": "Chewy Apple, Oat & Almond Bars",
+  "url": "https://www.mob.co.uk/recipes/chewy-apple-oat-almond-bars",
+  "summary": "Sweet, sticky spiced oat bars made with almond butter and grated apple. A proper tasty snack or brekkie bite with zero fuss.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Chewy-Apple-Oat-Almond-Bars.jpg",
+  "cook_time": 15,
+  "prep_time": 30,
+  "total_time": 45,
+  "serving_size": 9,
+  "nutrition": {
+    "calories": 168,
+    "protein": 3,
+    "fat": 9,
+    "saturated_fat": 3,
+    "carbohydrates": 18,
+    "dietary_fibre": 3,
+    "sugars": 8,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "180g Oats",
+      "quantity": "180",
+      "unit": null,
+      "name": "Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Almond Flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Almond Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Dried Cranberries",
+      "quantity": "80",
+      "unit": null,
+      "name": "Dried Cranberries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Apples (Grated, Skin On)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Almond Butter",
+      "quantity": "110",
+      "unit": null,
+      "name": "Almond Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Coconut Oil",
+      "quantity": "40",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Date Syrup",
+      "quantity": "40",
+      "unit": null,
+      "name": "Date Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C and line a square 20cm x 20cm baking tin with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Gently melt the coconut oil in a small saucepan or in the microwave, then set aside to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "Grate the apples, leaving the skin on and in a separate bowl, stir together with the almond butter, melted coconut oil and date syrup until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour the wet mix into the dry mix and stir everything together until you’ve got a thick, sticky mixture."
+    },
+    {
+      "heading": null,
+      "description": "Press the mixture firmly into a lined tin, smoothing it out evenly."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 25–30 minutes, or until golden at the edges and firm in the center. Cool completely in the tin before removing from the tin and slicing into bars. Wrap in baking paper and chill or freeze until needed (these last for a week in the fridge and 3 months in the freezer)."
+    }
+  ],
+  "tips": [
+    "You will need a 20cm x 20cm baking tin.",
+    "These are naturally sweet, but if you're after more of a treat, drizzle with dark chocolate once cooled.",
+    "Make sure you wrap them in baking paper to stop sticking."
+  ],
+  "categories": [],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Rachel Pamart",
+      "uri": "chefs/rachel-pamart",
+      "summary": "Rachel is the founder of Rawlala, a cold-pressed juicery based in East London. She came to clean, holistic eating by tuning into what made her feel most alive and now she channels that into expert, ingredient-led recipes designed to nourish, energise, and taste damn good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-01T13:52:00+00:00"
+}

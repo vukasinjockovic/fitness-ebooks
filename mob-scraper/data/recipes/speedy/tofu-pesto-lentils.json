@@ -1,0 +1,169 @@
+{
+  "id": "4335489",
+  "slug": "tofu-pesto-lentils",
+  "title": "Tofu With Blistered Tomato & Pesto Lentils",
+  "url": "https://www.mob.co.uk/recipes/tofu-pesto-lentils",
+  "summary": "A tomato and pesto situation teamed with oh-so perfect, golden tofu slices. The perfect 6-ingredient recipe, great for a low lift weeknight dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Tofu-With-Blistered-Tomato-Pesto-Lentils.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 32,
+    "fat": 41,
+    "saturated_fat": 7,
+    "carbohydrates": 32,
+    "dietary_fibre": 10,
+    "sugars": 7,
+    "sodium": 635
+  },
+  "ingredients": [
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250 Packs of Cooked Puy Lentils",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Puy Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250 Packs of Cooked Puy Lentils",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Pesto",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 300g Firm Tofu",
+      "quantity": "600",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 300g Firm Tofu",
+      "quantity": "600",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the whole cherry tomatoes into a saucepan on medium-high heat with 2 tbsp of olive oil. Cook until starting to char, 5-7 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel and thinly slice the onion. Add them to the tomatoes and cook until softened, 4-6 mins. Once the onions have softened, stir through the spinach until wilted. Then add the lentils and ¾ of the pesto. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Slice the tofu into 8 slices and pat dry, season with salt and pepper on both sides. Place another large frying pan onto medium-high heat with 5 tbsps of oil. Once hot, add the tofu and fry on both sides until golden, 4-6 mins."
+    },
+    {
+      "heading": null,
+      "description": "Mix the remaining pesto with 20ml of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Share the lentils between your bowls, top with tofu and a drizzle of pesto."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-01T13:27:00+01:00"
+}

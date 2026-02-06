@@ -1,0 +1,274 @@
+{
+  "id": "1782",
+  "slug": "spicy-lentil-stew",
+  "title": "Spicy Lentil Stew",
+  "url": "https://www.mob.co.uk/recipes/spicy-lentil-stew",
+  "summary": "Spicy lentils and charred, roasted cauliflower. An incredible pairing. Topped with a herby, cooling yoghurt sauce. One of the great veggie dishes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A9504.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 10,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 30,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 527
+  },
+  "ingredients": [
+    {
+      "label": "1 Cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Half a Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Coconut Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Coconut Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Lentils (In Water)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Litre Vegetable Stock",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cherry Tomatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cherry Tomatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spinach",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Cut your cauliflower florets in half and place on a baking tray. Drizzle olive oil over the cauliflower and season with all of the turmeric, 1 Tbsp of your paprika, 1 Tbsp of cumin, ½ Tbsp of chilli flakes, a pinch of salt and a good crack of black pepper. Mix the cauliflower to coat in the seasoning and whack in the oven for 20 minutes or until crispy and golden."
+    },
+    {
+      "heading": null,
+      "description": "Add a large handful of coriander to a food processor, leaving a few sprigs for garnish. Add one clove of garlic and the juice of half a lemon to the blender with 2 tbsp of olive oil and a pinch of salt. Blitz until the coriander is finely chopped."
+    },
+    {
+      "heading": null,
+      "description": "Add the yoghurt to a bowl and pour in the coriander oil. Mix to combine and season to taste. Place the coriander yoghurt in the fridge until serving."
+    },
+    {
+      "heading": null,
+      "description": "Time for that spicy stew. Finely dice your onion and carrot. Heat a drizzle of olive oil in a large saucepan on medium heat and add the onion and carrot. Cook for 3 minutes, stirring often."
+    },
+    {
+      "heading": null,
+      "description": "Mince the remaining cloves of garlic and add them to the pan with the rest of the chilli flakes, a pinch of salt and a few grinds of pepper. Give it a stir before adding the remaining cumin and paprika. Coat the veg in the spices, add the tomato purée and lentils and give it all a mix. Pour the stock into the pan and leave to simmer for 20 minutes, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Once the stew has cooked down, quarter your tomatoes and add them to the pan along with your spinach. Stir the spinach into the stew and leave to rest for 5 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Serve the spicy lentil stew with a drizzle of coriander yoghurt and your crispy cauliflower. Chop the rest of the fresh coriander and sprinkle it over the stew with a crack of black pepper. Dig in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "Batch",
+    "Freezer Friendly",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-11-18T00:00:00+00:00"
+}

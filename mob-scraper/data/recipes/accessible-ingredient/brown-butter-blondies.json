@@ -1,0 +1,142 @@
+{
+  "id": "1111901",
+  "slug": "brown-butter-blondies",
+  "title": "Brown Butter Blondies",
+  "url": "https://www.mob.co.uk/recipes/brown-butter-blondies",
+  "summary": "These blondies are squidgy, gooey and nutty in flavour. Add whatever mix-ins you like, be it white chocolate, nuts, raspberries or a combination of them all.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A1342.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 6,
+    "fat": 34,
+    "saturated_fat": 21,
+    "carbohydrates": 76,
+    "dietary_fibre": 1,
+    "sugars": 54,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "250g Butter",
+      "quantity": "250",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Mix-Ins (we love raspberries, pecans, white chocolate)",
+      "quantity": "150",
+      "unit": null,
+      "name": "White Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Mix-Ins (we love raspberries, pecans, white chocolate)",
+      "quantity": "150",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Soft Light Brown Sugar",
+      "quantity": "300",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Vanilla Extract",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Milk",
+      "quantity": "50",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Self-Raising Flour",
+      "quantity": "175",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 160°C/140°C Fan. Grease a 20cm brownie tin or small roasting tin with the butter foil then line the base with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Get a large saucepan over a low to medium heat. Dump in the block of butter and let it melt. Once the butter has completely melted start whisking. Within a couple of minutes the butter will have changed from pale yellow to a nutty brown and you will be able to smell it. As soon as it smells nutty take the pan off the heat and leave to cool for 5 minutes. Brown butter done."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop any mix-ins you’re using then come back to your butter."
+    },
+    {
+      "heading": null,
+      "description": "Whisk in the brown sugar until smooth then crack in the eggs, add the vanilla extract, milk and a big pinch of salt. Whisk to combine then add your flour, whisk again. Finally stir through 3/4 of your mix-ins."
+    },
+    {
+      "heading": null,
+      "description": "Pour the blondie batter into your tin then drop in the remaining mix-ins. Bake in the centre of your oven for 35-40 minutes until the outside is cooked but the centre still has a good wobble - this blondie is so buttery and gooey that the centre will deflate a little once cool. That’s the best bit."
+    },
+    {
+      "heading": null,
+      "description": "Leave to cool completely in the tin then cut into squares. Will keep for up to 5 days in a container out of the fridge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-12-01T14:42:00+00:00"
+}

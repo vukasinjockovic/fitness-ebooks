@@ -1,0 +1,284 @@
+{
+  "id": "7728469",
+  "slug": "salmon-fishcakes-with-grains-slaw",
+  "title": "Salmon Fishcakes with Grains & Slaw",
+  "url": "https://www.mob.co.uk/recipes/salmon-fishcakes-with-grains-slaw",
+  "summary": "Crispy salmon fishcakes served with a limey yoghurt slaw and hearty grains. A fresh, feel-good dinner that’s speedy, satisfying and kid-approved.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Salmon-Fishcakes-with-Grains-Slaw.jpg",
+  "cook_time": 6,
+  "prep_time": 25,
+  "total_time": 31,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 601,
+    "protein": 38,
+    "fat": 28,
+    "saturated_fat": 5,
+    "carbohydrates": 48,
+    "dietary_fibre": 7,
+    "sugars": 9,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "3 Skinless, Boneless Salmon Fillets",
+      "quantity": "480",
+      "unit": null,
+      "name": "Skinless Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Skinless, Boneless Salmon Fillets",
+      "quantity": "480",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cooked Mixed Grains or Rice",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cooked Mixed Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sweetheart Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sweetheart Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sweetheart Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Red Onion",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Red Onion",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Dill",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Greek Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Greek Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "325g Cooked Mixed Grains",
+      "quantity": "325",
+      "unit": null,
+      "name": "Cooked Mixed Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ketchup, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Ketchup",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crunchy Chilli sauce, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids ServingsRoughly chop the salmon. Add half to a food processor and pulse to a coarse paste. Dice the rest into small chunks. Finely chop a quarter of the red onion and stir through the salmon along with a third of the grains. Season with salt and pepper, then shape into patties. Chill for 10 mins to firm up."
+    },
+    {
+      "heading": null,
+      "description": "Finely grate the zest of the lime into a large bowl, then squeeze in most of the juice. Add the yoghurt, honey and half of the olive oil. Season well and whisk to combine — this is your slaw dressing."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred the cabbage and thinly slice the remaining three-quarters of the red onion. Toss half of the onion and all of the cabbage into dressing. Use your hands to scrunch everything together until slightly softened. Taste and season again. Portion out a kid’s serving, then finely chop most of the dill (reserving a few fronds for garnish) and mix into the slaw for the adults."
+    },
+    {
+      "heading": null,
+      "description": "Toss the remaining half of the onion with the remaining lime juice and a pinch of salt, then scrunch it to soften — this is your quick pickle for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Heat olive oil in a frying pan set over a medium heat. Fry the fishcakes for about 3 mins on each side until golden and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Warm the remaining grains for serving."
+    },
+    {
+      "heading": null,
+      "description": "Serve up!Kids Plate: Dish up the grains and slaw, top with a fishcake and serve with a dollop of ketchup.Parents Plate: Spoon the grains and slaw onto each plate. Top with a fishcake and finish with a few dill fronds and quick pickled onions and a drizzle with chilli sauce, if you fancy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Anna Helm Baxter",
+      "uri": "chefs/anna-baxter",
+      "summary": "Anna Helm Baxter is a cookbook author, food stylist, and food producer at Mob. Having spent most of her life in the US, she loves potlucks, tailgates, and a good Thanksgiving spread. As a working mum of three, she gets the dinner struggle, which is why she’s all about recipes that are joyful, healthy, and totally doable. And if all else fails she always has cookies stashed in the freezer."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-26T18:30:00+01:00"
+}

@@ -1,0 +1,358 @@
+{
+  "id": "5457458",
+  "slug": "thai-basil-chicken-stir-fry",
+  "title": "Thai Basil Chicken Stir-Fry",
+  "url": "https://www.mob.co.uk/recipes/thai-basil-chicken-stir-fry",
+  "summary": "An easy chicken stir fry recipe inspired by pad krapow gai. It's spicy, speedy, and a friendly introduction to Thai cooking.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Thai-Basil-Chicken-Stir-Fry.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 437,
+    "protein": 48,
+    "fat": 13,
+    "saturated_fat": 3,
+    "carbohydrates": 29,
+    "dietary_fibre": 4,
+    "sugars": 13,
+    "sodium": 2227
+  },
+  "ingredients": [
+    {
+      "label": "½ Red Bell Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large or Bird’s-Eye Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Bird's Eye Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Green Beans",
+      "quantity": "100",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Thai Basil",
+      "quantity": "60",
+      "unit": null,
+      "name": "Thai Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Jasmine Rice, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Jasmine Rice, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Chilli",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tbsp Soy Sauce",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tbsp Golden Mountain Seasoning",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Golden Mountain Seasoning Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tbsp Dark Soy Sauce",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar,",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lime Wedges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make sure your rice is ready before you start."
+    },
+    {
+      "heading": null,
+      "description": "For the prep: Slice the red pepper, onion, chilli and garlic into thin strips. Chop the green beans into 2cm chunks. Pick the thai basil leaves, discarding the stems. Set everything aside. Slice the chicken breast into 1 inch-thick slices, then cut each slice in half. Add to a small bowl with ¼ tsp salt and 1 tsp fish sauce, mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the Thai dressing: Finely slice the chilli and garlic and combine with the remaining dressing ingredients in a small bowl. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the sauce ingredients into a small bowl. Set aside. Fry the eggs to your liking, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Place a large frying pan over high heat with 2tbsp of neutral oil. Once hot, sear the chicken with a pinch of salt on both sides until golden, you don’t need to cook it through at this stage. Once golden, return it back into its bowl (It will be fully cooked later on – this stage is just for flavour and colour.)"
+    },
+    {
+      "heading": null,
+      "description": "Add another drizzle of oil into the empty pan. Once hot, add the chilli, red pepper and onion, cook, stirring until starting to char, 2-3 mins. Now, add the garlic and toss well to coat in the oil, cook until fragrant. Add the green beans with 2 tbsp water and cook for 1 min."
+    },
+    {
+      "heading": null,
+      "description": "Pour the chicken and all its juices into the pan with the stir-fry sauce and continuously stir-fry until starting to thicken, then remove from the heat. Roughly tear the Thai basil leaves then mix into the pan until wilted. Season with lots of fresh black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Share the rice between bowls, top with the stir-fry, fried eggs, lime wedges and drizzle over the dressing."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-25T05:00:00+01:00"
+}

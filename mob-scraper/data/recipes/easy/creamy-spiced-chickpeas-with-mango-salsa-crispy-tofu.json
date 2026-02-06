@@ -1,0 +1,432 @@
+{
+  "id": "6114572",
+  "slug": "creamy-spiced-chickpeas-with-mango-salsa-crispy-tofu",
+  "title": "Creamy Spiced Chickpeas with Mango Salsa & Crispy Tofu",
+  "url": "https://www.mob.co.uk/recipes/creamy-spiced-chickpeas-with-mango-salsa-crispy-tofu",
+  "summary": "Chickpeas were the first legume I ever cooked with. They’re easy, versatile and cheap, while high in protein, fibre and complex carbs. This simple creamy sauce has just the right amount of spice for a quick weeknight meal, paired with the mango salsa for freshness and crispy tofu for extra protein and crunch. It’s the perfect harmony of delicious meets practical and healthy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Creamy-Spiced-Chickpeas-with-Mango-Salsa-Crispy-Tofu.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 463,
+    "protein": 23,
+    "fat": 18,
+    "saturated_fat": 2,
+    "carbohydrates": 49,
+    "dietary_fibre": 10,
+    "sugars": 13,
+    "sodium": 523
+  },
+  "ingredients": [
+    {
+      "label": "1 Medium White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garam Masala",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground Cinnamon",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground Cardamom",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Cardamom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½-1 Tsp Mild Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Cooked Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Silken Tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Silken Tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Heaped Tbsp Nutritional Yeast",
+      "quantity": "4",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Cashews",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Mango",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Bell Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chopped Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chopped Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Extra-Firm Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Extra-Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Extra-Firm Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tamari or Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tamari",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Grated Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Warm Flatbreads",
+      "quantity": null,
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Nigella Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Nigella Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Soy Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Unsweetened Soya Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start with the mango salsa, so the flavours can mingle while you prep the rest. Finely chop the red onion, mango flesh, chilli, red pepper and coriander leaves, then add to a mixing bowl with the juice of a lime and pinch of salt. Season to taste, adding a little more lime for zingyness or more salt for strength of flavour."
+    },
+    {
+      "heading": null,
+      "description": "For the chickpeas, finely dice the onion, peel and crush the garlic, then peel and finely chop or grate the fresh ginger. Measure out all your spices, so they’re ready to go. If your chickpeas are not organic, drain and rinse them."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of olive oil to a large, wide-sided sauté pan. When a piece of onion sizzles on contact, tip the rest in and fry over a low-medium heat with a pinch of sea salt for 8 mins. Add the garlic and ginger, then fry for 3-4 mins until the raw aroma subsides. Add a little more olive oil, then tip all the spices in and stir to gently cover the aromatics in them. Everything should be smelling fantastic at this point."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomato purée, mix well, then add all the chickpeas and their water (or the additional 100ml water if you drained and rinsed the chickpeas). Season to taste (some chickpea water is already quite salty, so do bear that in mind)."
+    },
+    {
+      "heading": null,
+      "description": "Add the silken tofu, nutritional yeast, cashews, a couple of spoons of the chickpea mix and the lemon juice to a blender. Blend together and season to taste. I usually add another pinch of salt. Pour this into the chickpeas and stir to combine. Take it off the heat and leave to stand while you prep the firm tofu."
+    },
+    {
+      "heading": null,
+      "description": "Take the tofu out of the pack and give it a good squeeze, wrapped in a piece of kitchen paper. Crumble it into a medium mixing bowl with your hands, so it resembles chunky breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of olive oil in a non-stick pan, then fry the tofu for 6-8 mins, stirring regularly, until it goes a medium shade of light-ish yellow. Add the tamari, fry until it turns deep brown (this may take up to 10 mins) then pour a little more olive oil in the pan and add the garlic and ginger. Fry until everything is well coated and the raw aroma of the garlic and ginger has subsided."
+    },
+    {
+      "heading": null,
+      "description": "Heat the chickpeas through gently, season to taste, then plate up chickpeas first, then tofu crumble, then soy yoghurt, salsa, fresh coriander and nigella seeds (if you have them). Eat with a warm flatbread or sourdough toast."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Waplington",
+      "uri": "chefs/sophie-waplington",
+      "summary": "Soph (@sophsplantkitchen) is a personal trainer and plant-based recipe developer, specialising in high-protein, high-fibre, wholefood recipes to help support healthy, active lifestyles. Her mission is to redefine ‘fitness food’ by adding more deliciousness into your diet, instead of taking it away."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-27T12:17:00+01:00"
+}

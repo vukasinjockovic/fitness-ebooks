@@ -1,0 +1,254 @@
+{
+  "id": "6435948",
+  "slug": "honey-bbq-cheesy-beef-sliders",
+  "title": "Honey BBQ Cheesy Beef Sliders",
+  "url": "https://www.mob.co.uk/recipes/honey-bbq-cheesy-beef-sliders",
+  "summary": "Sweet, sticky, and oh-so satisfying. These high-protein beef sliders are an excellent high-protein dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A0532-1.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 483,
+    "protein": 27,
+    "fat": 22,
+    "saturated_fat": 9,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 8,
+    "sodium": 522
+  },
+  "ingredients": [
+    {
+      "label": "4 Brioche Buns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp BBQ Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Barbecue Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Grated Mozzarella",
+      "quantity": "50",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Grated Mozzarella",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar Cheese",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Cheddar Cheese",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Butter⁣",
+      "quantity": "10",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Sesame Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Balsamic Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g 5% Fat Beef Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "5% Fat Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Passata",
+      "quantity": "80",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp BBQ Seasoning",
+      "quantity": "1",
+      "unit": null,
+      "name": "BBQ Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tbsp Worcester Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "For the seasoned beef, slice the onions lengthways. Heat a glug of olive oil in a large frying pan set over a medium heat, and cook the onions with the balsamic vinegar until softened. Add the beef to the pan and cook until browned and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Add the BBQ seasoning, passata, tomato purée, Worcestershire sauce and honey to the pan with the beef. Season with salt and pepper and mix together. Leave to simmer for a couple of minutes."
+    },
+    {
+      "heading": null,
+      "description": "Halve the burger buns and lay out the bottoms in a large baking dish. Drizzle over the BBQ sauce, followed by the seasoned beef and grated mozzarella and cheddar cheese."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, melt the butter and mince the garlic and parsley then combine in a ramekin. Add the tops of the buns to the filled bottoms, then brush over the garlic and herb mix. Sprinkle over the sesame seeds."
+    },
+    {
+      "heading": null,
+      "description": "Loosely cover the dish with foil and bake in the oven for 10 mins, removing the foil halfway through."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-02T02:30:00+01:00"
+}

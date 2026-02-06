@@ -1,0 +1,290 @@
+{
+  "id": "5826835",
+  "slug": "meatballs-aglio-e-olio-recipe",
+  "title": "Meatballs Aglio e Olio",
+  "url": "https://www.mob.co.uk/recipes/meatballs-aglio-e-olio-recipe",
+  "summary": "Juicy homemade meatballs served on a bed of creamy, cheesy polenta. This hearty recipe is perfect for any occasion.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Meatballs-Aglio-e-Olio-Recipe.jpg",
+  "cook_time": 30,
+  "prep_time": 90,
+  "total_time": 120,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 33,
+    "fat": 29,
+    "saturated_fat": 11,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Fresh Breadcrumbs",
+      "quantity": "75",
+      "unit": null,
+      "name": "Fresh Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Milk",
+      "quantity": "75",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Water",
+      "quantity": "75",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Instant Polenta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Instant Polenta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Salted Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the beef mince and salt to a bowl. Scrunch with your hands then set aside for 10 mins. Put the breadcrumbs and milk in another bowl, then allow to soak for 10 mins until the bread is completely soggy and breaks apart easily."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely grate the garlic, beat the egg and chop the parsley.  Grate the Parmesan, and then set it aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the soaked bread, one-quarter of the garlic, beaten egg, oregano and fennel seeds to the meat bowl, then scrunch everything together with your hands until it's all evenly combined. Divide into 16 balls and place on a tray or plate. Chill in the fridge for 1 hr to firm up (this helps when frying them off later)."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of oil in a large frying pan. Once hot, fry the meatballs (in batches, if necessary), browning them on all sides for around 5 minutes until evenly golden. Set aside on a plate."
+    },
+    {
+      "heading": null,
+      "description": "Add the cherry tomatoes to the pan and fry in the fat from the meatballs for 6-8 mins until they start to blister and soften a bit. Add the remaining garlic, capers and chilli flakes and cook for 2 mins before returning the meatballs to the pan."
+    },
+    {
+      "heading": null,
+      "description": "Pour the water (or an equal amount of white wine, if you have some spare) to the pan then cover with a lid (I grab whatever will cover the pan, which sometimes means a big baking tray or heatproof bowl) and steam for 5-8 mins until cooked through. Turn off the heat, add the parsley and squeeze in the lemon juice, give it a good toss then allow to rest in the pan for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the polenta following pack instructions, then when ready, turn off the heat and add the Parmesan, butter and seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the polenta onto plates, then top with the meatballs and sauce."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Kitty Coles",
+      "uri": "chefs/kitty-coles",
+      "summary": "Kitty is a supremely talented cook and recipe writer. You can find her recipes here as well as in publications like the Irish Times, Gloss Magazine, and The Guardian. She divides her time between London, Dublin and Mallorca (where her parents live and dad grew up) and her food showcases seasonal ingredients with a splash of Mediterranean style. Kitty is a no-fuss, simple cook, who uses everyday ingredients to make delicious and easy recipes. You can find plenty more of Kitty's recipes in her cookbook: 'Make More With Less: Foolproof Recipes to Make Your Food Go Further'."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-05T09:26:00+01:00"
+}

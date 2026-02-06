@@ -1,0 +1,272 @@
+{
+  "id": "5207243",
+  "slug": "bruce-bogtrotter-cake",
+  "title": "Bruce Bogtrotter Cake",
+  "url": "https://www.mob.co.uk/recipes/bruce-bogtrotter-cake",
+  "summary": "This might be the chocolate cake to end all chocolate cakes. Think Bruce Bogtrotter on steroids. Tuck in. Imagine sinking your fork into layers of rich, chocolaty sponges, baked to perfection with cocoa and unsalted butter, creating a fudge-like texture that's every chocoholic’s dream. A touch of bicarb soda keeps the cake airy, while a generous coating of cream and chocolate icing ensures each bite melts in your mouth. The crust adds a satisfying contrast to the moist interior, and for a twist, serve with a side of custard or a fruit mocktail.\n\nPerfect for any home cook, this cake is a showstopper at gatherings, outshining even the most festive Christmas cake or decadent baked Alaska. Whether you’re a fan of street food or fine restaurant cuisines, this baked masterpiece will have you coming back for more, making it the ultimate chocolaty indulgence.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Bruce-Bogtrotter-Cake.jpg",
+  "cook_time": 50,
+  "prep_time": 60,
+  "total_time": 110,
+  "serving_size": 24,
+  "nutrition": {
+    "calories": 527,
+    "protein": 5,
+    "fat": 36,
+    "saturated_fat": 21,
+    "carbohydrates": 45,
+    "dietary_fibre": 4,
+    "sugars": 32,
+    "sodium": 73
+  },
+  "ingredients": [
+    {
+      "label": "800g Dark Chocolate",
+      "quantity": "800",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Dark Chocolate",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2L Double Cream",
+      "quantity": "1.2",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Golden Caster Sugar",
+      "quantity": "8",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Self-Raising Flour",
+      "quantity": "280",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Bicarbonate of Soda",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Dark Muscovado Sugar",
+      "quantity": "350",
+      "unit": null,
+      "name": "Dark Muscovado Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Golden Caster Sugar",
+      "quantity": "375",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "95g Cocoa Powder",
+      "quantity": "95",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Large Eggs",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Vanilla Extract",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Soured Cream",
+      "quantity": "375",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Dark Chocolate",
+      "quantity": "375",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Dark Chocolate",
+      "quantity": "375",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Butter",
+      "quantity": "375",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Instant Coffee Granules",
+      "quantity": "2",
+      "unit": null,
+      "name": "Instant Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "215ml Boiling Water",
+      "quantity": "215",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Double Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Golden Caster Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the ganache, finely chop the dark chocolate and transfer to a large bowl. Put the cream and sugar in a saucepan and gently heat until almost simmering and the sugar has dissolved – don’t let it boil! Remove from the heat and cool for a couple of minutes, then pour the mixture over the chocolate. Let it stand for 3-4 mins before mixing gently from the centre with a spatula. Gradually move the spatula outwards to incorporate the chocolate. Pour the ganache into two deep baking trays, cover with cling film and refrigerate overnight."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Lightly butter and line 3 x 20cm loose-bottomed cake tins. Tip the flour, bicarbonate of soda, both sugars, a pinch of salt and the cocoa powder into a large mixing bowl. If there are any hard lumps of sugar, break them up using your fingers."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the eggs, vanilla extract and soured cream together in another large bowl. Set aside. Finely chop the chocolate and dice the butter, then add both to a saucepan and melt over a medium heat, stirring continuously, until totally combined. Set aside. Put the coffee granules into a jug and top up with the boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Pour the soured cream mix into the dry ingredients along with the coffee and melted chocolate. Fold together using a large metal spoon until combined – do not over-mix. Divide half of the mixture between the lined cake tins and pop into the oven for 15 mins. You can check if they’re cooked by poking each cake through the centre with a skewer – if it comes out clean, the cake is ready! If not, return the cakes to the oven for a couple of minutes."
+    },
+    {
+      "heading": null,
+      "description": "Set the cooked cakes aside to cool, then turn them out onto a cooling rack. Clean the cake tins and repeat the process with the remaining cake mixture. Once the last three cakes are out of the oven and cool, you can remove the baking paper."
+    },
+    {
+      "heading": null,
+      "description": "When you are ready to assemble, coat a sponge layer with a 1cm-thick layer of ganache, smoothing out with a spatula, then top with another sponge. Repeat, coating each additional sponge with the same 1cm-thick layer of ganache, until all of the sponges are stacked. Spread the outside of the cake with a thin layer of ganache and let it air-dry for a couple of hours, or preferably overnight – this will help set the cake so you don’t get crumbs in the icing. Cover with the remaining ganache then use a hot offset spatula or blowtorch to smooth everything out and make it shiny."
+    },
+    {
+      "heading": null,
+      "description": "For the topping, finely chop the chocolate and set aside. Heat the double cream with the sugar in a small saucepan – don’t let it boil! Stir until the sugar is dissolved, then pour over the chocolate. Let it stand for 3-4 mins, then stir from the middle to slowly incorporate the chocolate. Let it cool and thicken, then pour over the top of the cake, spreading out with a spatula, encouraging it to drip down the sides. Let it set."
+    },
+    {
+      "heading": null,
+      "description": "Heat a knife before cutting to make the ganache extra shiny inside."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-17T04:00:00+00:00"
+}

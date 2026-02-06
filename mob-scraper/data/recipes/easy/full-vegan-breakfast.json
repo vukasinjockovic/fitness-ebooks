@@ -1,0 +1,288 @@
+{
+  "id": "4533348",
+  "slug": "full-vegan-breakfast",
+  "title": "Full Vegan Breakfast",
+  "url": "https://www.mob.co.uk/recipes/full-vegan-breakfast",
+  "summary": "This is my idea of the ultimate vegan breakfast spread. It’s got heat, carbs, protein, textures and so much flavour. Whack it in the oven.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Full-Vegan-Breakfast.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 50,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 635,
+    "protein": 32,
+    "fat": 23,
+    "saturated_fat": 3,
+    "carbohydrates": 75,
+    "dietary_fibre": 15,
+    "sugars": 18,
+    "sodium": 1632
+  },
+  "ingredients": [
+    {
+      "label": "350g New Potatoes",
+      "quantity": "350",
+      "unit": null,
+      "name": "New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g New Potatoes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Gochujang",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ¼ Tsp Maple Syrup",
+      "quantity": "1.25",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Extra Firm Smoked Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Smoked Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "280g Extra Firm Smoked Tofu",
+      "quantity": "280",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Baked Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Baked Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Baked Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Vegan Cheese (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegan Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start with the potatoes. Preheat the oven to 190°C. Cut the potatoes into quarters or halves if they are very small, making sure they are all a similar size. Place them into a baking dish with the tomatoes. Ideally the baking dish is not too big, so that everything fits snuggly in it, without too much empty space."
+    },
+    {
+      "heading": null,
+      "description": "Mix the gochujang with 1 tsp of sesame oil, 1 tbsp of olive oil, ¼ tsp salt, ¼ tsp maple syrup and plenty of black pepper. Pour this over the potatoes and tomatoes and mix well to make sure everything is well covered."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 30-35 mins, tossing once or twice, until the potatoes are starting to crisp up on the edges and the tomatoes have yielded most of their juice."
+    },
+    {
+      "heading": null,
+      "description": "Next, marinate the tofu. Slice the block into thin slices, about 3 cm thick. Make the marinade in the dish or container that the tofu will fit in. Mix 2 tbsp of soy sauce, 1 tsp maple syrup, ½ tsp smoked paprika, 1 tsp tomato paste and 1 tbsp of olive oil. Pour this over the tofu and make sure all of the slices are covered. Set aside for now."
+    },
+    {
+      "heading": null,
+      "description": "To make the mushrooms, roughly chop any large ones into bite-sized pieces and place in a baking dish. Mince the garlic and add this to the mushrooms with plenty of salt and pepper and a good drizzle of olive oil. Use plenty of olive oil, ideally there will be a little extra at the bottom of the dish, this will help get them extra juicy. Roast for about 20 mins, until caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Now, lay the tofu onto a baking tray lined with parchment paper. Make sure they are not overlapping. Bake for 8 mins, flip, brush with the extra marinade and bake for another 8-10 mins until it’s starting to crisp up on the edges."
+    },
+    {
+      "heading": null,
+      "description": "To air fry, cook them at 200°C for 10 mins, flipping them and brushing the marinade over halfway through."
+    },
+    {
+      "heading": null,
+      "description": "When they come out of the oven, brush them again with the remaining marinade. They should have a firm bite and be slightly crispy on the edges but not hard and crunchy."
+    },
+    {
+      "heading": null,
+      "description": "To heat the beans, decant them into a small baking dish and add 1 tsp of soy sauce and 1 tsp of smoked paprika and mix. If using, sprinkle over the vegan grated cheese, then bake for about 10 mins on the lower shelf, until bubbling."
+    },
+    {
+      "heading": null,
+      "description": "While everything is in the oven, slice your avocado and season with salt and pepper and a drizzle of olive oil. Toast and butter your bread with vegan butter. Finely chop the chives."
+    },
+    {
+      "heading": null,
+      "description": "To serve, dish out everything onto two plates or onto one big platter. Scatter over the chives and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "English"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-05T10:16:00+01:00"
+}

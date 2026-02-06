@@ -1,0 +1,285 @@
+{
+  "id": "6849049",
+  "slug": "creamy-zaalouk-beans-pistachio-tofu-crumb",
+  "title": "Zaalouk Beans with a Pistachio Tofu Crumb",
+  "url": "https://www.mob.co.uk/recipes/creamy-zaalouk-beans-pistachio-tofu-crumb",
+  "summary": "A rich and creamy butter bean stew inspired by Moroccan zaalouk, with smoky charred tomatoes and aubergines and a nutty tofu crumb. It’s healthy, plant-based and full of flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Creamy-Zaalouk-Beans-with-a-Pistachio-Tofu-Crumb.jpg",
+  "cook_time": 40,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 22,
+    "fat": 26,
+    "saturated_fat": 4,
+    "carbohydrates": 33,
+    "dietary_fibre": 10,
+    "sugars": 7,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "1 garlic bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 aubergines",
+      "quantity": "3",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 medium tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g cashews",
+      "quantity": "80",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 medium red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 medium red onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp ground cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp smoked paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp ground coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1400g jarred cooked butter beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Queen Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1400g jarred cooked butter beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp tomato purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g firm tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g firm tofu",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g shelled pistachio nuts",
+      "quantity": "80",
+      "unit": null,
+      "name": "Shelled Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g silken tofu",
+      "quantity": "80",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g silken tofu",
+      "quantity": "80",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp nutritional yeast",
+      "quantity": "4",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh parsley",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Pomegranate molasses",
+      "quantity": null,
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Cut the top off the garlic bulb and add it to a baking tray along with the whole aubergines and tomatoes. Prick the aubergines with a fork then rub everything with olive oil and salt and place in the oven to roast for 35 mins, until the aubergines and tomatoes are collapsing and the skins are a little charred in places."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, soak the cashews in boiling water for 10 mins then drain and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop the red onion very finely. Heat a splash of olive oil in a medium pan set over a medium heat. Add the red onion and a pinch of salt and cook for 6 mins until softened. Add the spices and cook for a further 2 mins until fragrant. Add the tomato purée and the butter beans with most of their jarred liquid. Bring to a simmer and leave to gently cook on a low heat while the aubergines and tomatoes are roasting."
+    },
+    {
+      "heading": null,
+      "description": "Remove the roasted veggies from the oven and leave for 5-10 mins to cool slightly. Roughly chop the aubergines and tomatoes and add to a bowl. Squeeze in the garlic flesh from the bulb and squish it down with a fork. Season the veggies with salt and pepper then add to the bean mix and stir well to combine. Add a splash of water if it's dry."
+    },
+    {
+      "heading": null,
+      "description": "For the tofu crumb, add a glug of olive oil to a large frying pan. Crumble in the tofu, chop and add the pistachios, and season with a pinch of salt. Set over a medium heat and cook for 7-8 mins until browned and crispy. Season with more salt to taste."
+    },
+    {
+      "heading": null,
+      "description": "Blitz the silken tofu, nutritional yeast and drained soaked cashews in a blender and season to taste with salt and lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the beans between bowls then top with the cream and nutty tofu crumb. Finish with a few fresh parsley leaves, black pepper and a little drizzle of pomegranate molasses, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Freezer Friendly",
+    "Most Cooked",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Moroccan-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Waplington",
+      "uri": "chefs/sophie-waplington",
+      "summary": "Soph (@sophsplantkitchen) is a personal trainer and plant-based recipe developer, specialising in high-protein, high-fibre, wholefood recipes to help support healthy, active lifestyles. Her mission is to redefine ‘fitness food’ by adding more deliciousness into your diet, instead of taking it away."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-06T15:00:00+00:00"
+}

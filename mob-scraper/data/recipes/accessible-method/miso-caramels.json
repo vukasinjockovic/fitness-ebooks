@@ -1,0 +1,144 @@
+{
+  "id": "2828958",
+  "slug": "miso-caramels",
+  "title": "Miso Caramels",
+  "url": "https://www.mob.co.uk/recipes/miso-caramels",
+  "summary": "Sticky, sweet and slightly savoury miso caramels. These are so quick to make and are perfect for anyone with a sweet tooth.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9072.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 150,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 210,
+    "protein": 2,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 34,
+    "dietary_fibre": null,
+    "sugars": 33,
+    "sodium": 370
+  },
+  "ingredients": [
+    {
+      "label": "100g White Miso",
+      "quantity": "100",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Runny Honey",
+      "quantity": "50",
+      "unit": null,
+      "name": "Runny Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Runny Honey",
+      "quantity": "50",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Light Brown Soft Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Unsalted Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sea Salt Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grease a square tin and line with baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the miso, honey, double cream, caster sugar, light brown sugar in a pan until completely dissolved. Add in the butter and bring to a boil."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 15 mins or until a thermometer inserted reads 125°C. To check its ready, add a small amount into a glass of cold water. If it's the right temp, you should be able to roll it up into a soft ball."
+    },
+    {
+      "heading": null,
+      "description": "Pour into the lined square tin, and tap it on the surface a few times to remove the bubbles. Sprinkle liberally with sea salt and allow to cool fully (will take around 2 hours)."
+    },
+    {
+      "heading": null,
+      "description": "Slice into bite-sized pieces and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Japanese-Inspired",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-12-22T09:30:00+00:00"
+}

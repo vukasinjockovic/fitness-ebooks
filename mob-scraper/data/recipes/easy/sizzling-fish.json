@@ -1,0 +1,222 @@
+{
+  "id": "4732999",
+  "slug": "sizzling-fish",
+  "title": "Sizzling Fish",
+  "url": "https://www.mob.co.uk/recipes/sizzling-fish",
+  "summary": "The easiest and best way of having fish on any given day. Quick, flavourful, light and balanced.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Sizzling-Fish.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 266,
+    "protein": 25,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 7,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 426
+  },
+  "ingredients": [
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cod Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tenderstem Broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tenderstem Broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Red Pepper Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Pepper Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Hot Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cooked Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 220°C. Finely grate the garlic and ginger. Place both into a bowl with the cod fillets. Season with salt and pepper, then toss together to evenly coat."
+    },
+    {
+      "heading": null,
+      "description": "Place each fillet of fish onto a sheet of baking paper. Fold to enclose the fish inside. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Place the Tenderstem on a baking sheet and drizzle with some oil, season with salt and pepper. Roast for 15 mins until, starting to char. When there are 10 mins left for the broccoli, push them to one side of the tray and place the fish parcels onto the same tray. Bake for 10 mins until the cod is opaque and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Trim and quarter the spring onions widthways. Halve each portion of spring onion lengthways, then finely slice into long matchsticks. Add into a bowl and toss with the red pepper flakes and curry powder."
+    },
+    {
+      "heading": null,
+      "description": "Share the cooked rice, Tenderstem and fish between bowls. Drizzle the fish with soy sauce and rice vinegar, and top with the spring onion mixture."
+    },
+    {
+      "heading": null,
+      "description": "Pour the oil into a small saucepan set over a high heat. Once hot, immediately pour over the spring onions and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-23T09:28:00+00:00"
+}

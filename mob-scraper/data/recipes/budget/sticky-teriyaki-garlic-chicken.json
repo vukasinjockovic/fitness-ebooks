@@ -1,0 +1,185 @@
+{
+  "id": "10677",
+  "slug": "sticky-teriyaki-garlic-chicken",
+  "title": "Sticky Teriyaki Garlic Chicken",
+  "url": "https://www.mob.co.uk/recipes/sticky-teriyaki-garlic-chicken",
+  "summary": "The garlic and the butter really bring this teriyaki sauce to the next level. Sticky and rich, it's a belter, Mob.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Z49A7429.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 900,
+    "protein": 44,
+    "fat": 36,
+    "saturated_fat": 10,
+    "carbohydrates": 98,
+    "dietary_fibre": 3,
+    "sugars": 14,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs (Skin On)",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs (Skin On)",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Teriyaki Marinade",
+      "quantity": "6",
+      "unit": null,
+      "name": "Teriyaki Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sriracha",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Water",
+      "quantity": "3",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Drizzle some olive oil into a frying pan and add your chicken thighs. Cook until the skin becomes golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Start cooking your rice (see packet instructions)."
+    },
+    {
+      "heading": null,
+      "description": "Once your chicken thighs are crispy, remove from the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add butter to a clean pan. Once it has melted, grate your garlic cloves into the pan. Add teriyaki marinade and allow this to simmer for a few minutes. Add Sriracha, honey and allow the sauce to simmer again."
+    },
+    {
+      "heading": null,
+      "description": "Add your chicken to the pan and coat it in the sauce. Add 6 tbsps of water and leave the sauce to bubble on a low heat for a few minutes."
+    },
+    {
+      "heading": null,
+      "description": "Serve on a bed of rice and sprinkle some sesame seeds over the top. Pour the remaining sauce over the top of the chicken. Slice up some spring onions to use for a garnish and tuck into this delicious dish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-02-27T00:00:00+00:00"
+}

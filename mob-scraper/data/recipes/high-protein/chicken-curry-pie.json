@@ -1,0 +1,298 @@
+{
+  "id": "4182860",
+  "slug": "chicken-curry-pie",
+  "title": "Chicken Curry Pie",
+  "url": "https://www.mob.co.uk/recipes/chicken-curry-pie",
+  "summary": "It’s one of the nation's favourite meals... but in a pie! We've made a coconutty chicken curry and wrapped it with a super-easy, crispy rough puff pastry.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Chicken-Curry-Pie.jpg",
+  "cook_time": 75,
+  "prep_time": 25,
+  "total_time": 100,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 484,
+    "protein": 23,
+    "fat": 25,
+    "saturated_fat": 13,
+    "carbohydrates": 39,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 354
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Coriander",
+      "quantity": "30",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Skinless Boneless Chicken Thighs",
+      "quantity": "10",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Skinless Boneless Chicken Thighs",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Coconut Cream",
+      "quantity": "165",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Chicken Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Medium Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "460g Asparagus",
+      "quantity": "460",
+      "unit": null,
+      "name": "Asparagus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Cornstarch",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Water",
+      "quantity": "4",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "330g Plain Flour",
+      "quantity": "330",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Nigella Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Nigella Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115g Butter",
+      "quantity": "115",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110ml Iced Water + 4 Tbsp",
+      "quantity": "110",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice your butter into small cubes and put them in the freezer for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Then add your flour, cold butter, salt, sugar and nigella seeds to a processor and pulse until you form a coarse crumb. Chuck into a bowl and add the water gradually, mixing in with a spatula until combined into a shaggy dough. Using your hands pack together as quickly as possible, tip out onto a work surface and form into a large square, around 2cm thick."
+    },
+    {
+      "heading": null,
+      "description": "Cut into 4 equal-sized pieces and stack them on top of each other. Press down to seal them together and then roll them out into a rough circle."
+    },
+    {
+      "heading": null,
+      "description": "Wrap in cling film and put in the fridge for at least 1 hour, but preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "Heat oven to 200°C. Peel your garlic then roughly chop the ginger, coriander stems, green chilli. Peel and chop the onion too, then add all of these aromats into blender and blitz."
+    },
+    {
+      "heading": null,
+      "description": "Heat 2 tbsp of oil in a frying pan over a medium heat, tip in the curry paste and fry until all of the moisture has evaporated. Next, add the curry powder and cook for a further 30 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your chicken stock and coconut cream. Add the chicken thighs and make sure they are submerged in the liquid - Pop a lid on and simmer for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, remove the woody ends and cut the asparagus in 2cm pieces. Roughly chop the coriander leaves."
+    },
+    {
+      "heading": null,
+      "description": "When the chicken is cooked through, remove it from the sauce and using 2 forks shred it into chunky pieces. Make a slurry with the cornflour by mixing with 4 tbsp of cold water, and add to the sauce whilst stirring. Cook over a low heat until thickened, around 3 mins. Add the asparagus, peas, coriander and shredded chicken back into the curry sauce and mix well. Taste and season with salt and pepper. Remove from the heat to cool a little."
+    },
+    {
+      "heading": null,
+      "description": "Back to the pastry – lightly dust your surface with flour and roll out your chilled dough into a disk about 1 cm-thick. Whisk an egg."
+    },
+    {
+      "heading": null,
+      "description": "If your frying pan isn't already ovenproof, pour your pie filling out into an ovenproof pan or dish. Brush the edges of the pan or dish with some of the whisked egg – this will help the lid stick. Drape the pastry over the filling, trim any excess and crimp to seal using your thumb and forefingers. If this is a bit too tricky, use a fork instead. Using a sharp knife, score a cross-hatch pattern on top before cutting a small ‘x’ in the middle to let steam out. Brush liberally with half of your egg wash and pop in the oven for 20 mins. Make sure you save some egg wash for the final step."
+    },
+    {
+      "heading": null,
+      "description": "After 20 mins, bring your pie back out and repeat the egg wash – this will give the pastry a deeply golden colour. Put back in the oven and cook for another 20-25 mins. Once cooked, allow it to stand for 15 mins before digging in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British-Indian",
+    "British-Inspired",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-10T17:08:00+00:00"
+}

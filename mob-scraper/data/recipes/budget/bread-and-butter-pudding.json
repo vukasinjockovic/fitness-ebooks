@@ -1,0 +1,157 @@
+{
+  "id": "4415913",
+  "slug": "bread-and-butter-pudding",
+  "title": "Classic Bread & Butter Pudding",
+  "url": "https://www.mob.co.uk/recipes/bread-and-butter-pudding",
+  "summary": "Bread and butter pudding as it should be done: thick-sliced white bread, lashings of custard, plump sultanas, and a crunchy sugar top. Simple.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Classic-Bread-Butter-Pudding.jpg",
+  "cook_time": 35,
+  "prep_time": 20,
+  "total_time": 55,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 282,
+    "protein": 6,
+    "fat": 13,
+    "saturated_fat": 8,
+    "carbohydrates": 36,
+    "dietary_fibre": 1,
+    "sugars": 18,
+    "sodium": 176
+  },
+  "ingredients": [
+    {
+      "label": "9 Slices of White Bread",
+      "quantity": "9",
+      "unit": null,
+      "name": "White Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Soft Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Sultanas",
+      "quantity": "75",
+      "unit": null,
+      "name": "Sultana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mixed Peel",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mixed Peel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "330ml Milk",
+      "quantity": "330",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Double Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch of Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Demerara Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Demerara Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C. Get out a medium-sized baking dish"
+    },
+    {
+      "heading": null,
+      "description": "Cut the crusts off the bread and spread each slice on one side with butter then cut into triangles. Lay half of the bread buttered-side down into the baking dish. Scatter over half of the sultanas and all of the mixed peel. Lay the remaining bread, buttered-side down, on top (you may need to overlap it slightly). Sprinkle over the remaining sultanas."
+    },
+    {
+      "heading": null,
+      "description": "Crack the eggs into a large bowl. Pour in the milk and cream. Add the vanilla extract and a pinch of salt and whisk to form a smooth custard. Pour the custard over the prepared bread slices, pressing down on the bread so that it gets a proper soak."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle the sugar evenly over the top. Bake in the oven for 35–40 mins until the top is golden brown and the pudding has puffed up slightly. Leave to rest for 5 minutes before serving at the table for everyone to help themselves and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-23T09:41:00+01:00"
+}

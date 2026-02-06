@@ -1,0 +1,334 @@
+{
+  "id": "5145096",
+  "slug": "chicken-kyiv",
+  "title": "Classic Chicken Kyiv",
+  "url": "https://www.mob.co.uk/recipes/chicken-kyiv",
+  "summary": "A classic chicken kyiv recipe that we've served with buttery mash and lemony greens.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Classic-Chicken-Kyiv-Recipe.jpg",
+  "cook_time": 90,
+  "prep_time": 40,
+  "total_time": 130,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1202,
+    "protein": 44,
+    "fat": 67,
+    "saturated_fat": 34,
+    "carbohydrates": 104,
+    "dietary_fibre": 8,
+    "sugars": 8,
+    "sodium": 563
+  },
+  "ingredients": [
+    {
+      "label": "200g Unsalted Butter",
+      "quantity": "200",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Breasts",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Breadcrumbs",
+      "quantity": "250",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Red Skin Potatoes",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Red Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Red Skin Potatoes",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Unsalted Butter",
+      "quantity": "250",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cavolo Nero",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the garlic butter. Add the butter to a food processor and whizz until softened. Grate in the garlic cloves and finely dice and add the shallots. Roughly chop the herbs and bung those in, too. Now add the miso, chilli flakes and the zest of the lemon. Season well with salt and pepper and whizz the whole lot into a bright green, punchy garlic butter."
+    },
+    {
+      "heading": null,
+      "description": "To build the kyivs, make an incision starting at the thicker end of each chicken breast with a small, sharp knife. You want to create a pocket in the chicken breast for the butter to sit in. The best way to do this is to push the knife in just over halfway, being careful not to cut out any side of the breast. Repeat with the other chicken breasts."
+    },
+    {
+      "heading": null,
+      "description": "Use a teaspoon or a piping bag to fill each breast with a healthy portion of the butter, leaving the opening clean so you can get a good seal. Press the breast to flatten it slightly then press the edges together with your fingers to reseal the opening."
+    },
+    {
+      "heading": null,
+      "description": "Now set up a bowl each of flour, egg and breadcrumbs. Pass the chicken breasts through each bowl, flour, egg, breadcrumb and then back through egg and breadcrumbs to get a really thorough coating. Pop the kyivs into the fridge for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C. Prick the potatoes with a fork and place onto a lined baking tray. Slide into the oven for 60-70 mins, or until completely tender. Allow to cool briefly before halving and pushing the flesh through a sieve set over a small saucepan. Discard or eat the skins!"
+    },
+    {
+      "heading": null,
+      "description": "Once all your potatoes have been passed through the sieve, place the pan over the heat and gradually add the milk and butter until you’re happy with the texture. Season and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Strip the leaves from the cavolo stems and roughly chop, finely chop the stems. Preheat a lidded pan over a high heat. Once very hot, add a shot of oil and drop in the leaves. Season with salt and pepper and sauté the leaves for 2-3 mins before adding a splash of water and covering. Cook for 1 min before removing the lid, adding a squeeze of lemon juice"
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 170°C."
+    },
+    {
+      "heading": null,
+      "description": "Cover the base of a large frying pan with a 1-2cm layer of olive oil. Set over a medium heat and once hot (170°C) cook the kyivs for 2-3 mins on each side until golden brown. Transfer to a tray and pop in the oven for 10-12 mins until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Divide the mash between warm plates and serve with a handful of greens. Top each with a kyiv and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Ukrainian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-03T07:00:00+00:00"
+}

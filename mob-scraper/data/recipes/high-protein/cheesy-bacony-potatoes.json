@@ -1,0 +1,188 @@
+{
+  "id": "12456",
+  "slug": "cheesy-bacony-potatoes",
+  "title": "Cheesy Bacony Potatoes",
+  "url": "https://www.mob.co.uk/recipes/cheesy-bacony-potatoes",
+  "summary": "Herby, cheesy, bacony stuffed potatoes. The most important element of this dish is the tarragon - really brings the edge.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/Cheesy-Bacony-Potatoes.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 36,
+    "fat": 44,
+    "saturated_fat": 18,
+    "carbohydrates": 34,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 1242
+  },
+  "ingredients": [
+    {
+      "label": "350g Extra Mature Cheddar",
+      "quantity": "350",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Extra Mature Cheddar",
+      "quantity": "350",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Smoked Pancetta",
+      "quantity": "350",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Baking Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Baking Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Tarragon",
+      "quantity": "25",
+      "unit": null,
+      "name": "Tarragon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Add the potatoes to a tray. Drizzle with olive oil. Add salt and pepper. Place in the oven for 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Add your pancetta to a frying pan. Cook until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Remove the potatoes from the oven, making sure they are soft in the centre. Halve the potatoes. Carefully spoon out the insides of each potato, keeping the skins intact."
+    },
+    {
+      "heading": null,
+      "description": "Add the potato flesh to the bacon pan. Mix it in."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop a large handful of tarragon, parsley and chives. Add your herbs to the pan. Mix everything in."
+    },
+    {
+      "heading": null,
+      "description": "Add 150g of grated cheese to the pan. Season with salt and pepper, mix everything together and remove pan from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Refill potato skins with the herby stuffing. Grate some extra cheddar on top, drizzle over some olive oil and place your skins under the grill for 12 minutes or until golden and bubbling."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a grating of cheddar, some leftover chopped herbs and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2018-07-03T00:00:00+01:00"
+}

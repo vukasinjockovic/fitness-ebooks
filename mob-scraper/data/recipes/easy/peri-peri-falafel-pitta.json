@@ -1,0 +1,302 @@
+{
+  "id": "1290968",
+  "slug": "peri-peri-falafel-pitta",
+  "title": "PERi-PERi Falafel Pitta",
+  "url": "https://www.mob.co.uk/recipes/peri-peri-falafel-pitta",
+  "summary": "We’ve given falafel a smoky makeover. Packed with chickpeas, red pepper, and paprika. Stuffed in pittas with PERi-PERi slaw. A glorious sandwich.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A7514-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 480,
+    "protein": 15,
+    "fat": 17,
+    "saturated_fat": 2,
+    "carbohydrates": 65,
+    "dietary_fibre": 8,
+    "sugars": 8,
+    "sodium": 430
+  },
+  "ingredients": [
+    {
+      "label": "250g Dried Chickpeas",
+      "quantity": "250",
+      "unit": null,
+      "name": "Dried Chickpea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Dried Chickpeas",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Hot Smoked Paprika",
+      "quantity": "3",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cayenne Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Gram Flour",
+      "quantity": "3",
+      "unit": null,
+      "name": "Gram Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Nando’s PERi-PERi Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Peri Peri Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Nando’s Vegan PERinaise, plus extra to serve",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Pittas",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak your chickpeas overnight in a bowl of water."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice one of your red onions."
+    },
+    {
+      "heading": null,
+      "description": "Place your sliced red onions in a bowl and squeeze over the juice from your lemon. Add a pinch of salt and mix with your hands. Leave it to pickle."
+    },
+    {
+      "heading": null,
+      "description": "Time to make some slaw. Finely shred your white cabbage and peel and julienne your carrot. Place in a bowl with 100ml of your Nando’s Vegan PERinaise and give it a good mix. Set aside until later."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your remaining red onion, red pepper, garlic, and parsley."
+    },
+    {
+      "heading": null,
+      "description": "Drain and dry your soaked chickpeas, then put them in the food processor with your red onion, red pepper, garlic, parsley, paprika, ground cumin, ground coriander, cayenne pepper, gram flour, baking powder, Nando’s PERi-PERi Salt and a pinch of regular salt in a food processor. Pulse until you have a smooth mixture that binds together when squeezed."
+    },
+    {
+      "heading": null,
+      "description": "Shape your mixture into small patties."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous glug of oil over a medium heat. Add a few of your falafel patties and fry for 3 minutes on each side until they are deeply golden and crisp. Drain on a plate lined with a paper towel and repeat with your remaining patties."
+    },
+    {
+      "heading": null,
+      "description": "Toast your pittas and slice your cucumber into thin discs."
+    },
+    {
+      "heading": null,
+      "description": "Make an incision in the long side of your pitta to create a pocket. Stuff it with your falafels, slaw, pickled onions and cucumber. Drizzle with some more Nando’s Vegan PERinaise, then enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "Portuguese"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-17T09:00:00+00:00"
+}

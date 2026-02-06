@@ -1,0 +1,102 @@
+{
+  "id": "3592838",
+  "slug": "lime-basil-spritz",
+  "title": "Lime & Basil Spritz",
+  "url": "https://www.mob.co.uk/recipes/lime-basil-spritz",
+  "summary": "Frangrant basil and lime makes this a perfect summer sipper. This one's finished with blood orange soda for an extra citrus fizz.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A1618.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 164,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 23,
+    "dietary_fibre": 2,
+    "sugars": 18,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "50ml Vodka",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Basil Sprigs",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "170ml Fever Tree Italian Blood Orange",
+      "quantity": "170",
+      "unit": null,
+      "name": "Blood Orange Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a wine glass with ice cubes."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the juice from one of your limes. Cut the other into rounds."
+    },
+    {
+      "heading": null,
+      "description": "Pour your vodka over your ice, followed by your lime juice."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your blood orange soda, then finish with a slice of lime and a sprig of basil."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-22T15:03:00+01:00"
+}

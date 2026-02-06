@@ -1,0 +1,149 @@
+{
+  "id": "3678042",
+  "slug": "strawberry-and-basil-tonic",
+  "title": "Strawberry and Basil Tonic",
+  "url": "https://www.mob.co.uk/recipes/strawberry-and-basil-tonic",
+  "summary": "Cool yourself down with this refreshing, summer number. PS: if you’re not putting basil in your drinks, you’re missing out. It’s a nice switch up from mint.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/Strawberry-and-Basil-Tonic.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 93,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 24,
+    "dietary_fibre": 2,
+    "sugars": 20,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "300g Strawberries",
+      "quantity": "300",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Basil Leaves",
+      "quantity": "20",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice Cubes",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "750ml - 1l Tonic Water, To Taste",
+      "quantity": "750",
+      "unit": null,
+      "name": "Tonic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Hull and quarter the strawberries. Zest and juice the limes."
+    },
+    {
+      "heading": null,
+      "description": "Place the strawberries in a jug with 2 tbsp sugar and muddle until combined. If you don’t have a muddler, you can use a whisk or the flat end of a rolling pin."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the fresh basil leaves. Add them to the muddled strawberries and muddle until the basil leaves are broken down. Alternatively, for a smoother drink, you can throw everything into a blender."
+    },
+    {
+      "heading": null,
+      "description": "Fill the jug with ice cubes, pour in the tonic water and stir to combine."
+    },
+    {
+      "heading": null,
+      "description": "Combine the remaining 1 tbsp sugar with the lime zest and a good pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Rub lime juice on the rim of your glasses, using the limes from earlier, then dip the glasses into zesty sugar."
+    },
+    {
+      "heading": null,
+      "description": "Pour the drink into the zesty sugar-rimmed glasses and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-18T16:00:00+01:00"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "620925",
+  "slug": "the-ultimate-cheese-burger",
+  "title": "Ultimate Cheese Burger",
+  "url": "https://www.mob.co.uk/recipes/the-ultimate-cheese-burger",
+  "summary": "The daddy of all burgers. Beef patty, crispy shallots, caramelised onions and an incredible homemade burger sauce. An iconic recipe from Mob Contributor, Thomas Straker.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/220A4906-1-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 900,
+    "protein": 39,
+    "fat": 57,
+    "saturated_fat": 20,
+    "carbohydrates": 56,
+    "dietary_fibre": 4,
+    "sugars": 12,
+    "sodium": 1530
+  },
+  "ingredients": [
+    {
+      "label": "4 Brioche Buns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Red Leicester Cheese or Cheddar",
+      "quantity": "224",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of Red Leicester Cheese or Cheddar",
+      "quantity": "224",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Jar of Pickles (120g)",
+      "quantity": "120",
+      "unit": null,
+      "name": "Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500 ml Vegetable Oil (For Frying)",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sweet Pickle Relish or Pickles",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Mayonnaise",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ketchup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp French’s Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pinch of Cayenne Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Beef Mince",
+      "quantity": "650",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Beef Mince",
+      "quantity": "650",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": "FOR THE CARAMELISED ONIONS:",
+      "description": "Peel and finely slice the onions. Heat a glug of olive oil in a saucepan set over a medium heat. Tip in the onions and cook them slowly for 5 mins until soft. Add a good pinch of salt and then cook for another 5-10 mins until caramelised. Transfer the onions to a plate and set aside."
+    },
+    {
+      "heading": "FOR THE CRISPY SHALLOTS:",
+      "description": "Finely slice the shallots. Add the cornflour to a bowl and toss the shallots through. Pour your vegetable oil into a large pan and heat it to around 150°C (if you don’t have a thermometer, dip the handle of a wooden spoon and make sure the oil is bubbling steadily around the handle). Add the shallots to the hot oil and fry until golden brown, then remove them with a slotted spoon and transfer to kitchen paper to drain. Season with salt and set aside."
+    },
+    {
+      "heading": "FOR THE BURGER SAUCE:",
+      "description": "Dice the shallots and mix them with all the other ingredients in a bowl. Set aside in the fridge."
+    },
+    {
+      "heading": "FOR THE BEEF PATTY:",
+      "description": "Season the meat with salt and pepper and shape into four equal sized patties."
+    },
+    {
+      "heading": null,
+      "description": "Set a heavy based frying pan over a medium heat. Cut the buns in half and toast them in the pan on both sides until dark golden. Remove from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "In the same hot pan, add a glug of vegetable oil. Get the patties in the hot pan set over a medium-high heat (don’t overcrowd it – if it’s a smaller pan, stick to 1 patty so it properly caramelises) and fry it for 2 mins. While the patties cook, press them down firmly to caramelise the edges."
+    },
+    {
+      "heading": null,
+      "description": "Flip the patty over and whack 2 slices of cheese on top of each. Get the lid on the pan and leave it for another minute or two until the cheese has melted."
+    },
+    {
+      "heading": "TO LAYER UP:",
+      "description": "Slice your pickles and spread the burger sauce on the bottom of the bun. Add the sliced pickles followed by the caramelised onions, burger patty, more burger sauce and finally the crispy shallots. Add your brioche lid on top and tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2020-08-16T16:00:00+01:00"
+}

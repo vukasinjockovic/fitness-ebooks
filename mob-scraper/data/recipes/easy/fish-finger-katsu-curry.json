@@ -1,0 +1,282 @@
+{
+  "id": "7388426",
+  "slug": "fish-finger-katsu-curry",
+  "title": "Fish Finger Katsu Curry",
+  "url": "https://www.mob.co.uk/recipes/fish-finger-katsu-curry",
+  "summary": "Upgrade the classic freezer staple with this easy crispy fish finger katsu. The mild curry sauce is super comforting and veg-packed making it the great dinner for kids. This will make a little more sauce than you need but will be perfect for the freezer later.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Fish-Finger-Katsu-Curry.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 818,
+    "protein": 22,
+    "fat": 22,
+    "saturated_fat": 7,
+    "carbohydrates": 126,
+    "dietary_fibre": 7,
+    "sugars": 16,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "6 Thick Fish Fingers",
+      "quantity": "6",
+      "unit": null,
+      "name": "Thick Fish Finger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mild Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mild Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Plain Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Chicken or Vegetable Stock",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp soy sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100 ml coconut milk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Jasmine Rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "SALT",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "red onion",
+      "quantity": null,
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "red onion",
+      "quantity": null,
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids Servings\nCook the fish fingers in the oven following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice the onion and pepper. Finely slice the garlic. Peel and grate the ginger. Peel and grate the carrots. Grate the courgette."
+    },
+    {
+      "heading": null,
+      "description": "Place a medium saucepan over a medium heat with a drizzle of olive oil. Fry the onion, pepper, garlic, ginger, carrot and courgette for 5-6 mins until soft."
+    },
+    {
+      "heading": null,
+      "description": "Stir in the curry powder and ground turmeric, then sprinkle in the flour. Cook for 1 min, stirring constantly."
+    },
+    {
+      "heading": null,
+      "description": "Slowly pour in the stock, stirring as you go to avoid lumps. Add the honey, soy sauce and coconut milk. Bring to the boil, then simmer for 10-12 mins until the sauce is smooth and slightly thickened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the rice following pack instructions. Thinly slice the cucumber."
+    },
+    {
+      "heading": null,
+      "description": "Use a stick blender to blitz the curry sauce until smooth. Season with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Serve up!\nKids Plate: Dish out the rice topped with the fish fingers, a generous ladle of curry sauce and the sliced cucumber on the side.\nParent Plate: Do the same and garnish with thinly sliced red onion."
+    }
+  ],
+  "tips": [
+    "If you’re veggie, swap to plant-based fish fingers and use veg stock.",
+    "Sauce can be made ahead and reheated.",
+    "Blitzed curry sauce keeps in the fridge for 2-3 days."
+  ],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-25T12:12:00+01:00"
+}

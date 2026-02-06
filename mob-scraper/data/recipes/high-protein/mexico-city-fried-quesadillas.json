@@ -1,0 +1,473 @@
+{
+  "id": "4523512",
+  "slug": "mexico-city-fried-quesadillas",
+  "title": "Mexico City Fried Quesadillas",
+  "url": "https://www.mob.co.uk/recipes/mexico-city-fried-quesadillas",
+  "summary": "Mexico City’s fried quesadillas, the ultimate street snack. Here’s how we make them at home – they might take a bit of effort, but we promise they’re worth it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Mexico-City-Fried-Quesadillas.jpg",
+  "cook_time": 100,
+  "prep_time": 60,
+  "total_time": 160,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 900,
+    "protein": 32,
+    "fat": 54,
+    "saturated_fat": 17,
+    "carbohydrates": 68,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 1810
+  },
+  "ingredients": [
+    {
+      "label": "388g Maseca (White Corn Flour)",
+      "quantity": "388",
+      "unit": null,
+      "name": "Maseca",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Plain Flour",
+      "quantity": "30",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "475ml Warm Water",
+      "quantity": "475",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Bicarbonate of Soda",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ¼ Tbsp Vegetable Oil",
+      "quantity": "1.25",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Fresh Chorizo Sausage",
+      "quantity": "250",
+      "unit": null,
+      "name": "Fresh Chorizo Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Fresh Chorizo Sausage",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Rapeseed Oil (Optional)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Rapeseed Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Morita Chile (Hydrated)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Morita Chile",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Maris Piper Potatoes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Maris Piper Potatoes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salt, To Taste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Pepper, To Taste",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Turkish Kashkaval Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Kashkaval Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Turkish Kashkaval Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Iceberg Lettuce",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Crème Fraîche",
+      "quantity": "100",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Sour Cream",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Water",
+      "quantity": "25",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Water",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Ricotta",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Ricotta",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Vine Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Vine Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Bird’s Eye Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Birds Eye Green Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch of Coriander (12.5g)",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tbsp Cumin",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tbsp Sugar",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5L Rapeseed Oil",
+      "quantity": "5000",
+      "unit": null,
+      "name": "Rapeseed Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large pot of salted water to a boil over medium heat. Boil your potatoes (skin on) for 15 mins over a medium heat until soft but firm so they can be cut in cubes."
+    },
+    {
+      "heading": null,
+      "description": "Soak your morita chile in boiling water for 30 mins. Remove potatoes from the water and allow to cool down for 15/20 mins until you can handle them without burning your hands!"
+    },
+    {
+      "heading": null,
+      "description": "Remove the skin and dice the potatoes into cubes, roughly 3-4 cm in size. Your potato should be firm enough not to break down. If it is a little too firm, you can fry it longer in the pan to allow the cooking process to finish. Chop your hydrated morita chile and reserve to one side. Remove the seeds if you are not keen on spice!"
+    },
+    {
+      "heading": null,
+      "description": "Peel, break down and fry the chorizo in a medium pan. Allow the oils to render out and the meat to get crispy. While your chorizo cooks, dice your onion and your garlic in small cubes. Also break down your soaked morita chile."
+    },
+    {
+      "heading": null,
+      "description": "Once the chorizo is cooked, strain the excess fat and reserve to one side as you will incorporate it into the potatoes for an extra 3 mins. Do not waste your chorizo fat – reserve to one side as it will be needed later in the recipe. Using the same frying pan, bring your pan to medium/low heat: add back onto your pan some of that chorizo fat oil. Fry your onions gently for 3 mins and add the diced garlic and morita chile, stirring often for an extra 2 mins. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Add potatoes and fry for 3-4 mins. You want your potatoes to soak in this red liquid gold. Season with salt and pepper before adding the chorizo back in. Cook at the same heat for 3-4 mins. Rest to the side and let it cool down for a good 20-30 mins until it reaches room temp. The contents of your quesadilla should be either cold or room temperature before going inside your raw masa."
+    },
+    {
+      "heading": null,
+      "description": "In a large bowl, mix all your dry ingredients together. That’s your maseca, salt, and plain flour. In parts, add water to the dry mix and gently but firmly knead the dough to mix all ingredients. Do this for 5 mins until you get a smooth consistency. Squeeze it in between your fingers to allow all ingredients to mix."
+    },
+    {
+      "heading": null,
+      "description": "The dough should feel hydrated enough to be shaped into a ball however at this stage it should still feel dry. It is important the water you use is warm from the tap, not hot! To test – make a small ball and crush it. If the edges of the masa dough break, your dough needs more liquid."
+    },
+    {
+      "heading": null,
+      "description": "Make a small hole in your dough and add in your oil before adding baking soda and vegetable oil. Knead your dough for 3 mins and do a test with a small ball to see if you need to add more water to the dough. If so, mix for another 2 mins. Wrap your dough in cling film and let it rest at room temp for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Cut the tomatoes in half. Remove all seeds with a knife or by giving them a squeeze. Blitz the tomatoes first. Cut your onions into squares, finely chop your garlic, remove the bird’s eye chilli stems. Add to your blitzed tomatoes and then throw in salt, sugar, cumin, and coriander. Blitz using the pulse function but make sure not to do it for too long. You want a chunky salsa. Add in your squeezed lime and adjust the seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Grate your Turkish or mozzarella cheese using the largest holes on a grater. To make the crema, mix the crème fraîche and sour cream. Add water and salt while mixing it together. You want the crema to be pourable. Slice the lettuce in thin strips."
+    },
+    {
+      "heading": null,
+      "description": "Grab a freezer bag and a tortilla press. Place your plastic sheet on each side of the press. Make a 55g dough ball. Place the ball on the plastic sheet on the bottom side of the press. With three fingers, press the dough down to create a ball."
+    },
+    {
+      "heading": null,
+      "description": "Place the other plastic sheet on top of your ball. Gently bring down the top of the press and press down once, firmly. Do not press your tortilla too thin otherwise it may break when folding the ingredients in it."
+    },
+    {
+      "heading": null,
+      "description": "Grab one rough tortilla in your hand. Fill it with a bed of grated cheese and your chorizo potato mix. Do not allow the ingredients to touch the edges so you can fold in half and close the tortilla comfortably using the plastic sheet to fold the quesadilla in half and gently press to glue the edges together."
+    },
+    {
+      "heading": null,
+      "description": "Once your oil has reached 170°C, carefully lower in the quesadillas. Fry two at the time making sure they do not stick together and they are turned around evenly over 3 to 4 mins of frying.If your oil is too hot, the dough will cook too quickly and come out bubbly instead of smooth. Let the quesadilla rest on a mesh tray for two minutes before finishing."
+    },
+    {
+      "heading": null,
+      "description": "With a small knife open the belly of the quesadilla from top to bottom to allow space to stuff the quesadilla with lettuce. Top with crema, salsa and crumbled ricotta!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Alex Rodriguez and Sophia Rosser",
+      "uri": "chefs/alex-rodriguez-and-sophia-rosser",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-24T10:40:00+01:00"
+}

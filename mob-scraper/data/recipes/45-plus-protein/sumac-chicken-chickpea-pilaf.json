@@ -1,0 +1,170 @@
+{
+  "id": "7672883",
+  "slug": "sumac-chicken-chickpea-pilaf",
+  "title": "Sumac Chicken & Chickpea Pilaf",
+  "url": "https://www.mob.co.uk/recipes/sumac-chicken-chickpea-pilaf",
+  "summary": "Fragrant rice simmered with chickpeas, cardamom and buttery parsley stems, finished with tender leftover sumac chicken and a cool dollop of yoghurt. A speedy midweeker if ever we saw one.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/8/Sumac-Chicken-Chickpea-Pilaf.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 463,
+    "protein": 26,
+    "fat": 18,
+    "saturated_fat": 7,
+    "carbohydrates": 49,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 326
+  },
+  "ingredients": [
+    {
+      "label": "110g Jasmine Rice",
+      "quantity": "110",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "110g Jasmine Rice",
+      "quantity": "110",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Parsley",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cardamom Pods",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Salted Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "135ml water",
+      "quantity": "135",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "greek yoghurt",
+      "quantity": "25",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "greek yoghurt",
+      "quantity": "25",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Before you begin, make the Sumac Chicken &amp; Roasted Veg Traybake."
+    },
+    {
+      "heading": null,
+      "description": "Wash the rice in cold water until it runs clear. Pick the parsley leaves and thinly slice the stems. Lightly crush the cardamom pods."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a large frying pan with high sides over a medium heat. Stir in the cardamom pods, parsley stems, rice and chickpeas. Pour in the water and bring to the boil. Cover with a lid, reduce the heat to low and cook for 12 mins."
+    },
+    {
+      "heading": null,
+      "description": "Halfway through cooking, place the sumac chicken and roasted vegetables from the traybake on top of the rice. Replace the lid and continue cooking for the remaining time."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pan from the heat and leave covered for another 10 mins to finish cooking the rice."
+    },
+    {
+      "heading": null,
+      "description": "Fluff the rice with a fork, then share between plates. Top with the parsley leaves and a dollop of Greek yoghurt. Season with salt and pepper to taste."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-08-27T15:11:00+01:00"
+}

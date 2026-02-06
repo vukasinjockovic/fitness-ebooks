@@ -1,0 +1,112 @@
+{
+  "id": "7053135",
+  "slug": "mayonnaise",
+  "title": "Mayonnaise",
+  "url": "https://www.mob.co.uk/recipes/mayonnaise",
+  "summary": "Mayo is one of those things people buy loads of but rarely make because of how ‘hard’ it seems. Turns out: it's super easy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Mayonnaise-Recipe.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 372,
+    "protein": 1,
+    "fat": 41,
+    "saturated_fat": 4,
+    "carbohydrates": 1,
+    "dietary_fibre": 0,
+    "sugars": 0,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsps Dijon Mustard",
+      "quantity": "4",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Oil",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add all the ingredients into a jar or bowl."
+    },
+    {
+      "heading": null,
+      "description": "Place a stick blender into the bottom of the bowl and blend until smooth and emulsified."
+    },
+    {
+      "heading": null,
+      "description": "Taste and season with salt."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-20T14:20:00+00:00"
+}

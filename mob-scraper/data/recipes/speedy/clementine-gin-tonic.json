@@ -1,0 +1,118 @@
+{
+  "id": "3627768",
+  "slug": "clementine-gin-tonic",
+  "title": "Clementine Gin & Tonic",
+  "url": "https://www.mob.co.uk/recipes/clementine-gin-tonic",
+  "summary": "If you're bored of regular gin and tonic, this citrus version will pick you up on a Thursday after work. Rosemary makes this drink feel wonderfully seasonal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/849A4594-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 14,
+    "dietary_fibre": 2,
+    "sugars": 7,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "50ml Tanqueray Flor de Sevilla",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tanqueray Flor de Sevilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Fever-Tree Spanish Clementine Tonic Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tonic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprig of Rosemary Or Mint To Garnish",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by cutting your lemon into a few slices then cut the rest into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Add ice to a balloon gin glass."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your gin, squeeze two wedges of lemon and top with the Fever-Tree Spanish Clementine Tonic Water."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with a lemon slice and a sprig of rosemary."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-05T16:00:00+01:00"
+}

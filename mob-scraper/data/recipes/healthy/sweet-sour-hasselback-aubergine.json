@@ -1,0 +1,286 @@
+{
+  "id": "4666502",
+  "slug": "sweet-sour-hasselback-aubergine",
+  "title": "Sweet & Sour Hasselback Aubergine with Rice",
+  "url": "https://www.mob.co.uk/recipes/sweet-sour-hasselback-aubergine",
+  "summary": "This faff-free recipe looks super impressive served on a table. If you're not hasselback-ing your aubergines, what are you doing with your life?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Sweet-Sour-Hasselback-Aubergine.jpg",
+  "cook_time": 60,
+  "prep_time": 5,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 14,
+    "fat": 29,
+    "saturated_fat": 5,
+    "carbohydrates": 104,
+    "dietary_fibre": 6,
+    "sugars": 17,
+    "sodium": 491
+  },
+  "ingredients": [
+    {
+      "label": "2 Large Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Bell Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "325g Cherry Tomatoes",
+      "quantity": "325",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "325g Cherry Tomatoes",
+      "quantity": "325",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Pineapple",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Toasted Sesame Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Toasted Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cashews",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Water",
+      "quantity": "4",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Ketchup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chinese 5-Spice",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chinese Five-Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Toasted Sesame Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180C top and bottom heat, with a tray in the middle rack of the oven. Grab a casserole or baking dish or rimmed baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Hasselback the aubergines - Stick a chopstick ¼ of the way through the aubergine from top to tail, then slice 1cm thick rounds, hitting the chopstick as a guide. Rub salt between each layer and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice bell peppers, onions and pineapple chunks into thin-sized strips. Slice a whole garlic bulb in half horizontally. Add all the veggies and your whole cherry tomatoes into your dish/tray."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the aubergines over a sink, - to release the excess water. Place them into the centre of the veggies, creating an aubergine Yin Yang pattern. Drizzle olive oil all over the veggies, ensuring to rub each aubergine layer in olive oil and coating the garlic halves. Add a ¼ cup of water and season the veggies with a good sprinkling of salt and pepper. Foil the dish very tightly or use a well-fitted lid and roast for 40 mins."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, cook your rice. Add your washed rice into a heavy bottom pot, with 2 ¼ cups of water, half of your Sesame oil, and a pinch of salt. Place a lid on and bring to a boil, then immediately reduce to the lowest heat and cook for 15 minutes. Turn off the heat and keep the lid closed for at least 10 mins before fluffing up. Then keep the lid on until serving."
+    },
+    {
+      "heading": null,
+      "description": "Add all the cashews onto a baking tray lined with baking paper and toss in the honey and soy sauce. roast in the same oven as the aubergines, for 7- 10 minutes or until caramelised, keep an eye on them as they can burn easily. Remove and mix to coat each cashew in the caramelised soy glaze and set aside to cool."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl combine the sweet and sour ingredients and mix well."
+    },
+    {
+      "heading": null,
+      "description": "After 40 mins, remove the foil and pour half of the sauce into the aubergine layers. Pour the remaining sauce all over the veggies. Drizzle a Tbsp of sesame oil all over the surface of each aubergine. Place everything back in the oven, with no foil, for 20 mins or until caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the spring onions and the coriander, including the stems and set aside for garnishing."
+    },
+    {
+      "heading": null,
+      "description": "After 20 mins or when the aubergines look caramelised and jammy, allow everything to cool for 5 mins. Then carefully squeeze the hot garlic bulbs back into the sauce. Sprinkle over all the glazed cashews, sliced coriander, spring onions, and sesame seeds, and finish with a drizzle of toasted sesame oil. Serve with hot rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2023-11-30T09:21:00+00:00"
+}

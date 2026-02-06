@@ -1,0 +1,257 @@
+{
+  "id": "6854534",
+  "slug": "charred-cabbage-beets-rice",
+  "title": "Charred Cabbage & Brothy Beets with Rice",
+  "url": "https://www.mob.co.uk/recipes/charred-cabbage-beets-rice",
+  "summary": "A nourishing rice bowl with a beetroot miso mushroom broth, topped with crispy hispi cabbage. This one is full of plant-based goodness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Charred-Cabbage-Brothy-Beets-with-Rice.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 349,
+    "protein": 7,
+    "fat": 14,
+    "saturated_fat": 5,
+    "carbohydrates": 45,
+    "dietary_fibre": 5,
+    "sugars": 9,
+    "sodium": 406
+  },
+  "ingredients": [
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Beetroot",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cooked Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cooked Beetroot",
+      "quantity": "300",
+      "unit": null,
+      "name": "Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Hispi Cabbage",
+      "quantity": "300",
+      "unit": null,
+      "name": "Hispi Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Hispi Cabbage",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Mushroom Stock",
+      "quantity": "700",
+      "unit": null,
+      "name": "Mushroom Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Apple Cider Vinegar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Unsalted Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Dill",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Miso",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Soured Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Coarsely grate the onion and beets into a saucepan. Add a drizzle of olive oil then set the pan over a medium heat. Cook the beet mixture for 3-5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice garlic and chop the cabbage into 3cm chunks."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic, bay leaf and tomato purée and cook for 3-4 mins until the garlic is fragrant and the tomato paste has darkened. Pour the vegetable stock and vinegar in and let it come to the boil then turn the heat down to a gentle simmer to keep the broth hot until ready to serve. Taste and season with salt, pepper and a dash more of vinegar, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Set a frying pan over a high heat. Once hot, add the cabbage and cook for 6-10 mins until starting to char then remove from the heat and stir the butter through. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, reheat the cooked rice. Pick and roughly chop the dill fronds and finely slice the stalks. Fold through the rice. Dissolve the miso in the broth."
+    },
+    {
+      "heading": null,
+      "description": "Share the rice between bowls and ladle over the broth. Top with the cabbage and a dollop of soured cream."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Batch",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-11T17:00:00+00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "id": "4407246",
+  "slug": "harissa-tomato-bruschetta",
+  "title": "Harissa Tomato Bruschetta",
+  "url": "https://www.mob.co.uk/recipes/harissa-tomato-bruschetta",
+  "summary": "Cherry tomatoes chucked in a frying pan with olive oil and harissa are fried until they just begin to burst, then spooned over cool yoghurt and garlic toasts.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Harissa-Tomato-Bruschetta.jpg",
+  "cook_time": 7,
+  "prep_time": 4,
+  "total_time": 12,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 282,
+    "protein": 12,
+    "fat": 9,
+    "saturated_fat": 2,
+    "carbohydrates": 38,
+    "dietary_fibre": 3,
+    "sugars": 7,
+    "sodium": 326
+  },
+  "ingredients": [
+    {
+      "label": "8 Slices of Sourdough",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Yoghurt",
+      "quantity": "500",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cherry Tomatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2–3 Tbsp Harissa Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Fresh Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Toast the bread. Meanwhile, peel the garlic clove. As each piece\nof toast is ready, rub it on one side with the garlic, then spread\nwith a big spoonful of Greek yogurt and put onto plates."
+    },
+    {
+      "heading": null,
+      "description": "Get a large frying pan over a super high heat and drizzle in a\ngood glug of olive oil. Chuck in the cherry tomatoes and season\nwith salt and black pepper. Fry for 2 minutes until the tomatoes\njust begin to burst. Stir in the harissa paste to taste, then remove\nfrom the heat."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the hot tomatoes over the cool yoghurt toasts, making sure\nto spoon over all the flavoured oil from the pan too. Finely grate a\nlittle lemon zest over each plate of bruschetta and tear over a few\nbasil leaves to finish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-21T17:11:00+01:00"
+}

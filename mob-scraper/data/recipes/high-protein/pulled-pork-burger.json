@@ -1,0 +1,273 @@
+{
+  "id": "6082",
+  "slug": "pulled-pork-burger",
+  "title": "Pulled Pork Burger",
+  "url": "https://www.mob.co.uk/recipes/pulled-pork-burger",
+  "summary": "The perfect, sticky pulled pork. Sharp pickles. All on a toasted brioche bun. Great dinner-party shout for the Mob.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/Z49A8874.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 330,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 782,
+    "protein": 38,
+    "fat": 32,
+    "saturated_fat": 8,
+    "carbohydrates": 82,
+    "dietary_fibre": 5,
+    "sugars": 25,
+    "sodium": 1372
+  },
+  "ingredients": [
+    {
+      "label": "1kg Pork Shoulder ",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Pork Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Pork Shoulder ",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Pork juice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soft Light Brown Sugar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Smoked Paprika ",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Apple Cider",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cider",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Ketchup",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Apple Cider Vinegar (plus 2 tbsp)",
+      "quantity": "75",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce ",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Few Drops of Tabasco",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Tabasco",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Water",
+      "quantity": "200",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion ",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion ",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small White Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small White Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots ",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Mayonnaise",
+      "quantity": "6",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Gherkins",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gherkin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Burger Buns ",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 140°C/284°F."
+    },
+    {
+      "heading": null,
+      "description": "Rub the pork shoulder all over with the paprika, 1/4 of the sugar and a generous amount of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Place the pork into a roasting dish or a casserole dish with a lid. Pour in the apple cider and stock, cover with tin foil/lid and cook for 5 hours, until shreddable with two forks."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the BBQ sauce. Add the ketchup, apple cider vinegar, soy sauce, the remaining sugar and a good few dashes of tabasco and the water to a pan. Bring to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Add the pork juices/stock from the roasting tray and a the smoked paprika. Let it simmer, stirring regularly for 10 minutes until thickened. Leave to cool completely - you want the BBQ sauce to be tangy to cut through the pork later."
+    },
+    {
+      "heading": null,
+      "description": "Onto the slaw. Finely slice the red onion, shred the cabbage and carrots. Mix with the mayonnaise, extra apple cider vinegar and a splash of pickling liquor from the gherkin jar. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Once your pork is cooked, tip the liquid into a jug and pour off any fat. Pull the pork with two forks and add 3/4 of the BBQ sauce. Mix well to combine and add cooking liquor to taste."
+    },
+    {
+      "heading": null,
+      "description": "Cut the buns in half (toast them if you like). Spoon in a dollop of the remaining BBQ sauce followed by the pulled pork, a big handful of slaw and some sliced gherkins. Serve with the remaining slaw on the side. Pulled pork done."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-01-21T00:00:00+00:00"
+}

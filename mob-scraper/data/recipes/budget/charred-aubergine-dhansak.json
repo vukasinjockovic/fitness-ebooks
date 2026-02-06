@@ -1,0 +1,283 @@
+{
+  "id": "4427754",
+  "slug": "charred-aubergine-dhansak",
+  "title": "Charred Aubergine Dhansak",
+  "url": "https://www.mob.co.uk/recipes/charred-aubergine-dhansak",
+  "summary": "Dhansak is a popular Indian curry usually made with goat or mutton. We’ve created an untraditional vegan riff on it, using aubergine instead.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Aubergine-Dhansak.jpg",
+  "cook_time": 45,
+  "prep_time": 20,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "fat": 10,
+    "saturated_fat": 7,
+    "carbohydrates": 22,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 84
+  },
+  "ingredients": [
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coconut Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Coriander",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Fenugreek Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fenugreek Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Red Split Lentils",
+      "quantity": "100",
+      "unit": null,
+      "name": "Red Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Red Split Lentils",
+      "quantity": "100",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Mint (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Coconut Yoghurt",
+      "quantity": "300",
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Coconut Yoghurt",
+      "quantity": "300",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Garam Masala",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice or Naan, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the aubergines into roughly 3cm (1in) cubes while you get a large, high-sided frying pan over a high heat. Add half the aubergine to the pan and dry-fry for about 4 minutes, turning halfway, until the aubergine is beginning to collapse and is a little charred. Tip into a bowl and repeat with the remaining aubergine."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion, ginger and garlic. Put the pan back over\na medium heat, melt in the coconut oil and add the onion. Cook,\nstirring occasionally, until soft, then add the garlic and ginger and\ncook for 1 minute more."
+    },
+    {
+      "heading": null,
+      "description": "Spoon in the chilli powder, ground coriander, turmeric and\nfenugreek or cumin seeds."
+    },
+    {
+      "heading": null,
+      "description": "Give everything a good stir until smelling amazing, then tip in\nthe plum tomatoes, along with 1 ½ tins of water. Stir in the lentils,\nbring the curry to a simmer and cook for 15 mins. Add the\naubergine to the curry, cover and cook for 15–20 mins more\nuntil the aubergine and lentils are cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Herby yoghurt time. Put most of the coriander (stalks and all)\nand mint leaves into a blender or food processor along with the\ncoconut yoghurt and 1 tsp of the garam masala. Blitz until\nsmooth-ish, season to taste with salt, pepper and lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Come back to the curry: stir though the remaining 2 tsp of garam masala and season to taste – you may want to add some of\nthe remaining lemon juice here."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the yoghurt over the curry and tear over the remaining\nherbs. Serve with rice or naan – your choice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-07-05T16:26:00+01:00"
+}

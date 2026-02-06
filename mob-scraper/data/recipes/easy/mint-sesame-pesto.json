@@ -1,0 +1,152 @@
+{
+  "id": "5302012",
+  "slug": "mint-sesame-pesto",
+  "title": "Mint & Sesame Pesto",
+  "url": "https://www.mob.co.uk/recipes/mint-sesame-pesto",
+  "summary": "A minty, creamy pesto that's especially great on grilled cheese sandwiches or plain pasta.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Sesame-Mint-Pesto.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 406,
+    "protein": 3,
+    "fat": 44,
+    "saturated_fat": 6,
+    "carbohydrates": 4,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "50g Mint",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sesame Seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Ginger",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Olive Oil",
+      "quantity": "150",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the mint, sesame oil, and sesame seeds to a blender. Peel the garlic clove and peel the ginger and roughly slice, then add in. Add the lime juice and season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add ⅓ of olive oil and begin to blend, then continue to add olive oil until you get to a thick pesto consistency."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-01T13:07:00+00:00"
+}

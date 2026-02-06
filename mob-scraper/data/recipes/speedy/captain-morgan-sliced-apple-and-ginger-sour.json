@@ -1,0 +1,140 @@
+{
+  "id": "3517036",
+  "slug": "captain-morgan-sliced-apple-and-ginger-sour",
+  "title": "Sliced Apple and Ginger Sour",
+  "url": "https://www.mob.co.uk/recipes/captain-morgan-sliced-apple-and-ginger-sour",
+  "summary": "This superb cocktail recipe does a great job at balancing sweet with sour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/06/Ginger.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 288,
+    "protein": 4,
+    "fat": null,
+    "saturated_fat": null,
+    "carbohydrates": 38,
+    "dietary_fibre": 0,
+    "sugars": 38,
+    "sodium": 54
+  },
+  "ingredients": [
+    {
+      "label": "50ml Captain Morgan Sliced Apple",
+      "quantity": "50",
+      "unit": null,
+      "name": "Gold Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Fresh Ginger",
+      "quantity": "200",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Ginger Shot",
+      "quantity": "50",
+      "unit": null,
+      "name": "Ginger Shot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Simple Syrup",
+      "quantity": "200",
+      "unit": null,
+      "name": "Simple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Lemon Juice",
+      "quantity": "35",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg White",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Cubed Ice",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lemon Twist To Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the ginger and pop it into a heat proof bowl with the ginger shot."
+    },
+    {
+      "heading": null,
+      "description": "Heat the syrup to a simmer and pour over the ginger. Let it steep until room temperature. Pass through a fine sieve and store in the fridge. The syrup will keep for up to a week."
+    },
+    {
+      "heading": null,
+      "description": "Combine 15ml of the ginger syrup with 50ml of Captain Morgan Sliced Apple, lemon juice and egg white in a cocktail shaker. Add one ice cube and dry shake for 10 secs. Now fill to the brim with ice and shake again for 15 secs."
+    },
+    {
+      "heading": null,
+      "description": "Strain into a chilled sours glass and garnish with a lemon twist."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-05T08:00:00+01:00"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "6027535",
+  "slug": "chipotle-tacos-with-tomato-strawberry-salsa",
+  "title": "Chipotle Tacos With Tomato Strawberry Salsa, Salsa Verde & Toasted Pistachios",
+  "url": "https://www.mob.co.uk/recipes/chipotle-tacos-with-tomato-strawberry-salsa",
+  "summary": "Adding in-season strawberries to your salsa creates a fresh, juicy and subtly sweet flavour that pairs beautifully with smoky chipotle-roasted mushrooms. We got all the ingredients from Deliveroo in a little as 20 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Chipotle-Tacos-With-Tomato-Strawberry-Salsa.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 8,
+    "fat": 32,
+    "saturated_fat": 5,
+    "carbohydrates": 48,
+    "dietary_fibre": 11,
+    "sugars": 10,
+    "sodium": 8
+  },
+  "ingredients": [
+    {
+      "label": "500g Mixed Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mixed Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mixed Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Chipotle Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Chipotle Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Jalapñeos",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Coriander",
+      "quantity": "80",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Red Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Strawberries",
+      "quantity": "4",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Pistachio Nuts",
+      "quantity": "10",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Cut the mushrooms into thin, uniform slices. Transfer to a bowl, then add the chipotle paste, 3 tbsp olive oil and a pinch of salt. Toss to combine until the mushrooms are evenly coated in chipotle marinade."
+    },
+    {
+      "heading": null,
+      "description": "Lay the mushrooms in a single layer on a baking tray (you might need to use two trays), then place the jalapeños, garlic and onion for the coriander salsa on the side of one tray. Roast for 30 mins, checking halfway."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the strawberry tomato salsa by cutting the strawberries and tomatoes into small cubes. Transfer to a bowl, squeeze in the lime juice, then add the olive oil and salt to taste. Toss to combine."
+    },
+    {
+      "heading": null,
+      "description": "Heat a medium-sized shallow frying pan over a medium-high heat. Remove the pistachio skins, then put the pistachios in the pan and gently stir. Cook for 3-5 mins until fragrant. Remove from the pan, place on a chopping board and roughly chop. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the coriander salsa, put the coriander, tomato, olive oil, red wine vinegar, lime juice, roasted jalapeños and roasted onion into a food processor. Lastly, squeeze the roasted garlic into the food processor and blitz to combine. If needed, add a small splash of water to loosen."
+    },
+    {
+      "heading": null,
+      "description": "Load your tacos up with roasted chipotle mushrooms, a drizzle of coriander salsa, a spoon of strawberry tomato salsa, avocado slices, a squeeze of fresh lime juice and a sprinkle of pistachio nuts."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Low Carb",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Rachel Ama",
+      "uri": "chefs/rachel-ama",
+      "summary": null
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-16T05:00:00+01:00"
+}

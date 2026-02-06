@@ -1,0 +1,248 @@
+{
+  "id": "7946349",
+  "slug": "crispy-chicken-meatballs-pesto-chickpeas",
+  "title": "Crispy Chicken Meatballs & Pesto Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/crispy-chicken-meatballs-pesto-chickpeas",
+  "summary": "Golden chicken meatballs, zingy pesto and creamy chickpeas, a one pan midweek dinner that the whole family will love.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Chicken-meatballs-pesto-and-chickpeas.jpg",
+  "cook_time": 30,
+  "prep_time": 20,
+  "total_time": 50,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "fat": 22,
+    "saturated_fat": 4,
+    "carbohydrates": 21,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 412
+  },
+  "ingredients": [
+    {
+      "label": "1 Slice Sourdough",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Whole Milk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chicken Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Eggs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Can Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Green Pesto",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Green Pesto",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Basil (30g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Basil (30g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": null,
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly tear the sourdough into chunks and chuck into a small bowl with the milk. Let it soak while you prep everything else. Peel and grate the carrot, then finely grate the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken mince, grated carrot, garlic, oregano and egg to a large mixing bowl. Squeeze the bread to remove any excess milk, then crumble it into the bowl. Season generously with salt and pepper, then mix everything together using your hands until fully combined."
+    },
+    {
+      "heading": null,
+      "description": "Roll the mixture into meatballs about the size of a walnut."
+    },
+    {
+      "heading": null,
+      "description": "Set a large frying pan over a medium heat with a drizzle of olive oil. Fry the meatballs in batches for 10-12 mins, turning occasionally, until golden on the outside and cooked through. Transfer to a plate."
+    },
+    {
+      "heading": null,
+      "description": "Drain and rinse the chickpeas. Add them to the same pan and fry for 3-4 mins until warmed through. Return the meatballs to the pan, then stir through the pesto and the juice of half the lemon. Taste and season."
+    },
+    {
+      "heading": null,
+      "description": "Serve up!Kids Plate: Dish out the chickpeas and meatballs, with a dollop of yoghurt on the side if you like.Parents Plate: Roughly tear the basil and sprinkle it over the top. Finish with a grating of parmesan, if using."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-10-09T06:00:00+01:00"
+}

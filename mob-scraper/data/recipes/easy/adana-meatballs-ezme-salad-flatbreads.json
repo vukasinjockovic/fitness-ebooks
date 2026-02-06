@@ -1,0 +1,280 @@
+{
+  "id": "7707338",
+  "slug": "adana-meatballs-ezme-salad-flatbreads",
+  "title": "Adana Meatballs, Ezme Salad & Flatbreads",
+  "url": "https://www.mob.co.uk/recipes/adana-meatballs-ezme-salad-flatbreads",
+  "summary": "Juicy, spiced lamb meatballs, zingy Ezme salad and fluffy flatbreads — this is your new favourite handheld feast. Don’t forget the yoghurt swipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Adana-Meatballs-Ezme-Salad-Flatbreads.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 463,
+    "protein": 26,
+    "fat": 33,
+    "saturated_fat": 11,
+    "carbohydrates": 17,
+    "dietary_fibre": 3,
+    "sugars": 11,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Lamb Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Roasted Red Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes (optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Pomegranate Molasses",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Roasted Red Peppers from a Jar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Roasted Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Pomegranate Molasses",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flatbreads or Pittas",
+      "quantity": null,
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Tbsp Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Sumac",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop one of the roasted red peppers. Peel and grate the garlic. Add both to a bowl with the lamb mince, ground cumin, smoked paprika, chilli flakes, a good pinch of salt and plenty of black pepper. Mix everything together with your hands, then shape into small sausage-shaped meatballs."
+    },
+    {
+      "heading": null,
+      "description": "Heat a drizzle of olive oil in a frying pan set over a medium-high heat. Fry the meatballs for 8–10 mins, turning now and then, until browned all over and cooked through. Drizzle in the pomegranate molasses and toss everything to coat."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the second roasted red pepper, the tomatoes and the red onion. Chuck it all into a bowl with the pomegranate molasses, a drizzle of olive oil, the juice of half a lemon and a pinch of salt. Mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Warm your flatbreads in a dry pan or directly over the flame if you’ve got gas."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon a smear of yoghurt onto each plate and sprinkle with sumac. Add the meatballs, pile on the Ezme salad and scatter over the parsley. Use the warm flatbreads to scoop everything up."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Turkish",
+    "Turkish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-08-07T11:19:00+01:00"
+}

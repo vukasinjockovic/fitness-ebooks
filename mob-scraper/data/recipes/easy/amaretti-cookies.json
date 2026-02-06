@@ -1,0 +1,154 @@
+{
+  "id": "6747282",
+  "slug": "amaretti-cookies",
+  "title": "Amaretti Cookies",
+  "url": "https://www.mob.co.uk/recipes/amaretti-cookies",
+  "summary": "These almond and lemon biscuits are crunchy on the outside, soft and chewy in the middle, and absolutely bursting with flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Amaretti-Cookies.jpg",
+  "cook_time": 15,
+  "prep_time": 15,
+  "total_time": 30,
+  "serving_size": 25,
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "fat": 5,
+    "saturated_fat": 0,
+    "carbohydrates": 9,
+    "dietary_fibre": 1,
+    "sugars": 8,
+    "sodium": 3
+  },
+  "ingredients": [
+    {
+      "label": "80g Icing Sugar",
+      "quantity": "80",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "360g Ground Almonds",
+      "quantity": "360",
+      "unit": null,
+      "name": "Ground Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Egg Whites",
+      "quantity": "125",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Honey",
+      "quantity": "4",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30 Whole Almonds",
+      "quantity": "30",
+      "unit": null,
+      "name": "Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 150°C. Line a large baking tray with baking paper. Sift the icing sugar into a small bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a separate mixing bowl, mix together the caster sugar, salt and ground almonds. Zest in the lemons and mix thoroughly."
+    },
+    {
+      "heading": null,
+      "description": "In another mixing bowl, use an electric whisk to beat the egg whites and honey together until thick and glossy with stiff peaks forming."
+    },
+    {
+      "heading": null,
+      "description": "Use a spoon or spatula to gently fold the egg whites into the ground almond mix. Use a spoon or your hands to portion out the dough into roughly 25g pieces and roll them into balls."
+    },
+    {
+      "heading": null,
+      "description": "Coat the cookies in some icing sugar and place them on the prepared baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Gently press an almond into the centre of each cookie then slide the tray into the oven to bake for 15-20 mins, until cracked on the surface. Let them cool down fully before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-06T15:32:00+01:00"
+}

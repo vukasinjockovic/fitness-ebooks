@@ -1,0 +1,160 @@
+{
+  "id": "7130502",
+  "slug": "peanut-curry-noodles-and-crispy-tofu",
+  "title": "Peanut Curry Noodles & Crispy Tofu",
+  "url": "https://www.mob.co.uk/recipes/peanut-curry-noodles-and-crispy-tofu",
+  "summary": "Using our silky peanut curry sauce, with the crispiest tofu, these noodles are the ultimate, no-fuss weeknight dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Peanut-Curry-Noodles-Crispy-Tofu.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 28,
+    "fat": 19,
+    "saturated_fat": 5,
+    "carbohydrates": 92,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": null,
+      "quantity": null,
+      "unit": null,
+      "name": "Third of Peanut Curry Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Coriander",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Firm Tofu",
+      "quantity": "250",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Firm Tofu",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cornflour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp kecap manis",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kecap Manis",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dried Udon Noodles",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dried Udon Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the air fryer to 200°C. Pick the coriander leaves and discard the stems."
+    },
+    {
+      "heading": null,
+      "description": "Chop the tofu into 2cm chunks and toss through the cornflour. Season with salt. Drizzle with olive oil and air-fry for 15–20 mins until golden and crisp. Once cooked, toss the tofu through the kecap manis to glaze."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, bring a saucepan of water to the boil. Cook the udon noodles following pack instructions. Drain and run under cold water to stop them sticking. If you want the noodles hot, return them to the pan with a splash of water and the peanut curry sauce. Stir over medium heat until warmed through. Otherwise, just mix the sauce straight through the cold noodles."
+    },
+    {
+      "heading": null,
+      "description": "Divide the noodles between bowls. Top with the crispy glazed tofu, coriander and a sprinkle of toasted sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-01T12:12:00+00:00"
+}

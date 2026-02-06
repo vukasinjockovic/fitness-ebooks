@@ -1,0 +1,311 @@
+{
+  "id": "1434322",
+  "slug": "sauerkraut-and-mushroom-pierogi",
+  "title": "Sauerkraut and Mushroom Pierogi",
+  "url": "https://www.mob.co.uk/recipes/sauerkraut-and-mushroom-pierogi",
+  "summary": "Pierogi are a Polish staple; crispy dumplings with spiced mushroom and sauerkraut. Topped with garlicky caramelised onions and lemony coconut yoghurt. Seema x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Sauerkraut-and-Mushroom-Pierogi.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 150,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 7,
+    "fat": 19,
+    "saturated_fat": 5,
+    "carbohydrates": 44,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 522
+  },
+  "ingredients": [
+    {
+      "label": "300g Plain Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Water",
+      "quantity": "125",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Olive Oil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shiitake Mushrooms (or Porcini Mushrooms)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Chestnut Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Chestnut Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch Of Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Sauerkraut",
+      "quantity": "300",
+      "unit": null,
+      "name": "Sauerkraut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Marjoram",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Marjoram",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bay Leaf",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Vegetable Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Brown Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Coconut Yoghurt",
+      "quantity": "300",
+      "unit": null,
+      "name": "Coconut Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Coconut Yoghurt",
+      "quantity": "300",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Of Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Wash the shiitake mushrooms in cold water and then soak in 200ml of hot water for 30 minutes."
+    },
+    {
+      "heading": null,
+      "description": "For the dough, place the flour into a large bowl and stir in ½ tsp salt. Make a well in the middle and pour in 125ml cold water and 50ml olive oil. Stir with a wooden spoon and then start kneading with your hands. This will form a very dry dough, but keep kneading for 5 minutes until it comes together. Wrap in cling film or cover with a bowl and allow to rest for at least 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your chestnut mushrooms, 1 brown onion, and garlic. Sauté the onion with cumin in a glug of vegetable oil in a large saucepan until browned for about 7 minutes. Add in the mushrooms and continue to cook until they are very soft and browned, this may take 15 minutes. Mix in the garlic and cook for 1 minute until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the sauerkraut, marjoram, bay leaf, sugar, vegetable stock and the shiitake mushrooms with their soaking liquid. Mix well and allow to simmer for 20 minutes or until most of the liquid has evaporated."
+    },
+    {
+      "heading": null,
+      "description": "Take out the shiitake mushrooms along with ¼ of the filling and blend in a food processor. Return it back to the pan and give it a good mix. Season with salt if required (this may depend on how salty the sauerkraut is). Place in a bowl so that it can cool down."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice up the 3 remaining onions. Heat a few large glugs of oil in a heavy-bottomed saucepan and cook the onions on a low heat until caramelised, this can take about 20 minutes. Add in a splash of water if they keep sticking to the bottom of the pan. Once they are cooked grate in 3 cloves of garlic and a big pinch of salt. Mix well and cook for a further minute."
+    },
+    {
+      "heading": null,
+      "description": "Mix together the coconut yoghurt and the zest of half a lemon. Add in a 3 tbsp of water and mix to reach the consistency of sour cream."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chives."
+    },
+    {
+      "heading": null,
+      "description": "For the pierogi dough, knead the dough for about 1 minute so it is uniform and then divide into 4. Roll each piece of dough into a rectangle and pass it through a pasta machine. Keep passing it through the machine until you get to the second last thinnest setting."
+    },
+    {
+      "heading": null,
+      "description": "Cut out large circles either using an 85mm cutter or the bottom of a glass. You can press the scraps back together and reroll them, but reroll them last so they can relax whilst you roll the other pieces."
+    },
+    {
+      "heading": null,
+      "description": "Place 1 tsp of filling in the centre, and lightly dampen half of the wrapper. Fold in half and press down to seal. You can leave it as is, press down with a fork to seal or crimp like a Cornish pasty."
+    },
+    {
+      "heading": null,
+      "description": "Continue rolling the dough and making pierogi, placing on a heavily-floured baking tray"
+    },
+    {
+      "heading": null,
+      "description": "Heat up a large pot of salted water and another pan with a glug of oil"
+    },
+    {
+      "heading": null,
+      "description": "Boil the pierogi for 2-3 minutes, or until they float. Then immediately pan fry them until crispy."
+    },
+    {
+      "heading": null,
+      "description": "Serve with the lemony yoghurt, caramelised onions and chives."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Polish"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-28T09:30:00+00:00"
+}

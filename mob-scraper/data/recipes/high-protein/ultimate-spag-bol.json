@@ -1,0 +1,303 @@
+{
+  "id": "6973682",
+  "slug": "ultimate-spag-bol",
+  "title": "Ultimate Spag Bol",
+  "url": "https://www.mob.co.uk/recipes/ultimate-spag-bol",
+  "summary": "To be clear, spag bol isn’t about making something ‘traditional’, it’s about having fun. Sure, we’re borrowing some ideas from the Bolognese classic (adding milk) but also ingredients from ragu found in other parts of Italy, like herbs from ragu Toscano, and finishing with a truly British addition, Worcestershire sauce. Rich, meaty, nostalgic you’ll make it again and again.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Spaghetti-Bolognese.jpg",
+  "cook_time": 190,
+  "prep_time": 0,
+  "total_time": 190,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 36,
+    "fat": 27,
+    "saturated_fat": 10,
+    "carbohydrates": 80,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "100g Pancetta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Diced Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stick Celery",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Butter",
+      "quantity": "25",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stick Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175 ml Red Wine",
+      "quantity": "175",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp Worcestershire Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Chicken Stock",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tinned Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tinned Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Whole Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Parmesan (to serve)",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Garlic bread (to serve)",
+      "quantity": null,
+      "unit": null,
+      "name": "Garlic Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 160°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Add the pancetta to a large, heavy pan with a drizzle of olive oil. Place it over a low-medium heat and gently cook until the fat is released and the pancetta starts to turn crispy."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile finely chop the onion, carrot and celery and peel the garlic. Add to the pan along with the butter, a pinch of salt, the bay leaves and rosemary and fry for 8-10 mins until the veggies are soft and the pancetta is nice and browned. Don’t rush this step."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the contents of the pan to a bowl and set aside. Return the empty pan to the hob, turn up the heat to high and tip in the beef mince and a big pinch of salt. Use the back of your spoon to break the mince up and fry until brown."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the red wine and let it bubble away over the high heat until reduced by half. Add the Worcestershire sauce then pour in the stock followed by the plum tomatoes. Return the veggies and pancetta to the pan and pour in the milk. Add the salt (the full amount listed in the ingredients list), bring to a simmer, then place a lid on and transfer to the oven for 2½ hrs."
+    },
+    {
+      "heading": null,
+      "description": "Once the ragu is ready, you can cook your pasta and serve straightaway, but the sauce is even better made the day before and then reheated. If you are prepping ahead of time, let the ragu cool to room temp and place in the fridge overnight. The next day, use a spoon to scrape off the layer of fat which will have solidified on top."
+    },
+    {
+      "heading": null,
+      "description": "Either way, when ready to eat, cook your spaghetti in a large pan of boiling salted water for 2 mins less than the packet instructions. Drain in a colander, saving a mug full of the salty, starchy cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Return the spaghetti to the pan you boiled it in and spoon in the ragu. Place over a low-medium heat and continue cooking, stirring and adding splashes of the reserved water (it should be bubbling but not frying) for another 2 mins or so, until you have a thick glossy sauce that clings to the pasta."
+    },
+    {
+      "heading": null,
+      "description": "Serve with black pepper, lots of Parmesan, and garlic bread on the side!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-American"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-22T09:00:00+00:00"
+}

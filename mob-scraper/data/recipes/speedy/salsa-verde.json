@@ -1,0 +1,133 @@
+{
+  "id": "6755625",
+  "slug": "salsa-verde",
+  "title": "Salsa Verde",
+  "url": "https://www.mob.co.uk/recipes/salsa-verde",
+  "summary": "A classic tomatillo salsa to add some heat to any taco. There are many salsa recipes, but this one is probably the one that all Mexicans love. I highly recommend using fresh tomatillos when you make it at home.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Salsa-Verde.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 24,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 5,
+    "dietary_fibre": 1,
+    "sugars": 3,
+    "sodium": 244
+  },
+  "ingredients": [
+    {
+      "label": "6 good size fresh tomatillos",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomatillo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ medium onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 fresh jalapeños",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 garlic cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 garlic cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g fresh coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Maldon salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maldon Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch caster sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the onion and garlic cloves and add them to a saucepan along with the fresh tomatillos and jalapeños. Cover them with water. Bring to a boil over a medium heat then lower the heat and simmer for 10 mins. Meanwhile, roughly chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Strain the vegetables from the water (don’t discard the water yet) and transfer them to a blender, adding the coriander, salt and pinch of caster sugar."
+    },
+    {
+      "heading": null,
+      "description": "Blend until smooth. If the salsa is too thick, add a splash of water until it’s the desired consistency."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Karla Zazueta",
+      "uri": "chefs/karla-zazueta",
+      "summary": "Karla Zazueta is an incredible Mexican cook, food writer and cookery teacher. She teaches her Mexican traditions, recipes and techniques through cooking classes at her Mexican Food Memories cooking school. She also hosts Mexican supper clubs at her family home. Her recipes have been featured in The Guardian, BBC Food, NatGeo Food Magazine and many more. She's also just released her first cookbook, Norteña, where she shares the story of her family recipes and northern Mexico."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T15:48:00+01:00"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "3264500",
+  "slug": "creamy-leek-potatoes",
+  "title": "Creamy Leek Potatoes",
+  "url": "https://www.mob.co.uk/recipes/creamy-leek-potatoes",
+  "summary": "This is my version of a potato salad for when it's cold outside. They're so moreish and take just 20 mins to make. Hannah x",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A0217-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 6,
+    "fat": 19,
+    "saturated_fat": 10,
+    "carbohydrates": 27,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 74
+  },
+  "ingredients": [
+    {
+      "label": "600g Baby Potatoes",
+      "quantity": "600",
+      "unit": null,
+      "name": "Baby Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Baby Potatoes",
+      "quantity": "600",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Leek",
+      "quantity": "1",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml White Wine",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parmesan",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the potatoes in half, place them in a pan of cold water and bring it to a boil. Simmer for 15 mins or until cooked."
+    },
+    {
+      "heading": null,
+      "description": "Slice the leek in half length ways, then slice into roughly 1cm strips. Wash to get any dirt out."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan on a medium heat and sweat off the leeks in a glug of olive oil and the butter. Gently cook until softened before adding the garlic and cooking for a couple more mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the cream and the white wine and reduce for a few mins until the sauce has thickened and is glossy. Then grate in the parmesan."
+    },
+    {
+      "heading": null,
+      "description": "Once the potatoes are cooked, strain them and add them to the creamy leeks. Season with salt and pepper, finish with the chopped parsley and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Hannah Miller",
+      "uri": "chefs/hannah-miller",
+      "summary": "Hannah Miller is a multi-talented creator, recipe developer and social media mogul. Hannah played a hand in creating some absolute Mob classics. If you haven't tried it, her French Style Hot Chocolate recipe is a must."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-04-03T10:00:00+01:00"
+}

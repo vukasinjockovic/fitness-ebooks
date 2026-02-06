@@ -1,0 +1,119 @@
+{
+  "id": "6055502",
+  "slug": "mushy-peas-recipe",
+  "title": "Mushy Peas",
+  "url": "https://www.mob.co.uk/recipes/mushy-peas-recipe",
+  "summary": "You can’t have fish and chips without mushy peas. Fact. Making your own mushy peas recipe couldn’t be simpler and these will 100% be better than anything you might get at the chippy. This mushy peas recipe uses traditional ingredients like marrowfat peas, giving it an authentic taste and creamy texture. Simple and easy to prepare, mushy peas offer a delightful complement to various main courses. Ideal for both family dinners and casual gatherings, this dish is not only delicious but also rich in protein. Whether you're a fan of classic British food or just looking for a tasty side, this mushy peas recipe is sure to satisfy your chip shop craving. Keep any leftovers in the fridge and enjoy a hearty, nutritious meal any day of the week.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Mushy-Peas-Recipe.jpg",
+  "cook_time": 25,
+  "prep_time": 2,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 181,
+    "protein": 7,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 19,
+    "dietary_fibre": 5,
+    "sugars": 2,
+    "sodium": 322
+  },
+  "ingredients": [
+    {
+      "label": "3 x 300g Cans Marrowfat Peas",
+      "quantity": "3",
+      "unit": null,
+      "name": "Marrowfat Peas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Chicken Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Malt Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Malt Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "White Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Drain the marrowfat peas through a fine sieve (discard the liquid), then tip them into a small saucepan. Pour in the chicken stock and put over a medium-high heat. Bring to the boil, then reduce the heat slightly and simmer for 20 mins until the peas are starting to collapse and it has thickened. Remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Use a potato masher to roughly crush the peas, then add the butter and season with the vinegar, salt and white pepper to taste."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British",
+    "British-Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-22T09:15:00+01:00"
+}

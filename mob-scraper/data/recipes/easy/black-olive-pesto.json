@@ -1,0 +1,191 @@
+{
+  "id": "5302090",
+  "slug": "black-olive-pesto",
+  "title": "Black Olive Pesto Linguine",
+  "url": "https://www.mob.co.uk/recipes/black-olive-pesto",
+  "summary": "A cross between a tapenade and a pesto, this black olive pesto is briny and super savoury. We've served it with linguine here but you can use it for all sorts of delicious dishes: pastas, salads, sandwiches, the possibilities are endless!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Black-Pesto.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 16,
+    "fat": 44,
+    "saturated_fat": 7,
+    "carbohydrates": 62,
+    "dietary_fibre": 5,
+    "sugars": 3,
+    "sodium": 678
+  },
+  "ingredients": [
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Linguine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Linguine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Sun-Dried Black Olives",
+      "quantity": "150",
+      "unit": null,
+      "name": "Sun-Dried Black Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Toasted Pine Nuts",
+      "quantity": "50",
+      "unit": null,
+      "name": "Toasted Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Parmesan",
+      "quantity": "70",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Squid Ink",
+      "quantity": "1",
+      "unit": null,
+      "name": "Squid Ink",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Olive Oil",
+      "quantity": "150",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": null,
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the linguine in salted boiling water following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Add the sun-dried black olives and toasted pine nuts to a blender. Peel the garlic clove and roughly slice the Parmesan, then add in. Add juice of your lemon and season generously with salt and pepper. Add the squid ink, if using."
+    },
+    {
+      "heading": null,
+      "description": "Add ⅓ of olive oil and begin to blend, then continue to add olive oil until you get to a thick pesto consistency."
+    },
+    {
+      "heading": null,
+      "description": "Drain the cooked linguine, reserving a cup of the cooking pasta, and return the linguine to the pan. Stir through the pesto, add a splash of cooking water and mix until thoroughly combined."
+    },
+    {
+      "heading": null,
+      "description": "Divide the pasta between bowls and top with some fresh parsley and extra Parmesan, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Snacks",
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-30T03:00:00+00:00"
+}

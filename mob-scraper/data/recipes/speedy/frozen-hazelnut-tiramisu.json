@@ -1,0 +1,121 @@
+{
+  "id": "4495724",
+  "slug": "frozen-hazelnut-tiramisu",
+  "title": "Frozen Hazelnut Tiramisu",
+  "url": "https://www.mob.co.uk/recipes/frozen-hazelnut-tiramisu",
+  "summary": "Tiramisu, but not as you know it! We’ve used coffee ice cream and trifle sponge to create a cheat's, no-cook version of a classic dessert.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Frozen-Hazelnut-Tiramisu.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 312,
+    "protein": 5,
+    "fat": 15,
+    "saturated_fat": 7,
+    "carbohydrates": 34,
+    "dietary_fibre": 2,
+    "sugars": 23,
+    "sodium": 54
+  },
+  "ingredients": [
+    {
+      "label": "1500g Coffee Ice Cream",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Coffee Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1500g Coffee Ice Cream",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Trifle Sponge Fingers",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sponge Fingers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Rum",
+      "quantity": "8",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Roasted & Chopped Hazelnuts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Roasted Hazelnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cocoa Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring the ice cream out of the freezer 10 mins before assembling so it's just softening. Layer half of the trifle sponge in a cling film lined tin (20x20cm) making sure there is overhang."
+    },
+    {
+      "heading": null,
+      "description": "Tip the ice cream into a mixing bowl and stir quickly - this makes the ice cream easier to spread. Then drizzle half the rum over the sponge and then top with half of the ice cream. Flatten with a spatula then repeat the process with the remaining sponge, rum and ice cream."
+    },
+    {
+      "heading": null,
+      "description": "Smooth the top and sprinkle with the hazelnuts, then get it back in the freezer as soon as possible. Freeze for at least 4 hours until set, preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "When it's time to serve, take out of the freezer 5-10 mins before slicing. Dust with cocoa powder and heat a knife by dunking in hot water. Slice into bars and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-31T10:51:00+01:00"
+}

@@ -1,0 +1,271 @@
+{
+  "id": "5642610",
+  "slug": "chip-shop-tacos",
+  "title": "Chip Shop Tacos",
+  "url": "https://www.mob.co.uk/recipes/chip-shop-tacos",
+  "summary": "We're obsessed with fish and chips. We're obsessed with tacos. We've combined those two obsessions here for a fish taco recipe inspired by your favourite chippy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Chip-Shop-Tacos.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 670,
+    "protein": 34,
+    "fat": 32,
+    "saturated_fat": 4,
+    "carbohydrates": 60,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 1010
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Balsamic Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Self-Raising Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165ml Beer",
+      "quantity": "165",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "390g Cod Fillets",
+      "quantity": "390",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tortillas",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil, for frying (try canola oil)",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mayonnaise",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the chilli in half, remove the seeds and finely dice. Pick the mint leaves, finely chop them and finely dice the onion."
+    },
+    {
+      "heading": null,
+      "description": "Defrost the peas either in the microwave or by pouring boiling water over them. Add the peas to a bowl along with the chilli, mint and onion. Add the capers, balsamic vinegar, a splash of oil and a pinch of salt to the bowl and stir well. Set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "For the batter, put the flour into a bowl along with ½ tsp salt and ½ tsp black pepper. Add the beer and whisk until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Cut the cod into chunky fingers about 4cm wide and pat dry."
+    },
+    {
+      "heading": null,
+      "description": "Cover the bottom of a large, deep frying pan with neutral oil and heat to 180°C. When the oil is ready, immerse the cod fingers in the batter until fully coated and lay directly into the pan. Repeat the process without overfilling the pan. Cook on each side for 3-4 mins or until golden, then transfer to a cooling rack or plate lined with kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "For the curry mayo, combine the mayonnaise, curry powder, lemon juice and a pinch of salt in a bowl. Stir until fully incorporated. Heat the tacos following pack instructions and remove the pea salsa from the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Assemble by spreading some mayonnaise over a taco, then add a fish finger and a generous helping of pea salsa on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-28T05:00:00+01:00"
+}

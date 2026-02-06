@@ -1,0 +1,191 @@
+{
+  "id": "5738727",
+  "slug": "tabbouleh-recipe",
+  "title": "Classic Tabbouleh",
+  "url": "https://www.mob.co.uk/recipes/tabbouleh-recipe",
+  "summary": "This could be the tabbouleh recipe to end all tabbouleh recipes. If you’re a fan of Middle-Eastern cuisine then you’re in for a treat, as this Lebanese tabbouleh recipe is certain to tick all the right boxes. Discover the freshness of Middle Eastern cuisine with our vibrant tabbouleh recipe. A delightful blend of herbs, grains, and tangy dressing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Classic-Tabbouleh-Recipe.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 222,
+    "protein": 5,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 16,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "50g Bulgur Wheat",
+      "quantity": "50",
+      "unit": null,
+      "name": "Bulgur Wheat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch Flat-Leaf Parsley (100g)",
+      "quantity": "100",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Mint (25-30g)",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Ripe Vine Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Ripe Vine Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Flaked Almonds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the bulgur wheat following pack instructions then drain really well through a fine sieve. Leave to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the parsley leaves, then pick the mint leaves and finely chop those too. Scrape everything into a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Very finely chop the spring onions and add these to the bowl. Dice the tomatoes into 1cm cubes, then cut the cucumber into similar sized pieces and add both to the bowl."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle in the olive oil, squeeze in the lemon juice and tip in the cooked and strained bulgur."
+    },
+    {
+      "heading": null,
+      "description": "Use a spoon to mix all the ingredients together, then season really well with salt and black pepper and stir again."
+    },
+    {
+      "heading": null,
+      "description": "Tip the flaked almonds into a small frying pan and put over a medium heat. Fry for 3-4 minutes, tossing regularly until evenly golden brown. Tip into the bowl and toss again."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T10:22:00+01:00"
+}

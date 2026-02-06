@@ -1,0 +1,309 @@
+{
+  "id": "4623597",
+  "slug": "tofu-spinach-saag-curry",
+  "title": "Tofu Spinach Saag Curry",
+  "url": "https://www.mob.co.uk/recipes/tofu-spinach-saag-curry",
+  "summary": "This is a vegan riff on saag paneer, an Indian dish using cheese and leafy greens. We’ve used tofu here which absorbs all the flavour from the spices perfectly and finished it off with a tarka. This one also has coconut milk, which is not traditional, but a creamy coconutty addition.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Tofu-Spinach-Saag-Curry.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 32,
+    "fat": 47,
+    "saturated_fat": 22,
+    "carbohydrates": 110,
+    "dietary_fibre": 13,
+    "sugars": 11,
+    "sodium": 98
+  },
+  "ingredients": [
+    {
+      "label": "1 Small Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb Sized Piece of Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Cardamom Seeds (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Coriander Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegetable Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spinach",
+      "quantity": "500",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Coconut Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garam Masala",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ – 1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "370g Medium Firm Tofu",
+      "quantity": "370",
+      "unit": null,
+      "name": "Medium Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "370g Medium Firm Tofu",
+      "quantity": "370",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Rice, To Serve",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8–10 Curry Leaves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the rice according to the instructions."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion, peel and mince the garlic and ginger. Finely chop the chilli."
+    },
+    {
+      "heading": null,
+      "description": "Bash the cardamom seeds and remove the pods. Crush the coriander and cumin seeds and the cardamom seeds in a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Heat vegetable oil in a large pot. Add the coriander and cardamom seeds to the oil and cook on a low heat for about 2 mins until it smells toasted and they are starting to brown. Add the chopped onion and cook for 5-7 mins until translucent, stirring often."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic and ginger and half of the chilli. Stir and cook for 1-2 mins until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the spinach in and a good pinch of salt. If it doesn't all fit in the pan, let some cook down before adding more. Stir and cook on low until just wilted, try not to overcook it as you want to keep the brightness of the spinach."
+    },
+    {
+      "heading": null,
+      "description": "Use an immersion blender, if you have one, or a food processor to blend the spinach into a chunky paste. Take care, as it can get a bit messy using an immersion blender, you may want to cover the pot with a tea towel. Pour the coconut milk, chilli powder, and garam masala into the pot with the spinach and stir to combine."
+    },
+    {
+      "heading": null,
+      "description": "Cut the tofu down the middle on the thinner side, so you have two rectangular slabs. Then cut the slabs into small cubes. Add the tofu cubes to the coconut spinach and gently stir to heat through. Cook on a low-medium heat for about 10 mins, so that the flavour absorbs into the tofu. Taste and adjust the seasonings, spinach usually needs quite a lot of salt and pepper to bring out the flavour, especially when cooked."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the tarka. Finely slice the garlic. Heat your vegetable oil in a small saucepan. Add the garlic, remaining chopped chilli, curry leaves, mustard and cumin seeds to the hot oil. Fry for 2-4 mins, stirring often, until the garlic has just turned brown. Quickly remove the tarka from the hot pan as the ingredients will continue cooking and browning."
+    },
+    {
+      "heading": null,
+      "description": "Serve the curry with the rice and the tarka on top. Finish with a squeeze of lime."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Batch",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-10-27T14:13:00+01:00"
+}

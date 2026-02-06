@@ -1,0 +1,268 @@
+{
+  "id": "5839363",
+  "slug": "scampi-sandwich-recipe",
+  "title": "Scampi Sarnie",
+  "url": "https://www.mob.co.uk/recipes/scampi-sandwich-recipe",
+  "summary": "Nothing says summer like eating a scampi sarnie in the sun. This homemade version will show you how to make your prawns perfectly crisp and golden.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Scampi-Sandwich.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 523,
+    "protein": 18,
+    "fat": 17,
+    "saturated_fat": 2,
+    "carbohydrates": 70,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "20 Raw Medium Prawns",
+      "quantity": "20",
+      "unit": null,
+      "name": "Raw Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 Raw Medium Prawns",
+      "quantity": "20",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Rice Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Rice Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Baking Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Vodka",
+      "quantity": "150",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Lager",
+      "quantity": "150",
+      "unit": null,
+      "name": "Lager",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Pickled Jalapeños",
+      "quantity": "75",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Mayonnaise",
+      "quantity": "6",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices White Bread",
+      "quantity": "8",
+      "unit": null,
+      "name": "White Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sliced Dill Pickles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Dill Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Sauce, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the prawns and whip out the grit line by cutting a small incision down the back and removing with a fork. Mix the flours, baking powder and sugar in a medium bowl. Slowly whisk in the vodka and the beer until you have a loose batter."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the jalapeños and tip into a bowl. Finely chop the shallots and dill and get them in there too along with the mayonnaise and the zest of the lemon. Shave the white cabbage and toss with a little salt. Slice and season the tomatoes and toast the bread."
+    },
+    {
+      "heading": null,
+      "description": "Preheat a pot of oil to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Working in batches, toss the prawns in the extra rice flour and coat in the batter before carefully lowering into the hot oil. Fry for 3-4 mins or until golden brown. Fish out of the hot oil and drain on kitchen paper. Season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Add some jalapeño mayo to both sides of the sandwich, top with a handful of cabbage, a few slices of tomato, pickles and some hot scampi. Add hot sauce to your taste, pop the lid on and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-21T09:00:00+01:00"
+}

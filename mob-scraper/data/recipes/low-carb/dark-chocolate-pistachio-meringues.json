@@ -1,0 +1,131 @@
+{
+  "id": "6521048",
+  "slug": "dark-chocolate-pistachio-meringues",
+  "title": "Dark Chocolate & Pistachio Meringues",
+  "url": "https://www.mob.co.uk/recipes/dark-chocolate-pistachio-meringues",
+  "summary": "Rich cocoa meringues dipped in dark chocolate and chopped pistachios. An incredible base for a dessert.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Dark-Chocolate-Pistachio-Meringues.jpg",
+  "cook_time": 120,
+  "prep_time": 15,
+  "total_time": 135,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "fat": 5,
+    "saturated_fat": 2,
+    "carbohydrates": 16,
+    "dietary_fibre": 2,
+    "sugars": 14,
+    "sodium": 28
+  },
+  "ingredients": [
+    {
+      "label": "5 room temperature egg whites",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg White",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/6 Lemon",
+      "quantity": ".16",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "230g golden caster sugar",
+      "quantity": "230",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Cocoa Powder",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g",
+      "quantity": "150",
+      "unit": null,
+      "name": "70% Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Pistachios",
+      "quantity": "80",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 120°C fan. Line a baking tray with baking parchment. Make sure your egg whites are at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, use an electric whisk to whip the egg whites with the juice of the lemon juice and a pinch of salt for about 2 mins until soft peaks form. Slowly beat in the sugar, 2 tbsp at a time, and continue until thick and glossy and stiff peaks are forming (when you hold the whisk up, the mixture should stand in a firm peak). Sieve the cocoa powder then fold it into the meringue mix, using a metal spoon or spatula."
+    },
+    {
+      "heading": null,
+      "description": "Using a metal dessert spoon (or a piping bag with the 1M nozzle / 1.5cm open star nozzle attached), transfer neat tablespoon-sized dollops of meringue onto your baking tray."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 1 hour, or until set, then turn off the oven and leave the meringues inside to dry for another hour with the oven door closed."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, roughly chop the pistachios, or grind them with a pestle and mortar until fine but not powdery."
+    },
+    {
+      "heading": null,
+      "description": "When the meringues are cool, break the chocolate into pieces. Add to a heat proof mixing bowl and set over a pot of gently boiling water (a bain marie). Stir until melted."
+    },
+    {
+      "heading": null,
+      "description": "Very carefully, dip the base of each meringue first in the chocolate, then in the crushed pistachio. Alternatively, use a teaspoon to zig-zag chocolate across the top of each meringue and dust with pistachio."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-19T11:29:00+01:00"
+}

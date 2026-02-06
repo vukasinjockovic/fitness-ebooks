@@ -1,0 +1,280 @@
+{
+  "id": "3424731",
+  "slug": "curried-fish-burger",
+  "title": "Curried Fish Burger",
+  "url": "https://www.mob.co.uk/recipes/curried-fish-burger",
+  "summary": "Between 2 Buns episode one – this one's a ripper. Crispy fried fish, spiced curried mayo, mango slaw, pickled cucumbers, and mint yoghurt. Oh, and a bun. B x",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A6701.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 547,
+    "protein": 31,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 69,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 803
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Curry Powder",
+      "quantity": "4",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mango Chutney",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango Chutney",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mayo",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Red Cabbage, Shredded",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli, Finely Sliced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions, Thinly Sliced",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2  Mango, Thinly Sliced",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Pickled Cucumbers",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pickled Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Portions of Cod Loin",
+      "quantity": "600",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Rice Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Rice Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Baking Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Lager",
+      "quantity": "300",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Onion Seed Brioche Buns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Onion Seed Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mix together the yoghurt and mint with a squeeze of lemon and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Mix together a tablespoon of curry powder with the mango chutney and mayo."
+    },
+    {
+      "heading": null,
+      "description": "Combine the cabbage, chilli, spring onion, coriander, and mango. Season with salt and a big squeeze of lemon."
+    },
+    {
+      "heading": null,
+      "description": "Drain the pickled cucumbers."
+    },
+    {
+      "heading": null,
+      "description": "Season the cod loin with salt. Whisk together the flours with the baking powder, remaining curry powder, and a pinch of salt. Whisk in the lager until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Heat a pan of vegetable oil to 190°C. Dredge the fish in some extra rice flour, pass it through the spiced beer batter and fry for 10-12 minutes until cooked through, crispy, and golden. Season with salt and drain on kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Toast the buns and build your burgers. Start with a layer of mint yoghurt, then follow it up with some pickled cucumbers. Lay the fish down, add a handful of slaw, and slather the top bun with your curried mayo. Crown your creation and give it a squish. Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-05-18T17:24:00+01:00"
+}

@@ -1,0 +1,296 @@
+{
+  "id": "3994435",
+  "slug": "jerk-chicken-wrap-2",
+  "title": "Sweet Dee's Jerk Chicken Wrap",
+  "url": "https://www.mob.co.uk/recipes/jerk-chicken-wrap-2",
+  "summary": "Sweet Dee's 24-hour marinated jerk chicken thighs, roasted in the oven, stuffed into a soft tortilla wrap with two sauces, salad and fried plantain.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Juici-Jerk-Chicken-Wrap.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 54,
+    "fat": 62,
+    "saturated_fat": 14,
+    "carbohydrates": 54,
+    "dietary_fibre": 4,
+    "sugars": 27,
+    "sodium": 1232
+  },
+  "ingredients": [
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Bunch Thyme",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Scotch Bonnets",
+      "quantity": "2",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Allspice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground All Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4-5 Thick Slices Of Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cloves Garlic",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Orange Juice",
+      "quantity": "60",
+      "unit": null,
+      "name": "Orange Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Brown Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Coconut Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Boneless Chicken Thighs",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Boneless Chicken Thighs",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Ripe Plantains",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plantain",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Juici Jerk BBQ (Regular BBQ Sauce Is A Decent Alternative)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Barbecue Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Mayo",
+      "quantity": "8",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mixed Salad, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Mixed Salad Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Avocado, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Coleslaw, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Coleslaw",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place all of the marinade ingredients in a food processor with a 1 1/2 tbsp of olive oil &amp; blend. Toss with chicken and marinade overnight, or for at least 30 min."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 220°C. Chuck your marinated chicken onto a tray and roast for 15-16 mins until golden brown, a bit gnarly and cooked through. Allow to rest for 10-12 mins."
+    },
+    {
+      "heading": null,
+      "description": "Peel and cut plantain into fries. Add enough oil to a saucepan for shallow frying. Fry the plantain over a medium heat on all sides until golden and tender. This will take roughly 4-5 mins."
+    },
+    {
+      "heading": null,
+      "description": "To make the jerk mayo, mix the mayo with 3 tbsp of jerk sauce and season, set aside."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your chicken thighs and toss with couple of spoons of jerk sauce."
+    },
+    {
+      "heading": null,
+      "description": "Warm your wraps, stack up with the jerk chicken, salad, avocado, coleslaw and plenty of extra jerk sauce and jerk mayo. Get them wrapped up and get stuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Sweet Dee's",
+      "uri": "chefs/sweet-dees",
+      "summary": "Troy Johnson, a driven entrepreneur from South West London, launched Sweet Dee’s Jerk in 2017 with his brother Jarrell, drawing on their passion for Caribbean cuisine cultivated in their family home. Despite initially pursuing a degree in Media Communications & Politics and working as a Brand & Communications Executive, Troy found himself craving more entrepreneurial freedom and quit to explore new avenues. Transitioning from a delivery driver, he seized the opportunity to start Sweet Dee’s Jerk, offering beloved Caribbean dishes like Jerk Chicken and Mac and Cheese, marking the genesis of their innovative food brand.\n\nPhoto Credit: Caitlin Isola."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-23T10:00:00+00:00"
+}

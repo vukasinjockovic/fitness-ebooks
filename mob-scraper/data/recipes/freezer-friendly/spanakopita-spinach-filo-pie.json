@@ -1,0 +1,262 @@
+{
+  "id": "3666498",
+  "slug": "spanakopita-spinach-filo-pie",
+  "title": "Vegan Spanakopita",
+  "url": "https://www.mob.co.uk/recipes/spanakopita-spinach-filo-pie",
+  "summary": "This is my recipe for the perfect spanakopita, a spinach and tofu 'feta' pie. As close to the ones we eat at home in Cyprus as possible, it's a real treat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Spanakopita-Spinach-Filo-Pie.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 388,
+    "protein": 11,
+    "fat": 25,
+    "saturated_fat": 4,
+    "carbohydrates": 28,
+    "dietary_fibre": 6,
+    "sugars": 4,
+    "sodium": 307
+  },
+  "ingredients": [
+    {
+      "label": "270g Pack of Vegan Filo Pastry",
+      "quantity": "270",
+      "unit": null,
+      "name": "Filo Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Leek",
+      "quantity": "1",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Frozen Spinach",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Parsley",
+      "quantity": "10",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Dill",
+      "quantity": "5",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Mint",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Firm Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Firm Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Nutritional Yeast",
+      "quantity": "3",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Kosher Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Olive Oil",
+      "quantity": "75",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Optional: Sesame Seeds Or Onion Seeds For Topping",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Tbsp Apple Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To marinate the tofu, pat it dry and crumble it into a bowl, making sure that the pieces are not too small as they will break up further later on. Mix through the garlic powder, nutritional yeast, juice of a lemon and salt."
+    },
+    {
+      "heading": null,
+      "description": "Preheat your oven at 180C. Then dice the onion and finely slice the leek. Grate or mince the garlic. Crush the fresh herbs (parsley, dill, mint) by rolling them in your hands to release their flavour, then finely chop them. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Fry the leek, onion, and garlic with a good drizzle of olive oil, salt and pepper until translucent but not brown, for about 10 mins"
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile add the fresh or frozen spinach to another saucepan on medium heat, and cook until it’s cooked down and all the water has evaporated. If using fresh spinach, you may need to add it to the pan bit by bit. This will take about 10 -15 mins to totally dry. Add the cooked leek and onion and a drizzle of olive oil and cook for a few more mins. It’s important that the mix is as dry as possible to avoid a soggy filo."
+    },
+    {
+      "heading": null,
+      "description": "Turn off the heat and add in the fresh herbs and a squeeze of lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Stir the tofu into the spinach mix carefully. Add a splash of apple cider vinegar and plenty of salt and pepper and stir well. Season more than you usually would as both the spinach and tofu need it."
+    },
+    {
+      "heading": null,
+      "description": "Lay the pastry out with a damp tea towel on top to prevent it drying out. Peel one sheet onto a large piece of baking paper and brunch generously with olive oil, getting onto each edge and corner. Take another sheet and lay it diagonally onto the last one and brush again with oil. Continue laying down 5 sheets in total (you may have one left to patch up any broken bits at the end). Each sheet should be laid down at a different angle so that they make a circle or star shape."
+    },
+    {
+      "heading": null,
+      "description": "When you have finished layering the sheets, spoon the spinach mix into the centre of them and shape it into a circle with your hands.Lift up the sides of the pastry to cover the top, scrunching the top to create ridges and edges. Brush with more olive oil and sprinkle with sesame seeds or onion seeds if using."
+    },
+    {
+      "heading": null,
+      "description": "Bake on the lower shelf for 20-30 mins, or until golden brown all over. Leave it to set for 10 mins before serving. Keep it in the fridge for up to 3 days. Delicious served cold or warmed up in the oven."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-22T08:30:00+01:00"
+}

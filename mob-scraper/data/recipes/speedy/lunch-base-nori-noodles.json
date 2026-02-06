@@ -1,0 +1,120 @@
+{
+  "id": "7062810",
+  "slug": "lunch-base-nori-noodles",
+  "title": "Creamy Nori Noodles",
+  "url": "https://www.mob.co.uk/recipes/lunch-base-nori-noodles",
+  "summary": "Creamy and full of umami, this is a quick and fresh lunch box base that you can top with whatever you like.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Creamy-Nori-Noodles.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 11,
+    "fat": 10,
+    "saturated_fat": 1,
+    "carbohydrates": 54,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 563
+  },
+  "ingredients": [
+    {
+      "label": "400g Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Dried Udon Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Tahini",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Nori Sheet",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Shoyu Soy Sauce",
+      "quantity": "30",
+      "unit": null,
+      "name": "Shoyu Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Ice Cubes",
+      "quantity": "40",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20ml Rice Vinegar",
+      "quantity": "20",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a saucepan with water and bring to the boil. Once boiling, cook the noodles following pack instructions. Once cooked, give them a good wash under cold running water."
+    },
+    {
+      "heading": null,
+      "description": "Add the tahini, nori sheet, soy sauce, ice and rice vinegar into a blender. Whizz until creamy and the nori has been fully incorporated into the dressing. Season with salt and a touch of sugar, if too bitter."
+    },
+    {
+      "heading": null,
+      "description": "Toss the dressing through the noodles and top with whatever protein you'd like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-12T00:00:00+00:00"
+}

@@ -1,0 +1,351 @@
+{
+  "id": "3727050",
+  "slug": "crispy-tofu-miso-ramen",
+  "title": "Crispy Tofu Miso Ramen",
+  "url": "https://www.mob.co.uk/recipes/crispy-tofu-miso-ramen",
+  "summary": "Joy Crookes came into the studio to whip up this absolute banger. The broth is deep and savoury, the tofu perfectly crisp, and the noodles beautifully chewy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/09/849A8319-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 463,
+    "protein": 22,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 57,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "300g Shiitake Mushrooms",
+      "quantity": "300",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spring Onions",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Skin-On Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Skin-On Whole Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Kombu",
+      "quantity": "20",
+      "unit": null,
+      "name": "Kombu Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dried Porcini Mushrooms",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dried Porcini Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dried Porcini Mushrooms",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dried Shiitake Mushrooms",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dried Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Soy Sauce (Or Tamari)",
+      "quantity": "150",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Mirin",
+      "quantity": "150",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g White Miso Paste",
+      "quantity": "100",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "85g Tahini",
+      "quantity": "85",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dried Ramen (Or Gluten-Free Noodles)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dried Ramen (Or Gluten-Free Noodles)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Extra-Firm Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Extra-Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Extra-Firm Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Cornflour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tear the stems off the shiitake mushrooms and save the caps for later. Quarter the spring onions and onion. Halve the garlic bulb lengthways. Thinly slice the ginger."
+    },
+    {
+      "heading": null,
+      "description": "Place the shiitake mushroom stems, spring onions, onion, garlic and ginger in a large stockpot. Add the kombu, dried porcini mushrooms and dried shiitake mushrooms and cover with 2l water."
+    },
+    {
+      "heading": null,
+      "description": "Bring to a simmer over high heat, then reduce the heat to low and simmer covered for 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, quarter the shiitake mushroom caps from earlier. Lightly smash the garlic and thinly slice the ginger."
+    },
+    {
+      "heading": null,
+      "description": "Place in a small saucepan with the kombu, soy sauce (or tamari), mirin and 150ml water. Bring to a simmer over high heat, then turn the heat down to low and simmer covered for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, place the white miso paste and tahini in a heatproof bowl."
+    },
+    {
+      "heading": null,
+      "description": "Once the 30 mins have elapsed, strain the mushroom mixture into the heatproof bowl and whisk to combine. This is your flavour base."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the mushroom caps to a bowl and save for later. You can discard the garlic, ginger and kombu."
+    },
+    {
+      "heading": null,
+      "description": "Back to the broth. Strain it into a clean saucepan. Add the flavour base and stir to combine. Keep warm, covered, over a very low heat."
+    },
+    {
+      "heading": null,
+      "description": "Bring a medium saucepan of water to the boil. Cook your eggs for 6 mins, then plunge into ice cold water to stop the cooking process. Once cooled, peel and halve."
+    },
+    {
+      "heading": null,
+      "description": "Bring a medium saucepan of salted water to the boil. Cook your noodles according to the package instructions then drain."
+    },
+    {
+      "heading": null,
+      "description": "Finally, thinly slice the spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Pat the tofu dry with kitchen towel then slice it into 1cm thick slices."
+    },
+    {
+      "heading": null,
+      "description": "Generously season the cornflour with salt and pepper then coat the tofu on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of vegetable oil in a frying pan set over a medium-high heat. Cook the tofu until nice and crisp on both sides."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, divide the noodles between the serving bowls. Add the mushrooms, tofu, eggs, spring onions and extra toppings of your choosing. Ladle the hot broth over the top, then serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-09-07T09:04:00+01:00"
+}

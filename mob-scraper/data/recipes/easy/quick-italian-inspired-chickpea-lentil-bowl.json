@@ -1,0 +1,274 @@
+{
+  "id": "6564683",
+  "slug": "quick-italian-inspired-chickpea-lentil-bowl",
+  "title": "Quick Italian-Inspired Chickpea & Lentil Bowl",
+  "url": "https://www.mob.co.uk/recipes/quick-italian-inspired-chickpea-lentil-bowl",
+  "summary": "A hearty vegan stew with sun-dried tomatoes and black olives, topped with pesto and fresh basil leaves. Quick and easy to make for dinner tonight.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Quick-Italian-Inspired-Chickpea-Lentil-Bowl.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 466,
+    "protein": 22,
+    "fat": 17,
+    "saturated_fat": 2,
+    "carbohydrates": 51,
+    "dietary_fibre": 14,
+    "sugars": 13,
+    "sodium": 1022
+  },
+  "ingredients": [
+    {
+      "label": "½ Carrot",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Celery Stalk",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7-8 Sun-Dried Tomatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7-8 Sun-Dried Tomatoes",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Black Olives",
+      "quantity": "50",
+      "unit": null,
+      "name": "Black Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "220g Cooked Chickpeas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Brown Lentils",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Brown Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Brown Lentils",
+      "quantity": "250",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Bicarbonate Of Soda",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Nutritional Yeast",
+      "quantity": "4",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Green Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegan Green Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Green Pesto",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Unsweetened Soya Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Basil",
+      "quantity": null,
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the carrot, onion, celery and garlic. Chop the sun-dried tomatoes. Pit the olives. Chop the fresh basil."
+    },
+    {
+      "heading": null,
+      "description": "Heat a good glug of oil on a non-stick pan over a medium heat. Once hot add the carrot, the celery and the onion and the garlic. Let the veggies cook for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the sun-dried tomatoes, black olives and the chilli and leave to cook for another 5 mins, stirring now and then."
+    },
+    {
+      "heading": null,
+      "description": "Add the pulses and the chopped tomatoes. Add the pinch of bicarbonate of soda. (You’ll see it react with the chopped tomatoes, removing their acidity and bringing out their sweetness) and cook, stirring occasionally, for about 10 mins (cook for longer if you want a thicker consistency, or at a little water if it’s a bit dry)."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pan from the heat and stir through the nutritional yeast."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide between bowls and top with pesto, soy yoghurt and scatter over the fresh basil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Batch",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Gigi Grassia",
+      "uri": "chefs/gigi-grassia",
+      "summary": "As a passionate plant-based nutrition coach, personal trainer, and ultra-marathon runner from Italy, Gigi (aka @gigi_goes_vegan) is on a mission: to demonstrate that a high-protein diet is entirely possible on a plant-based regimen and to show that food is a love language."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-09T11:55:00+01:00"
+}

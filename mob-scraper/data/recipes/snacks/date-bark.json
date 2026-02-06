@@ -1,0 +1,128 @@
+{
+  "id": "7068376",
+  "slug": "date-bark",
+  "title": "Date Bark",
+  "url": "https://www.mob.co.uk/recipes/date-bark",
+  "summary": "This sweet and chewy date bark is the perfect healthy snack. Everyone is going to want some.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Date-Bark.jpg",
+  "cook_time": 0,
+  "prep_time": 20,
+  "total_time": 20,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 183,
+    "protein": 3,
+    "fat": 10,
+    "saturated_fat": 4,
+    "carbohydrates": 19,
+    "dietary_fibre": 3,
+    "sugars": 15,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "12 Pitted Dates",
+      "quantity": "12",
+      "unit": null,
+      "name": "Pitted Date",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Smooth Peanut Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Peanuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dark Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dark Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Coconut Oil",
+      "quantity": "10",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Line a small baking sheet with parchment paper. Split dates open and press each one, sticky side down onto the sheet making sure they overlap and stick together. Cover the top with more parchment paper and press firmly until you have a homogenous rectangle of dates. Flip them over so they are sticky side up and remove the top layer of parchment."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle peanut butter over the top and spread evenly. You can pop the peanut butter in the microwave for 20 seconds to loosen, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Chop up the peanuts and sprinkle them over the top of the peanut butter."
+    },
+    {
+      "heading": null,
+      "description": "Melt the chocolate in the microwave with the coconut oil in 30-second bursts, stirring between each go until smooth and spread over the top."
+    },
+    {
+      "heading": null,
+      "description": "Pop in the freezer for 15-20 minutes and portion."
+    },
+    {
+      "heading": null,
+      "description": "Store in the fridge or freezer."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-12T12:00:00+01:00"
+}

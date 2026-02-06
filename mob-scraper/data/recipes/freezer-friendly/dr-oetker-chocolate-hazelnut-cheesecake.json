@@ -1,0 +1,173 @@
+{
+  "id": "1402868",
+  "slug": "dr-oetker-chocolate-hazelnut-cheesecake",
+  "title": "Dr. Oetker Chocolate Hazelnut Cheesecake",
+  "url": "https://www.mob.co.uk/recipes/dr-oetker-chocolate-hazelnut-cheesecake",
+  "summary": "Treat yourself with these chocolate and hazelnut cheesecakes. Creamy, nutty, chocolatey and totally vegan. Delightful. Liam has smashed it with this one.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A6138-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 232,
+    "protein": 3,
+    "fat": 14,
+    "saturated_fat": 4,
+    "carbohydrates": 22,
+    "dietary_fibre": 2,
+    "sugars": 13,
+    "sodium": 54
+  },
+  "ingredients": [
+    {
+      "label": "200g Blanched Hazelnuts",
+      "quantity": "200",
+      "unit": null,
+      "name": "Blanched Hazelnuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Maple Syrup",
+      "quantity": "150",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Oat Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Oat Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dr. Oetker Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Extra Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dr. Oetker Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Dr. Oetker Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Dr. Oetker Vege-Gel",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetarian Gelatin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Digestive Biscuits",
+      "quantity": "200",
+      "unit": null,
+      "name": "Digestive Biscuit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Caster Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Dairy-Free Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Vegan Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak all but 1 tbsp of the hazelnuts in 500ml of water for at least 30 minutes, preferably overnight."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in the microwave. Crush the digestive biscuits to a fine powder in a food processor or bowl, then add in the caster sugar and melted butter and mix to combine. Press one tablespoon into muffin cases in a muffin tray."
+    },
+    {
+      "heading": null,
+      "description": "Melt the 150g dark chocolate in the microwave."
+    },
+    {
+      "heading": null,
+      "description": "Drain the hazelnuts and blend with the vanilla extract, maple syrup and oat milk. Once very smooth, drizzle in the melted chocolate and a big pinch of salt and continue blending."
+    },
+    {
+      "heading": null,
+      "description": "Boil 100ml of water with the Dr. Oetker Vege-Gel and blend in with the hazelnut chocolate mixture."
+    },
+    {
+      "heading": null,
+      "description": "Pour your cheesecake mixture into a small jug and gently pour the mixture into each mould. Pop into the fridge to set overnight."
+    },
+    {
+      "heading": null,
+      "description": "Once set, prep your toppings. Melt the remaining 50g chocolate and finely chop the saved hazelnuts."
+    },
+    {
+      "heading": null,
+      "description": "Carefully remove your cheesecakes from the moulds, then drizzle with your chocolate and top with your hazelnuts. Serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-23T11:42:00+00:00"
+}

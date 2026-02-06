@@ -1,0 +1,128 @@
+{
+  "id": "4544058",
+  "slug": "brazilian-lemonade",
+  "title": "Brazilian Lemonade",
+  "url": "https://www.mob.co.uk/recipes/brazilian-lemonade",
+  "summary": "It's creamy, it's citrussy, and it's sort of like drinking a key lime pie. This lemony cocktail is perfect for a sunny day. Just one of the many delicious cocktail recipes on the Mob website.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Brazilian-Lemonade.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 312,
+    "protein": 6,
+    "fat": 6,
+    "saturated_fat": 4,
+    "carbohydrates": 50,
+    "dietary_fibre": 2,
+    "sugars": 50,
+    "sodium": 90
+  },
+  "ingredients": [
+    {
+      "label": "4 Limes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Water",
+      "quantity": "700",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Condensed Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Condensed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Rum (Optional)",
+      "quantity": "75",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mint (For Garnish)",
+      "quantity": null,
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the water and your limes, whole, into a blender."
+    },
+    {
+      "heading": null,
+      "description": "Blend them up until there are no big chunks, then strain through a sieve."
+    },
+    {
+      "heading": null,
+      "description": "Return the liquid to the blender then add the sugar, rum, and condensed milk."
+    },
+    {
+      "heading": null,
+      "description": "Serve over ice and garnish with a lime wheel and some mint. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "South American-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-01T05:00:00+01:00"
+}

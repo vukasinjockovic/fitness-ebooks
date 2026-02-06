@@ -1,0 +1,279 @@
+{
+  "id": "5371456",
+  "slug": "ricotta-stuffed-shells-with-bolognese",
+  "title": "Ricotta Stuffed Shells with Bolognese",
+  "url": "https://www.mob.co.uk/recipes/ricotta-stuffed-shells-with-bolognese",
+  "summary": "These delicious ricotta stuffed shells are baked in a rich Bolognese ragù. Give this one a go for a truly indulgent dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Ricotta-Stuffed-Shells-with-Bolognese.jpg",
+  "cook_time": 90,
+  "prep_time": 10,
+  "total_time": 100,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 822,
+    "protein": 44,
+    "fat": 46,
+    "saturated_fat": 23,
+    "carbohydrates": 54,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 727
+  },
+  "ingredients": [
+    {
+      "label": "50g Pancetta",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stick Celery",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Red Wine",
+      "quantity": "125",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Whole Milk",
+      "quantity": "500",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Conchiglioni",
+      "quantity": "250",
+      "unit": null,
+      "name": "Conchiglioni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Ricotta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Ricotta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Ricotta",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a large pan over a medium heat and add the pancetta and butter. Fry for about 5 mins until golden."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, dice the onion, carrot, and celery. Add to the pan with the pancetta and cook for about 5 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Remove the contents of the pan into a bowl and return to a hight heat. Add the beef and a big pinch of salt and cook until browned all over, breaking it up with a spoon as you go."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the red wine and let it evaporate. Lower the heat, return the onion and pancetta mix to the pan and stir well."
+    },
+    {
+      "heading": null,
+      "description": "Add the milk and stock followed by the tomatoes and bring up to a very gentle simmer. Cover and leave to cook for an hour and 30 mins, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the basil and add to a bowl with the ricotta and a pinch of salt. Mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cook the pasta in plenty of salted water until al dente, then drain and allow to cool. Preheat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Once the ragù is ready, season to taste and pour it into a large baking dish."
+    },
+    {
+      "heading": null,
+      "description": "Take the cooled pasta and use a teaspoon to fill each shell withricotta, then nestle it down into the ragù."
+    },
+    {
+      "heading": null,
+      "description": "Grate the Parmesan over the top and place into the oven for 20 mins until golden."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle with basil leaves and allow to rest for 5 mins before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-01T12:35:00+01:00"
+}

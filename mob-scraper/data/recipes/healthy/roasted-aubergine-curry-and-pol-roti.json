@@ -1,0 +1,378 @@
+{
+  "id": "2835511",
+  "slug": "roasted-aubergine-curry-and-pol-roti",
+  "title": "Roasted Aubergine Curry & Pol Roti",
+  "url": "https://www.mob.co.uk/recipes/roasted-aubergine-curry-and-pol-roti",
+  "summary": "Karan Gokani, director of Sri Lankan restaurant group Hoppers, blessed the studio with this truly wonderful and warming dish best accompanied with pol roti.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A9664-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 7,
+    "fat": 32,
+    "saturated_fat": 20,
+    "carbohydrates": 51,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 94
+  },
+  "ingredients": [
+    {
+      "label": "2 Large Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Coconut Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Tsp Black Mustard Seeds",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Black Mustard Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Fenugreek Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fenugreek Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A 2-Inch Cinnamon Stick",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10-12 Curry Leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Ginger Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ginger Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stick Lemongrass",
+      "quantity": "20",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3-4 Whole Dried Red Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Roasted Sri Lankan Curry Powder (or Madras Curry Powder)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Coconut Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Vegetable Stock",
+      "quantity": "150",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tamarind Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tamarind Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8-10 Curry Leaves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Coconut Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Plain White Flour",
+      "quantity": "250",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Desiccated Coconut (150g Fresh or Frozen Grated Coconut)",
+      "quantity": "100",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Chop your aubergines into 3cm thick chunks and dice your red onion."
+    },
+    {
+      "heading": null,
+      "description": "In a large bowl, toss the aubergine with the vegetable oil, ½ tsp of the ground turmeric and a generous pinch of salt. Spread on a large roasting tray in a single layer and roast for 15 mins, tossing every 5 minutes or so."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, heat 2 tbsp coconut oil in a large frying pan over a medium heat. Add the mustard and fenugreek seeds."
+    },
+    {
+      "heading": null,
+      "description": "Once the mustard seeds stop crackling, add the cinnamon stick, curry leaves, onion, garlic, ginger, lemongrass and dried chillies. Stir well to coat in the oil, add a pinch of salt and continue to cook for 8-10 mins, stirring occasionally until the onions are soft and translucent."
+    },
+    {
+      "heading": null,
+      "description": "Add the curry powder and remaining ½ tsp ground turmeric and cook for a further minute, adding a splash of water if they begin to stick to the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add the coconut milk, stock and tamarind, reduce the heat to low and cook 3-4 mins until the liquid has reduced to half."
+    },
+    {
+      "heading": null,
+      "description": "Stir through the roasted aubergine and sugar and continue to simmer for 3 mins, then season to taste with salt."
+    },
+    {
+      "heading": "For the Roti",
+      "description": "Finely chop your red onion, green chilli and curry leaves."
+    },
+    {
+      "heading": null,
+      "description": "Add your chopped chillies and onion to a large mixing bowl along with your flour, curry leaves, coconut oil, and desiccated coconut. Mix the ingredients together, adding a little warm water at a time, to bring together a cohesive dough that does not stick to the hands. The dough should have the consistency of play-dough."
+    },
+    {
+      "heading": null,
+      "description": "Knead for about 5 minutes by hand. There’s no need to use a stand mixer for this."
+    },
+    {
+      "heading": null,
+      "description": "Leave to rest at room temperature, covered with cling film for at least 30 mins, or longer if preparing ahead."
+    },
+    {
+      "heading": null,
+      "description": "Roll out into 6-inch discs the thickness of two stacked one pound coins. I prefer a slightly rough, natural look rather than perfect circles."
+    },
+    {
+      "heading": null,
+      "description": "Heat a dry non-stick pan or well-seasoned cast-iron pan over high heat and then reduce heat to medium and cook the rotis for 4-5 mins flipping halfway through (The key is not to use oil or fat when cooking the rotis and to cook them on a hot dry pan)."
+    },
+    {
+      "heading": null,
+      "description": "Serve immediately with your curry or store in a box wrapped in a clean kitchen towel."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Batch",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Sri Lankan"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-01-13T16:00:00+00:00"
+}

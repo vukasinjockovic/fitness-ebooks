@@ -1,0 +1,181 @@
+{
+  "id": "4290699",
+  "slug": "kale-olive-bucatini",
+  "title": "Kale & Olive Bucatini",
+  "url": "https://www.mob.co.uk/recipes/kale-olive-bucatini",
+  "summary": "Earthy, silky, lemony pasta jewelled with black olives and covered with a cloud of parm. This kale pasta is a delight. Yum.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Kale-Olive-Bucatini.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 323,
+    "protein": 9,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 54,
+    "dietary_fibre": 5,
+    "sugars": 2,
+    "sodium": 314
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30 Kalamata Olives",
+      "quantity": "30",
+      "unit": null,
+      "name": "Kalamata Olives",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Kale",
+      "quantity": "300",
+      "unit": null,
+      "name": "Kale",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dried Bucatini",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bucatini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dried Bucatini",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Dried Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the garlic, chop the olives and kale, discarding any tough stalks (these can be saved for soups and stews)."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pot of salted water to a boil, drop in your pasta and cook for one min less than the pack instructs."
+    },
+    {
+      "heading": null,
+      "description": "While the pasta is cooking, set a frying pan over a medium heat with a good glug of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "When the oil is hot add the garlic, chilli flakes and olives and allow to gently fry for a couple of mins. Turn up the heat, add the kale and a ladle of pasta water and allow the kale to wilt."
+    },
+    {
+      "heading": null,
+      "description": "When the pasta is cooked, transfer it to the frying pan using tongs."
+    },
+    {
+      "heading": null,
+      "description": "Grate in a good amount of Parmesan and toss well to create a glossy sauce."
+    },
+    {
+      "heading": null,
+      "description": "Add a squeeze of lemon juice, season with salt and pepper to taste and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-25T09:50:00+01:00"
+}

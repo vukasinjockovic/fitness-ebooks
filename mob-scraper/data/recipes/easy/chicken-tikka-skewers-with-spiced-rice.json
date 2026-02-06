@@ -1,0 +1,285 @@
+{
+  "id": "5559434",
+  "slug": "chicken-tikka-skewers-with-spiced-rice",
+  "title": "Air Fryer Chicken Tikka with Spiced Rice",
+  "url": "https://www.mob.co.uk/recipes/chicken-tikka-skewers-with-spiced-rice",
+  "summary": "If you're still a bit dubious about air fryers, this might be the one to convert you. Juicy, oniony, and minty, this chicken tikka will have your mouth watering.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Air-Fryer-Tikka-Chicken-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 55,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 677,
+    "protein": 41,
+    "fat": 22,
+    "saturated_fat": 5,
+    "carbohydrates": 77,
+    "dietary_fibre": 6,
+    "sugars": 14,
+    "sodium": 613
+  },
+  "ingredients": [
+    {
+      "label": "400g Boneless Skinless Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Boneless Skinless Chicken Thighs",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Greek Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tikka Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tikka Masala Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Microwave Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Microwave Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Microwave Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275g Big Tomatoes",
+      "quantity": "275",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275g Big Tomatoes",
+      "quantity": "275",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Nigella seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nigella Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "¼ Cucumber",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Small bunch OF Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Mint",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the red onions. Add ½ of the sliced onions to a bowl with the juice of ¼ of the lemons and season with salt. Leave to quickly pickle while you prep the rest of the dish. Cut ⅓ of the remaining lemon into wedges and set aside for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken thighs into three pieces. Add to a bowl with the juice of ½ the remaining lemon, the yoghurt and tikka paste. Season generously with salt and pepper, then mix well. Cover and set aside in the fridge for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the raita. Halve the cucumber lengthways and scoop out the seeds before finely dicing. Finely chop the mint. Add the yoghurt to a bowl and squeeze in the juice of the remaining lemon. Add the cucumber and mint to the bowl and season with salt and pepper. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the rest of the onions to the air fryer, drizzle with a glug of olive oil and top with the chicken pieces, then add another small drizzle of oil. Set the air fryer to 200°C and cook for 14-16 mins until charred and the chicken juices run clear."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the green chilli and cut the tomato into wedges. Add the tomatoes to a bowl along with the nigella seeds, then season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Cook the rice according to package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Remove the chicken from the air fryer, then toss the cooked onions with the rice. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between two plates, add the tomatoes, then top with the tikka chicken and pickled onions. Scatter with the green chilli, lemon wedges and more mint, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Most Cooked",
+    "Power Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-13T04:00:00+00:00"
+}

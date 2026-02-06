@@ -1,0 +1,124 @@
+{
+  "id": "4304721",
+  "slug": "batch-prep-roasted-vegetables",
+  "title": "Batch Prep Roasted Vegetables",
+  "url": "https://www.mob.co.uk/recipes/batch-prep-roasted-vegetables",
+  "summary": "Cook up a big batch of roasted vegetables and you'll never be far away from a quick and easy dinner. Perfect for a Sunday afternoon.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Batch-Prep-Roasted-Vegetables.jpg",
+  "cook_time": 50,
+  "prep_time": 10,
+  "total_time": 60,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 217,
+    "protein": 5,
+    "fat": 1,
+    "saturated_fat": 0,
+    "carbohydrates": 48,
+    "dietary_fibre": 10,
+    "sugars": 18,
+    "sodium": 21
+  },
+  "ingredients": [
+    {
+      "label": "2kg Cherry Tomatoes",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Cherry Tomatoes",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Sweet Potatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Sweet Potatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Bulbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Aubergines",
+      "quantity": "6",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat oven to 180°C. You will need multiple trays, and may have to do this in batches. Add all of the tomatoes into a large baking dish and drizzle with 4 tbsp olive oil and season generously with salt and pepper. Dice the aubergines into 2 cm pieces and add to the tray, drizzling with olive oil, salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Grab another tray, rub the sweet potatoes in olive oil, salt and pepper. Remove the tops of the garlic bulbs and wrap individually in tin foil. Add them to the sweet potato tray. Put everything in the oven, with the cherry tomatoes on the higher shelf."
+    },
+    {
+      "heading": null,
+      "description": "Roast for 35-40 mins, then remove from the oven. Decant the cherry tomatoes, garlic and aubergine into separate air tight containers. Check how the sweet potatoes are getting on, they may need cooking for 20 mins longer!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Batch",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-19T06:00:00+01:00"
+}

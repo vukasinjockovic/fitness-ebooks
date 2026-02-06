@@ -1,0 +1,186 @@
+{
+  "id": "263881",
+  "slug": "alaska-smoked-salmon-rosti",
+  "title": "Alaska Smoked Salmon Rösti",
+  "url": "https://www.mob.co.uk/recipes/alaska-smoked-salmon-rosti",
+  "summary": "The crispiest röstis topped with delicious smoked salmon, a perfectly poached egg and finely chopped chives. An elegant dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/alaska-rosti-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 233,
+    "protein": 13,
+    "fat": 14,
+    "saturated_fat": 3,
+    "carbohydrates": 13,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 553
+  },
+  "ingredients": [
+    {
+      "label": "120g Alaska Smoked Salmon",
+      "quantity": "120",
+      "unit": null,
+      "name": "Smoked Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Alaska Smoked Salmon",
+      "quantity": "120",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Shallots",
+      "quantity": "5",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tsp Horseradish",
+      "quantity": "1",
+      "unit": null,
+      "name": "Horseradish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cider Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Grate the potatoes and squeeze out as much liquid as possible to make them nice and dry for frying. We used a tea towel to squeeze out the juice, but you can use anything you like."
+    },
+    {
+      "heading": null,
+      "description": "Place the dry potato gratings into a bowl and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Dice your shallots and add them to the bowl along with your horseradish and a drizzle of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Toss this all together, then take a handful of the grated potato and form a thin potato patty. Repeat until you have run out of the mixture."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large glug of oil in a pan (enough to cover the base) and when it's hot, drop in your röstis and let them fry until golden brown and crispy on either side."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, poach an egg. For the perfect egg, boil a pan of water and add your cider vinegar to it. With a fork or whisk, create a whirlpool of water and crack the egg into the edge (not the centre). With your fork fold the white over the yolk and the egg should form a nice little ball. Leave it for 3 minutes then remove. If the white still looks wobbly continue to cook for 30 seconds, and if it's firm remove."
+    },
+    {
+      "heading": null,
+      "description": "Time to plate up! Pile up four röstis onto a plate along with your delicious salmon and poached egg on top."
+    },
+    {
+      "heading": null,
+      "description": "Chop up some chives and scatter over with a season of salt and pepper. Repeat for the whole MOB then tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Swiss"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-04-26T16:30:00+01:00"
+}

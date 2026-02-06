@@ -1,0 +1,161 @@
+{
+  "id": "6532431",
+  "slug": "classic-brioche",
+  "title": "Classic Butter Brioche",
+  "url": "https://www.mob.co.uk/recipes/classic-brioche",
+  "summary": "We love brioche. It’s a sweetened French bread enriched with butter and eggs that you can flavour however you like. Think cardamom and date, orange and almond, dark chocolate, dried apricot and walnut, pistachio, cinnamon, or dried fruit soaked in Guinness and spices. The possibilities are endless.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Brioche-2.jpg",
+  "cook_time": 35,
+  "prep_time": 110,
+  "total_time": 145,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 246,
+    "protein": 5,
+    "fat": 15,
+    "saturated_fat": 9,
+    "carbohydrates": 24,
+    "dietary_fibre": 1,
+    "sugars": 5,
+    "sodium": 102
+  },
+  "ingredients": [
+    {
+      "label": "300g Plain Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Dark Brown Sugar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Yeast",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Cold Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Whole Milk",
+      "quantity": "75",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Egg Yolks",
+      "quantity": "5",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Room Temperature Unsalted Butter",
+      "quantity": "175",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Milk",
+      "quantity": "25",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a large bowl, whisk together the sifted flour, sugar and salt. In another bowl, crumble the yeast into the water, milk and egg yolks and whisk to dissolve and combine. Add this to the dry mixture and combine with your hands, or a spatula or pastry scraper if you have one, until the dough comes together – it will be very sticky at this stage."
+    },
+    {
+      "heading": null,
+      "description": "Cover the surface with clingfilm and leave to rest at room temperature for 20 mins. Meanwhile, cut the room temperature butter into cubes."
+    },
+    {
+      "heading": null,
+      "description": "Turn the dough out onto a lightly floured surface and knead for 15–20 mins. Now add the butter, a few cubes at a time, kneading it into the dough, making sure the butter is incorporated before you add more. Add any flavourings you want to use now (dried fruits, nuts, chopped chocolate or zested citrus fruit etc). Lightly flour the dough all over and put it back into the bowl. Cover with cling film again and refrigerate for 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking parchment. Take the dough out, shape it into a loaf approximately 25 x 15cm and place it on your prepared tray, seam facing down. Once this is done, refrigerate for a further hour. Then remove from the fridge and leave to rest at room temperature for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 220°C fan. Brush the dough all over with the egg wash. Turn the oven down to 180°C and bake for 35–40 mins, taking care not to burn the top. You may need to turn the oven down to 150˚C after 30 mins if they are starting to over-brown."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and allow to cool in the tin for 10 mins before transferring to a wire rack to cool completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T14:57:00+01:00"
+}

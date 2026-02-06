@@ -1,0 +1,137 @@
+{
+  "id": "7068332",
+  "slug": "protein-fibre-flapjacks",
+  "title": "Protein & Fibre Flapjacks",
+  "url": "https://www.mob.co.uk/recipes/protein-fibre-flapjacks",
+  "summary": "These no-bake protein flapjacks are the perfect grab-and-go snack. Packed with seeds, nut butter, and protein powder, they’re ideal for a post-workout refuel or a midday energy boost. They take just 20 minutes to prep and can be customised however you fancy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Protein-Fibre-Flapjacks.jpg",
+  "cook_time": 180,
+  "prep_time": 20,
+  "total_time": 200,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 90,
+    "protein": 6,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 7,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 32
+  },
+  "ingredients": [
+    {
+      "label": "75g rolled oats",
+      "quantity": "75",
+      "unit": null,
+      "name": "Rolled Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g vanilla whey protein powder",
+      "quantity": "60",
+      "unit": null,
+      "name": "Vanilla Protein Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g smooth peanut butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml unsweetened almond milk",
+      "quantity": "75",
+      "unit": null,
+      "name": "Almond Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g ground flaxseeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ground Flaxseed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g chia seeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g mixed seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mixed Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the oats, protein powder, peanut butter, almond milk, flaxseeds, chia seeds, and mixed seeds to a large bowl. Mix everything together until you have a thick, cookie dough-like paste."
+    },
+    {
+      "heading": null,
+      "description": "Line a small baking tray with parchment paper. Press the mixture firmly into the tray, smoothing the top with the back of a spoon."
+    },
+    {
+      "heading": null,
+      "description": "Refrigerate for at least 3 hours, or until firm. Once chilled, slice into 6 bars or squares."
+    },
+    {
+      "heading": null,
+      "description": "Eat as-is or jazz them up with your favourite toppings—try a dollop of yoghurt, some fresh berries, or a drizzle of melted dark chocolate and tahini."
+    }
+  ],
+  "tips": [
+    "To store: Keep flapjacks in an airtight container in the fridge for up to 1 week.",
+    "To freeze: Freeze individually wrapped portions for up to 2 months. Defrost overnight in the fridge before eating.",
+    "Meal prep tip: Double the batch and freeze half so you always have a protein-packed snack on hand.",
+    "Vanilla whey protein → Use plant-based protein powder for a vegan version.",
+    "Almond milk → Swap for oat or soya milk.",
+    "Peanut butter → Use almond or cashew butter for a different flavour profile.",
+    "Mixed seeds → Use whatever seeds you have on hand—pumpkin, sunflower, hemp, or sesame all work well."
+  ],
+  "categories": [],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks"
+  ],
+  "cuisines": [
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-16T10:22:00+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "3592839",
+  "slug": "blood-orange-campari-spritz",
+  "title": "Blood Orange Campari Spritz",
+  "url": "https://www.mob.co.uk/recipes/blood-orange-campari-spritz",
+  "summary": "Our take on the classic Campari spritz. Bitter, sweet, a little boozy. It's a summer stunner featuring blood orange soda.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A1728.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 205,
+    "protein": 2,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 37,
+    "dietary_fibre": 3,
+    "sugars": 33,
+    "sodium": 8
+  },
+  "ingredients": [
+    {
+      "label": "50ml Campari",
+      "quantity": "50",
+      "unit": null,
+      "name": "Campari",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Oranges",
+      "quantity": "2",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Fever Tree Italian Blood Orange",
+      "quantity": "200",
+      "unit": null,
+      "name": "Blood Orange Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Fill a wine glass with ice cubes."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the juice from one of your oranges. Cut the other into rounds."
+    },
+    {
+      "heading": null,
+      "description": "Pour your campari over your ice, followed by your blood orange juice."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your blood orange soda, then finish with a slice of blood orange. Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-22T15:03:00+01:00"
+}

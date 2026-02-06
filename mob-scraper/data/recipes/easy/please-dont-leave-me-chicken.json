@@ -1,0 +1,259 @@
+{
+  "id": "6122492",
+  "slug": "please-dont-leave-me-chicken",
+  "title": "\"Please Don't Leave Me\" Chicken",
+  "url": "https://www.mob.co.uk/recipes/please-dont-leave-me-chicken",
+  "summary": "This stunning chicken dish is the recipe that's saved Jamie Laing and Sophie Habboo's marriage on more than one occasion. We got all the ingredients from Deliveroo in a little as 20 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/%E2%80%9CPlease-Dont-Leave-Me%E2%80%9D-Chicken.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 792,
+    "protein": 46,
+    "fat": 32,
+    "saturated_fat": 11,
+    "carbohydrates": 78,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 412
+  },
+  "ingredients": [
+    {
+      "label": "8 Chicken Thighs, skin on, bone in",
+      "quantity": "8",
+      "unit": null,
+      "name": "Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Chicken Thighs, skin on, bone in",
+      "quantity": "8",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cherry or Small Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cherry or Small Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Sundried Tomatoes",
+      "quantity": "70",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Sundried Tomatoes",
+      "quantity": "70",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Sweet Smoked Paprika",
+      "quantity": "3",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Fennel Seeds (optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Mild Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml White Wine",
+      "quantity": "60",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Chicken Stock",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rigatoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70ml Double Cream",
+      "quantity": "70",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C. Season the chicken thighs with salt."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large frying pan over a medium heat. Put the chicken thighs into the pan, skin-side down, and cook for 8-10 mins until the skin is deep golden brown. Transfer to a baking tray and add the cherry tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Drain the sundried tomatoes and peel the garlic. Add both to a blender with the tomato purée, paprika, fennel seeds, chilli, wine and chicken stock. Blend until completely smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour the sauce into the now-empty chicken pan, making sure to scrape all the chicken-y bits from the bottom. Bring to the boil, then pour over the chicken and tomatoes. Transfer the baking tray to the oven and cook for 25-30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, pick the basil leaves, discarding the stems."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken is cooked, remove from the tray and swirl the cream through the sauce. Taste and season with salt and pepper and place the chicken back into the sauce. Garnish with the basil to serve."
+    },
+    {
+      "heading": null,
+      "description": "Cook the pasta according to package instructions and combine with the sauce. We went with rigatoni but you can feel free to use anything you'd like - rice, quinoa, barley, potatoes. It's completely up to you."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-08-28T13:30:00+01:00"
+}

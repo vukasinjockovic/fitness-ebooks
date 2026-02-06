@@ -1,0 +1,305 @@
+{
+  "id": "83125",
+  "slug": "meatless-wellington",
+  "title": "Plant-Based Wellington",
+  "url": "https://www.mob.co.uk/recipes/meatless-wellington",
+  "summary": "The classic British wellington but with no meat. It's been swapped out for meatless mince, caramelised onions and a marmite gravy sauce. A dish to impress.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A4168.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 105,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 601,
+    "protein": 14,
+    "fat": 32,
+    "saturated_fat": 10,
+    "carbohydrates": 57,
+    "dietary_fibre": 8,
+    "sugars": 8,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "4 Plant Based Burgers (we use Meatless Farm)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Plant Based Burger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Beetroot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprig of Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chestnut Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chestnut Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Sprig of Thyme",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml White Wine",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Puff Pastry",
+      "quantity": "500",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tenderstem Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sticks of Celery",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml White Wine Vinegar",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Flour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Marmite",
+      "quantity": "2",
+      "unit": null,
+      "name": "Marmite",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven 200°C/ 392°F."
+    },
+    {
+      "heading": null,
+      "description": "To start the wellington filling, finely dice one of your onions and celery and grate the carrot. Put them in a saucepan with some olive oil and cook on a low heat until they’re soft, then add finely chopped garlic and rosemary then stir on the heat for one minute."
+    },
+    {
+      "heading": null,
+      "description": "Whack the onion, celery and carrots into a bowl, add the grated beetroot and Meatless Farm Meat-Free Burgers and the paprika. Get in with your hands to combine it into a mixture and season it well with lots of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Put the mixture onto a sheet of clingfilm and roll it out into a cylinder and then place it in the fridge to cool while you make your mushroom duxelles."
+    },
+    {
+      "heading": null,
+      "description": "Very finely chop the mushrooms and put them in the pan with a sprig of thyme and your bay leaves. Fry the mushrooms for about 10 minutes stirring often until you have a softened mixture. Season the mushrooms and pour over the white wine and cook for about 10 minutes until all the wine has been absorbed."
+    },
+    {
+      "heading": null,
+      "description": "Assembling the wellington is easy, so don’t stress. Take out the pastry sheet and unroll it, then slice out a large enough piece to act as a base for the wellington and place it on a large baking tray. Remove the mixture from the fridge and place it on top of the piece of pastry. Spread the mushroom mixture over the top of the wellington. Slice strips of pastry and plait it over the wellington filling."
+    },
+    {
+      "heading": null,
+      "description": "Put the tenderstem broccoli on the baking tray too and drizzle with some olive oil, salt and pepper. Place your perfectly assembled wellington and broccoli in the oven for approximately 30 mins, or until the pastry is golden and the broccoli is charred. You may need to take the broccoli out earlier than the wellington so keep an eye on it!"
+    },
+    {
+      "heading": null,
+      "description": "While the veg and wellington are cooking, start making the onion gravy! Slice the remaining onion finely, add a generous glug of oil into the pan and cook the onions very slowly on a low heat until they are super soft and almost mushy."
+    },
+    {
+      "heading": null,
+      "description": "Once the onion is soft, add the crushed garlic and vinegar and cook it for a further minute. Next, add the flour and stir for another minute until a paste almost forms then add the vegetable stock cube (dissolved in 500ml water) and stir well to ensure there are no lumps in your gravy! Add the tsp of marmite and stir well."
+    },
+    {
+      "heading": null,
+      "description": "Strain your gravy and put in a gravy boat, but keep the onions as they make a delicious addition to your meal."
+    },
+    {
+      "heading": null,
+      "description": "Take the wellington and broccoli out of the oven and get ready to plate up! Place your broccoli on the plate, slice into the wellington with a sharp knife and put it on top of the broccoli. Add the onions to your plate and pour the gravy on top for the perfect meatless wellington dinner. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-02-24T14:47:00+00:00"
+}

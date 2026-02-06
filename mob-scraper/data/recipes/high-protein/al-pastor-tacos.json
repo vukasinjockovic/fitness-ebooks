@@ -1,0 +1,341 @@
+{
+  "id": "6755686",
+  "slug": "al-pastor-tacos",
+  "title": "Al Pastor Tacos",
+  "url": "https://www.mob.co.uk/recipes/al-pastor-tacos",
+  "summary": "Tender, juicy pork meat marinated in pineapple juice, Mexican chillies and achiote. It’s the most iconic taco recipe for a reason.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Al-Pastor-Tacos.jpg",
+  "cook_time": 35,
+  "prep_time": 15,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 38,
+    "fat": 32,
+    "saturated_fat": 8,
+    "carbohydrates": 56,
+    "dietary_fibre": 7,
+    "sugars": 13,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "4 Guajillo Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Guajillos Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150Ml Pineapple Juice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pineapple Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100 G Fresh Pineapple",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Achiote Paste",
+      "quantity": "60",
+      "unit": null,
+      "name": "Achiote Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50 Ml White Wine Vinegar",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Maldon Salt",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Maldon Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Kg Pork Shoulder",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Pork Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Kg Pork Shoulder",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Vegetable Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tomatillos",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomatillo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Jalapeños",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 g Fresh Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pinch Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Corn Tortillas",
+      "quantity": "12",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Corn Tortillas",
+      "quantity": "12",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Fresh Pineapple",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the stem and seeds from the guajillo chillies then place in a bowl. Cover with hot water and leave for 10 mins to rehydrate."
+    },
+    {
+      "heading": null,
+      "description": "Drain the guajillo chillies and place them in a high-speed blender. Add the rest of the adobo ingredients and blitz until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the pork shoulder and place it in a large bowl. Pour over the adobo and, wearing plastic gloves, massage the mixture into the meat, making sure it’s really well coated. Leave to marinate for at least an hour."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the salsa verde: peel the onion and garlic cloves and add them to a saucepan along with the fresh tomatillos. Cover them with water. Bring to a boil over a medium heat then lower the heat and simmer for 10 mins. While the mixture simmers, roughly chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Strain the vegetables from the water (don’t discard the water yet) and transfer them to a blender, adding the coriander, salt and pinch of caster sugar. Blend until smooth. If the salsa is too thick, add a splash of water until it’s the desired consistency. Cover and set aside until ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "For the garnish, chop the pineapple into chunks, finely chop the onion and fresh coriander and cut the lime into wedges. Add to small bowls or a plate, keeping the ingredients separate."
+    },
+    {
+      "heading": null,
+      "description": "When the pork has marinated, heat the oil in a frying pan set over a medium heat. Add the pork slices and fry them for around 3 mins on each side (don't overcrowd the pan – do it in batches if necessary) until crispy at the edges. Transfer the pork to a plate to rest while you heat the tortillas."
+    },
+    {
+      "heading": null,
+      "description": "Wipe out the steak pan (make sure it's really dry) then set it over a medium-high heat. Add the corn tortillas, one at a time, and heat for 15-30 secs on each side. Wrap them in a tea towel to keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Chop the pork into small pieces and transfer to a serving plate."
+    },
+    {
+      "heading": null,
+      "description": "Place everything on the table and let everyone help themselves to build their own steak tacos!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Karla Zazueta",
+      "uri": "chefs/karla-zazueta",
+      "summary": "Karla Zazueta is an incredible Mexican cook, food writer and cookery teacher. She teaches her Mexican traditions, recipes and techniques through cooking classes at her Mexican Food Memories cooking school. She also hosts Mexican supper clubs at her family home. Her recipes have been featured in The Guardian, BBC Food, NatGeo Food Magazine and many more. She's also just released her first cookbook, Norteña, where she shares the story of her family recipes and northern Mexico."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T15:57:00+01:00"
+}

@@ -1,0 +1,266 @@
+{
+  "id": "5827280",
+  "slug": "roast-veg-raw-tomato-salad",
+  "title": "Roast Veg & Raw Tomato Salad",
+  "url": "https://www.mob.co.uk/recipes/roast-veg-raw-tomato-salad",
+  "summary": "Charred peppers and aubergines pair beautifully with fresh, in-season tomatoes in this vegetarian salad recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Roast-Veg-Raw-Tomato-Salad.jpg",
+  "cook_time": 40,
+  "prep_time": 25,
+  "total_time": 65,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 480,
+    "protein": 16,
+    "fat": 27,
+    "saturated_fat": 12,
+    "carbohydrates": 38,
+    "dietary_fibre": 8,
+    "sugars": 11,
+    "sodium": 151
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Beef Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Beef Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Beef Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Banana Shallots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Banana Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Aubergine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Romano Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Romano Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Cooked Brown Lentils",
+      "quantity": "240",
+      "unit": null,
+      "name": "Cooked Brown Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Cooked Brown Lentils",
+      "quantity": "240",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A small bunch of parsley (15g)",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flatbreads",
+      "quantity": null,
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g salted butter",
+      "quantity": "40",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp ground cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp of fennel seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Slice the tomato into rough 3cm chunks, then add to a large bowl with a generous pinch of salt. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the top of the garlic bulb off, drizzle with olive oil and sprinkle with a little salt, then wrap the whole thing up in foil. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Halve the shallots (or quarter the onions). Prick the aubergine all over with a knife. Transfer them both to a baking tray with the pepper and garlic, plus a splash of olive oil. Roast for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the garlic (set aside) and give the onions a toss, then return to the oven for 15-20 mins until the aubergine and pepper is completely softened and the red pepper skin is slightly charred. The pepper might take a little longer here depending on your oven, so give it another 5-10 mins if necessary."
+    },
+    {
+      "heading": null,
+      "description": "Remove everything from the oven, place in a bowl then cover with a plate or cling film so it steams for 20 mins. Finely chop the parsley then squeeze out the roasted garlic in to the bowl with the veg."
+    },
+    {
+      "heading": null,
+      "description": "Take everything out of the bowl, leaving any juices behind. Split open the aubergine and scoop out the insides, then roughly chop or tear. Deseed the peppers and peel the skin off. Roughly tear the peppers and shallots, then transfer to the tomato bowl, along with the aubergine, parsley and your drained brown lentils. Season to taste with salt and pepper, then add in the lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "In a small pan over a medium heat, add the butter to melt. Once foaming add the cumin, fennel seeds and chilli flakes to toast for 30 seconds in the butter until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the vegetables onto a platter. Top with dollops of yoghurt, then pour over the spiced butter. Eat alongside flatbreads or sourdough."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Mediterranean",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Kitty Coles",
+      "uri": "chefs/kitty-coles",
+      "summary": "Kitty is a supremely talented cook and recipe writer. You can find her recipes here as well as in publications like the Irish Times, Gloss Magazine, and The Guardian. She divides her time between London, Dublin and Mallorca (where her parents live and dad grew up) and her food showcases seasonal ingredients with a splash of Mediterranean style. Kitty is a no-fuss, simple cook, who uses everyday ingredients to make delicious and easy recipes. You can find plenty more of Kitty's recipes in her cookbook: 'Make More With Less: Foolproof Recipes to Make Your Food Go Further'."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-01T10:30:00+01:00"
+}

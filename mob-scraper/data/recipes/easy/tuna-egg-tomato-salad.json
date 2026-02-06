@@ -1,0 +1,186 @@
+{
+  "id": "7707140",
+  "slug": "tuna-egg-tomato-salad",
+  "title": "Tuna, Egg & Tomato Salad",
+  "url": "https://www.mob.co.uk/recipes/tuna-egg-tomato-salad",
+  "summary": "Zingy, herby tuna salad with eggs, crisp fennel and juicy tomatoes. A proper flavour-packed lunch or light dinner that takes no time to throw together.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Tuna-Egg-Tomato-Salad.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 25,
+    "fat": 30,
+    "saturated_fat": 5,
+    "carbohydrates": 23,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 324
+  },
+  "ingredients": [
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Red Wine Vinegar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90ml Olive Oil",
+      "quantity": "90",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Tinned Tuna",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mixed Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mixed Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Fennel Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cooked Mixed Grains",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cooked Mixed Grains",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Watercress",
+      "quantity": "60",
+      "unit": null,
+      "name": "Watercress",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a small saucepan of water over a high heat and bring to the boil. Gently lower in the eggs, then turn the heat down to medium-high and cook for 9 mins until hard-boiled. Transfer to a bowl of ice water and leave to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely dice the shallot and add it to a large bowl with the Dijon mustard and red wine vinegar. Season with salt and black pepper and leave to pickle."
+    },
+    {
+      "heading": null,
+      "description": "Drain the tuna. Chop the tomatoes into bite-sized chunks. Thinly slice the fennel and roughly chop the watercress."
+    },
+    {
+      "heading": null,
+      "description": "Peel the cooled eggs and coarsely grate them into the bowl with the shallots. Gradually whisk in the olive oil until thick and emulsified. Taste and season with more salt and pepper, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Toss the tuna, tomatoes, fennel, grains and watercress through the dressing. Divide between plates or box up for later."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-03T10:44:00+01:00"
+}

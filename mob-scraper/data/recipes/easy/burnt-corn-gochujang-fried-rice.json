@@ -1,0 +1,295 @@
+{
+  "id": "5459993",
+  "slug": "burnt-corn-gochujang-fried-rice",
+  "title": "Burnt Corn & Gochujang Fried Rice",
+  "url": "https://www.mob.co.uk/recipes/burnt-corn-gochujang-fried-rice",
+  "summary": "Don’t throw away your leftover rice. Make this instead. Salty, sweet and most importantly spicy, it’ll become a staple.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Burnt-Corn-Gochujang-Fried-Rice.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 45,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 1482,
+    "protein": 31,
+    "fat": 86,
+    "saturated_fat": 19,
+    "carbohydrates": 139,
+    "dietary_fibre": 8,
+    "sugars": 18,
+    "sodium": 2462
+  },
+  "ingredients": [
+    {
+      "label": "200g Japanese Short Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Japanese Short Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Japanese Short Grain Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Cold Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Vegetable Oil",
+      "quantity": "5",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Diced Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Diced Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Diced Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Finely Minced Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Corn on the Cob",
+      "quantity": "1",
+      "unit": null,
+      "name": "Corn On The Cob",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mayonnaise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Rashers of Streaky Bacon",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Streaky Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Rashers of Streaky Bacon",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Kimchi",
+      "quantity": "3",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sheet of Nori (Seaweed)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Gochujang",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "If using leftover rice, skip this first step. Start by washing the rice in a saucepan with cold water. Rinse and pour out, repeating three times, until the water is clear. Put the rice back in the saucepan and add cold water. Let it sit for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Bring the rice saucepan to the boil and, once boiling, reduce the heat to the lowest setting. Let the rice cook on low heat for 11 mins, then turn off the heat and leave the lid on for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice the garlic, shallot and spring onion, then set aside. Slice the bacon into 1cm pieces. Heat a dry frying pan over a high heat for around 3 mins. Add the corn on the cob, turning every minute, until it’s nicely charred and almost burnt. This should take around 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the corn and, using a brush or the back of a spoon, paint on the mayonnaise. Sprinkle on the chilli flakes and one-third of the minced spring onion. Hold the corn upright and run the knife down in between the kernels and the cob. The kernels should stay stuck together and you should have big clusters of corn."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a high heat, add a glug of oil and fry the egg until the edges turn brown. Season with salt and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a wok or large frying pan over a high heat for 2 mins. Add the butter, garlic, shallots and bacon, then gently stir-fry for 3 mins. Add the kimchi and stir-fry for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Lower the heat to medium. Add the rice, gochujang, sesame oil, 1 tsp salt, sugar and soy sauce. Bash the rice with a spatula to separate the grains and stir for around 3 mins until everything is combined. Add the sesame seeds, one-third of the diced spring onion and, using your hands, crush the seaweed into flakes straight into the rice."
+    },
+    {
+      "heading": null,
+      "description": "Plate up the rice. Add the chunks of burnt corn on top and the crispy fried egg. Garnish with the remaining spring onion and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-16T11:52:00+01:00"
+}

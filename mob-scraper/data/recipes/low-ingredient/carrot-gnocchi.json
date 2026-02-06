@@ -1,0 +1,148 @@
+{
+  "id": "5696249",
+  "slug": "carrot-gnocchi",
+  "title": "Carrot Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/carrot-gnocchi",
+  "summary": "A sweet and delicious homemade carrot gnocchi. All made using ingredients we got from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Carrot-Gnocchi.jpg",
+  "cook_time": 110,
+  "prep_time": 10,
+  "total_time": 120,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 522,
+    "protein": 13,
+    "fat": 27,
+    "saturated_fat": 10,
+    "carbohydrates": 54,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 227
+  },
+  "ingredients": [
+    {
+      "label": "300g carrots",
+      "quantity": "300",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g baking potatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Baking Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g baking potatoes",
+      "quantity": "400",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g plain flour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g pine nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g unsalted butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Peel the carrots, cut off the ends, then wrap in foil and place into a roasting tray. Prick the potatoes, then add them to the tray. Slide into the oven and bake for 1 hr until a knife slides through the potato without resistance and the carrots are soft enough to mash."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and open the foil, discarding any water. Place the carrots into a bowl. Slice the potatoes in half then leave to steam for 1 min until cool enough to handle. Tip the pine nuts into the tray, if using, and slide back into the oven for 8 mins."
+    },
+    {
+      "heading": null,
+      "description": "Scrape the potato flesh from the skins and add to the bowl with the carrots. Tip the mix into a metal sieve, then use a spoon to press through onto a clean surface – it will take a bit of time and elbow grease. Sieve the flour over the top, then use a knife to chop through until you have a crumbly mess. Bring together with your hands (you may need to flour them) and knead a little, then split into four pieces."
+    },
+    {
+      "heading": null,
+      "description": "Using a little more flour to dust your hands and your surface, roll each piece into a 20cm log. Then use a knife to cut into 2cm-long pillows and set aside on a lightly floured tray or plate. Repeat with the rest of the pieces."
+    },
+    {
+      "heading": null,
+      "description": "Bring a pan of salted water to the boil. Working in batches, add the gnocchi to the boiling water and boil for about 1 min, until they float. Remove with a slotted spoon onto a plate and repeat with the rest of the gnocchi. Once done, don’t throw away the water."
+    },
+    {
+      "heading": null,
+      "description": "Heat a knob of the butter in a large non-stick frying pan over a high heat and fry the gnocchi for a few minutes until crisp, then set aside on a baking sheet or plate."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining butter to the frying pan and turn the heat down, then cook for a few mins until it starts to brown and smells a little like digestive biscuits! Add a ladle of the gnocchi water and toss to make a silky sauce. Using a fine grater, grate the Parmesan into the pan and toss or whisk some more – the sauce should be all combined. Add the gnocchi to the pan and keep tossing, adding salt and pepper and some lemon juice. Tip onto plates and top with the chopped pine nuts, plus more grated Parmesan."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2024-06-07T09:30:00+01:00"
+}

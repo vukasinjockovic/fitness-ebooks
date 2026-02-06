@@ -1,0 +1,318 @@
+{
+  "id": "3610676",
+  "slug": "jolenes-salt-and-pepper-chicken",
+  "title": "Jolene's Salt & Pepper Chicken",
+  "url": "https://www.mob.co.uk/recipes/jolenes-salt-and-pepper-chicken",
+  "summary": "Jolene, Xien's mum, came into the studio to show us how to make her famous salt and pepper chicken. A real takeaway classic, this one's a goodie!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A8232-6.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 400,
+    "protein": 23,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 56,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Cloves of Garlic",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Cloves of Garlic",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Chicken Breasts",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Chicken Breasts",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Whole Milk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Shaoxing Wine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shaoxing Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Self Raising Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g potato starch",
+      "quantity": "25",
+      "unit": null,
+      "name": "Potato Starch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp MSG",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Sichuan Peppercorn Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground White Pepper",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Onion Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tbsp Salt",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop your chicken into small chunks, pop them into a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Whisk your egg and add ½ of it to your chicken along with the milk, white pepper, Shaoxing wine and 1 teaspoon of salt. Give it a good mix and pop it in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "In a separate mixing bowl, combine all the ingredients for seasoning the chicken. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop your onion into pieces, mince your garlic, red chilli and thinly slice your spring onions. Pop them into a bowl and set them aside for later."
+    },
+    {
+      "heading": null,
+      "description": "In a separate mixing bowl, mix the potato starch with the self-raising flour."
+    },
+    {
+      "heading": null,
+      "description": "Add the marinated chicken pieces to the flour mix. Then, one by one, shake the excess flour off the chicken and add the remaining flour mix to the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Pour 1.5 litres of oil into your wok on medium heat, pop a chopstick in and if bubbles emerge, your oil is ready. Place half your chicken pieces into the oil and fry until lightly golden. Place them on a paper-lined tray and deep fry the remaining chicken pieces."
+    },
+    {
+      "heading": null,
+      "description": "Repeat, and deep fry the chicken pieces again (this time until crispy and golden)."
+    },
+    {
+      "heading": null,
+      "description": "Add a glug of oil to a wok, then fry your prepped veg from earlier. Add your crispy chicken and the seasoning mix. Give it a good toss until everything is combined and the chicken is evenly coated in seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Tuck in and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-02T17:00:00+01:00"
+}

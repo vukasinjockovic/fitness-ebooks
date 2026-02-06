@@ -1,0 +1,370 @@
+{
+  "id": "6460309",
+  "slug": "biang-biang-noodles-with-spicy-pork-and-garlic",
+  "title": "Hand-Pulled Biang Biang Noodles with Spicy Pork & Garlic",
+  "url": "https://www.mob.co.uk/recipes/biang-biang-noodles-with-spicy-pork-and-garlic",
+  "summary": "Learn to make biang biang noodles from scratch. We’ve served them with spicy ground pork and a garlicky aromatic sauce.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Hand-pulled-biang-biang-noodles.jpg",
+  "cook_time": 2,
+  "prep_time": 15,
+  "total_time": 135,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1087,
+    "protein": 34,
+    "fat": 62,
+    "saturated_fat": 13,
+    "carbohydrates": 99,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 2027
+  },
+  "ingredients": [
+    {
+      "label": "300g 00 Pasta Flour",
+      "quantity": "300",
+      "unit": null,
+      "name": "“00” Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "155ml Water",
+      "quantity": "155",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2g Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Red Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chinese Black Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chinese Black Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Vegetable Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Red Miso paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Red Miso paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Sichuan Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Water",
+      "quantity": "120",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Pork Mince 10 -20% fat",
+      "quantity": "250",
+      "unit": null,
+      "name": "20% Fat Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tbsp Oyster Sauce",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crispy Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Roasted Peanuts",
+      "quantity": null,
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Spring Onions",
+      "quantity": null,
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "For the homemade biang biang noodles: Combine all the ingredients in a large mixing bowl and use a spoon to bring it together as a dough. Using your hands form it into a ball. Place into a clean bowl and cover with 2 damp tea towels. Rest for 30 mins. (If the dough is sticking to your fingers, add an extra tbsp of flour, and if the dough ball has dry patches then add an extra tsp of water at a time)."
+    },
+    {
+      "heading": null,
+      "description": "Knead the dough for 4 mins and form into a ball. Cover with a damp tea towel for 5 mins to let the dough relax. Use a knife to cut the dough into 8 pieces. Use your hands to roll each piece into a log, then use a rolling pin to roll each log into a flat oval, around 15 cm long."
+    },
+    {
+      "heading": null,
+      "description": "Pour a generous amount of vegetable oil onto a large plate. Coat each piece of dough very well in oil then layer on top of each other. Cover the plate with cling film and set aside for 2 hours at room temperature. (Alternatively, make the dough the night before, leave in the fridge and remove at least 1 hour before cooking)"
+    },
+    {
+      "heading": null,
+      "description": "For the sauce: Peel and roughly slice the ginger. Roughly chop the chillies. Separate the green and white parts of the spring onions and set aside the green parts to use later with the pork mince. Put the spring onion whites, ginger, chilli, garlic and a pinch of salt in a blender and blitz to a rough paste (or use a pestle and mortar). Transfer to a medium heat proof mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Heat the vegetable oil in a small saucepan set over a high heat and bring to a smoking point then immediately pour the hot oil over the spring onion, ginger mixture. Add the remaining sauce ingredients, mix well and set aside at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "For the pork mince: Crush the garlic and finely slice ½ of the remaining spring onion green tops (from the sauce ingredients). Mix together the corn flour and cold water in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of sesame oil in a large pan set over a medium-high heat. Add the pork mince, flatten into a patty shape and leave to sear for 2 mins or until lightly golden. Add the garlic, spring onions and ground cumin, break up the meat and cook for another minute, until the aromatics are lightly golden. Then, add the soy sauce and oyster sauce and cook, stirring, for 30 seconds. Stir through the corn flour water and leave to cook for 30 seconds. Remove the pork mixture to a small bowl, cover and set aside at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "When the noodles have rested, fill a large pot with water and bring to a boil."
+    },
+    {
+      "heading": null,
+      "description": "Before pulling the noodles, prep all the ingredients as the noodles come together very quickly. Warm the mince in the microwave if needed. Add 4 tbsp of noodle sauce into each serving bowl, slice the spring onions, and gather the roasted peanuts, crispy shallots, chilli oil and pickles ready for garnishing."
+    },
+    {
+      "heading": null,
+      "description": "Take a piece of dough and use a chopstick to gently press a horizontal mark into the middle of it. On a clean work surface, gently pull the dough horizontally around 1 arm's length long."
+    },
+    {
+      "heading": null,
+      "description": "Hold the dough in both hands and lightly pull and slap it onto the work surface (making a biang biang sound) until you create a long ribbon and the dough can’t stretch anymore."
+    },
+    {
+      "heading": null,
+      "description": "Place the dough down on the surface and tear it apart through the middle dent until you have a large ‘O’ loop shape. Place onto a work surface and repeat with all the dough."
+    },
+    {
+      "heading": null,
+      "description": "Add all the noodles into the boiling water and cook for 3-4 mins. Taste for doneness; they should float to the top and look slightly translucent on the edges. Use tongs to transfer to a sieve and shake off the excess water. Share the noodles into the serving bowls. Quickly top with the minced pork, roasted peanuts, crispy shallots, spring onions and a heaped tbsp of chilli oil per portion."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-14T01:00:00+01:00"
+}

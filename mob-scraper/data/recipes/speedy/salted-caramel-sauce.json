@@ -1,0 +1,96 @@
+{
+  "id": "6515048",
+  "slug": "salted-caramel-sauce",
+  "title": "Salted Caramel Sauce",
+  "url": "https://www.mob.co.uk/recipes/salted-caramel-sauce",
+  "summary": "A handy recipe for luxurious salted caramel. Delicious drizzled over just about anything.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Salted-Caramel-Sauce.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 309,
+    "protein": 1,
+    "fat": 14,
+    "saturated_fat": 9,
+    "carbohydrates": 44,
+    "dietary_fibre": null,
+    "sugars": 44,
+    "sodium": 1473
+  },
+  "ingredients": [
+    {
+      "label": "600g Caster Sugar",
+      "quantity": "600",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Double Cream",
+      "quantity": "500",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Sea Salt",
+      "quantity": "30",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add about ⅕ of the sugar to a large pan and set it over a medium heat to caramelise. You want to caramelise it very gradually. Starting with your layer of sugar in the base of the pan, resist the temptation to stir but gently ‘swipe’ the sugar from side to side to ensure it’s heating evenly. Turn the heat down if you think it's looking too dark – you want a lovely light caramel colour."
+    },
+    {
+      "heading": null,
+      "description": "Once this first layer looks like it’s starting to melt, add another layer (about ⅕ of the sugar again), and so on until all the sugar has dissolved and caramelised. This will take a while but is worth it!"
+    },
+    {
+      "heading": null,
+      "description": "Gently warm the cream in another pan, then slowly add it to your caramelised sugar, stirring to incorporate it gradually."
+    },
+    {
+      "heading": null,
+      "description": "Leave to cool then add the sea salt to taste."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-01T17:18:00+01:00"
+}

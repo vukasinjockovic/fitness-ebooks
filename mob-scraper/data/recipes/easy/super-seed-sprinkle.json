@@ -1,0 +1,171 @@
+{
+  "id": "5879229",
+  "slug": "super-seed-sprinkle",
+  "title": "Super Seed Sprinkle",
+  "url": "https://www.mob.co.uk/recipes/super-seed-sprinkle",
+  "summary": "A nutty, spicy, and extremely addictive sprinkle made from a mix of toasted seeds and quinoa. You can put this on literally everything.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Super-Seed-Sprinkle.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 73,
+    "protein": 2,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 4,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 53
+  },
+  "ingredients": [
+    {
+      "label": "60g Quinoa",
+      "quantity": "60",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Pumpkin Seeds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Sunflower Seeds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Sunflower Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Linseeds/Flaxseeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Whole Flaxseed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Sesame Seeds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Chia Seeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½-1 Tbsp Tamari",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tamari",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Nutritional Yeast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Agave",
+      "quantity": "1",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 190°C. Cook the quinoa in plenty of water for 10 mins, then drain well. Spread over a large baking sheet and drizzle with a little olive oil. Bake for 25-30 mins, stirring every 10 mins, until golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Spread the pumpkin seeds over a large baking sheet. While the quinoa is baking, roast the pumpkin seeds on the shelf below the quinoa for 7 mins, then add the sunflower seeds, linseeds and sesame seeds and roast for another 10 mins, or until golden, tossing once or twice."
+    },
+    {
+      "heading": null,
+      "description": "Remove the seed mix from the oven (it will probably be done before the quinoa), then add the chia seeds and tamari to the sheet (add the lesser amount of tamari if your preference for saltiness is low). Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Once the quinoa is done, tip it onto the seed sheet. Use a fork to toss everything together, sprinkle over the nutritional yeast and return to the oven for 2 more mins."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the quinoa and seed mix to a jar and shake. Store in the cupboard for five weeks or more."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-11T00:00:00+01:00"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "5696863",
+  "slug": "chicken-noodle-soup-recipe",
+  "title": "Chicken Noodle Soup",
+  "url": "https://www.mob.co.uk/recipes/chicken-noodle-soup-recipe",
+  "summary": "This is the ultimate comfort food for when you’re feeling a little rundown. Our chicken noodle soup recipe will nourish your soul and fill your stomach right up.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Chicken-Noodle-Soup.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 210,
+    "protein": 18,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 25,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cooked Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cooked Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cooked Chicken Breasts",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2L Chicken Broth",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Chicken Broth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Angel Hair Pasta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Angel Hair Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Angel Hair Pasta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Flat-Leaf Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion and celery, then peel and finely dice the carrots. Tear the cooked chicken into bite-sized pieces."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of olive oil in a large saucepan over a medium heat then add the finely diced vegetables. Add a big pinch of salt and cook gently for 10-15 mins until really soft but not coloured."
+    },
+    {
+      "heading": null,
+      "description": "Pour in 2L of chicken broth and bring to a simmer. Break the angel hair pasta into pieces and cook following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Scatter in the shredded chicken and leave to reheat for 1 min, then taste and season the broth with salt and cracked black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the parsley and pick the dill leaves. Spoon the soup into bowls and top with a scattering of the parsley and dill. Serve with garlic bread, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "French",
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-23T14:33:00+01:00"
+}

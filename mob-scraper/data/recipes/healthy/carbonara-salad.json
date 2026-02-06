@@ -1,0 +1,173 @@
+{
+  "id": "4513780",
+  "slug": "carbonara-salad",
+  "title": "Carbonara Salad",
+  "url": "https://www.mob.co.uk/recipes/carbonara-salad",
+  "summary": "All the flavours of a carbonara in crisp and refreshing salad form. Fried spaghetti croutons are going to change your life. Or, at the very least, your dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Carbonara-Salad-Recipe.jpg",
+  "cook_time": 15,
+  "prep_time": 30,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 792,
+    "protein": 20,
+    "fat": 63,
+    "saturated_fat": 13,
+    "carbohydrates": 32,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 678
+  },
+  "ingredients": [
+    {
+      "label": "200g Spaghetti",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spaghetti",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Plain Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "170g Pancetta",
+      "quantity": "170",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Heads of Baby Gem Lettuce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baby Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125ml Vegetable Oil",
+      "quantity": "125",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Parmesan",
+      "quantity": "75",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a pan of salted water to the boil. Add the spaghetti and cook according to packet instructions. Drain and rinse well with cold water to wash away the starch, then spread out on a baking sheet and put into the fridge, uncovered, to cool."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add the pancetta to a pan over a medium heat. Add 3 tbsp of olive oil, the gently sizzle until golden brown. Pass through a sieve over a jug, reserving the bacon-y oil. Set the oil aside in the fridge to cool."
+    },
+    {
+      "heading": null,
+      "description": "Tip vegetable into a deep saucepan until it comes half way up the sides, place over a high heat and heat to 180°C. Toss the pasta in a little flour and add a handful to the pan of oil, cook for 3-4 mins until crisp, then remove and set aside to drain on kitchen paper. Repeat with the rest of the spaghetti."
+    },
+    {
+      "heading": null,
+      "description": "Pull the leaves from the gem lettuce and add to a large bowl. Add the parsley. Set aside in the fridge. Use a peeler to peel some Parmesan into the bowl."
+    },
+    {
+      "heading": null,
+      "description": "To make the dressing, add the egg yolk to the base of a small bowl. Add a little squeeze of the lemon, drizzle a little of the pancetta oil into the mix and whisk well, once it starts to thicken together, start to drizzle in the rest of the oil, very slowly, it should come together into a thick mayo dressing. Add the rest of the lemon juice, then finely grate in the Parmesan. Season well with salt and pepper, then drizzle most of it over the salad."
+    },
+    {
+      "heading": null,
+      "description": "Crunch in the crispy spaghetti along with the pancetta chunks. Toss well then pile onto a platter. Top with extra dressing and parmesan and a crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-08-30T09:23:00+01:00"
+}

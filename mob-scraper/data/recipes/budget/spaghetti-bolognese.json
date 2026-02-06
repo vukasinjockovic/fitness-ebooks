@@ -1,0 +1,263 @@
+{
+  "id": "4414971",
+  "slug": "spaghetti-bolognese",
+  "title": "Spaghetti Bolognese",
+  "url": "https://www.mob.co.uk/recipes/spaghetti-bolognese",
+  "summary": "The key to the ultimate spaghetti bolognese is milk. A generous glug of the stuff tenderises the meat and evens out the acidity of the tomatoes. We got all the ingredients for this recipe from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Spaghetti-Bolognese.jpg",
+  "cook_time": 90,
+  "prep_time": 45,
+  "total_time": 135,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 813,
+    "protein": 43,
+    "fat": 29,
+    "saturated_fat": 10,
+    "carbohydrates": 89,
+    "dietary_fibre": 6,
+    "sugars": 12,
+    "sodium": 799
+  },
+  "ingredients": [
+    {
+      "label": "200g Diced Pancetta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Celery Sticks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Fat Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Fat Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Beef Mince",
+      "quantity": "750",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Beef Mince",
+      "quantity": "750",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Glass of Red Wine (175ml)",
+      "quantity": "175",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Beef Stock",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Bay Leaves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get a large saucepan over a medium heat and drizzle in some olive oil. Tip in the pancetta and fry until crisp, stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile finely chop the onions, carrot, celery and garlic. Add to the pan along with a further drizzle of olive oil and fry for 8–10 mins until soft."
+    },
+    {
+      "heading": null,
+      "description": "Turn up the heat to high and tip in the beef mince. Use the back of your spoon to break the mince up and fry until brown."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the red wine and let it bubble away over the high heat until reduced by half. Pour in the stock and milk followed by the plum tomatoes. Season well with black pepper and add the bay leaves. Bring to the boil, then reduce the heat to a low simmer, cover and cook for 1 1⁄2 hours."
+    },
+    {
+      "heading": null,
+      "description": "Check it every 20 mins or so and give it a good stir. If it is catching on the pan, just add a splash of water."
+    },
+    {
+      "heading": null,
+      "description": "After 1 1⁄2 hours, remove the lid and simmer for 30 minutes. Season to taste, remove from the heat and leave with the lid on for 15 minutes. The sauce is even better made the day before and then reheated."
+    },
+    {
+      "heading": null,
+      "description": "In this time, get your pasta on. Cook in a large pan of boiling salted water for 1 min less than the packet instructions say. Drain in a colander when ready."
+    },
+    {
+      "heading": null,
+      "description": "Toss your pasta through the bolognese, then pile it into four bowls. Serve with lots of Parmesan grated over the top and tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Family-Friendly",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-06-23T09:34:00+01:00"
+}

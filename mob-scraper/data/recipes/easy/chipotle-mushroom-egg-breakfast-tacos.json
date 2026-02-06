@@ -1,0 +1,260 @@
+{
+  "id": "5193435",
+  "slug": "chipotle-mushroom-egg-breakfast-tacos",
+  "title": "Chipotle Mushroom & Egg Breakfast Tacos",
+  "url": "https://www.mob.co.uk/recipes/chipotle-mushroom-egg-breakfast-tacos",
+  "summary": "A healthy, high-protein breakfast. These mushroom and egg tacos are perfect for the weekend.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Chipotle-Mushroom-Egg-Breakfast-Tacos.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 480,
+    "protein": 20,
+    "fat": 29,
+    "saturated_fat": 8,
+    "carbohydrates": 36,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "600g Portobello Mushrooms",
+      "quantity": "600",
+      "unit": null,
+      "name": "Portobello Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Portobello Mushrooms",
+      "quantity": "600",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Pumpkin Seeds",
+      "quantity": "15",
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Small Corn or Flour Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Small Corn or Flour Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Feta",
+      "quantity": "60",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Feta",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Coriander",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Greek Yoghurt",
+      "quantity": "70",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Greek Yoghurt",
+      "quantity": "70",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Feta",
+      "quantity": "40",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Feta",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Slice the mushrooms into 1cm-thick slices. Put the chipotle into a large bowl with a generous drizzle of olive oil. Season with salt and toss through the sliced mushrooms. Put the mushrooms onto a baking tray and roast for 15-20 mins until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, put all the crema ingredients (minus the lime) into a blender and blitz until smooth. Zest half the lime in, then taste and season with salt, pepper and lime juice."
+    },
+    {
+      "heading": null,
+      "description": "Crack the eggs into a bowl, season with salt and whisk together until smooth. Place a dry non-stick frying pan over a medium heat. Once hot, toast the seeds (you know they’re ready once they start popping) and then transfer to a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add a drizzle of oil to the now-empty frying pan, then pour the eggs in. Continuously stir until a fluffy scramble forms. Remove from the heat whilst the eggs are still slightly runny."
+    },
+    {
+      "heading": null,
+      "description": "Heat the tortillas in a dry frying pan, then load them up with crema, chipotle mushrooms, scrambled eggs, toasted seeds, coriander and chilli flakes. Serve with any remaining lime, cut into wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2024-04-30T05:00:00+01:00"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "2831546",
+  "slug": "parmesan-sprouts",
+  "title": "Parmesan Sprouts",
+  "url": "https://www.mob.co.uk/recipes/parmesan-sprouts",
+  "summary": "Crispy and lemony parmesan sprouts. So simple and perfect alongside your roast dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A0165-4-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 164,
+    "protein": 9,
+    "fat": 10,
+    "saturated_fat": 3,
+    "carbohydrates": 10,
+    "dietary_fibre": 5,
+    "sugars": 4,
+    "sodium": 244
+  },
+  "ingredients": [
+    {
+      "label": "500g Brussels Sprouts",
+      "quantity": "500",
+      "unit": null,
+      "name": "Brussels Sprout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Cut all the Brussels sprouts in half and toss with olive oil and salt."
+    },
+    {
+      "heading": null,
+      "description": "Pop these onto a baking tray cut side-down and bake for 30 mins, turning halfway through, until caramelised and crisp."
+    },
+    {
+      "heading": null,
+      "description": "Grate the parmesan over the sprouts and then pop the tray back into the oven for 5 mins until the cheese melts."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the parsley."
+    },
+    {
+      "heading": null,
+      "description": "Pour the sprouts into a bowl and grate over more parmesan, lemon zest, orange zest and sprinkle over the parsley."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-12-23T13:00:00+00:00"
+}

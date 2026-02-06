@@ -1,0 +1,329 @@
+{
+  "id": "5926293",
+  "slug": "smoky-chipotle-chilli",
+  "title": "Smoky Chipotle Chilli",
+  "url": "https://www.mob.co.uk/recipes/smoky-chipotle-chilli",
+  "summary": "The trick to bags of flavour in this chilli is blackening the onion and garlic for the chipotle sauce. It adds a smoky depth which complements the chipotle. Ideal for batch cooking, you could even double the quantities of this chipotle chilli con carne and then keep portions in the freezer - ideal for when you need an instant Mexican-inspired meal to hand. If you enjoy cooking with spice, you’re going to really get a kick out of the flavours in this simple chilli.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Chipotle-Chilli-Con-Carne-Recipe.jpg",
+  "cook_time": 55,
+  "prep_time": 5,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 308,
+    "protein": 20,
+    "fat": 16,
+    "saturated_fat": 5,
+    "carbohydrates": 20,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 224
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fat Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Plum Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Drained Cooked Kidney Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kidney Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Drained Cooked Kidney Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Dark Chocolate",
+      "quantity": "10",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Dark Chocolate",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sour Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Avocado",
+      "quantity": null,
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lime Wedges",
+      "quantity": null,
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Tortilla Chips",
+      "quantity": null,
+      "unit": null,
+      "name": "Tortilla Chips",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cheddar",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cheddar",
+      "quantity": null,
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the onion. Cut in half then finely chop one of the halves, leaving the other whole. Peel the garlic cloves, leaving them whole. Finely chop the red pepper and set it aside along with the chopped onion."
+    },
+    {
+      "heading": null,
+      "description": "Get a large saucepan, or casserole pan that you’ll cook the chilli in, set over a high heat. Once visibly hot, add the halved onion and whole garlic cloves to the dry frying pan. Cook for 3-5 mins, flipping halfway through, until both are becoming nicely charred, then remove the pan from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Put the charred garlic and onion into a blender. Add the cumin seeds to the pan and let them toast in the residual heat for a minute or so, tossing them so they don’t burn, then tip them into the blender. Add the chipotle paste, plum tomatoes, tomato purée and dried oregano then blitz until it becomes a smooth sauce. This is the base for your chilli."
+    },
+    {
+      "heading": null,
+      "description": "Set the pan back over a high heat. Tip in the mince along with 1 Tbsp olive oil. Season, then fry for 5-8 mins, breaking the mince up with the back of your spoon until evenly crisp and browned. Remove with a slotted spoon into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to medium, add the chopped onion and pepper along with 1 Tbsp olive oil. Cook, stirring occasionally until soft, around 8-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the mince back to the pan, then pour in the chipotle sauce along with the kidney beans and all of their water, then half fill the can with water and add that into the pan, too. Add the dark chocolate, if using."
+    },
+    {
+      "heading": null,
+      "description": "Simmer the chilli, stirring occasionally, for 30 mins until the sauce has thickened and is clinging to the meat, then season to taste. Serve with all your favourite accompaniments: rice, coriander, sour cream, smashed avo, lime wedges, tortilla chips, grated cheddar, if you like. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Low Carb",
+    "Family-Friendly",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T15:45:00+01:00"
+}

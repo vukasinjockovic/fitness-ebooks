@@ -1,0 +1,171 @@
+{
+  "id": "4533192",
+  "slug": "slow-roasted-creamy-courgette-pasta",
+  "title": "Slow Roasted Creamy Courgette Pasta",
+  "url": "https://www.mob.co.uk/recipes/slow-roasted-creamy-courgette-pasta",
+  "summary": "Slow roasting your courgettes makes them become concentrated in flavour and have an incredibly creamy texture, making them the perfect base for sauce.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Slow-Roasted-Creamy-Courgette-Pasta.jpg",
+  "cook_time": 25,
+  "prep_time": 20,
+  "total_time": 45,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 522,
+    "protein": 13,
+    "fat": 23,
+    "saturated_fat": 3,
+    "carbohydrates": 67,
+    "dietary_fibre": 8,
+    "sugars": 11,
+    "sodium": 94
+  },
+  "ingredients": [
+    {
+      "label": "5 Courgettes (About 650g)",
+      "quantity": "650",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Hazelnut",
+      "quantity": "30",
+      "unit": null,
+      "name": "Hazelnut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180g Pasta (Tagliatelle, Spaghetti or Similar)",
+      "quantity": "180",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegan Cream Cheese (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegan Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Pierce the courgettes all over with a fork and place on a baking tray. Drizzle with olive oil and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Slice the top off of the garlic bulb and drizzle with a little olive oil. Wrap it tightly in foil and place with the courgettes."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 35-55 mins, depending on the size of your courgettes. They should be super soft and starting to brown on the outside. If in doubt, cook them for longer."
+    },
+    {
+      "heading": null,
+      "description": "Toast the hazelnuts for 3-5 mins until golden. Roughly chop and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook your pasta 1 minute less than package instructions. Drain, put back into the pot and drizzle with a little olive oil to prevent sticking."
+    },
+    {
+      "heading": null,
+      "description": "When the courgettes are ready, halve them and scoop out the inside with a spoon into a bowl. Keep the skins to one side for now. Squeeze out the garlic into the bowl and add a good drizzle of olive oil, plenty of salt and pepper (more than you usually would, the courgettes need it!) and mash the garlic into the courgettes until everything is combined into a sauce. Tear the smoky courgette skins into small pieces and add it to the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Put the pasta pot on low heat and pour in the courgette sauce. Gently heat and toss to combine, adding a little more olive oil if you like. Add the vegan cream cheese here, if using. Once warm, add the zest and juice of one lemon and toss again. Taste for seasoning and adjust as you like."
+    },
+    {
+      "heading": null,
+      "description": "Serve into bowls and finish with more lemon zest from the second lemon, more pepper, more lemon juice if you like and sprinkle over the chopped hazelnuts."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-05T10:17:00+01:00"
+}

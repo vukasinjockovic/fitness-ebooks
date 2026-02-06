@@ -1,0 +1,269 @@
+{
+  "id": "4533092",
+  "slug": "harissa-gnocchi-traybake",
+  "title": "Saucy Harissa Gnocchi Traybake With Tahini Drizzle",
+  "url": "https://www.mob.co.uk/recipes/harissa-gnocchi-traybake",
+  "summary": "One tray, 30 mins and a short list of everyday ingredients are all you need to get this saucy, hearty meal on the table. It's got fibre and protein.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Saucy-Harissa-Gnocchi-Traybake-With-Tahini-Drizzle.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 13,
+    "fat": 10,
+    "saturated_fat": 1,
+    "carbohydrates": 59,
+    "dietary_fibre": 8,
+    "sugars": 10,
+    "sodium": 384
+  },
+  "ingredients": [
+    {
+      "label": "2 x 400g Tins of Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sun Dried Tomatoes",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sun Dried Tomatoes",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tin of Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tin of Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Harissa",
+      "quantity": "2",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Gnocchi",
+      "quantity": "400",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Gnocchi",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Nutritional Yeast (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Tahini",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Cold Water",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Lemon Juice",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Herbs For Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Herbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "Add the plum tomatoes to a medium-sized baking dish and mash them with a fork or potato mash. Mince the garlic and roughly chop the sun dried tomatoes, if using. Add these to the tomatoes along with the harissa, gnocchi, drained butterbeans and plenty of salt and pepper. Stir to combine, then add the cherry tomatoes. Sprinkle over the nutritional yeast, if using."
+    },
+    {
+      "heading": null,
+      "description": "Cover with silver foil and bake for 15 mins covered, then remove the foil and bake for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the tahini drizzle. Whisk together the tahini, lemon juice, 1 tsp of olive oil and 1 ½ tbsp of cold water until smooth and season well with salt and pepper. Add more water if needed, to thin it out to a drizzle consistency."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, drizzle the tahini over the traybake and scatter over your herbs."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-05T10:17:00+01:00"
+}

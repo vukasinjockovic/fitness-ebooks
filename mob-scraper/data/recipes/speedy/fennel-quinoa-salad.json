@@ -1,0 +1,152 @@
+{
+  "id": "7024834",
+  "slug": "fennel-quinoa-salad",
+  "title": "Quinoa & Fennel Salad",
+  "url": "https://www.mob.co.uk/recipes/fennel-quinoa-salad",
+  "summary": "This fennel and quinoa salad with a roast garlic dressing is perfect for meal prep. Combine it with your choice of protein, carb and topping to create your perfect meal-prep dish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Fennel-Quinoa-Salad.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 10,
+    "fat": 8,
+    "saturated_fat": 2,
+    "carbohydrates": 32,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 44
+  },
+  "ingredients": [
+    {
+      "label": "2 x 250g Pouches of Quinoa",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 250g Pouches of Quinoa",
+      "quantity": "500",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fennel Bulbs",
+      "quantity": "348",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Parsley (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Roasted Garlic Bulbs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle the garlic bulbs with a little olive oil and wrap them tightly in foil. Pop them on a baking tray then slide into the oven to roast for 30-35 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the quinoa following packet instructions. Finely slice the fennel (using a mandolin if you have one) and roughly chop the parsley."
+    },
+    {
+      "heading": null,
+      "description": "Into a large bowl, add the yoghurt and the zest and juice of the lemons along with the squeezed out roasted garlic bulbs. Whisk well and season with salt and pepper. Add the cooked quinoa, fennel and parsley before giving it a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Enjoy with your choice of protein and carb. If meal prepping for the week, transfer to a container and store in the fridge until ready to eat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-05T06:00:00+01:00"
+}

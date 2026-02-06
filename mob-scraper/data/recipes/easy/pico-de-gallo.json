@@ -1,0 +1,132 @@
+{
+  "id": "6755473",
+  "slug": "pico-de-gallo",
+  "title": "Pico de Gallo",
+  "url": "https://www.mob.co.uk/recipes/pico-de-gallo",
+  "summary": "A classic pico de gallo is the perfect salsa for welcoming friends. It’s best made a few hours in advance, to really accentuate the taste. It’s one of the most popular salsas in Mexico and everyone has their own version. This is mine. My family would make this salsa for every party or carne asada we had. It’s a simple salsa, but packed with Mexican flavours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Pico-de-Gallo-1.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 22,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 5,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 76
+  },
+  "ingredients": [
+    {
+      "label": "3 Small Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Coriander",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lime",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Maldon Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Maldon Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Totopos Tortilla Chips, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Tortilla Chips",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the tomatoes and onion. Finely chop the jalapeño and coriander. Place everything in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the lime juice and season with the salt. Mix well and keep in the fridge for at least 30 mins before serving. Serve with totopos (tortilla chips)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Karla Zazueta",
+      "uri": "chefs/karla-zazueta",
+      "summary": "Karla Zazueta is an incredible Mexican cook, food writer and cookery teacher. She teaches her Mexican traditions, recipes and techniques through cooking classes at her Mexican Food Memories cooking school. She also hosts Mexican supper clubs at her family home. Her recipes have been featured in The Guardian, BBC Food, NatGeo Food Magazine and many more. She's also just released her first cookbook, Norteña, where she shares the story of her family recipes and northern Mexico."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T15:28:00+01:00"
+}

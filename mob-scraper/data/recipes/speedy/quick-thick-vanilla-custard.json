@@ -1,0 +1,111 @@
+{
+  "id": "6522673",
+  "slug": "quick-thick-vanilla-custard",
+  "title": "Quick & Thick Vanilla Custard",
+  "url": "https://www.mob.co.uk/recipes/quick-thick-vanilla-custard",
+  "summary": "A beautifully rich vanilla custard pastry cream that's perfect for filling doughnuts or using up in bread and butter pudding.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Quick-Thick-Vanilla-Custard.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 10,
+    "saturated_fat": 6,
+    "carbohydrates": 6,
+    "dietary_fibre": null,
+    "sugars": 4,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "30g Caster Sugar",
+      "quantity": "30",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Egg Yolks",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "260ml Double Cream",
+      "quantity": "260",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 Vanilla Pod",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Stir the egg yolks and sugar together in a heatproof bowl."
+    },
+    {
+      "heading": null,
+      "description": "Heat the cream in a pan with the salt and vanilla pod until hot but not boiling. You’ll know it’s hot when it starts to steam. Pour the hot cream over the egg yolks slowly and evenly, whisking continuously as you go. Get someone to help you here if possible – they can pour while you whisk."
+    },
+    {
+      "heading": null,
+      "description": "Place the bowl over a pan of simmering water to make a double boiler, and heat, whisking continuously with a large balloon whisk, until it thickens. The custard is ready when the bubbles disappear. Another good test is to drag your wooden spoon through the middle of the custard – if it is ready the spoon will leave a mark that takes a moment to disappear. It should take about 8 mins to get to this stage."
+    },
+    {
+      "heading": null,
+      "description": "Remove the vanilla pod, split it lengthways and scrape the seeds into the custard. If necessary sieve the custard through a fine mesh to eliminate any lumps, then pour into a jug and serve at once."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-06T14:30:00+01:00"
+}

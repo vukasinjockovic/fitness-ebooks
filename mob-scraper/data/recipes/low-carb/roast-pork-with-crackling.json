@@ -1,0 +1,140 @@
+{
+  "id": "6963597",
+  "slug": "roast-pork-with-crackling",
+  "title": "Roast Pork with Crackling",
+  "url": "https://www.mob.co.uk/recipes/roast-pork-with-crackling",
+  "summary": "A classic recipe for roast pork belly with extremely crispy crackling. Make sure you use a boneless skin-on pork belly joint. Serve it with apple sauce for the perfect dinner party or Sunday lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Roast-Pork.jpg",
+  "cook_time": 35,
+  "prep_time": 75,
+  "total_time": 110,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 700,
+    "protein": 15,
+    "fat": 66,
+    "saturated_fat": 24,
+    "carbohydrates": 1,
+    "dietary_fibre": 1,
+    "sugars": null,
+    "sodium": 319
+  },
+  "ingredients": [
+    {
+      "label": "700g Boneless, Skin-on Pork Belly Joint",
+      "quantity": "700",
+      "unit": null,
+      "name": "Pork Belly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Boneless, Skin-on Pork Belly Joint",
+      "quantity": "700",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Fresh Rosemary",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Salt",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cracked Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Coarsely grind the peppercorns and pick the rosemary needles off, discarding the stems. Finely chop and add both to a small bowl with the salt. Finely grate in the garlic and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "Pat the pork belly dry with kitchen roll. Rub the garlic paste onto the pork flesh, leaving the skin clean. Place on a wire rack and pop in the fridge overnight (or at least for a few hours), uncovered, so the skin can dry out."
+    },
+    {
+      "heading": null,
+      "description": "When the drying time is up, heat the oven to 160°C fan. Remove the pork from the fridge and leave it to come up to room temperature (about 30 mins)."
+    },
+    {
+      "heading": null,
+      "description": "Pat the skin of the pork dry, then wrap the belly in tin foil, skin side up, leaving the skin exposed. Transfer to a baking tray and slide it into the oven to roast for 50-60 mins, then turn the heat up to 220°C and roast for about 20-25 mins or until the skin starts to blister and turn golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pork from the oven and turn on the grill to a low heat. Place the belly under the grill and cook for 3-6 mins until the skin has puffed up and gone crispy, turning it every couple of minutes to ensure the skin doesn't burn."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pork from the oven and leave to rest for 10-15 mins, before cutting and serving with apple sauce."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-09-03T16:28:00+01:00"
+}

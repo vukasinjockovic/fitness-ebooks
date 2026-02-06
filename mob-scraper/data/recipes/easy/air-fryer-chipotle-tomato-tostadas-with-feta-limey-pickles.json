@@ -1,0 +1,268 @@
+{
+  "id": "5561071",
+  "slug": "air-fryer-chipotle-tomato-tostadas-with-feta-limey-pickles",
+  "title": "Air Fryer Chipotle Tomato Tostadas with Feta & Limey Pickles",
+  "url": "https://www.mob.co.uk/recipes/air-fryer-chipotle-tomato-tostadas-with-feta-limey-pickles",
+  "summary": "With the weather warming up, this is the perfect al fresco air fryer recipe. Enjoy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Air-Fryer-Chipotle-Tomato-Tostadas-with-Feta-Limey-Pickles.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 427,
+    "protein": 10,
+    "fat": 22,
+    "saturated_fat": 6,
+    "carbohydrates": 46,
+    "dietary_fibre": 10,
+    "sugars": 8,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Radishes",
+      "quantity": "75",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 corn tortillas",
+      "quantity": "6",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 corn tortillas",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jalapeño",
+      "quantity": "1",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chipotle paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Cherry tomatoes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Cherry tomatoes",
+      "quantity": "350",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Feta",
+      "quantity": "25",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Feta",
+      "quantity": "25",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Thick Greek yogurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Thick Greek yogurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sugar",
+      "quantity": null,
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the red onion and radishes, then add to a bowl with the juice of ½ a lime, salt and sugar, if using. Give them a massage with your hands and set aside to turn bright pink."
+    },
+    {
+      "heading": null,
+      "description": "Get your tortillas into the air fryer and cook them for around 5 mins in 1 min bursts, flattening them out each time so they don't curl up too much. Once crisp, remove them from the air fryer to cool, they will also firm up as they cool."
+    },
+    {
+      "heading": null,
+      "description": "Halve the avocado, remove the pit and scoop into a processor along with the yoghurt, coriander stalks, and the remaining lime juice. Season generously with salt and pepper then blitz smooth. Finely dice the jalapeño and mix through, removing the seeds if you like it less spicy."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomatoes to a bowl with the chipotle paste and the olive oil. Season with salt and pepper then pop in the air fryer at 160°C for 20 mins. They should be nicely jammy with charred edges."
+    },
+    {
+      "heading": null,
+      "description": "Spread the avocado onto the crisp tortilla and top with the roast tomatoes. Crumble over the feta, scatter with coriander and top with the pickles."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-23T06:30:00+00:00"
+}

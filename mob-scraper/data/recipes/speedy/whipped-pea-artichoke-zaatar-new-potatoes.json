@@ -1,0 +1,285 @@
+{
+  "id": "7016407",
+  "slug": "whipped-pea-artichoke-zaatar-new-potatoes",
+  "title": "Whipped Pea, Artichoke & Za’atar with New Potatoes",
+  "url": "https://www.mob.co.uk/recipes/whipped-pea-artichoke-zaatar-new-potatoes",
+  "summary": "This whipped pea and artichoke combination makes a great base for the warm potato salad. Another protein-packed, balanced meal that’s great for meal prep.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Whipped-Pea-Artichoke-Zaatar-with-New-Potatoes.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 384,
+    "protein": 11,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 36,
+    "dietary_fibre": 10,
+    "sugars": 6,
+    "sodium": 547
+  },
+  "ingredients": [
+    {
+      "label": "700G New potatoes",
+      "quantity": "700",
+      "unit": null,
+      "name": "New Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700G New potatoes",
+      "quantity": "700",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150G Asparagus spears",
+      "quantity": "150",
+      "unit": null,
+      "name": "Asparagus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100G Jarred marinated artichokes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Jarred Artichokes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100G Jarred marinated artichokes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Artichoke",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35G Rocket",
+      "quantity": "35",
+      "unit": null,
+      "name": "Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100G Frozen peas, defrosted",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100G Frozen peas, defrosted",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 TSP Dijon mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of 1⁄2 lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 TBSP Olive oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 TBSP Za’atar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 TBSP Toasted sesame seeds (optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8–12 Mint leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100G Vegan feta (gluten-free and nut-free, if needed) or tofu",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vegan Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300G Frozen peas, defrosted",
+      "quantity": "300",
+      "unit": null,
+      "name": "Defrosted Frozen Peas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300G Frozen peas, defrosted",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100G Jarred marinated artichokes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Jarred Artichokes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100G Jarred marinated artichokes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Artichoke",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "plus 2–3 tbsp of their oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Artichoke Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 TBSP Lemon juice",
+      "quantity": "3",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 TSP Dijon mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Defrost the peas. Next, bring a large saucepan of salted water to the boil. Add the potatoes and boil for around 15 minutes, or until just cooked through. Take care not to overcook; they should be firm but just soft enough to poke your fork through without resistance."
+    },
+    {
+      "heading": null,
+      "description": "While the potatoes are cooking, add the asparagus spears to the saucepan for 2 minutes, then remove them with tongs and place them in a colander. Rinse under cold running water to stop them cooking, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "When the potatoes are done, drain them and set them aside in a colander to steam dry."
+    },
+    {
+      "heading": null,
+      "description": "To make the whipped pea and artichoke purée, blend all the ingredients in a small food processor (which will give you a chunky texture) or a blender (for a smooth texture). Season to taste with plenty of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Cut the potatoes into bite-sized pieces. Cut the asparagus spears into 3cm pieces. Thinly slice the artichoke pieces."
+    },
+    {
+      "heading": null,
+      "description": "Combine the potatoes, asparagus, artichokes, rocket and peas in a large bowl. Add the Dijon mustard, lemon juice and olive oil. Toss to combine, and season well to taste."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, spoon plenty of the whipped pea mixture on to a plate. Top with the potatoes and vegetables, then drizzle with a little more olive oil, and sprinkle over the za’atar and sesame seeds, if using. Tear over the mint leaves and crumble on the vegan feta or tofu, then serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Batch",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-15T04:00:00+00:00"
+}

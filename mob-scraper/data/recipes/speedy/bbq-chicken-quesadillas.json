@@ -1,0 +1,212 @@
+{
+  "id": "2220604",
+  "slug": "bbq-chicken-quesadillas",
+  "title": "BBQ Chicken Quesadillas",
+  "url": "https://www.mob.co.uk/recipes/bbq-chicken-quesadillas",
+  "summary": "Spicy shredded chicken. Loads of Bull’s-Eye Smokey Chipotle BBQ Sauce. Beautiful melted cheese. So quick to make. An absolute winner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/849A8301-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 797,
+    "protein": 52,
+    "fat": 38,
+    "saturated_fat": 15,
+    "carbohydrates": 62,
+    "dietary_fibre": 4,
+    "sugars": 10,
+    "sodium": 1432
+  },
+  "ingredients": [
+    {
+      "label": "650g Chicken Thigh Fillets",
+      "quantity": "650",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "650g Chicken Thigh Fillets",
+      "quantity": "650",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Tsp Cayenne Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Red Leicester",
+      "quantity": "200",
+      "unit": null,
+      "name": "Red Leicester Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Red Leicester",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Low Moisture Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Low Moisture Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Bull’s-Eye Smokey Chipotle BBQ Sauce",
+      "quantity": "100",
+      "unit": null,
+      "name": "Barbecue Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Large Flour Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get your chicken thighs in a bowl. Add your smoked paprika, cumin and cayenne pepper along with a glug of olive oil, salt and pepper. Give it a good mix so your chicken is evenly coated in the spices."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a medium-high heat. Add your chicken and cook for 4 mins on each side - they should be caramelised on the outside and lovely and tender in the middle when the time is up. Remove from the pan and leave to cool a little."
+    },
+    {
+      "heading": null,
+      "description": "Grate your red leicester and mozzarella. Finely slice your spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred your chicken with 2 forks. Pop the chicken in a bowl then add your Bull’s-Eye Smokey Chipotle BBQ Sauce and sliced spring onions."
+    },
+    {
+      "heading": null,
+      "description": "Wipe out your chicken pan to clean it, then add a tortilla to the pan on a low heat. Add a handful of mozzarella, red leicester, some chicken mixture and then more cheese. Top with a second tortilla."
+    },
+    {
+      "heading": null,
+      "description": "Cook on both sides until golden brown and then slice into quarters. Serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-06-30T10:29:00+01:00"
+}

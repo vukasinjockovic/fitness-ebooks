@@ -1,0 +1,178 @@
+{
+  "id": "5730417",
+  "slug": "chicago-hot-dog-recipe",
+  "title": "Chicago-Style Hot Dogs",
+  "url": "https://www.mob.co.uk/recipes/chicago-hot-dog-recipe",
+  "summary": "What's special about Chicago hot dogs? Everything. Dressed with mustard, relish, and pickle spear, these loaded hot dogs are the ultimate summer barbecue flex.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Chicago-Style-Hot-Dogs.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 810,
+    "protein": 25,
+    "fat": 48,
+    "saturated_fat": 12,
+    "carbohydrates": 67,
+    "dietary_fibre": 5,
+    "sugars": 15,
+    "sodium": 2100
+  },
+  "ingredients": [
+    {
+      "label": "8 Large Hot Dogs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Frankfurter Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Large Hot Dogs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Hot Dog Buns",
+      "quantity": "8",
+      "unit": null,
+      "name": "Hot Dog Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Ripe Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Mayonnaise",
+      "quantity": "8",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Relish",
+      "quantity": "8",
+      "unit": null,
+      "name": "Relish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp American Mustard",
+      "quantity": "8",
+      "unit": null,
+      "name": "American Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Pickle Spears",
+      "quantity": "8",
+      "unit": null,
+      "name": "Pickle Spear",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pile coals over to one side of your BBQ to create a hot, direct cooking side, and a warm, indirect cooking side."
+    },
+    {
+      "heading": null,
+      "description": "Score the hot dogs a few times so they stay nice and straight while on the grill. Lightly oil and then place onto the hot bars over the direct heat. Roll over, crisping up the skin, until nice and brown, before moving over to the indirect side. Pop the lid on the BBQ and cook and smoke for 8-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Grab the hot dog buns and brush with a little water, then pop on top of the hot dogs under the lid of the BBQ. Allow to warm up for a couple of minutes."
+    },
+    {
+      "heading": null,
+      "description": "Cut the tomatoes in half and then into slices. Season well with salt and black pepper and add a little oil. Cut the onion into chunky dice."
+    },
+    {
+      "heading": null,
+      "description": "Once nice and warm, pull the buns off the grill and split in half lengthways. Slather the inside of each bun with mayo and top with a hot dog. Tuck in a couple of slices of tomato and top with relish and a zigzag of mustard. Finish with diced onions and a pickle spear."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-22T06:00:00+01:00"
+}

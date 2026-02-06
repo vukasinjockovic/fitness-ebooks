@@ -1,0 +1,262 @@
+{
+  "id": "4254481",
+  "slug": "cod-double-bean-traybake",
+  "title": "Cod & Double Bean Traybake",
+  "url": "https://www.mob.co.uk/recipes/cod-double-bean-traybake",
+  "summary": "Flaky white fish and lovely beans form the backbone of this healthy traybake. A lush midweek dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Cod-Double-Bean-Traybake.jpg",
+  "cook_time": 35,
+  "prep_time": 20,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 390,
+    "protein": 32,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 37,
+    "dietary_fibre": 10,
+    "sugars": 6,
+    "sodium": 1172
+  },
+  "ingredients": [
+    {
+      "label": "4 Chunky Fillets of Cod, Skinless (Around 650-700g)",
+      "quantity": "650",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 600g Jars of Butter Beans (or 3 x 400g Tins)",
+      "quantity": "705",
+      "unit": null,
+      "name": "Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 600g Jars of Butter Beans (or 3 x 400g Tins)",
+      "quantity": "705",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml White Wine",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Lemons",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Green Beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Dill, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Mayonnaise",
+      "quantity": "60",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Green Beans",
+      "quantity": "100",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Lemons",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Rub the cod fillets each with around 1 tsp of table salt, then set aside, uncovered in the fridge. If you have time, do this the night before, but even doing it at the start of the recipe will make a difference to how the fillets flake apart. Heat the oven to 180°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Make the aioli. Finely grate or crush the garlic into a small bowl and add the lemon juice, stir to combine, then add the mayo and season well."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the onion and garlic. Heat a large glug of olive oil in a deep saucepan over a medium-high heat. Add the sliced onion along with a big pinch of salt and fry for 10 mins, until softened. Add the garlic, dried oregano and fennel seeds. Pour in the wine and allow to bubble until reduced by half. Add the butter beans along with any water from the cans/jars. Crumble in the stock cube and bubble away for 8-10 mins, until thickened."
+    },
+    {
+      "heading": null,
+      "description": "Add the zest and juice of the lemon and season well, then stir in the green beans. Cook for a minute, then tip into a large roasting tray. Nestle in the cod fillets and bake for 10 mins, until the cod is flaking apart."
+    },
+    {
+      "heading": null,
+      "description": "While it cooks, make the salsa. Finely slice the green beans and add to a bowl with the juice of the lemons, dijon and honey stir well. Finely chop the green chilli and add the bowl along with 2 tbsp olive oil. Season well."
+    },
+    {
+      "heading": null,
+      "description": "Remove the cod from the oven and serve, drizzled with salsa and with a dollop of aioli for everyone. Serve the remaining lemon half, cut into wedges, on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "High Fibre",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-14T08:30:00+01:00"
+}

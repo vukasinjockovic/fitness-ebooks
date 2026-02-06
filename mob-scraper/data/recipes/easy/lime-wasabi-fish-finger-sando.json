@@ -1,0 +1,182 @@
+{
+  "id": "5438706",
+  "slug": "lime-wasabi-fish-finger-sando",
+  "title": "Lime Wasabi Fish Finger Sando",
+  "url": "https://www.mob.co.uk/recipes/lime-wasabi-fish-finger-sando",
+  "summary": "A fish finger sandwich is perfect for those lazy days. Who makes their own fish fingers anyway?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Lime-Wasabi-Fish-Finger-Sando.jpg",
+  "cook_time": 12,
+  "prep_time": 5,
+  "total_time": 17,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 31,
+    "fat": 51,
+    "saturated_fat": 15,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 1700
+  },
+  "ingredients": [
+    {
+      "label": "8 Frozen Fish Fingers",
+      "quantity": "8",
+      "unit": null,
+      "name": "Fish Finger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch Chives, plus extra to serve (optional)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Onion",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Kewpie Mayo",
+      "quantity": "6",
+      "unit": null,
+      "name": "Kewpie Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Wasabi",
+      "quantity": "2",
+      "unit": null,
+      "name": "Wasabi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices of Brioche",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices American Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "American Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices American Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C. Cook the fish fingers following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the chives as finely as possible and thinly slice the red onion. Fill a bowl with cold water and soak the onions for 2 mins, then drain. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Combine the mayonnaise, wasabi, soy sauce, chives and a squeeze of lime juice in a bowl. Use a grater to zest the outside of the lime and add to the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Set a pan over a medium heat. Add a knob of butter. Toast the slices of bread for 1-2 mins, pressing down gently and occasionally moving them around the pan to ensure even toasting. Once golden, flip and repeat on the other side. Set the toast aside."
+    },
+    {
+      "heading": null,
+      "description": "Place one piece of bread on a plate. Add a generous dollop of sauce and spread evenly. Add 4 fish fingers, followed by half the red onion. Lastly add a slice of American cheese and another piece of bread on top. Repeat for the second sandwich."
+    },
+    {
+      "heading": null,
+      "description": "Gently press down on the sandwich and slice straight down the middle. To be extra indulgent, flip the sandwich upright and dollop over the remaining sauce and sprinkle with chives."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-12T06:00:00+01:00"
+}

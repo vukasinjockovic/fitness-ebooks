@@ -1,0 +1,155 @@
+{
+  "id": "4152170",
+  "slug": "lemon-pasta",
+  "title": "Lemon Pasta",
+  "url": "https://www.mob.co.uk/recipes/lemon-pasta",
+  "summary": "A perfect intro to homemade pasta, featuring a low lift sauce with big flavours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Lemony-Pasta.jpg",
+  "cook_time": 10,
+  "prep_time": 60,
+  "total_time": 70,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 755,
+    "protein": 31,
+    "fat": 36,
+    "saturated_fat": 15,
+    "carbohydrates": 77,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "120g Crème Fraîche",
+      "quantity": "120",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon, Juice And Zest",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan, Finely Grated",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Toasted Pine Nuts",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parsley, For The Top",
+      "quantity": null,
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "200g \"00\" Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "“00” Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Semolina, For Dusting",
+      "quantity": "25",
+      "unit": null,
+      "name": "Semolina",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making the pasta. Whisk the eggs together in a jug. Tip the flour into a bowl and use your fist to create a dent in the middle of the pile of flour. Tip the eggs in, then use a fork to mix together. Once it’s starting to combine, get your hands in there and draw it together into a shaggy dough."
+    },
+    {
+      "heading": null,
+      "description": "Tip onto the kitchen surface, knead it together for a few minutes (don’t worry if it feels very firm at this point). Once it feels smooth, wrap the dough in cling film, then leave to sit in the fridge. This will give the gluten in the dough time to relax so it’ll be much easier to roll by hand."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the crème frâiche with the Parmesan and lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Remove the dough from the fridge and cut into 4 pieces. Covering the other with cling film or a damp tea towel. Take each piece and begin to roll it out on the surface, roll until it's around 2mm thick. If it’s sticking to the surface too much, dust the surface with a little flour. If it starts to spring back at you, simply cover with a sheet of cling film and leave it for 5 mins to relax, then return to rolling it out."
+    },
+    {
+      "heading": null,
+      "description": "Dust the sheet with semolina and roll it up like a swiss roll. Use a knife to cut the roll into thick ribbons, then unravel. Dust again with a little more semolina, then lay out to dry on your kitchen surface for around 10-15 mins, until feeling leathery. Repeat with the rest of the pasta."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the pasta dries, bring a pan of salted water to the boil. In a large frying pan, add the crème fraîche sauce and gently heat. Drop the pasta into the boiling water and cook for 3-4 mins, then use tongs to transfer the pasta into the crème fraîche sauce. Add the peas and toss everything together, adding a slosh of pasta water to keep the sauce silky. Season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Use tongs to swirl into bowls, top with the toasted pine nuts, parsley leaves, and extra Parmesan."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-07T11:57:00+00:00"
+}

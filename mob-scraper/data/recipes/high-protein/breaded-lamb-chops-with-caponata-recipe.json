@@ -1,0 +1,339 @@
+{
+  "id": "5783947",
+  "slug": "breaded-lamb-chops-with-caponata-recipe",
+  "title": "Breaded Lamb Chops With Caponata",
+  "url": "https://www.mob.co.uk/recipes/breaded-lamb-chops-with-caponata-recipe",
+  "summary": "Juicy lamb chops coated in a crunchy panko breadcrumb on a bed of tangy caponata. That's dinner, all right.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Breaded-Lamb-Chops-With-Caponata.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 32,
+    "fat": 38,
+    "saturated_fat": 8,
+    "carbohydrates": 48,
+    "dietary_fibre": 6,
+    "sugars": 17,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "1 Aubergine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Courgette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Rosemary",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Passata",
+      "quantity": "200",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Black Olives",
+      "quantity": "100",
+      "unit": null,
+      "name": "Black Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Red Wine Vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Toasted Pine Nuts",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Raisins",
+      "quantity": "100",
+      "unit": null,
+      "name": "Raisin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Rocket",
+      "quantity": "90",
+      "unit": null,
+      "name": "Fresh Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Lamb Chops",
+      "quantity": "8",
+      "unit": null,
+      "name": "Lamb Chop",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Lamb Chops",
+      "quantity": "8",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Flour ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Panko Breadcrumbs",
+      "quantity": "150",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by dicing the aubergine, peppers, courgette, celery and red onions into a small-ish dice. You want everything roughly the same size! Preheat a pan over a medium-high heat and add a good glug of olive oil. Tip in the aubergines and season with salt. Cook for 5-6 mins or until nicely browned. Remove from the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add a shot more oil and tip in the other veggies (leaving the aubergine out for now). Season with salt and pepper and cook for 9-10 mins to sweat and soften. Finely grate in the garlic cloves and add the rosemary leaves. Tip the aubergines back in and cook everything together for 4-5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the passata, black olives, capers, vinegar and sugar. Simmer together for a further 9-10 mins before adding the nuts, raisins and folding through the rocket. Season to taste and keep warm while you prepare the lamb."
+    },
+    {
+      "heading": null,
+      "description": "Season the chops generously with salt and pepper on both sides. Set up three separate bowls, one with the beaten eggs, one with seasoned flour and the third with the breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Pass the chops through the flour, then coat with egg, before tossing in the breadcrumbs. I like to keep the bone clean of breadcrumbs, but don’t sweat it if you get a few on there!"
+    },
+    {
+      "heading": null,
+      "description": "Preheat a pan over a medium heat and add a generous layer of olive oil. Once hot, lay in the lamb chops, working in batches if necessary, and cook for 3-4 mins a side or until beautifully golden brown. Make sure your pan doesn’t get too hot, you want the chops to slowly brown in the oil. Remove from the pan, season with salt and pepper and rest for 5 mins or so before serving."
+    },
+    {
+      "heading": null,
+      "description": "Serve a generous few spoons of warm caponata on warm plates, top with a couple of chops and serve with a wedge of lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-15T05:00:00+01:00"
+}

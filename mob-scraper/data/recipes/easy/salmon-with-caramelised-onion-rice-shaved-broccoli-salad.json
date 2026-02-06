@@ -1,0 +1,257 @@
+{
+  "id": "7088286",
+  "slug": "salmon-with-caramelised-onion-rice-shaved-broccoli-salad",
+  "title": "Salmon With Caramelised Onion Rice & Shaved Broccoli Salad",
+  "url": "https://www.mob.co.uk/recipes/salmon-with-caramelised-onion-rice-shaved-broccoli-salad",
+  "summary": "A faff-free dinner that'll introduce you to a brand-new way of eating broccoli. Simple goodness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Salmon-With-Caramelised-Onion-Rice-Shaved-Broccoli-Salad-Recipe.jpg",
+  "cook_time": 50,
+  "prep_time": 5,
+  "total_time": 55,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 36,
+    "fat": 38,
+    "saturated_fat": 8,
+    "carbohydrates": 44,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 186
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Salted Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Basmati Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Basmati Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375ml Water",
+      "quantity": "375",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g Salmon fillets",
+      "quantity": "480",
+      "unit": null,
+      "name": "Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g Salmon fillets",
+      "quantity": "480",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Broccoli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Extra Virgin Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 heaped teaspoon za'atar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Natural Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Natural Yoghurt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tahini",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Halve and finely slice the onion; finely chop the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add the oil and butter to a large, non-stick pan and set over a medium heat. Add the onion with a pinch of salt and cook for 10–15 mins, stirring often, until soft, sticky, and golden."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic and cook for 1–2 mins. Stir in the rice and pour over the water. Cover with a lid and cook on low heat for about 10 mins, until the rice is tender and water absorbed. Stir gently, cover, and let steam off the heat for 10 more minutes."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, prepare the broccoli salad. Trim the florets from the broccoli and finely slice each one (or shave with a mandoline). In a bowl, whisk together the olive oil, lemon juice, yoghurt, za’atar (if using), tahini, salt and pepper. Add the broccoli and toss to coat. Taste and adjust seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Season the salmon with salt. Heat a frying pan over high heat with a glug of oil. Once hot, add the salmon skin-side down. Press down gently on the flesh so the skin makes even contact with the pan. Cook for 5–6 mins until the skin is crisp, then flip the fillets, turn off the heat, and let the residual heat finish cooking."
+    },
+    {
+      "heading": null,
+      "description": "Serve the salmon over the caramelised onion rice with the broccoli salad and a sprinkle of extra za’atar, if using."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Ingredient",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Kitty Coles",
+      "uri": "chefs/kitty-coles",
+      "summary": "Kitty is a supremely talented cook and recipe writer. You can find her recipes here as well as in publications like the Irish Times, Gloss Magazine, and The Guardian. She divides her time between London, Dublin and Mallorca (where her parents live and dad grew up) and her food showcases seasonal ingredients with a splash of Mediterranean style. Kitty is a no-fuss, simple cook, who uses everyday ingredients to make delicious and easy recipes. You can find plenty more of Kitty's recipes in her cookbook: 'Make More With Less: Foolproof Recipes to Make Your Food Go Further'."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-11T13:20:00+01:00"
+}

@@ -1,0 +1,274 @@
+{
+  "id": "4512556",
+  "slug": "porchetta",
+  "title": "Citrus Stuffed Pork Belly Porchetta",
+  "url": "https://www.mob.co.uk/recipes/porchetta",
+  "summary": "Adding orange and lemon to your porchetta helps to cut through the richness. This is a lovely, balanced porchetta recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Citrus-Stuffed-Pork-Belly-Porchetta.jpg",
+  "cook_time": 180,
+  "prep_time": 25,
+  "total_time": 205,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 464,
+    "protein": 17,
+    "fat": 32,
+    "saturated_fat": 11,
+    "carbohydrates": 22,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 463
+  },
+  "ingredients": [
+    {
+      "label": "½ Boneless Pork Belly, Skin Scored",
+      "quantity": "700",
+      "unit": null,
+      "name": "Pork Belly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Boneless Pork Belly, Skin Scored",
+      "quantity": "700",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Cornish Orchards Vintage Cider",
+      "quantity": "15",
+      "unit": null,
+      "name": "Cider",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parsley",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Oregano",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5ml Red WineVinegar",
+      "quantity": "5",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Baby Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Baby Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Baby Potatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Broccoli",
+      "quantity": "400",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Flip the pork belly over so it’s skin side down. Grab a sharp knife and score a cross hatch pattern in the flesh approx 2cm deep and spaced 4cm apart. Mix the sugar and salt together and toast off the fennel seeds and black pepper in a dry pan. Coarsely crush the spices and mix into the salt and sugar mixture along with chilli, liberally season all of the pork with the spice mix on the flesh side. Place on a rack in the fridge and leave, uncovered, overnight."
+    },
+    {
+      "heading": null,
+      "description": "The next day, pat the meat and skin dry, but don’t rub off the spices! Zest the orange and lemon onto the flesh, squeeze over a little juice, finely grate the garlic cloves on and add a splash of cider. Add a splash of olive oil and start massaging the ingredients into the pork."
+    },
+    {
+      "heading": null,
+      "description": "Time to tie it up, lay the porchetta skin side down on your cutting board. Cut 7-8 pieces of butchers twine or string into lengths that will comfortable wrap around the porchetta. Lay across your cutting laying top to bottom, with a 5cm gap between each string. Slap the pork on top and roll up into a log. Starting in the middle, tie the strings around the pork, working methodically with each string, to maintain the log shape."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 150°C. Set up a roasting tray with a rack over top. Fill the tray with the potatoes and sit the pork, seam side-down, on the rack over top. Slide into the oven for 2 hours."
+    },
+    {
+      "heading": null,
+      "description": "Whip up a quick salsa verde by finely chopping your parsley and combining it with freshly cut orange segments, oregano, a crushed clove of garlic, capers, vinegar, and oil."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and crank the heat up to max (250°C). Add the broccoli to the tray with the potatoes and slide the whole lot back into the oven for 15-20 minutes until the crackling is super crispy and bubbled."
+    },
+    {
+      "heading": null,
+      "description": "Let the roast rest for at least 20 mins before slicing into thick rounds and serving, topped with your salsa verde. A serrated knife is best for this!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-22T08:00:00+01:00"
+}

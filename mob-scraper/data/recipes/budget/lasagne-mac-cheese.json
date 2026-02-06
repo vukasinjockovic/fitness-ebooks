@@ -1,0 +1,252 @@
+{
+  "id": "4622542",
+  "slug": "lasagne-mac-cheese",
+  "title": "Lasagne Mac & Cheese",
+  "url": "https://www.mob.co.uk/recipes/lasagne-mac-cheese",
+  "summary": "An easy version of a lasagne or a meaty version of a mac and cheese? This mash-up of two classics is simple, comforting and, of course, delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Lasagne-Mac-Cheese.jpg",
+  "cook_time": 55,
+  "prep_time": 5,
+  "total_time": 60,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 627,
+    "protein": 37,
+    "fat": 27,
+    "saturated_fat": 15,
+    "carbohydrates": 59,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Thyme",
+      "quantity": "10",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tomato Puree",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Milk",
+      "quantity": "250",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350ml Beef Stock",
+      "quantity": "350",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Macaroni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Macaroni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Milk",
+      "quantity": "750",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Low Moisture Mozzarella",
+      "quantity": "100",
+      "unit": null,
+      "name": "Low-Moisture Mozzarella Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Low Moisture Mozzarella",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dijon Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Plain Flour",
+      "quantity": "45",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Butter",
+      "quantity": "45",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion and garlic. Heat the oil in a large pan over a medium heat, add the beef and cook for 5 mins until caramelised and golden – you’ll need to do this in batches, otherwise the meat will just steam. Remove the beef from the pan and set it aside."
+    },
+    {
+      "heading": null,
+      "description": "Add another glug of olive oil to the pan before tipping in the onion. Cook for 5-7 mins until golden and translucent. Add the garlic and thyme, cook for 2 more mins, then add the tomato purée. Cook for 1 min. Reduce the heat to low, return the beef to the pan and pour in the milk and beef stock. Season the ragù with black pepper, cover with a lid and simmer for 45 mins, stirring regularly."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, start the sauce by grating all three cheeses. Melt the butter in a large pot and add the flour, cooking for 2-3 mins or until it smells nutty. Gradually add the milk, stirring after each addition, then bring to the boil, reduce to a simmer and cook for 2 mins until thickened. Add the mustard and Parmesan, along with half of the cheddar and mozzarella, then season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Heat the grill to high. Bring a large pan of salted water to the boil. Once boiling, add the macaroni and cook for 1 min less than pack instructions. Drain the pasta, reserving a mug of the cooking water. Mix the pasta with the ragu and a slosh of reserved water, mixing well to coat all of the pasta. Transfer to a baking dish and pour over the cheese sauce. Scatter the remaining mozzarella and cheddar on top and put under the grill for 5-10 mins until bubbling and golden."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-10-25T15:12:00+01:00"
+}

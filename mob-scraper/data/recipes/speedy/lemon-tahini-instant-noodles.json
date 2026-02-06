@@ -1,0 +1,164 @@
+{
+  "id": "3991694",
+  "slug": "lemon-tahini-instant-noodles",
+  "title": "Lemon Tahini Instant Noodles",
+  "url": "https://www.mob.co.uk/recipes/lemon-tahini-instant-noodles",
+  "summary": "We've upgraded your average instant ramen noodles with a creamy lemon tahini broth and crispy chilli oil.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Lemon-Tahini-Instant-Noodles.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 23,
+    "fat": 62,
+    "saturated_fat": 8,
+    "carbohydrates": 86,
+    "dietary_fibre": 10,
+    "sugars": 13,
+    "sodium": 1432
+  },
+  "ingredients": [
+    {
+      "label": "75g Tahini",
+      "quantity": "75",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1x 90g Pack Instant Ramen",
+      "quantity": "90",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1x 90g Pack Instant Ramen",
+      "quantity": "90",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Carrot (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Courgette (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tbsp Crispy Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds (I Used Black And White)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "If using courgette and carrot, finely slice them into thin batons with a julienne peeler or a knife. You could also peel them into thin ribbons with a speed peeler."
+    },
+    {
+      "heading": null,
+      "description": "Boil a pot of water on the hob with 1 stock cube. Add the noodles, courgette and carrot and boil for 4 mins (or as long as the noodle package states)."
+    },
+    {
+      "heading": null,
+      "description": "Set a cup of the cooking water (stock) aside and drain the noodles."
+    },
+    {
+      "heading": null,
+      "description": "Pour the cup of stock into a medium sided serving bowl. Pour in the tahini and squeeze the lemon into the stock and whisk until well combined into smooth sauce."
+    },
+    {
+      "heading": null,
+      "description": "Add the noodles and veg into the bowl with the lemon tahini sauce and mix well until all of the noodles are covered in sauce."
+    },
+    {
+      "heading": null,
+      "description": "Top with a tablespoon of chilli oil and sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-19T11:45:00+00:00"
+}

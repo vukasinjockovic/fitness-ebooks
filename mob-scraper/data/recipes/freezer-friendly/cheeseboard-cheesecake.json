@@ -1,0 +1,172 @@
+{
+  "id": "4560828",
+  "slug": "cheeseboard-cheesecake",
+  "title": "Cheeseboard Cheesecake",
+  "url": "https://www.mob.co.uk/recipes/cheeseboard-cheesecake",
+  "summary": "A savoury Basque cheesecake where we’ve used a creamy blue and Parmesan to amp up the flavours. This is a proper showstopper. Inauthentically delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/220A0073-1.jpg",
+  "cook_time": 50,
+  "prep_time": 20,
+  "total_time": 70,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 222,
+    "protein": 7,
+    "fat": 20,
+    "saturated_fat": 13,
+    "carbohydrates": 4,
+    "dietary_fibre": 0,
+    "sugars": 2,
+    "sodium": 270
+  },
+  "ingredients": [
+    {
+      "label": "12g Chives",
+      "quantity": "12",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Parmesan",
+      "quantity": "35",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Cream Cheese",
+      "quantity": "750",
+      "unit": null,
+      "name": "Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Cream Cheese",
+      "quantity": "750",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Double Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fine Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Gorgonzola",
+      "quantity": "80",
+      "unit": null,
+      "name": "Gorgonzola",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Cornflour",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Crackers, Warm Bread and Chutney, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Cream Cracker",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "black pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 250°C. Line a 20cm cake tin with two sheets of crumpled baking paper, making sure there’s an overhang of 3cm all the way round."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chives and finely grate the Parmesan, then set aside. Put the cream cheese into a large bowl and beat until smooth. Add the eggs one at a time, beating in each one entirely. Add the cream, parmesan, chives, fine salt and pepper, then mix to combine. Crumble in the gorgonzola and sieve in the cornflour. Fold in and mix well to combine."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture into the lined cake tin and transfer to the oven. Bake for 17-20 mins until dark on the top but very, very wobbly in the middle. It will sink and firm up as it cools! Cover and leave overnight before slicing and serving with crackers, warm bread and chutney."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Freezer Friendly",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Spanish-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-14T09:00:00+00:00"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "4254939",
+  "slug": "hot-fudge-sundate",
+  "title": "Hot Fudge Sun-date",
+  "url": "https://www.mob.co.uk/recipes/hot-fudge-sundate",
+  "summary": "This hot fudge sundae-inspired date recipe is perfect for Ramadan or any event where you want a sweet little canapé.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Hot-Fudge-Sundate.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 16,
+    "dietary_fibre": 2,
+    "sugars": 14,
+    "sodium": 13
+  },
+  "ingredients": [
+    {
+      "label": "7-10 Medjool Dates, Pitted",
+      "quantity": "10",
+      "unit": null,
+      "name": "Medjool Date",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chocolate Brownie",
+      "quantity": null,
+      "unit": null,
+      "name": "Chocolate Brownie",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "7-10 Maraschino Cherries",
+      "quantity": "10",
+      "unit": null,
+      "name": "Glacé Cherries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Whipped Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Whipped Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Nuts",
+      "quantity": null,
+      "unit": null,
+      "name": "Mixed Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "25g Granulated Sugar",
+      "quantity": "25",
+      "unit": null,
+      "name": "Granulated Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cocoa Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Salted Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Milk",
+      "quantity": "2",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/4 Tsp Vanilla Extract",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make your hot fudge sauce by heating your ingredients in a saucepan."
+    },
+    {
+      "heading": null,
+      "description": "Break up brownie pieces and add about 2 tbsp of hot fudge. Mix until it reaches a texture that's soft but easily holds together."
+    },
+    {
+      "heading": null,
+      "description": "Stuff the brownies into the dates."
+    },
+    {
+      "heading": null,
+      "description": "Top with whipped cream, place a cherry on top of the cream and sprinkle your nuts on top."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle remainder of hot fudge sauce on top of dates and serve!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Food"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Ayesha Erkin",
+      "uri": "chefs/ayesha-erkin",
+      "summary": "Ayesha Erkin is a trained architect that found herself spending more late nights in the kitchen than in the studio. Her favorite type of recipe development is obsessing over one thing and making it in a 100 different ways, which resulted in her debut cookbook, 'Date Of The Day'. Ayesha is an immigrant of mixed Turkic and Arab heritage. She was born and raised in Pakistan, alongside living between Saudi Arabia, Germany and moved to America when she was 14. Ayesha is the founder of 'Brown Girls Food Club' and 'People, Places & Spaces' - a design, culinary and research practice. She is based between London and Texas, but you'll often find her traveling elsewhere."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-07T08:00:00+01:00"
+}

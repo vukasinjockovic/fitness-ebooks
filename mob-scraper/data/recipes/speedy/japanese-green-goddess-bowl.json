@@ -1,0 +1,275 @@
+{
+  "id": "4537638",
+  "slug": "japanese-green-goddess-bowl",
+  "title": "Japanese-Inspired Green Goddess Bowl",
+  "url": "https://www.mob.co.uk/recipes/japanese-green-goddess-bowl",
+  "summary": "A classic green goddess but with a Japanese-inspired sesame dressing that's aromatic, creamy, and clings onto greens you throw at it. Dreamy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Japanese-Inspired-Green-Goddess-Bowl.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 261,
+    "protein": 8,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 21,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 553
+  },
+  "ingredients": [
+    {
+      "label": "4 Tbsp Greek Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Greek Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Miso Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Toasted Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Avocado",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Iceberg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tin of Cannellini Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cannellini Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tin of Cannellini Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "½ Avocado, To Garnish",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Mint Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tortilla Chips, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Tortilla Chips",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Blend all the dressing ingredients together until bright green and smooth. Taste and add a pinch of salt if needed. If the dressing looks too thick, add more lime juice – it should be scoopable but still have a little movement. Set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Slice the cucumber into thin diagonal strips, then lay the pieces of cucumber slightly on top of each creating a long line, slice into thin strips, working all the way down the line and add to a large bowl. Cut the lettuce in half and make diagonal slits around the core to remove it. Finely shred one lettuce half and chop the other half into rough cubes. Tip into the cucumber bowl. Roughly slice the coriander and add to the bowl. Drain and rinse the can of beans in a sieve, washing away all the bean juice. Dry the beans very well and sprinkle with a generous pinch of salt, then add to the bowl of greens. Season the greens with a drizzle of sesame oil, a squeeze of lime and a pinch of salt. Toss well."
+    },
+    {
+      "heading": null,
+      "description": "Grab a big serving platter and swoosh the creamy dressing all over it. Use tongs to pile the slaw on top in an even layer, trying to leave behind any liquid leaked from the veggies. Top with avocado slices, fresh herbs, toasted sesame seeds, a generous drizzle of extra virgin olive oil and a good pinch of flaky sea salt. Pour your favourite tortilla chips into bowls and serve alongside the salad."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-08T11:05:00+01:00"
+}

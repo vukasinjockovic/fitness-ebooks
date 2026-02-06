@@ -1,0 +1,176 @@
+{
+  "id": "3139308",
+  "slug": "buttermilk-style-pancakes",
+  "title": "Fluffy Pancakes",
+  "url": "https://www.mob.co.uk/recipes/buttermilk-style-pancakes",
+  "summary": "Our take on the American classic. We’ve used sour cream and a splash of milk in place of buttermilk as it can sometimes be a pain to track down. Ben x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Buttermillk-Style-Pancakes.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 293,
+    "protein": 8,
+    "fat": 13,
+    "saturated_fat": 7,
+    "carbohydrates": 34,
+    "dietary_fibre": 2,
+    "sugars": 5,
+    "sodium": 273
+  },
+  "ingredients": [
+    {
+      "label": "280g Plain Flour",
+      "quantity": "280",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Bicarbonate of Soda",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bicarbonate of Soda",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Sour Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Butter",
+      "quantity": "25",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Milk",
+      "quantity": "100",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Sift the dry ingredients into a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in the microwave or in a small pan."
+    },
+    {
+      "heading": null,
+      "description": "Separate the eggs, then beat the yolks into the sour cream, melted butter, and milk."
+    },
+    {
+      "heading": null,
+      "description": "Fold the yolk mixture into the dry ingredients."
+    },
+    {
+      "heading": null,
+      "description": "Whip the egg whites to stiff peaks in a separate bowl and fold into the batter one-third at a time."
+    },
+    {
+      "heading": null,
+      "description": "Leave the batter to rest in the fridge for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large non-stick frying pan over medium heat, add a little butter, and a ladle of pancake batter."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 2-3 mins on each side and stack up on a plate."
+    }
+  ],
+  "tips": [
+    "Don’t Overmix: A few lumps in the batter are totally fine—overmixing makes pancakes tough, not fluffy.",
+    "Rest the Batter: Letting the batter sit for 10 minutes helps the baking powder activate and the gluten relax, resulting in lighter pancakes.",
+    "Even Heat: Medium-low heat is key. Too hot and they’ll burn outside before cooking through.",
+    "Perfect Flipping: Wait for bubbles and set edges before flipping—patience is everything!"
+  ],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-16T11:19:00+00:00"
+}

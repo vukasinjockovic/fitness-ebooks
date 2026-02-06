@@ -1,0 +1,169 @@
+{
+  "id": "6762123",
+  "slug": "gringas",
+  "title": "Gringas",
+  "url": "https://www.mob.co.uk/recipes/gringas",
+  "summary": "Crispy pan-fried flour tortillas filled with melted cheese. This recipe also uses leftover al pastor pork meat from our al pastor pork recipe, but you can skip this if you don't have any or are short on time.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/Gringas-1.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 386,
+    "protein": 25,
+    "fat": 18,
+    "saturated_fat": 9,
+    "carbohydrates": 32,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "10 Flour Tortillas",
+      "quantity": "10",
+      "unit": null,
+      "name": "Flour Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Flour Tortillas",
+      "quantity": "10",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Grated Mozzarella Cheese",
+      "quantity": "350",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Grated Mozzarella Cheese",
+      "quantity": "350",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Al Pastor Pork Meat",
+      "quantity": "500",
+      "unit": null,
+      "name": "Uncooked Al Pastor Pork Meat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Al Pastor Pork Meat",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tomatillo Green Spicy Salsa",
+      "quantity": null,
+      "unit": null,
+      "name": "Salsa Verde",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Tomatillo Green Spicy Salsa",
+      "quantity": null,
+      "unit": null,
+      "name": "Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat a splash of vegetable oil in a large frying pan set over a medium heat. Add the uncooked al pastor pork meat and fry until cooked through and caramelised (about 3 mins each side for thin slices, but don't overcrowd the pan). Remove the meat from the pan, leave it for 5 mins to rest then chop it into small pieces and se aside. If you don't have any al pastor pork meat, skip this step."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the onion and fresh coriander and set aside."
+    },
+    {
+      "heading": null,
+      "description": "To make the gringas, heat a large non-stick frying pan over a medium heat. Add one or two flour tortillas to the dry pan and cook for 30 secs over a medium heat to warm through."
+    },
+    {
+      "heading": null,
+      "description": "Add a handful (about 40g) of grated mozzarella to each tortilla. Once the cheese has melted, add a handful (about 40g) of cooked al pastor pork and a sprinkling of coriander then fold the tortilla over so you have a half moon. Cook for a couple of mins until the tortilla is golden brown on the bottom, then flip the whole thing over and brown the other side. Remove the gringas from the pan and wrap in a tea towel to keep warm or, if possible, serve immediately. Repeat for all the tortillas."
+    },
+    {
+      "heading": null,
+      "description": "Serve the gringas with the chopped onion, more fresh coriander and salsa verde (or another salsa of your choice)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Karla Zazueta",
+      "uri": "chefs/karla-zazueta",
+      "summary": "Karla Zazueta is an incredible Mexican cook, food writer and cookery teacher. She teaches her Mexican traditions, recipes and techniques through cooking classes at her Mexican Food Memories cooking school. She also hosts Mexican supper clubs at her family home. Her recipes have been featured in The Guardian, BBC Food, NatGeo Food Magazine and many more. She's also just released her first cookbook, Norteña, where she shares the story of her family recipes and northern Mexico."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-17T15:25:00+01:00"
+}

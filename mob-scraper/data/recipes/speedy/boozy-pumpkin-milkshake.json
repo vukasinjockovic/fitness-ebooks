@@ -1,0 +1,125 @@
+{
+  "id": "3807287",
+  "slug": "boozy-pumpkin-milkshake",
+  "title": "Spiced Rum Pumpkin Milkshake",
+  "url": "https://www.mob.co.uk/recipes/boozy-pumpkin-milkshake",
+  "summary": "An autumnal cocktail made with vanilla ice cream, pumpkin purée, spiced rum, and cinnamon.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/10/PumpkinMilkshake.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 262,
+    "protein": 4,
+    "fat": 7,
+    "saturated_fat": 4,
+    "carbohydrates": 27,
+    "dietary_fibre": 1,
+    "sugars": 25,
+    "sodium": 67
+  },
+  "ingredients": [
+    {
+      "label": "400g Vanilla Ice Cream",
+      "quantity": "400",
+      "unit": null,
+      "name": "Vanilla Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Vanilla Ice Cream",
+      "quantity": "400",
+      "unit": null,
+      "name": "Ice Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Semi-Skimmed Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Pumpkin Purée",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pumpkin Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cinnamon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Dead Man’s Fingers Spiced Rum",
+      "quantity": "200",
+      "unit": null,
+      "name": "Gold Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Squirty Cream, To serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add all your ingredients to a blender, then whizz to combine."
+    },
+    {
+      "heading": null,
+      "description": "Pour into a glass, then top with squirty cream and a pinch of cinnamon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "American",
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-10-24T08:00:00+01:00"
+}

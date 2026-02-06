@@ -1,0 +1,352 @@
+{
+  "id": "7190016",
+  "slug": "pork-tenderloin-with-spiced-rhubarb-sauce-pickled-rhubarb-herb-salad",
+  "title": "Pork Tenderloin with Spiced Rhubarb Sauce & Pickled Rhubarb Herb Salad",
+  "url": "https://www.mob.co.uk/recipes/pork-tenderloin-with-spiced-rhubarb-sauce-pickled-rhubarb-herb-salad",
+  "summary": "In Partnership with Aldi. #ad\n\nSweet, sharp and herby. This pork tenderloin with spiced rhubarb sauce and zippy herb salad is a proper spring show-off dinner, but still nice and easy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Pork-Tenderloin-with-Spiced-Rhubarb-SaucePickled-RhubarbHerb-Salad.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 470,
+    "protein": 28,
+    "fat": 16,
+    "saturated_fat": 3,
+    "carbohydrates": 54,
+    "dietary_fibre": 3,
+    "sugars": 13,
+    "sodium": 160
+  },
+  "ingredients": [
+    {
+      "label": "300g rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g rice",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g pork tenderloin",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork Tenderloin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g pork tenderloin",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp dried rosemary",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Dried Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 stalks rhubarb",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Rhubarb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1½ tsp English mustard",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "English Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp cider vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 garlic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250 ml water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 stalk rhubarb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rhubarb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp honey",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g fresh mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g fresh parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g fresh coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g rocket",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Spinach",
+      "quantity": "15",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ tsp mustard",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp olive oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Rinse the basmati rice under cold water until it runs clear. Tip into a saucepan with double the amount of water and a pinch of salt. Bring to the boil, then cover with a lid, turn the heat down to low and simmer for 10 mins. Take it off the heat and leave to steam with the lid on for 10 mins, don’t peek! Fluff with a fork before serving."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice your rhubarb for the salad. Juice the lemon and combine with honey and add the sliced rhubarb. Toss and let sit for 10–15 minutes while preparing the pork and sauce. This lightly pickles the rhubarb."
+    },
+    {
+      "heading": null,
+      "description": "Season pork tenderloin with salt, pepper, and rosemary. In a pan, heat oil and sear the tenderloin on all sides until golden brown (2–3 mins per side). Remove and place on a tray to roast for 15–20 min. Let rest 5–10 min before slicing."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the spiced rhubarb sauce. In the same frying pan, cook the garlic and chilli for 1 min. Add the chopped rhubarb, honey, mustard, cider vinegar and water. Bring to the boil, then simmer for 12–15 mins, stirring occasionally, until the rhubarb breaks down into a sauce. Taste and adjust seasoning, add more honey if too tart, or a splash more water if too thick."
+    },
+    {
+      "heading": null,
+      "description": "To make the salad dressing, whisk together the juice of the lemon, honey, mustard and olive oil. Season with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Drain the pickled rhubarb. In a large bowl, toss together the herbs, rocket and spinach with the drained rhubarb. Dress just before serving."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon the basmati rice onto plates. Top with slices of pork and plenty of the warm rhubarb sauce. Serve the herb salad on the side with the lemon wedges."
+    }
+  ],
+  "tips": [
+    "You can swap pork tenderloin for pork chops.",
+    "Adjust honey depending on the tartness of your rhubarb.",
+    "Swap coriander for more parsley if preferred."
+  ],
+  "categories": [
+    "High-Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-06-13T07:00:00+01:00"
+}

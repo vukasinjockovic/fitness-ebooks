@@ -1,0 +1,307 @@
+{
+  "id": "3128",
+  "slug": "ultimate-fry-up",
+  "title": "Ultimate Fry Up by The Fry Up Police",
+  "url": "https://www.mob.co.uk/recipes/ultimate-fry-up",
+  "summary": "The definitive ultimate fry-up, by the legend that is Tom Shiers (of The Fry Up Police). Reckon you can do better?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A1232.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1622,
+    "protein": 66,
+    "fat": 97,
+    "saturated_fat": 34,
+    "carbohydrates": 104,
+    "dietary_fibre": 13,
+    "sugars": 18,
+    "sodium": 2822
+  },
+  "ingredients": [
+    {
+      "label": "8 Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Rashers Smoked Back Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Rashers Smoked Back Bacon",
+      "quantity": "8",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Button Mushrooms",
+      "quantity": "400",
+      "unit": null,
+      "name": "Button Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Button Mushrooms",
+      "quantity": "400",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices of Bread",
+      "quantity": "120",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Eggs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices Black Pudding",
+      "quantity": "460",
+      "unit": null,
+      "name": "Black Pudding",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices White Pudding",
+      "quantity": "460",
+      "unit": null,
+      "name": "White Pudding",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Beans",
+      "quantity": "800",
+      "unit": null,
+      "name": "Baked Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Beans",
+      "quantity": "800",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Vodka",
+      "quantity": "200",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Bloody Mary Mix",
+      "quantity": "250",
+      "unit": null,
+      "name": "Bloody Mary Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Tomato Juice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Celery Sticks",
+      "quantity": "80",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by cooking your sausages in a frying pan. The key is to cook them low and slow to get the maximum flavour out of them. As the sausages begin to brown, add your bacon to the pan and cook in the same way."
+    },
+    {
+      "heading": null,
+      "description": "Take a new pan and add a drizzle of olive oil to the pan. Cut your tomatoes in half and cook them middle side down. Add your mushrooms to the pan along with your butter and allow it to melt in to the veg."
+    },
+    {
+      "heading": null,
+      "description": "Egg Time. Pour a very generous glug of olive oil into a frying pan so it covers the bottom and crack your eggs in. As they begin to cook take a spoon and cover the eggs in the oil. Once cooked set aside and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "To make your potato rösti, grate your potatoes and wrap them up in a tea towel. Take a bowl and squeeze your tea towel to draw all of the moisture out of your grated potatoes."
+    },
+    {
+      "heading": null,
+      "description": "Then, place them into a separate bowl and season with salt and pepper and mix together. Take a handful of the potatoes and squeeze together so you get a rectangular shape and add this to a well oiled frying pan (you can use the same one your eggs were in) and repeat until you have 4 evenly sized rösti’s. Cook until golden brown on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Time for the beans. Whack them into a saucepan and cook until they are nice and hot."
+    },
+    {
+      "heading": null,
+      "description": "As your meat is cooking, add your slices of black and white pudding, make sure that the pan is nice and hot. The important part of here is to make sure that they get nicely charred on either side."
+    },
+    {
+      "heading": null,
+      "description": "Once your meat is cooked, take your bread and cook the slices in the fat from the bacon until they are golden brown each side."
+    },
+    {
+      "heading": null,
+      "description": "Plating up time. Place your eggs on top of your fried bread. Make sure each plate has 2 sausages, 2 rashers of bacon, 2 slices of black and white pudding, 2 eggs, 1 slice of bread, 1 spoonful of beans, 1 spoonful of mushrooms, 1 potato rösti and half a tomato."
+    },
+    {
+      "heading": null,
+      "description": "To make your bloody mary: add 60ml of your bloody mary mix, next 50ml of vodka, a squeeze of lemon, 50ml of tomato juice and top with some ice and a celery stick. Repeat 4 times and tuck into the best fry up of your life."
+    }
+  ],
+  "tips": [
+    "Preparation: Organize ingredients and cookware before starting to ensure a smooth cooking process. Preheat pans and grill for consistent results.",
+    "Timing: Cook items that take longer (sausages, bacon) first, keeping them warm in a low oven while finishing quicker components like eggs.",
+    "Healthier Cooking: Use a non-stick pan and minimal oil, or opt for grilling instead of frying. Drain cooked items on kitchen paper to remove excess grease.",
+    "Presentation: Arrange ingredients neatly on the plate for an appetising display, with contrasting colours and textures."
+  ],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-08-14T00:00:00+01:00"
+}

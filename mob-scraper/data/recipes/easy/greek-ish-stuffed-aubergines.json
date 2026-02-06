@@ -1,0 +1,279 @@
+{
+  "id": "7240212",
+  "slug": "greek-ish-stuffed-aubergines",
+  "title": "Greek-ish Stuffed Aubergines",
+  "url": "https://www.mob.co.uk/recipes/greek-ish-stuffed-aubergines",
+  "summary": "Juicy aubergines packed with herby rice, crispy feta and bursting tomatoes, topped with a swirl of tahini yoghurt. Yes please.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Greek-ish-Stuffed-Aubergines.jpg",
+  "cook_time": 50,
+  "prep_time": 15,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 370,
+    "protein": 13,
+    "fat": 17,
+    "saturated_fat": 6,
+    "carbohydrates": 38,
+    "dietary_fibre": 7,
+    "sugars": 11,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "4 Aubergines",
+      "quantity": "4",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cherry Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Basmati Rice or 2 Microwavable Pouches",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cooked Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Basmati Rice or 2 Microwavable Pouches",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Mint",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Tahini",
+      "quantity": "30",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. \nIf you’re using raw rice instead of cooked or microwaveable pouches, get it on to cook now following pack instructions. Set aside once done."
+    },
+    {
+      "heading": null,
+      "description": "Halve the aubergines lengthways and place cut-side up on a lined baking tray. Drizzle with 1 Tbsp of olive oil and roast for 25 mins until softened but still holding their shape. If using rice pouches, cook them now."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the onion, garlic and peppers. Heat a drizzle of olive oil in a large frying pan over a medium heat. Add the onion and peppers and cook for 10 mins until soft. Stir in the garlic and tomato purée and cook for 2 more mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the cooked rice to the pan along with the dried mint and oregano. Season well with salt and black pepper, then mix thoroughly. Remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Once the aubergines are cool enough to handle, use a spoon to scoop out the flesh, leaving the skins intact. Roughly chop the scooped-out flesh and stir it through the rice mixture. Spoon the rice back into the aubergine skins and crumble over the feta."
+    },
+    {
+      "heading": null,
+      "description": "Return the stuffed aubergines to the oven for 10–15 mins until the feta is golden."
+    },
+    {
+      "heading": null,
+      "description": "While they bake, heat a lug of olive oil in a frying pan over a medium-high heat. Add the cherry tomatoes and cook until they start to blister and char. Gently smoosh them with the back of a spoon until just bursting, then season with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "For the tahini yoghurt, mix the yoghurt, tahini and a good squeeze of lemon juice in a bowl. Add a splash of water to loosen if needed, then season to taste."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spread some tahini yoghurt on each plate. Top with the burst tomatoes and stuffed aubergines. Drizzle with more tahini and scatter over the fresh mint."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-03T17:10:00+01:00"
+}

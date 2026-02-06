@@ -1,0 +1,145 @@
+{
+  "id": "6338754",
+  "slug": "tiramisu-granita",
+  "title": "Tiramisu Granita",
+  "url": "https://www.mob.co.uk/recipes/tiramisu-granita",
+  "summary": "This is the perfect dessert for anyone who hates making dessert. It takes soo little effort and skill to whip it up, but the end product is 10/10, heavenly and refreshing. Keep it in the freezer for a quick cooling treat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/granita.png",
+  "cook_time": 15,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 340,
+    "protein": 3,
+    "fat": 26,
+    "saturated_fat": 16,
+    "carbohydrates": 18,
+    "dietary_fibre": 1,
+    "sugars": 17,
+    "sodium": 51
+  },
+  "ingredients": [
+    {
+      "label": "500ml Strong Coffee",
+      "quantity": "500",
+      "unit": null,
+      "name": "Instant Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Coffee Liqueur",
+      "quantity": "100",
+      "unit": null,
+      "name": "Coffee Liqueur",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Caster Sugar",
+      "quantity": "70",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mascarpone",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Double Cream",
+      "quantity": "200",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Amaretto or Marsala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Amaretto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Icing Sugar, to taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Cocoa Powder",
+      "quantity": "10",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put the coffee, liqueur, sugar and salt into a bowl and whisk together until the sugar melts. Pour into a large baking dish and transfer to the freezer. Freeze for 3 hrs, making sure to scrape the mixture every 30 mins with a fork, breaking up any large clumps that form. The end texture should be flakes of fluffy ice. Once ready, serve immediately or cover with cling film and keep in the freezer until needed (you’ll have to scrape it again before serving)."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, whisk the mascarpone in a bowl until smooth. Add the double cream, amaretto/marsala, and add as much icing sugar as you like. Whisk until soft peaks form."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the granita into cups or bowls, top with the whipped mascarpone cream and dust with cocoa powder."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-01T07:30:00+01:00"
+}

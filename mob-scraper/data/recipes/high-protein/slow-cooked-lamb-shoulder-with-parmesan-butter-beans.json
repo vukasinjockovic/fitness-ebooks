@@ -1,0 +1,307 @@
+{
+  "id": "4139669",
+  "slug": "slow-cooked-lamb-shoulder-with-parmesan-butter-beans",
+  "title": "Slow-Cooked Lamb Shoulder With Parmesan Butter Beans",
+  "url": "https://www.mob.co.uk/recipes/slow-cooked-lamb-shoulder-with-parmesan-butter-beans",
+  "summary": "Master the art of slow-cooking big hunks of meat using this one top tip. It involves a bit of everyday kitchen equipment you’ve all got kicking around.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Slow-cooked-lamb-shoulder-with-cheesy-beans-1.jpg",
+  "cook_time": 270,
+  "prep_time": 45,
+  "total_time": 315,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 900,
+    "protein": 67,
+    "fat": 49,
+    "saturated_fat": 18,
+    "carbohydrates": 38,
+    "dietary_fibre": 10,
+    "sugars": 7,
+    "sodium": 1760
+  },
+  "ingredients": [
+    {
+      "label": "1 Lamb Shoulder (Bone-In, Around 2kg)",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Lamb Shoulder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lamb Shoulder (Bone-In, Around 2kg)",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Chicken Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml White Wine",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Rosemary",
+      "quantity": "15",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Oregano",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Sage",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Jars of Butter Beans (or 3 Tins of Butter Beans)",
+      "quantity": "3",
+      "unit": null,
+      "name": "Butter Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Jars of Butter Beans (or 3 Tins of Butter Beans)",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Crème Frâiche",
+      "quantity": "120",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch of Parsley (12.5g)",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Bunch of Mint (12.5g)",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tin of Anchovies",
+      "quantity": "1",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Capers",
+      "quantity": "90",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dijon Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml White Wine Vinegar",
+      "quantity": "30",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 140°C fan. Put your largest frying pan over a high heat. Rub the lamb in a little oil and place, fat-side down in the pan, cook for 4-5 mins, checking regularly, until it’s browned on the big surface. Transfer to a large deep roasting tin."
+    },
+    {
+      "heading": null,
+      "description": "Peel the onions, then halve them and cut them into wedges. Tip the onions into the large frying pan along with a little more olive oil and a big pinch of salt. Fry for 5 mins, until golden. Tip your onions into the roasting tin with the lamb. Add the fresh oregano, sage and rosemary. Cut the bulb of garlic in half horizontally and add it to the tray. Pour over the chicken stock and the white wine. Cover the tray with foil. This ensures your meat will steam and get extra tender. Cook for 3 ½ hours."
+    },
+    {
+      "heading": null,
+      "description": "To make the salsa, finely chop the herbs and anchovies and add them to a bowl. Finely slice the spring onions and add along with the capers, mustard, olive oil, and white wine vinegar. Into a separate bowl, zest the lemon and set it aside for later, then squeeze the juice of the zested lemon into the salsa. Mix to combine, season well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drain the beans, then add a handful (approx 1/2 a tin or 1/3rd of a jar) into a blender and blitz, or add to a bowl and mash them as much as you can. Mix the blitzed beans with the rest of the drained beans in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Remove the lamb from the oven and remove the foil, the lamb should be melting off the bone. Very gently lift the lamb out and place it onto a baking tray. Turn the oven up to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Drain the onions through a sieve into a large saucepan. Remove the woody stalks from the sieve and discard them. Tip the jammy onions back into the roasting tray along with the bowl of beans."
+    },
+    {
+      "heading": null,
+      "description": "Use a spoon to skim the fat from the surface of the cooking liquid in the large saucepan, you want to remove as much of the clear fat that will be sitting on top of the brown cooking liquid, (add it to a bowl and save it for roasting potatoes) then add 150ml of the cooking liquid to the tray of beans, season well."
+    },
+    {
+      "heading": null,
+      "description": "Slide the lamb and the beans back into the oven and cook for 30 mins, until the lamb is golden and crispy in places."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, put the saucepan with the rest of the cooking liquid over a high heat and bring to the boil, cook until it boils down to the consistency of a loose gravy. Taste and season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the crème frâiche with half of the Parmesan and half of the lemon zest. Season to taste with salt and pepper, and add more lemon zest if needed."
+    },
+    {
+      "heading": null,
+      "description": "Remove the lamb and beans from the oven and set the grill to high. Set the lamb aside to rest. Add the crème frâiche mix into the beans, then grate the rest of the Parmesan over the top. Slide the beans under the grill and grill for 15 mins, until golden and bubbling."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spoon the reduced cooking liquor over the lamb, reserving some to serve. Serve with the cheesy beans and salsa."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Most Cooked",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-10T12:00:00+00:00"
+}

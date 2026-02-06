@@ -1,0 +1,187 @@
+{
+  "id": "4576456",
+  "slug": "warm-caprese-butter-bean-salad",
+  "title": "Warm Caprese Butter Bean Salad",
+  "url": "https://www.mob.co.uk/recipes/warm-caprese-butter-bean-salad",
+  "summary": "Burst cherry tomatoes with loads of garlic and smooshed down till saucy mixed with butter beans and topped with torn mozzarella and fresh basil. This is our kind of salad.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Warm-Caprese-Butter-Bean-Salad.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 390,
+    "protein": 14,
+    "fat": 23,
+    "saturated_fat": 6,
+    "carbohydrates": 28,
+    "dietary_fibre": 8,
+    "sugars": 5,
+    "sodium": 463
+  },
+  "ingredients": [
+    {
+      "label": "600g Cherry Tomatoes",
+      "quantity": "600",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Cherry Tomatoes",
+      "quantity": "600",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins of Butter Beans",
+      "quantity": "3",
+      "unit": null,
+      "name": "Butter Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins of Butter Beans",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Ball of Burrata (150g)",
+      "quantity": "150",
+      "unit": null,
+      "name": "Burrata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "145g Pesto",
+      "quantity": "145",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sherry Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Poke all of the cherry tomatoes with a knife and finely slice the garlic. Heat oil in a large pan over a medium heat."
+    },
+    {
+      "heading": null,
+      "description": "Add garlic to the pan and cook for 2 mins, then add the cherry tomatoes. Simmer for 5 mins, gently squishing them down so they get a bit saucy. Once they’ve simmered, drain and rinse the beans and add them in. Season with salt and pepper then stir through the sherry vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Plate up and top with burrata, torn basil, and pesto."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-26T11:13:00+01:00"
+}

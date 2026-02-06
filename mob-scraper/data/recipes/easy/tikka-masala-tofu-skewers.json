@@ -1,0 +1,182 @@
+{
+  "id": "4167042",
+  "slug": "tikka-masala-tofu-skewers",
+  "title": "Tikka Masala Tofu Skewers",
+  "url": "https://www.mob.co.uk/recipes/tikka-masala-tofu-skewers",
+  "summary": "A delicious veg-focused recipe that brings bold flavours in no time. Marinate the tofu ahead of time for an extra speedy dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Tikka-Masala-Tofu-Skewers.jpg",
+  "cook_time": 30,
+  "prep_time": null,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 677,
+    "protein": 38,
+    "fat": 22,
+    "saturated_fat": 5,
+    "carbohydrates": 77,
+    "dietary_fibre": 6,
+    "sugars": 13,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "400g Plain Vegan Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Tbsp Tikka Masala Curry Paste",
+      "quantity": "2.5",
+      "unit": null,
+      "name": "Tikka Masala Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 280g Extra Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Extra-Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 280g Extra Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toamtoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak the skewers in some water (this will help them not catch on fire). Then, marinate the tofu. Add the yoghurt into a bowl and stir through the curry paste. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Cube the tofu into around 2cm pieces and mix it through the yoghurt, making sure each piece is fully covered. Cover the bowl and pop it in the fridge to marinate for at least 30 mins (up to overnight). Save the extra yoghurt for later."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, pick the coriander leaves, discarding the stems. Place the leaves into a bowl of ice water to keep them crisp (optional). Halve or chop the tomatoes into bite sized chunks. Half the cucumber lengthways and scoop the seeds out, then, thinly slice. Heat the grill to high."
+    },
+    {
+      "heading": null,
+      "description": "Slide the tofu onto the skewers and place onto an oiled baking tray. Slide the tofu under the grill until starting to char, 5-10 mins (keep an eye on them as each grill varies in temperature)."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the rice and share between plates. Add the coriander leaves, tomatoes and cucumber into a bowl. Season with salt and lemon juice and spoon onto the plates. Top with the tofu skewers and finish with a dollop of yoghurt. Serve with any remaining lemon wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-25T00:00:00+01:00"
+}

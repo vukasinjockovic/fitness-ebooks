@@ -1,0 +1,301 @@
+{
+  "id": "3020649",
+  "slug": "the-ultimate-falafel-burger",
+  "title": "The Ultimate Falafel Burger",
+  "url": "https://www.mob.co.uk/recipes/the-ultimate-falafel-burger",
+  "summary": "Crispy, gently spiced falafel patties are the best thing we’ve put in a bun for ages. The tahini mayo is a game changer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_1298-3-2_2022-02-22-111918_ciea.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 180,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 527,
+    "protein": 15,
+    "fat": 25,
+    "saturated_fat": 3,
+    "carbohydrates": 59,
+    "dietary_fibre": 9,
+    "sugars": 11,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "250g Dried Chickpeas",
+      "quantity": "250",
+      "unit": null,
+      "name": "Dried Chickpea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Dried Chickpeas",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Ground Cumin",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Ground Coriander",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Aleppo Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Aleppo Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Gram Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gram Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tahini",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Vegan Mayo",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vegan Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Radishes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Chilli Jam",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chilli Jam",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Burger Buns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Burger Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour your dried chickpeas into a large bowl, then cover them generously with water. Pop them in the fridge and leave them to soak overnight."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice one of your red onions and your radishes."
+    },
+    {
+      "heading": null,
+      "description": "Add your onions and radishes to a bowl along with the juice of 1 of your lemons and a good pinch of salt. Scrunch up with your hands to lightly pickle, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add your tahini to a bowl along with your vegan mayo and the juice of 1 lemon. Pour in 2 tbsp water, then whisk until you have a smooth sauce - it will look lumpy at first, but then get smooth. Add more water if necessary to get a thick, glossy consistency. Season to taste with salt."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your remaining red onion, cloves of garlic, parsley and coriander - stalks and all."
+    },
+    {
+      "heading": null,
+      "description": "Dry your chickpeas with a tea towel, then add them to the barrel of a food processor with your red onion, garlic, parsley, coriander, dried cumin, dried coriander, aleppo chilli, gram flour, baking powder, and a level tsp of salt. Whizz to combine to a smooth paste - the smoother it is, the easier your falafel will be to shape."
+    },
+    {
+      "heading": null,
+      "description": "Take a baseball-sized handful of the mixture, and gently shape it into a patty. Repeat 3 more times."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous glug of vegetable oil in a frying pan. Add your falafel patties, and fry for 4 mins on each side until deeply golden brown and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Halve your burger buns and toast them in a dry frying pan."
+    },
+    {
+      "heading": null,
+      "description": "Slice your cucumber."
+    },
+    {
+      "heading": null,
+      "description": "Spread your tahini mayo on your burger bases, then add a dollop of chilli jam. Add a falafel burger, your sliced cucumber and pickles on top. Add a little more tahini mayo to the top of the bun, then place this on top."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-01-26T17:00:00+00:00"
+}

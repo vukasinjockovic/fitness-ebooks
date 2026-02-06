@@ -1,0 +1,347 @@
+{
+  "id": "6791837",
+  "slug": "thai-soy-braised-pork-belly",
+  "title": "Thai Soy Braised Pork Belly",
+  "url": "https://www.mob.co.uk/recipes/thai-soy-braised-pork-belly",
+  "summary": "This Kai Palo, or Thai pork belly and egg stew, is seriously addictive. Think slow-cooked tender pork belly, aromatic spices, soft-boiled eggs and an umami broth.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Thai-Pork-Belly.jpg",
+  "cook_time": 150,
+  "prep_time": 15,
+  "total_time": 165,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 900,
+    "protein": 43,
+    "fat": 66,
+    "saturated_fat": 24,
+    "carbohydrates": 27,
+    "dietary_fibre": 2,
+    "sugars": 15,
+    "sodium": 1680
+  },
+  "ingredients": [
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Belly",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork Belly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Belly",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Brown Sugar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800ml Hot Water",
+      "quantity": "800",
+      "unit": null,
+      "name": "Hot Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chicken Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chicken Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Golden Mountain Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Golden Mountain Seasoning Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Salt",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Firm Tofu",
+      "quantity": "150",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Firm Tofu",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tofu Puffs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Deep Fried Tofu Puff",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tofu Puffs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Whole Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Whole White Peppercorn",
+      "quantity": "1",
+      "unit": null,
+      "name": "Whole White Peppercorns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Whole Szechuan Peppercorn",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cooked Jasmine Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cooked Jasmine Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Steamed Greens",
+      "quantity": null,
+      "unit": null,
+      "name": "Steamed Greens",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat a small dry pan over a medium heat. Add the spices and toast for about 1 min or until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Smash the garlic cloves and slice the shallots. Cut the pork belly into large 5cm chunks. Separate the coriander leaves from the stems."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of sesame oil in a large wok or wide-rimmed pan over a medium heat. Add the garlic and shallots and cook for 5 mins until lightly golden then remove from the pan and reserve for later."
+    },
+    {
+      "heading": null,
+      "description": "Return the pan, with the aromatic oil, to a medium-high heat. Working in batches to avoid overcrowding the pan, add the pork belly and sear for a minute or so on each side until golden, just like you would pancetta (a lot of pork fat should render out for delicious flavour). Remove to a bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Keep the pan with the pork fat on the hob and reduce the heat to low-medium. Add the sugar, using a spatula to gently stir as it melts. Allow it to darken slightly before carefully adding all the hot water (it will splatter!). The sugar will harden but will naturally melt again as the stock simmers. Gently mix to remove it from the base of the pan then add the chicken powder, soy sauce, golden mountain sauce, dark soy sauce, oyster sauce, fish sauce, salt and all spices."
+    },
+    {
+      "heading": null,
+      "description": "Allow the sugar to fully melt and then return the pork belly, garlic and shallots to the pan, along with the coriander stems. Bring to a very gentle simmer, add a lid and cook on the lowest heat for 2 hours."
+    },
+    {
+      "heading": null,
+      "description": "When the pork has 15 mins left of cooking time, cook the eggs in boiling water for 6 mins. Plunge in cold water then peel (be careful as the yolks will be very soft). Cut the firm tofu into bite-size squares and halve the tofu puffs. Set everything aside into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "When the pork cooking time is up, add the peeled eggs, tofu and tofu puffs. Turn the heat off for at least 30 mins or as long as overnight."
+    },
+    {
+      "heading": null,
+      "description": "Before serving, return the pan to the heat and simmer for 5 mins to gently reheat. Serve with cooked rice and steamed greens, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-10T04:00:00+00:00"
+}

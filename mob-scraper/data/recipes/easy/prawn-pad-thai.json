@@ -1,0 +1,352 @@
+{
+  "id": "5631801",
+  "slug": "prawn-pad-thai",
+  "title": "Prawn Pad Thai",
+  "url": "https://www.mob.co.uk/recipes/prawn-pad-thai",
+  "summary": "An easy prawn pad Thai recipe with an addictive dipping sauce. This is the pad Thai recipe of your dreams.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Prawn-Pad-Thai-Recipe.jpg",
+  "cook_time": 20,
+  "prep_time": 20,
+  "total_time": 40,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1021,
+    "protein": 48,
+    "fat": 54,
+    "saturated_fat": 10,
+    "carbohydrates": 86,
+    "dietary_fibre": 7,
+    "sugars": 27,
+    "sodium": 2462
+  },
+  "ingredients": [
+    {
+      "label": "120g Dry Rice Noodles",
+      "quantity": "120",
+      "unit": null,
+      "name": "Flat Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Dry Rice Noodles",
+      "quantity": "120",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Firm Tofu",
+      "quantity": "80",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Firm Tofu",
+      "quantity": "80",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Beansprouts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Roasted Peanuts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sweet Pickled Radish",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pickled Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shallots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tamarind Puree",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tamarind Puree",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Dark Brown Sugar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Fish Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tbsp Water",
+      "quantity": "8",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chinese Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Wine Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime Wedge",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime Wedge",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly cut the rice noodles with scissors into 15cm-long sticks. Transfer to a large bowl, then cover with boiling water. Leave for just 2-4 mins in hot water. As soon as they begin to bend, strain well and set aside on a plate."
+    },
+    {
+      "heading": null,
+      "description": "Pat the prawns dry with kitchen paper and add to a small bowl with a good pinch of sea salt. Mix well and set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Pat the tofu dry with kitchen paper and cut into small squares. Set aside on a large plate."
+    },
+    {
+      "heading": null,
+      "description": "Mince the garlic and slice the shallots for the sauce. Cut the spring onions into 2 ½ cm chunks, dividing the whites from the greens. Set everything aside on the plate with the tofu. Add the beansprouts to this plate, too."
+    },
+    {
+      "heading": null,
+      "description": "Whisk the eggs in a small bowl with a pinch of salt and set aside. Crush the peanuts and set aside in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "For the dipping sauce, mince the garlic and slice the chilli. Transfer to a small bowl, add the remaining ingredients, stir well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the pad Thai sauce, add a glug of oil to a small pot set over a medium heat. Add the prepared garlic, shallots and spring onion whites, then cook for 2 mins or until aromatic and lightly golden. Now add all the remaining ingredients, mix well and bring to a simmer, then turn the heat off and set aside."
+    },
+    {
+      "heading": null,
+      "description": "The pad Thai will now come together very fast, so make sure all your ingredients are in arm's reach. Set a large pan or wok over a high heat and add a glug of oil. When the pan is hot, sear the prawns for 1½ mins on each side, without touching, so they are lightly golden on both sides. Remove the prawns back to the same bowl (they will be cooked again)."
+    },
+    {
+      "heading": null,
+      "description": "Sear the tofu in the same pan until lightly golden, then add the pickled radish and cook for 1 min. Add all the rice noodles and all the sauce on top and toss everything together until all the noodles are coated."
+    },
+    {
+      "heading": null,
+      "description": "Push everything to the edge of the pan, add a splash of oil to the empty space, swirl it all over the pan and add all the eggs into the space. Allow the eggs to briefly set like an omelette. Then push all the noodles back on top of the eggs and toss everything well."
+    },
+    {
+      "heading": null,
+      "description": "Add all the beansprouts and half the crushed peanuts, then toss well using tongs to loosen the noodles. Cook for 1 min, then throw in the spring onion greens and prawns and toss for 1 min. Turn the heat off and taste to see if the noodles are cooked, as you don’t want them to get mushy. You can always turn the heat back on to cook further, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Serve immediately, garnished with a squeeze of lime, the remaining peanuts, chilli flakes and dipping sauce on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Most Cooked",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-02-10T05:00:00+00:00"
+}

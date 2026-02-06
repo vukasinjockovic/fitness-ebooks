@@ -1,0 +1,180 @@
+{
+  "id": "4491638",
+  "slug": "creamy-bacon-pesto-gnocchi",
+  "title": "Creamy Bacon & Pesto Gnocchi",
+  "url": "https://www.mob.co.uk/recipes/creamy-bacon-pesto-gnocchi",
+  "summary": "This pillowy gnocchi coated in a creamy pesto sauce is the quickest, most indulgent meal. Take it to the next level by topping it with crispy bacon.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Creamy-Bacon-Pesto-Gnocchi.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 671,
+    "protein": 26,
+    "fat": 38,
+    "saturated_fat": 17,
+    "carbohydrates": 54,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 1206
+  },
+  "ingredients": [
+    {
+      "label": "200g Streaky Bacon",
+      "quantity": "200",
+      "unit": null,
+      "name": "Streaky Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Streaky Bacon",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Gnocchi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mascarpone",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Pesto",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop up the bacon into 3cm pieces and mince the garlic. Grate your Parmesan."
+    },
+    {
+      "heading": null,
+      "description": "Add the bacon to a large frying pan set over a medium-high heat. Fry until golden brown and very crispy. Take out ¼ of the crispy bacon and reserve for later."
+    },
+    {
+      "heading": null,
+      "description": "Add the chopped garlic to the bacon pan and cook for 1 min until fragrant. Add in the spinach and cook for a further 2 mins until the spinach has wilted."
+    },
+    {
+      "heading": null,
+      "description": "Pour in 400ml of water and bring it to a simmer. Add your gnocchi and simmer for 5 mins. Add in your mascarpone and pesto. Grate in the parmesan. Give it a good stir so that the mascarpone melts and the sauce is hot. Season with black pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle with the reserved crispy bacon and more Parmesan to serve. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-07T14:48:00+01:00"
+}

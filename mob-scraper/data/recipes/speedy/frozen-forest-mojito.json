@@ -1,0 +1,137 @@
+{
+  "id": "3508526",
+  "slug": "frozen-forest-mojito",
+  "title": "Frozen Forest Mojito",
+  "url": "https://www.mob.co.uk/recipes/frozen-forest-mojito",
+  "summary": "This cooling drink is straight from the forests of flavour. I’ve used all the best berries to create a sweet and refreshing taste you won’t be able to put down.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9760.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 246,
+    "protein": 3,
+    "fat": 1,
+    "saturated_fat": null,
+    "carbohydrates": 38,
+    "dietary_fibre": 8,
+    "sugars": 32,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "120g Strawberries",
+      "quantity": "120",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Blackberries",
+      "quantity": "30",
+      "unit": null,
+      "name": "Blackberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Raspberries",
+      "quantity": "30",
+      "unit": null,
+      "name": "Raspberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml White Rum",
+      "quantity": "50",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Simple Syrup",
+      "quantity": "35",
+      "unit": null,
+      "name": "Simple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut and juice your lime, saving a slice of the lime for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tops off of your strawberries and cut them up into small chunks."
+    },
+    {
+      "heading": null,
+      "description": "Add them to a bowl along with the raspberries and blackberries and put them in the freezer for 3-4 hours."
+    },
+    {
+      "heading": null,
+      "description": "Remove them from the freezer and put your berries in the blender along with the white rum, lime juice, simple syrup and mint."
+    },
+    {
+      "heading": null,
+      "description": "Blend until smooth then pour into a glass."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with the lime slice and a sprig of mint. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-16T14:30:00+01:00"
+}

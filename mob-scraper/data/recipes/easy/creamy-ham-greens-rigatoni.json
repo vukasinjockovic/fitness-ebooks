@@ -1,0 +1,200 @@
+{
+  "id": "7089486",
+  "slug": "creamy-ham-greens-rigatoni",
+  "title": "Creamy Ham & Greens Macaroni",
+  "url": "https://www.mob.co.uk/recipes/creamy-ham-greens-rigatoni",
+  "summary": "A comforting, creamy pasta that comes together in no time at all. Big flavour. Low effort. Perfect for the family.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Creamy-Ham-Greens-Rigatoni.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 27,
+    "fat": 28,
+    "saturated_fat": 15,
+    "carbohydrates": 66,
+    "dietary_fibre": 6,
+    "sugars": 8,
+    "sodium": 797
+  },
+  "ingredients": [
+    {
+      "label": "2 Leeks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Broccoli",
+      "quantity": "300",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Thick-Cut Ham",
+      "quantity": "150",
+      "unit": null,
+      "name": "Thick-Cut Ham",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Macaroni",
+      "quantity": "350",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Macaroni",
+      "quantity": "350",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Double Cream",
+      "quantity": "300",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Peas",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the outer layer of the leeks, then slice in half before cutting into half moons. Pop into a colander and wash thoroughly."
+    },
+    {
+      "heading": null,
+      "description": "Cut the broccoli into small florets and finely chop the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of oil in a pan over a medium heat and add the leeks and broccoli with a big pinch of salt. Sweat them down until softened and then add the garlic, cooking for another 2 mins, until the broccoli is tender and the garlic is fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Get the pasta on to boil in a large pot of salted water. Reserve the pasta water and drain."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the double cream along with the peas and chopped ham, season with salt and lots of black pepper then bring it to a very gentle simmer. Cook for a couple of minutes until the peas are thawed and the cream has thickened. Transfer the pasta to the sauce directly from the water and mix well, adding another slosh of pasta water if you need to."
+    },
+    {
+      "heading": null,
+      "description": "Serve up and grate over the Parmesan and a crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Family-Friendly",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-07T07:30:00+01:00"
+}

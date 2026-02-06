@@ -1,0 +1,263 @@
+{
+  "id": "7043191",
+  "slug": "crispy-curry-tofu-noodles",
+  "title": "Crispy Curry Tofu Noodles",
+  "url": "https://www.mob.co.uk/recipes/crispy-curry-tofu-noodles",
+  "summary": "We’ve served the crispiest tofu with ramen noodles, a curried peanut sauce and a zingy pickled sprout slaw. Feels indulgent but is actually full of the good stuff.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/3/Crispy-Curry-Tofu-Noodles.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 32,
+    "fat": 28,
+    "saturated_fat": 5,
+    "carbohydrates": 85,
+    "dietary_fibre": 7,
+    "sugars": 9,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "40g Cornflour",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Firm Tofu",
+      "quantity": "600",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Firm Tofu",
+      "quantity": "600",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tomato Puree",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Smooth Peanut Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6g Vegetable Stock Powder",
+      "quantity": "6",
+      "unit": null,
+      "name": "Vegetable Stock Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Ramen Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Ramen Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Ramen Noodles",
+      "quantity": "400",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Brussel Sprouts",
+      "quantity": "300",
+      "unit": null,
+      "name": "Brussels Sprout",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70ml White Wine Vinegar",
+      "quantity": "70",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sugar",
+      "quantity": null,
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": true,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": true,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Stir the cornflour and smoked paprika together and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Chop the tofu into 2cm squares then toss them through the cornflour mixture. Transfer to a baking tray lined with baking parchment and drizzle with oil. Bake for 20-30 mins, until golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely grate the ginger and garlic into a saucepan. Add a drizzle of olive oil and set the heat to medium. Once sizzling and fragrant, add the tomato purée and curry powder and cook, stirring, until the tomato purée has darkened. Transfer the mixture to a heatproof bowl then stir through the peanut butter and vegetable stock powder."
+    },
+    {
+      "heading": null,
+      "description": "For the pickled slaw, finely shred the brussels sprouts. Pick the coriander leaves and finely slice the stems. Thinly slice the chilli. Place the sprouts, coriander stems and chilli into a bowl, pour the vinegar over and season the mix with salt, pepper and sugar to taste. Set aside to mingle."
+    },
+    {
+      "heading": null,
+      "description": "Fill the empty saucepan with water and set it over a medium-high heat. Bring to a boil then add the ramen noodles and cook following packet instructions. Before draining, add a ladle of the noodle water (around 200ml, but reserve a little extra if you're increasing the serving or prefer a looser sauce) into the peanut butter mixture and whisk until smooth."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the peanut sauce between bowls. Top with the noodles, crispy tofu and brussels sprout slaw."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "Packed Lunch",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-26T14:54:00+00:00"
+}

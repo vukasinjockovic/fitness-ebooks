@@ -1,0 +1,268 @@
+{
+  "id": "6152829",
+  "slug": "baked-sausage-cassoulet-recipe",
+  "title": "Baked Sausage Cassoulet Recipe",
+  "url": "https://www.mob.co.uk/recipes/baked-sausage-cassoulet-recipe",
+  "summary": "This sausage cassoulet recipe offers a delicious twist on the classic French dish. Traditionally made with salted pork and confit duck legs, our version uses garlicky Toulouse sausages and salty bacon lardons for a rich, savoury flavour. The dish combines white beans with these hearty ingredients, which all bake together in the oven, melding the flavours into a comforting, indulgent meal. To top it off, crispy breadcrumbs are added for a traditional crunch, while melted mozzarella provides an unexpected but delightful twist. This combination not only enhances the texture but also adds a creamy, cheesy layer that pairs perfectly with the deep, robust flavours of the sausage cassoulet. Ideal for a cosy dinner, this baked sausage cassoulet is sure to become a favourite. Serve with a green salad or crusty bread for a complete meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Baked-Sausage-Cassoulet-Recipe.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 65,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 790,
+    "protein": 37,
+    "fat": 36,
+    "saturated_fat": 13,
+    "carbohydrates": 75,
+    "dietary_fibre": 8,
+    "sugars": 11,
+    "sodium": 1530
+  },
+  "ingredients": [
+    {
+      "label": "8 Toulouse or Garlicky Sausages",
+      "quantity": "8",
+      "unit": null,
+      "name": "Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Bacon Lardons",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon Lardons",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Bacon Lardons",
+      "quantity": "200",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Thyme Sprigs",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml White Wine",
+      "quantity": "150",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Haricot Beans",
+      "quantity": "480",
+      "unit": null,
+      "name": "Drained Cooked Haricot Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Cans Haricot Beans",
+      "quantity": "480",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Reserved Haricot Bean Liquid",
+      "quantity": null,
+      "unit": null,
+      "name": "Reserved Haricot Bean Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Grated Mozzarella",
+      "quantity": "75",
+      "unit": null,
+      "name": "Grated Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Grated Mozzarella",
+      "quantity": "75",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Fresh White Breadcrumbs",
+      "quantity": "75",
+      "unit": null,
+      "name": "Fresh Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Baguette",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Fresh Green Salad",
+      "quantity": null,
+      "unit": null,
+      "name": "Green Salad",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C. Put a large, deep roasting tin into the oven to heat for 5 mins. Chuck the sausages and lardons into the tin, pour in 1 tbsp oil and roast for 10 mins, tossing halfway until starting to brown."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat down to 180°C. Peel and finely chop the onion, carrots and celery. Scrape into the roasting tin with the garlic cloves in their skins, three-quarters of the thyme sprigs and the bay leaves. Drizzle with 1 tbsp oil, season with salt and pepper and roast in the oven for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the white wine, both tins of beans and their liquid and the can of chopped tomatoes. Put back into the oven for 20 mins until reduced and thickened slightly. Remove from the oven, squeeze out the flesh from the roasted garlic skins and pop them back in the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine the mozzarella and breadcrumbs in a bowl. Strip the remaining thyme leaves from their stalks and add them to the bowl, too."
+    },
+    {
+      "heading": null,
+      "description": "Scatter the cheesy breadcrumbs over the top of the dish, drizzle with a little oil and bake for a final 15 mins until golden and bubbling."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a baguette for scooping-up and a bright, fresh green salad to compliment."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-08-03T10:09:00+01:00"
+}

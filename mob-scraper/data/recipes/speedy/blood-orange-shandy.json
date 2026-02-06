@@ -1,0 +1,139 @@
+{
+  "id": "4581339",
+  "slug": "blood-orange-shandy",
+  "title": "Blood Orange Shandy",
+  "url": "https://www.mob.co.uk/recipes/blood-orange-shandy",
+  "summary": "This refreshing shandy is zhuzhed up with a twist of blood orange. A great drink for every season.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Blood-Orange-Shandy.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 176,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 21,
+    "dietary_fibre": 0,
+    "sugars": 17,
+    "sodium": 7
+  },
+  "ingredients": [
+    {
+      "label": "25ml Sugar Syrup",
+      "quantity": "25",
+      "unit": null,
+      "name": "Sugar Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Lime Juice",
+      "quantity": "25",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Blood Orange Juice",
+      "quantity": "75",
+      "unit": null,
+      "name": "Blood Orange Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Vodka",
+      "quantity": "25",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprig of Mint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Peroni Nastro Azzurro",
+      "quantity": "200",
+      "unit": null,
+      "name": "Lager",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprig of Mint",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour your ingredients into a cocktail shaker."
+    },
+    {
+      "heading": null,
+      "description": "Pour your lager into a glass."
+    },
+    {
+      "heading": null,
+      "description": "Shake your cocktail shaker vigorously and double-strain it into the glass with your lager."
+    },
+    {
+      "heading": null,
+      "description": "Garnish with a sprig of mint."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-03T09:00:00+00:00"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "3649131",
+  "slug": "mocha-almond-no-churn-ice-cream",
+  "title": "Mocha Almond No Churn Ice Cream",
+  "url": "https://www.mob.co.uk/recipes/mocha-almond-no-churn-ice-cream",
+  "summary": "Decadent and fudgy mocha and almond butter ice cream. It’s a perfect summer treat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/IMG_4842.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 246,
+    "protein": 3,
+    "fat": 17,
+    "saturated_fat": 12,
+    "carbohydrates": 21,
+    "dietary_fibre": 4,
+    "sugars": 14,
+    "sodium": 10
+  },
+  "ingredients": [
+    {
+      "label": "300g Frozen Banana Pieces",
+      "quantity": "300",
+      "unit": null,
+      "name": "Frozen Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Frozen Banana Pieces",
+      "quantity": "300",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Almond Butter",
+      "quantity": "40",
+      "unit": null,
+      "name": "Almond Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Coconut Cream (Full Fat)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Coconut Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Unsweetened Cocoa Powder",
+      "quantity": "15",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Agave",
+      "quantity": "40",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Strong Brewed Coffee/ 1 Espresso Shot",
+      "quantity": "25",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vegan Dark Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vegan Dark Chocolate",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place the tin in the freezer. Chop and freeze the bananas for at least 24hrs."
+    },
+    {
+      "heading": null,
+      "description": "Blend all of the ingredients except the chocolate in a blender until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the chocolate and keep a handful to the side. Pulse the rest into the ice cream mix until combined but still chunky."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mix into the frozen tin and drizzle some extra almond butter and chocolate on top."
+    },
+    {
+      "heading": null,
+      "description": "Cover with silver foil and freeze for at least 3 hours. When ready to serve, allow it to thaw for 10 mins before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-10T09:53:00+01:00"
+}

@@ -1,0 +1,180 @@
+{
+  "id": "1268",
+  "slug": "whole-baked-camembert",
+  "title": "Whole Baked Camembert",
+  "url": "https://www.mob.co.uk/recipes/whole-baked-camembert",
+  "summary": "It's the caramelised balsamic grapes that take this baked camembert to the highest level. Dip in your homemade garlicky soldiers and enjoy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A1916.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 22,
+    "fat": 33,
+    "saturated_fat": 16,
+    "carbohydrates": 70,
+    "dietary_fibre": 3,
+    "sugars": 13,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "500g Red Grapes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Red Grape",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Chilli Flakes",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Camembert (250g) - Make sure to buy it in its wooden box",
+      "quantity": "250",
+      "unit": null,
+      "name": "Camembert",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Camembert (250g) - Make sure to buy it in its wooden box",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Loaf of Ciabatta",
+      "quantity": "400",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Balsamic Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Line a roasting tray with baking paper. Cut the grapes into small bunches. Put the grapes onto the tray and drizzle with olive oil. Season with a pinch of salt and a grind of pepper. Sprinkle 1 tsp of chilli flakes over the grapes and whack the tray in the oven for 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, take the camembert out of the plastic wrapping and its cloth then place it back in the empty box with the lid off. Prick the top of the cheese all over with a sharp knife. Season with a grind of pepper and ½ a tsp of chilli flakes. Once the grapes have cooked for their allotted time, nestle the cheese in the centre of the tray and roast for another 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Ciabatta time. Cut the ciabatta in half lengthways and then in half across the middle. Slice the bread into soldiers around an inch thick and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a saucepan or microwave and add to a bowl. Crush the garlic, add to the butter and stir."
+    },
+    {
+      "heading": null,
+      "description": "Lay your ciabatta soldiers in a single layer on a large baking tray. Pour over the garlicky butter and a pinch of salt and a good grind of pepper. Whack in the oven for 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Take the grapes and camembert out of the oven and drizzle the balsamic vinegar over the grapes. Return the tray to the oven and bake for a final 10 minutes until the cheese is oozy, the grapes are soft and the soldiers are crispy. Serve all together and dig in! Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-12-22T00:00:00+00:00"
+}

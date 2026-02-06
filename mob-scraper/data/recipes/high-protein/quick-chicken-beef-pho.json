@@ -1,0 +1,332 @@
+{
+  "id": "6565869",
+  "slug": "quick-chicken-beef-pho",
+  "title": "Quick Chicken & Beef Pho",
+  "url": "https://www.mob.co.uk/recipes/quick-chicken-beef-pho",
+  "summary": "A quick Vietnamese noodle soup without the need of a bone broth. Make this when you need to satisfy your pho craving, fast.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chicken-and-Beef-Pho.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 60,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 563,
+    "protein": 34,
+    "fat": 6,
+    "saturated_fat": 2,
+    "carbohydrates": 97,
+    "dietary_fibre": 4,
+    "sugars": 18,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "150g Fresh Ginger",
+      "quantity": "150",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Brown Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Skinless Chicken Breast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Skinless Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Skinless Chicken Breast",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Rump Steak",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rump Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Rump Steak",
+      "quantity": "200",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Rock Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Rock Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5L Beef Stock",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Liquid Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Flat Rice Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Flat Rice Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Flat Rice Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Brown Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Brown Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Mint",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Beansprouts",
+      "quantity": null,
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sriracha",
+      "quantity": null,
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hoisin Sauce",
+      "quantity": null,
+      "unit": null,
+      "name": "Hoisin Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the fresh ginger and brown onion in half, leaving the skin on the onion. If using a gas or electric hob, turn the largest hob onto the highest heat and place the ginger and onion pieces directly onto the hob to char – around 1-2 mins per side. (If using an induction hob, get the fresh ginger and onion halves in a dry pan over a high heat and char for a couple of mins on either side.) Remove and place into a large saucepan."
+    },
+    {
+      "heading": null,
+      "description": "Add the whole chicken breasts, whole steak, star anise, cinnamon stick, rock sugar, chicken stock cube and salt to the same saucepan. Fill with the liquid beef stock and cover with a lid. Set the heat to high and bring the mixture to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Once boiling, reduce the heat to low and cook for 30 mins with the lid off. Remove the chicken breast and steak to a plate and set aside to cool. Add the fish sauce to the broth and season with salt to taste (it should be slightly overly salty). Keep simmering on low-medium heat while you prep the rest of the ingredients."
+    },
+    {
+      "heading": null,
+      "description": "For the onion garnish, thinly slice the white onion and spring onion and finely chop the coriander. Add all three to a bowl and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "For the serving ingredients, thinly slice the red chilli and cut the lime into wedges. Place them on a small plate along with the fresh herbs and beansprouts, to accompany the final bowl of pho."
+    },
+    {
+      "heading": null,
+      "description": "Once the meat has cooled, shred the chicken breast with your fingers and use a sharp knife to slice the beef as thin as possible."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles following pack instructions then drain and place into bowls. Top with the shredded and sliced meat and a generous handful of the onion garnish. Ladle the broth into the bowl (leaving behind the charred fresh ginger and onion pieces) until everything is submerged and add a twist of black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add as much lime, chilli, fresh herbs, beansprouts, sriracha and hoisin sauce as you like to your bowl before getting stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "Low Calorie",
+    "Adventurous",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Vietnamese",
+    "Vietnamese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-09T13:08:00+01:00"
+}

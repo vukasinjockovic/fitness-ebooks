@@ -1,0 +1,180 @@
+{
+  "id": "5879869",
+  "slug": "creamy-instant-noodles",
+  "title": "Creamy Instant Noodles",
+  "url": "https://www.mob.co.uk/recipes/creamy-instant-noodles",
+  "summary": "This viral instant noodle recipe is a surefire way to add some excitement to a packet of ramen.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Creamy-Instant-Noodles.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 790,
+    "protein": 18,
+    "fat": 41,
+    "saturated_fat": 10,
+    "carbohydrates": 84,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 1810
+  },
+  "ingredients": [
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mayonnaise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Soup Sachet",
+      "quantity": "1",
+      "unit": null,
+      "name": "Instant Noodle Soup Sachet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pack Instant Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Instant Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pack Instant Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Slice American Cheese",
+      "quantity": "1",
+      "unit": null,
+      "name": "American Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Slice American Cheese",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by mincing the garlic. Transfer to a serving bowl with the chilli flakes."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of oil to a pan and heat on high for 1-2 mins, until the oil is shimmering. Carefully pour the hot oil into the garlic and chilli bowl, then stir to combine. Add the egg yolk, the mayonnaise and the soup sachet that came with the noodles. Stir vigorously until all is combined."
+    },
+    {
+      "heading": null,
+      "description": "Bring a saucepan of water to the boil. Meanwhile, slice the spring onions as finely as possible. Once boiling, cook the noodles following pack instructions (I like to do 1 min less for chewier noodles)."
+    },
+    {
+      "heading": null,
+      "description": "Once cooked, add the noodles straight from the pan, followed by the water. Give it a thorough stir until all the sauce at the bottom is combined. Add the spring onions and slice of cheese (the heat from the noodles will melt it slightly). Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired",
+    "East-Asian Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-27T16:09:00+01:00"
+}

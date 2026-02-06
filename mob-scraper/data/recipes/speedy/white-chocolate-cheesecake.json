@@ -1,0 +1,196 @@
+{
+  "id": "4466217",
+  "slug": "white-chocolate-cheesecake",
+  "title": "White Chocolate Cheesecake Recipe",
+  "url": "https://www.mob.co.uk/recipes/white-chocolate-cheesecake",
+  "summary": "A creamy no-bake cheesecake loaded with white chocolate is the ultimate dessert for any occasion. This white chocolate cheesecake is simple to prepare, yet it delivers a sophisticated flavour and texture that will impress everyone. The smooth, velvety filling combines rich cream cheese and melted white chocolate, creating a luscious, indulgent treat. With a buttery graham cracker or digestive biscuit crust, it provides the perfect contrast of flavours and textures. You don’t need to worry about baking; just chill the cheesecake in the fridge for a few hours or overnight to let it set. Garnish it with white chocolate shavings, fresh berries, or a drizzle of raspberry sauce for a pop of colour and extra flavour. Whether you’re hosting a dinner party or craving something sweet, this no-bake white chocolate cheesecake is the perfect dessert choice for any occasion.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/White-Chocolate-Cheesecake.jpg",
+  "cook_time": 5,
+  "prep_time": 20,
+  "total_time": 25,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 486,
+    "protein": 5,
+    "fat": 36,
+    "saturated_fat": 22,
+    "carbohydrates": 36,
+    "dietary_fibre": 1,
+    "sugars": 25,
+    "sodium": 86
+  },
+  "ingredients": [
+    {
+      "label": "100g White Chocolate Shavings, For Decorating",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g White Chocolate Shavings, For Decorating",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Crème Fraîche",
+      "quantity": "100",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275g Cream Cheese",
+      "quantity": "275",
+      "unit": null,
+      "name": "Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275g Cream Cheese",
+      "quantity": "275",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Double Cream",
+      "quantity": "500",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "260g White Chocolate Buttons",
+      "quantity": "260",
+      "unit": null,
+      "name": "White Chocolate Button",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "260g White Chocolate Buttons",
+      "quantity": "260",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 250g Pack of Digestive Biscuits (Like McVitie's)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Digestive Biscuit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Unsalted Butter",
+      "quantity": "150",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "White Chocolate Shavings",
+      "quantity": null,
+      "unit": null,
+      "name": "White Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "White Chocolate Shavings",
+      "quantity": null,
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the cheesecake base. Crush the biscuits by bashing them in a bag with a rolling pin, being careful to keep the pieces of biscuit reasonable large."
+    },
+    {
+      "heading": null,
+      "description": "Melt the unsalted butter in a pan then stir in the crushed biscuits until coated all over."
+    },
+    {
+      "heading": null,
+      "description": "Add the buttery biscuit to a serving dish, pressing it into an even layer."
+    },
+    {
+      "heading": null,
+      "description": "Now make the cheesecake filling. In a mixing bowl, beat the cream cheese and crème fraîche together until soft"
+    },
+    {
+      "heading": null,
+      "description": "In a second mixing bowl, semi-whip the double cream."
+    },
+    {
+      "heading": null,
+      "description": "Melt the white chocolate buttons over a bain-marie until blood temperature (37°C)."
+    },
+    {
+      "heading": null,
+      "description": "Fold the chocolate into the cream cheese mix, then fold in the semi-whipped cream."
+    },
+    {
+      "heading": null,
+      "description": "Add the cheesecake filling to the biscuit base and top with white chocolate shavings. Then leave to set in the fridge overnight."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Freezer Friendly",
+    "Low Ingredient",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Hannah Miller",
+      "uri": "chefs/hannah-miller",
+      "summary": "Hannah Miller is a multi-talented creator, recipe developer and social media mogul. Hannah played a hand in creating some absolute Mob classics. If you haven't tried it, her French Style Hot Chocolate recipe is a must."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-30T09:00:00+01:00"
+}

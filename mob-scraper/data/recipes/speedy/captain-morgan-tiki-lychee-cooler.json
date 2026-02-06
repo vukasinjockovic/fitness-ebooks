@@ -1,0 +1,130 @@
+{
+  "id": "3517273",
+  "slug": "captain-morgan-tiki-lychee-cooler",
+  "title": "Tiki Lychee Cooler",
+  "url": "https://www.mob.co.uk/recipes/captain-morgan-tiki-lychee-cooler",
+  "summary": "Combining the flavours of fresh lychee with the enjoyable flavour of mint, this cocktail is a brilliant summer cocktail.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/06/849A2425.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 181,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 27,
+    "dietary_fibre": 1,
+    "sugars": 25,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "50ml Captain Morgan Tiki Mango & Pineapple",
+      "quantity": "50",
+      "unit": null,
+      "name": "Gold Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Caster Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Squeeze of Lime",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Mint Leaves",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Lychee Juice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Lychee Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Handful of Crushed Ice",
+      "quantity": "35",
+      "unit": null,
+      "name": "Crushed Ice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprig Of Mint And Fresh Lychee To Garnish",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Combine the sugar, lime and mint in a highball glass and muddle together."
+    },
+    {
+      "heading": null,
+      "description": "Add plenty of crushed ice along with 50ml of Captain Morgan Tiki Mango &amp; Pineapple and your lychee juice."
+    },
+    {
+      "heading": null,
+      "description": "Mix well and garnish with extra mint and fresh lychee."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-28T08:00:00+01:00"
+}

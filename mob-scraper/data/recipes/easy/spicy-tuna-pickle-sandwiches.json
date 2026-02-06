@@ -1,0 +1,169 @@
+{
+  "id": "5864154",
+  "slug": "spicy-tuna-pickle-sandwiches",
+  "title": "Spicy Tuna Pickle Sandwiches",
+  "url": "https://www.mob.co.uk/recipes/spicy-tuna-pickle-sandwiches",
+  "summary": "A simple tuna sandwich jazzed up with pickles, olives, and harissa. It's spicy and briny and delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Spicy-Tuna-Pickle-Sandwiches.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 390,
+    "protein": 18,
+    "fat": 17,
+    "saturated_fat": 4,
+    "carbohydrates": 39,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "2 Medium Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Large Brioche Buns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Butter",
+      "quantity": "10",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh Parsley",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Harissa",
+      "quantity": "2",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 145g Cans Tuna",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20 Green Olives",
+      "quantity": "20",
+      "unit": null,
+      "name": "Pitted Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Pickled Gherkins",
+      "quantity": "8",
+      "unit": null,
+      "name": "Pickled Gherkin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and dice the potatoes into 2cm cubes. Bring a pan of very salty water to the boil, add the eggs and potatoes and cook for 6 mins. Drain and rinse under cold water, then peel and slice the eggs into quarters."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, halve the brioche buns and melt the butter in a frying pan over a medium heat. Toast the brioche in the pan for a couple of minutes each side until golden. Roughly chop the parsley."
+    },
+    {
+      "heading": null,
+      "description": "Spread the buns with harissa, load up with sliced boiled eggs, potatoes, tuna, olives, parsley, and pickles and squeeze over the lemon. Drizzle with olive oil and eat immediately."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-05T05:00:00+01:00"
+}

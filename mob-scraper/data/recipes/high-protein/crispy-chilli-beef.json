@@ -1,0 +1,236 @@
+{
+  "id": "2060528",
+  "slug": "crispy-chilli-beef",
+  "title": "Crispy Chilli Beef",
+  "url": "https://www.mob.co.uk/recipes/crispy-chilli-beef",
+  "summary": "This dish has it all: a tantalizing combination of sticky, crispy, sweet, and spicy goodness that makes it a standout favorite. Our crispy chilli beef recipe is a classic takeaway staple that delivers unbeatable flavor with every bite. The beef is expertly fried to achieve that perfect crispy texture, coated in a rich, glossy sauce that balances sweetness with a kick of spice. Whether you’re enjoying a casual meal at home or hosting a dinner party, this dish pairs wonderfully with your other Chinese favorites. Serve it alongside fragrant jasmine rice, crispy spring rolls, or steamed dumplings for a complete and satisfying feast. With its bold flavors and irresistible crunch, this crispy chilli beef recipe is sure to become a regular on your menu. Dive into this delectable dish and elevate your at-home dining experience to new heights.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/849A3656.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 370,
+    "protein": 28,
+    "fat": 15,
+    "saturated_fat": 3,
+    "carbohydrates": 32,
+    "dietary_fibre": 2,
+    "sugars": 10,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3cm Knob of Ginger",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Rump Steak",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rump Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Rump Steak",
+      "quantity": "500",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Cornflour",
+      "quantity": "75",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Sriracha",
+      "quantity": "40",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Tomato Ketchup",
+      "quantity": "30",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Rice Wine Vinegar",
+      "quantity": "30",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Caster Sugar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Soy Sauce",
+      "quantity": "30",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice your onion and red chillies. Cut your spring onions into 3cm lengths. Grate your ginger and garlic. Set the veg aside until later."
+    },
+    {
+      "heading": null,
+      "description": "Very finely slice your rump steaks, then pop them in a large bowl. Crack in your egg and give it a good mix before adding your cornflour, white pepper and a good pinch of salt. Mix again until the steak is evenly coated."
+    },
+    {
+      "heading": null,
+      "description": "Heat a wok on a high heat with a generous glug of oil. Add your beef in batches and fry for a few mins until crispy. Remove from the pan with a slotted spoon and repeat with your remaining beef."
+    },
+    {
+      "heading": null,
+      "description": "Add your onion to the same pan and stir fry for 3 mins."
+    },
+    {
+      "heading": null,
+      "description": "Tip in your spring onions, red chilli, ginger and garlic and fry for 2 mins more."
+    },
+    {
+      "heading": null,
+      "description": "Add your sriracha, tomato ketchup, rice wine vinegar, caster sugar and soy sauce to the pan. Give it a mix and let it bubble and reduce for a couple of mins."
+    },
+    {
+      "heading": null,
+      "description": "Get your crispy beef back in the pan and cook for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Serve with egg fried rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-05-17T13:19:00+01:00"
+}

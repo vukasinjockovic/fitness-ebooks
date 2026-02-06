@@ -1,0 +1,160 @@
+{
+  "id": "4292911",
+  "slug": "tuscan-tomato-bread-soup",
+  "title": "Tuscan Tomato & Bread Soup",
+  "url": "https://www.mob.co.uk/recipes/tuscan-tomato-bread-soup",
+  "summary": "This is a classic Tuscan dish – it's rich, warming, and unctuous but also super fresh. The perfect way to use up any stale bread you've got hanging around.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Tuscan-Tomato-Bread-Soup.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 323,
+    "protein": 8,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 48,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Vegetable Stock",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Bread",
+      "quantity": "250",
+      "unit": null,
+      "name": "Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Plum Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Plum Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Basil (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a large pan over a medium heat and add 3 tbsp of olive oil. Finely dice the onion and add it to the pan along with the chilli flakes. Cook for about 7 mins until the onions are soft but not browned."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop 3 cloves of garlic and add to the pan, cook for another 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the tinned tomatoes and tear in half the basil. Cook for about 15 mins until the tomatoes have thickened up, then pour in the vegetable stock."
+    },
+    {
+      "heading": null,
+      "description": "Trim the crusts off the bread before tearing into chunks and throwing it in the pan. Cook for another 10 mins until thick and soupy."
+    },
+    {
+      "heading": null,
+      "description": "To make the gremolata, finely dice the remaining garlic clove and mince the remaining half of the basil. Peel 2 large strips of lemon zest and finely chop. Mix that zest with the basil and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Plate up, top your soup with the gremolata and a generous drizzle of olive oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-12T11:08:00+01:00"
+}

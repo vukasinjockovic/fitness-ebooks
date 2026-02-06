@@ -1,0 +1,163 @@
+{
+  "id": "6511599",
+  "slug": "banoffee-pie",
+  "title": "Banoffee Pie",
+  "url": "https://www.mob.co.uk/recipes/banoffee-pie",
+  "summary": "Creamy, caramelly banoffee pudding with a shortcrust pastry base. A classic for a reason.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Banoffee-Pie.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 282,
+    "protein": 5,
+    "fat": 9,
+    "saturated_fat": 4,
+    "carbohydrates": 45,
+    "dietary_fibre": 2,
+    "sugars": 25,
+    "sodium": 74
+  },
+  "ingredients": [
+    {
+      "label": "320g Sweet Shortcrust Pastry",
+      "quantity": "320",
+      "unit": null,
+      "name": "Sweet Shortcrust Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Milk",
+      "quantity": "400",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Espresso Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Espresso Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Vanilla Extract",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Dulce De Leche",
+      "quantity": "400",
+      "unit": null,
+      "name": "Dulce De Leche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Bananas",
+      "quantity": "6",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Pecan Halves",
+      "quantity": null,
+      "unit": null,
+      "name": "Pecan Halves",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground Cinnamon",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg Yolk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Double Cream",
+      "quantity": "25",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C fan. Grease a 23cm round tart tin with butter."
+    },
+    {
+      "heading": null,
+      "description": "Use a rolling pin to roll out the pastry to 5mm thick, then use it to line your prepared tart tin and pop it in the fridge to chill for around 30 mins. Add a layer of baking paper and weigh it down with baking beans. Pop it on a baking tray then slide into the oven to bake for 15–20 mins until starting to turn golden."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tray from the oven and remove the baking beans and paper. Use a fork to prick the base of the pastry then return to the oven to bake for another 10 mins, or until browning and starting to crisp."
+    },
+    {
+      "heading": null,
+      "description": "Make the egg wash by whisking together the yolk and milk in a mug. Remove the pastry from the oven and brush all over with a thin layer of egg wash then return to the oven to bake for another 2 mins. Remove from the oven and place the dish on a wire rack to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel and slice the bananas into 1-2cm coins. In a mixing bowl, use an electric whisk to whip the double cream with the espresso powder and vanilla extract until thick and creamy with stiff peaks forming. You can do this by hand, but it will take longer."
+    },
+    {
+      "heading": null,
+      "description": "Spread the dulce de leche into the cooled tart case, followed by the chopped bananas, the whipped cream and the pecan halves. Sprinkle with the ground cinnamon and serve immediately!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T11:34:00+01:00"
+}

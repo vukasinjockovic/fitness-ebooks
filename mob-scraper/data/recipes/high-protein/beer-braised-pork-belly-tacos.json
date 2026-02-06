@@ -1,0 +1,285 @@
+{
+  "id": "14433",
+  "slug": "beer-braised-pork-belly-tacos",
+  "title": "Beer Braised Pork Belly Tacos",
+  "url": "https://www.mob.co.uk/recipes/beer-braised-pork-belly-tacos",
+  "summary": "The zingy salsa cuts through the rich pork like a dream. You've gotta try this one MOB.",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_0695.jpeg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 250,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 32,
+    "fat": 39,
+    "saturated_fat": 12,
+    "carbohydrates": 56,
+    "dietary_fibre": 9,
+    "sugars": 11,
+    "sodium": 474
+  },
+  "ingredients": [
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Cherry Tomatoes",
+      "quantity": "250",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Belly",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork Belly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Pork Belly",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Beer",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Mini Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Mini Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Mango",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans (1 Tin)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Drained Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Black Beans (1 Tin)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven to 150°C/302°F."
+    },
+    {
+      "heading": null,
+      "description": "Place pork belly slices on a tray. Add 1⁄4 of a red onion and two garlic cloves. Add cumin and smoked paprika. Season with salt and pepper. Pour 400ml of beer over the top and then add enough water to cover the pork."
+    },
+    {
+      "heading": null,
+      "description": "Cover the tray with tin foil and cook for 4 hours."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, make your salsa."
+    },
+    {
+      "heading": null,
+      "description": "Grab a bowl. Add a cubed mango, a large handful of quartered cherry tomatoes, a handful of chopped coriander, chopped spring onions, a chopped red chilli and the juice of a lime. Add a drizzle of olive oil and season with salt. Mix together and chill."
+    },
+    {
+      "heading": null,
+      "description": "After 4 hours, remove the pork from the oven. Remove the tin foil. Break up the pork with a fork. Place it back in the oven at 180°C/356°F for 20 minutes until most of the liquid has evaporated and you have your dark, sticky pork."
+    },
+    {
+      "heading": null,
+      "description": "Black bean time. Splash some olive oil into a pan and fry two chopped garlic cloves. After 20 seconds, add your black beans but keep the water in the tin for later. Coat the beans in the garlic and oil. Mash them up. Add the water from the tin and reduce until you have a black bean mush."
+    },
+    {
+      "heading": null,
+      "description": "Once everything is ready, heat up your mini tortillas, add a dollop of black bean mush, your pork and then the salsa. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2017-11-17T00:00:00+00:00"
+}

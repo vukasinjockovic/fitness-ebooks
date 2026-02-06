@@ -1,0 +1,236 @@
+{
+  "id": "2608953",
+  "slug": "sophies-pasta-with-chickpeas",
+  "title": "Sophie's Pasta with Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/sophies-pasta-with-chickpeas",
+  "summary": "The best meals involve the double carb of Napolina macaroni and chickpeas. A beautiful one-pot dish packed with tonnes of rustic flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/CMS-2209.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 390,
+    "protein": 17,
+    "fat": 15,
+    "saturated_fat": 4,
+    "carbohydrates": 44,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Stick of Celery",
+      "quantity": "40",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Pancetta",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Napolina Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Napolina Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Napolina Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Sprig of Rosemary",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Napolina Macaroni",
+      "quantity": "200",
+      "unit": null,
+      "name": "Macaroni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Napolina Macaroni",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Napolina Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Litre of Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice your onion, carrot and celery."
+    },
+    {
+      "heading": null,
+      "description": "Cut a cross on the skin of your tomatoes, then place in a bowl of boiling water for one minute. Once cool enough to handle, peel back the skins. Cut into quarters."
+    },
+    {
+      "heading": null,
+      "description": "Add your pancetta to a large heavy-bottomed casserole dish and fry until crisp."
+    },
+    {
+      "heading": null,
+      "description": "Tip your onion, carrot and celery. Cook for 15 mins more until your pancetta has rendered its fat and become crispy, and your soffritto is soft."
+    },
+    {
+      "heading": null,
+      "description": "Add your Napolina Tomato Purée and cook out for a minute before adding your quartered tomatoes. Cook for 5 mins until the tomatoes are breaking down and becoming jammy."
+    },
+    {
+      "heading": null,
+      "description": "Pour your chickpeas into the pan and add 1 litre of water. Chuck in your rosemary sprig and parmesan rind, then simmer for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the parmesan rind and rosemary sprig. Pour ⅓ of the liquid into a blender and blitz until smooth. Return the liquid to the pan."
+    },
+    {
+      "heading": null,
+      "description": "Season the liquid to taste with salt and pepper. Add your macaroni and cook for 8 mins more, stirring to stop it from sticking and adding more water where necessary."
+    },
+    {
+      "heading": null,
+      "description": "Portion up into bowls, then sprinkle with a little more parmesan and a drizzle of Napolina Extra Virgin Olive Oil. Serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-10-25T10:00:00+01:00"
+}

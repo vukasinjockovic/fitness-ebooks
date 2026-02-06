@@ -1,0 +1,288 @@
+{
+  "id": "6847009",
+  "slug": "thai-red-chicken-one-pot-rice",
+  "title": "Thai Red Chicken One-Pot Rice",
+  "url": "https://www.mob.co.uk/recipes/thai-red-chicken-one-pot-rice",
+  "summary": "Another one-pot wonder to add to your weekly meal plan. Forget boring plain chicken and rice, this Thai red curry-inspired pot rice is full of flavour and free of fuss.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/1/Thai-Red-Chicken-One-Pot-Rice.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 493,
+    "protein": 30,
+    "fat": 10,
+    "saturated_fat": 4,
+    "carbohydrates": 69,
+    "dietary_fibre": 3,
+    "sugars": 7,
+    "sodium": 858
+  },
+  "ingredients": [
+    {
+      "label": "430g Chicken Breast",
+      "quantity": "430",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "430g Chicken Breast",
+      "quantity": "430",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Ginger",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Long Grain Rice",
+      "quantity": "350",
+      "unit": null,
+      "name": "Long Grain Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Long Grain Rice",
+      "quantity": "350",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Thai Red Curry Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Thai Red Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "520ml Chicken Stock",
+      "quantity": "520",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp fish sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Light Coconut Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Light Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Light Coconut Milk",
+      "quantity": "200",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli-Infused Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Chilli",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Prawn Crackers",
+      "quantity": null,
+      "unit": null,
+      "name": "Prawn Crackers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the chicken into 2-3cm chunks."
+    },
+    {
+      "heading": null,
+      "description": "Heat a splash of chilli-infused olive oil in a large saucepan set over a medium heat. Add the diced chicken and the ground cumin. Stir to coat and cook for around 7 mins or until just cooked through then remove from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the onion and pepper into chunks and mince the garlic and ginger."
+    },
+    {
+      "heading": null,
+      "description": "Heat another glug of chilli-infused olive oil in the pan and add the onion, pepper, garlic and ginger. Cook for about 5 mins until fragrant and slightly softened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, rinse the uncooked rice."
+    },
+    {
+      "heading": null,
+      "description": "Tip the chicken back into the pan then add the Thai red curry paste, soy sauce, chicken stock, fish sauce and sugar. Stir and bring to the boil. Give it a taste and add extra curry paste if needed. then tip in the rice. Reduce the heat to low then stir, cover and simmer for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the coconut milk then cover and simmer for another 10 mins or until the rice is cooked and has absorbed almost all of the liquid.⁣⁣⁣ Add an extra splash of water if necessary."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, thinly slice the red chilli, roughly chop the coriander and cut the lime into wedges for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between bowls and scatter over the chilli and coriander. Serve with prawn crackers."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai",
+    "Thai-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-15T02:30:00+01:00"
+}

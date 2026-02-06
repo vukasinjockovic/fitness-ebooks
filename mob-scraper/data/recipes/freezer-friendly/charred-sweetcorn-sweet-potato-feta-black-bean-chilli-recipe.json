@@ -1,0 +1,321 @@
+{
+  "id": "6766298",
+  "slug": "charred-sweetcorn-sweet-potato-feta-black-bean-chilli-recipe",
+  "title": "Charred Sweetcorn, Sweet Potato & Feta Black Bean Chilli Recipe",
+  "url": "https://www.mob.co.uk/recipes/charred-sweetcorn-sweet-potato-feta-black-bean-chilli-recipe",
+  "summary": "This Charred Sweetcorn, Sweet Potato & Feta Black Bean Chilli recipe is a hearty, plant-based dish that packs a punch of flavour and nutrition. Combining the smoky sweetness of charred sweetcorn and sweet potatoes with the richness of black beans, this recipe is spiced with a blend of chilli powder and red chilli for a warming kick. Perfect for those who love vegetarian chilli, this dish is enhanced with the tangy creaminess of feta, making it a satisfying and wholesome meal. Serve it with a side of cornbread or over a baked potato for a comforting and flavorful dinner that’s ideal for any season. Whether you’re a seasoned home cook or new to plant-based foods, this recipe is easy to prepare and bursting with good food vibes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Charred-Sweetcorn-Sweet-Potato-Feta-Black-Bean-Chilli-Recipe.jpg",
+  "cook_time": 45,
+  "prep_time": 15,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 18,
+    "fat": 17,
+    "saturated_fat": 6,
+    "carbohydrates": 78,
+    "dietary_fibre": 11,
+    "sugars": 13,
+    "sodium": 523
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Vine Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Vine Tomatoes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Cumin Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Chipotle Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tsp Chipotle Paste",
+      "quantity": "3",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Flakes",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tomato Purée",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rapeseed",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Sweet Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g Drained Cooked Black Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "480g Drained Cooked Black Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Jasmine Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Jasmine Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Corn on the Cobs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Corn On The Cob",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Feta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Feta",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the garlic cloves (leave them whole). Pick the tomatoes off their vine, then cut them in half."
+    },
+    {
+      "heading": null,
+      "description": "Get a frying pan over a medium heat. Toast the cumin seeds until smelling amazing, then tip them into a bowl. Put the pan back over a high heat. Add the garlic and tomato halves. Fry for 3-4 mins, turning regularly until both are charring, then tip the tomatoes and garlic into a blender – keep the pan aside to use later."
+    },
+    {
+      "heading": null,
+      "description": "Add three-quarters of the cumin seeds to the blender along with the chipotle paste, chilli flakes, coriander stalks and tomato purée. Blitz until a smooth sauce forms – this is the base of your chilli."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop 1½ of the red onions, then very finely slice the remaining ½ red onion. Scrape the chopped onion into a large deep frying pan or casserole dish over a medium heat. Pour in 1 tbsp oil, add a big pinch of salt and cook, stirring occasionally, for 6-8 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, put the remaining finely sliced onion into the same bowl as the remaining cumin seeds. Squeeze in the juice of 1 lime, add a good pinch of salt, then scrunch with your hands to soften the onion and quick-pickle. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and cut the sweet potato into even small-sized chunks, about 2cm. Stir into the pan with the onions, then pour in your chipotle sauce and black beans along with their liquid. Give everything a good mix, then turn the heat to a simmer and simmer for 20 mins until the sweet potato is tender but still holding its shape and the sauce has reduced."
+    },
+    {
+      "heading": null,
+      "description": "Cook the rice following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "As the chilli cooks, bring another saucepan of boiling salted water to the boil. Once boiling, drop in the sweetcorn and cook for 3 mins, drain and leave to steam dry."
+    },
+    {
+      "heading": null,
+      "description": "Get the frying pan you were using earlier back over a super-high heat. Brush or drizzle the sweetcorn with the remaining 1 tbsp oil and season with salt and pepper. Add the corn to the super-hot pan and fry, turning regularly until evenly charred – this will take around 5 mins. Put the corn onto a chopping board to cool slightly."
+    },
+    {
+      "heading": null,
+      "description": "Once ready to serve, season the chilli to taste, pouring in the lime juice from the pickled onions. Cut the other lime into wedges to serve and pick the coriander leaves. Holding the corn upright, cut downwards with your knife to shave off the charred corn kernels."
+    },
+    {
+      "heading": null,
+      "description": "Serve the chilli in bowls with rice or tortillas, topped with the charred corn, cumin pickled onions, feta, coriander and a few more chilli flakes if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Freezer Friendly",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-10-01T10:49:00+01:00"
+}

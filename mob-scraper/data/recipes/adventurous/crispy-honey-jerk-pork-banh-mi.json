@@ -1,0 +1,367 @@
+{
+  "id": "6280197",
+  "slug": "crispy-honey-jerk-pork-banh-mi",
+  "title": "Crispy Honey Jerk Pork Bánh Mì",
+  "url": "https://www.mob.co.uk/recipes/crispy-honey-jerk-pork-banh-mi",
+  "summary": "Get ready for a fusion feast! This recipe from Lauren Wilmott (@cheflaurenwilz) blends two well-known Jamaican recipes with classic Vietnamese bánh mì. It’s a tasty, textured delight, perfect for summer or for making the most of leftover pork belly.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/08/Crispy-Honey-Jerk-Pork-Banh-Mi.jpg",
+  "cook_time": 50,
+  "prep_time": 20,
+  "total_time": 80,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1047,
+    "protein": 19,
+    "fat": 81,
+    "saturated_fat": 28,
+    "carbohydrates": 54,
+    "dietary_fibre": 2,
+    "sugars": 52,
+    "sodium": 12281
+  },
+  "ingredients": [
+    {
+      "label": "900g Pork Belly",
+      "quantity": "900",
+      "unit": null,
+      "name": "Pork Belly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "900g Pork Belly",
+      "quantity": "900",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Sea Salt",
+      "quantity": "125",
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil, to bind",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Thyme Sprigs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fresh Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Pimento Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pimento Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Scotch Bonnets",
+      "quantity": "2",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Browning",
+      "quantity": "1",
+      "unit": null,
+      "name": "Browning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Nutmeg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Honey",
+      "quantity": "120",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Yellow Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Yellow Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Firm Mango",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mango",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Apple Cider Vinegar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Pimento Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pimento Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Demi Baguettes",
+      "quantity": null,
+      "unit": null,
+      "name": "Demi-Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Coriander",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mayonnaise",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by prepping the pork the night before or at least 3 hrs prior. Begin by puncturing the entire pork skin with a knife, then generously sprinkle sea salt all over the skin. Next, score the flesh side of the pork both vertically and horizontally."
+    },
+    {
+      "heading": null,
+      "description": "Blend all the jerk paste ingredients together. Reserve one-third of the jerk paste and massage the remaining two-thirds into the pork flesh only."
+    },
+    {
+      "heading": null,
+      "description": "Place the prepared pork on a rack-lined tray in the fridge. Leave uncovered overnight to allow the flavours to soak in and the skin to dry."
+    },
+    {
+      "heading": null,
+      "description": "On the day of cooking, heat the oven to 160°C. Remove the pork from the fridge and wipe away any excess salt from the skin, ensuring it's thoroughly dry."
+    },
+    {
+      "heading": null,
+      "description": "Roast the pork in a roasting tin for approximately 40 mins until tender."
+    },
+    {
+      "heading": null,
+      "description": "While the pork is cooking, thinly slice the carrot, shallot, peppers, Scotch bonnet and mango into julienne strips. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Prepare the pickling liquor by combining the apple cider vinegar, sugar, white peppercorns and pimento seeds in a small saucepan. Add water, to taste. Simmer over a low heat for 5 mins until the sugar completely dissolves."
+    },
+    {
+      "heading": null,
+      "description": "Place all the julienned vegetables (except the mango) into a heatproof bowl and pour the pickling liquor over them. Wrap the bowl in cling film to enhance the flavours."
+    },
+    {
+      "heading": null,
+      "description": "Pick the coriander leaves and set them aside in cold water to keep them fresh."
+    },
+    {
+      "heading": null,
+      "description": "After the initial 40 mins of cooking, increase the oven temperature to 220°C and continue to roast the pork for an additional 20-25 mins until the skin starts to blister and turns golden brown. Turn the grill onto low, then transfer the bellies under until the skin goes crispy and crackles, 3-6 mins.Let the pork rest for 15-20 mins before chopping."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine the reserved jerk paste with 2 tbsp water and 2 tbsp honey in a saucepan. Heat over a medium heat until it thickens into a sticky glaze."
+    },
+    {
+      "heading": null,
+      "description": "Slice the pork bellies and brush with the prepared honey jerk glaze."
+    },
+    {
+      "heading": null,
+      "description": "Cut open the baguettes and spread mayonnaise over the bread."
+    },
+    {
+      "heading": null,
+      "description": "Layer slices of the glazed pork onto the bread, then top with the pickled vegetables and fresh coriander."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy your flavourful crispy honey jerk pork bánh mì."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Vietnamese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Black Eats",
+      "uri": "chefs/black-eats",
+      "summary": "The best recipes curated by Black Eats LDN, the UK's largest food and culture platform championing Black-owned businesses."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-25T15:00:00+01:00"
+}

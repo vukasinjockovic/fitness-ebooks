@@ -1,0 +1,258 @@
+{
+  "id": "4151893",
+  "slug": "sesame-miso-chicken-caesar-salad",
+  "title": "Sesame Miso Chicken Caesar Salad",
+  "url": "https://www.mob.co.uk/recipes/sesame-miso-chicken-caesar-salad",
+  "summary": "Caesar dressing from scratch, made even better with miso. Umami-packed salad with homemade croutons, juicy chicken, crisp lettuce and the creamiest dressing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Sesame-Miso-Chicken-Salad.jpg",
+  "cook_time": 25,
+  "prep_time": 20,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 32,
+    "fat": 34,
+    "saturated_fat": 7,
+    "carbohydrates": 32,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 1202
+  },
+  "ingredients": [
+    {
+      "label": "3 Large Romaine Hearts",
+      "quantity": "3",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Parmesan",
+      "quantity": "70",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp White Miso",
+      "quantity": "3",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Egg Yolks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5-7 Oil-Packed Anchovy Fillets",
+      "quantity": "7",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dijon Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Worcestershire Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Stale Crusty Bread",
+      "quantity": "150",
+      "unit": null,
+      "name": "Stale Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sesame Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Granulated Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Granulated Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C. Separate the leaves of the romaine — if you want extra crunchy lettuce, add them into a large bowl of ice water. Right before serving, drain the romaine and let it completely dry."
+    },
+    {
+      "heading": null,
+      "description": "Finely grate the cheese. Place the chicken and 2 tbsp of miso into another bowl, mix together until evenly coated. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Zest half of the lemon and then cut in half. Grate the garlic into a food processor and squeeze in the juice of 1 lemon, set aside. Add the egg yolks, anchovy fillets, dijon mustard, Worcestershire sauce, white wine vinegar and the remaining miso into the garlic, blend until a paste forms. Slowly trickle in 100ml of olive oil whilst blending until the dressing thickens. If it's too thick, add a teaspoon of water at a time, if it’s too thin, add a little more oil."
+    },
+    {
+      "heading": null,
+      "description": "Once the dressing has thickened, taste and season with salt, plenty of fresh cracked pepper and more lemon juice if needed. Fold in the lemon zest and 50g of cheese, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cut or rip the bread into 2cm cubes and place into a bowl. Drizzle over 2 tbsp of olive oil and season with salt and plenty of black pepper. Toss it all together and place on a baking tray. Bake the bread for 15-20 mins, until golden and crunchy."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan over medium heat with 2 tbsp of oil. Once hot, add the chicken in and cook until the chicken starts to brown and char in some spots, 4-5 mins on each side. Pour in the mirin, soy and 40ml water. Stir through the sugar and 1.5 tbsp of toasted sesame seeds, cook, spooning the sauce over the chicken until it thickens and glazes it, 4-6 mins. Rest the chicken, then slice before serving."
+    },
+    {
+      "heading": null,
+      "description": "Toss the salad with the dressing, top with the croutons, sticky sesame miso chicken, the remaining grated cheese and toasted sesame. Finish with some more freshly cracked black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-04T14:32:00+01:00"
+}

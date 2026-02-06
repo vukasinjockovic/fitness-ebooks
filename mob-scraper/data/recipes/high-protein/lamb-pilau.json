@@ -1,0 +1,417 @@
+{
+  "id": "4262710",
+  "slug": "lamb-pilau",
+  "title": "Slow-Cooked Lamb Pilau With Cucumber Raita",
+  "url": "https://www.mob.co.uk/recipes/lamb-pilau",
+  "summary": "Have a little patience and you'll be sorely rewarded with this fall-apart lamb pilau. An ideal recipe for Ramadan or any time of the year.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Slow-Cooked-Lamb-Pilau-With-Cucumber-Raita.jpg",
+  "cook_time": 120,
+  "prep_time": 20,
+  "total_time": 140,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1202,
+    "protein": 49,
+    "fat": 54,
+    "saturated_fat": 18,
+    "carbohydrates": 124,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "3 White Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Knob of Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Ghee",
+      "quantity": "3",
+      "unit": null,
+      "name": "Ghee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Lamb, Bone-In",
+      "quantity": "750",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Basmati Rice",
+      "quantity": "600",
+      "unit": null,
+      "name": "Basmati Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Basmati Rice",
+      "quantity": "600",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lamb/Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lamb/Chicken Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Fresh Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Crushed Green Cardamom Pods",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Clove",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Couple of Mint Leaves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Vegetable Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml White Vinegar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To make the pilau, thinly slice the onions, garlic and ginger and fry off in a large casserole pot in ghee for 10 mins or until the onions are lightly brown."
+    },
+    {
+      "heading": null,
+      "description": "Add the spices and keep cooking for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Use a kitchen towel to remove any excess moisture from the lamb before dicing into 5cm chunks and adding it to the pan. Fry the lamb with the onions until it's nicely browned on all sides."
+    },
+    {
+      "heading": null,
+      "description": "Add 750ml of water and bring it to the boil. Simmer on a low heat for 45-60 mins or pressure cook for 14 mins, until the lamb has cooked through and is falling off the bone."
+    },
+    {
+      "heading": null,
+      "description": "To make the crispy onions, thinly slice the onions using a sharp knife or mandoline. Arrange them in a single layer and sprinkle over cornflour. Heat up vegetable oil to 180°C and fry the onions till golden and crispy all over, this will take roughly 3-5 mins."
+    },
+    {
+      "heading": null,
+      "description": "To make the pickled onions, thinly slice the red onions using a sharp knife or mandoline. Add to a bowl, add vinegar, 20ml boiling water, sugar and salt. Mix until the sugar and salt have dissolved."
+    },
+    {
+      "heading": null,
+      "description": "To make the raita, add the yoghurt to a bowl. Coarsely grate in the cucumber, finely grate in the garlic and finely chop and add the green chilli. Season with salt and finish with finely chopped mint."
+    },
+    {
+      "heading": null,
+      "description": "Once the pilau is cooked, there will be plenty of cooking liquid/stock in the pot, drain it into a measuring jug. As we are cooking 600g of rice, we need roughly 1500ml of stock."
+    },
+    {
+      "heading": null,
+      "description": "Make up the difference with water, adding it back to the lamb and bringing it to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Add the rice to a large bowl and rinse with cold water. Drain the rice and repeat the washing process until the water runs clear. This usually taking 3 rounds of washing."
+    },
+    {
+      "heading": null,
+      "description": "Add the washed rice to the pot with the lamb and the stock. Bring to a boil and cook on high for 12 mins, then cover and reduce heat to the lowest for 10 mins. Take it off the heat but don’t remove the lid for another 10 mins. Remove the lid and fluff the rice with a fork."
+    },
+    {
+      "heading": null,
+      "description": "Serve the steaming pilau with a bowl of the raita and the crispy and pickled onions."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Zainab Pirzada",
+      "uri": "chefs/zainab-pirzada",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-12T14:24:00+01:00"
+}

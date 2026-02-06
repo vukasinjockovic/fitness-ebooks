@@ -1,0 +1,179 @@
+{
+  "id": "4208746",
+  "slug": "egg-cress-sandwich",
+  "title": "Egg & Cress Sandwich",
+  "url": "https://www.mob.co.uk/recipes/egg-cress-sandwich",
+  "summary": "A step up from your meal deal egg and cress, we’ve created this ultimate egg mayo sando with a peppery, garlicky and cheesy watercress pesto!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Ultimate-Egg-Cress-Sandwich.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 789,
+    "protein": 36,
+    "fat": 54,
+    "saturated_fat": 13,
+    "carbohydrates": 44,
+    "dietary_fibre": 6,
+    "sugars": 5,
+    "sodium": 1097
+  },
+  "ingredients": [
+    {
+      "label": "4 British Lion Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Watercress",
+      "quantity": "30",
+      "unit": null,
+      "name": "Watercress",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Garlic Clove",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Lemon",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Bunch of Chives (12.5g)",
+      "quantity": "12.5",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mayo",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dijon Mustard",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices of Brown Bread",
+      "quantity": "60",
+      "unit": null,
+      "name": "Brown Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by boiling the eggs. Bring a pot of water to a boil and gently lower in the eggs. Cook for 8 mins – we are looking for the yolk to be set but still slightly jammy. When they are cooked, drain and cool them under some cold water. When the eggs are cool enough to handle, peel them."
+    },
+    {
+      "heading": null,
+      "description": "Roughly cut the Parmesan into chunks. Get your watercress into a blender with the garlic, lemon zest, and a squeeze of lemon juice. Throw in your Parmesan chunks and 1 tbsp of olive oil. Blend until combined but still a bit chunky. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the chives. Halve one egg lengthways, setting aside one of the halves for assembly. Add the rest of the eggs (that’s three and a half of them) to a bowl and mash them up. Add in the mayo, Dijon, chives and a squeeze of lemon juice and mix well, seasoning with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Spread half of your pesto on one slice of the bread. Top it with the halved egg, cut-side down, then encase the egg with your egg mayo mixture. Add the rest of your pesto again and top it with the other slice of bread before wrapping up and cutting in half."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-01T08:00:00+01:00"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "3891613",
+  "slug": "thick-and-creamy-chilli-hot-chocolate",
+  "title": "Thick and Creamy Chilli Hot Chocolate",
+  "url": "https://www.mob.co.uk/recipes/thick-and-creamy-chilli-hot-chocolate",
+  "summary": "Inspired by the Mexican chocolate caliente, a popular cacao drink made with spices and chilli. Chilli pairs perfectly with chocolate, but is delicious without.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/IMG_8883.jpg",
+  "cook_time": 10,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 426,
+    "protein": 6,
+    "fat": 22,
+    "saturated_fat": 12,
+    "carbohydrates": 51,
+    "dietary_fibre": 6,
+    "sugars": 36,
+    "sodium": 84
+  },
+  "ingredients": [
+    {
+      "label": "500ml Oat Milk (Or Any Other Plant-Based Milk)",
+      "quantity": "500",
+      "unit": null,
+      "name": "Oat Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Good Quality Vegan Chocolate (Or Chocolate Chips)",
+      "quantity": "175",
+      "unit": null,
+      "name": "Vegan Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cinnamon Sticks",
+      "quantity": "5.2",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chilli Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Instant Coffee",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Instant Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground Nutmeg",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Tbsp Brown Sugar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vanilla Bean Pod (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Bean Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cocoa Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coconut Whipped Cream (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Coconut Whipped Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "2 Chillis (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add about half of the milk to a small saucepan and add the chocolate into it. Set on a low heat and stir often to melt the chocolate, making sure it doesn't come to a boil."
+    },
+    {
+      "heading": null,
+      "description": "Once the chocolate has melted, add the rest of the milk, chilli powder, nutmeg, vanilla bean pod (if using), sugar, and coffee. Sift in the cocoa powder through a sieve to prevent clumps. Whisk until combined, keeping on a low simmer."
+    },
+    {
+      "heading": null,
+      "description": "Once all of the ingredients have combined to a smooth mixture, add the cinnamon sticks. If you like lots of heat, you can also add your fresh chilli here to infuse too. Simmer on a low heat, stirring often, for 10 mins to allow the flavours to infuse."
+    },
+    {
+      "heading": null,
+      "description": "When ready, remove the cinnamon and chilli and set aside. Taste and add more sugar if you like, this will depend on the sweetness of your chocolate."
+    },
+    {
+      "heading": null,
+      "description": "To serve, pour into your favourite mug and top with coconut whipped cream and a cinnamon stick and chilli for garnish. Finish with a dusting of grated chocolate or cocoa powder."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-04T13:19:00+00:00"
+}

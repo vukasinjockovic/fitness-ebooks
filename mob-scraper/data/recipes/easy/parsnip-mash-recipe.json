@@ -1,0 +1,112 @@
+{
+  "id": "6055595",
+  "slug": "parsnip-mash-recipe",
+  "title": "Parsnip Mash Recipe",
+  "url": "https://www.mob.co.uk/recipes/parsnip-mash-recipe",
+  "summary": "Bored of spud mash? Parsnips make for a richer, nuttier mash that works well with anything you would usually serve the old faithful with. A delightful and nutritious alternative to traditional mashed potatoes, this parsnip mash offers a subtly sweet and earthy flavour. This parsnip mash recipe showcases the creamy texture and rich taste of parsnips, perfect for elevating any meal. Whether you're preparing a cosy family dinner or planning a festive Christmas dinner, this side dish is sure to impress. The recipe is simple yet versatile, allowing you to add your favourite seasonings or mix in complementary ingredients like garlic, butter, or fresh herbs. With its smooth consistency and delicious flavour, parsnip mash makes an excellent accompaniment to roasted meats, veggie dishes, or as a base for savoury gravies. Ideal for both everyday meals and special occasions, this parsnip mash is a must-try for anyone looking to add a unique and flavourful twist to their side dish repertoire.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Parsnip-Mash-Recipe.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 3,
+    "fat": 15,
+    "saturated_fat": 10,
+    "carbohydrates": 22,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 140
+  },
+  "ingredients": [
+    {
+      "label": "1kg Parsnips",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Parsnip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Double Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Salted Butter",
+      "quantity": "50",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the parsnips and cut into even, chunky pieces. Fill a pan with boiling salted water and carefully add the parsnips. Cook for 15 mins until the parsnips are cooked through but not collapsing."
+    },
+    {
+      "heading": null,
+      "description": "Drain the parsnips using a colander, then tip them back into the pan. Add the cream and butter, then season with salt and plenty of cracked black pepper. Use a potato masher to mash the parsnips to the texture you prefer. You can keep mashing for a smoother finish, or go for a rough crush – up to you."
+    },
+    {
+      "heading": null,
+      "description": "Season with salt and pepper again and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-20T09:30:00+01:00"
+}

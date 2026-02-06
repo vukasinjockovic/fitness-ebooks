@@ -1,0 +1,273 @@
+{
+  "id": "7203440",
+  "slug": "yoghurt-chicken-salad-zaatar-croutons",
+  "title": "Yoghurt & Chicken Salad with Za’atar Croutons",
+  "url": "https://www.mob.co.uk/recipes/yoghurt-chicken-salad-zaatar-croutons",
+  "summary": "Creamy yoghurt tahini, juicy poached chicken leftovers and crunchy za’atar croutons, all tied together with a zingy lemon dressing. A salad that actually feels like lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/6/Yoghurt-Chicken-Salad-with-Za%E2%80%99atar-Croutons.jpg",
+  "cook_time": 7,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 601,
+    "protein": 27,
+    "fat": 32,
+    "saturated_fat": 5,
+    "carbohydrates": 54,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "250g skyr",
+      "quantity": "250",
+      "unit": null,
+      "name": "Skyr Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g skyr",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g tahini",
+      "quantity": "15",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pitta Breads",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pitta Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Olive Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp za'atar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Green Olives",
+      "quantity": "20",
+      "unit": null,
+      "name": "Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 courgette",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 garllic clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Poached Chicken &amp; Ginger Broth."
+    },
+    {
+      "heading": null,
+      "description": "Shred the leftover poached chicken and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Make the Yoghurt Tahini. Grate the garlic. Whisk the skyr, tahini, lemon juice and a pinch of salt in a bowl until smooth, then stir through the garlic. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Tear the pitta into bite-sized chunks. Toss with the olive oil, za’atar and a good pinch of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Place a frying pan over a medium heat and toast the pitta pieces for 5–7 mins, turning often, until golden and crisp. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the courgette. Roughly chop the tomatoes. Tear up the dill and parsley. Pit and roughly chop the olives."
+    },
+    {
+      "heading": null,
+      "description": "Optional \nTo make crispy shallots and garlic (if using), thinly slice both and fry in a good glug of oil over a medium heat until deep golden. Drain on kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Whisk together the olive oil, lemon juice, sumac and a good pinch of salt in a small bowl until emulsified."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the yoghurt tahini onto plates. Top with the shredded chicken, courgette, tomatoes, olives and herbs. Drizzle over the dressing, then scatter with the za’atar croutons and crispy shallots and garlic, if using. Now get stuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-06-19T10:55:00+01:00"
+}

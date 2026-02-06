@@ -1,0 +1,262 @@
+{
+  "id": "5675045",
+  "slug": "prawn-karahi",
+  "title": "Indian Prawn Karahi With Lime Pickle Yoghurt",
+  "url": "https://www.mob.co.uk/recipes/prawn-karahi",
+  "summary": "This Indian dish is named after the pan it's cooked in. The karahi is similar to a wok and is used for high heat, quick cooking. This prawn recipe is healthy and nutritious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Indian-Prawn-Karahi-With-Lime-Pickle-Yoghurt.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 210,
+    "protein": 13,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 17,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "3 mixed peppers",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g fine green beans",
+      "quantity": "250",
+      "unit": null,
+      "name": "Fine Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g fine green beans",
+      "quantity": "250",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 ripe vine tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 ripe vine tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 green chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp ground turmeric",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp ground coriander",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp ground cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 165g packs raw king prawns",
+      "quantity": "330",
+      "unit": null,
+      "name": "Raw King Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 165g packs raw king prawns",
+      "quantity": "330",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp vegetable oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp lime pickle",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime Pickle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g natural yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g natural yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp garam masala",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g large bunch coriander",
+      "quantity": "100",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Remove the tops off the peppers and their seeds. Cut into 4cm pieces. Peel and cut the onion into similar-sized pieces. Trim the ends off the green beans and cut into 4cm pieces. Scrape everything into a bowl. Finely dice the tomatoes and finely slice the green chilli, then set both aside."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the turmeric, coriander and cumin into a shallow bowl, then drain the prawns really well and add to the bowl. Add a pinch of salt, then toss really well."
+    },
+    {
+      "heading": null,
+      "description": "Heat half of the vegetable oil in a large frying pan, karahi or wok set over a high heat. Once hot, carefully add the prawns and stir-fry for 2 mins until turning pink and slightly charred. Scoop out onto a plate. Tip in the chunky chopped vegetables along with the remaining vegetable oil and fry for 5 mins, stirring every now and again until softening and caramelised. Scrape in the tomatoes and sprinkle in half the green chilli along with the water. Turn the heat to medium and cook for 10 mins until the tomatoes have collapsed and the veg is cooked."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the lime pickle and stir it through the yoghurt."
+    },
+    {
+      "heading": null,
+      "description": "Add the prawns back to the pan, spoon in the garam masala, half and squeeze in the lemon and stir through the coriander. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the prawn stir-fry into a serving bowl, spoon over some of the yoghurt and sprinkle over the remaining chilli and a few coriander leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2024-06-07T09:30:00+01:00"
+}

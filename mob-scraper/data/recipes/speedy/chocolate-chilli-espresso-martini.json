@@ -1,0 +1,126 @@
+{
+  "id": "4667920",
+  "slug": "chocolate-chilli-espresso-martini",
+  "title": "Chocolate Chilli Espresso Martini",
+  "url": "https://www.mob.co.uk/recipes/chocolate-chilli-espresso-martini",
+  "summary": "This recipe will wake you up, all right. A chocolate chilli espresso martini that's as hot as it is delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/11/Chocolate-Chilli-Espresso-Martini.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 232,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 27,
+    "dietary_fibre": 1,
+    "sugars": 21,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Kahlúa",
+      "quantity": "35",
+      "unit": null,
+      "name": "Kahlúa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Chocolate Vodka",
+      "quantity": "50",
+      "unit": null,
+      "name": "Chocolate Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35ml Coffee",
+      "quantity": "35",
+      "unit": null,
+      "name": "Coffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cocoa Powder",
+      "quantity": null,
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place your martini glass in the freezer to chill then prepare your coffee and allow it to cool before you start mixing drinks."
+    },
+    {
+      "heading": null,
+      "description": "Prepare your card template by slicing two thin lines out of a piece of card. This will be used later when garnishing."
+    },
+    {
+      "heading": null,
+      "description": "Slice up one of your chillies to your spice preference."
+    },
+    {
+      "heading": null,
+      "description": "Fill your shaker with ice, then go in with the Kahlúa, chocolate vodka, coffee and chilli. Shake vigorously for 15-20 seconds or until a thin frost forms on the outside of the shaker. Double strain into your chilled martini glass."
+    },
+    {
+      "heading": null,
+      "description": "Using your card template dust the top of your drink with cocoa powder, then gently but firmly with one hand on the stem of the glass spin your drink. This should create a swirl pattern on the top."
+    },
+    {
+      "heading": null,
+      "description": "Finish garnishing with a chilli if you like then enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-12-14T08:00:00+00:00"
+}

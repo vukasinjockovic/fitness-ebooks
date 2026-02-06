@@ -1,0 +1,119 @@
+{
+  "id": "3980411",
+  "slug": "rum-hot-toddy",
+  "title": "Spiced Hot Toddy",
+  "url": "https://www.mob.co.uk/recipes/rum-hot-toddy",
+  "summary": "We've made a Hot Toddy using rum instead of whiskey, and it really is delicious. The perfect winter cocktail doesn't ex...",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/Rum-Hot-Toddy.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 222,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 36,
+    "dietary_fibre": 2,
+    "sugars": 34,
+    "sodium": 4
+  },
+  "ingredients": [
+    {
+      "label": "50ml Mount Gay Black Barrel Rum",
+      "quantity": "50",
+      "unit": null,
+      "name": "Gold Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Honey",
+      "quantity": "25",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Star Anise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cinnamon Stick",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon Stick",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Put your kettle on."
+    },
+    {
+      "heading": null,
+      "description": "Slice your lemon in half and save a slice for garnish, then juice it."
+    },
+    {
+      "heading": null,
+      "description": "Get your lemon juice, honey, rum, star anise, cinnamon stick and lemon slice in a glass or mug with a handle."
+    },
+    {
+      "heading": null,
+      "description": "Fill it up with hot water and mix to dissolve all the ingredients."
+    },
+    {
+      "heading": null,
+      "description": "Wait until slightly cooled and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-12-13T16:09:00+00:00"
+}

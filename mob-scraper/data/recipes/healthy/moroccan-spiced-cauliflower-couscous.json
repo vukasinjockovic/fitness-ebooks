@@ -1,0 +1,285 @@
+{
+  "id": "4532857",
+  "slug": "moroccan-spiced-cauliflower-couscous",
+  "title": "Moroccan Spiced Cauliflower & Couscous With Harissa Spiked Yoghurt",
+  "url": "https://www.mob.co.uk/recipes/moroccan-spiced-cauliflower-couscous",
+  "summary": "Couscous is so quick and easy to prepare, and makes the perfect base for this cauliflower and chickpea dish. The harissa yoghurt adds a nice bit of spice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Moroccan-Spiced-Cauliflower-Couscous-With-Harissa-Spiked-Yoghurt.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 474,
+    "protein": 15,
+    "fat": 18,
+    "saturated_fat": 2,
+    "carbohydrates": 62,
+    "dietary_fibre": 10,
+    "sugars": 11,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "1 Tsp Cumin Seeds (Or ¾ Tsp Ground Cumin)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds (Or ¾ Tsp Ground Coriander)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Smoked Paprika",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Mild Chilli Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "⅛ Tsp Ground Ginger",
+      "quantity": "0.125",
+      "unit": null,
+      "name": "Ground Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground Cinnamon",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Pomegranate Molasses",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Pomegranate Molasses",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Cauliflower (About 1kg)",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Couscous",
+      "quantity": "300",
+      "unit": null,
+      "name": "Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Harissa",
+      "quantity": "2",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Herbs (Parsley & Mint)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "400g Tin of Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Toasted Almonds",
+      "quantity": "20",
+      "unit": null,
+      "name": "Toasted Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Tbsp Olive Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Harissa",
+      "quantity": "2",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Vegan Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Vegan Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 190°C."
+    },
+    {
+      "heading": null,
+      "description": "If using whole cumin and coriander seeds, lightly grind them in a pestle and mortar. Add all of the spices plus salt and pepper, pomegranate molasses and the olive oil to a small bowl and mix."
+    },
+    {
+      "heading": null,
+      "description": "Cut the cauliflower in half and then into quarters or thirds (depending on how big it is). Peel the onion and cut into eighths, keeping the stem intact. Place the cauliflower and onion onto a large baking tray and drizzle over the olive oil spice mix."
+    },
+    {
+      "heading": null,
+      "description": "Make sure the cauliflower is well covered, rub the spice mix into the crevices. Bake for 15 mins on the middle shelf, toss and bake for another 15 mins until cooked through and caramelised on the edges."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, prepare the couscous. Measure the couscous and place in a heatproof bowl. Boil the kettle and measure out 480ml boiling water and pour this over the couscous. Add a drizzle of olive oil and half the harissa, if using and stir well. Cover with a lid or plate and set aside"
+    },
+    {
+      "heading": null,
+      "description": "Drain the chickpeas and add these to the couscous along with remainder of your harissa and season with salt and pepper. Stir to combine."
+    },
+    {
+      "heading": null,
+      "description": "To make the harissa yoghurt, add the vegan yoghurt to a small bowl and stir through the harissa."
+    },
+    {
+      "heading": null,
+      "description": "To serve, lay the couscous onto a large platter or bowl, add the cauliflower, harissa yoghurt, toasted almonds, parsley, and a final drizzle of olive oil and some extra pomegranate molasses if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-05T10:17:00+01:00"
+}

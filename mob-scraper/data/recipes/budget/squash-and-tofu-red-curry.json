@@ -1,0 +1,294 @@
+{
+  "id": "2250266",
+  "slug": "squash-and-tofu-red-curry",
+  "title": "Squash and Tofu Red Curry",
+  "url": "https://www.mob.co.uk/recipes/squash-and-tofu-red-curry",
+  "summary": "Our vegan version of a Thai takeaway classic. Flavoured with punchy dried chillies and lemongrass, and served up with sticky Tilda Fragrant Jasmine Rice.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9999-9.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 18,
+    "fat": 27,
+    "saturated_fat": 18,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 9,
+    "sodium": 246
+  },
+  "ingredients": [
+    {
+      "label": "10 Dried Chillies",
+      "quantity": "10",
+      "unit": null,
+      "name": "Dried Long Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sticks of Lemongrass",
+      "quantity": "40",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Galangal Paste (or Ginger)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Galangal",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves of Garlic",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Firm Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Firm Tofu",
+      "quantity": "400",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Cornflour",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Coriander",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800ml Coconut Milk",
+      "quantity": "800",
+      "unit": null,
+      "name": "Coconut Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Light Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Tilda Fragrant Jasmine Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Tilda Fragrant Jasmine Rice",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Deseed your red chillies. Then pop them into a heatproof jug. Add 200ml boiling water and leave to soak for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel and roughly chop your shallots, lemongrass and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Add your red chillies with the water to a mini food processor along with the rest of your chopped ingredients and galangal. Add a little oil if needed to blend it into a paste."
+    },
+    {
+      "heading": null,
+      "description": "Peel your squash, then cut it into large chunks. Chop up your red pepper into 3cm chunks. Cut your tofu into large squares."
+    },
+    {
+      "heading": null,
+      "description": "Add your cornflour, ½ tsp coriander and a good pinch of salt to a bowl. Add your tofu and toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a medium-high heat. Add a glug of olive oil, then add your tofu to the pan. Fry for a couple of minutes on each side until crisp and golden. Drain on a plate lined with kitchen towel."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large pan over a medium heat. Add in a big glug of oil and tip in your curry paste and ground coriander and cook for 5 mins until darkened in colour slightly and fragrant. Pour in your coconut milk and 300ml water along with your sugar, soy sauce and a big pinch of salt. Bring up to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "Cook your Tilda Fragrant Jasmine Rice according to packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Add your butternut squash, tofu cubes and red pepper to the curry sauce, then simmer for 15 mins. Your butternut squash should be tender by this time, but leave it to simmer 5 mins more if it’s not."
+    },
+    {
+      "heading": null,
+      "description": "Spoon your rice into bowls and top with your curry. Garnish with chopped coriander and a wedge of lime, then serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Freezer Friendly",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-07-07T15:59:00+01:00"
+}

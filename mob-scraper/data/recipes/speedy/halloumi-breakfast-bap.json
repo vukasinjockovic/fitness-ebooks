@@ -1,0 +1,160 @@
+{
+  "id": "896942",
+  "slug": "halloumi-breakfast-bap",
+  "title": "Halloumi Breakfast Sandwich",
+  "url": "https://www.mob.co.uk/recipes/halloumi-breakfast-bap",
+  "summary": "The silkiest eggs with chopped chives, golden halloumi & a smokey chipotle and sweet chilli mayo. All in a toasted brioche. An incredible mouthful.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/Halloumi-Breakfast-Bap.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 782,
+    "protein": 36,
+    "fat": 48,
+    "saturated_fat": 21,
+    "carbohydrates": 48,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 1582
+  },
+  "ingredients": [
+    {
+      "label": "Bunch of Chives",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp Mayo",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tsp Chilli Jam",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Jam",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Heaped Tsp Chipotle Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Blocks of Halloumi",
+      "quantity": "2",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Eggs",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Brioche Buns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Knob of Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the chives and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Prepare the burger sauce. Add the mayo, chilli jam and chipotle paste into a bowl and stir together."
+    },
+    {
+      "heading": null,
+      "description": "Slice the halloumi into even chunks and add into a bowl along with a drizzle of olive oil. Season with salt and pepper and toss together."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of oil in a pan and fry the halloumi until golden brown. This will take a few minutes each side."
+    },
+    {
+      "heading": null,
+      "description": "Get a bowl and crack in your eggs. Add in a generous pinch of pepper and whisk it up."
+    },
+    {
+      "heading": null,
+      "description": "Melt a big knob of butter in a pan. Once melted, add in your eggy mixture. Keep stirring as it begins to scramble. You want to make sure the eggs stay nice and liquidy. Whack in the chives (saving some for garnish) and a pinch of salt, then mix together and remove from the heat."
+    },
+    {
+      "heading": null,
+      "description": "Slice your buns in half and lightly toast"
+    },
+    {
+      "heading": null,
+      "description": "Time to load up. Start with a big dollop of your chilli mayo sauce, followed by 3 slices of your halloumi and finally a spoonful of your scrambled egg. Scatter over your leftover chives, season well and tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2020-10-21T12:10:00+01:00"
+}

@@ -1,0 +1,326 @@
+{
+  "id": "6461123",
+  "slug": "pad-see-ew-chicken-noodles",
+  "title": "Pad See Ew Chicken Noodles",
+  "url": "https://www.mob.co.uk/recipes/pad-see-ew-chicken-noodles",
+  "summary": "A classic recipe for stir-fried Thai chicken noodles. Full of flavour and quick and easy to make for dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Pad-See-Ew-Chicken-Noodles.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 44,
+    "fat": 36,
+    "saturated_fat": 7,
+    "carbohydrates": 104,
+    "dietary_fibre": 7,
+    "sugars": 17,
+    "sodium": 2770
+  },
+  "ingredients": [
+    {
+      "label": "250g Boneless Skinless Chicken Thighs",
+      "quantity": "250",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Boneless Skinless Chicken Thighs",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tenderstem Broccoli",
+      "quantity": "200",
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Fresh Wide Rice Noodles",
+      "quantity": "450",
+      "unit": null,
+      "name": "Fresh Wide Rice Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Beansprouts",
+      "quantity": "150",
+      "unit": null,
+      "name": "Beansprouts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Oyster Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 1/2 Tsp Golden Mountain Soy Sauce",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Golden Mountain Seasoning Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dark Soy",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 Tsp Fish Sauce",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Cucumber",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Roasted Peanuts",
+      "quantity": "40",
+      "unit": null,
+      "name": "Roasted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Crispy Shallots",
+      "quantity": "30",
+      "unit": null,
+      "name": "Crispy Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the chicken thigh into strips then add to a small bowl with fish sauce and pinch of salt, and set aside in the fridge. Mince the garlic and cut the broccoli into 3cm chunks. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "If your fresh rice noodles are stiff, add them to a microwave safe bowl and microwave in 1 min bursts until the noodles are soft and pliable enough to roll out into long strands. Add the dark soy sauce, toss well and set aside at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "For the dipping sauce, mince the garlic and finely slice the chilli. Combine both with the rice vinegar in a small bowl."
+    },
+    {
+      "heading": null,
+      "description": "Combine all the noodle sauce ingredients in a small bowl and mix well."
+    },
+    {
+      "heading": null,
+      "description": "The remaining steps will happen very quickly so ensure all your ingredients are at arm’s length: Heat a generous glug of sesame oil in a large pan set over a high heat. When the pan is hot, add the chicken and leave to cook, without moving it, for 2 mins on each side until golden. Turn the heat down to medium and remove the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Add another glug of sesame oil then cook the garlic for 30 seconds or until lightly golden. Crack the eggs into the garlicky oil, and scramble into large chunks. Add the greens, noodles and ½ of the noodle sauce. Toss everything well and cook for 1 min."
+    },
+    {
+      "heading": null,
+      "description": "Return the chicken to the pan along with the bean sprouts then toss well. Leave the noodles to caramelise without interference for 30 seconds, then toss and repeat until the noodles are slightly charred. Add some of the remaining noodle sauce, if needed for flavour and moisture."
+    },
+    {
+      "heading": null,
+      "description": "Divide the noodles between bowls and top with sliced cucumbers, dipping sauce, roasted peanuts and crispy shallots."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-17T00:00:00+01:00"
+}

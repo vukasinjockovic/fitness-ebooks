@@ -1,0 +1,259 @@
+{
+  "id": "5519069",
+  "slug": "pea-pesto-lasagne",
+  "title": "Pea & Pesto Lasagne",
+  "url": "https://www.mob.co.uk/recipes/pea-pesto-lasagne",
+  "summary": "There is a traditional pesto lasagne from the Liguria region known as ‘Lasagne alla Portofino’. This is a slight twist on that because we’ve included peas — both within the layers and in the pesto itself. The peas ensure it’s extra green and saucy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Pea-Pesto-Lasagne.jpg",
+  "cook_time": 70,
+  "prep_time": 5,
+  "total_time": 75,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 900,
+    "protein": 29,
+    "fat": 60,
+    "saturated_fat": 20,
+    "carbohydrates": 56,
+    "dietary_fibre": 6,
+    "sugars": 9,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "100g frozen petit pois",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g frozen petit pois",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g basil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g basil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g pine nuts",
+      "quantity": "70",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 garlic cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 garlic cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml olive oil",
+      "quantity": "150",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.2 Litres of Milk",
+      "quantity": "1200",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground nutmeg",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground White Pepper",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Dried Lasagne Sheets",
+      "quantity": "375",
+      "unit": null,
+      "name": "Dried Lasagne Sheet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "375g Dried Lasagne Sheets",
+      "quantity": "375",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Frozen Petis Pois",
+      "quantity": "400",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Frozen Petis Pois",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, make the pesto. Separate the basil leaves from the stalk (discard the stalks), roughly chop the garlic and dice the Parmesan. Defrost your peas in the microwave. Put all the pesto ingredients in a blender or food processor and blitz until smooth. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Next, make the white sauce. Melt the butter in a medium-sized saucepan set over a medium heat. Add the flour and stir for 30-60 seconds with a spatula until the combination (a ‘roux’) is slack, light golden in colour and smells only slightly nutty. Add a splash of milk and stir with a spatula until the liquid is completely incorporated. Repeat three or four times, then begin to increase the amount of milk you’re adding and use a whisk instead of a spatula, each time ensuring there are no lumps before adding more milk. Once all the milk is in, add the nutmeg and white pepper, then gently cook over a low heat for 10 mins, stirring frequently, until the sauce thickens and generously coats the back of a spoon. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Bring a large pot of salted water to the boil and spread two or three tea towels over your work surface. Cook one-third of the pasta sheets for 3-4 mins until they’re floppy. Pick them out with tongs or a slotted spoon and lay over the tea towels. Repeat when needed, as you assemble the lasagne."
+    },
+    {
+      "heading": null,
+      "description": "The exact number of layers your lasagne will have depends on the dimensions of your dish, but assume it’ll be six or seven layers of pasta. Defrost your peas at this stage as well. To assemble, first spread a ladleful of white sauce over the base of a 2.5L ovenproof dish. Lay 3-4 sheets of par-boiled pasta on top, to fit the dish. It’s good if they’re slightly ruffled (so not totally flat), as that will create texture. Cover with another ladle of sauce and two large spoons of pesto, using the back of a spoon to mix and spread the sauces over the pasta. Add around one-sixth of the cheese and one-sixth of the peas (you don’t need to be too precise). Repeat until the pasta sheets and sauces are used up, saving a ladleful of white sauce for the top. If there’s any pesto or mozzarella left, add that on top too."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Cover the lasagne with Parmesan and bake for 35-40 minutes, until fully bronzed and bubbling. Leave to rest for 15 mins, then serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Batch",
+    "Freezer Friendly",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ed Smith",
+      "uri": "chefs/ed-smith",
+      "summary": "Ed Smith is an award-winning food and recipe writer. After leaving a career as a lawyer for a life in food, he trained as a chef, worked briefly in restaurants and pop-ups, and now cooks, consults and writes. He’s the author of 4 cookbooks (Good Eggs; Crave; On the Side; and The Borough Market Cookbook), and the co-author of 1 book about food for kids (Welcome to Our Table). Ed regularly contributes recipes to all the major UK food magazines, websites and broadsheet supplements, and is the curator of the Rocket & Squash newsletter and social accounts (@rocketandsquash).\n\nPhotographer: Sam A Harris."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-10T02:30:00+01:00"
+}

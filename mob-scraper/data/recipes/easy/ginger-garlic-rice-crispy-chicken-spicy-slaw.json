@@ -1,0 +1,319 @@
+{
+  "id": "7069892",
+  "slug": "ginger-garlic-rice-crispy-chicken-spicy-slaw",
+  "title": "Ginger Garlic Rice, Crispy Chicken & Spicy Slaw",
+  "url": "https://www.mob.co.uk/recipes/ginger-garlic-rice-crispy-chicken-spicy-slaw",
+  "summary": "Crispy-skinned chicken, aromatic ginger-garlic rice, and a zingy, crunchy slaw. This bold, spicy, umami-packed bowl hits all the right notes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Ginger-Garlic-Rice-Crispy-Chicken-Spicy-Slaw.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 41,
+    "fat": 41,
+    "saturated_fat": 9,
+    "carbohydrates": 92,
+    "dietary_fibre": 5,
+    "sugars": 18,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "4 chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 chicken thighs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sea salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g jasmine rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g jasmine rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "270ml chicken stock",
+      "quantity": "270",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 garlic cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 garlic cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g fresh ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp sesame oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp vegetable oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "⅛ red cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "⅛ white cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "⅛ white cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ carrot",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Thai bird’s eye chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Bird's Eye Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small bunch of coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tsp white sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 tbsp rice vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp fish sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp kecap manis",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kecap Manis",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp chilli oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra kecap manis",
+      "quantity": null,
+      "unit": null,
+      "name": "Kecap Manis",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Debone the chicken but leave the skin on. Mince the garlic and ginger and thinly slice the shallot."
+    },
+    {
+      "heading": null,
+      "description": "Make the rice. Heat the sesame oil and vegetable oil in a saucepan over medium-high heat. Add the shallots and fry for 3–5 mins until golden at the edges. Stir in the garlic, ginger and rice, and toast gently for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the chicken stock, add a pinch of salt, and bring to a boil. Cover with a lid, reduce to the lowest heat, and simmer for 18 mins. Once cooked, remove from the heat and let it steam with the lid on until ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "Pat the chicken thighs dry with kitchen paper, then season both sides with salt. Lay them skin-side down in a cold non-stick frying pan. Place over medium heat and cook for 7–9 mins until the skin is golden and crisp. Flip and cook for another 3 mins. Set aside to rest."
+    },
+    {
+      "heading": null,
+      "description": "Make the slaw. Thinly slice the red cabbage, white cabbage, and bird’s eye chilli. Finely julienne the carrot and finely chop the coriander. In a bowl, combine all the slaw ingredients. Mix well until the sugar dissolves and the cabbage starts to soften."
+    },
+    {
+      "heading": null,
+      "description": "Assemble. Slice the chicken into 1–2cm strips. Spoon the rice into bowls, top with the crispy chicken, and serve with a generous side of slaw. Drizzle over extra kecap manis and chilli oil to finish."
+    }
+  ],
+  "tips": [
+    "Rice and chicken can be cooked in advance and stored in the fridge for up to 3 days. Reheat chicken in a hot pan or oven to re-crisp the skin.",
+    "Slaw is best fresh, but dressing can be made ahead and veg prepped separately.",
+    "Great for lunchboxes – pack with rice and chicken on one side, slaw on the other, and drizzle before serving.",
+    "Freeze the rice and chicken (sliced) for up to 2 months. Defrost overnight and reheat thoroughly before serving.",
+    "Slaw does not freeze well – make fresh."
+  ],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-04-02T11:01:00+01:00"
+}

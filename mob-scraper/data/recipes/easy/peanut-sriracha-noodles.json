@@ -1,0 +1,149 @@
+{
+  "id": "5646794",
+  "slug": "peanut-sriracha-noodles",
+  "title": "Peanut Sriracha Noodles",
+  "url": "https://www.mob.co.uk/recipes/peanut-sriracha-noodles",
+  "summary": "A spicy, creamy noodle dish that takes just 10 minutes to cook. Don't know what to have for dinner tonight? Have this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Peanut-Sriracha-Noodles.jpg",
+  "cook_time": 7,
+  "prep_time": 3,
+  "total_time": 10,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 601,
+    "protein": 19,
+    "fat": 22,
+    "saturated_fat": 4,
+    "carbohydrates": 81,
+    "dietary_fibre": 6,
+    "sugars": 12,
+    "sodium": 1092
+  },
+  "ingredients": [
+    {
+      "label": "100g sugar snap peas",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sugar Snap Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "handful of salted peanuts",
+      "quantity": "10",
+      "unit": null,
+      "name": "Salted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 tbsp smooth peanut butter",
+      "quantity": "3",
+      "unit": null,
+      "name": "Smooth Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tbsp Sriracha",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp soy sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g straight to wok udon",
+      "quantity": "300",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g straight to wok udon",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get a pan of salted water to the boil. Meanwhile, very finely slice the sugar snaps into long pieces. Toss in a bowl with half the lime juice. Roughly chop the peanuts, if using."
+    },
+    {
+      "heading": null,
+      "description": "In a separate large bowl stir together the peanut butter, Sriracha, soy and remaining lime juice or rice wine vinegar to make your sauce."
+    },
+    {
+      "heading": null,
+      "description": "Unravel the noodles with your fingers into the pan of salted boiling water and cook for 1 min then, using tongs, transfer the noodles straight into the sauce. Toss together, adding a splash of the cooking water to create a silky, luscious sauce."
+    },
+    {
+      "heading": null,
+      "description": "Divide between bowls and top with the shredded sugar snaps, salted peanuts (if using) and more sriracha and soy, if you like. Boom."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-06-07T09:30:00+01:00"
+}

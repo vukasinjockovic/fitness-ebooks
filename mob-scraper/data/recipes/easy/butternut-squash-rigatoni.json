@@ -1,0 +1,185 @@
+{
+  "id": "1080",
+  "slug": "butternut-squash-rigatoni",
+  "title": "Butternut Squash Rigatoni",
+  "url": "https://www.mob.co.uk/recipes/butternut-squash-rigatoni",
+  "summary": "The creamiest pasta of your dreams using the mighty butternut squash two ways. Blended into a thick sauce and roasted for a crispy finish. Scrummy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A0963.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 470,
+    "protein": 17,
+    "fat": 15,
+    "saturated_fat": 5,
+    "carbohydrates": 66,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 355
+  },
+  "ingredients": [
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rigatoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Butternut Squash",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shallots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90ml Milk",
+      "quantity": "90",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven 210°C/410°F."
+    },
+    {
+      "heading": null,
+      "description": "Peel and dice your butternut. Take one half and place on a baking tray with a drizzle of olive oil, a pinch of salt and a grinding of pepper. Mix everything together and place into the oven for 40 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Boil some water in a saucepan and place a colander inside the saucepan and add your remaining squash to the colander. Cover and steam for 10 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Get your pasta cooking."
+    },
+    {
+      "heading": null,
+      "description": "Dice your shallots and garlic and add to an oiled frying pan. Stir until the shallots begin to go translucent."
+    },
+    {
+      "heading": null,
+      "description": "Blending time. Add your steamed squash to a blender, followed by your shallot mix, milk, salt and pepper. Blend until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Add the blended squash to a frying pan followed by your parmesan (save a handful for garnish at the end). Mix together. Stir in your cooked pasta, making sure the blended butternut coats the rigatoni."
+    },
+    {
+      "heading": null,
+      "description": "Serve with your roasted butternut squash and remaining parmesan. Chop up your parsley and sprinkle over the top along with a drizzle of olive oil. Tuck into this delicious dish. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Family-Friendly",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-01-10T00:00:00+00:00"
+}

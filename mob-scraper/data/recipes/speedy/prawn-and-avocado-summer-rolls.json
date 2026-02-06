@@ -1,0 +1,261 @@
+{
+  "id": "3544831",
+  "slug": "prawn-and-avocado-summer-rolls",
+  "title": "Prawn and Avocado Summer Rolls",
+  "url": "https://www.mob.co.uk/recipes/prawn-and-avocado-summer-rolls",
+  "summary": "Samah Lakha (@londonbruncher) came into the studio and made some fresh summer rolls, perfect for a quick snack.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/07/849A4608.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 246,
+    "protein": 8,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 36,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 308
+  },
+  "ingredients": [
+    {
+      "label": "150g Prawns",
+      "quantity": "150",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Sheets of Rice Paper",
+      "quantity": "8",
+      "unit": null,
+      "name": "Rice Paper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vermicilli Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Vermicelli Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Vermicilli Noodles",
+      "quantity": "100",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Crunchy Peanut Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Crunchy Peanut Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Squeeze of Lime Juice",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2cm Knob of Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Splash of Water",
+      "quantity": "25",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pan fry your prawns for 2 mins on a medium heat until they curl and turn pink. Season with paprika."
+    },
+    {
+      "heading": null,
+      "description": "Slice the carrot, cabbage and avocado into thin strips."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles according to package instructions and soak in cold water (this prevents it from cooking further)."
+    },
+    {
+      "heading": null,
+      "description": "Mix everything together for the dipping sauce."
+    },
+    {
+      "heading": null,
+      "description": "Dip the rice paper sheets in cold water for a few seconds until softened - don't over-soak them as they will continue to soften."
+    },
+    {
+      "heading": null,
+      "description": "Assemble time. Add some of the prawns, veg and noodles to the bottom third of the rice paper. Top with a spoonful of the dipping sauce and herbs. Carefully roll, tucking the ends in."
+    },
+    {
+      "heading": null,
+      "description": "Cut the rolls in half and serve with the dipping sauce - enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "Asian-Inspired",
+    "Vietnamese"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-07-03T10:00:00+01:00"
+}

@@ -1,0 +1,314 @@
+{
+  "id": "5170947",
+  "slug": "roast-chicken-with-gravy-braised-garlicky-greens",
+  "title": "Roast Chicken with Gravy & Braised Garlicky Greens",
+  "url": "https://www.mob.co.uk/recipes/roast-chicken-with-gravy-braised-garlicky-greens",
+  "summary": "A simple roast chicken recipe cooked with a mass of garlicky greens. The homemade gravy recipe is absolutely on the money.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Roast-Chicken-with-Gravy-Braised-Garlicky-Greens.jpg",
+  "cook_time": 100,
+  "prep_time": 20,
+  "total_time": 120,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 48,
+    "fat": 27,
+    "saturated_fat": 7,
+    "carbohydrates": 13,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 463
+  },
+  "ingredients": [
+    {
+      "label": "1 Medium Chicken",
+      "quantity": "1",
+      "unit": null,
+      "name": "Large Whole Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Chicken",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": ".5 Tbsp Caster Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fine Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Thyme",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Rosemary",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Shallots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml White Wine",
+      "quantity": "250",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Fresh Chicken Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sherry Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sherry Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spring Greens",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spring Greens",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml White Wine",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by removing the wishbone from the chicken, open up the front of the cavity and use a small, sharp knife to expose either side of the wishbone. Trace up the bone with the tip of your knife to the breast bone to expose both sides. Cut down and through each of the connections to the wing and then pull the bone out."
+    },
+    {
+      "heading": null,
+      "description": "Mix the caster sugar with fine salt and use this to season the chicken liberally, inside and out. Halve the lemon and stuff into the cavity of the chook along with the thyme and most of the rosemary (reserving some extra for the gravy). Set on a tray and pop into the fridge for 4-6 hours."
+    },
+    {
+      "heading": null,
+      "description": "While the chicken dry brines, roughly chop the carrot, shallots and celery. When ready to roast, preheat the oven to 220°C. Dab the chicken dry with kitchen paper and then rub generously with olive oil. Preheat a pan or roasting tray over a high heat and add a shot of oil and a knob of butter. Roast the veggies briefly in the hot fat so they pick up a little colour before plonking the chicken on top and sliding into the oven for 30-40 mins."
+    },
+    {
+      "heading": null,
+      "description": "During this time, the chicken will become golden brown and crispy, once looking gorgeous, turn the oven down to 160°C and cook for another 25-30 mins or until the breast hits 68°C. Remove from the oven and remove from the pan, leaving the veggies behind"
+    },
+    {
+      "heading": null,
+      "description": "Pop the roasting pan or tray back onto a high heat and get things sizzling again. Dump in the white wine, bring to a boil and reduce by two-thirds before adding the chicken stock. Bring back to a boil and reduce by half. Strain through a fine sieve into a small saucepan. Bring to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "Pop the cornflour into a dish and add 1-2 tbsp of the hot gravy to make a smooth paste. Pour this back into the hot gravy and whisk to thicken. Have a taste, season with sherry vinegar, salt and pepper. Finish the gravy with chopped rosemary and butter."
+    },
+    {
+      "heading": null,
+      "description": "Carve the rested chicken and serve on a platter over braised greens. Top with gravy and serve."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your spring greens, removing any very woody stems. Finely slice the garlic and chilli."
+    },
+    {
+      "heading": null,
+      "description": "Set a lidded pan over a medium heat and add a glug of olive oil. Add the garlic and chilli and sizzle for a minute until fragrant. Drop in the greens and sauté for 3-4 mins. Crank up the heat and add the wine. Add a lid and cook for 6-7 mins until wilted and softened."
+    },
+    {
+      "heading": null,
+      "description": "Remove the lid and keep cooking until the wine has reduced until almost dry. Finish with salt, pepper and lemon juice to taste."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Low Carb",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-03-06T13:56:00+00:00"
+}

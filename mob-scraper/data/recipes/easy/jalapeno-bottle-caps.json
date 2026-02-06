@@ -1,0 +1,181 @@
+{
+  "id": "5556221",
+  "slug": "jalapeno-bottle-caps",
+  "title": "Jalapeño Bottle Caps",
+  "url": "https://www.mob.co.uk/recipes/jalapeno-bottle-caps",
+  "summary": "Deep fried pickled jalapeños – you can't get better than a fistful of these with a cold beer. Tangy, spicy, and completely moreish.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Jalapeno-Bottle-Caps.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 154,
+    "protein": 2,
+    "fat": 11,
+    "saturated_fat": 3,
+    "carbohydrates": 12,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 502
+  },
+  "ingredients": [
+    {
+      "label": "200g jar pickled jalapeños,",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Plain Flour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Vegetable Oil",
+      "quantity": "4",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml pickling liquid",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pickle Brine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Plain Flour",
+      "quantity": "60",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Fajita Seasoning",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fajita Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Soured Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Drain the jalapeños, reserving the pickling liquid they came in. Blot them well with kitchen paper to dry and toss them with flour until coated."
+    },
+    {
+      "heading": null,
+      "description": "Add the oil to a medium-sized deep saucepan so that it comes no more than halfway up the sides and set over a high heat until the temperature reaches 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Pour the reserved pickling liquid into a large bowl with plain flour and the fajita seasoning. Dip the jalapeños in the batter, then scoop them out using a fork and transfer straight to the hot oil."
+    },
+    {
+      "heading": null,
+      "description": "Fry for 2 mins until golden and crisp, then remove and drain on kitchen paper to soak up any excess oil."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, mix the coriander, soured cream and lime zest. Cut the zested lime into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Serve the jalapeños with a sprinkle of salt and pepper, the dipping sauce and the lime wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Nathan Anthony",
+      "uri": "chefs/nathan-anthony",
+      "summary": "Meet Nathan Anthony, the Northern Irish home cook behind Bored of Lunch. During lockdown, he started his food blog to others to cook and eat healthier giving everyone something positive to focus on. Specialising in easy, budget-friendly recipes, Nathan’s platform boasts over 4 million online followers and subscribers. With four bestselling cookbooks already under his belt, Nathan’s journey with Bored of Lunch has been nothing short of remarkable. Join the BOL family and explore his delicious recipes across the website, cookbooks, and social media channels."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-18T06:00:00+01:00"
+}

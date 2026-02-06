@@ -1,0 +1,292 @@
+{
+  "id": "631891",
+  "slug": "flautas-de-pollo",
+  "title": "Flautas De Pollo",
+  "url": "https://www.mob.co.uk/recipes/flautas-de-pollo",
+  "summary": "Inspired by the beloved Mexican snack. Crispy tortillas, topped with salsa, sour cream, avocado and crumbled feta. Recipe by MOB Contributor Hannah Thorne.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A4652.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1012,
+    "protein": 23,
+    "fat": 89,
+    "saturated_fat": 20,
+    "carbohydrates": 34,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Plum Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Plum Tomatoes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Thighs (Skin Off)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chicken Thighs (Skin Off)",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Tortillas",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Vegetable Oil",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Romain Lettuce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Sour Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Few Dollops of Gran Luchito Tomatillo Salsa",
+      "quantity": null,
+      "unit": null,
+      "name": "Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Char your chillies and tomatoes. Heat a pan to high heat and add your chillies. When they have a nice black char on each side remove them and repeat the process with the tomatoes. This will give your salsa a nice smokey taste and a lot more depth of flavour."
+    },
+    {
+      "heading": null,
+      "description": "Take the onion and chop it into rough pieces. Leave a small amount for garnish. Grab your clove of garlic and smash it with the back of a knife."
+    },
+    {
+      "heading": null,
+      "description": "Heat a pan over medium heat and add some oil. Cook the onion and garlic pieces until fragrant. Add in your chillies and tomatoes and stir together. If you want your salsa milder in heat be sure to add the chillies in small doses so you can measure your desired spice level."
+    },
+    {
+      "heading": null,
+      "description": "Add the bunch of coriander and season with salt and pepper. Pour in enough water to slightly cover the ingredients but not submerge them and let it come to a boil."
+    },
+    {
+      "heading": null,
+      "description": "Using a wooden spoon, mash the tomatoes and chillies. Then lower the heat to a simmer and leave it to cook for 20 minutes stirring occasionally."
+    },
+    {
+      "heading": null,
+      "description": "Allow your sauce to cool down completely before using a handheld blender to roughly blitz the sauce in the pot. If the sauce is too thin add it back to the pot and let it simmer until it reaches the desired consistency. Once done, set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a medium sized pan add your chicken, one half of the onion, and the garlic clove. Fill the pot with enough water to fully cover the ingredients, add a pinch of salt and bring to a boil over medium to high heat. Once it has started to boil, lower the heat to a simmer and cook for 20 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Time to prepare your garnishes. Thinly slice your lettuce and set aside. Then, in a bowl, smash your avocado and add the juice of 1/2 a lime. Season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Take the remaining 1/2 a lime and squeeze the juice into your sour cream."
+    },
+    {
+      "heading": null,
+      "description": "Time to check the chicken. Once cooked, take your chicken out of the water (reserving the stock left behind) and shred in a bowl. Add 2 tsps of your stock to the shredded chicken and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Flautas time. Take your tortillas and add some of the shredded chicken. Roll the tortillas into a long flute shape and prepare to fry. If you're struggling to keep your flautas in the right shape, you can use toothpicks to hold them in place."
+    },
+    {
+      "heading": null,
+      "description": "Next heat your oil in a frying pan. Place your flautas in the oil and fry until golden brown. It's important not to overcrowd your pan so you might have to fry in batches."
+    },
+    {
+      "heading": null,
+      "description": "Assembly time. Plate up your flautas adding the shredded lettuce, lime infused sour cream, smashed avocado, onion slices, crumbled feta and your homemade salsa. Tuck in and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-09-07T10:00:00+01:00"
+}

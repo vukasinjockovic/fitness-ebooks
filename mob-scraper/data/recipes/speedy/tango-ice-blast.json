@@ -1,0 +1,123 @@
+{
+  "id": "4404664",
+  "slug": "tango-ice-blast",
+  "title": "Tango Ice Blast",
+  "url": "https://www.mob.co.uk/recipes/tango-ice-blast",
+  "summary": "A homemade version of everyone's favourite cinema slush. Our Tango Ice Blast recipe is even tastier than the real thing.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Tango-Ice-Blast-Recipe.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 285,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": 0,
+    "carbohydrates": 70,
+    "dietary_fibre": 0,
+    "sugars": 70,
+    "sodium": 60
+  },
+  "ingredients": [
+    {
+      "label": "200ml Tango Apple",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tango Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Tango Cherry",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tango Cherry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Blue Food Colouring",
+      "quantity": null,
+      "unit": null,
+      "name": "Blue Food Colouring",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sherbet",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sherbet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Ice Lollies Of Your Choice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ice Lolly",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour each of the Tango flavours into ice cube trays or lolly moulds and freeze overnight."
+    },
+    {
+      "heading": null,
+      "description": "Take the ice lollies off their sticks. Remove the Tango Apple ice cubes from tray or mould, then put into a processor with a few drops of blue food colouring, a handful of ice, and 1 of the ice lollies. Blitz, pour in a bit more apple tango to loosen it up, mix again, then transfer to the freezer."
+    },
+    {
+      "heading": null,
+      "description": "Repeat the whole process with the Tango Cherry ice cubes."
+    },
+    {
+      "heading": null,
+      "description": "Pour the blue tango ice blast into a glass and top with half of the sherbet. Pour over the cherry flavour and sprinkle with the remaining sherbet. Give it a little mix with a straw and get stuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [
+    "Fusion"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-15T10:10:00+01:00"
+}

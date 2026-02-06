@@ -1,0 +1,103 @@
+{
+  "id": "5340828",
+  "slug": "spicy-pesto-paccheri",
+  "title": "Spicy Pesto Paccheri",
+  "url": "https://www.mob.co.uk/recipes/spicy-pesto-paccheri",
+  "summary": "A simple (and spicy) pesto pasta recipe. You can use our homemade Jalapeño and Cheddar Pesto to add an extra kick to this easy weeknight winner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Spicy-Pesto-Paccheri.jpg",
+  "cook_time": 15,
+  "prep_time": 0,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 17,
+    "fat": 17,
+    "saturated_fat": 7,
+    "carbohydrates": 61,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 323
+  },
+  "ingredients": [
+    {
+      "label": "400g Paccheri",
+      "quantity": "400",
+      "unit": null,
+      "name": "Paccheri",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4-5 Tbsp Pesto",
+      "quantity": "4",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Coriander, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cheddar Cheese, to serve",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Cheddar Cheese, to serve",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a pan of salted water to the boil. Once boiling, add the paccheri and cook according to packet instructions, then drain, reserving a cupful of the pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Return the pasta to the pan and add the pesto, stir well, adding a splash of pasta water at a time so the sauce coats the pasta. Spoon into bowls and top with grated cheddar and coriander leaves."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-07T03:00:00+01:00"
+}

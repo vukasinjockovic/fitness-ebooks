@@ -1,0 +1,188 @@
+{
+  "id": "6969974",
+  "slug": "herby-green-soup-tahini-zaatar",
+  "title": "Herby Green Soup with Tahini & Za'atar",
+  "url": "https://www.mob.co.uk/recipes/herby-green-soup-tahini-zaatar",
+  "summary": "A fresh and satisfying soup with cannellini beans, fresh herbs, lemon and za’atar. Ready in just 15 minutes, this one’s perfect for a quick plant-based lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/12/Herby-Green-Soup-with-Tahini-Zaatar.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 355,
+    "protein": 14,
+    "fat": 16,
+    "saturated_fat": 2,
+    "carbohydrates": 36,
+    "dietary_fibre": 10,
+    "sugars": 2,
+    "sodium": 563
+  },
+  "ingredients": [
+    {
+      "label": "3 Cans Cannellini Beans",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cooked Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Spinach",
+      "quantity": "120",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Tahini",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "English Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Za’atar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Drain the cannellini beans."
+    },
+    {
+      "heading": null,
+      "description": "Add ⅔ of the drained beans to a high speed blender along with the spinach, tahini, dill, parsley, cumin, mustard, stock cube and water. Blend until smooth then transfer to a saucepan. This is your soup base."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining drained beans to the soup. Bring the soup to a simmer over a medium heat then cook for 5-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Stir through a good glug of olive oil and the juice of ¾ the lemons, then season to taste with plenty of salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "To serve, ladle the soup into bowls and top with a drizzle of za’atar and an extra drizzle of tahini and olive oil. Finish with a pinch of salt and pepper, and the zest and juice of the remaining lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired",
+    "Mediterranean"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-04T03:00:00+00:00"
+}

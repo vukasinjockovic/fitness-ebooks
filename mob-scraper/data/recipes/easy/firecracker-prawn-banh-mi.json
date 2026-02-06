@@ -1,0 +1,255 @@
+{
+  "id": "5588500",
+  "slug": "firecracker-prawn-banh-mi",
+  "title": "Firecracker Prawn Bánh Mì",
+  "url": "https://www.mob.co.uk/recipes/firecracker-prawn-banh-mi",
+  "summary": "The bánh mì might just be the greatest sandwich on Earth and this version, packed with sweet and spicy firecracker prawns, is one of the best you'll ever eat.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/Firecracker-Prawn-Ba%CC%81nh-Mi%CC%80-Recipe.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 701,
+    "protein": 32,
+    "fat": 22,
+    "saturated_fat": 3,
+    "carbohydrates": 93,
+    "dietary_fibre": 8,
+    "sugars": 15,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "2 Demi Baguettes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Demi-Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Raw King Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Raw Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Raw King Prawns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Mayonnaise",
+      "quantity": "10",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Panko Breadcrumbs",
+      "quantity": "125",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ white cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ white cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Radishes",
+      "quantity": "240",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Mayonnaise",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2g Fresh Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Buffalo Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Buffalo Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Coriander",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut your white cabbage and carrots in half. Then, using a mandolin if you have one or knife if you don’t, slice your white cabbage, carrots, and radishes into thin slices."
+    },
+    {
+      "heading": null,
+      "description": "Lay your radishes on top of each other and cut into matchsticks. Repeat this step with the carrots."
+    },
+    {
+      "heading": null,
+      "description": "Put your chopped carrots and radishes in a bowl with the juice of a lime. Add salt and mayonnaise and stir well. Set aside in the fridge while you prepare the rest."
+    },
+    {
+      "heading": null,
+      "description": "Now it’s time to coat your prawns. Mix your panko breadcrumbs with chilli flakes on a plate. Add a layer of mayonnaise on another."
+    },
+    {
+      "heading": null,
+      "description": "Dip the prawns into the mayo and then into the panko mixture until they are all fully coated"
+    },
+    {
+      "heading": null,
+      "description": "Drizzle with a little oil then put into the air fryer at 200°C for 8 mins."
+    },
+    {
+      "heading": null,
+      "description": "While your prawns cook, make your firecracker sauce. Grab a small bowl and grate in the garlic and ginger. Then add the buffalo sauce, soy, and rice vinegar."
+    },
+    {
+      "heading": null,
+      "description": "Once your prawns are crispy and golden, it’s time to assemble the bánh mì. Add a layer of mayonnaise on the inside of the baguette then top it with the slaw, prawns, sauce, and a generous helping of coriander."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Fusion",
+    "Vietnamese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ayala Daly",
+      "uri": "chefs/ayala-daly",
+      "summary": "Ayala Daly is Mob's content producer and resident vibe bringer. You’ve probably seen her all over the stories but she’s no stranger to the kitchen. Ayala blends her background as a food researcher with her passion for cooking. With a knack for experimentation, she crafts easy-to-follow recipes bursting with bold flavours, drawing inspiration from regular trips to her favourite farms and the thrill of all things spicy."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-19T05:00:00+01:00"
+}

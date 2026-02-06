@@ -1,0 +1,327 @@
+{
+  "id": "4150109",
+  "slug": "black-bean-makhani-dhal",
+  "title": "Black Bean Makhani Dal",
+  "url": "https://www.mob.co.uk/recipes/black-bean-makhani-dhal",
+  "summary": "Dal makhani is the Godfather of all dals. This opulent dish from Sarah Woods is rich and decadent and bows to no other.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Black-Bean-Makhani-Dal.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 282,
+    "protein": 11,
+    "fat": 10,
+    "saturated_fat": 4,
+    "carbohydrates": 32,
+    "dietary_fibre": 8,
+    "sugars": 5,
+    "sodium": 767
+  },
+  "ingredients": [
+    {
+      "label": "200g Brown Lentils",
+      "quantity": "200",
+      "unit": null,
+      "name": "Brown Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Brown Lentils",
+      "quantity": "200",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Green Cardamom Pods",
+      "quantity": "4",
+      "unit": null,
+      "name": "Green Cardamom Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5cm Cassia Bark",
+      "quantity": "5",
+      "unit": null,
+      "name": "Cassia Bark",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Dried Kashmiri Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Kashmiri Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ a Star Anise",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Brown Onion, Finely Diced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Ginger, Grated",
+      "quantity": "20",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Garlic, Grated",
+      "quantity": "20",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Finger Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Finger Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Sea Salt",
+      "quantity": "2",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garam Masala",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Butter",
+      "quantity": "40",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Tomato Purée",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Water",
+      "quantity": "300",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Passata",
+      "quantity": "150",
+      "unit": null,
+      "name": "Passata",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Black Beans",
+      "quantity": "470",
+      "unit": null,
+      "name": "Drained Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Black Beans",
+      "quantity": "470",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Kasuri Methi (Dried Fenugreek)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Fenugreek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Greek Yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Greek Yoghurt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Double Cream",
+      "quantity": "2",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Coriander, To Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Vegetable Oil, For Cooking",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First cook the brown lentils – you’ll need a large lidded saucepan. Brown lentils don’t often need a soak and will cook in under 30 mins. Read the packet instructions, and cook until tender (please don’t overcook them into a mush). You need three to four times the volume of water to lentils. Bring to a rapid boil, then reduce to a simmer. Skim off any scum, and don’t allow the pan to go dry. Remove from the heat, and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Toast the coriander seeds in a dry frying pan and transfer to a pestle and mortar. Lightly grind – they’ll still have some texture – and set aside. Add your cardamom seeds to the mortar, with a pinch of salt to act as an abrasive, and grind to a powder."
+    },
+    {
+      "heading": null,
+      "description": "Now make the tarka, the foundation of every curry. In a large sauté pan or similar, activate your whole spices – cumin seeds, cassia bark, cloves, dried chilli and star anise – in 3 or 4 tablespoons of oil on a medium to high heat. Dice the onion, finely grate the ginger and garlic and mince the chilli."
+    },
+    {
+      "heading": null,
+      "description": "When the fragrant aromas waft up, tip in the onions, the crushed coriander and powdered cardamom, and reduce the heat to medium. Give these at least 10 mins or so to allow the onions to soften and become translucent."
+    },
+    {
+      "heading": null,
+      "description": "Next add the ginger, garlic and chilli, cook for a couple of mins, then add the salt and garam masala. Toast for 30 seconds, then drop in half of the butter (this will prevent the masala from catching). Once melted, add the tomato purée and give everything a good mix. We want a few mins to cook the purée out. Add 1/3 of the water to help it on its way."
+    },
+    {
+      "heading": null,
+      "description": "Add the passata and bring to the boil, then simmer for a few mins. When you see the tell-tale sign of the oil separating on the surface, it’s time to taste and make your adjustments. Though it will taste salty at this point, you are likely to need more salt when the lentils and beans have been added."
+    },
+    {
+      "heading": null,
+      "description": "Stir all your cooked lentils and beans through the tarka. You’ll need to add the rest of water too. Ensure everything is mixed well, then bring to the boil and immediately reduce to a simmer. Taste again now, you’ll probably need more salt. Add the methi (dried fenugreek), the rest of the butter, yoghurt and cream. You may want to hold some of the cream back for a decorative swirl just before serving. Allow to simmer for a little longer and for all of the flavours to develop – say another 10 mins or so."
+    },
+    {
+      "heading": null,
+      "description": "Pair with whichever bread takes your fancy, or with rice. We like to serve it with black cardamom rice, charred aloo gobi, yoghurt and a crunchy slaw."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sarah Woods",
+      "uri": "chefs/sarah-woods",
+      "summary": null
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-03-06T14:48:00+00:00"
+}

@@ -1,0 +1,278 @@
+{
+  "id": "5774722",
+  "slug": "three-cup-chicken-recipe",
+  "title": "Three-Cup Chicken",
+  "url": "https://www.mob.co.uk/recipes/three-cup-chicken-recipe",
+  "summary": "Also known as san bei ji, three-cup chicken is a popular dish which gets its name from the equal measurements of soy sauce, sesame oil, and shaoxing wine used in the recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Three-Cup-Chicken.jpg",
+  "cook_time": 35,
+  "prep_time": 5,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 482,
+    "protein": 27,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 62,
+    "dietary_fibre": 2,
+    "sugars": 7,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "400g Sushi or Jasmine Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Sushi or Jasmine Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Seeds, to serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Garlic Cloves",
+      "quantity": "12",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Garlic Cloves",
+      "quantity": "12",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Neutral Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thai Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Thai Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Rice Wine",
+      "quantity": "4",
+      "unit": null,
+      "name": "Rice Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dark Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cook the sushi or jasmine rice following pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, smash the garlic until flattened, then remove the skins. Slice the ginger into thin, round discs and set aside on a plate."
+    },
+    {
+      "heading": null,
+      "description": "Combine the sauce ingredients in a small bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop the chicken into bite-sized chunks and pat dry with kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Heat the neutral oil in a medium-sized casserole dish or wok. Cook the garlic and ginger for 1-2 mins or until lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Push the garlic and ginger to the side, then add the chicken (laying it as flat as possible) and cook for 1 min each side, or until lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Now add the sauce and toss well. Add a bit of water, so it’s only one-quarter of the way up the chicken, then bring to a simmer and add a lid. Reduce the heat to the lowest setting and cook for 25 mins, stirring halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the red pepper, onion, spring onions and chilli into bite-sized pieces. Tear the basil leaves and set everything aside on a large plate."
+    },
+    {
+      "heading": null,
+      "description": "Remove the lid and bring to the boil, then toss in all the chopped veg. Toss for 2 mins, then add the basil and turn the heat off."
+    },
+    {
+      "heading": null,
+      "description": "Finish with a drizzle of sesame oil and toasted sesame seeds, then serve over the rice. Alternatively, grab a small pot that will hold all the rice (or individual clay pots) and set it/them over a medium heat. Add 1 tbsp sesame oil to the pot(s) and all the cooked rice, tip the chicken and sauce on top and cover with a lid. Cook for 2-3 mins to crisp-up the base of the rice. Then serve inside the pots"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-15T03:00:00+01:00"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "6055468",
+  "slug": "parsnip-puree-recipe",
+  "title": "Parsnip Purée Recipe",
+  "url": "https://www.mob.co.uk/recipes/parsnip-puree-recipe",
+  "summary": "This smooth-as-silk parsnip purée recipe is incredibly easy to make and is a great accompaniment to most grilled or roast meats. A swoosh on the bottom of your plate will make you feel like René Redzepi, or that handsome guy in The Bear. Parsnip purée is a luxurious and velvety side dish that elevates any meal with its subtly sweet and nutty flavour. This parsnip purée recipe transforms humble root vegetables into a creamy delight that pairs beautifully with a variety of main courses. Whether you’re serving a traditional Thanksgiving dinner, a festive Christmas feast, or a comforting Sunday roast, this puree will add a sophisticated touch. Ideal alongside roasted meats like schnitzel or meatloaf, or even with a delicate fish dish, it’s a versatile addition to your culinary repertoire. Blended with garlic cloves and a touch of cream or plant-based milk, the puree achieves a silky texture and rich taste.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Parsnip-Pure%CC%81e-Recipe.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 210,
+    "protein": 3,
+    "fat": 12,
+    "saturated_fat": 8,
+    "carbohydrates": 21,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "1kg Parsnips",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Parsnip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Thyme Sprigs",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Black Peppercorns",
+      "quantity": "6",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel the parsnips and cut into even, chunky pieces. Fill a pan with boiling salted water and carefully add the parsnips. Cook for 15 mins until the parsnips are cooked through but not collapsing."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, put the double cream into a small saucepan with the garlic clove, thyme sprigs and black peppercorns and gently bring to the boil. Once boiling, remove from the heat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Once the parsnips are cooked, strain them through a colander, then tip into a food processor or blender."
+    },
+    {
+      "heading": null,
+      "description": "Put a fine metal sieve over the processor or blender and pour in half the flavoured cream. Season with salt and pepper. Whizz the parsnip until really smooth, then add enough of the remaining flavoured cream to create a velvety smooth purée."
+    },
+    {
+      "heading": null,
+      "description": "If you want to be super fancy and restaurant-y, discard the garlic and thyme from the sieve and put the sieve over a bowl. Strain the purée through the sieve, into the bowl, pushing it through. Season to taste and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-19T03:30:00+01:00"
+}

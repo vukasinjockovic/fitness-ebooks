@@ -1,0 +1,117 @@
+{
+  "id": "3977997",
+  "slug": "hot-chocolate-french-style",
+  "title": "Ultimate Hot Chocolate",
+  "url": "https://www.mob.co.uk/recipes/hot-chocolate-french-style",
+  "summary": "This is my take on the French-style hot chocolate. It's super rich and creamy and takes just 4 ingredients and 10 minutes to make.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/12/220A9879.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 7,
+    "fat": 56,
+    "saturated_fat": 35,
+    "carbohydrates": 44,
+    "dietary_fibre": 5,
+    "sugars": 39,
+    "sodium": 54
+  },
+  "ingredients": [
+    {
+      "label": "350g Whole Milk",
+      "quantity": "350",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Double Cream",
+      "quantity": "500",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Dark Chocolate (at least 70%)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Dark Chocolate (at least 70%)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Icing Sugar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Lightly whip 60% of your double cream until you have very soft peaks and set aside in a cool place."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the chocolate."
+    },
+    {
+      "heading": null,
+      "description": "Place the milk, icing sugar and remaining double cream in a sauce pan and gently warm over a medium heat. Add in the chocolate and reduce to a low heat. Stir for a couple of minutes until the chocolate has all melted and emulsified to create your hot chocolate. It should be a similar consistency to double cream and glossy."
+    },
+    {
+      "heading": null,
+      "description": "Pour the hot chocolate into mugs and top each with a spoon of the whipped cream."
+    },
+    {
+      "heading": null,
+      "description": "Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Hannah Miller",
+      "uri": "chefs/hannah-miller",
+      "summary": "Hannah Miller is a multi-talented creator, recipe developer and social media mogul. Hannah played a hand in creating some absolute Mob classics. If you haven't tried it, her French Style Hot Chocolate recipe is a must."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-12-07T05:00:00+00:00"
+}

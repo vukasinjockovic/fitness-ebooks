@@ -1,0 +1,186 @@
+{
+  "id": "7389067",
+  "slug": "creamy-avo-lime-pasta",
+  "title": "Creamy Avo & Lime Pasta",
+  "url": "https://www.mob.co.uk/recipes/creamy-avo-lime-pasta",
+  "summary": "A super speedy pasta great for the whole clan, trust us the kids will love it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Creamy-Avo-Lime-Pasta.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 627,
+    "protein": 16,
+    "fat": 27,
+    "saturated_fat": 6,
+    "carbohydrates": 78,
+    "dietary_fibre": 9,
+    "sugars": 5,
+    "sodium": 233
+  },
+  "ingredients": [
+    {
+      "label": "300g Pasta",
+      "quantity": "300",
+      "unit": null,
+      "name": "Fusilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pasta",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Ripe Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Basil",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Basil",
+      "quantity": "10",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli Flakes",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids Servings\nCook the pasta following pack instructions. Reserve a mugful of pasta water before draining."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, zest and juice the lime. Peel and crush the garlic. Halve the avocados, remove the stones and scoop the flesh into a blender or food processor."
+    },
+    {
+      "heading": null,
+      "description": "Grate the Parmesan and add it to the blender with the garlic, avocado, lime juice and zest, olive oil, a good pinch of salt and a splash of pasta water. Blitz until smooth and creamy, adding more water if needed to loosen.\nTaste and add extra lime juice, if you'd like it extra zingy."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta is cooked and drained, return it to the pan and pour over the avocado sauce. Toss until everything is well coated."
+    },
+    {
+      "heading": null,
+      "description": "Serve up!\nKids Plate: Dish up as is for the kiddies. \nParents Plate: Dish up the pasta with extra Parmesan, a crack of black pepper, basil leaves and a sprinkling of chilli flakes."
+    }
+  ],
+  "tips": [
+    "Use vegan Parmesan or nutritional yeast to make it vegan.",
+    "Great hot or cold — works as a pasta salad too.",
+    "Add toasted seeds or rocket on top for extra texture."
+  ],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Ingredient",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-25T15:17:00+01:00"
+}

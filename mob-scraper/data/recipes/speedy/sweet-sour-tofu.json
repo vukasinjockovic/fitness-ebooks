@@ -1,0 +1,197 @@
+{
+  "id": "1588",
+  "slug": "sweet-sour-tofu",
+  "title": "Sweet n Sour Tofu",
+  "url": "https://www.mob.co.uk/recipes/sweet-sour-tofu",
+  "summary": "The takeaway classic cooked from the comfort of your own home. Perfectly sweet and sour. The sticky sauce takes your tofu to a whole new level.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/sweet-n-sour-tofu.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 17,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 92,
+    "dietary_fibre": 4,
+    "sugars": 17,
+    "sodium": 393
+  },
+  "ingredients": [
+    {
+      "label": "540g Naked Tofu (we use Tofoo)",
+      "quantity": "540",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Pineapple",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Pineapple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Peppers (Yellow and Red)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Cornflour",
+      "quantity": "6",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ketchup",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp White Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sweet Chilli",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sweet Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop your peppers and onions into 3cm chunks. Chop the tofu into 2-3cm cubes. Add your cornflour to a bowl. Dip each cube in cornflour, make sure to cover the cubes fully."
+    },
+    {
+      "heading": null,
+      "description": "Fill your wok with an inch of vegetable oil. Add your tofu and fry until golden brown and set aside. Pour the oil out and place back over the heat."
+    },
+    {
+      "heading": null,
+      "description": "Get the rice on. See pack instructions."
+    },
+    {
+      "heading": null,
+      "description": "Add the onions and peppers into the wok, and cook on a high heat, until softening and starting to char."
+    },
+    {
+      "heading": null,
+      "description": "Once softened, chop up your pineapple into chunks and add to the wok. Next, Stir all the sauce ingredients together. Pour into the veggies, and toss the tofu through until thickened. Taste and season with salt, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Slice up your spring onions for garnish. Serve on a bed of rice and tuck into this delicious dish. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-11-29T00:00:00+00:00"
+}

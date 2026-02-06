@@ -1,0 +1,284 @@
+{
+  "id": "5915977",
+  "slug": "chicken-teriyaki-brioche-burger",
+  "title": "Chicken Teriyaki Brioche Burger",
+  "url": "https://www.mob.co.uk/recipes/chicken-teriyaki-brioche-burger",
+  "summary": "Sweet and sticky teriyaki chicken in a fluffy brioche bun. Chicken burgers don't get much better than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Chicken-Teriyaki-Brioche-Burger.jpg",
+  "cook_time": 20,
+  "prep_time": 5,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 33,
+    "fat": 29,
+    "saturated_fat": 11,
+    "carbohydrates": 68,
+    "dietary_fibre": 4,
+    "sugars": 16,
+    "sodium": 1370
+  },
+  "ingredients": [
+    {
+      "label": "2 Brioche Buns",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brioche Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Thighs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Boneless Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Thighs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cooking Sake",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cooking Sake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cornstarch",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cold Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Iceberg Lettuce Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch Chives",
+      "quantity": "100",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices American Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "American Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices American Cheese",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Japanese Mayo",
+      "quantity": null,
+      "unit": null,
+      "name": "Kewpie Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the brioche buns in half. Add the butter to a frying pan set over a medium heat and cook until the butter has melted. Add the brioche halves to the pan to toast them, occasionally checking the bottom so they don’t burn. Once golden, remove from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Season the chicken thighs with salt and pepper on both sides. Lay skin-side down in a new, cold pan and turn the heat to high. Cook for 5 mins, flip, then cook for a further 5 mins. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Lower the heat to low-medium. Add the vinegar, light soy sauce, mirin, sake and sugar. Grate the garlic clove and some of the ginger into the mixture, too. Swirl the pan for 1-2 mins until the sugar has dissolved."
+    },
+    {
+      "heading": null,
+      "description": "Add cornstarch to a bowl with cold water. Stir well to create a slurry. While stirring the sauce, pour the slurry into the pan slowly. The sauce should thicken into a glossy (but not too thick) mixture. If too thick, add a splash of water. Turn the heat off."
+    },
+    {
+      "heading": null,
+      "description": "Add the chicken to the pan and flip to glaze on both sides."
+    },
+    {
+      "heading": null,
+      "description": "Dice the red onion and transfer to a bowl of cold water (this will remove the harshness). Cut the lettuce leaves in half and stack on top of each other. Finely slice the chives."
+    },
+    {
+      "heading": null,
+      "description": "To assemble, lay a slice of cheese on the bottom half of each brioche bun. Add a piece of chicken, some drained red onion, lettuce, a generous dollop of mayo, chives and finally the top half of the brioche bun."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-29T11:58:00+01:00"
+}

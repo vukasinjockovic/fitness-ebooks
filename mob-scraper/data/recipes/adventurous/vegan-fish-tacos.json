@@ -1,0 +1,304 @@
+{
+  "id": "4570794",
+  "slug": "vegan-fish-tacos",
+  "title": "Beer-Battered Vegan Fish Tacos With Chipotle Mayo & Slaw",
+  "url": "https://www.mob.co.uk/recipes/vegan-fish-tacos",
+  "summary": "These crispy beer-battered patties make the perfect taco filling.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/09/Beer-Battered-Vegan-Fish-Tacos.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 563,
+    "protein": 13,
+    "fat": 18,
+    "saturated_fat": 2,
+    "carbohydrates": 82,
+    "dietary_fibre": 8,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "400g Tin of Artichoke in Brine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Artichoke",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Heart of Palm",
+      "quantity": "1",
+      "unit": null,
+      "name": "Heart of Palm",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Celery Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Celery Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Breadcrumbs",
+      "quantity": "30",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Old Bay Seasoning (Or Sub For 50:50 Celery Salt & Paprika)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Old Bay Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil, For Frying",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "½ Red Cabbage (Approx. 170g)",
+      "quantity": "170",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "7g Coriander (Plus More To Serve)",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Self Raising Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Fine Sea Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Fine Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder (Optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder (Optional)",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Black Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165ml Cold Stella Artois Unfiltered Beer",
+      "quantity": "165",
+      "unit": null,
+      "name": "Lager",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Vegan Mayonnaise",
+      "quantity": "50",
+      "unit": null,
+      "name": "Vegan Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1-2 Tsp Adobo Sauce (Or Swap for Another Hot Sauce, Such As Sriracha)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Salted Roasted Peanuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Salted Roasted Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "9 Small Tortilla Wraps",
+      "quantity": "9",
+      "unit": null,
+      "name": "Small Flour Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, make the slaw. Finely slice the cabbage and place in a large bowl. Add the lime zest and juice from one lime and a good pinch of salt. Toss and set aside to marinate."
+    },
+    {
+      "heading": null,
+      "description": "Drain the heart of palm and add it to a large bowl. Use a fork or potato masher to mash it until you have a chunky texture. Drain the artichoke tin and squeeze out as much excess water as you can from each one. Tear the artichoke petals into the bowl and mash the sturdier base of them into the artichokes into the heart of palm. Add the Old Bay seasoning and a good amount of salt and pepper and mix well to combine. You can use your hands here too, you are looking for everything to be evenly combined and a chunky texture with the artichoke petals still intact and flaky. Add the smaller amount of breadcrumbs and mix gently. You should be able to squeeze a ball of the mix in your hands without it being too wet or falling apart. If not, add more breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Shape the mixture into oblongs, you should get around 7-8 of them. Lay them on a flat surface and place in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "To make the mayo, mix all of the ingredients together. Taste and adjust spice or acidity levels if needed. Refrigerate until needed."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the chilli and roughly chop the peanuts."
+    },
+    {
+      "heading": null,
+      "description": "In a large bowl, mix the flour, salt, paprika, garlic powder and black pepper. Pour the beer in slowly."
+    },
+    {
+      "heading": null,
+      "description": "Lightly toast the tortillas and set aside to keep warm under a plate."
+    },
+    {
+      "heading": null,
+      "description": "Heat a medium frying pan over medium heat, adding enough oil to cover half of the height of your patties, or more. Test if it's hot enough by flicking a dot of batter into the oil - if it sizzles immediately, it's ready. Take care not to let the oil get too hot. Get a plate ready with a kitchen towel on it and keep it close by."
+    },
+    {
+      "heading": null,
+      "description": "Dredge the patties in the batter and gently lower into the oil and fry on one side for about 2 mins, flip and fry for another minute or so, then place them on the tissue paper. Repeat until you have fried all of the patties, making sure not to overcrowd the pan."
+    },
+    {
+      "heading": null,
+      "description": "You can also air fry these but they won’t be as crispy. Spray the basket with plenty of oil spray, then air fry at 200°C for 12 mins, flipping them halfway and spraying them again."
+    },
+    {
+      "heading": null,
+      "description": "To serve, layer up the crispy patties, slaw, chilli mayo, chilies, peanuts, coriander and finish with lime zest and juice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-26T07:00:00+00:00"
+}

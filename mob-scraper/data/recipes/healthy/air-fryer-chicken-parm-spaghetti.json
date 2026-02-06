@@ -1,0 +1,226 @@
+{
+  "id": "8028238",
+  "slug": "air-fryer-chicken-parm-spaghetti",
+  "title": "Air Fryer Chicken Parm & Spaghetti",
+  "url": "https://www.mob.co.uk/recipes/air-fryer-chicken-parm-spaghetti",
+  "summary": "A classic Italian-American recipe that's made for the air fryer. High in protein, and highly satisfying.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/11/Air-Fryer-Chicken-Parm-Spaghetti.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 779,
+    "protein": 54,
+    "fat": 30,
+    "saturated_fat": 9,
+    "carbohydrates": 65,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 940
+  },
+  "ingredients": [
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Breasts",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Spaghetti",
+      "quantity": "150",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Spaghetti",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Plain Flour",
+      "quantity": "20",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Panko Breadcrumbs",
+      "quantity": "30",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Olive Oil",
+      "quantity": "30",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cottage Cheese",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cottage Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Cottage Cheese",
+      "quantity": "60",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large saucepan of salted water to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Peel and thinly slice the garlic. Heat the olive oil in a wide saucepan over a medium heat, then add the garlic and cook for 1–2 mins until just golden."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the chopped tomatoes, season well and let the sauce gently simmer while you prep the chicken."
+    },
+    {
+      "heading": null,
+      "description": "Place the chicken breasts between two sheets of baking paper and bash them to about 1cm thick."
+    },
+    {
+      "heading": null,
+      "description": "Set up a breading station with three plates — one with the flour, one with the beaten egg and one with the breadcrumbs. Season the chicken on both sides with salt and pepper. Dip each piece in the flour, then the egg, then the panko."
+    },
+    {
+      "heading": null,
+      "description": "Cook the spaghetti following pack instructions, reserving a splash of pasta water before draining."
+    },
+    {
+      "heading": null,
+      "description": "Spray the chicken with some oil spray on each side. Transfer the breaded chicken to an air fryer basket and cook at 200°C for 8 mins. Flip and cook for another 8 mins until golden and cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Add the cooked spaghetti to the tomato sauce with half the parmesan and a splash of pasta water. Toss until the sauce clings to the pasta."
+    },
+    {
+      "heading": null,
+      "description": "Divide the saucy spaghetti between two plates. Slice the crispy chicken and lay it on top. Finish with a generous grating of Parmesan and a big dollop of cottage cheese."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Family-Friendly",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-American"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-11-18T14:49:00+00:00"
+}

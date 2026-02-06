@@ -1,0 +1,130 @@
+{
+  "id": "357048",
+  "slug": "cheats-sourdough-tin-loaf",
+  "title": "Cheat’s Sourdough Tin Loaf",
+  "url": "https://www.mob.co.uk/recipes/cheats-sourdough-tin-loaf",
+  "summary": "A no-nonsense sandwich loaf which is soft, airy, and great for everyday baking. Recipe by MOB Contributor Thomas Colson.",
+  "image": "https://files.mob-cdn.co.uk/recipes/DSC_0150-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 1440,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 9,
+    "fat": 3,
+    "saturated_fat": null,
+    "carbohydrates": 63,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 983
+  },
+  "ingredients": [
+    {
+      "label": "100g Bubbly Sourdough Starter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sourdough Starter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Strong White Bread Flour",
+      "quantity": "500",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320ml Lukewarm Water",
+      "quantity": "320",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Salt",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fine Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "The night before you make your dough, take your starter out the fridge and feed it."
+    },
+    {
+      "heading": null,
+      "description": "The next day, mix together the water and flour in a medium mixing bowl and combine until all the flour is absorbed. You should have a loose, shaggy dough. Leave for one hour."
+    },
+    {
+      "heading": null,
+      "description": "Add the salt and starter to your dough and mix with wet hands until it's combined."
+    },
+    {
+      "heading": null,
+      "description": "Transfer the dough to an oiled medium mixing bowl. Cover with a tea towel and let the dough rise in a warm place until it has doubled in size. This usually takes around 12 hours, but can take as little as four."
+    },
+    {
+      "heading": null,
+      "description": "Now transfer your dough to an oiled 26 x 14cm loaf tin taking care not to knock too much of the air out of the dough, and leave to rise for one hour."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 200°C / 392°F. Bake for 15 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Turn the oven down to 180°C / 356°F. Bake for a further 30 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Remove your bread from the oven, transfer it to a wire rack, and leave it to cool for one hour. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-07-25T10:00:00+01:00"
+}

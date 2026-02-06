@@ -1,0 +1,328 @@
+{
+  "id": "1201186",
+  "slug": "birria-tacos",
+  "title": "Birria Tacos Recipe",
+  "url": "https://www.mob.co.uk/recipes/birria-tacos",
+  "summary": "This birria tacos recipe is a game-changer for any dinner party. Tender, fall-apart beef short ribs are slow-cooked in a rich, flavourful broth infused with guajillo peppers, chipotle chillies, and adobo sauce. These tacos are guaranteed to hit the spot.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Birria-Tacos.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 300,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1162,
+    "protein": 71,
+    "fat": 74,
+    "saturated_fat": 33,
+    "carbohydrates": 54,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 1206
+  },
+  "ingredients": [
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Dried Ancho Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Ancho Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Dried Guajillo Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Dried Guajillo Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Dried De Arbol Chillies",
+      "quantity": "6",
+      "unit": null,
+      "name": "Dried De Arbol Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Dried Chipotle Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Chipotles Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Dried Chipotle Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Bay Leaves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Whole Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5kg Beef Short Rib With Bone",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Beef Short Rib",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Beef Stock",
+      "quantity": "750",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tomatoes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Handful Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mozzarella Cheese Block",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mozzarella Cheese Block",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes (to serve)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "15 Corn Tortillas",
+      "quantity": "15",
+      "unit": null,
+      "name": "Corn Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15 Corn Tortillas",
+      "quantity": "15",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly chop the white onion, garlic and the tomatoes for the sauce. Remove the seeds and stems from the dried chillies."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of oil in a large heavy-bottomed pan. Add the beef and sear for 2 mins on every side until nicely browned. Remove the meat to a plate and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the onions to the pot and sauté in the beef fat for 5 mins (add a splash more oil if needed). Add in the garlic, bay leaves, cumin, peppercorns, oregano and your dried chillies. Sauté for 3 mins until fragrant and the spices are toasted."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomatoes and the stock. Bring to a boil and cook for 30 mins. Blend everything in a blender."
+    },
+    {
+      "heading": null,
+      "description": "Return the meat to the pan and top it up with more water if needed so that all the meat is submerged. Simmer with the lid on for a minimum of 4 hours, up to 24 hours."
+    },
+    {
+      "heading": null,
+      "description": "For the salsa, dice up the tomatoes, red onion and chop up the coriander. Mix it in a bowl with a squeeze of lime and salt."
+    },
+    {
+      "heading": null,
+      "description": "Shred the mozzarella and slice up the remaining limes into wedges."
+    },
+    {
+      "heading": null,
+      "description": "Take the meat out of the stew and roughly shred it, place it into another saucepan with a few ladles of sauce to keep it warm. Generously season the broth and meat with salt."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan and dip a corn tortilla into the broth and place it onto the hot pan. Sprinkle a layer of meat and then a layer of shredded cheese. Close the taco and cook gently to melt the cheese and crisp up the shell. Repeat for all the tacos and enjoy with a squeeze of lime, fresh salsa and dipped in the gorgeous broth."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Batch",
+    "High Fibre",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-13T15:13:00+00:00"
+}

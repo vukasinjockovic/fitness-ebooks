@@ -1,0 +1,174 @@
+{
+  "id": "3689521",
+  "slug": "smoky-courgette-dip",
+  "title": "Smoky Courgette Dip",
+  "url": "https://www.mob.co.uk/recipes/smoky-courgette-dip",
+  "summary": "This is my super simple courgette dip. All you need is courgettes, tahini, lemon, olive oil and herbs. It's smokey and delicious and I know you'll love it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/IMG_0213-min.JPG",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 70,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 324,
+    "protein": 5,
+    "fat": 29,
+    "saturated_fat": 4,
+    "carbohydrates": 13,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 56
+  },
+  "ingredients": [
+    {
+      "label": "6 Courgettes",
+      "quantity": "6",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Tahini",
+      "quantity": "40",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4g Chopped Parsley",
+      "quantity": "4",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4g Mint",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of 2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45ml Olive Oil",
+      "quantity": "45",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pomegranate",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pomegranate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sumac (Optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Sumac",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pierce the courgettes all over with a fork."
+    },
+    {
+      "heading": null,
+      "description": "Roast at 200°C for about an hour or until completely blackened, turning once or twice."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and allow to cool. Carefully slice the skin lengthways down the middle and scoop out the flesh with a spoon into a large bowl. Use a fork to mash the courgette into a chunky texture."
+    },
+    {
+      "heading": null,
+      "description": "Add the tahini, lemon, olive oil, salt and pepper and stir through."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the parsley and mint and mix through the dip, saving some for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Serve in a shallow bowl and top with a good drizzle of olive oil, more tahini, pomegranate and sumac if using."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-08-22T16:19:00+01:00"
+}

@@ -1,0 +1,279 @@
+{
+  "id": "5680861",
+  "slug": "bbq-kebab-platter",
+  "title": "Indoor BBQ Kebab Platter",
+  "url": "https://www.mob.co.uk/recipes/bbq-kebab-platter",
+  "summary": "As great as the British summertime is, sun isn’t always guaranteed. The key is in the marinade and in cooking the meat as close to your grill as you can. All made using ingredients we got from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/05/BBQ-kebab.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 677,
+    "protein": 54,
+    "fat": 18,
+    "saturated_fat": 4,
+    "carbohydrates": 74,
+    "dietary_fibre": 6,
+    "sugars": 10,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "1kg Chicken Breast",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Chicken Breast",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Greek Yoghurt",
+      "quantity": "250",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rosemary Leaves",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Mint Leaves",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Zest of 1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Zest",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Hummus",
+      "quantity": "200",
+      "unit": null,
+      "name": "Hummus",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tzatziki",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tzatziki",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Flatbreads",
+      "quantity": "4",
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your grill on full power."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the rosemary, mint and garlic and add to a mixing bowl (reserving a tbsp of the chopped mint) with the yoghurt, lemon zest, chilli, sumac, a tbsp of olive oil and 1 tbsp of salt (remember this is a marinade not a dip!). Cut the chicken into roughly 1 inch cubes and add to the bowl, mix well and set aside at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the onions and chilli and finely chop the parsley. Add everything to a bowl with the lemon juice, sumac, a pinch of salt, and drizzle of olive oil. Mix well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the tomatoes and slice the cucumber and add to a bowl with the reserved mint. Cut both ‘cheeks’ off the lemon and squeeze the middle over the tomatoes and cucumber, add a big pinch of salt and drizzle of olive oil and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Thread the chicken onto skewers and set them over a high-sided oven dish so the meat is suspended. Place under the grill as close as you can get it to the element without touching."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 3 mins, flip the skewers and cook for another three minutes. They should be charred and golden on the outside and cooked through but still juicy in the centre."
+    },
+    {
+      "heading": null,
+      "description": "Spread the hummus over a large platter and top with the skewers. Drain any liquid from the onion and tomato salads and plate them up alongside the skewers. Finish with a drizzle of olive oil and serve with warm flatbreads, lemon slices, extra fresh herbs and sumac and the tzatziki on the side."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2024-06-26T07:00:00+01:00"
+}

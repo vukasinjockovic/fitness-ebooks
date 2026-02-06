@@ -1,0 +1,125 @@
+{
+  "id": "4083756",
+  "slug": "mint-chutney-pudina",
+  "title": "Pudina (Mint) Chutney",
+  "url": "https://www.mob.co.uk/recipes/mint-chutney-pudina",
+  "summary": "We've got the perfect dip for your samosas. Enter, Pudina Chutney. A breeze to make and loaded with flavour – be careful, because she's got a kick.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Pudina-Chutney.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 6,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 2,
+    "dietary_fibre": 1,
+    "sugars": 0,
+    "sodium": 246
+  },
+  "ingredients": [
+    {
+      "label": "1 Small Bunch of Mint",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-3 Birds Eye Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Birds Eye Green Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Anardana (Dried Pomegranate)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Anardana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50-70ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, zest and juice 1 lime. Then, add all of the ingredients into a food processor and blitz into fine paste. Serve with hot samosas and a cup of chai."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-20T08:00:00+00:00"
+}

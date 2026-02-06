@@ -1,0 +1,275 @@
+{
+  "id": "3462652",
+  "slug": "spiced-lamb-burger",
+  "title": "Spiced Lamb Burger",
+  "url": "https://www.mob.co.uk/recipes/spiced-lamb-burger",
+  "summary": "This is my spiced lamb burger. It's hot, juicy, salty, tangy and crunchy. Everything you want out of a burger. @dinnerbyben x",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A8786.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 33,
+    "fat": 25,
+    "saturated_fat": 10,
+    "carbohydrates": 66,
+    "dietary_fibre": 4,
+    "sugars": 11,
+    "sodium": 755
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90ml White Wine Vinegar",
+      "quantity": "90",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Sugar",
+      "quantity": "60",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Coriander Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Lamb Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Lamb Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Harissa Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Feta",
+      "quantity": "120",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Feta",
+      "quantity": "120",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Watercress Or Rocket",
+      "quantity": "15",
+      "unit": null,
+      "name": "Watercress",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Greek Yoghurt",
+      "quantity": "6",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Greek Yoghurt",
+      "quantity": "6",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Ciabatta Rolls",
+      "quantity": "360",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and thinly slice the red onion into rings. Separate the rings and pop them into a heatproof bowl."
+    },
+    {
+      "heading": null,
+      "description": "Add the vinegar and sugar to a small saucepan and bring to a boil. Add 30ml of water, a bay leaf and the coriander seeds. Pour over the onions and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Combine the lamb, harissa, and smoked paprika in a mixing bowl. Season with salt and mix thoroughly for 2-3 mins."
+    },
+    {
+      "heading": null,
+      "description": "Fry off a small piece and taste for seasoning. Add a little more salt or spice if you fancy, and form into four burger patties."
+    },
+    {
+      "heading": null,
+      "description": "Slice up your feta, drain your pickled onions, and wash the watercress."
+    },
+    {
+      "heading": null,
+      "description": "Coarsely grate the cucumber, season with salt and squeeze over a sieve to remove the excess moisture."
+    },
+    {
+      "heading": null,
+      "description": "Add to a bowl with the yoghurt, season with salt and mix."
+    },
+    {
+      "heading": null,
+      "description": "Toast off your buns and slice up and season the tomato with salt, pepper and olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Preheat your cast iron pan over a medium-high heat."
+    },
+    {
+      "heading": null,
+      "description": "Cook the burgers, giving them a gentle smash as they hit the pan, until they’re sitting around medium doneness. This should take about 4-5 mins on each side."
+    },
+    {
+      "heading": null,
+      "description": "Now, time to build. Start with the bottom bun, a spoon of the cucumber yoghurt, top with a slice of tomato and the lamb burger. Now add some sliced feta, a handful of pickled onions and watercress. Finish with more cucumber yoghurt and the lid."
+    },
+    {
+      "heading": null,
+      "description": "Smash it in half, and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-05-31T12:00:00+01:00"
+}

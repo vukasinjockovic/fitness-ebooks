@@ -1,0 +1,197 @@
+{
+  "id": "7102672",
+  "slug": "cherry-bakewell-overnight-oats",
+  "title": "Cherry Bakewell Overnight Oats",
+  "url": "https://www.mob.co.uk/recipes/cherry-bakewell-overnight-oats",
+  "summary": "Bakewell, but for breakfast. Creamy oats layered with sweet syrupy cherries, crunchy toasted almonds and a dreamy almond butter topping. Need we say more?",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Cherry-Bakewell-Overnight-Oats.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 18,
+    "fat": 16,
+    "saturated_fat": 3,
+    "carbohydrates": 34,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 74
+  },
+  "ingredients": [
+    {
+      "label": "50g Flaked Almonds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Jumbo Oats",
+      "quantity": "150",
+      "unit": null,
+      "name": "Jumbo Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Semi-Skimmed Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Semi-Skimmed Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Semi-Skimmed Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Greek Yoghurt",
+      "quantity": "200",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Almond Extract",
+      "quantity": "2",
+      "unit": null,
+      "name": "Almond Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Protein Powder (optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Protein Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Almond Butter",
+      "quantity": "3",
+      "unit": null,
+      "name": "Almond Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Maple Syrup",
+      "quantity": "3",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Frozen Cherries",
+      "quantity": "200",
+      "unit": null,
+      "name": "Pitted Frozen Cherries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Spread the flaked almonds onto a baking tray and toast for 12 mins until golden. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chuck the oats into a bowl with the yoghurt, milk, vanilla extract, half the almond extract and the protein powder, if using. Mix well to combine, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, stir together the almond butter, the remaining almond extract, two-thirds of the maple syrup and a pinch of salt. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Tip the frozen cherries into a small saucepan with the rest of the maple syrup. Set over a low-medium heat and cook until the cherries have defrosted and are starting to release their juices. Roughly mash with a potato masher, leaving a few chunky bits."
+    },
+    {
+      "heading": null,
+      "description": "Spoon the cherry mixture into the bottom of your containers. Top with the oats, then drizzle over the almond butter mixture. Finish with a scattering of toasted flaked almonds."
+    },
+    {
+      "heading": null,
+      "description": "Cover and place in the fridge overnight."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Batch",
+    "Make-Ahead Breakfasts"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-07T07:00:00+01:00"
+}

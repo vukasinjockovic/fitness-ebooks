@@ -1,0 +1,311 @@
+{
+  "id": "3535726",
+  "slug": "gochujang-tofu-rice-bowl",
+  "title": "Gochujang Tofu Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/gochujang-tofu-rice-bowl",
+  "summary": "Crispy tofu coated in a sweet and spicy sauce, served with quick-pickled veg and sticky rice, an epic recipe that's perfect for meal prepping. We got all the ingredients for this recipe from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/10/Gochujang-Tofu-Rice-Bowl.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 22,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 98,
+    "dietary_fibre": 4,
+    "sugars": 23,
+    "sodium": 753
+  },
+  "ingredients": [
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Radishes",
+      "quantity": "30",
+      "unit": null,
+      "name": "Radish",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Apple Cider Vinegar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Water",
+      "quantity": "150",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "560g Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Firm Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "560g Firm Tofu",
+      "quantity": "560",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Cornflour",
+      "quantity": "80",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Gochujang",
+      "quantity": "2",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Ketchup",
+      "quantity": "3",
+      "unit": null,
+      "name": "Tomato Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Maple Syrup",
+      "quantity": "2",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Water",
+      "quantity": "3",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Sushi Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Sushi Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "White/Black Toasted Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mince your garlic and slice your spring onion. Set aside in separate bowls."
+    },
+    {
+      "heading": null,
+      "description": "Peel your carrot and slice it into long strips. Halve your cucumber, remove the seeds, and then slice it into long strips like the carrot. Cut the tops off your radishes and thinly slice them. Place your prepped veg in a glass jar or deep bowl."
+    },
+    {
+      "heading": null,
+      "description": "Get a pot on medium heat and add your sugar, water and apple cider vinegar. Bring to a simmer then take it off the heat. Leave to cool then pour over your veg."
+    },
+    {
+      "heading": null,
+      "description": "Now, cook your sushi rice according to package instructions."
+    },
+    {
+      "heading": null,
+      "description": "Cut your tofu into small pieces and pat dry with a paper towel, this will absorb the water from the tofu."
+    },
+    {
+      "heading": null,
+      "description": "Place your tofu with the cornflour and garlic powder in a plastic bag or sealed container and give it a good shake."
+    },
+    {
+      "heading": null,
+      "description": "Get a wide, flat pan on medium heat, pour in a good glug of oil – enough so that it sits around 1½ cm high."
+    },
+    {
+      "heading": null,
+      "description": "When your oil is ready, give your tofu a shake to get rid of excess cornflour before popping it into your pan and frying until crispy. Place the fried tofu cubes on a paper towel-lined plate or sieve."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine your gochujang, soy sauce, ketchup, maple syrup, rice wine vinegar, sesame oil, and water with your minced garlic in a small bowl. Pour this mix into a pan and bring to a simmer. Take it off the heat and add your fried tofu, giving it a good toss."
+    },
+    {
+      "heading": null,
+      "description": "Serve your tofu with steamed rice, pickled veg and garnish with spring onions and toasted sesame seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Batch"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-12-17T12:00:00+00:00"
+}

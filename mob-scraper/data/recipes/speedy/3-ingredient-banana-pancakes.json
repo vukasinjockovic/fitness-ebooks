@@ -1,0 +1,104 @@
+{
+  "id": "3188699",
+  "slug": "3-ingredient-banana-pancakes",
+  "title": "Banana Pancakes",
+  "url": "https://www.mob.co.uk/recipes/3-ingredient-banana-pancakes",
+  "summary": "Minimal ingredients. Maximum flavour. A staple pancake topping — bananas. These Banana Pancakes take just minutes to prepare, and the pay off is outrageous.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/02/Banana-Pancakes.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 143,
+    "protein": 5,
+    "fat": 2,
+    "saturated_fat": 1,
+    "carbohydrates": 26,
+    "dietary_fibre": 2,
+    "sugars": 8,
+    "sodium": 82
+  },
+  "ingredients": [
+    {
+      "label": "3 Bananas",
+      "quantity": "3",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Eggs",
+      "quantity": "3",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Self-Raising Flour",
+      "quantity": "6",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mash up the bananas in the bowl and add in the eggs and flour. Whisk until combined, don't worry if it's not totally smooth."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large non-stick frying pan over medium heat, brush over some vegetable oil, and a ladle of pancake batter."
+    },
+    {
+      "heading": null,
+      "description": "Cook on a low/medium heat for 3 mins on either side."
+    },
+    {
+      "heading": null,
+      "description": "Serve on a plate with your favourite toppings, our favourite is maple syrup and butter."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch",
+    "Snacks"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-16T11:02:00+00:00"
+}

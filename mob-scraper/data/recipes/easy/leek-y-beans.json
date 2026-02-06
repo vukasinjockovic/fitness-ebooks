@@ -1,0 +1,198 @@
+{
+  "id": "4777868",
+  "slug": "leek-y-beans",
+  "title": "Leek-y Beans",
+  "url": "https://www.mob.co.uk/recipes/leek-y-beans",
+  "summary": "High protein, high flavour, and low effort. These leek-y beans are a dreamy weeknight dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Leek-y-Beans.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 18,
+    "fat": 5,
+    "saturated_fat": 1,
+    "carbohydrates": 54,
+    "dietary_fibre": 13,
+    "sugars": 7,
+    "sodium": 642
+  },
+  "ingredients": [
+    {
+      "label": "750g Leeks",
+      "quantity": "750",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins of Butter Beans",
+      "quantity": "3",
+      "unit": null,
+      "name": "Butter Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins of Butter Beans",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Natural Yoghurt, To Serve",
+      "quantity": "100",
+      "unit": null,
+      "name": "Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "100g Natural Yoghurt, To Serve",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Toasted Pumpkin Seeds, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the leeks, then tip the leeks into a large bowl and rinse well with cold water."
+    },
+    {
+      "heading": null,
+      "description": "Add a glug of olive oil to a large frying pan over a medium high heat, add the leeks along with a big pinch of salt and sizzle, stirring often, until softened, around 10-15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely slice the garlic and roughly chop most of the parsley, saving some leaves to serve."
+    },
+    {
+      "heading": null,
+      "description": "Add the sliced garlic and fennel seeds and cook for a min, then add the butter beans, along with the water from the cans. Add the stock cube and Dijon and bring to the boil. Bubble for 10 mins, until thickened, use a spoon to crush the beans a little to thicken it further."
+    },
+    {
+      "heading": null,
+      "description": "Add the juice of the lemon and the chopped parsley, season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Spoon into bowls and top with a drizzle of yoghurt, toasted pumpkin seeds and parsley leaves. Finish with a big crack of black pepper."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Most Cooked",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2025-01-17T07:30:00+00:00"
+}

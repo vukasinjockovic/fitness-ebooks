@@ -1,0 +1,184 @@
+{
+  "id": "1142025",
+  "slug": "salted-caramel-blondies",
+  "title": "Salted Caramel Blondies",
+  "url": "https://www.mob.co.uk/recipes/salted-caramel-blondies",
+  "summary": "Liam's salted caramel blondies, a perfect combination of sweet and salty marbled with Dr. Oetker White Chocolate Chunks for an added richness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A4841-10.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 523,
+    "protein": 5,
+    "fat": 28,
+    "saturated_fat": 17,
+    "carbohydrates": 64,
+    "dietary_fibre": 1,
+    "sugars": 44,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "250g Butter",
+      "quantity": "250",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Soft Toffees",
+      "quantity": "100",
+      "unit": null,
+      "name": "Soft Toffee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Light Brown Sugar",
+      "quantity": "300",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dr. Oetker Vanilla Bean Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Bean Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dr. Oetker Caramel Flavour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caramel Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sea Salt Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "170g Plain Flour",
+      "quantity": "170",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dr. Oetker Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70ml Whole Milk",
+      "quantity": "70",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dr. Oetker White Chocolate Chunks",
+      "quantity": "100",
+      "unit": null,
+      "name": "White Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Dr. Oetker White Chocolate Chunks",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat oven to 160°C."
+    },
+    {
+      "heading": null,
+      "description": "Line a 20cm square tin with butter and baking parchment. Melt the butter in a small saucepan or microwave."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add your toffees to a small saucepan with 20ml milk. Heat over a low heat until you have a thick caramel. Season with a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Whisk your brown sugar into the melted butter, then add your eggs, vanilla bean, Dr Oetker caramel flavouring, sea salt flakes and 50ml milk. Whisk until you have a thick and silky mixture."
+    },
+    {
+      "heading": null,
+      "description": "Sift in your flour and baking powder, then fold through the mixture. Add all but a handful of white chocolate chunks and fold these through the mixture."
+    },
+    {
+      "heading": null,
+      "description": "Pour your mixture into your tin. Bake for 25 minutes, then remove from the oven and add your remaining white chocolate chunks and a drizzle of your salted caramel. Return to the oven for another 15 minutes. They will have set edges but a slightly jiggly middle when set."
+    },
+    {
+      "heading": null,
+      "description": "Leave to cool to room temperature. Chill in the fridge for a couple of hours - this will give them their super fudgy texture. Cut into squares and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-12-09T13:32:00+00:00"
+}

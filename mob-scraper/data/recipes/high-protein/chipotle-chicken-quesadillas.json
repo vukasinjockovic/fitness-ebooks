@@ -1,0 +1,318 @@
+{
+  "id": "3522617",
+  "slug": "chipotle-chicken-quesadillas",
+  "title": "Chipotle Chicken Quesadillas",
+  "url": "https://www.mob.co.uk/recipes/chipotle-chicken-quesadillas",
+  "summary": "Quesadillas on the barbecue? Go on then. These chicken quesadillas are dead simple and we’ve used the Weber Crafted Griddle to give them a proper char. B x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/06/Chipotle-Chicken-Quesadillas.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 729,
+    "protein": 44,
+    "fat": 41,
+    "saturated_fat": 19,
+    "carbohydrates": 46,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1022
+  },
+  "ingredients": [
+    {
+      "label": "2 Large Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Skinless Chicken Thigh Fillets",
+      "quantity": "500",
+      "unit": null,
+      "name": "Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Skinless Chicken Thigh Fillets",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chipotle Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chipotle Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Granules",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chipotle Paste",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tortillas",
+      "quantity": "6",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Grated Cheddar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Grated Cheddar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Grated Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Grated Mozzarella",
+      "quantity": "250",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the Weber Crafted Griddle over high heat."
+    },
+    {
+      "heading": null,
+      "description": "Toss the tomatoes, red onion and chillies in vegetable oil and grill until very charred."
+    },
+    {
+      "heading": null,
+      "description": "Transfer to a cutting board and chop together with the juice of one lime, fresh coriander and a generous pinch of salt until a chunky salsa forms. Alternatively, you can do this with a mortar and pestle. Refrigerate until ready to use."
+    },
+    {
+      "heading": null,
+      "description": "Slice the chicken and the large onion, and place in a mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Combine the chipotle chilli flakes, ground cumin, smoked paprika, garlic granules, chipotle paste and ½ teaspoon salt in a small bowl. Add the spice mix to the chicken with a splash of vegetable oil and toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "Heat the Weber Crafted Griddle on a medium-high heat. Cook the chicken, stirring often, until cooked through and charred in places."
+    },
+    {
+      "heading": null,
+      "description": "Combine the cheeses in a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Place a small handful of cheese on half of a flour tortilla. Add a good dollop of the chipotle chicken mix and top with another small handful of cheese. Fold the tortilla half over the filling, pressing to smoosh it down, then brush with oil. Repeat with the remaining tortillas."
+    },
+    {
+      "heading": null,
+      "description": "Heat the Weber Crafted Griddle over medium heat. Cook the quesadillas until browned on the outside and gooey in the middle, around 2 to 3 mins per side. Cut the lime into 4 wedges."
+    },
+    {
+      "heading": null,
+      "description": "Serve topped with the charred salsa and lime wedges."
+    },
+    {
+      "heading": null,
+      "description": "Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-22T17:00:00+01:00"
+}

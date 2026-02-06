@@ -1,0 +1,422 @@
+{
+  "id": "6460895",
+  "slug": "korean-japchae-noodles-with-garlicky-beef",
+  "title": "Korean Japchae Noodles with Garlicky Beef",
+  "url": "https://www.mob.co.uk/recipes/korean-japchae-noodles-with-garlicky-beef",
+  "summary": "This quick and delicious Korean noodle recipe is inspired by Japchae, using sweet potato noodles and sticky gochujang beef.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Korean-Sweet-Potato-Noodles-with-Garlicky-Beef.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 728,
+    "protein": 41,
+    "fat": 34,
+    "saturated_fat": 7,
+    "carbohydrates": 66,
+    "dietary_fibre": 8,
+    "sugars": 17,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "115g Sweet Potato Noodles",
+      "quantity": "115",
+      "unit": null,
+      "name": "Sweet Potato Noodles",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115g Sweet Potato Noodles",
+      "quantity": "115",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sirloin Steak",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sirloin Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sirloin Steak",
+      "quantity": "250",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Spinach",
+      "quantity": "200",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Bell Pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Yellow Bell Pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Yellow Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Shiitake Mushrooms",
+      "quantity": "150",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "4",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Salt",
+      "quantity": ".25",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Black Pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Corn Flour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Water",
+      "quantity": "2",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Gochujang",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1/2 Tbsp Sugar",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Gochujang",
+      "quantity": "1",
+      "unit": null,
+      "name": "Gochujang",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Toasted Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Rice Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Black pepper",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Kimchee",
+      "quantity": null,
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Boiled Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Lettuce",
+      "quantity": null,
+      "unit": null,
+      "name": "Sweet Gem Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Soak the sweet potato noodles in warm water. Drain and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the beef into 1 inch strips and set aside any large chunks of fat from the steak (you can use this later for frying). Mix all the marinade ingredients together in a large container and add the beef. Massage the marinade into the meat for 1 min then set aside in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Bring a medium-sized pot of water to a boil. Add all the spinach and cook for 1 min, then use a sieve to remove. Leave to cool then squeeze out all the excess water with your hands. Set aside in a large mixing bowl. In the same boiling water add your eggs and cook for 5 mins (go for a little shorter if you've got smaller eggs), then remove, peel and set aside for later."
+    },
+    {
+      "heading": null,
+      "description": "Cook the noodles in the same boiling water following pack instructions then drain and set aside in a large mixing bowl. Add a generous glug of sesame oil and toss well to prevent sticking. Cut the noodles a few times with scissors (this will make them easier to mix later)."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, finely slice the white onion, carrot, bell peppers, and shiitake mushroom into matchsticks, mince the garlic and slice the spring onions into chunks."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large pan over a high heat then add a splash of sesame oil along with any leftover pieces of beef fat (if using) and cook until lightly golden. Add the white onions and spring onions with a pinch of salt for 2 mins until lightly charred then tip into the large mixing bowl with the noodles."
+    },
+    {
+      "heading": null,
+      "description": "Next add the bell peppers and carrots to the pan and cook for another minute, adding a splash more sesame oil if needed. Cook just until lightly charred then tip into the large mixing bowl with the noodles and other veggies."
+    },
+    {
+      "heading": null,
+      "description": "Heat up the same pan with a splash of sesame oil. Add the mushrooms and cook for 2 mins until golden."
+    },
+    {
+      "heading": null,
+      "description": "Add the beef and its marinade to the pan, give it a quick toss and then lay each piece of beef flat against the pan. Cook for a minute on each side then turn off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Add the beef and mushrooms to the bowl with the noodles and veggies and toss well to combine. Add the rice vinegar to the hot pan to deglaze it then scrape all the juices into the mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "To make the noodle sauce, crush the garlic and mix all the ingredients together in a medium bowl. Then add this sauce to the large mixing bowl with the noodles, veggies and beef. Toss very well, using tongs or clean/gloved hands."
+    },
+    {
+      "heading": null,
+      "description": "Divide between bowls and top with the sesame seeds. Serve with lettuce cups, boiled eggs and kimchi, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-14T01:00:00+01:00"
+}

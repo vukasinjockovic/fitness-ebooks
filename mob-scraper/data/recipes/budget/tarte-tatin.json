@@ -1,0 +1,170 @@
+{
+  "id": "2605821",
+  "slug": "tarte-tatin",
+  "title": "Jordon's Tarte Tatin",
+  "url": "https://www.mob.co.uk/recipes/tarte-tatin",
+  "summary": "I learnt to make this in Paris and I look forward to it every Autumn. So simple and so comforting. Jordon x",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Jordons-Tarte-Tatin.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 120,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 266,
+    "protein": 2,
+    "fat": 13,
+    "saturated_fat": 7,
+    "carbohydrates": 35,
+    "dietary_fibre": 2,
+    "sugars": 19,
+    "sodium": 78
+  },
+  "ingredients": [
+    {
+      "label": "300g Puff Pastry",
+      "quantity": "300",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Medium or 5 Large Braeburn Apples",
+      "quantity": "6",
+      "unit": null,
+      "name": "Braeburn Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Medium or 5 Large Braeburn Apples",
+      "quantity": "6",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Thick Double Cream or Vanilla Ice Cream",
+      "quantity": null,
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 170°C."
+    },
+    {
+      "heading": null,
+      "description": "Roll out the puff pastry to around 5mm thick."
+    },
+    {
+      "heading": null,
+      "description": "Using the base of the frying pan as a guide, cut a circle of the pastry slightly larger than the base."
+    },
+    {
+      "heading": null,
+      "description": "Prick gently all over with a fork and place into the freezer for at least half an hour."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, peel, quarter and core all of the apples."
+    },
+    {
+      "heading": null,
+      "description": "Melt the sugar in the same frying pan over a low heat. Do not stir, just tilt and shake the pan gently to move the sugar as it melts. You want it to darken somewhat but stay away from dark brown."
+    },
+    {
+      "heading": null,
+      "description": "Once all of the sugar has melted, roughly cube and stir in the butter until it has melted."
+    },
+    {
+      "heading": null,
+      "description": "Place the apples round side down into the pan, fit as many as you can in one layer. Sprinkle with a generous pinch of sea salt."
+    },
+    {
+      "heading": null,
+      "description": "Place into the oven for 25 mins to bake the apples."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pastry disc from the freezer, place over the apples and tuck the edges down a little. Use a knife to prick a few holes in the pastry to allow air to escape as the pastry rises."
+    },
+    {
+      "heading": null,
+      "description": "Place back into the oven for 30 to 40 mins until the pastry is lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and allow to cool for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Place a plate slightly bigger than the the pan over the top and flip the tarte tatin over. Slice and serve warm with a dollop of thick cream or a scoop of vanilla ice cream."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-10-23T17:00:00+01:00"
+}

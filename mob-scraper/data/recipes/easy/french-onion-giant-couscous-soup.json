@@ -1,0 +1,185 @@
+{
+  "id": "6752796",
+  "slug": "french-onion-giant-couscous-soup",
+  "title": "French Onion Giant Couscous Soup",
+  "url": "https://www.mob.co.uk/recipes/french-onion-giant-couscous-soup",
+  "summary": "This slow-cooked onion and mushroom soup is an absolute flavour bomb, packed with layers of umami and chewy goodness.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/French-Onion-Giant-Couscous-Soup.jpg",
+  "cook_time": 120,
+  "prep_time": 15,
+  "total_time": 135,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 312,
+    "protein": 8,
+    "fat": 12,
+    "saturated_fat": 5,
+    "carbohydrates": 41,
+    "dietary_fibre": 5,
+    "sugars": 9,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "6 Large Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Butter",
+      "quantity": "2",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mixed Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mixed Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mixed Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dry White Wine",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Chicken Stock",
+      "quantity": "750",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Pearl Couscous",
+      "quantity": "160",
+      "unit": null,
+      "name": "Pearl Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "160g Pearl Couscous",
+      "quantity": "160",
+      "unit": null,
+      "name": "Couscous",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Single Cream",
+      "quantity": "2",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and thinly slice the onions. Heat a generous glug of olive oil in a pot or deep pan set over a medium heat. Add the onions and cook for 30 mins, stirring frequently."
+    },
+    {
+      "heading": null,
+      "description": "When the 30 mins is up, stir in the butter (or more olive oil if keeping things vegan) and continue stirring for a further 45 mins. At this point, the onions should have reduced significantly in volume and be super fragrant and dark."
+    },
+    {
+      "heading": null,
+      "description": "Slice the mushrooms and add them to the pot, stirring for another 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Deglaze the pot with the dry white wine and soy sauce. Continue cooking until the liquid has been absorbed by the onions and mushrooms."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the stock and bring the mixture to a boil, then reduce the heat to a simmer, add the pearl couscous, and cook for 15 mins. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, slice the spring onions for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Divide the dish across four bowls and garnish with sliced spring onions, a drizzle of olive oil, and a dash of single cream (or vegan creamer if you prefer)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French",
+    "French-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T10:17:00+01:00"
+}

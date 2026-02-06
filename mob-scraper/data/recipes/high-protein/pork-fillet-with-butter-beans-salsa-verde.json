@@ -1,0 +1,277 @@
+{
+  "id": "4072561",
+  "slug": "pork-fillet-with-butter-beans-salsa-verde",
+  "title": "Pork Fillet with Butter Beans & Salsa Verde",
+  "url": "https://www.mob.co.uk/recipes/pork-fillet-with-butter-beans-salsa-verde",
+  "summary": "Pork fillet is taken to the next level in this recipe with the addition of creamy butter beans and a dreamy salsa verde. Prepare to fall in love.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Pork-Fillet-with-Butter-Beans.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 39,
+    "fat": 33,
+    "saturated_fat": 8,
+    "carbohydrates": 23,
+    "dietary_fibre": 7,
+    "sugars": 3,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "1 Pork Tenderloin, Around 500g",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork Loin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pork Tenderloin, Around 500g",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Shallots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Celery Stick",
+      "quantity": "40",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Shallots",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 400g Tin of Butter Beans",
+      "quantity": "1",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Chicken Stock",
+      "quantity": "250",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Parmesan",
+      "quantity": "60",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Parmesan Rind",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parmesan Rind",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Shallots",
+      "quantity": "3",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80ml Red Wine Vinegar",
+      "quantity": "80",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Sage",
+      "quantity": "20",
+      "unit": null,
+      "name": "Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Fresh Parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Olive Oil",
+      "quantity": "60",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Of Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tenderstem Broccoli",
+      "quantity": null,
+      "unit": null,
+      "name": "Tenderstem Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Tenderstem Broccoli",
+      "quantity": null,
+      "unit": null,
+      "name": "Broccoli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200ºC fan."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pork tenderloin from the fridge. Pat dry, rub with olive oil and season with salt and pepper. Leave on the side to bring up to room temperature whilst you prep the rest of the meal."
+    },
+    {
+      "heading": null,
+      "description": "For the butter beans, mince the garlic and finely dice the celery and shallots. Heat a glug of olive oil in a large pan over a medium heat. Add the garlic, celery and shallots with a pinch of salt and sweat down for 10 mins until softened."
+    },
+    {
+      "heading": null,
+      "description": "To prep the salsa verde, fry off the sage in a hot frying pan with a drizzle of olive oil for around 30 seconds. Drain on a kitchen towel then roughly chop and set aside. Dice the shallots and add them to a bowl with the red wine vinegar. Mix to combine and leave for 15 mins to lightly pickle."
+    },
+    {
+      "heading": null,
+      "description": "For the pork, roughly chop the shallots and get them in an oven tray. Sear the pork in a hot frying pan on all sides then place it on top of the sliced shallots, in the oven tray. Roast for 15 mins, turning halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Back to the butter beans: pour the drained beans into the pot with the softened celery, shallots and garlic. Add the chicken stock and Parmesan rind. Bring to a simmer and leave to gently bubble away for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "When the pork is cooked, remove from the oven, cover in foil and leave to rest for 10 mins then cut into thick slices."
+    },
+    {
+      "heading": null,
+      "description": "To finish off the salsa verde, chop the parsley and get it in a separate bowl with the olive oil and a pinch of salt. Add the pickled shallots and ⅔ of the red wine vinegar. Stir through the chopped sage and season with more salt and red wine vinegar to taste."
+    },
+    {
+      "heading": null,
+      "description": "To finish off the beans, remove the Parmesan rind, grate in the Parmesan and season with salt and black pepper."
+    },
+    {
+      "heading": null,
+      "description": "Divide the beans between bowls then top with a few slices of pork and a spoonful of salsa verde. Serve with the roasted shallots and some Tenderstem broccoli, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Low Carb",
+    "High Fibre",
+    "Adventurous",
+    "Gut-Friendly",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-20T08:00:00+01:00"
+}

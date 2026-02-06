@@ -1,0 +1,271 @@
+{
+  "id": "6015586",
+  "slug": "aloo-matar-recipe",
+  "title": "Easy Aloo Matar",
+  "url": "https://www.mob.co.uk/recipes/aloo-matar-recipe",
+  "summary": "This quick and easy (yet extremely delicious) potato and pea curry is a staple in homes across India, particularly in the north. I love eating it with steamed basmati rice drizzled with ghee, or simple rotis.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Aloo-Matar-Recipe.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 143,
+    "protein": 4,
+    "fat": 3,
+    "saturated_fat": 0,
+    "carbohydrates": 27,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "4 Medium Potatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3g Fresh Ginger",
+      "quantity": "3",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Coriander (5g)",
+      "quantity": "5",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Red Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Kashmiri Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Ground Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¾ Tsp Ground Coriander",
+      "quantity": "0.75",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Crushed Red Chillies",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Crushed Red Chillies",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Can Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Water",
+      "quantity": "700",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Frozen Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Frozen Peas",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and chop the potatoes into 3cm chunks. Transfer to a bowl and wash well to get rid of the excess starch."
+    },
+    {
+      "heading": null,
+      "description": "Trim and finely chop the onion. Finely grate or mince the ginger and garlic. Thinly slice half the coriander."
+    },
+    {
+      "heading": null,
+      "description": "Add a drizzle of oil to a wok or saucepan and place over a medium heat. Once the oil is hot, add the bay leaves and cumin seeds. Fry until they splutter. Add the onions with a pinch of salt and cook for 3-4 mins until softened. Add the ginger and garlic, fry until fragrant, then stir through the powdered spices and crushed chillies."
+    },
+    {
+      "heading": null,
+      "description": "Pour the canned tomatoes in and cook for 8-10 mins until thickened. Add the potatoes and the water and bring to a boil then turn the heat down to medium and cook, uncovered, for 25-30 mins until the potatoes have softened. Once the potatoes are cooked through, add a splash of water to loosen, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Add the peas and cook until hot. Stir through the chopped coriander and season with salt and lime juice."
+    },
+    {
+      "heading": null,
+      "description": "Serve immediately, garnished with the remaining fresh coriander."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Healthy",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian",
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Karan Gokani",
+      "uri": "chefs/karan-gokani",
+      "summary": "Karan Gokani is a restaurateur, author, cook and co-founder of Hoppers Restaurants. He has contributed to major publications and appeared on shows like BBC’s Saturday Kitchen and MasterChef UK."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-29T14:28:00+01:00"
+}

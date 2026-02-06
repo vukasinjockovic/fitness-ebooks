@@ -1,0 +1,173 @@
+{
+  "id": "6752851",
+  "slug": "purple-cabbage-soup",
+  "title": "Purple Cabbage Soup",
+  "url": "https://www.mob.co.uk/recipes/purple-cabbage-soup",
+  "summary": "This soup is beautiful and delicious, and it doesn’t hurt that the anthocyanins in red cabbage are full of antioxidants.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Purple-Cabbage-Soup_2024-11-01-141527_xdzb.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 230,
+    "protein": 5,
+    "fat": 17,
+    "saturated_fat": 5,
+    "carbohydrates": 14,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 430
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium-Sized Red Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Potatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Chicken Broth",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Chicken Broth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Single Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Chives",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "35g Pistachios",
+      "quantity": "35",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Fresh Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and chop the onions and garlic. Heat a few spoons of olive oil in a large pot over medium heat then add the onions and garlic and sauté for about 5 mins, or until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the cabbage into chunks, and peel and dice the potatoes. Add to the pot, season with salt and pepper to taste, then sauté for an additional 5\t mins to allow the flavours to meld."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the broth and bring to a gentle boil. Reduce the heat to low, cover, and simmer for about 20 mins, or until the potatoes are fork-tender. Transfer the mixture to a blender and blitz until very smooth, adding the cream as you blend. Taste and adjust seasoning with more salt and pepper, if necessary."
+    },
+    {
+      "heading": null,
+      "description": "Ladle the soup into bowls. Roughly chop the chives, pistachios and parsley. Garnish the soups with a drizzle of olive oil, and sprinkle with the chives, pistachios, and fresh parsley."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Accessible Method"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T10:23:00+01:00"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "7064868",
+  "slug": "lunch-dressing-green-kefir-dressing",
+  "title": "Green Kefir Dressing",
+  "url": "https://www.mob.co.uk/recipes/lunch-dressing-green-kefir-dressing",
+  "summary": "A kefir-packed dressing that's so good you could drink it. This is what summer's all about.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/4/Green-Kefir-Dressing.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 168,
+    "protein": 3,
+    "fat": 17,
+    "saturated_fat": 3,
+    "carbohydrates": 3,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "5-6 Anchovies (Optional)",
+      "quantity": "30",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Chives (20g)",
+      "quantity": "20",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Yeo Valley Organic Kefir Natural Yogurt",
+      "quantity": "60",
+      "unit": null,
+      "name": "Kefir",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Olive Oil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Scoop the avocado into a blender. Add the chives, the basil, anchovies and lime juice with the olive oil, blend until smooth. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Pour the kefir into the dressing, giving it a quick whizz until mixed. Taste and season with salt and pepper. Set aside in the fridge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sauces"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-03-27T00:00:00+00:00"
+}

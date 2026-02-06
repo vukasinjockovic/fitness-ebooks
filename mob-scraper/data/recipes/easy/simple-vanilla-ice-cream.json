@@ -1,0 +1,130 @@
+{
+  "id": "6797935",
+  "slug": "simple-vanilla-ice-cream",
+  "title": "Vanilla Ice Cream",
+  "url": "https://www.mob.co.uk/recipes/simple-vanilla-ice-cream",
+  "summary": "Making your own ice cream is easier than you think, and it’s so much better than shop-bought. This one is creamy and luxurious with fresh vanilla pods. Perfection.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Vanilla-Ice-Cream.jpg",
+  "cook_time": 5,
+  "prep_time": 150,
+  "total_time": 155,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 230,
+    "protein": 3,
+    "fat": 16,
+    "saturated_fat": 10,
+    "carbohydrates": 17,
+    "dietary_fibre": null,
+    "sugars": 17,
+    "sodium": 36
+  },
+  "ingredients": [
+    {
+      "label": "300ml Whole Milk",
+      "quantity": "300",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vanilla Pod",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Egg Yolks",
+      "quantity": "8",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Double Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pour the milk into a pan, add the vanilla pod and bring slowly up to scalding point – do not let it reach the boil. Cover the surface with clingfilm to prevent a skin forming, then leave to cool and infuse with the vanilla for approximately 1 hour. Once cool, carefully remove the vanilla pod from the pan and scrape out the seeds into the milk."
+    },
+    {
+      "heading": null,
+      "description": "Tip a bag of ice cubes into the sink and place a large wide metal bowl on top, to chill the bowl. Alternatively place a metal bowl in the freezer."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, beat together the egg yolks and sugar until thick and fluffy – approximately 4 mins. Pour in the vanilla milk and stir until you get a thin custard."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture into a clean heavy-bottomed pan, place over a medium heat and stir continuously with a wooden spoon as you slowly bring it nearly to the boil. When the custard has thickened and the foam bubbles on the surface have disappeared, remove it from the heat, whisk it for a couple of mins with a large balloon whisk (this will help it to cool quicker), then pour into your cold, dry metal bowl."
+    },
+    {
+      "heading": null,
+      "description": "Leave it to cool for approximately 10 mins, stirring occasionally to prevent a skin forming."
+    },
+    {
+      "heading": null,
+      "description": "If churning in an ice cream maker: turn on your ice cream maker. Once the mixture has cooled, stir in the cream, churn in the ice cream maker for 30–35 mins, then transfer to an ice cream container and place in the freezer to set completely."
+    },
+    {
+      "heading": null,
+      "description": "If churning by hand: once the mixture is cool, put it into the fridge for 1-2 hours. Remove, stir in the cream and transfer to an ice cream container. Pop it in the freezer for half an hour, then give it a churn with a spoon returning to the freezer to set completely."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-08T11:05:00+01:00"
+}

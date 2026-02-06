@@ -1,0 +1,227 @@
+{
+  "id": "1727323",
+  "slug": "kung-pao-quorn",
+  "title": "Kung Pao Quorn",
+  "url": "https://www.mob.co.uk/recipes/kung-pao-quorn",
+  "summary": "Our veggie take of the classic Chinese takeaway with juicy tender Quorn Pieces. Packed with chillies, Sichuan peppercorns and peanuts for a mouth-watering bite.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/QuornKungPao.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 258,
+    "protein": 15,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 17,
+    "dietary_fibre": 4,
+    "sugars": 3,
+    "sodium": 527
+  },
+  "ingredients": [
+    {
+      "label": "500g Quorn Pieces",
+      "quantity": "500",
+      "unit": null,
+      "name": "Quorn Pieces",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cornflour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Shaoxing Wine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Shaoxing Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onions",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4cm Knob of Ginger",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10 Dried Long Chillies",
+      "quantity": "10",
+      "unit": null,
+      "name": "Dried Long Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sichuan Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chinese Black Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chinese Black Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Pinch Of Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Salted Peanuts",
+      "quantity": "50",
+      "unit": null,
+      "name": "Salted Roasted Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pop the frozen Quorn Pieces in a bowl and toss with 1 tbsp of soy sauce, 1 tbsp of cornflour, 1 tbsp of Shaoxing wine and a pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Chop the whites of the spring onions into large chunks, a similar size to the Quorn Pieces. Finely slice the green part and keep it separate. Grate the ginger and the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Remove the seeds, then cut off the stems of the dried chillies. Take out the seeds and the stems, then cut the chillies to a similar size as the Quorn Pieces."
+    },
+    {
+      "heading": null,
+      "description": "Bash the Sichuan peppercorns in a pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, make the sauce. Mix 100ml water, 1 tbsp of Chinese black vinegar, 1 tbsp of Shaoxing wine, 2 tbsp of soy sauce, 1 tsp of cornflour, 1 tsp of sesame oil and a pinch of sugar."
+    },
+    {
+      "heading": null,
+      "description": "Heat up a wok with a small glug of oil and gently fry the peanuts. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add a big glug of oil to the wok and fry the Quorn Pieces for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Add the dried chillies and Sichuan peppercorns. Keep everything continuously moving for 2 mins on high heat, then add in the ginger, garlic and white spring onions. Toss and cook for 30 secs, then add in the peanuts. Pour in the sauce and mix well, allow to cook for another min."
+    },
+    {
+      "heading": null,
+      "description": "Transfer onto a serving plate and sprinkle with the green spring onions. Serve with rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Low Carb"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-03-17T16:24:00+00:00"
+}

@@ -1,0 +1,281 @@
+{
+  "id": "3834440",
+  "slug": "one-pot-mushroom-lasagne",
+  "title": "One-Pot Mushroom Lasagne",
+  "url": "https://www.mob.co.uk/recipes/one-pot-mushroom-lasagne",
+  "summary": "This is a bit of a cheats lasagne, using broken lasagne sheets instead of layering, and is all done in one pot. Low on effort but big on flavour.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/10/IMG_1711.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 85,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 370,
+    "protein": 17,
+    "fat": 8,
+    "saturated_fat": 3,
+    "carbohydrates": 54,
+    "dietary_fibre": 8,
+    "sugars": 13,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "150g Puy Lentils",
+      "quantity": "150",
+      "unit": null,
+      "name": "Dried Puy Lentils",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Puy Lentils",
+      "quantity": "150",
+      "unit": null,
+      "name": "Lentil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Button Mushrooms",
+      "quantity": "700",
+      "unit": null,
+      "name": "Button Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700g Button Mushrooms",
+      "quantity": "700",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 White Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8-10 Garlic Cloves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8-10 Garlic Cloves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Sun Dried Tomatoes",
+      "quantity": "80",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Sun Dried Tomatoes",
+      "quantity": "80",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Stock Cubes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2Tbsp Tomato Puree",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plum Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins Plum Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Lasagne Sheets",
+      "quantity": "12",
+      "unit": null,
+      "name": "Lasagne",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2-4 Tbsp Harissa (Optional)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Vegan Cheese (Grated, Mozzarella Style - I Used 50/50 Sheese and Applewood)",
+      "quantity": "150",
+      "unit": null,
+      "name": "Vegan Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use a tissue or kitchen towel to gently remove the dirt from the mushrooms."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop the onion and mushrooms. You can also use a food processor to pulse in batches, but roughly chop them to similar sizes first. Take care not to over process, so that the mushrooms and onions don’t turn into a pulp."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop or grate the garlic. Roughly chop the sun dried tomatoes. Rinse the lentils."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of oil in a large pan set over a medium heat and add the onions. Cook for 5 mins until softened then add the garlic and cook for another minute until fragrant."
+    },
+    {
+      "heading": null,
+      "description": "Add the mushrooms and sun-dried tomatoes. Season well with salt and pepper, and sauté until the liquid has evaporated and the mushrooms start to brown and caramelise - about 8- 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, boil the kettle and stir two stock cubes through 1L of boiling water. Preheat the oven to 190C."
+    },
+    {
+      "heading": null,
+      "description": "Once the mushrooms have started to brown, add the harissa if using, and the tomato puree and plum tomatoes, crushing them into the pan with the back of a fork. Add the lentils, ¾ of the stock, season well with salt and pepper, and stir. Simmer on medium-high for 10 mins with the lid slightly off, to allow some steam out. Stir the pot occasionally."
+    },
+    {
+      "heading": null,
+      "description": "After 10 mins, add the rest of the stock and stir well. Break up the lasagne sheets into large pieces and add them to the pot, pushing them down so they're submerged."
+    },
+    {
+      "heading": null,
+      "description": "Cover with the lid and bake in the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove the pot from the oven and give everything a good stir. \nCheck that the pasta and lentils have cooked through. The lentils should have a firm bite but not taste powdery or tough. (If they need a little more time, add a splash of water and put the pot back into the oven, for 5-10 more minutes.)"
+    },
+    {
+      "heading": null,
+      "description": "Sprinkle the cheese over the top and close the lid again. Return to the oven for 10 minutes so that the cheese can melt."
+    },
+    {
+      "heading": null,
+      "description": "Then, remove the lid and place under the grill for a few minutes to crisp up the top, keeping a close eye to prevent it burning."
+    },
+    {
+      "heading": null,
+      "description": "Let the lasagne rest for 5-10 minutes before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "Batch",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2025-03-02T15:35:00+00:00"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "4427556",
+  "slug": "chocolate-pistachio-pots",
+  "title": "Chocolate & Pistachio Pots",
+  "url": "https://www.mob.co.uk/recipes/chocolate-pistachio-pots",
+  "summary": "These quick and easy chocolate pistachio pots are the perfect dinner party dessert. You can't go wrong with serving these to your mates.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Chocolate-Pistachio-Pots.jpg",
+  "cook_time": 5,
+  "prep_time": 20,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 389,
+    "protein": 6,
+    "fat": 26,
+    "saturated_fat": 13,
+    "carbohydrates": 31,
+    "dietary_fibre": 3,
+    "sugars": 24,
+    "sodium": 61
+  },
+  "ingredients": [
+    {
+      "label": "500g Custard",
+      "quantity": "500",
+      "unit": null,
+      "name": "Custard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Dark Chocolate",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Crème Frâiche",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Pistachios",
+      "quantity": "80",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the custard to a bowl. Roughly chop the chocolate and place in a heatproof\nbowl. Melt over a pan of simmering water, or in the microwave."
+    },
+    {
+      "heading": null,
+      "description": "Beat the melted chocolate into the custard with a good pinch of salt and divide\nbetween ramekins or glasses."
+    },
+    {
+      "heading": null,
+      "description": "Allow to set in the fridge for a minimum of 3 hours, overnight if easier."
+    },
+    {
+      "heading": null,
+      "description": "Whip the crème fraîche with a whisk until it holds a soft peak. Spoon over the\nchocolate pots and scrunch over the pistachios."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-29T11:18:00+01:00"
+}

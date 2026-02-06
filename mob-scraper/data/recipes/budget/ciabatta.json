@@ -1,0 +1,163 @@
+{
+  "id": "4415472",
+  "slug": "ciabatta",
+  "title": "Homemade Ciabatta",
+  "url": "https://www.mob.co.uk/recipes/ciabatta",
+  "summary": "You can't beat the smell freshly baked bread. And this simple ciabatta recipe is your one-way ticket to making your kitchen smell delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Homemade-Ciabatta.jpg",
+  "cook_time": 20,
+  "prep_time": 750,
+  "total_time": 770,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 181,
+    "protein": 5,
+    "fat": 4,
+    "saturated_fat": 1,
+    "carbohydrates": 31,
+    "dietary_fibre": 2,
+    "sugars": 0,
+    "sodium": 202
+  },
+  "ingredients": [
+    {
+      "label": "180g Strong White Bread Flour",
+      "quantity": "180",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115ml Warm Water",
+      "quantity": "115",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Pinch of Dried Instant Yeast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "275g Strong White Bread Flour",
+      "quantity": "275",
+      "unit": null,
+      "name": "Strong White Bread Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Warm Water",
+      "quantity": "250",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Extra-Virgin Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ¼ Tsp Dried Instant Yeast",
+      "quantity": "1.25",
+      "unit": null,
+      "name": "Dried Instant Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "The night before you want to make your ciabatta, make the overnight biga. Tip the flour, warm water and yeast into a bowl and mix really well until no lumps of flour remain. Cover with cling film with a small hole poked into it and leave for 12 hours."
+    },
+    {
+      "heading": null,
+      "description": "The next day make the dough. Tip the flour, warm water, oil, salt and overnight biga into a large bowl and use clean hands to mix everything together until fully incorporated. It’ll feel like a scarily wet dough but stick with it!"
+    },
+    {
+      "heading": null,
+      "description": "Leave for 30 mins covered with the cling flim then wet your hands and pick up a corner of the dough, stretch it up without ripping it and fold it towards you, up and over the dough. Repeat with the other three corners, wetting your hands each time. You should feel the dough tighten up a little as you go. Repeat this every 30 minutes for another 1 hour, then leave the dough to prove for a further 1 ½ hours untouched (so 3 hours in total)."
+    },
+    {
+      "heading": null,
+      "description": "Get a rectangular baking tray (roughly 20 × 30cm/8 × 12in) with a slight lip ready and cut two large, long strips of baking paper, flour them."
+    },
+    {
+      "heading": null,
+      "description": "Tip the dough out onto a heavily floured work surface (this dough can be a sticky beast) and flour the top. Shape into a rough square using clean floured hands, then use a knife or dough scraper to cut into two rough rectangles – don’t worry if they’re not perfect. Carefully place each onto the pieces of baking paper and lift onto the tray, placing the loaves alongside each other – this will help them keep their shape. Don’t be too rough with the dough, you want to keep all those bubbles and air."
+    },
+    {
+      "heading": null,
+      "description": "Leave for 1 hour to prove."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C and put a heavy baking sheet or pizza stone in to heat up for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "When ready to bake, lightly flour the baking sheet or stone, then carefully flip each ciabatta onto it. Repeat with the other loaf then bang in the oven for 20 minutes until golden brown and hollow when tapped on the bottom."
+    },
+    {
+      "heading": null,
+      "description": "Cool on a wire rack then serve with oil and vinegar for dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-06-23T09:37:00+01:00"
+}

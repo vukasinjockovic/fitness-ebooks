@@ -1,0 +1,258 @@
+{
+  "id": "827333",
+  "slug": "keshia-sakarahs-jerk-chicken",
+  "title": "Keshia's Jerk Chicken",
+  "url": "https://www.mob.co.uk/recipes/keshia-sakarahs-jerk-chicken",
+  "summary": "This classic Jamaican dish is over four hundred years old and a beautiful representation of Caribbean culture. Once barbecued, you get incredible flavours.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/JERK-CHICKEN-WEBSITE-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 80,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 522,
+    "protein": 33,
+    "fat": 30,
+    "saturated_fat": 6,
+    "carbohydrates": 27,
+    "dietary_fibre": 3,
+    "sugars": 22,
+    "sodium": 1282
+  },
+  "ingredients": [
+    {
+      "label": "1l Boiling Water",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Sugar",
+      "quantity": "40",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Salt",
+      "quantity": "20",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Ginger",
+      "quantity": "40",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Scotch Bonnet Chillies",
+      "quantity": "45",
+      "unit": null,
+      "name": "Scotch Bonnet Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bulb of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Thyme",
+      "quantity": "2",
+      "unit": null,
+      "name": "Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Allspice",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground All Spice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cinnamon",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Nutmeg",
+      "quantity": "2",
+      "unit": null,
+      "name": "Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Soy Sauce",
+      "quantity": "150",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Brown Sugar",
+      "quantity": "45",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Vegetable Oil",
+      "quantity": "60",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coleslaw, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Coleslaw",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Hard Dough Bread, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Hard Dough Bread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by brining the chicken. Fill a bowl with 1 litre of boiling water and add the sugar and salt. Whisk until dissolved, then allow to cool. Once the brine liquid has cooled place the chicken pieces into the brine, cover the bowl with cling film and leave in the fridge overnight."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the chicken is brining, you can prepare the ingredients to make the jerk paste. Using a side of a spoon, peel the skin off the ginger, then roughly chop along with the scotch bonnet and spring onions. Peel the onions, the garlic cloves from their bulb and pick the thyme leaves off their stalks. To the blender add the scotch bonnet, garlic, spring onion, onion, ginger and thyme. Next, add the fresh ground spices - all spice, cinnamon, nutmeg and blend to a rough paste. Finally, squeeze in the lime juice, add the soy sauce, brown sugar, oil and a pinch of salt, then blend again until the paste comes together evenly."
+    },
+    {
+      "heading": null,
+      "description": "Preheat your oven to 170°C/338°F."
+    },
+    {
+      "heading": null,
+      "description": "Remove the chicken from the brine, discard the brine liquid and pat your chicken dry with paper towels. Place the chicken on a baking tray skin side up and score the skin with a knife. Rub the chicken with 8 tbsp of the jerk paste, ensuring it covers the meat and gets all inside the scores you made. Cover with foil and bake for 40 minutes. After 40 minutes, remove the foil and bake for a further 10 to allow the skin to crisp and any excess moisture to evaporate."
+    },
+    {
+      "heading": null,
+      "description": "Once the chicken is ready, serve with coleslaw and hard dough bread."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-10-08T10:31:00+01:00"
+}

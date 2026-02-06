@@ -1,0 +1,93 @@
+{
+  "id": "3714702",
+  "slug": "instant-pumpkin-seed-milk",
+  "title": "Instant Pumpkin Seed Milk",
+  "url": "https://www.mob.co.uk/recipes/instant-pumpkin-seed-milk",
+  "summary": "Cheaper than shop bought and you can make them as creamy, light and sweet as you like. Plus they’re completely zero waste by reusing old jars or glass bottles.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/09/IMG_0755.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 2,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 117,
+    "protein": 6,
+    "fat": 9,
+    "saturated_fat": 2,
+    "carbohydrates": 4,
+    "dietary_fibre": 1,
+    "sugars": 2,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "500ml Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Pumpkin Seeds",
+      "quantity": "40",
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Agave",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Blend all ingredients until smooth for at least 2 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Store in a sterilised glass jar or bottle for 3 days."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-09-01T10:19:00+01:00"
+}

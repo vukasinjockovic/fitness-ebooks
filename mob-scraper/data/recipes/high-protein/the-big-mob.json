@@ -1,0 +1,294 @@
+{
+  "id": "2257000",
+  "slug": "the-big-mob",
+  "title": "The Big Mob",
+  "url": "https://www.mob.co.uk/recipes/the-big-mob",
+  "summary": "England has reached the finals of the Euros, and we couldn't be happier. Celebrate by making this banging burger and having a few pints with your mates.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A7645.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 1202,
+    "protein": 58,
+    "fat": 80,
+    "saturated_fat": 29,
+    "carbohydrates": 56,
+    "dietary_fibre": 5,
+    "sugars": 17,
+    "sodium": 2322
+  },
+  "ingredients": [
+    {
+      "label": "500g Chorizo Sausage",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cherry Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Red Wine",
+      "quantity": "400",
+      "unit": null,
+      "name": "Red Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Dark Brown Sugar",
+      "quantity": "75",
+      "unit": null,
+      "name": "Dark Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Mayonnaise",
+      "quantity": "50",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml American Mustard",
+      "quantity": "15",
+      "unit": null,
+      "name": "American Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10ml Ketchup",
+      "quantity": "10",
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Smoked Paprika",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Gherkins",
+      "quantity": "25",
+      "unit": null,
+      "name": "Gherkin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g 12% Beef Mince",
+      "quantity": "800",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g 12% Beef Mince",
+      "quantity": "800",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of American Cheese",
+      "quantity": "8",
+      "unit": null,
+      "name": "American Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Slices of American Cheese",
+      "quantity": "8",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Head of Iceberg Lettuce",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Iceberg Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Seeded Buns",
+      "quantity": "200",
+      "unit": null,
+      "name": "Seeded Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel your chorizo and finely crumble it into a pan. Fry on a low heat for 5 mins until it starts going crispy and the oils have been released. Peel and finely slice the onions."
+    },
+    {
+      "heading": null,
+      "description": "Remove the chorizo with a slotted spoon and add the onions. Add a pinch of salt and cook on a low heat for 25 mins until your onions have caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, mince your garlic and slice the cherry tomatoes in half."
+    },
+    {
+      "heading": null,
+      "description": "Add in the tomatoes, chilli flakes and garlic before cooking it down for a further 10 mins until the tomatoes are softened."
+    },
+    {
+      "heading": null,
+      "description": "Deglaze the pan with red wine and add dark brown sugar. Cook for 10 mins until thickened to a thick, jammy consistency."
+    },
+    {
+      "heading": null,
+      "description": "Season with salt, then leave to cool."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice your gherkin."
+    },
+    {
+      "heading": null,
+      "description": "Combine the mayo, mustard, ketchup, gherkins and ½ tsp smoked paprika in a bowl. Set that aside for later."
+    },
+    {
+      "heading": null,
+      "description": "Finely shred your iceberg lettuce."
+    },
+    {
+      "heading": null,
+      "description": "Season the mince with salt, mixing it loosely with your hands without compressing it too much"
+    },
+    {
+      "heading": null,
+      "description": "Divide your meat into 8 equal-sized pieces. Roll your mince into a rough ball, then place it on a very hot flat top. Flatten the patty with the base of a heavy pan and fry for 2 mins until its deeply caramelised. You want your burgers to be very flat and crisp."
+    },
+    {
+      "heading": null,
+      "description": "Flip over your patties and add your slice of cheese. Next, you're going to want to pour a splash of water on the flat top before quickly placing a lid over the burger so that the cheese gets steamed. Cook the patty for 2 mins like this until the cheese has melted and the base is caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Toast your buns. Add chorizo chutney to the base, then layer on your shredded iceberg. Place your two patties on top of the lettuce, then spread your burger sauce on the lid of your bun and place that on top. Serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "English"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-07-09T11:40:00+01:00"
+}

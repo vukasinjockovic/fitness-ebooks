@@ -1,0 +1,166 @@
+{
+  "id": "4304162",
+  "slug": "spiced-scrambled-eggs",
+  "title": "Spiced Scrambled Eggs With Crispy Chilli & Garlic",
+  "url": "https://www.mob.co.uk/recipes/spiced-scrambled-eggs",
+  "summary": "Loaded naan bread basted with spiced scrambled eggs and sprinkled with coriander, crispy garlic and chilli.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Spiced-Scrambled-Eggs-Naan.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 677,
+    "protein": 27,
+    "fat": 36,
+    "saturated_fat": 13,
+    "carbohydrates": 60,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 722
+  },
+  "ingredients": [
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Eggs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Small Bunch of Coriander (7g)",
+      "quantity": "7",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Naan Breads",
+      "quantity": "2",
+      "unit": null,
+      "name": "Naan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Curry Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Neutral Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Neutral Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely slice the chilli, garlic and spring onions. Whisk up the eggs. Roughly chop the coriander."
+    },
+    {
+      "heading": null,
+      "description": "First, make the crispy bits by heating 100ml oil in a small frying pan over a medium heat and adding the chilli and garlic. Cook for about 5 mins, until golden and crisp, then remove with a slotted spoon and drain on a paper towel."
+    },
+    {
+      "heading": null,
+      "description": "Heat the naan according to package instructions."
+    },
+    {
+      "heading": null,
+      "description": "In another frying pan, add a small splash of oil and heat over medium. Add the curry paste and spring onions, cook until the spring onions are softened. Then add the butter and cook until the butter has melted. Pour in the egg and most of the coriander, and allow to set slightly before mixing gently. Continue cooking and folding until the eggs are soft set."
+    },
+    {
+      "heading": null,
+      "description": "Spoon onto the warm naan and scatter with remaining coriander and crispy garlic and chilli. Serve with your choice of chilli sauce and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-05T09:26:00+01:00"
+}

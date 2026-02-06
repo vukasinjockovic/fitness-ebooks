@@ -1,0 +1,278 @@
+{
+  "id": "6923817",
+  "slug": "loco-moco-hawaiian-burger",
+  "title": "Loco Moco Hawaiian Smash Burger",
+  "url": "https://www.mob.co.uk/recipes/loco-moco-hawaiian-burger",
+  "summary": "Hawaiian comfort food at its finest. Smashed beef patty on rice with thick gravy and a crispy fried runny-yolk egg. Seriously one of the easiest simple midweek meals that you'll never get bored of.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/11/849A6225-1.jpg",
+  "cook_time": 20,
+  "prep_time": 10,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 792,
+    "protein": 27,
+    "fat": 57,
+    "saturated_fat": 19,
+    "carbohydrates": 39,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 1207
+  },
+  "ingredients": [
+    {
+      "label": "200g Chestnut Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chestnut Mushrooms",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Chives",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Jasmine Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cooked Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Jasmine Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chilli Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ White Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Beef Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Beef Mince",
+      "quantity": "400",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Breadcrumbs",
+      "quantity": "50",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Mayonnaise",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch MSG",
+      "quantity": ".25",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegetable Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Unsalted Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Plain Flour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Beef Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Worcestershire Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Quarter the mushrooms and set aside. Finely chop the chives and set aside for garnish."
+    },
+    {
+      "heading": null,
+      "description": "For the patties, finely dice the white onion then add to a large mixing bowl along with the other patty ingredients and a pinch of salt and black pepper. Using clean hands, mix until fully combined, squeezing the beef to tenderise it. Divide into round burger patties (one per person) and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the gravy, melt the unsalted butter in a small saucepan set over a medium heat. Add the flour and mix to combine. Cook whilst stirring for 2-3 mins or until smelling toasty. Slowly pour the beef stock into the roux, a little at a time, stirring constantly until combined. Add the Worcestershire sauce, black pepper and light and dark soy sauces then cook, stirring constantly, for another 2-3 mins. Remove from the heat and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the mushrooms, heat a glug of vegetable oil in a large frying pan set over a high heat. Add the mushrooms and fry for 2-3 mins until golden. Season with a pinch of salt then transfer to a plate and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the patties, heat another generous glug of vegetable oil in the same pan set over a high heat. Add the beef patties and use a burger press or the base of a heavy saucepan to flatten the patties. Season with a pinch of salt and cook for 2 mins per side, then transfer to a plate and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the eggs, heat a final glug of vegetable oil in the same pan, crack in the eggs and cook to your liking."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, reheat the rice. Finely chop the chives."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the rice between plates, top with a burger patty then pour over a ladle of gravy. Finish with the fried mushrooms, eggs, chopped chives and a drizzle of chilli oil."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-12-20T09:00:00+00:00"
+}

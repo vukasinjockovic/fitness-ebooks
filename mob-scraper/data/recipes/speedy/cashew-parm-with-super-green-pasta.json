@@ -1,0 +1,211 @@
+{
+  "id": "3727272",
+  "slug": "cashew-parm-with-super-green-pasta",
+  "title": "Super Green Pasta with Cashew Sesame Sprinkle",
+  "url": "https://www.mob.co.uk/recipes/cashew-parm-with-super-green-pasta",
+  "summary": "This is one of my favourite sprinkles and I’m so happy to be sharing it with you. Keep it refrigerated and sealed in a jar for up to a month.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Super-Green-Pasta-with-Cashew-Sesame-Sprinkle.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 900,
+    "protein": 28,
+    "fat": 44,
+    "saturated_fat": 7,
+    "carbohydrates": 92,
+    "dietary_fibre": 10,
+    "sugars": 7,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "100g Cashews",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Garlic Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Garlic Powder",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Spinach",
+      "quantity": "80",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Basil",
+      "quantity": "20",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Tahini",
+      "quantity": "30",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Olive Oil",
+      "quantity": "25",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Butter Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Butter Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin of Butter Beans",
+      "quantity": "240",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Paccheri Pasta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Paccheri",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Kosher Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon (Optional, for Zest)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "In a blender, pulse the cashews, sesame, and ¼ tsp garlic powder until you have a crumb the texture of bulgur wheat. Taste and season with salt. Tip into a jar, set aside (it will make plenty more than you need, you can keep it in the fridge, sealed, for up to 1 month)."
+    },
+    {
+      "heading": null,
+      "description": "To the empty blender, add the spinach, basil (keep a few for garnish), miso, 25ml olive oil, 30g tahini and the whole tin of butter beans with the liquid until smooth. Taste and season with salt, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Cook the pasta according to the package instructions, to slightly al dente. Drain and keep some pasta water. Add the pasta back to the pan with the sauce and stir to combine and heat through. Taste and season with salt and some lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Serve the pasta with a generous helping of cashew sprinkle and plenty of pepper and olive oil. Garnish with some basil leaves and a zest of lemon if using."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Method",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-25T00:00:00+01:00"
+}

@@ -1,0 +1,340 @@
+{
+  "id": "6705723",
+  "slug": "chorizo-chilli-cottage-pie",
+  "title": "Chorizo Chilli Cottage Pie",
+  "url": "https://www.mob.co.uk/recipes/chorizo-chilli-cottage-pie",
+  "summary": "Say goodbye to boring cottage pies and hello to this next-level Spanish-inspired version, with a spicy chorizo and beef filling and a creamy, cheesy mash potato top. A serious winter warmer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Chilli-Cottage-Pie.jpg",
+  "cook_time": 160,
+  "prep_time": 20,
+  "total_time": 180,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 857,
+    "protein": 46,
+    "fat": 51,
+    "saturated_fat": 22,
+    "carbohydrates": 48,
+    "dietary_fibre": 10,
+    "sugars": 9,
+    "sodium": 1422
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Cooking Chorizo",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chorizo Cooking Sausage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Cooking Chorizo",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hot Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hot Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Ground Cumin",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Ground Coriander",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Of Black Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cooked Black Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Tin Of Black Beans",
+      "quantity": "400",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Chopped Tomatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Beef Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Garden Peas",
+      "quantity": null,
+      "unit": null,
+      "name": "Garden Peas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "To Serve, Garden Peas",
+      "quantity": null,
+      "unit": null,
+      "name": "Pea",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1kg Maris Piper Potatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Maris Piper Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Maris Piper Potatoes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Extra Mature Cheddar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Extra Mature Cheddar ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Extra Mature Cheddar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Whole Milk",
+      "quantity": "150",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and finely dice your onion. Finely dice your peppers too, as well as your garlic and green chilli."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large casserole dish over a medium heat, and add 1 tbsp olive oil. Peel the skin off your cooking chorizo, and crumble the meat into the pan. Cook it for about 5 mins, breaking it up with your spoon to make a mince-like texture. It should crisp up a bit, and render out the fat."
+    },
+    {
+      "heading": null,
+      "description": "Remove your chorizo from the pan with a slotted spoon, and add it to a large bowl. Add your onion to the chorizo fat. Cook it with a pinch of salt for 15 mins, until it has softened a bit, then tip in your diced red peppers. Cook these for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Whilst your onion cooks, brown your beef mince. Heat a large frying pan over a high heat with a little oil, then add about half of your beef mince to the pan in small chunks. Season it with salt, and fry the beef for about a minute on each side, until it is deeply caramelised, but not cooked through. Add it to the chorizo bowl, and repeat with your remaining beef."
+    },
+    {
+      "heading": null,
+      "description": "Add your garlic, hot smoked paprika, ground cumin, ground coriander and ¾ of the green chill into the pan, and cook them out for 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Drain your black beans, then add these to the pan, as well as your chorizo and beef, chopped tomatoes and beef stock. Bring it up to a boil, then turn the pan down to a very gentle simmer."
+    },
+    {
+      "heading": null,
+      "description": "Simmer your chilli for 2 hours, stirring it frequently to make sure it doesn’t stick."
+    },
+    {
+      "heading": null,
+      "description": "When your chilli has 20 mins left, heat your oven to 190°C fan."
+    },
+    {
+      "heading": null,
+      "description": "Make your mash. Peel your potatoes, and chop them into large chunks, and add them to a large saucepan."
+    },
+    {
+      "heading": null,
+      "description": "Cover the potatoes with cold water, and season the water to taste with salt as though it was a soup. Bring it up to a boil over a high heat, then turn it down to a simmer, and cook the potatoes for 15 mins, or until they are tender."
+    },
+    {
+      "heading": null,
+      "description": "Grate your cheddar. Drain your potatoes in a colander set over the sink, then add them back to the saucepan. Add the milk and butter, then mash your potatoes with a potato masher. Sprinkle in your cheddar and fold it through, then season it to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Once your chilli has finished cooking, season it to taste with salt and pepper. Spoon your mash directly on top of it, and even it out with the back of a spoon. Trace lines on the top with a fork. Slice your remaining green chilli up and arrange them on top. Bake it for 40 mins."
+    },
+    {
+      "heading": null,
+      "description": "Serve it up with peas."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "High Fibre",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-20T05:00:00+01:00"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "6532090",
+  "slug": "frangipane",
+  "title": "Frangipane",
+  "url": "https://www.mob.co.uk/recipes/frangipane",
+  "summary": "This creamy tart filling is made with almonds, butter, sugar and eggs. Use it to make our incredible bakewell tarts.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Frangipane.jpg",
+  "cook_time": null,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 109,
+    "protein": 2,
+    "fat": 8,
+    "saturated_fat": 3,
+    "carbohydrates": 8,
+    "dietary_fibre": 1,
+    "sugars": 5,
+    "sodium": 5
+  },
+  "ingredients": [
+    {
+      "label": "115g Room Temp Unsalted Butter",
+      "quantity": "115",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115g Golden Unrefined Caster Sugar",
+      "quantity": "115",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "115g Ground Almonds",
+      "quantity": "115",
+      "unit": null,
+      "name": "Ground Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Eggs",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Plain Flour",
+      "quantity": "25",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Orange",
+      "quantity": "1",
+      "unit": null,
+      "name": "Orange",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use an electric whisk to beat the butter and sugar together for approximately 3 mins until thick and fluffy."
+    },
+    {
+      "heading": null,
+      "description": "Beat in the ground almonds, then add the eggs one at a time, beating between additions. Finally beat in the flour and the citrus zest."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T13:20:00+01:00"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "6521575",
+  "slug": "cream-cheese-frosting",
+  "title": "Cream Cheese Frosting",
+  "url": "https://www.mob.co.uk/recipes/cream-cheese-frosting",
+  "summary": "A super quick and easy recipe for cream cheese frosting. It’s tangy, sweet and creamy. Spread it on red velvet cakes, carrot cakes or cinnamon buns.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Cream-Cheese-Frosting.jpg",
+  "cook_time": null,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 181,
+    "protein": 1,
+    "fat": 11,
+    "saturated_fat": 7,
+    "carbohydrates": 19,
+    "dietary_fibre": null,
+    "sugars": 19,
+    "sodium": 49
+  },
+  "ingredients": [
+    {
+      "label": "125g Room Temp Unsalted Butter",
+      "quantity": "125",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Firm Full-Fat Cream Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Firm Full-Fat Cream Cheese",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Icing Sugar",
+      "quantity": "250",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use an electric whisk to beat the butter in a large mixing bowl for 4–5 mins, then add the drained cream cheese and beat for another 2 mins."
+    },
+    {
+      "heading": null,
+      "description": "Sift in the icing sugar and add the vanilla and beat for another 2 mins, until smooth and evenly incorporated. (Add more icing sugar if you prefer a firmer frosting.)"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Afternoon Tea",
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T12:33:00+01:00"
+}

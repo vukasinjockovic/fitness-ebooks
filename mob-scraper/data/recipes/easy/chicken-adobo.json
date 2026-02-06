@@ -1,0 +1,278 @@
+{
+  "id": "6766623",
+  "slug": "chicken-adobo",
+  "title": "Chicken Adobo",
+  "url": "https://www.mob.co.uk/recipes/chicken-adobo",
+  "summary": "Tender, juicy chicken thighs in a soy, garlic and black pepper marinade, served with steamed rice and zingy papaya pickles. This low-effort Filipino chicken adobo takes chicken and rice to another level.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Chicken-Adobo.jpg",
+  "cook_time": 35,
+  "prep_time": 35,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 708,
+    "protein": 32,
+    "fat": 25,
+    "saturated_fat": 5,
+    "carbohydrates": 89,
+    "dietary_fibre": 2,
+    "sugars": 31,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Boneless Skinless Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless Skinless Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml White Rice Vinegar",
+      "quantity": "120",
+      "unit": null,
+      "name": "White Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Light Soy Sauce",
+      "quantity": "100",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tsp Black Peppercorns",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Fresh Bay Leaves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Veg Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350ml Water",
+      "quantity": "350",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Brown Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Jasmine Rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Jasmine Rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Crispy Chilli Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "½ Green Papaya",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Green Papaya",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Carrot",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml White Vinegar",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Mince your garlic and add to your bowl of chicken along with the rice wine vinegar, light soy sauce, black peppercorns and bay leaves. Mix well and set aside to marinate in the fridge for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, prep the pickles. In a small pan, heat the vinegar, sugar, salt and black peppercorns over a medium heat. Let it simmer until the sugar dissolves then remove from the hob and set aside to cool. Thinly slice the papaya, carrot and red pepper and place in a jar."
+    },
+    {
+      "heading": null,
+      "description": "On medium-high heat, add the vegetable oil in a large pan over a medium heat. Remove as much excess marinating liquid as possible from the chicken and set it aside for later. Place the chicken thighs skin-side down in the pan and fry for 3 mins on each side until golden brown."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining marinating liquid to the pan with the chicken, including the bay leaves and black peppercorns. Add the water and sugar and mix to combine. Bring to a boil then turn the heat down to low and cook for 25 mins, flipping the chicken halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, add the cooled pickling liquid to the jar with the papaya, carrot and red pepper and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Wash your rice three times until the water runs clear then transfer to a medium saucepan and add enough water to reach just below your first knuckle. Bring to the boil over a medium-high heat then turn the heat down to low, cover with a lid and cook for 12 mins."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the spring onions and set aside for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Divide the rice between bowls and top with the chicken thighs and adobo sauce. Serve with the pickles, sliced spring onions and some crispy chilli oil if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Filipino"
+  ],
+  "chefs": [
+    {
+      "name": "Xiengni Zhou",
+      "uri": "chefs/xiengni-zhou",
+      "summary": "As a passionate home cook and co-founder of Mama Yu's Chilli Oil, Xiengni (@xiensscran) is all about flavour and always cooked from the heart. Sharing three generations of recipes, her approach to food and family and what means is a breath of fresh air."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-01T11:22:00+01:00"
+}

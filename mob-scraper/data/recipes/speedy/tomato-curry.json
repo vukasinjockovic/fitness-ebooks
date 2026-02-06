@@ -1,0 +1,143 @@
+{
+  "id": "1443301",
+  "slug": "tomato-curry",
+  "title": "Tomato Curry",
+  "url": "https://www.mob.co.uk/recipes/tomato-curry",
+  "summary": "This is the easiest, freshest, and quickest tomato curry recipe you'll ever make. My mum can whip it up in under six minutes, and it's always a hit at home – see if you can beat her time! Bursting with rich, tangy flavours from fresh tomatoes, this curry is perfect for busy weeknights when you want something delicious without spending hours in the kitchen. The combination of simple ingredients like onions, garlic, and a blend of spices creates a satisfying dish that can be enjoyed on its own or served with rice or flatbreads. Whether you're a seasoned cook or new to the kitchen, this tomato curry recipe is foolproof and versatile. You can even customize it by adding your favourite veggies or proteins like chicken or tofu. It's the kind of recipe you'll turn to again and again for a comforting, flavorful meal in minutes. Enjoy! Seema x",
+  "image": "https://files.mob-cdn.co.uk/recipes/Tomato-Curry.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 143,
+    "protein": 2,
+    "fat": 14,
+    "saturated_fat": 2,
+    "carbohydrates": 8,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 787
+  },
+  "ingredients": [
+    {
+      "label": "8 Garlic Cloves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Kg Tomatoes",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Cumin Seeds",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Cumin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Roughly chop the garlic and chop up the tomatoes into large chunks. Finely chop the coriander, including the stems."
+    },
+    {
+      "heading": null,
+      "description": "Pour two large glugs of oil in a large pan, heat to high heat. Fry the cumin seeds until they start to pop. Add in the garlic and cook for 30 seconds until lightly browned. Add in the tomatoes, chilli powder, coriander powder, cumin powder, turmeric, and ½ tsp salt. Stir gently to not break the tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 2 minutes until the tomatoes are just warmed through, you want to keep them whole and not broken down. Stir in the coriander and serve on rice or with rotli/roti/chapati (whichever is your naming preference)."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Family-Friendly",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-28T09:18:00+00:00"
+}

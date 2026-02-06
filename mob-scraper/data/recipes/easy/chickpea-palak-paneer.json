@@ -1,0 +1,248 @@
+{
+  "id": "6453316",
+  "slug": "chickpea-palak-paneer",
+  "title": "Chickpea Palak Paneer",
+  "url": "https://www.mob.co.uk/recipes/chickpea-palak-paneer",
+  "summary": "This spicy, comforting vegetarian curry comes in at a whopping 41g of protein per portion.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/849A5666-1.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 624,
+    "protein": 33,
+    "fat": 36,
+    "saturated_fat": 20,
+    "carbohydrates": 38,
+    "dietary_fibre": 10,
+    "sugars": 13,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "225g Paneer",
+      "quantity": "225",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Paneer",
+      "quantity": "225",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vine Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Green Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Spinach",
+      "quantity": "450",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Chickpeas",
+      "quantity": "400",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cooked Chickpeas",
+      "quantity": "400",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ghee",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ghee",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Water",
+      "quantity": "310",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Rice (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the paneer and the tomatoes. Finely dice the onion, chop the chilli and finely grate the ginger and garlic."
+    },
+    {
+      "heading": null,
+      "description": "Blanch ½ of the spinach in a pot of boiling water for 1 min then add to a blender with ½ of the chickpeas. Blitz until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Heat the ghee in a large pot set over a medium heat and add the onion. Cook for 10 min, then add the chilli, ginger and garlic. Cook for another minute or so. Add the tomatoes and cook for a couple of minutes until softened then add the garam masala. Add ⅕ of the water, season with salt, and cook until everything is totally soft and the oil is separating from the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Add the blended spinach and remaining chickpeas along with the remaining water and simmer for 5-7 mins. Add in the remaining fresh spinach and leave to wilt. Squeeze in the lemon and stir then season with salt and pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, heat a glug of oil in a medium pan over a medium heat. Add the paneer and fry for about 4 mins until golden and crispy."
+    },
+    {
+      "heading": null,
+      "description": "Divide the curried chickpeas between bowls and top with the crispy paneer. Serve with the yoghurt and fresh coriander, and some rice if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Gut-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Indian"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-15T03:00:00+01:00"
+}

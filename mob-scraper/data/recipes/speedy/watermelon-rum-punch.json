@@ -1,0 +1,150 @@
+{
+  "id": "3420322",
+  "slug": "watermelon-rum-punch",
+  "title": "Watermelon Rum Punch",
+  "url": "https://www.mob.co.uk/recipes/watermelon-rum-punch",
+  "summary": "Watermelon. Rum. Limes. Mint. All in a punch, yes. The most refreshing drink, perfect for any day.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9949-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 160,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 21,
+    "dietary_fibre": 1,
+    "sugars": 19,
+    "sodium": 6
+  },
+  "ingredients": [
+    {
+      "label": "1kg Watermelon",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Watermelon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Limes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Ice Cubes",
+      "quantity": "30",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml White Rum",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Rum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Grenadine",
+      "quantity": "50",
+      "unit": null,
+      "name": "Grenadine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Pineapple Juice",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pineapple Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Orange Juice",
+      "quantity": "100",
+      "unit": null,
+      "name": "Orange Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Take the rind off the watermelon and cut into small chunks."
+    },
+    {
+      "heading": null,
+      "description": "Blend the watermelon in a food processor. Using a sieve, strain the purée and set it aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop the limes in half."
+    },
+    {
+      "heading": null,
+      "description": "In a pitcher, pop the ice in, the juice of the limes, rum, grenadine, watermelon juice, orange juice and a handful of mint leaves."
+    },
+    {
+      "heading": null,
+      "description": "Give it a stir and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-05-17T16:30:00+01:00"
+}

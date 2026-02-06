@@ -1,0 +1,245 @@
+{
+  "id": "5459882",
+  "slug": "garlic-beef-udon-soup",
+  "title": "Garlic Beef Udon Soup",
+  "url": "https://www.mob.co.uk/recipes/garlic-beef-udon-soup",
+  "summary": "A taste of Japan right at home, it's simple, quick and easy, one of the most comforting bowls you could eat for breakfast, lunch or dinner!",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Garlic-Beef-Udon-Soup.jpg",
+  "cook_time": 10,
+  "prep_time": 10,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 736,
+    "protein": 38,
+    "fat": 22,
+    "saturated_fat": 5,
+    "carbohydrates": 92,
+    "dietary_fibre": 5,
+    "sugars": 10,
+    "sodium": 1866
+  },
+  "ingredients": [
+    {
+      "label": "500g Udon Noodles",
+      "quantity": "500",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Udon Noodles",
+      "quantity": "500",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Sirloin Steak",
+      "quantity": "225",
+      "unit": null,
+      "name": "Sirloin Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "225g Sirloin Steak",
+      "quantity": "225",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Eggs",
+      "quantity": "2",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Light Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mirin",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sake",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dashi Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dashi Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Water",
+      "quantity": "500",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sunflower Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by finely mincing the garlic. Slice the ginger lengthways as thin as possible, then lay it flat and slice into thin strips. Slice the spring onions as thin as possible and transfer to a bowl of ice-cold water."
+    },
+    {
+      "heading": null,
+      "description": "Slice the steak as thin as possible and transfer to a bowl. Add the minced garlic, sugar, light soy sauce, sesame seeds and sesame oil to the same bowl with one-third of the mirin. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a frying pan over a high heat for 1 min. Add a splash of oil and the beef. Once in the pan, spread it out evenly and leave to caramelise for around 1 min. Flip over and cook for another minute, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Heat a saucepan over a high heat and add the ginger, sake, the remainder of the mirin, soy sauce, dashi powder (or stock) and water. Bring to the boil. Once boiling, add the udon and stir for around 3 mins until the noodles have separated."
+    },
+    {
+      "heading": null,
+      "description": "Divide the udon and soup between two bowls. Add the cooked beef on top. Drain the spring onions and place them on top of the beef, in a mound. Make a small well with your finger in the spring onion and place the egg yolk into the well. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "Accessible Method",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-09T15:26:00+01:00"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "2027214",
+  "slug": "roasted-aubergine-tomato-and-mozzarella-salad",
+  "title": "Roasted Aubergine, Tomato and Mozzarella Salad",
+  "url": "https://www.mob.co.uk/recipes/roasted-aubergine-tomato-and-mozzarella-salad",
+  "summary": "All the best bits of an aubergine parm in a fresh vibrant salad. Crunchy ciabatta croutons and jammy tomatoes, perfect for the summer.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A8311.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "fat": 13,
+    "saturated_fat": 4,
+    "carbohydrates": 15,
+    "dietary_fibre": 3,
+    "sugars": 4,
+    "sodium": 246
+  },
+  "ingredients": [
+    {
+      "label": "1 Aubergine",
+      "quantity": "1",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tomatoes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Small Ciabatta Roll",
+      "quantity": "50",
+      "unit": null,
+      "name": "Ciabatta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Red Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Rocket",
+      "quantity": "150",
+      "unit": null,
+      "name": "Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Watercress",
+      "quantity": "150",
+      "unit": null,
+      "name": "Watercress",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "A Bunch of Basil (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mozzarella",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Mozzarella",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Chop the aubergine into large wedges and score the outside of them with a knife. Slice the tomatoes into thick slices. Rub them with olive oil, salt, pepper and dried oregano."
+    },
+    {
+      "heading": null,
+      "description": "Place a bulb of garlic on a piece of foil and drizzle with olive oil. Wrap tightly and pop onto a baking tray with the aubergine and tomatoes"
+    },
+    {
+      "heading": null,
+      "description": "Bake the aubergine, tomatoes and garlic in the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Roughly rip the ciabatta and toss with olive oil and salt. Pop them in a baking tray in the oven for the final 15 mins of roasting."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze the garlic out of its peel into a bowl and mash together with salt, pepper, red wine vinegar and 4 tbsp of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Toss the rocket, watercress and basil with half of the dressing. Then layer that onto your plate. Top with roasted aubergine, tomato and ciabatta croutons. Grate on some parmesan cheese, and tear some mozzarella. Drizzle on some more dressing and serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Seema Pankhania",
+      "uri": "chefs/seema-pankhania",
+      "summary": "Seema Pankhania (aka @seemagetsbaked) is a superstar food creator, with over 1.2M followers and 21.8M Likes on TikTok. After training at Gordon Ramsay's Lucky Cat restaurant, Seema embarked on a presenting career at Mob, where she was responsible for many of their most popular recipes."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-05-10T10:50:00+01:00"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "7150251",
+  "slug": "smoky-chorizo-pepper-pasta",
+  "title": "Smoky Chorizo Pepper Pasta",
+  "url": "https://www.mob.co.uk/recipes/smoky-chorizo-pepper-pasta",
+  "summary": "Spicy, cheesy and satisfying – this 20-minute pasta number is your new midweek hero.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Smoky-Chorizo-Pepper-Pasta.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 627,
+    "protein": 27,
+    "fat": 22,
+    "saturated_fat": 7,
+    "carbohydrates": 80,
+    "dietary_fibre": 6,
+    "sugars": 7,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "250g pasta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Linguine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g pasta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan 20g",
+      "quantity": "20",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml pasta water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pasta Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "olive oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Before you begin, make the Smoky Chorizo &amp; Pepper Sauce."
+    },
+    {
+      "heading": null,
+      "description": "Fill a large saucepan with salted water and bring to the boil. Once boiling, add the pasta and cook according to pack instructions. Just before draining, reserve 100ml of the pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Return the drained pasta to the saucepan over a medium-high heat. Stir through the chorizo pepper sauce and cook until piping hot, loosening with a splash of pasta water if needed. Taste and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Serve into bowls and finish with plenty of grated Parmesan. Dig in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Family-Friendly",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-28T07:00:00+01:00"
+}

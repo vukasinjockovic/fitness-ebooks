@@ -1,0 +1,353 @@
+{
+  "id": "4455413",
+  "slug": "tinned-fish-potluck",
+  "title": "Tinned Fish Potluck",
+  "url": "https://www.mob.co.uk/recipes/tinned-fish-potluck",
+  "summary": "Looking for a spread with bags of flavour? Loaded with first-class tinned fish and veggies, then finished with sides of crackers and aioli, it's a yes from us.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Tinned-Fish-Potluck.jpg",
+  "cook_time": 5,
+  "prep_time": 40,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 646,
+    "protein": 19,
+    "fat": 54,
+    "saturated_fat": 26,
+    "carbohydrates": 22,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "160g Tuna",
+      "quantity": "160",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sriracha",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sriracha",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Avocado",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Chives",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 x 125g Tin of Sardines",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sardine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Gherkins",
+      "quantity": "3",
+      "unit": null,
+      "name": "Gherkin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Green Olives",
+      "quantity": "6",
+      "unit": null,
+      "name": "Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pickled Guindilla Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pickled Guindilla Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Pickled Onions",
+      "quantity": "5",
+      "unit": null,
+      "name": "Pickled Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pickled Beetroot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pickled Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Pickled Beetroot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Beetroot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Small Carrot",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Parsley",
+      "quantity": "10",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Good Quality Butter, Very Cold",
+      "quantity": "250",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices Crusty Sourdough",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Salted Anchovies",
+      "quantity": "1",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Flaky Sea Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flaky Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Baby Cucumbers",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baby Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Baby Carrots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baby Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Baby Carrots",
+      "quantity": "4",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Celery Sticks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Dill",
+      "quantity": "25",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Selection of Crackers",
+      "quantity": null,
+      "unit": null,
+      "name": "Cream Cracker",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Aioli",
+      "quantity": "4",
+      "unit": null,
+      "name": "Aioli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Sauce, We Like Tabasco",
+      "quantity": null,
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crack open the tin of tuna and drain any excess oil. Tip into a bowl and add the hot sauce, juice of the lime and the sesame seeds. Split the avocado in half. Cut one half into a chunky dice and fold through the tuna. Season the mix to taste with salt and pepper. Thinly slice the other half. Finely cut the chives and fold most through the tuna mix."
+    },
+    {
+      "heading": null,
+      "description": "Return the spicy tuna mix to the can and top with the sliced avo, extra lime juice, chopped chives and a sprinkle of sesame seeds."
+    },
+    {
+      "heading": null,
+      "description": "Crack open the sardines and leave in the tin. To make the salsa, very finely dice all of the remaining ingredients except the parsley and lemon. Mix in a bowl, season with salt and pepper. Finely chop the parsley and fold through the salsa with the lemon zest and juice."
+    },
+    {
+      "heading": null,
+      "description": "Top the sardine tin with a healthy spoon of the salsa and a whole pickle."
+    },
+    {
+      "heading": null,
+      "description": "Pop the butter into the freezer for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Rub the bread with olive oil and preheat a griddle pan over a high heat. Grill the bread on both sides until charred and toasted. Rub with a garlic clove straight away and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Grab a serrated knife and cut along the surface of the butter, at a 45 degree angle, to create little curls of butter. This might take a couple of tries to get the hang of, but have faith, you’ll crack it."
+    },
+    {
+      "heading": null,
+      "description": "Open the anchovies and serve with a plate of butter curls, sea salt, and the grilled bread."
+    },
+    {
+      "heading": null,
+      "description": "To finish the spread, wash and prepare your veggies. If small, I like to cut them lengthways or just leave them whole. Just cut them into pieces that make sense! Serve with crackers, a sprinkling of dill, lemon wedges, aioli and hot sauce. Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-20T14:53:00+01:00"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "4290877",
+  "slug": "nduja-fried-rice",
+  "title": "'Nduja Fried Rice",
+  "url": "https://www.mob.co.uk/recipes/nduja-fried-rice",
+  "summary": "And you thought we couldn't smash ‘nduja into any more recipes? This is a perfect, spicy, meaty fried rice for one. Go on, treat yourself.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Nduja-Fried-Rice.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 484,
+    "protein": 13,
+    "fat": 14,
+    "saturated_fat": 5,
+    "carbohydrates": 72,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 803
+  },
+  "ingredients": [
+    {
+      "label": "4 Jarred Roasted Red Peppers",
+      "quantity": "4",
+      "unit": null,
+      "name": "Jarred Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Clove",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Clove",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Tomato Pureé",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g ‘Nduja",
+      "quantity": "80",
+      "unit": null,
+      "name": "Nduja",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 x 250g Packet of Ready Cooked Basmati Rices",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 x 250g Packet of Ready Cooked Basmati Rices",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sour Cream, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Lemon, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by chopping the red pepper, roughly chopping the parsley and mincing the garlic. Next, set a frying pan over a medium-high heat and add the 'nduja and a splash of olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Break up the 'nduja with a wooden spoon as it cooks and then add the garlic. Fry gently for a couple of minutes then add the tomato purée."
+    },
+    {
+      "heading": null,
+      "description": "Cook for a minute or so to take the bitterness out of the tomato purée then add the chopped pepper."
+    },
+    {
+      "heading": null,
+      "description": "Turn up the heat and season. Break up the rice in the bag then pour it into the pan."
+    },
+    {
+      "heading": null,
+      "description": "Stir everything together, allowing the rice to take on a lovely red colour and cook for a couple of mins. Stir through the parsley then plate up."
+    },
+    {
+      "heading": null,
+      "description": "Serve with a wedge of lemon and sour cream."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-04-25T11:10:00+01:00"
+}

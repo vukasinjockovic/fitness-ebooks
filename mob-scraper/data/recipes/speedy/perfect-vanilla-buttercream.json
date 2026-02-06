@@ -1,0 +1,99 @@
+{
+  "id": "6513593",
+  "slug": "perfect-vanilla-buttercream",
+  "title": "Perfect Vanilla Buttercream",
+  "url": "https://www.mob.co.uk/recipes/perfect-vanilla-buttercream",
+  "summary": "Need vanilla buttercream to frost your cakes? Here’s how to make it.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Perfect-Vanilla-Buttercream.jpg",
+  "cook_time": 0,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 124,
+    "protein": 0,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 13,
+    "dietary_fibre": null,
+    "sugars": 13,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "100g Soft Unsalted Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Soft Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Icing Sugar",
+      "quantity": "300",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Extract",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Extract",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75ml Double Cream",
+      "quantity": "75",
+      "unit": null,
+      "name": "Double Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Use an electric whisk to beat the butter in a large mixing bowl for 4–5 mins on high speed."
+    },
+    {
+      "heading": null,
+      "description": "Sift in the icing sugar and add the vanilla and cream then beat on a low speed to bring it together. Beat on high for another 2–3 mins until it's a smooth consistency. Add more cream for a looser buttercream if desired."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-04T15:15:00+01:00"
+}

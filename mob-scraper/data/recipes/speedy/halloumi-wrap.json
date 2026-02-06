@@ -1,0 +1,190 @@
+{
+  "id": "2405",
+  "slug": "halloumi-wrap",
+  "title": "Mob's Halloumi Fajitas",
+  "url": "https://www.mob.co.uk/recipes/halloumi-wrap",
+  "summary": "Why have we never added halloumi to a fajita? It's out of this world. With smokey veg and crunchy tortilla chips crumbled on top. The veggie dream.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2019/10/MOBS-HALLOUMI-BURRITOS2054-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 900,
+    "protein": 36,
+    "fat": 51,
+    "saturated_fat": 23,
+    "carbohydrates": 74,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 1700
+  },
+  "ingredients": [
+    {
+      "label": "4 Peppers (2 Red and 2 Yellow)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Sachet of Smoky BBQ Seasoning Mix for Fajitas",
+      "quantity": "1",
+      "unit": null,
+      "name": "Seasoning Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Coriander",
+      "quantity": "15",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Halloumi",
+      "quantity": "500",
+      "unit": null,
+      "name": "Halloumi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Plain Tortilla Wraps",
+      "quantity": "8",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salsa",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salsa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Sour Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Tortilla Crisps",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tortilla Chips",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice up your onions and peppers into strips and add them to the pan with some olive oil. Once they have cooked, add 1/2 of your seasoning sachet. Add a sprinkle of salt and pepper and stir."
+    },
+    {
+      "heading": null,
+      "description": "Next, chop up your coriander and add to your pan (save a handful of mint for later) and mix together. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Halloumi time. Slice up your halloumi and add to a bowl. Add your remaining seasoning, along with a grinding of pepper and a glug of olive oil. Mix together with your hands so the halloumi is covered in the seasoning. Add your halloumi to a well oiled frying pan and cook until golden on both sides."
+    },
+    {
+      "heading": null,
+      "description": "It’s loading up time. Add your tortilla to a pan. Heat for 1 minute on each side. Take your tortilla wrap and add a spoonful of your vegetable mixture. Then add 2 slices of halloumi, a squeeze of the salsa and a dollop of sour cream. Take your tortilla crisps and break them up into small pieces and scatter on top. Add your remaining coriander Repeat for the rest of your MOB and tuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Family-Friendly",
+    "Accessible Method",
+    "Super Simple",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner",
+    "Party Food"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-10-09T00:00:00+01:00"
+}

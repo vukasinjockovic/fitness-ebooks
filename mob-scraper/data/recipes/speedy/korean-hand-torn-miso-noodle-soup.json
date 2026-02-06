@@ -1,0 +1,299 @@
+{
+  "id": "5140239",
+  "slug": "korean-hand-torn-miso-noodle-soup",
+  "title": "Korean Hand-Torn Miso Noodle Soup",
+  "url": "https://www.mob.co.uk/recipes/korean-hand-torn-miso-noodle-soup",
+  "summary": "Known as sujebi, this traditional Korean noodle soup is a nice and spicy dinner.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Korean-Hand-Torn-Miso-Noodle-Soup.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 261,
+    "protein": 8,
+    "fat": 8,
+    "saturated_fat": 1,
+    "carbohydrates": 39,
+    "dietary_fibre": 3,
+    "sugars": 7,
+    "sodium": 1412
+  },
+  "ingredients": [
+    {
+      "label": "200g Plain Flour",
+      "quantity": "200",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Boiling Water",
+      "quantity": "120",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shiitake Mushrooms",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Large Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Mirin",
+      "quantity": "3",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 ½ Tbsp Sugar",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Fish Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.6L Low-Salt Chicken/Vegetable Stock",
+      "quantity": "1600",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp White Miso Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp White Miso Paste",
+      "quantity": "4",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Toasted Sesame Seeds, plus extra to serve",
+      "quantity": "1",
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Potato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Courgette",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Spring Onions",
+      "quantity": "5",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Kimchi Brine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kimchi Brine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Kimchi",
+      "quantity": "60",
+      "unit": null,
+      "name": "Kimchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To make the noodle, combine all the dough ingredients in a medium-sized mixing bowl, then use the back of a wooden spoon to bring everything together. Knead the dough for 1 min, wrap in cling film and set aside."
+    },
+    {
+      "heading": null,
+      "description": "For the soup, slice the shiitake mushrooms, onion and garlic. Add to a large pot with miso paste, mirin, sugar, ¼ tsp salt, 1 tsp white pepper, soy sauce, fish sauce and all the water/stock. Grind or blend the toasted sesame seeds into a coarse powder and add to the pot. Set the heat to medium and bring to a simmer with a lid on, then turn the heat down to its lowest setting and cook for 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "In the meantime, peel the potato and carrot. Slice the potato into 1cm half-moons. Slice the carrot and courgette into matchsticks. Cut the spring onion whites into 2.5cm chunks and slice the green tops for garnishing. Set everything aside on a plate."
+    },
+    {
+      "heading": null,
+      "description": "Increase the heat under the soup to medium. Arrange a small bowl of tap water next to you and fetch the dough ball. For this stage, wet your fingers and work as quickly as possible for an even cook of the noodles. Use a quick tearing motion at the edge of the dough ball to create little thin noodle blankets. The beauty of this is its irregular look – but try to keep the pieces thumb-sized and as thin as possible. Keep wetting your hands to prevent any stickage. Mix the noodles with a spatula halfway though tearing to ensure the noodles don’t stick together, and continue to tear all the remaining dough quickly, then mix everything well briefly to prevent stickage."
+    },
+    {
+      "heading": null,
+      "description": "Add all the cut vegetables on top of the noodle broth. Mix everything well and simmer with the lid on for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat off, then add the sesame oil and kimchi brine. Ladle the soup into individual bowls and serve with kimchi, remaining spring onion tops, sesame seeds and chilli oil on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean",
+    "Korean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-02T05:00:00+00:00"
+}

@@ -1,0 +1,275 @@
+{
+  "id": "4369127",
+  "slug": "steak-som-tam-salad",
+  "title": "Steak Som Tam(ish) Salad",
+  "url": "https://www.mob.co.uk/recipes/steak-som-tam-salad",
+  "summary": "In Partnership With Aldi. #ad\n\nThis som tam-inspired salad is packed with fresh and fragrant ingredients. Cooking your steak to a ruby red medium rare will ensure the tastiest outcome.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Steak-Som-Tamish-Salad.jpg",
+  "cook_time": 15,
+  "prep_time": 20,
+  "total_time": 35,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 1022,
+    "protein": 62,
+    "fat": 62,
+    "saturated_fat": 13,
+    "carbohydrates": 54,
+    "dietary_fibre": 13,
+    "sugars": 28,
+    "sodium": 1212
+  },
+  "ingredients": [
+    {
+      "label": "2 Sirloin Steaks (Or Any Cut Of Steak You Like)",
+      "quantity": "480",
+      "unit": null,
+      "name": "Sirloin Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sirloin Steaks (Or Any Cut Of Steak You Like)",
+      "quantity": "480",
+      "unit": null,
+      "name": "Steak",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Shallots",
+      "quantity": "5",
+      "unit": null,
+      "name": "Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Peanuts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Peanut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Soy Sauce",
+      "quantity": "4",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Limes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Apple",
+      "quantity": "1",
+      "unit": null,
+      "name": "Apple",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cabbage",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Green Beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cooked Green Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Green Beans",
+      "quantity": "200",
+      "unit": null,
+      "name": "Green Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cherry Tomatoes",
+      "quantity": "150",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Cherry Tomatoes",
+      "quantity": "150",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Mint (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Basil (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Take the steaks out of the fridge and let them come to room temperature. Finely dice the shallots and thinly slice one of the chillies. Roughly chop the peanuts. Set everything aside."
+    },
+    {
+      "heading": null,
+      "description": "Grab a pestle and mortar and add the garlic and sugar to the mortar. Crush to a smooth paste. Roughly chop the remaining chilli and add to the mortar, then lightly crush. Add the soy sauce and the juice of one lime. Stir the dressing and have a taste – it should be salty, sour, spicy and sweet."
+    },
+    {
+      "heading": null,
+      "description": "For the salad, cut the carrots and apple into matchsticks, thinly shred the cabbage, chop the cooked beans into 4cm lengths and quarter the cherry tomatoes. Combine everything in a large bowl, along with the mint and basil leaves."
+    },
+    {
+      "heading": null,
+      "description": "Season the steaks with salt and pepper. Heat a frying pan over a high heat and add a shot of olive oil. Cook the steaks for 2 mins on either side until brown and caramelised. We’re shooting for a rare steak here."
+    },
+    {
+      "heading": null,
+      "description": "Remove the steaks from the pan and add the diced shallots and sliced chilli. Turn off the heat and add a splash of water and half of the dressing. Swirl together and add half of the peanuts."
+    },
+    {
+      "heading": null,
+      "description": "Toss the remaining dressing with the salad. Divide the salad between serving plates and top with the remaining peanuts. Cut the remaining limes into wedges and serve with the salad. Carve the steaks into thin slices and serve topped with the pan sauce."
+    },
+    {
+      "heading": null,
+      "description": "Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Healthy",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Vietnamese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "0",
+  "post_date": "2023-06-12T09:13:00+01:00"
+}

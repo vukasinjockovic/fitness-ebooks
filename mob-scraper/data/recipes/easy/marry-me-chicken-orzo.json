@@ -1,0 +1,256 @@
+{
+  "id": "6395858",
+  "slug": "marry-me-chicken-orzo",
+  "title": "“Marry Me” Chicken Orzo",
+  "url": "https://www.mob.co.uk/recipes/marry-me-chicken-orzo",
+  "summary": "Chicken and orzo in a creamy, silky sauce. Make this and you’ll understand the title of the recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/220A9848.png",
+  "cook_time": 25,
+  "prep_time": 15,
+  "total_time": 40,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 561,
+    "protein": 39,
+    "fat": 13,
+    "saturated_fat": 4,
+    "carbohydrates": 68,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chicken Breasts",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350g Chicken Breasts",
+      "quantity": "350",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Jarred Sun Dried Tomatoes",
+      "quantity": "80",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Jarred Sun Dried Tomatoes",
+      "quantity": "80",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600ml Chicken Stock",
+      "quantity": "600",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Thyme",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Reduced-Fat Red Pesto",
+      "quantity": "20",
+      "unit": null,
+      "name": "Reduced-Fat Red Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Reduced-Fat Red Pesto",
+      "quantity": "20",
+      "unit": null,
+      "name": "Pesto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Orzo",
+      "quantity": "240",
+      "unit": null,
+      "name": "Orzo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "240g Orzo",
+      "quantity": "240",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120ml Single Cream",
+      "quantity": "120",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Basil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch Basil",
+      "quantity": "50",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Parmesan, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onion and chop the chicken breasts into bite-sized chunks. Slice the sun-dried tomatoes and crush the garlic cloves. Set everything aside."
+    },
+    {
+      "heading": null,
+      "description": "Add ½ tbsp oil from the sun-dried tomato jar to any deep pan or saucepan, then add the onion and garlic. Cook for a few minutes until softened, then add the chicken and cook for around 10 mins until cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Add the sundried tomatoes, oregano, thyme, pesto and a pinch of salt and pepper to the pan. Stir to coat, then pour in about 90% of the stock. Stir again and bring to the boil."
+    },
+    {
+      "heading": null,
+      "description": "Tip in the orzo and reduce the heat to a simmer. Cook for around 7 mins, by which point most of the liquid should have been absorbed (but it should still be quite watery-looking, so add the remaining stock plus some additional water if it’s not). The orzo will continue to soak up the liquid even once it’s off the heat, so don’t worry if it looks a little watery. Stir in the cream, then cook for a further 3 mins or until the orzo is fully cooked and most of the liquid has been absorbed."
+    },
+    {
+      "heading": null,
+      "description": "Stir through some torn basil, then divide between three bowls and top with extra chopped basil and parmesan, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Most Cooked",
+    "Family-Friendly",
+    "Power Protein",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-11-16T04:00:00+00:00"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "7146152",
+  "slug": "sticky-aubergine-rice-bowl-2",
+  "title": "Sticky Aubergine Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/sticky-aubergine-rice-bowl-2",
+  "summary": "Sticky, sweet and spicy - this aubergine rice bowl’s packed with veg, full of flavour and makes a top-tier lunch box.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Lunch-Box-Sticky-Aubergine-Rice-Bowl.jpg",
+  "cook_time": 45,
+  "prep_time": 30,
+  "total_time": 75,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "fat": 13,
+    "saturated_fat": 2,
+    "carbohydrates": 66,
+    "dietary_fibre": 7,
+    "sugars": 10,
+    "sodium": 627
+  },
+  "ingredients": [
+    {
+      "label": "3 Aubergines",
+      "quantity": "3",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions (50g)",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Red Cabbage",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb-Sized Piece of Fresh Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Rice Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Sushi Rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "320g Sushi Rice",
+      "quantity": "320",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Hoisin Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Hoisin Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Crispy Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Seeds, Plus Extra To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Agave Nectar or Maple Syrup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Agave Nectar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Shichimi",
+      "quantity": "1",
+      "unit": null,
+      "name": "Shichimi Togarashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 170°C."
+    },
+    {
+      "heading": null,
+      "description": "Slice the aubergines into batons and whack them in a colander.\nSalt and leave for 5 mins to extract the water. After 5 mins, pat\ndry and get them onto a baking tray. Drizzle with oil and place in the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "While your aubergine is roasting, prep your veg. Thinly slice the\nspring onions, red cabbage, garlic, ginger and red chillies."
+    },
+    {
+      "heading": null,
+      "description": "Grab two bowls. Add the spring onions to one and the red\ncabbage to the other. Cover the spring onions with the juice of\nthe lime, a third of the rice vinegar and a sprinkling of salt.\nOver the red cabbage pour another third of the rice vinegar,\nhalf the sesame oil and a sprinkle of salt and mix it\nthrough. Cover and place both in the fridge."
+    },
+    {
+      "heading": null,
+      "description": "Rinse the sushi rice, then add to a saucepan with just enough\nwater to cover. Leave for 30 mins to soak."
+    },
+    {
+      "heading": null,
+      "description": "Heat a drizzle of oil in a wok or large frying\npan and add the garlic, ginger and red chillies and fry over a low\nheat. Once softened, add the hoisin sauce, soy sauce, sesame seeds, agave, veggie stock cube, chilli oil and the remaining sesame oil and rice vinegar. Give\neverything a good mix together, then add the aubergine straight\nfrom the oven."
+    },
+    {
+      "heading": null,
+      "description": "Add enough water to just cover the aubergine and leave to\nsimmer until it has reduced into a lovely thick sauce. Stir often."
+    },
+    {
+      "heading": null,
+      "description": "Drain the rice and add it to a saucepan with 480ml water (if you're adjusting the servings, use a ratio of one part rice to one and a half parts water) and the shichimi. Bring to the boil, then turn to a simmer, cover\nwith the lid and simmer until cooked, about 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Time to build your lunch boxes. Divide the sushi rice between your Tupperware containers. Add a\ngenerous dollop of aubergine sauce, a helping of marinated red\ncabbage and some sliced avocado. Garnish with the spring onions,\nthe crispy chilli bits from the chilli oil and some more sesame seeds. \nLeave to cool, then box up and pop in the fridge ready for lunchtime. These will keep for up to 3 days in the fridge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Packed Lunch",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-27T13:00:00+01:00"
+}

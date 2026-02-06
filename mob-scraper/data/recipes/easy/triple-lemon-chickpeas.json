@@ -1,0 +1,190 @@
+{
+  "id": "4778517",
+  "slug": "triple-lemon-chickpeas",
+  "title": "Triple Lemon Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/triple-lemon-chickpeas",
+  "summary": "Chickpeas with a zip. If you're into fresh and vibrant veggie-forward dinners then you'll really vibe with this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Triple-Lemon-Chickpeas.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 293,
+    "protein": 13,
+    "fat": 10,
+    "saturated_fat": 4,
+    "carbohydrates": 33,
+    "dietary_fibre": 7,
+    "sugars": 5,
+    "sodium": 246
+  },
+  "ingredients": [
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Fennel Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Fennel Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Preserved Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Preserved Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins Chickpeas",
+      "quantity": "720",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins Chickpeas",
+      "quantity": "720",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Reserved Chickpea Liquid",
+      "quantity": null,
+      "unit": null,
+      "name": "Reserved Chickpea Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "4 Tbsp Crème Fraîche",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Parmesan",
+      "quantity": "30",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Spinach",
+      "quantity": "150",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Za'atar, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Za’atar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Fresh Mint, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place a large frying pan over a medium high heat. Slice the lemon in half horizontally and place one half, cut-side down in the pan, cook for 3-4 mins, until charred. Remove and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely slice the garlic. Finely chop the preserved lemon. Give the pan a clean, then return to the heat. Add a splash of olive oil, then add the garlic and fennel seeds. Sizzle for a minute, then add the preserved lemon. Add the chickpeas and their liquid to the pan. Season with salt and turn up the heat to high. Bubble for 5-10 mins, until most of the water has evaporated. Stir in the crème fraîche and finely grate in the Parmesan. Bubble until the sauce is coating the chickpeas, then stir in the spinach."
+    },
+    {
+      "heading": null,
+      "description": "Add the juice of the charred lemon and the remaining uncharred lemon. Taste and season with salt and pepper. Spoon into bowls, top with za’atar and mint and a drizzle of olive oil to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle-Eastern Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-01-02T07:00:00+00:00"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "6961976",
+  "slug": "parsley-sauce",
+  "title": "Parsley Sauce",
+  "url": "https://www.mob.co.uk/recipes/parsley-sauce",
+  "summary": "A classic, silky and delicious parsley sauce. Amazing with white fish, poultry and pork. Especially good with mashed potato, ham and peas.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Parsley-Sauce.jpg",
+  "cook_time": 5,
+  "prep_time": 10,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "fat": 8,
+    "saturated_fat": 5,
+    "carbohydrates": 9,
+    "dietary_fibre": 0,
+    "sugars": 5,
+    "sodium": 87
+  },
+  "ingredients": [
+    {
+      "label": "20g Fresh Parsley",
+      "quantity": "20",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Unsalted Butter",
+      "quantity": "30",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Flour",
+      "quantity": "30",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Whole Milk",
+      "quantity": "500",
+      "unit": null,
+      "name": "Whole Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Djion Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Worcestershire Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tsp Lemon Juice",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pick and finely chop the leaves from the parsley stalks."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a medium saucepan set over a medium heat. Once melted, add the flour and whisk into a loose paste. Cook the paste over a medium heat, constantly stirring, for 1-2 mins until you get a golden colour and biscuity aroma. The goal here is to just cook out the raw flour."
+    },
+    {
+      "heading": null,
+      "description": "Slowly add the milk a little at a time and whisk constantly until you have a smooth sauce and all the milk is incorporated."
+    },
+    {
+      "heading": null,
+      "description": "Turn the heat off and whisk in the Dijon mustard and Worcestershire sauce. Season with lemon juice and salt to taste. Finish by stirring through the chopped parsley. The sauce should be glossy and pourable. If it is too thick, just add a little warm water until you achieve the desired consistency."
+    },
+    {
+      "heading": null,
+      "description": "Serve warm. If making in advance, keep the sauce in the fridge for up to three days or in the freezer for up to a month. Defrost overnight in the fridge and gently reheat over a low heat."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2024-10-01T12:16:00+01:00"
+}

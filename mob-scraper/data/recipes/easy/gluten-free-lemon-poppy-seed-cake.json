@@ -1,0 +1,173 @@
+{
+  "id": "6798821",
+  "slug": "gluten-free-lemon-poppy-seed-cake",
+  "title": "Chocolate & Lemon Poppy Seed Cake",
+  "url": "https://www.mob.co.uk/recipes/gluten-free-lemon-poppy-seed-cake",
+  "summary": "A classic bake that we’ve made gluten free, using ground almonds in place of flour. It’s citrussy, light and incredibly moreish. Perfect with a cup of tea.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/GF-Lemon-Poppy-Seed-Cake.jpg",
+  "cook_time": 25,
+  "prep_time": 15,
+  "total_time": 40,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 322,
+    "protein": 6,
+    "fat": 20,
+    "saturated_fat": 6,
+    "carbohydrates": 29,
+    "dietary_fibre": 3,
+    "sugars": 22,
+    "sodium": 31
+  },
+  "ingredients": [
+    {
+      "label": "130g Unsalted Butter",
+      "quantity": "130",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "140g Light Brown Sugar",
+      "quantity": "140",
+      "unit": null,
+      "name": "Light Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Poppy Seeds",
+      "quantity": "150",
+      "unit": null,
+      "name": "Poppy Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "130g Ground Almonds",
+      "quantity": "130",
+      "unit": null,
+      "name": "Ground Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cocoa Powder",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Sea Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Sea Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Icing Sugar",
+      "quantity": "150",
+      "unit": null,
+      "name": "Icing Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Grease and line a 1Ib loaf tin with parchment paper. Make sure your butter is at room temperature."
+    },
+    {
+      "heading": null,
+      "description": "Add the butter and sugar to a large mixing bowl and beat together for 3-4 mins until pale and fluffy."
+    },
+    {
+      "heading": null,
+      "description": "Separate the egg yolks and whites into two separate bowls. Whisk the yolks together then add the ground almonds, cocoa powder, salt, poppy seeds and baking powder and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "In a separate bowl, use an electric whisk to beat the egg whites until thick and white with stiff peaks forming."
+    },
+    {
+      "heading": null,
+      "description": "By hand, stir ½ the egg yolk mix into the butter and sugar mix, then fold in ½ the egg whites."
+    },
+    {
+      "heading": null,
+      "description": "Gently fold in the remaining egg yolk mix followed by the remaining egg whites, until just fully incorporated. Don't overwork the mixture as you want to keep the air in the egg whites."
+    },
+    {
+      "heading": null,
+      "description": "Pour the mixture into the tin and bake for 30-40 mins until a toothpick inserted comes out clean. Leave to cool for 10 mins in the tin then transfer to a wire rack to cool completely."
+    },
+    {
+      "heading": null,
+      "description": "For the icing, sift the icing sugar into a bowl and mix together with enough lemon juice to give it a pouring consistency, then pour the icing over the top of the cake."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-03T12:31:00+01:00"
+}

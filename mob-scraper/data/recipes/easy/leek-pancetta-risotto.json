@@ -1,0 +1,192 @@
+{
+  "id": "7144",
+  "slug": "leek-pancetta-risotto",
+  "title": "Leek & Pancetta Risotto",
+  "url": "https://www.mob.co.uk/recipes/leek-pancetta-risotto",
+  "summary": "Creamy silky leeks and crispy pancetta. It is a beautiful combination in a risotto.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/leek-and-pancetta.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 50,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 792,
+    "protein": 27,
+    "fat": 38,
+    "saturated_fat": 16,
+    "carbohydrates": 80,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1442
+  },
+  "ingredients": [
+    {
+      "label": "400g Arborio Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Arborio Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Arborio Rice",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Leeks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cubed Pancetta",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pancetta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175ml White Wine",
+      "quantity": "175",
+      "unit": null,
+      "name": "White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Butter",
+      "quantity": "100",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Brown Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Stock Cubes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Parsley",
+      "quantity": "1",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place the pancetta into a pan and begin to fry on a medium heat until it becomes crispy. Remove the meat from the pan, leaving the fats."
+    },
+    {
+      "heading": null,
+      "description": "Chop up your leeks into small discs, then add to the pan with the pancetta fat. Fry on a medium heat, allowing the leeks to soften. Once soft, add the glass of wine and stir well. Now set the them aside."
+    },
+    {
+      "heading": null,
+      "description": "Into the same pan add half of the butter. Finely chop the onion, then place into the pan and begin to fry gently. Once the onion is translucent, add the arborio rice, making sure you stir and combine thoroughly."
+    },
+    {
+      "heading": null,
+      "description": "Now for the stirring. Into the mixture add one third of your 1L stock, stirring as you pour. Keep stirring the risotto until the rice has absorbed all the liquid and the mixture is sticky. At this point, add another cup of stock, repeating the stirring process. This cycle is to be repeated until all the stock has been absorbed. The consistency of the risotto should now be thick and creamy. Feel free to try to risotto, to ensure the rice is al dente (if you run out of stock and its not ready, simply add some boiling hot water)."
+    },
+    {
+      "heading": null,
+      "description": "Now that the rice is cooked, add the leeks and pancetta back into the pan, combining well. Grate the parmesan and finely chop the parsley. Then add two thirds of both to the pan, along with the rest of the butter and large sprinkling of pepper. Stir well."
+    },
+    {
+      "heading": null,
+      "description": "Time to plate up. Spoon the risotto into a serving bowl. Top with the a sprinkle of the remaining parmesan and parsley, some salt and pepper and a drizzle of olive oil. Tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-07-24T00:00:00+01:00"
+}

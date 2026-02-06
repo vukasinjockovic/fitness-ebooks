@@ -1,0 +1,150 @@
+{
+  "id": "2531072",
+  "slug": "tiramisu",
+  "title": "Ultimate Tiramisu",
+  "url": "https://www.mob.co.uk/recipes/tiramisu",
+  "summary": "The one you’ve all been waiting for: our ultimate tiramisu recipe. Creamy but not too sweet, it’s a proper punchy end to a meal thanks to the combo of amaretto and coffee.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Tiramisu.jpg",
+  "cook_time": 25,
+  "prep_time": 10,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 502,
+    "protein": 10,
+    "fat": 32,
+    "saturated_fat": 19,
+    "carbohydrates": 39,
+    "dietary_fibre": 1,
+    "sugars": 22,
+    "sodium": 92
+  },
+  "ingredients": [
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "90g Caster Sugar",
+      "quantity": "90",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Mascarpone",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Savoiardi Biscuits",
+      "quantity": "200",
+      "unit": null,
+      "name": "Savoiardi Biscuit",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Strong Coffee",
+      "quantity": "300",
+      "unit": null,
+      "name": "Espresso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Amaretto",
+      "quantity": "50",
+      "unit": null,
+      "name": "Amaretto",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cocoa Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cocoa Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Separate your eggs and put the whites into a mixing bowl or bowl of a stand mixer and the yolks into a small bowl. Add half the sugar to the whites and whisk into soft peaks. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the remaining half of the sugar to the yolks and whisk until pale. Add the mascarpone and whisk again until smooth."
+    },
+    {
+      "heading": null,
+      "description": "Carefully fold the egg whites into the mascarpone mix a bit at a time, trying to knock out as little air as possible."
+    },
+    {
+      "heading": null,
+      "description": "Brew 300ml of coffee, add 50ml of amaretto to that brew, and pour the lot into a small tray."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Dip the savoiardi biscuits into the coffee mix for about 3 seconds, then place on the tray with the paper (so they don’t sit in the coffee mix and go completely soggy)."
+    },
+    {
+      "heading": null,
+      "description": "Make a single layer of biscuits across the bottom of the tiramisu dish. Now, spread half the cream over the biscuits. Repeat with the second layer of biscuits and remaining cream."
+    },
+    {
+      "heading": null,
+      "description": "Cover with cling film and leave to sit in the fridge for at least 4 hours or overnight."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, dust generously with cocoa powder."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Party Food",
+    "Pudding"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-20T10:38:00+00:00"
+}

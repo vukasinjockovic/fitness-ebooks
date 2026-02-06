@@ -1,0 +1,132 @@
+{
+  "id": "2825",
+  "slug": "fettuccine-alfredo",
+  "title": "Fettuccine Alfredo with Leeks",
+  "url": "https://www.mob.co.uk/recipes/fettuccine-alfredo",
+  "summary": "Silky, buttery leeks work an absolute charm in the classic Alfredo. No cream anywhere near this dish - pasta water does the trick.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/9K8A3577.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 873,
+    "protein": 32,
+    "fat": 46,
+    "saturated_fat": 28,
+    "carbohydrates": 80,
+    "dietary_fibre": 4,
+    "sugars": 5,
+    "sodium": 682
+  },
+  "ingredients": [
+    {
+      "label": "4 Leeks",
+      "quantity": "4",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Fettuccine",
+      "quantity": "450",
+      "unit": null,
+      "name": "Fettuccine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Fettuccine",
+      "quantity": "450",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "175g Salted Butter",
+      "quantity": "175",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Parmesan",
+      "quantity": "200",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Firstly, cook your fettuccine."
+    },
+    {
+      "heading": null,
+      "description": "While your pasta is cooking, slice your leeks into discs and add them to a frying pan with 50g knob of butter. Cook these on a medium heat until the leeks are smooth and silky, then remove them from the pan and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Take 450ml of your pasta water and pour half of it into the same pan you used to cook the leeks. Add your remaining butter and cook on a low heat, whisking together until the butter has melted. Then, add 150g of your parmesan, continuing to whisk until it has a sauce-like consistency."
+    },
+    {
+      "heading": null,
+      "description": "At this point, add your cooked fettuccine. Toss through the sauce is with some tongs. Keep tossing until it is nice and creamy. At this point, add leeks along with a sprinkling of salt and pepper. Toss everything in, adding splashes of pasta water to keep it loose. Plate it up, sprinkle your remaining parmesan on top and get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-09-04T00:00:00+01:00"
+}

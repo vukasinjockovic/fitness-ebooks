@@ -1,0 +1,278 @@
+{
+  "id": "4458676",
+  "slug": "charred-sea-bass-fregola-salad",
+  "title": "Charred Sea Bass With Fregola Salad",
+  "url": "https://www.mob.co.uk/recipes/charred-sea-bass-fregola-salad",
+  "summary": "A fresh recipe where we've combined a vibrant green and red salsa. A nice healthy dinner that'll wow just about anyone.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Charred-Sea-Bass-With-Fregola-Salad.jpg",
+  "cook_time": 20,
+  "prep_time": 15,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 505,
+    "protein": 29,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 57,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "4 Sea Bass Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Sea Bass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Fregola",
+      "quantity": "300",
+      "unit": null,
+      "name": "Fregola",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Tarragon",
+      "quantity": "25",
+      "unit": null,
+      "name": "Tarragon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sun-Dried Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sun-Dried Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Sun-Dried Tomatoes",
+      "quantity": "200",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Tomato",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tin of Anchovies",
+      "quantity": "15",
+      "unit": null,
+      "name": "Anchovy",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Tarragon",
+      "quantity": "25",
+      "unit": null,
+      "name": "Tarragon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the tomato marinade. Add the paprika, garlic, sun-dried tomatoes, and diced tomato into a blender or food processor with a tbsp of olive oil. Blend until it forms a paste. Rub the paste over the white flesh of the sea bass and set aside in the fridge for 10-15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Make the salsa verde by blitzing the herbs, anchovies, Dijon and juice of the lemon to make a thick and chunky paste. Add enough olive oil to make it drizzle-able consistency, then season well and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Rinse the giant fregola in a sieve until the water runs clear, then tip into a saucepan. Cover with boiling water, season with salt and place over a high heat. Bring to the boil and cook according to packet instructions. Drain and rinse with cold water, then tip into a bowl. Add the juice of the lemon and the capers. Roughly chop the soft herbs and toss them through, then finely dice the tomato and onion, add to the mix and season well. Add 1-2 tbsp olive oil."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the grill to high. Slide the marinated fish under the grill, flesh side up and cook for 3-4 mins. The marinade will char a little and the flesh beneath will cook through. To check if the flesh is cooked, you can pop a skewer in, if it passes through the fish with no resistance, you’re all good!"
+    },
+    {
+      "heading": null,
+      "description": "Spoon the fregola onto plates, top with the sea bass, drizzle with salsa verde. Scatter with a few extra herb leaves and top with a crack of black pepper. Slice lemon wedges and serve with the fish."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-08T09:18:00+01:00"
+}

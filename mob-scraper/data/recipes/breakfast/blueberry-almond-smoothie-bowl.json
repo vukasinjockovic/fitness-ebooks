@@ -1,0 +1,202 @@
+{
+  "id": "7132678",
+  "slug": "blueberry-almond-smoothie-bowl",
+  "title": "Blueberry & Almond Smoothie Bowl",
+  "url": "https://www.mob.co.uk/recipes/blueberry-almond-smoothie-bowl",
+  "summary": "Thick, nutty and loaded with berries. This smoothie bowl is super speedy and perfect for anyone who likes their breakfast with a spoon and a crunchy topping.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/5/Blueberry-Almond-Smoothie-Bowl.jpg",
+  "cook_time": null,
+  "prep_time": 10,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 441,
+    "protein": 25,
+    "fat": 19,
+    "saturated_fat": 3,
+    "carbohydrates": 39,
+    "dietary_fibre": 11,
+    "sugars": 22,
+    "sodium": 143
+  },
+  "ingredients": [
+    {
+      "label": "100g Frozen Blueberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Blueberries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Frozen Blackberries",
+      "quantity": "50",
+      "unit": null,
+      "name": "Frozen Blackberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Frozen Banana",
+      "quantity": "50",
+      "unit": null,
+      "name": "Frozen Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Frozen Banana",
+      "quantity": "50",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40ml Almond Milk",
+      "quantity": "40",
+      "unit": null,
+      "name": "Almond Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Skyr Yoghurt",
+      "quantity": "60",
+      "unit": null,
+      "name": "Skyr Natural Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Skyr Yoghurt",
+      "quantity": "60",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Vanilla Protein Powder",
+      "quantity": "30",
+      "unit": null,
+      "name": "Vanilla Protein Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Almond Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Almond Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Chia Seeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Fresh Berries",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Granola",
+      "quantity": null,
+      "unit": null,
+      "name": "Granola",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Flaked Almonds",
+      "quantity": null,
+      "unit": null,
+      "name": "Flaked Almond",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Drizzle Almond Butter",
+      "quantity": null,
+      "unit": null,
+      "name": "Almond Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sprinkle Chia or Hemp Seeds",
+      "quantity": null,
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chuck the blueberries, blackberries, banana, milk, yoghurt, protein powder, almond butter, the juice of the lime and chia seeds into a blender."
+    },
+    {
+      "heading": null,
+      "description": "Start blending on a low speed. Use a tamper to push everything down – it’ll be thick. Add 10ml more milk at a time only if it really won’t blend."
+    },
+    {
+      "heading": null,
+      "description": "Scoop into a bowl and load up with your favourite toppings – fresh berries, granola, almonds, seeds or another drizzle of almond butter."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-16T08:16:00+01:00"
+}

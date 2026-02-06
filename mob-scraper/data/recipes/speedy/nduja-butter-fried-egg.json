@@ -1,0 +1,137 @@
+{
+  "id": "3908855",
+  "slug": "nduja-butter-fried-egg",
+  "title": "'Nduja Butter Fried Egg",
+  "url": "https://www.mob.co.uk/recipes/nduja-butter-fried-egg",
+  "summary": "Melting a blob of honey and 'nduja butter and letting your fried eggs crisp up in there is going to change your breakfast game. Spicy, sweet and savoury.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/11/Nduja-Butter-Fried-Egg.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 17,
+    "fat": 23,
+    "saturated_fat": 11,
+    "carbohydrates": 44,
+    "dietary_fibre": 3,
+    "sugars": 5,
+    "sodium": 635
+  },
+  "ingredients": [
+    {
+      "label": "75g Anchor Butter",
+      "quantity": "75",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Tbsp ‘Nduja",
+      "quantity": "5",
+      "unit": null,
+      "name": "Nduja",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Dried Oregano",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices of Sourdough",
+      "quantity": "400",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Chives",
+      "quantity": "15",
+      "unit": null,
+      "name": "Chive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add your softened butter to a bowl, and mix in your ‘nduja, honey and dried oregano."
+    },
+    {
+      "heading": null,
+      "description": "Pop your toast in the toaster."
+    },
+    {
+      "heading": null,
+      "description": "Heat a non-stick frying pan over a medium-high heat. Add a heaped tbsp of your butter mixture and let it melt and sizzle."
+    },
+    {
+      "heading": null,
+      "description": "Crack an egg into the pan and season the top with salt. Let the whites bubble up and the base of the egg go crispy."
+    },
+    {
+      "heading": null,
+      "description": "Rub the toast in the pan to butter it, then pop it on a plate. Top with your fried egg and some chopped chives. Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "Italian-Inspired",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-11-11T10:00:00+00:00"
+}

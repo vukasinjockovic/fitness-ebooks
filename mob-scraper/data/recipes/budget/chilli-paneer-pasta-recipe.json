@@ -1,0 +1,285 @@
+{
+  "id": "5789826",
+  "slug": "chilli-paneer-pasta-recipe",
+  "title": "Chilli Paneer Pasta",
+  "url": "https://www.mob.co.uk/recipes/chilli-paneer-pasta-recipe",
+  "summary": "Paneer tossed in curry powder and a sweet chilli sauce, mixed with gorgeous garlicky pasta.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/06/Chilli-Paneer-Pasta-Recipe.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 35,
+  "serving_size": 5,
+  "nutrition": {
+    "calories": 464,
+    "protein": 18,
+    "fat": 20,
+    "saturated_fat": 8,
+    "carbohydrates": 52,
+    "dietary_fibre": 4,
+    "sugars": 8,
+    "sodium": 523
+  },
+  "ingredients": [
+    {
+      "label": "1 Large Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pasta (we used fusilli)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Fusilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Pasta (we used fusilli)",
+      "quantity": "300",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Paneer",
+      "quantity": "400",
+      "unit": null,
+      "name": "Paneer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Paneer",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Curry Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Tbsp Ketchup",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ketchup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Sweet Chilli Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Sweet Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garam Masala",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Ground Turmeric",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch Ground Cumin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Salt",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Green Chillies",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Dice the paneer into bite-sized cubes, then transfer to a bowl. Add the oil, turmeric, curry powder and a pinch of salt, then toss well."
+    },
+    {
+      "heading": null,
+      "description": "Heat a large frying pan over a medium-high heat, add a splash of vegetable oil. Once the oil is shimmering, add the paneer cubes and fry on all sides for a total of 5 mins. Meanwhile, dice the onion, green chillies and peppers. Finely dice the garlic and coriander."
+    },
+    {
+      "heading": null,
+      "description": "Remove the cooked paneer from the pan and set aside. Add the onion and garlic to the same pan, turn the heat to medium and cook for 10 mins until translucent."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, cook the pasta following pack instructions. Combine all the chilli sauce ingredients in a bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Add the peppers to the pan, then pour in the chilli sauce. Reduce the sauce to your preferred thickness, over a medium heat for 10 mins. Add the paneer back to the pan, tip in the cooked pasta and give everything a good mix."
+    },
+    {
+      "heading": null,
+      "description": "Serve with chillies and coriander on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Nishat Tahsin",
+      "uri": "chefs/nishat-cooks",
+      "summary": "Nishat is a passionate home cook and Biochemistry PhD student based in London. Combining her love for cooking and University life, Nishat uses her social platforms to share south-asian recipes and promote cost-effective student meals."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-03T10:04:00+01:00"
+}

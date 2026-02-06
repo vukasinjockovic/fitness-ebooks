@@ -1,0 +1,257 @@
+{
+  "id": "4052233",
+  "slug": "lemongrass-pork-meatball-bowl",
+  "title": "Lemongrass Pork Meatball Bowl",
+  "url": "https://www.mob.co.uk/recipes/lemongrass-pork-meatball-bowl",
+  "summary": "These fragrant, spicy lemongrass meatballs use lean pork mince and punchy aromatics. A zingy, nutritious midweek recipe to add to your locker.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/Easy-Lemongrass-Pork-Meatballs.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 23,
+    "fat": 19,
+    "saturated_fat": 5,
+    "carbohydrates": 72,
+    "dietary_fibre": 3,
+    "sugars": 19,
+    "sodium": 1342
+  },
+  "ingredients": [
+    {
+      "label": "1 Lemongrass Stalk",
+      "quantity": "20",
+      "unit": null,
+      "name": "Lemongrass",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Large Bunch of Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Chillies",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Spring Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Thumb-Sized Piece of Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Caster Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g 5% Fat Pork Mince",
+      "quantity": "450",
+      "unit": null,
+      "name": "Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g 5% Fat Pork Mince",
+      "quantity": "450",
+      "unit": null,
+      "name": "Pork",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sushi Rice (Or Any Other Rice You Have)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sushi Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sushi Rice (Or Any Other Rice You Have)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Sweet Chilli Sauce",
+      "quantity": "6",
+      "unit": null,
+      "name": "Sweet Chilli Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": "10",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Add the lemongrass, half of the coriander, half of your green chillies, half of the spring onions, half the ginger, and all of the garlic to a food processor along with the fish sauce, soy and two-thirds of your sugar. Whizz into a coarse paste."
+    },
+    {
+      "heading": null,
+      "description": "Add the pork mince to a bowl and chuck in the paste. Mix thoroughly until the pork starts to become sticky and is totally homogenous. Pop into the fridge for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, combine the rice vinegar with the remaining sugar in a bowl. Cut the remaining ginger and chilli into matchsticks, and cut the cucumber and carrot into small batons. Sprinkle with salt and allow to sit for 10 mins. Drain off any excess moisture then add to the vinegar and sugar mixture. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Cook the sushi rice according to the package instructions and keep warm."
+    },
+    {
+      "heading": null,
+      "description": "Shape your pork mixture into ping pong ball-sized meatballs. Set a large frying pan over a medium heat and add the meatballs one by one, browning on all sides. Keep cooking, rolling around, until the meatballs are cooked through and starting to char. Add the sweet chilli sauce and a dash of soy sauce. Glaze the meatballs with the sweet chilli."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice your remaining spring onions. Serve the meatballs over the steamy sushi rice with a handful of pickled veg and the remaining coriander and spring onion on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-02-01T08:00:00+00:00"
+}

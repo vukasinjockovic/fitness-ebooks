@@ -1,0 +1,193 @@
+{
+  "id": "7031685",
+  "slug": "korean-marinated-eggs",
+  "title": "Korean Marinated Eggs (Mayak Eggs)",
+  "url": "https://www.mob.co.uk/recipes/korean-marinated-eggs",
+  "summary": "Our take on the viral drug eggs. These guys are the ultimate lunch meal prep. Super quick, super easy and so so delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/12/Korean-Marinated-Eggs.jpg",
+  "cook_time": 5,
+  "prep_time": 10,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 322,
+    "protein": 20,
+    "fat": 15,
+    "saturated_fat": 3,
+    "carbohydrates": 28,
+    "dietary_fibre": 2,
+    "sugars": 24,
+    "sodium": 2202
+  },
+  "ingredients": [
+    {
+      "label": "12 Eggs",
+      "quantity": "12",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Spring Onion",
+      "quantity": "6",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Red Chillies",
+      "quantity": "4",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Soy Sauce",
+      "quantity": "250",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Rice Wine Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30ml Fish Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fish Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Honey",
+      "quantity": "100",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Sesame Seeds",
+      "quantity": "40",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "To Serve, Cooked Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "To Serve, Cooked Rice",
+      "quantity": null,
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Bring a large saucepan of water to a boil over a high heat. Once boiling, gently add fridge cold eggs to the hot water and simmer for 6 mins. Remove from the water and place straight into iced water to cool. Once cool enough to handle, peel the eggs."
+    },
+    {
+      "heading": null,
+      "description": "To make the marinade, finely mince the garlic and finely slice the spring onions and chillies. Add to a container, along with all the remaining ingredients, and whisk to incorporate."
+    },
+    {
+      "heading": null,
+      "description": "Pop the eggs into the marinade so they are covered and place a paper towel over the top. This will make sure the marinade is evenly distributed."
+    },
+    {
+      "heading": null,
+      "description": "Pop them in the fridge overnight, or for up to 4 days. Serve with freshly cooked rice."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Low Calorie",
+    "Most Cooked",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks",
+    "Dinner",
+    "Sides"
+  ],
+  "cuisines": [
+    "Korean"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-05-07T06:00:00+01:00"
+}

@@ -1,0 +1,217 @@
+{
+  "id": "7707505",
+  "slug": "miso-salmon-green-tea-with-rice",
+  "title": "Miso Salmon & Green Tea with Rice",
+  "url": "https://www.mob.co.uk/recipes/miso-salmon-green-tea-with-rice",
+  "summary": "Inspired by Japanese ochazuke, this cosy bowl features fragrant green tea broth, sesame rice, flaky miso salmon and an umami-packed spring onion condiment.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/9/Miso-Salmon-Green-Tea-with-Rice.jpg",
+  "cook_time": 35,
+  "prep_time": 10,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 420,
+    "protein": 23,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 48,
+    "dietary_fibre": 2,
+    "sugars": 4,
+    "sodium": 900
+  },
+  "ingredients": [
+    {
+      "label": "4 Hot Smoked Salmon Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Hot Smoked Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Hot Smoked Salmon Fillets",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Cooked Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Cooked Jasmine Rice",
+      "quantity": "500",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "700ml Dashi",
+      "quantity": "700",
+      "unit": null,
+      "name": "Dashi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Green Tea Teabags",
+      "quantity": "2",
+      "unit": null,
+      "name": "Green Tea Teabag",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Mirin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Shoyu Soy Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Shoyu Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Wasabi, to serve (optional)",
+      "quantity": null,
+      "unit": null,
+      "name": "Wasabi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Nori Sheet",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nori Seaweed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Toasted Sesame Seeds",
+      "quantity": "3",
+      "unit": null,
+      "name": "Toasted Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Toasted Sesame Oil",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Toasted Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "White Miso",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp White Miso",
+      "quantity": "2",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tbsp Mirin",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Mirin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Tear the nori into pieces and tip into a blender with half of the sesame seeds. Blitz into a rough powder. Stir through the remaining sesame seeds and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Trim and thinly slice the spring onions. Add the spring onion whites into a bowl with the toasted sesame oil, white miso, mirin and the nori sesame mixture. Stir until well combined and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Pour the dashi into a saucepan and bring to the boil. Once boiling, lower the heat and add the green tea teabags, mirin and shoyu soy sauce. Let it steep for 3–4 mins, then fish out the teabags. Taste and adjust seasoning with a splash more mirin or shoyu if needed — but don’t go too hard, the miso condiment will bring extra saltiness."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the cooked rice between bowls. Pour over the green tea broth, then top with flaked salmon and a generous spoonful of the spring onion miso condiment. Add a dab of wasabi, if you like a kick and finish with some spring onion greens."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese",
+    "Japanese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Chloe René",
+      "uri": "chefs/chloe-rené",
+      "summary": "Chloe (@chlo_eat) takes inspiration from her diverse upbringing to create recipes and dishes influenced from cultures around the world. Despite her classical training, Chloe's philosophy in the kitchen revolves around simplicity and home-cooking. She firmly believes that the essence of a great meal lies in the quality of ingredients and the care put into their preparation. Instead of relying on complex and technical processes, Chloe prizes the art of letting ingredients shine through, enhancing their natural flavours with a delicate touch."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-09-03T11:48:00+01:00"
+}

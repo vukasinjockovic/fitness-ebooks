@@ -1,0 +1,299 @@
+{
+  "id": "5923949",
+  "slug": "beef-stew-and-dumplings",
+  "title": "Beef Stew And Dumplings",
+  "url": "https://www.mob.co.uk/recipes/beef-stew-and-dumplings",
+  "summary": "Discover the ultimate comfort food with our savoury beef stew and dumplings recipe. It’s the perfect dinner for cold evenings and a pretty foolproof recipe that you can leave on a nice simmer all afternoon.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/07/Beef-Stew-And-Dumplings.jpg",
+  "cook_time": 215,
+  "prep_time": 10,
+  "total_time": 225,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 627,
+    "protein": 48,
+    "fat": 32,
+    "saturated_fat": 14,
+    "carbohydrates": 33,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1042
+  },
+  "ingredients": [
+    {
+      "label": "1kg Beef Shin",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef Shin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Beef Shin",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Carrots",
+      "quantity": "2",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sticks Celery",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Plain Flour",
+      "quantity": "3",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bay Leaves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Bay Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tomato Purée",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Marmite",
+      "quantity": "2",
+      "unit": null,
+      "name": "Marmite",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Beef Stock",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Flat-Leaf Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Flat Leaf Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Plain Flour",
+      "quantity": "125",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Baking Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Baking Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Suet",
+      "quantity": "60",
+      "unit": null,
+      "name": "Suet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Cold Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cold Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mature Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Extra Mature Cheddar ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Mature Cheddar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 140°C."
+    },
+    {
+      "heading": null,
+      "description": "Cut the beef shin into 5cm pieces, or get the butcher to do this for you. Scrape into a bowl."
+    },
+    {
+      "heading": null,
+      "description": "Halve the onion and cut into chunky dice, then peel the carrots and cut them into similar-sized pieces. Do the same with the celery."
+    },
+    {
+      "heading": null,
+      "description": "Scatter the beef pieces with the flour and plenty of salt and pepper, then toss to coat really well."
+    },
+    {
+      "heading": null,
+      "description": "Heat a generous glug of olive oil in a large lidded casserole pan set over a medium-high heat. Lay in some of the beef pieces, leaving a little gap around each so they can fry properly."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 2 mins on each side until golden and crisp, then remove into a clean bowl. Repeat with the remaining beef pieces, adding a little more oil as you go, if needed."
+    },
+    {
+      "heading": null,
+      "description": "Add in another drizzle of oil and add the onion, carrot, celery, and bay leaves along with a good pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Put on the lid and cook for 6-8 mins, stirring regularly until the onions have softened slightly."
+    },
+    {
+      "heading": null,
+      "description": "Squeeze in the tomato purée, spoon in the Marmite, and cook for a minute before pouring in the beef stock and adding the beef back to the pan along with any resting juices from the bowl."
+    },
+    {
+      "heading": null,
+      "description": "Bring to the boil, then put on the lid and pop it into the oven for 2 hrs. After 2 hrs, remove the lid and cook for another 30 mins, until the beef is meltingly tender and the gravy has thickened slightly."
+    },
+    {
+      "heading": null,
+      "description": "For the dumplings, tip the flour, baking powder and suet into a bowl with a pinch of salt and pour in the water. Mix briefly to form a dough."
+    },
+    {
+      "heading": null,
+      "description": "Tip the dough out onto a well-floured work surface, divide it into 8 pieces and shape into rough scone shapes."
+    },
+    {
+      "heading": null,
+      "description": "Coarsely grate the cheddar."
+    },
+    {
+      "heading": null,
+      "description": "Once the beef has been cooking for 2 hrs 30 mins as described above, nestle the dumplings into the top of the stew."
+    },
+    {
+      "heading": null,
+      "description": "Add a pinch of cheddar on top of each, then pop back into the oven for 30-40 mins, until the cheese and dumplings are lightly golden."
+    },
+    {
+      "heading": null,
+      "description": "Scatter with the parsley to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Batch",
+    "Freezer Friendly",
+    "Low Carb",
+    "Family-Friendly",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-06-28T09:51:00+01:00"
+}

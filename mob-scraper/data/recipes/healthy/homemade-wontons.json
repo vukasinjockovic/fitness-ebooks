@@ -1,0 +1,434 @@
+{
+  "id": "5342106",
+  "slug": "homemade-wontons",
+  "title": "Homemade Wontons",
+  "url": "https://www.mob.co.uk/recipes/homemade-wontons",
+  "summary": "A foolproof recipe for homemade wontons. We love them in a rich, soothing broth or dunked into chilli vinegar.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/04/Homemade-Wontons.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 573,
+    "protein": 27,
+    "fat": 19,
+    "saturated_fat": 4,
+    "carbohydrates": 73,
+    "dietary_fibre": 4,
+    "sugars": 7,
+    "sodium": 1812
+  },
+  "ingredients": [
+    {
+      "label": "200g Pack of Wonton Wrappers",
+      "quantity": "200",
+      "unit": null,
+      "name": "Wonton Wrapper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "165g Prawns",
+      "quantity": "165",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Minced Pork 20% Fat",
+      "quantity": "250",
+      "unit": null,
+      "name": "20% Fat Pork Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Shiitake Mushrooms",
+      "quantity": "4",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cornstarch",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp White Pepper",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml Water",
+      "quantity": "60",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Egg Noodle Nest",
+      "quantity": "250",
+      "unit": null,
+      "name": "Dried Egg Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Egg Noodle Nest",
+      "quantity": "250",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Pak Choi, to serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pak Choi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion, to garnish",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Chilli oil, to garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Sesame oil, to garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1.5 litres Chicken Stock",
+      "quantity": "1500",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Shiitake Mushrooms, whole",
+      "quantity": "3",
+      "unit": null,
+      "name": "Shiitake Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Spring onions, chunked",
+      "quantity": "5",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Fresh Ginger, sliced",
+      "quantity": "30",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Carrot, sliced",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Soy Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Dashi powder, optional",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Dashi Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Chicken powder, optional",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chicken Bouillon Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "White Pepper, to taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Ground White Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Salt, to taste",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "3 Tbsp Rice Wine Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp sesame oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp chilli oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60ml hot dumpling water",
+      "quantity": "60",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Sesame seeds, to garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Coriander to garnish",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ tsp Chicken Bouillon Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Chicken Bouillon Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "If you are making the broth, you're going to need to prep your veggies. Finely slice your fresh ginger and carrots before chunking your spring onions. Now, add all the ingredients into a large pot, bring to a boil and simmer for 20 mins. Optionally use a sieve to remove all the bits, keeping just the mushrooms and broth for serving."
+    },
+    {
+      "heading": null,
+      "description": "Finely dice shiitake mushrooms and add to a large mixing bowl. Roughly cut the prawns into ¼ chunks, and add half to the bowl. Finely dice and mince the other half the prawns until a sticky paste forms and add to the mixing bowl. Add all the remaining ingredients except the water and mix in one direction with a fork or chopstick until a large meatball forms. Then add the liquid in two parts and mix until the meatball has absorbed it, then add remaining and mix until absorbed again. Cling film the bowl and leave in the fridge for at least 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "If making noodles, boil the noodles now. Whilst the noodles are boiling add the pak choi for just one minute to cook and then remove and set aside. Drain the noodles and toss well with a little sesame oil and set aside on a plate."
+    },
+    {
+      "heading": null,
+      "description": "To make the wontons, Add just a tsp of filling in the centre of the wrapper, with 1 chunk of prawn. Fold in half like a purse and bring the edges into the middle. Use the filling as glue to seal around it, and allow the excess dough to hang - as this will be eaten like a noodle. Just ensure the wrapper is tightly sealed around the filing so nothing leaks when boiled. Place onto a large plate and cover with a lightly damp tea towel, so they don’t dry out and repeat."
+    },
+    {
+      "heading": null,
+      "description": "You can now freeze as many wonton as you’d like. If freezing, place wontons on pieces of parchment for easy removal in future."
+    },
+    {
+      "heading": null,
+      "description": "In a large pot of boiling water, add as many many wontons as desired. When the wontons float, add a cup of cold water to deflate the bubbles, and bring to a boil one more time. Serve straight into bowls or add to a large plate, tossed with sesame oil to prevent them from sticking."
+    },
+    {
+      "heading": null,
+      "description": "If you're making wonton noodle soup, grab a serving bowl and assemble the soup, noodles, wonton, pak choi and finish with chilli oil, sliced spring onions and a drizzle of sesame oil."
+    },
+    {
+      "heading": null,
+      "description": "If you choose the chilli oil vinegar add all the ingredients into a serving bowl, with the hot dumpling water, wontons, and serve with sesame seeds and sliced spring onions."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "High-Protein",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Asian-Inspired",
+    "Chinese-Inspired",
+    "East-Asian Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Romany Henry",
+      "uri": "chefs/romany-henry",
+      "summary": "Eating the world, preferably with chilli oil, Romany Henry (@dudu_eats) is a Mob chef and freelancer recipe developer who always comes at a dishes with a fun and fresh angle. Starters, mains, desserts – you name it, and she can cook it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-03T15:19:00+01:00"
+}

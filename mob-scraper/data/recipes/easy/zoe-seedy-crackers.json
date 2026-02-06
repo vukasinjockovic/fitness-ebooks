@@ -1,0 +1,134 @@
+{
+  "id": "6747015",
+  "slug": "zoe-seedy-crackers",
+  "title": "ZOE Seedy Crackers",
+  "url": "https://www.mob.co.uk/recipes/zoe-seedy-crackers",
+  "summary": "Looking for healthy snacks? Look no further. These easy oven-baked flaxseed and chia seed crackers are the perfect vehicle for your favourite dip.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/ZOE-Seedy-Crackers-2.jpg",
+  "cook_time": 90,
+  "prep_time": 15,
+  "total_time": 105,
+  "serving_size": 12,
+  "nutrition": {
+    "calories": 97,
+    "protein": 4,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 3,
+    "dietary_fibre": 5,
+    "sugars": null,
+    "sodium": 47
+  },
+  "ingredients": [
+    {
+      "label": "80g Ground Flaxseed",
+      "quantity": "80",
+      "unit": null,
+      "name": "Ground Flaxseed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "45g Chia Seeds",
+      "quantity": "45",
+      "unit": null,
+      "name": "Chia Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Other Mixed Seeds",
+      "quantity": "100",
+      "unit": null,
+      "name": "Mixed Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Caraway Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Caraway Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Nigella Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nigella Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "170ml Water",
+      "quantity": "170",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 100°C."
+    },
+    {
+      "heading": null,
+      "description": "Mix all the seeds together in a bowl with a pinch of salt. Add the water and give it a good stir then set aside for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking paper. Pour the soaked seed mixture out onto the tray and cover with a second piece of baking paper. Press down and roll the dough out into a thin layer. Carefully peel off the top layer of baking paper."
+    },
+    {
+      "heading": null,
+      "description": "Bake in the oven for an hour then turn off the oven and leave the crackers in the oven for another 30 mins or until cool."
+    },
+    {
+      "heading": null,
+      "description": "Once cool, remove from the oven and snap into crackers. You can store them in an airtight container for up to two weeks. They go great with our smashed pea dip!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Low Carb",
+    "Accessible Method",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Snacks",
+    "Afternoon Tea",
+    "Sides",
+    "Starter"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Healthy by ZOE",
+      "uri": "chefs/zoe",
+      "summary": "ZOE (@ZOE) is a science and nutrition company leading a movement to transform the health of millions through smarter food choices. ZOE means life in Greek — and ZOE passionately believes everyone can feel better and live longer, healthier lives by rethinking what they eat. ZOE conducts the world’s largest nutrition science study to better understand the relationship between food and health. Based on this research, their personalised nutrition program delivers tailored advice based on metabolic and gut health, turning complex science into clear step-by-step actions to improve your health with every meal. Become a member at zoe.com. All of their recipes are developed by nutritionists to help you embrace food that tastes amazing and makes you feel even better."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-09-02T15:03:00+01:00"
+}

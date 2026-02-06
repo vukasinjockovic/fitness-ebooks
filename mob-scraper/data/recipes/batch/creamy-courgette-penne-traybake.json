@@ -1,0 +1,158 @@
+{
+  "id": "4486194",
+  "slug": "creamy-courgette-penne-traybake",
+  "title": "Creamy Courgette Penne Traybake",
+  "url": "https://www.mob.co.uk/recipes/creamy-courgette-penne-traybake",
+  "summary": "The easiest (and creamiest) dinner you'll cook this week. It's sort of a pasta bake, sort of a traybake, and completely delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Creamy-Courgette-Penne-Traybake-Recipe.jpg",
+  "cook_time": 30,
+  "prep_time": 5,
+  "total_time": 35,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 19,
+    "fat": 20,
+    "saturated_fat": 10,
+    "carbohydrates": 75,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "500g Courgettes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Bulb",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Penne",
+      "quantity": "400",
+      "unit": null,
+      "name": "Penne Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Penne",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Mascarpone or Cream Cheese",
+      "quantity": "250",
+      "unit": null,
+      "name": "Mascarpone",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Parmesan",
+      "quantity": "50",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Pine Nuts, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Basil, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Finely slice the courgettes and add to a large roasting tin. Slice the top off the bulb of garlic, drizzle with a little olive oil, wrap in foil and snuggle into the tray. Slide into the oven for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, bring a pan of salted water to the boil. Drop the penne into the boiling water and cook according to packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tin from the oven, and remove the garlic, unwrap, and set aside to cool a little. Use a slotted spoon to scoop the pasta into the tray along with a big splash of pasta water. Add the cream cheese/mascarpone along with the smooshed garlic. Grate the Parmesan straight into the tray, then add the juice of ½ the lemon. Season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Taste and add extra lemon juice if it needs it – add a little more of the pasta water to loosen the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Spoon into bowls, top with more Parmesan, basil leaves and toasted pine nuts."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Batch",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "Low Ingredient",
+    "Accessible Method",
+    "Super Simple",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-08-04T15:43:00+01:00"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "6894165",
+  "slug": "soy-baked-chicken-with-garlic-rice",
+  "title": "Soy Baked Chicken with Garlic Rice",
+  "url": "https://www.mob.co.uk/recipes/soy-baked-chicken-with-garlic-rice",
+  "summary": "Honey and soy-baked chicken thighs with a garlicky one-pot chicken rice and a quick citrus coriander salad. A fuss-free midweek staple inspired by Hainanese chicken.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Soy-Baked-Chicken-with-Garlic-Rice.jpeg",
+  "cook_time": 30,
+  "prep_time": 20,
+  "total_time": 50,
+  "serving_size": 3,
+  "nutrition": {
+    "calories": 728,
+    "protein": 38,
+    "fat": 32,
+    "saturated_fat": 7,
+    "carbohydrates": 72,
+    "dietary_fibre": 3,
+    "sugars": 9,
+    "sodium": 1582
+  },
+  "ingredients": [
+    {
+      "label": "6 Boneless Skin-On Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Boneless Skin-On Chicken Thigh",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Boneless Skin-On Chicken Thighs",
+      "quantity": "6",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dark Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Oyster Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Oyster Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sake",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1.5 Tbsp Honey",
+      "quantity": "1.5",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Black Pepper",
+      "quantity": "1",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp MSG",
+      "quantity": "1",
+      "unit": null,
+      "name": "MSG",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sesame Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Uncooked Jasmine Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Jasmine Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Uncooked Jasmine Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300ml Chicken Stock",
+      "quantity": "300",
+      "unit": null,
+      "name": "Chicken Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Ginger",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegetable Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Fresh Coriander",
+      "quantity": null,
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Cucumber",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sesame Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get all the ingredients for the chicken, except the sesame seeds, into a large bowl. Give everything a good mix, making sure the chicken is thoroughly coated, then pop in the fridge to marinate for at least 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C and line a baking tray with tin foil."
+    },
+    {
+      "heading": null,
+      "description": "Put the marinated chicken on the tray, skin side up, and sprinkle over the sesame seeds. Bake in the oven for 20 mins then remove and set aside to rest for 5 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, rinse the rice two or three times until the water runs clear then drain. Mince the garlic and ginger and cut the spring onions into thirds. Heat a glug of vegetable oil in a small saucepan set over a medium-high heat. Add the garlic, ginger and spring onion and sauté for 1-2 mins until fragrant but not browned."
+    },
+    {
+      "heading": null,
+      "description": "Add the drained rice to the same pan and toast for 1 minute. Pour in the chicken stock and a large pinch of salt. Pop the lid on, turn the heat to high and bring to a boil. Once boiling, immediately turn the heat down to the lowest setting and cook, with the lid on, for 18 mins. Remove the pan from the heat and set aside until ready to serve."
+    },
+    {
+      "heading": null,
+      "description": "For the salad, roughly chop the coriander and thinly slice the cucumber and red onion. Add to a bowl along with the juice of the lime and the sesame oil and mix to combine."
+    },
+    {
+      "heading": null,
+      "description": "When ready to serve, chop the chicken into strips. Divide the rice between plates and top with the sliced chicken, spooning over any leftover juices from the oven tray. Serve with a handful of the salad."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Family-Friendly",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese",
+    "Chinese-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Justin Tsang",
+      "uri": "chefs/justin-tsang",
+      "summary": "Justin ‘Dustbin’ Tsang is a cook specialising in indulgent, home-cooked Asian food with a twist. Inspired by his upbringing around his parents Chinese restaurants, he shares his knowledge on cooking techniques and making Asian cooking more exciting and accessible."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-09T15:35:00+01:00"
+}

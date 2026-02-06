@@ -1,0 +1,178 @@
+{
+  "id": "2362553",
+  "slug": "spicy-aubergine-and-nduja-rigatoni",
+  "title": "Spicy Aubergine and 'Nduja Rigatoni",
+  "url": "https://www.mob.co.uk/recipes/spicy-aubergine-and-nduja-rigatoni",
+  "summary": "A spicy, zingy pasta that makes the most of summer aubergines. Get it on the table in under 30? Result!",
+  "image": "https://files.mob-cdn.co.uk/recipes/DEA83B77-DF31-4EA8-8FB9-4DBB5C839799-2.JPG",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 482,
+    "protein": 16,
+    "fat": 16,
+    "saturated_fat": 5,
+    "carbohydrates": 67,
+    "dietary_fibre": 5,
+    "sugars": 5,
+    "sodium": 573
+  },
+  "ingredients": [
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rigatoni",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rigatoni",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Large Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g ‘Nduja",
+      "quantity": "100",
+      "unit": null,
+      "name": "Nduja",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Pecorino",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pecorino Romano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Pecorino",
+      "quantity": "30",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Get your rigatoni on to boil in a large pan of salted water. Cook until al dente."
+    },
+    {
+      "heading": null,
+      "description": "Set a large frying pan over medium-high heat. Dice your aubergine into roughly 2cm squares. Roughly chop your mint."
+    },
+    {
+      "heading": null,
+      "description": "Add your aubergines to the pan with a good pinch of salt and keep them moving. Fry for about 3 mins."
+    },
+    {
+      "heading": null,
+      "description": "Once the aubergine has taken on some colour, add the ‘nduja and a splash of the pasta cooking water. Mix well."
+    },
+    {
+      "heading": null,
+      "description": "Now, add the oregano and a good drizzle of olive oil, mix again and cook for another couple of mins."
+    },
+    {
+      "heading": null,
+      "description": "Finally, drain your pasta (reserving a little pasta water) and add to the pan with the aubergine. Keep mixing over a medium heat until you have a thick glossy sauce, adding splashes of pasta water where necessary."
+    },
+    {
+      "heading": null,
+      "description": "Finally, add a handful of mint and a big squeeze of lemon juice. Plate up and top with grated pecorino, if you like. Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Ingredient",
+    "High Fibre"
+  ],
+  "dietary_requirements": [
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-08-09T14:15:00+01:00"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "1654582",
+  "slug": "szechuan-pickled-plums",
+  "title": "Sichuan Pickled Plums",
+  "url": "https://www.mob.co.uk/recipes/szechuan-pickled-plums",
+  "summary": "Sweet, spicy, and dangerously addictive, these pickled plums from MOB contributor Ben Lippett are the perfect accoutrement to any meal.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/SzechuanPlums2-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 180,
+    "protein": 1,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 45,
+    "dietary_fibre": 2,
+    "sugars": 43,
+    "sodium": 146
+  },
+  "ingredients": [
+    {
+      "label": "550g Plums",
+      "quantity": "550",
+      "unit": null,
+      "name": "Plum",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Red Wine Vinegar",
+      "quantity": "300",
+      "unit": null,
+      "name": "Red Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g White Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "White Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Dark Brown Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Dark Brown Soft Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Star Anise",
+      "quantity": "2",
+      "unit": null,
+      "name": "Star Anise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Sichuan Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sichuan Peppercorn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dark Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Halve and pit your plums."
+    },
+    {
+      "heading": null,
+      "description": "Add all the ingredients to a saucepan and bring to a simmer."
+    },
+    {
+      "heading": null,
+      "description": "Cook for 5-6 minutes until the plums are just starting to soften."
+    },
+    {
+      "heading": null,
+      "description": "Remove the plums from the liquid and add them to a clean jar. Reduce the pickling liquid by a third, pour over the plums and seal the jar."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Ingredient",
+    "Accessible Method",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-03-15T12:42:00+00:00"
+}

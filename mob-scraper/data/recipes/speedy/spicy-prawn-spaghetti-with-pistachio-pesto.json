@@ -1,0 +1,180 @@
+{
+  "id": "3605988",
+  "slug": "spicy-prawn-spaghetti-with-pistachio-pesto",
+  "title": "Spicy Prawn & Pistachio Spaghetti",
+  "url": "https://www.mob.co.uk/recipes/spicy-prawn-spaghetti-with-pistachio-pesto",
+  "summary": "A bit of a treat but super simple, pistachio pesto tossed through spaghetti with spicy prawns and lemon. Indulgent but easy, just what we like.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2022/08/849A5422-3.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 10,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 670,
+    "protein": 27,
+    "fat": 32,
+    "saturated_fat": 6,
+    "carbohydrates": 69,
+    "dietary_fibre": 6,
+    "sugars": 5,
+    "sodium": 312
+  },
+  "ingredients": [
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Pistachios",
+      "quantity": "120",
+      "unit": null,
+      "name": "Pistachio",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Basil",
+      "quantity": "60",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Capers",
+      "quantity": "1",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Parmesan",
+      "quantity": "40",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Prawns",
+      "quantity": "400",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": "6",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Pop the spaghetti on to cook in plenty of boiling salted water."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, shell the pistachios and add to a blender along with the basil, capers, juice of half the lemon and ⅔ of the olive oil. Whizz until not completely smooth."
+    },
+    {
+      "heading": null,
+      "description": "Pour into a bowl, grate in the Parmesan and stir to combine. Add as much of the remaining olive oil as needed until you have a nice creamy consistency (you might not need it all)."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the prawns and cook in a large frying pan over a high heat with a splash of olive oil for about 2 mins. Turn off the heat, squeeze over the remaining lemon and sprinkle over the chilli."
+    },
+    {
+      "heading": null,
+      "description": "Once the pasta is al dente, transfer to the pan with the prawns along with a generous splash of the pasta cooking water."
+    },
+    {
+      "heading": null,
+      "description": "Add the pesto and toss well to combine everything until you have a silky emulsified sauce."
+    },
+    {
+      "heading": null,
+      "description": "Plate up, finish with another squeeze of lemon and an extra pinch of chilli, if you like."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Pescatarian",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-24T03:30:00+00:00"
+}

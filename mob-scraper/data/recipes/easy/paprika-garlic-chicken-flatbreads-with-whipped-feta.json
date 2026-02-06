@@ -1,0 +1,304 @@
+{
+  "id": "7989026",
+  "slug": "paprika-garlic-chicken-flatbreads-with-whipped-feta",
+  "title": "Paprika Garlic Chicken Flatbreads With Whipped Feta",
+  "url": "https://www.mob.co.uk/recipes/paprika-garlic-chicken-flatbreads-with-whipped-feta",
+  "summary": "Juicy paprika-spiced chicken, creamy feta yoghurt and punchy tomato salad on toasted flatbreads. Absolute weeknight win.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/10/Paprika-Garlic-Chicken-Flatbreads-With-Whipped-Feta.jpg",
+  "cook_time": 10,
+  "prep_time": 15,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 525,
+    "protein": 52,
+    "fat": 14,
+    "saturated_fat": 5,
+    "carbohydrates": 43,
+    "dietary_fibre": 4,
+    "sugars": 9,
+    "sodium": 870
+  },
+  "ingredients": [
+    {
+      "label": "200g Chicken Breast",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Chicken Breast",
+      "quantity": "200",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g 0% Fat Greek Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "0% Fat Greek Yoghurt⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g 0% Fat Greek Yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Garlic Cloves",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cherry Tomatoes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cherry Tomatoes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Cucumber",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Red Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Sumac",
+      "quantity": "1",
+      "unit": null,
+      "name": "Sumac",
+      "optional": true,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Feta",
+      "quantity": "40",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Feta",
+      "quantity": "40",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g 0% Fat Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "0% Fat Greek Yoghurt⁣",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g 0% Fat Greek Yoghurt",
+      "quantity": "150",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Small Greek-Style Flatbreads",
+      "quantity": "2",
+      "unit": null,
+      "name": "Flatbread",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Parsley",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Mint",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dried Oregano",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and grate the garlic into a bowl. Stir in the paprika and Greek yoghurt. Cut the chicken into 2–3cm chunks and add to the bowl with a pinch of salt. Mix well to coat."
+    },
+    {
+      "heading": null,
+      "description": "If using skewers, thread on the chicken and grill under a hot grill for 6 mins, flip and cook for another 2 mins until charred and cooked through. Alternatively, air fry at 220°C for 8-10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the red onion and mix with a pinch of salt, lemon juice and sumac, if using. Set aside to pickle slightly."
+    },
+    {
+      "heading": null,
+      "description": "Quarter the cherry tomatoes and chop the cucumber into bite-sized chunks. Add to the onions and mix well."
+    },
+    {
+      "heading": null,
+      "description": "In a small bowl, crumble in the feta and stir through the remaining yoghurt until combined. Season to taste."
+    },
+    {
+      "heading": null,
+      "description": "Toast the flatbreads in a dry pan or under the grill until warm and slightly charred."
+    },
+    {
+      "heading": null,
+      "description": "To serve, spread the feta-yoghurt mixture over the flatbreads, pile on the paprika chicken, then spoon over the tomato salad. Finish with fresh parsley, mint, dried oregano and a lemon wedge."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Low Calorie",
+    "Power Protein",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek",
+    "Mediterranean",
+    "Mediterranean-Inspired",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Finn Tonry",
+      "uri": "chefs/finn-tonry",
+      "summary": "Finn Tonry (@Finntonry) is a chef and recipe developer who’s all about making healthy food exciting. After years working in some of London’s best restaurants, he’s now focused on creating high-protein dishes that look great, taste amazing, and actually make you feel good."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-10-27T10:19:00+00:00"
+}

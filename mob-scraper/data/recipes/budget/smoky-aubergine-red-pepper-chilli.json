@@ -1,0 +1,271 @@
+{
+  "id": "4416043",
+  "slug": "smoky-aubergine-red-pepper-chilli",
+  "title": "Smoky Aubergine & Red Pepper Chilli",
+  "url": "https://www.mob.co.uk/recipes/smoky-aubergine-red-pepper-chilli",
+  "summary": "Grilling the vegetables – plus the addition of some dark chocolate and a spoonful of chipotle paste – is the secret to adding that extra oomph to this chilli.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Smoky-Aubergine-Red-Pepper-Chilli.jpg",
+  "cook_time": 30,
+  "prep_time": 30,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 468,
+    "protein": 15,
+    "fat": 10,
+    "saturated_fat": 2,
+    "carbohydrates": 77,
+    "dietary_fibre": 9,
+    "sugars": 13,
+    "sodium": 389
+  },
+  "ingredients": [
+    {
+      "label": "2 Aubergines",
+      "quantity": "2",
+      "unit": null,
+      "name": "Aubergine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Mixed Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Dried Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste, Plus Extra To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Paste, Plus Extra To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Chopped Tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Kidney Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Kidney Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 400g Tins of Kidney Beans",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Squares of Dark Chocolate",
+      "quantity": "20",
+      "unit": null,
+      "name": "Dark Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Squares of Dark Chocolate",
+      "quantity": "20",
+      "unit": null,
+      "name": "Chocolate",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Limes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Fresh Coriander (25g)",
+      "quantity": "25",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Baguette",
+      "quantity": "400",
+      "unit": null,
+      "name": "Baguette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Yoghurt",
+      "quantity": "4",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your grill to high."
+    },
+    {
+      "heading": null,
+      "description": "Slice the aubergine, pepper and 1½ red onions into medium-sized chunks. Spread out onto your largest baking tray. Drizzle liberally with olive oil and add some salt and black pepper to season. Cook under the hot grill for 15 mins, tossing the veg every 5 mins, until collapsed and blackened in places."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile finely chop all the garlic cloves. Scrape two-thirds into a small bowl to be used later. Get a large saucepan over a medium heat and drizzle in a little oil. Add the remaining garlic, fry for 30 seconds and then spoon in the cumin and oregano. Cook for 30 seconds more. Add the chipotle paste and tip in the chopped tomatoes."
+    },
+    {
+      "heading": null,
+      "description": "Drain the kidney beans and add to the pan. Refill one of the cans halfway with water. Pour that in too. Bring to the boil and season with salt and black pepper. Add the grilled veg and the chocolate to the pan. Give everything a good mix then leave the chilli to simmer away for 20 mins."
+    },
+    {
+      "heading": null,
+      "description": "Turn the oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Thinly slice the remaining onion half and scrape into a small bowl. Cut your lime in half and squeeze in the juice. Season and scrunch with your hands as this will help the onion quick-pickle. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Finely chop most of the coriander and add to the bowl of chopped garlic. Pour in 4 tbsp of olive oil. Slice the baguette on a diagonal, lay the bread onto a baking tray and spoon over the garlic oil. Bake in the oven for 10 mins until crisp and golden."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Freezer Friendly",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Godwin",
+      "uri": "chefs/sophie-godwin",
+      "summary": "Sophie Godwin is a cookbook author, food writer and chef. When she’s not catering weddings, she is rustling up accessible cookable bangers. She's helped us write multiple Mob cookbooks over the years and her recipes never disappoint. Her debut cookbook Sundays is out now."
+    }
+  ],
+  "access_level": "1",
+  "post_date": "2023-06-23T09:42:00+01:00"
+}

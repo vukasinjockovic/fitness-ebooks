@@ -1,0 +1,142 @@
+{
+  "id": "6364018",
+  "slug": "easy-burrito-bowl",
+  "title": "Easy Burrito Bowl",
+  "url": "https://www.mob.co.uk/recipes/easy-burrito-bowl",
+  "summary": "This easy burrito bowl is loaded up with chilli and an assortment of fresh veggies.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Easy-Burrito-Bowl.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 466,
+    "protein": 13,
+    "fat": 18,
+    "saturated_fat": 5,
+    "carbohydrates": 59,
+    "dietary_fibre": 8,
+    "sugars": 8,
+    "sodium": 326
+  },
+  "ingredients": [
+    {
+      "label": "125g Cooked White Rice",
+      "quantity": "125",
+      "unit": null,
+      "name": "Cooked Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "125g Cooked White Rice",
+      "quantity": "125",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 tomatoes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Romaine Heart",
+      "quantity": ".5",
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Fresh coriander leaves",
+      "quantity": "10",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Soured cream",
+      "quantity": "25",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Tortilla Crisps",
+      "quantity": "50",
+      "unit": null,
+      "name": "Tortilla Crisp",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Beef Chilli Con Carne."
+    },
+    {
+      "heading": null,
+      "description": "Reheat the Beef Chilli Con Carne in a saucepan until piping hot."
+    },
+    {
+      "heading": null,
+      "description": "Heat the rice following packet instructions."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, chop the tomatoes into 1cm chunks and shred the lettuce. Place both into a bowl and season with salt, pepper and the juice of half the lime. \nSlice the avocado and pick the coriander leaves and thinly slice the stalks."
+    },
+    {
+      "heading": null,
+      "description": "Toss the coriander stalks through the rice and share between bowls. Top with the Beef Chilli Con Carne, tortilla crisps, tomato salad, sliced avo and a dollop of soured cream. \nFinish with a scattering of coriander and serve with any remaining lime wedges."
+    }
+  ],
+  "tips": [],
+  "categories": [],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2024-09-08T01:00:00+01:00"
+}

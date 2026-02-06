@@ -1,0 +1,263 @@
+{
+  "id": "4055237",
+  "slug": "curried-cauliflower-high-protein-soup-with-sticky-onions",
+  "title": "High-Protein Cauliflower Soup With Sticky Onions",
+  "url": "https://www.mob.co.uk/recipes/curried-cauliflower-high-protein-soup-with-sticky-onions",
+  "summary": "This soup packs in some secret protein by swapping out coconut milk for silken tofu. It gives it a delicious creamy texture without an overpowering taste.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/01/High-Protein-Cauliflower-Soup-With-Sticky-Onions.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "fat": 28,
+    "saturated_fat": 23,
+    "carbohydrates": 16,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 370
+  },
+  "ingredients": [
+    {
+      "label": "100g Coconut Oil or Sunflower Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Red Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Red Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1L Water",
+      "quantity": "1",
+      "unit": null,
+      "name": "Boiling Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Curry Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garam Masala",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garam Masala",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sweet Potatoes (2 Medium Sized Potatoes)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Sweet Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Sweet Potatoes (2 Medium Sized Potatoes)",
+      "quantity": "250",
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Medium Sized Cauliflower",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cauliflower",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Vegetable Stock Cubes",
+      "quantity": "500",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Mustard Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Mustard Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Curry Leaves",
+      "quantity": "8",
+      "unit": null,
+      "name": "Curry Leaf",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chilli Flakes",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Chop two onions and all of the garlic. Peel and cut the potato into 2cm cubes. Roughly chop the cauliflower into small pieces, including the stem."
+    },
+    {
+      "heading": null,
+      "description": "At the 3-4 tbsp oil to a large pot over medium-high heat. Add the onion and cook until translucent and softened, about 3-4 minutes. Add the garlic, stir, and cook for another minute or so, until fragrant but not browned."
+    },
+    {
+      "heading": null,
+      "description": "Make the stock by dissolving the stock cubes in the boiling water."
+    },
+    {
+      "heading": null,
+      "description": "Add the curry powder, ground turmeric, garam masala, and coriander. Stir, allowing the spices to toast for about 30 seconds."
+    },
+    {
+      "heading": null,
+      "description": "Add in sweet potato, cauliflower, vegetable stock, and silken tofu. Cover and simmer until vegetables are very tender and easily pierced with a fork, about 25-35 mins."
+    },
+    {
+      "heading": null,
+      "description": "Using an immersion blender, or a standing blender, blend the soup until it is smooth and creamy. Add a little more water if you want a thinner texture."
+    },
+    {
+      "heading": null,
+      "description": "To make the tarka topping, start by finely slicing the remaining onion. Melt 3 tbsp coconut oil in a frying pan on medium low. Add the mustard seeds and sizzle for a minute or two, before adding the red onion and a pinch of salt. Fry the onion for 10-15 minutes on a medium-low heat until softened and slightly sticky, stirring often."
+    },
+    {
+      "heading": null,
+      "description": "Then, add the curry leaves, turmeric and chilli flakes, along with a pinch of salt. Sizzle over a low-medium heat for a final 2-3 minutes. Drizzle on top of the soup to serve."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Low Carb",
+    "Low Calorie"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-01-12T10:13:00+00:00"
+}

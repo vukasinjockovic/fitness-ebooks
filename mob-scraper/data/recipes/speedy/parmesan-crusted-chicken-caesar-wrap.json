@@ -1,0 +1,290 @@
+{
+  "id": "6422334",
+  "slug": "parmesan-crusted-chicken-caesar-wrap",
+  "title": "Parmesan-Crusted Chicken Caesar Wrap",
+  "url": "https://www.mob.co.uk/recipes/parmesan-crusted-chicken-caesar-wrap",
+  "summary": "Everybody’s favourite salad in wrap form with a crispy, cheesy coating… you’re welcome! I can’t guarantee that a plain wrap will ever be the same again. This tastes sensational and makes the perfect high-protein lunch.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/220A0021.png",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 677,
+    "protein": 44,
+    "fat": 36,
+    "saturated_fat": 13,
+    "carbohydrates": 46,
+    "dietary_fibre": 3,
+    "sugars": 6,
+    "sodium": 1342
+  },
+  "ingredients": [
+    {
+      "label": "120g Chicken Breasts",
+      "quantity": "120",
+      "unit": null,
+      "name": "Chicken Breast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Chicken Breasts",
+      "quantity": "120",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Chargrilled Chicken Seasoning",
+      "quantity": "1",
+      "unit": null,
+      "name": "Chargrilled Chicken Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Italian Seasoning",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Italian Seasoning",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Romaine Lettuce",
+      "quantity": null,
+      "unit": null,
+      "name": "Romaine Lettuce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Parmesan",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tortilla Wrap",
+      "quantity": "1",
+      "unit": null,
+      "name": "Flour Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tortilla Wrap",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tortilla",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Lightest Soft Cheese",
+      "quantity": "25",
+      "unit": null,
+      "name": "Light Soft Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Lightest Soft Cheese",
+      "quantity": "25",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Grated Cheddar and Mozzarella Mix",
+      "quantity": "25",
+      "unit": null,
+      "name": "Grated Cheddar & Mozzarella Mix",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25g Grated Cheddar and Mozzarella Mix",
+      "quantity": "25",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Garlic and Herb Breadcrumbs",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic and Herb Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Low-Calorie Cooking Spray",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil Spray",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Light Mayo",
+      "quantity": "4",
+      "unit": null,
+      "name": "Light Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Light Mayo",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Dijon Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Dijon Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp White Wine Vinegar",
+      "quantity": "1",
+      "unit": null,
+      "name": "White Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Garlic Powder",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Worcestershire Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Slice the chicken into thin strips, transfer to a bowl and add both the chargrilled chicken seasoning and the garlic Italian seasoning."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the lettuce. Thinly slice half of the Parmesan into shavings, then finely grate the other half."
+    },
+    {
+      "heading": null,
+      "description": "Spray a non-stick frying pan with the oil over a high heat, then add the chicken strips. Leave to turn nice and golden on one side, then flip. Meanwhile, combine all the caesar dressing ingredients in a bowl and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Combine one-third of the dressing with the lettuce in a large bowl, then combine another one-third of the dressing with the soft cheese and grated cheese mix in another bowl."
+    },
+    {
+      "heading": null,
+      "description": "Heat the wrap for 10-15 seconds in the microwave to make it more flexible. Layer the dressing/cheese mix into the centre of 1 wrap, followed by the lettuce mix, the sliced chicken, the parmesan shavings and a sprinkle of garlic &amp; herb breadcrumbs."
+    },
+    {
+      "heading": null,
+      "description": "Fold either side in, flattening the mixture down a bit, then flip the wrap over the filling, tuck it under and roll it up."
+    },
+    {
+      "heading": null,
+      "description": "Give the frying pan you used for the chicken a quick wipe (no need to clean properly), then add some more oil spray to the pan and sprinkle some grated Parmesan in. Pop the wrap on top for a few minutes over a medium heat until it starts to go crispy, then add some more Parmesan next to it and flip the wrap over onto that."
+    },
+    {
+      "heading": null,
+      "description": "Once golden and crispy, leave to cool (difficult but important step!) for 5 mins. Slice in half and use the remaining Caesar dressing for drizzling or dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Meg Robinson",
+      "uri": "chefs/meg-robinson",
+      "summary": "Meg Robinson (@fitfoodiefeed) is a self-taught home cook, fitness fanatic and air fryer enthusiast, specialising in easy, healthier, high-protein meals. Her mission is to teach people that you can still eat delicious food whilst living a healthy lifestyle. Meg uses her social platforms to show that it doesn’t have to be fancy or complicated, and you don’t need 700 ingredients and 3 hours in the kitchen everyday! She’s all about efficiency with one-pots, batch-cooking and minimal washing up, without sacrificing on taste!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-04-16T04:00:00+01:00"
+}

@@ -1,0 +1,212 @@
+{
+  "id": "4307",
+  "slug": "tuna-bean-pasta",
+  "title": "Tuna Bean Pasta",
+  "url": "https://www.mob.co.uk/recipes/tuna-bean-pasta",
+  "summary": "This is the freshest tuna bean pasta. Perfect for any occasion.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/tuna-bean.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 523,
+    "protein": 28,
+    "fat": 11,
+    "saturated_fat": 2,
+    "carbohydrates": 77,
+    "dietary_fibre": 8,
+    "sugars": 3,
+    "sodium": 670
+  },
+  "ingredients": [
+    {
+      "label": "220g Tuna",
+      "quantity": "220",
+      "unit": null,
+      "name": "Tuna",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Cannellini Beans",
+      "quantity": "490",
+      "unit": null,
+      "name": "Drained Cannellini Beans",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Cannellini Beans",
+      "quantity": "490",
+      "unit": null,
+      "name": "Bean",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Reserved Cannellini Bean Liquid",
+      "quantity": null,
+      "unit": null,
+      "name": "Reserved Cannellini Bean Liquid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "340g Jar Pitted Green Olives",
+      "quantity": "163",
+      "unit": null,
+      "name": "Green Olive",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Capers",
+      "quantity": "30",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bunch of Parsley",
+      "quantity": "25",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Spaghetti",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the parsley and slice the garlic into thin discs."
+    },
+    {
+      "heading": null,
+      "description": "Drizzle the olive oil into a pan on a medium heat. Add the parsley stalks along with the chilli flakes. Give it a good stir and add the garlic. Once the garlic has started to cook, mix in the olives and capers. Pour the cannellini beans including the bean water into the pan and mix."
+    },
+    {
+      "heading": null,
+      "description": "In a separate saucepan, cook the spaghetti. Add about a cup of the pasta water to the olive-bean mix to thicken up the sauce."
+    },
+    {
+      "heading": null,
+      "description": "Break the tuna into chunks and add to the sauce with the chopped parsley leaves (saving some for garnish). Add the zest of a whole lemon to the sauce to make it taste extra fresh and to bring out the chilli’s flavour. Add salt and pepper to taste."
+    },
+    {
+      "heading": null,
+      "description": "Finally, add your cooked spaghetti and fold it into the sauce. Top with more chilli flakes and any leftover parsley. Tuck in!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "High-Protein",
+    "High Fibre",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2019-05-13T00:00:00+01:00"
+}

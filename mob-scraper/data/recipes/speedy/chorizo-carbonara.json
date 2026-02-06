@@ -1,0 +1,165 @@
+{
+  "id": "12157",
+  "slug": "chorizo-carbonara",
+  "title": "Chorizo Carbonara",
+  "url": "https://www.mob.co.uk/recipes/chorizo-carbonara",
+  "summary": "This dish just makes sense – chorizo is an epic alternative to Guanciale (which is cured pork cheek – a traditional ingredient in Carbonara). Lemon juice provides a pleasant lift at the end.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/01/Chorizo-Carbonara.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 523,
+    "protein": 25,
+    "fat": 25,
+    "saturated_fat": 10,
+    "carbohydrates": 49,
+    "dietary_fibre": 3,
+    "sugars": 2,
+    "sodium": 1012
+  },
+  "ingredients": [
+    {
+      "label": "225g Chorizo Ring",
+      "quantity": "225",
+      "unit": null,
+      "name": "Chorizo",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Bunch of Rosemary",
+      "quantity": "15",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Egg Yolks",
+      "quantity": "6",
+      "unit": null,
+      "name": "Egg Yolk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Grated Parmesan",
+      "quantity": "100",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel skin off chorizo, crumble into a frying pan and fry until crisp. Add your crushed garlic and a handful of rosemary leaves to the pan."
+    },
+    {
+      "heading": null,
+      "description": "In a bowl, add your egg yolks and grated parmesan, with a generous amount of black pepper. Mix with a fork and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Get your pasta on and salt the water. Reserve a mug of pasta water."
+    },
+    {
+      "heading": null,
+      "description": "Add a splash of pasta water at a time to the chorizo pan, bubble it down."
+    },
+    {
+      "heading": null,
+      "description": "Once pasta is al dente add it to your chorizo. Take the pan off the heat. Fold the chorizo through the pasta."
+    },
+    {
+      "heading": null,
+      "description": "Add the egg mixture and a little more of the pasta water. Keep folding it together and adding more until it becomes thick and creamy. Add a big squeeze of lemon juice. This lifts the dish perfectly. Serve with lots of cracked black pepper on top! Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-01-30T07:00:00+00:00"
+}

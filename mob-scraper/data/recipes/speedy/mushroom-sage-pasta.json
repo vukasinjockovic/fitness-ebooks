@@ -1,0 +1,186 @@
+{
+  "id": "34184",
+  "slug": "mushroom-sage-pasta",
+  "title": "Mushroom & Sage Pasta",
+  "url": "https://www.mob.co.uk/recipes/mushroom-sage-pasta",
+  "summary": "The ultimate umami comfort food. Creamy pasta shells, fresh mushrooms, fragrant parmesan and a garlicky sage mouthful. It's so simple and so delicious.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A3721.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 30,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 872,
+    "protein": 29,
+    "fat": 47,
+    "saturated_fat": 27,
+    "carbohydrates": 77,
+    "dietary_fibre": 5,
+    "sugars": 8,
+    "sodium": 655
+  },
+  "ingredients": [
+    {
+      "label": "500g Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Clove of Garlic",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Bunch of Sage",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "600g Crème Fraîche",
+      "quantity": "600",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Salted Butter",
+      "quantity": "20",
+      "unit": null,
+      "name": "Salted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Conchiglie Pasta",
+      "quantity": "400",
+      "unit": null,
+      "name": "Conchiglie",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Conchiglie Pasta",
+      "quantity": "400",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Parmesan",
+      "quantity": "150",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely dice the onions, slice the mushrooms and crush the garlic."
+    },
+    {
+      "heading": null,
+      "description": "Pour some olive oil in the pan, add the onions and a pinch of salt, then cook for around 10 minutes until they start to go transparent. Then add the garlic and sage and cook for a further 2 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Add the mushrooms to the pan and give everything a good mix so that the mushrooms are coated. Whack in the butter and allow it to melt into the mixture then give it a good stir."
+    },
+    {
+      "heading": null,
+      "description": "Once the butter has melted add the crème fraîche, give it a mix and then let it simmer for about 10 minutes until the sauce starts to pick up some colour."
+    },
+    {
+      "heading": null,
+      "description": "While the sauce is simmering, get your pasta on."
+    },
+    {
+      "heading": null,
+      "description": "To finish off the sauce add the parmesan and a good splash of pasta water, but save some for later, and then season well with generous amounts of pepper and salt to taste."
+    },
+    {
+      "heading": null,
+      "description": "Add the pasta to the sauce and give it a good stir. Plate it up with another sprinkle of parmesan and garnish with a little sprig of sage. Serve and enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-02-05T00:00:00+00:00"
+}

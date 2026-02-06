@@ -1,0 +1,198 @@
+{
+  "id": "4321260",
+  "slug": "rhubarb-custard-pie",
+  "title": "Rhubarb & Custard Pie",
+  "url": "https://www.mob.co.uk/recipes/rhubarb-custard-pie",
+  "summary": "A big and beautiful pie filled with tart rhubarb. This is the perfect sunshine dessert. Serving it with cold custard is essential.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/05/Rhubarb-Custard-Pie-Recipe.jpg",
+  "cook_time": 120,
+  "prep_time": 60,
+  "total_time": 180,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 511,
+    "protein": 5,
+    "fat": 23,
+    "saturated_fat": 15,
+    "carbohydrates": 73,
+    "dietary_fibre": 4,
+    "sugars": 38,
+    "sodium": 31
+  },
+  "ingredients": [
+    {
+      "label": "290g Butter",
+      "quantity": "290",
+      "unit": null,
+      "name": "Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "440g Plain Flour",
+      "quantity": "440",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Granulated Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Granulated Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Ice Water",
+      "quantity": "100",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2kg Rhubarb",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Rhubarb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Golden Caster Sugar",
+      "quantity": "200",
+      "unit": null,
+      "name": "Golden Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cinnamon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cinnamon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vanilla Bean Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Bean Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Cornstarch",
+      "quantity": "3",
+      "unit": null,
+      "name": "Cornstarch",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Demerara Sugar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Demerara Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Custard",
+      "quantity": null,
+      "unit": null,
+      "name": "Custard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "To make the pastry, cut the butter into 2cm cubes, and place in the fridge to keep cold. Add flour, ½ tsp salt and sugar into a large mixing bowl. Mix together until evenly combined."
+    },
+    {
+      "heading": null,
+      "description": "Using your hands, toss the cubes of cold butter into the flour mixture. Quickly break and smash the pieces of butter in the flour into smaller chunks (it’s ok if they are not all the same size). Add 100ml of ice cold water into the mixture. Stir with a fork until a shaggy dough forms. Add a tsp more of water at a time if it's too dry."
+    },
+    {
+      "heading": null,
+      "description": "Gather the dough into a mound. Using your hand, squeeze it together to form large clumps, place them onto a clean work surface. If you have some dry floury areas, leave it in the bowl and stir a few teaspoons of ice cold water until you can squeeze the dough together. The texture should not be sticky, it should still be a little dry."
+    },
+    {
+      "heading": null,
+      "description": "Split the dough into 3 chunks, then flatten on top of each other, this is key to getting flakey pastry. Flatten and shape into a thick disc. Wrap in cling film and refrigerate the dough for at least 1 hour."
+    },
+    {
+      "heading": null,
+      "description": "To make the filling, cut the rhubarb into 4-5 cm lengths and toss with the sugar and ½ tsp salt. Set aside for an hour, then add the zest and juice of the lemon, vanilla, cinnamon, and cornflour. Toss to coat."
+    },
+    {
+      "heading": null,
+      "description": "Cut the rested dough into two pieces, one ¾ of the dough, one ¼. This is for your base and the lid. Roll out the bigger piece of dough into a rough circle, big enough to line a 18 - 20cm cake tin or pie dish."
+    },
+    {
+      "heading": null,
+      "description": "Roll the other piece of pastry into a circle large enough to drape over the pie and seal in the filling. Crimp the edges together and cut a couple of vents in the top, brush with egg wash and sprinkle with the demerara sugar, and cover the top lightly with foil."
+    },
+    {
+      "heading": null,
+      "description": "Bake at 200°C for 1.5-2 hrs until golden brown and bubbling. Let cool down for at least 40 mins before serving. Serve with cold custard."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-11-28T02:30:00+00:00"
+}

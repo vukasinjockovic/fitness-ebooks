@@ -1,0 +1,163 @@
+{
+  "id": "6754143",
+  "slug": "super-green-brothy-chickpeas",
+  "title": "Super Green Brothy Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/super-green-brothy-chickpeas",
+  "summary": "Creamy chickpeas in a vibrant green broth. A comforting bowl that’s full of goodness and on the table in 20 minutes.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Super-Green-Brothy-Chickpeas.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 242,
+    "protein": 8,
+    "fat": 11,
+    "saturated_fat": 3,
+    "carbohydrates": 23,
+    "dietary_fibre": 7,
+    "sugars": 4,
+    "sodium": 384
+  },
+  "ingredients": [
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Garlic Cloves",
+      "quantity": "4",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Cavolo Nero",
+      "quantity": "400",
+      "unit": null,
+      "name": "Cavolo Nero",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750ml Chicken Stock",
+      "quantity": "750",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Drained Cooked Chickpeas",
+      "quantity": "500",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Drained Cooked Chickpeas",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Crème Fraîche",
+      "quantity": "4",
+      "unit": null,
+      "name": "Crème Fraîche",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Pink Peppercorns",
+      "quantity": "1",
+      "unit": null,
+      "name": "Pink Peppercorns",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel and finely slice the garlic cloves. Heat a glug of olive in a large pan set over a low-medium heat and sauté the garlic until fragrant. Remove half of the sautéed garlic and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Remove the tough stems from the cavolo nero, then roughly chop the leaves and add them to the pan."
+    },
+    {
+      "heading": null,
+      "description": "Cook over a medium heat for 2 mins, then pour over about ⅓ of the stock. Pop on a lid and gently simmer for about 5 mins until the leaves have wilted slightly."
+    },
+    {
+      "heading": null,
+      "description": "Transfer everything to a high-speed blender (keep the pan at the ready) and blend on high for a few mins."
+    },
+    {
+      "heading": null,
+      "description": "Add another splash of olive oil to the pan and pour in the drained chickpeas along with the reserved garlic slices. Cook over a medium heat until warm."
+    },
+    {
+      "heading": null,
+      "description": "Pour over the green broth from the blender, and stir through as much extra chicken stock as required to reach your desired consistency. Season to taste with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Divide between bowls and garnish with a spoonful of crème fraîche and a sprinkling of pink peppercorns."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "High Fibre",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Theresa von Wangenheim",
+      "uri": "chefs/theresa-von-wangenheim",
+      "summary": "Theresa is a soup enthusiast with a soft spot for anything spoonable. She firmly believes that every season is soup season, and splits her time between London and Munich."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-16T12:30:00+01:00"
+}

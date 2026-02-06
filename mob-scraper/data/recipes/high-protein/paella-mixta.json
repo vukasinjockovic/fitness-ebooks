@@ -1,0 +1,196 @@
+{
+  "id": "4508141",
+  "slug": "paella-mixta",
+  "title": "Paella Mixta",
+  "url": "https://www.mob.co.uk/recipes/paella-mixta",
+  "summary": "This meat and seafood paella recipe from Omar Allibhoy is the best of both worlds. It's surf and turf done right.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Paella-Mixta.jpg",
+  "cook_time": 30,
+  "prep_time": 10,
+  "total_time": 40,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 690,
+    "protein": 32,
+    "fat": 27,
+    "saturated_fat": 4,
+    "carbohydrates": 78,
+    "dietary_fibre": 3,
+    "sugars": 3,
+    "sodium": 1010
+  },
+  "ingredients": [
+    {
+      "label": "120ml Extra Virgin Olive Oil",
+      "quantity": "120",
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Legs (Cut Into 4 Each)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Chicken Legs (Cut Into 4 Each)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Squid, Cleaned & Cut Into Rings",
+      "quantity": "200",
+      "unit": null,
+      "name": "Squid",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tomatoes, Grated",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves, Finely Chopped",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Garlic Cloves, Finely Chopped",
+      "quantity": "6",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "0.4g Saffron",
+      "quantity": "0.4",
+      "unit": null,
+      "name": "Saffron",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Smoked Paprika",
+      "quantity": "1",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "440g Spanish Rice",
+      "quantity": "440",
+      "unit": null,
+      "name": "Spanish Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "440g Spanish Rice",
+      "quantity": "440",
+      "unit": null,
+      "name": "Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Prawns",
+      "quantity": "4",
+      "unit": null,
+      "name": "Prawn",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mussels",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mussel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Litres of Shellfish Stock (or chicken stock_",
+      "quantity": "2000",
+      "unit": null,
+      "name": "Shellfish Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Crumble the saffron into the shellfish stock. Keep warm over the lowest heat."
+    },
+    {
+      "heading": null,
+      "description": "Place a paella pan over medium heat with the olive oil and seasoned chicken. Fry for 6 mins until golden. Add the squid rings and sauté for a further 4 minutes."
+    },
+    {
+      "heading": null,
+      "description": "Add the garlic, closely followed by the smoked paprika and the grated tomatoes, cook for about 2 mins until the oil starts separating from the tomato paste. Add the rice and stir all together for a couple of minutes, making sure the rice gets coated with the oil and sears."
+    },
+    {
+      "heading": null,
+      "description": "Carefully add the hot stock to the pan and give it a good stir distributing the rice evenly. Taste the stock and adjust the seasoning if necessary. Cook on a high heat for the first 10 mins, scatter the prawns and mussels over the top and continue to cook over low heat for the remaining 8 minutes. If you want a “socarrat” crispy bottom bring the heat up to it’s maximum for just 1 minute. Let it rest for 5 minutes before eating it. Buen provecho!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "Power Protein",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Spanish"
+  ],
+  "chefs": [
+    {
+      "name": "Omar Allibhoy",
+      "uri": "chefs/omar-allibhoy",
+      "summary": "Omar Allibhoy is a highly talented chef and recipe developer."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-08-15T13:36:00+01:00"
+}

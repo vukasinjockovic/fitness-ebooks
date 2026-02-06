@@ -1,0 +1,181 @@
+{
+  "id": "3493124",
+  "slug": "chilli-tahini-granola",
+  "title": "Chilli Tahini Granola",
+  "url": "https://www.mob.co.uk/recipes/chilli-tahini-granola",
+  "summary": "Homemade granola is so much better than the shop-bought stuff. This one's special. It's the perfect balance of salty and sweet, with a slight hint of spice. Z x",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9244.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 20,
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 7,
+    "saturated_fat": 3,
+    "carbohydrates": 11,
+    "dietary_fibre": 2,
+    "sugars": 3,
+    "sodium": 16
+  },
+  "ingredients": [
+    {
+      "label": "300g Rolled Oats",
+      "quantity": "300",
+      "unit": null,
+      "name": "Rolled Oat",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Bran Flakes",
+      "quantity": "100",
+      "unit": null,
+      "name": "Bran Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Desiccated Coconut",
+      "quantity": "100",
+      "unit": null,
+      "name": "Desiccated Coconut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Chopped Nuts",
+      "quantity": "100",
+      "unit": null,
+      "name": "Chopped Nut",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Pumpkin Seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sunflower Seeds",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sunflower Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Coconut Oil",
+      "quantity": "100",
+      "unit": null,
+      "name": "Coconut Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Maple Syrup",
+      "quantity": "100",
+      "unit": null,
+      "name": "Maple Syrup",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Tahini",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chilli Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 130°C."
+    },
+    {
+      "heading": null,
+      "description": "Place the rolled oats, bran flakes, desiccated coconut, chopped nuts, pumpkin seeds and sunflower seeds in a large mixing bowl."
+    },
+    {
+      "heading": null,
+      "description": "Melt the coconut oil in a small saucepan over medium heat. Add the maple syrup, tahini, chilli flakes and ½ teaspoon salt and remove the saucepan from the heat. Whisk until well-combined."
+    },
+    {
+      "heading": null,
+      "description": "Pour the chilli tahini mixture over the dry ingredients and toss well to coat, ensuring that everything is evenly coated."
+    },
+    {
+      "heading": null,
+      "description": "Divide the granola between two large baking sheets, spreading it out into an even layer."
+    },
+    {
+      "heading": null,
+      "description": "Bake for 1 hour or until lightly golden, tossing once halfway through."
+    },
+    {
+      "heading": null,
+      "description": "Let the granola cool on the baking sheet. It will crisp up further as it cools. Store in an airtight container at room temperature for up to 2 weeks."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Make-Ahead Breakfasts",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-06-12T09:30:00+01:00"
+}

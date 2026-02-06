@@ -1,0 +1,136 @@
+{
+  "id": "5294500",
+  "slug": "strawberries-cream-cocktail",
+  "title": "Strawberries & Cream Cocktail",
+  "url": "https://www.mob.co.uk/recipes/strawberries-cream-cocktail",
+  "summary": "A summery clarified cocktail that's perfect for sipping on in the sun. Or at home on the sofa, You do you.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Strawberries-Cream.jpg",
+  "cook_time": 180,
+  "prep_time": 5,
+  "total_time": 185,
+  "serving_size": 7,
+  "nutrition": {
+    "calories": 144,
+    "protein": 1,
+    "fat": 3,
+    "saturated_fat": 2,
+    "carbohydrates": 10,
+    "dietary_fibre": 1,
+    "sugars": 8,
+    "sodium": 10
+  },
+  "ingredients": [
+    {
+      "label": "150ml Lemon Juice",
+      "quantity": "150",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Lime Juice",
+      "quantity": "50",
+      "unit": null,
+      "name": "Lime Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Vodka",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vodka",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Cointreau",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cointreau",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Strawberries",
+      "quantity": "250",
+      "unit": null,
+      "name": "Strawberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Single Cream",
+      "quantity": "150",
+      "unit": null,
+      "name": "Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut the tops off your strawberries and masticate them to a pulp."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your lime, lemon, vodka, Cointreau (and St-Germain if you like it sweet) and mix well."
+    },
+    {
+      "heading": null,
+      "description": "Leave this to sit for an hour then strain."
+    },
+    {
+      "heading": null,
+      "description": "Pour your cream into a new container, then pour your cocktail through the cream, this ensures that all the cocktail is clarified. Let this sit for 3-4 hours to clarify."
+    },
+    {
+      "heading": null,
+      "description": "Gently pour your liquid through a coffee filter, it will run slightly cloudy at first. Let this happen until it is dripping clear, then strain into a new container. This ensures all your drink is nice and clear and silky."
+    },
+    {
+      "heading": null,
+      "description": "Re-pour your cloudy initial run off back through the top of the filter. Leave to filter, then bottle when finished."
+    },
+    {
+      "heading": null,
+      "description": "Pour over ice and serve with a thin slice of strawberry on top."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Low Carb",
+    "Low Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Gluten-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-29T05:00:00+00:00"
+}

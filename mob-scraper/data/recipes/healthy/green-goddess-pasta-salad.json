@@ -1,0 +1,310 @@
+{
+  "id": "3448390",
+  "slug": "green-goddess-pasta-salad",
+  "title": "Green Goddess Pasta Salad",
+  "url": "https://www.mob.co.uk/recipes/green-goddess-pasta-salad",
+  "summary": "A fresh and delicious pasta salad brought together with half a pack of bacon, roasted and fresh vegetables, and a lush avocado-mayo green goddess dressing. We got all the ingredients for this recipe from Deliveroo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/Mob-Web-Image-Option-1-Approved-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 427,
+    "protein": 13,
+    "fat": 25,
+    "saturated_fat": 5,
+    "carbohydrates": 38,
+    "dietary_fibre": 7,
+    "sugars": 7,
+    "sodium": 426
+  },
+  "ingredients": [
+    {
+      "label": "2 Courgettes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Red Peppers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Bell Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄4 White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄4 White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Cucumber",
+      "quantity": "0.2",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Spring Onions",
+      "quantity": "50",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Fusilli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Fusilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150g Fusilli",
+      "quantity": "150",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cherry Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Cherry Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Cherry Tomatoes",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tomato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Spinach",
+      "quantity": "100",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Slices of Bacon",
+      "quantity": "120",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Hellmann's Light Squeezy Mayonnaise",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Cloves of Garlic",
+      "quantity": "3",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Banana Shallot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Banana Shallot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Avocado",
+      "quantity": "1",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Spinach",
+      "quantity": "20",
+      "unit": null,
+      "name": "Spinach",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Basil",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1⁄2 Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 180°C."
+    },
+    {
+      "heading": null,
+      "description": "Get a pot of salted water to a boil."
+    },
+    {
+      "heading": null,
+      "description": "Chop your courgette and peppers into small chunks. Place them on a baking tray, drizzle over some olive oil, season with salt and pepper, and pop them into the oven for 20 mins, until starting to char and crisp up."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, wash your spinach and pat dry with a paper towel."
+    },
+    {
+      "heading": null,
+      "description": "Chop your white cabbage, cucumber and avocado into small chunks. Finely slice your spring onions. Add these all to a large salad bowl."
+    },
+    {
+      "heading": null,
+      "description": "Place your tomatoes on the baking tray with your courgettes and peppers and drizzle them with a bit of oil before popping the tray back in the oven for 5 mins, until done to your liking."
+    },
+    {
+      "heading": null,
+      "description": "Put your pasta in the boiling water, drain using a colander once al dente."
+    },
+    {
+      "heading": null,
+      "description": "Fry your bacon until crispy."
+    },
+    {
+      "heading": null,
+      "description": "To make the mayo, start by roughly chopping your garlic, shallot, avocado and herbs. Add these all to a blender or food processor, along with the juice of half a lemon, water, and spinach. Add your mayonnaise and give it a blitz."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop your bacon into bite-sized pieces before adding it to your salad bowl along with your roasted vegetables and avo mayo dressing. Give it a good toss and finish with some lemon zest. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Healthy",
+    "Accessible Ingredient",
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Gluten-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [],
+  "chefs": [],
+  "access_level": "0",
+  "post_date": "2022-05-27T08:00:00+01:00"
+}

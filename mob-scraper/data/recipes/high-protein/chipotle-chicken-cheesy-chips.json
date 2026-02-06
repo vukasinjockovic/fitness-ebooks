@@ -1,0 +1,299 @@
+{
+  "id": "2073241",
+  "slug": "chipotle-chicken-cheesy-chips",
+  "title": "Chipotle Chicken Cheesy Chips",
+  "url": "https://www.mob.co.uk/recipes/chipotle-chicken-cheesy-chips",
+  "summary": "Willy makes the ultimate cheesy chips, packed with chipotle chicken, avo cream and cheese. Perfect to eat while watching your fave film on Amazon Prime Video.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2021/9K8A8706.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 792,
+    "protein": 38,
+    "fat": 39,
+    "saturated_fat": 10,
+    "carbohydrates": 71,
+    "dietary_fibre": 10,
+    "sugars": 7,
+    "sodium": 570
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Chipotle Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli Flake",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Chipotle Chilli Flakes",
+      "quantity": "2",
+      "unit": null,
+      "name": "Chipotle Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cayenne Pepper",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cayenne Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "8 Cloves Garlic",
+      "quantity": "8",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onion",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Ground Cumin",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Oregano",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dried Oregano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1kg Frozen Oven Fries",
+      "quantity": "1000",
+      "unit": null,
+      "name": "Oven Chip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken Leg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Chicken Legs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Chicken",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsps Tomato Purée",
+      "quantity": "4",
+      "unit": null,
+      "name": "Tomato Purée",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Cider Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Apple Cider Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Sour Cream",
+      "quantity": "100",
+      "unit": null,
+      "name": "Sour Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Avocados",
+      "quantity": "2",
+      "unit": null,
+      "name": "Avocado",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lime",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Strong Grated Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Strong Grated Cheddar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Of Jarred Jalapenos",
+      "quantity": "2",
+      "unit": null,
+      "name": "Pickled Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Coriander",
+      "quantity": "25",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Peel your onion and garlic. Blend your chipotle chilli flakes, half of your paprika and cayenne, some black pepper, your garlic, onion, a pinch of salt, cumin, oregano, cider vinegar and tomato purée in a food processor. Blend to a paste."
+    },
+    {
+      "heading": null,
+      "description": "Score your chicken legs, pop them in a freezer bag and cover with your chipotle marinade. Refrigerate for a few hours to let the flavours sink in."
+    },
+    {
+      "heading": null,
+      "description": "Preheat oven to 180°C/356°F."
+    },
+    {
+      "heading": null,
+      "description": "Tip your frozen french fries onto a baking tray. Add your remaining cayenne and paprika along with a little salt and black pepper, then toss until the fries are coated. Remove your chicken from it's marinade and add to another baking dish. Bake both trays for about 30 mins until the fries are crisp and the chicken is cooked through."
+    },
+    {
+      "heading": null,
+      "description": "Once cooked, retain the cooking liquid and pop it into a pan to heat up."
+    },
+    {
+      "heading": null,
+      "description": "When your chicken is cooked, pour the cooking liquid into a pan and heat it up. Leave the chips in the oven to crisp up if they need a bit longer."
+    },
+    {
+      "heading": null,
+      "description": "Use two forks to shred the chicken from the bone."
+    },
+    {
+      "heading": null,
+      "description": "Add the cooked chicken into the cooking liquid and heat up until the chicken is warmed through and becomes delicious juicy pulled chipotle chicken."
+    },
+    {
+      "heading": null,
+      "description": "Cut open the avocado and pop it into a food processor. Add sour cream and the juice of your lime. Blend to create an avocado crema."
+    },
+    {
+      "heading": null,
+      "description": "Pop your fries in a large ovenproof dish, then cover with your pulled chipotle chicken. Grate over your cheddar cheese, then pop under a hot grill until the cheese has melted. Top with your avocado crema, jalapeños and some fresh coriander leaves. Bang. Done"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "High-Protein",
+    "High Fibre",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican-Inspired",
+    "Mexican"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-05-19T09:16:00+01:00"
+}

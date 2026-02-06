@@ -1,0 +1,274 @@
+{
+  "id": "5158728",
+  "slug": "everything-salmon-rice-bowl",
+  "title": "Everything Salmon Rice Bowl",
+  "url": "https://www.mob.co.uk/recipes/everything-salmon-rice-bowl",
+  "summary": "As you might be able to guess from the title, this everything bagel-seasoned salmon rice bowl has it all. If you're after something healthy, delicious and easy to make, this is your guy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Everything-Salmon-Rice-Bowl.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 20,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 563,
+    "protein": 36,
+    "fat": 33,
+    "saturated_fat": 8,
+    "carbohydrates": 29,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 1016
+  },
+  "ingredients": [
+    {
+      "label": "4 Tsp Poppy Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Poppy Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp White Sesame Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "White Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Black Sesame Seeds",
+      "quantity": "4",
+      "unit": null,
+      "name": "Black Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Garlic Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Onion Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp",
+      "quantity": "1",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fillets Of Salmon",
+      "quantity": "4",
+      "unit": null,
+      "name": "Boneless Skin-On Salmon Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Fillets Of Salmon",
+      "quantity": "4",
+      "unit": null,
+      "name": "Salmon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Baby Cucumbers (or 1 Large Cucumber)",
+      "quantity": "4",
+      "unit": null,
+      "name": "Baby Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Large Whole Gherkins",
+      "quantity": "6",
+      "unit": null,
+      "name": "Gherkin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Spring Onions",
+      "quantity": "3",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Quinoa and Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cooked Quinoa and Rice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Cooked Quinoa and Rice",
+      "quantity": "200",
+      "unit": null,
+      "name": "Quinoa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Feta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Feta",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": "50",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Greek Yoghurt",
+      "quantity": "50",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat your oven to 190°C. Place a small baking tray in there to preheat."
+    },
+    {
+      "heading": null,
+      "description": "Mix your poppy seeds, sesame seeds, garlic powder, onion powder and salt in a bowl. Give it all a mix."
+    },
+    {
+      "heading": null,
+      "description": "Prep your salad. Smack your baby cucumbers with the side of a knife, then cut them into small chunks. Get them in a sieve set over a bowl, and sprinkle over a little salt. Leave them to sit whilst you prep the rest."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice your pickles and your spring onions. Finely chop your dill too. Get these in a bowl with your rice and quinoa, and your salted cucumber. Crumble in your feta and give it a good mix. Season with the juice of ½ your lemon and a little salt."
+    },
+    {
+      "heading": null,
+      "description": "Pat your salmon fillets dry, and place them on a board skin side down. Press your everything seasoning mix all over the salmon flesh (avoiding the skin)."
+    },
+    {
+      "heading": null,
+      "description": "Remove your hot baking sheet from the oven, and place a piece of baking parchment on it. Pop your salmon fillets skin side down on top, then drizzle on a little olive oil, and bake them for 7 mins."
+    },
+    {
+      "heading": null,
+      "description": "Turn your grill up to high. Blast your salmon under the grill for 2 mins until the top has turned a little golden."
+    },
+    {
+      "heading": null,
+      "description": "Spoon your salad into bowls, then top with your salmon and a dollop of yoghurt. Serve with a little wedge of lemon."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Most Cooked",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-02T02:30:00+00:00"
+}

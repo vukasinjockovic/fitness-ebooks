@@ -1,0 +1,147 @@
+{
+  "id": "3110097",
+  "slug": "crispy-polenta-fries",
+  "title": "Crispy Polenta Fries",
+  "url": "https://www.mob.co.uk/recipes/crispy-polenta-fries",
+  "summary": "These are an easy snack to make that are especially good if you have any mates round. You'll never look at polenta the same way again.",
+  "image": "https://files.mob-cdn.co.uk/recipes/9K8A1924-1-1-1.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 90,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 181,
+    "protein": 3,
+    "fat": 7,
+    "saturated_fat": 1,
+    "carbohydrates": 26,
+    "dietary_fibre": 2,
+    "sugars": 2,
+    "sodium": 181
+  },
+  "ingredients": [
+    {
+      "label": "250g Instant Polenta",
+      "quantity": "250",
+      "unit": null,
+      "name": "Polenta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Vegan Yoghurt",
+      "quantity": "300",
+      "unit": null,
+      "name": "Vegan Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ a Red Chilli",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": "15",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat your oven to 200°C."
+    },
+    {
+      "heading": null,
+      "description": "Cook the instant polenta according to the package instructions as quantities and timings differ between brands."
+    },
+    {
+      "heading": null,
+      "description": "Once the polenta is cooked, pour it into any shallow square-sided baking tin or oven dish that can accommodate the polenta – you want it to be about 3cm in thickness. Smooth the top over with the back of a spoon and set aside for 30 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, finely chop the chilli and mint and roughly chop the capers. Combine all those ingredients into a small bowl before mixing in the vegan yoghurt, then set aside."
+    },
+    {
+      "heading": null,
+      "description": "Once the polenta has cooled and set, tip it out onto a cutting board and slice into roughly 8cm-long fingers. Pop the polenta sticks into a bowl and toss well with a generous drizzle of olive oil and a big pinch of salt."
+    },
+    {
+      "heading": null,
+      "description": "Line a baking tray with baking paper, add the polenta sticks (keeping them spaced apart) and bake in the oven for 30 to 40 mins, turning once half way, until golden brown and crispy all over."
+    },
+    {
+      "heading": null,
+      "description": "Remove onto kitchen paper, serve with a generous sprinkling of sea salt and the yoghurt for dipping."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Lunch",
+    "Snacks",
+    "Party Food",
+    "Sides"
+  ],
+  "cuisines": [
+    "Italian-American"
+  ],
+  "chefs": [
+    {
+      "name": "Jordon Ezra King",
+      "uri": "chefs/jordon-ezra-king",
+      "summary": "Jordon Ezra King is a chef and storyteller. Having cooked, temped, and staged his way through a host of kitchens around the world, Jordon has now set his sights on sharing his knowledge with the world, using his platform to teach people how to work their way around a kitchen and educate them about the provenance of the dishes they're cooking while he does it."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2022-02-17T17:30:00+00:00"
+}

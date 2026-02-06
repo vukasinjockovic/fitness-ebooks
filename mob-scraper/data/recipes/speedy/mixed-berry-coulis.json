@@ -1,0 +1,95 @@
+{
+  "id": "6521282",
+  "slug": "mixed-berry-coulis",
+  "title": "Mixed Berry Coulis",
+  "url": "https://www.mob.co.uk/recipes/mixed-berry-coulis",
+  "summary": "Level up your dessert game with this adaptable fruit coulis recipe. Use raspberries, blackberries, pitted stone fruit or any frozen berries.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/09/Mixed-Berry-Coulis.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 10,
+  "nutrition": {
+    "calories": 41,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 10,
+    "dietary_fibre": 1,
+    "sugars": 10,
+    "sodium": 1
+  },
+  "ingredients": [
+    {
+      "label": "400g Mixed Berries",
+      "quantity": "400",
+      "unit": null,
+      "name": "Mixed Berries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Caster Sugar",
+      "quantity": "100",
+      "unit": null,
+      "name": "Caster Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place all the ingredients in a medium-sized heavy-bottomed pan and bring to the boil over a gentle heat, stirring continuously. Reduce to a simmer and heat for 15 mins, or until thickened. Add a splash more water if necessary."
+    },
+    {
+      "heading": null,
+      "description": "Allow to cool, then transfer the coulis to a liquidiser or use a hand blender to purée. Finally pass it through a sieve, pushing through as much of the pulp as possible and discarding any seeds."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Gluten-Free",
+    "Dairy-Free",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Allium-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Pudding"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Lily Vanilli",
+      "uri": "chefs/lily-vanilli",
+      "summary": "Lily Jones (aka Lily Vanilli) is a baker and cake designer based in East London."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-07-01T11:29:00+01:00"
+}

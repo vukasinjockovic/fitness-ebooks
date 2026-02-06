@@ -1,0 +1,187 @@
+{
+  "id": "363184",
+  "slug": "mobs-ultimate-carbonara",
+  "title": "Mob's Ultimate Carbonara Recipe",
+  "url": "https://www.mob.co.uk/recipes/mobs-ultimate-carbonara",
+  "summary": "MOB's take on a classic. Absolutely no cream anywhere near this dish. Pepper, smoked bacon, egg yolk, parmesan & pasta water. Stuff dreams are made of.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2020/website-carbinara.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 25,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 857,
+    "protein": 46,
+    "fat": 38,
+    "saturated_fat": 16,
+    "carbohydrates": 85,
+    "dietary_fibre": 4,
+    "sugars": 4,
+    "sodium": 1527
+  },
+  "ingredients": [
+    {
+      "label": "6 Egg Yolks",
+      "quantity": "6",
+      "unit": null,
+      "name": "Eggs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Streaky Smoked Bacon",
+      "quantity": "300",
+      "unit": null,
+      "name": "Streaky Smoked Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Streaky Smoked Bacon",
+      "quantity": "300",
+      "unit": null,
+      "name": "Bacon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Pecorino",
+      "quantity": "75",
+      "unit": null,
+      "name": "Pecorino Romano",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Pecorino",
+      "quantity": "75",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Parmesan",
+      "quantity": "75",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Spaghetti",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Spaghetti",
+      "quantity": "500",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Take a bowl, and grate in your Parmesan and Pecorino (set a pinch aside for sprinkling at the end)."
+    },
+    {
+      "heading": null,
+      "description": "To the cheese, add the egg yolks and a very, very generous amount of black pepper. A good carbonara is meant to be peppery – hence the name, CARBONara. Whisk everything together and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Chop your smoked bacon into little bits, and add to a frying pan set over a medium heat."
+    },
+    {
+      "heading": null,
+      "description": "As the bacon bits begin to brown, add your spaghetti to a large pan of boiling water. Salt the boiling water – pasta water is meant to be almost as salty as the sea!"
+    },
+    {
+      "heading": null,
+      "description": "Once the bacon is crisp, add your sliced garlic. Allow the garlic to soften – if the garlic or bacon looks like it is catching on a pan, add small spoons of the starchy pasta water."
+    },
+    {
+      "heading": null,
+      "description": "When the pasta is 1 minute before being ready – so still quite al dente – ladle out some of the pasta water (about 1 ½ ladles for every person you're cooking for) into a bowl. Set this bowl aside."
+    },
+    {
+      "heading": null,
+      "description": "Drain the pasta, and then pour the pasta into the pan with the bacon and the garlic. Add some of the pasta water (about ½ a ladle per person), and cook everything together over a medium heat. Once the water has evaporated and the pasta is nice and silky, take off the heat."
+    },
+    {
+      "heading": null,
+      "description": "Allow to cool down for 1 minute, and then add the egg and parmesan mixture, and some more pasta water (about ½ a ladle per person) and mix it all together."
+    },
+    {
+      "heading": null,
+      "description": "If it looks too thick, add a bit more water. It should be silky smooth! Serve with a sprinkle of parmesan and twist or two more of black pepper! Enjoy!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "High-Protein",
+    "Power Protein",
+    "Accessible Ingredient",
+    "Adventurous",
+    "30 Plus Protein",
+    "45 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lebus",
+      "uri": "chefs/ben-lebus",
+      "summary": "Ben Lebus is the CEO and founder of Mob. Ben has always been passionate about food and learnt to cook from his father, who ran an Italian restaurant for a number of years. You can regularly find him cooking (and eating) some sort of puttanesca."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2020-09-09T11:00:00+01:00"
+}

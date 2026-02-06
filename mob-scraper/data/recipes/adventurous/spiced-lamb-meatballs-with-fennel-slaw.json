@@ -1,0 +1,271 @@
+{
+  "id": "4405472",
+  "slug": "spiced-lamb-meatballs-with-fennel-slaw",
+  "title": "Spiced Lamb Meatballs with Minty Fennel Slaw",
+  "url": "https://www.mob.co.uk/recipes/spiced-lamb-meatballs-with-fennel-slaw",
+  "summary": "Juicy fragrant meatballs and a lovely little slaw. This has summer written all over it. Perfect with a refreshing Inch's Cider.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/06/Spiced-Lamb-Meatballs-with-Minty-Fennel-Slaw.jpg",
+  "cook_time": 30,
+  "prep_time": 15,
+  "total_time": 45,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 426,
+    "protein": 22,
+    "fat": 26,
+    "saturated_fat": 6,
+    "carbohydrates": 25,
+    "dietary_fibre": 5,
+    "sugars": 7,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "450g Lamb Mince",
+      "quantity": "450",
+      "unit": null,
+      "name": "Lamb Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "450g Lamb Mince",
+      "quantity": "450",
+      "unit": null,
+      "name": "Lamb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Coriander Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Coriander Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Cumin Seeds",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "60g Fresh Breadcrumbs",
+      "quantity": "60",
+      "unit": null,
+      "name": "Breadcrumb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "40g Raisins",
+      "quantity": "40",
+      "unit": null,
+      "name": "Raisin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Toasted Pine Nuts",
+      "quantity": "30",
+      "unit": null,
+      "name": "Pine Nuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jar of Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Jar of Chickpeas",
+      "quantity": "240",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Bulbs of Fennel",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fennel",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Green Chillies",
+      "quantity": "3",
+      "unit": null,
+      "name": "Green Chilli ",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Harissa",
+      "quantity": "2",
+      "unit": null,
+      "name": "Harissa",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Mint",
+      "quantity": null,
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tahini",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "6 Tbsp Yoghurt",
+      "quantity": "6",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Lemons",
+      "quantity": "2",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Preheat the oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Get your lamb mince into a large mixing bowl and season with salt."
+    },
+    {
+      "heading": null,
+      "description": "Toast the whole spices in a dry pan until fragrant, then coarsely grind in a spice grinder or pestle and mortar."
+    },
+    {
+      "heading": null,
+      "description": "Add the breadcrumbs to a bowl and add 60ml of cold water."
+    },
+    {
+      "heading": null,
+      "description": "Add the spices, soaked breadcrumbs, raisins and pine nuts to the lamb and give everything a very thorough mix. You want the mix to be a bit sticky. Now roll into golf ball-sized meatballs, pop onto a tray and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Drain and rinse the chickpeas and chuck them into a roasting tin with a glug of oil, two whole chillies and half a thinly sliced onion. Thinly slice the other half and save it for later. Roast the chickpeas for 30 mins until crispy, golden and delicious."
+    },
+    {
+      "heading": null,
+      "description": "While the chickpeas roast, pan fry the meatballs in a glug of oil over a medium heat until golden on all sides and cooked through. This should take about 15 mins. Add your harissa to the pan for the last couple of mins and finish with a big squeeze of lemon juice. Let the meatballs rest while you finish the other bits."
+    },
+    {
+      "heading": null,
+      "description": "Pull the chickpeas out of the oven, deseed and chop the roasted chillies and stir through with lemon juice and a handful of chopped mint."
+    },
+    {
+      "heading": null,
+      "description": "Finely slice the fennel and chuck into a bowl with the remaining onion, chillies, mint and finish with salt and lemon juice."
+    },
+    {
+      "heading": null,
+      "description": "Mix the yoghurt and tahini with salt, lemon juice and enough water to give a loose, spreadable consistency."
+    },
+    {
+      "heading": null,
+      "description": "Spread the yoghurt and tahini on the bottom of a plate, top with the chickpeas and meatballs, plus any beautiful oil and lemon from the pan, and finish with the fennel salad. Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Adventurous",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mediterranean-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-07-05T10:02:00+01:00"
+}

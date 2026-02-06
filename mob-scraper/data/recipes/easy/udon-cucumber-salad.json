@@ -1,0 +1,255 @@
+{
+  "id": "4532777",
+  "slug": "udon-cucumber-salad",
+  "title": "Udon Cucumber Salad",
+  "url": "https://www.mob.co.uk/recipes/udon-cucumber-salad",
+  "summary": "This fresh and zingy udon ‘salad’ is not quite a salad, more a cold noodle dish with salad elements. It’s got all the good stuff: crunch, spice, and protein.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/08/Udon-Cucumber-Salad.jpg",
+  "cook_time": 15,
+  "prep_time": 10,
+  "total_time": 25,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 670,
+    "protein": 21,
+    "fat": 29,
+    "saturated_fat": 4,
+    "carbohydrates": 82,
+    "dietary_fibre": 7,
+    "sugars": 8,
+    "sodium": 1200
+  },
+  "ingredients": [
+    {
+      "label": "80g Frozen Edamame",
+      "quantity": "80",
+      "unit": null,
+      "name": "Frozen Shelled Edamame",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 150g Straight To Wok Udon Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Udon Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 x 150g Straight To Wok Udon Noodles",
+      "quantity": "300",
+      "unit": null,
+      "name": "Noodle",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15g Ginger",
+      "quantity": "15",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Light Soy Sauce",
+      "quantity": "2",
+      "unit": null,
+      "name": "Light Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Sesame Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sesame Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tsp Rice Vinegar",
+      "quantity": "4",
+      "unit": null,
+      "name": "Rice Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Brown Sugar",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large Cucumber",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cucumber",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "30g Coriander",
+      "quantity": "30",
+      "unit": null,
+      "name": "Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5g Mint",
+      "quantity": "5",
+      "unit": null,
+      "name": "Mint",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Red Chilli",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Chilli",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "20g Roasted Unsalted Peanuts",
+      "quantity": "20",
+      "unit": null,
+      "name": "Roasted Unsalted Peanuts",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Spring Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Tahini (Optional)",
+      "quantity": "2",
+      "unit": null,
+      "name": "Tahini",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "1 Tbsp Crispy Chilli Oil",
+      "quantity": "1",
+      "unit": null,
+      "name": "Crispy Chilli Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Place the edamame in a heatproof bowl."
+    },
+    {
+      "heading": null,
+      "description": "Boil a pot of water and simmer the noodles for 3 mins. Drain and pour some of the hot water over the edamame to defrost. Then rinse the noodles under cold water and set aside."
+    },
+    {
+      "heading": null,
+      "description": "Peel and mince the ginger and garlic and place in a small bowl. Add the soy sauce, sesame oil, rice vinegar, brown sugar and whisk to combine. Set aside."
+    },
+    {
+      "heading": null,
+      "description": "Slice the cucumber into half lengthwise and scoop out the watery seeds with a spoon (you can drain the water out of this and drink it!). Slice the cucumber into diagonal slices around .5cm and place in a large bowl."
+    },
+    {
+      "heading": null,
+      "description": "Roughly chop the coriander leaves and finely chop the stems. Pick the mint leaves. Cut the chilli in half lengthways, remove the seeds and thinly slice. Roughly chop the peanuts. Finely chop the spring onion."
+    },
+    {
+      "heading": null,
+      "description": "Add all of the herbs into the bowl with the cucumbers along with the edamame, spring onion, chilli, soy dressing, noodles and toss well."
+    },
+    {
+      "heading": null,
+      "description": "If using tahini, add a drizzle on top and toss again. Drizzle over the crispy chilli oil and a little more sesame oil and the zest and juice of the lime. Toss well before serving."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "High-Protein",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-09-05T10:17:00+01:00"
+}

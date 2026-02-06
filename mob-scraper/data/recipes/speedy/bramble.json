@@ -1,0 +1,139 @@
+{
+  "id": "4304885",
+  "slug": "bramble",
+  "title": "Bramble",
+  "url": "https://www.mob.co.uk/recipes/bramble",
+  "summary": "You need to make this classic drink – the blackberry Bramble cocktail. It's one of our fave gin cocktails. It’s so nice that’ll be yours, too, soon.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/03/Bramble.jpg",
+  "cook_time": 5,
+  "prep_time": 5,
+  "total_time": 10,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 322,
+    "protein": 0,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 54,
+    "dietary_fibre": 0,
+    "sugars": 54,
+    "sodium": 2
+  },
+  "ingredients": [
+    {
+      "label": "50ml Gin",
+      "quantity": "50",
+      "unit": null,
+      "name": "Gin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "25ml Lemon Juice",
+      "quantity": "25",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50g Sugar",
+      "quantity": "50",
+      "unit": null,
+      "name": "Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50ml Water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "15ml Crème de Mûre",
+      "quantity": "15",
+      "unit": null,
+      "name": "Crème de Mûre",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Blackberry, For Garnish",
+      "quantity": null,
+      "unit": null,
+      "name": "Blackberry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Ice",
+      "quantity": "6",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Gently heat your sugar and water until the sugar is fully dissolved, do not bring to boil."
+    },
+    {
+      "heading": null,
+      "description": "Juice your lemon and slice a wheel for garnish."
+    },
+    {
+      "heading": null,
+      "description": "Get a tea towel and fill it with ice. Wrap it up tight and bang it repeatedly against a table top to get crushed ice."
+    },
+    {
+      "heading": null,
+      "description": "Fill your shaker with ice, then go in with the lemon juice, gin and sugar syrup."
+    },
+    {
+      "heading": null,
+      "description": "Pour crushed ice into a glass and then single strain your cocktail onto it."
+    },
+    {
+      "heading": null,
+      "description": "Pour the crème de mûre on top and garnish with lemon wheel and blackberry. Enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2023-05-19T09:29:00+01:00"
+}

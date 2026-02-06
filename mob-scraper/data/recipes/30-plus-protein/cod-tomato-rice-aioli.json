@@ -1,0 +1,157 @@
+{
+  "id": "5132100",
+  "slug": "cod-tomato-rice-aioli",
+  "title": "Cod with Tomatoey Baked Rice & Aioli",
+  "url": "https://www.mob.co.uk/recipes/cod-tomato-rice-aioli",
+  "summary": "Expect plenty of bright, clean flavours in this recipe. Lemon, capers, and dill is a classic Greek combo.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Cod-with-Tomatoey-Baked-Rice-Aioli.jpg",
+  "cook_time": 15,
+  "prep_time": 5,
+  "total_time": 20,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 547,
+    "protein": 34,
+    "fat": 20,
+    "saturated_fat": 3,
+    "carbohydrates": 56,
+    "dietary_fibre": 6,
+    "sugars": 6,
+    "sodium": 786
+  },
+  "ingredients": [
+    {
+      "label": "2 Tbsp Plain Flour",
+      "quantity": "2",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cod Fillets",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cod Fillet",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cod Fillets",
+      "quantity": "2",
+      "unit": null,
+      "name": "Cod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Small Handful of Fresh Dill",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Dill",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Mayo",
+      "quantity": "2",
+      "unit": null,
+      "name": "Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Capers",
+      "quantity": "2",
+      "unit": null,
+      "name": "Capers",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Make the Greek Tomato Rice Traybake batch recipe."
+    },
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Put the flour onto a tray and season with salt and pepper. Pat the cod dry and coat in the flour on all sides."
+    },
+    {
+      "heading": null,
+      "description": "Heat some oil in a frying pan set over a medium-high heat and add the fish. Cook for around 2 mins on each side until golden, then transfer to the oven to cook through for 8-10 mins (timings will vary slightly depending on the thickness of the cod)."
+    },
+    {
+      "heading": null,
+      "description": "Get the rice into a small saucepan set over a medium heat and cover with a lid. Meanwhile, finely chop the dill, then add to a bowl with the mayo and the zest and juice of the lemon."
+    },
+    {
+      "heading": null,
+      "description": "Serve the rice topped with the cod and a dollop of the dill aioli, then scatter with capers."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Greek",
+    "Mediterranean",
+    "Mediterranean-Inspired",
+    "Greek-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-27T06:00:00+00:00"
+}

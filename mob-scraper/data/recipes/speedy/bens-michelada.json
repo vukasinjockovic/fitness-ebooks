@@ -1,0 +1,135 @@
+{
+  "id": "3238843",
+  "slug": "bens-michelada",
+  "title": "Ben's Michelada",
+  "url": "https://www.mob.co.uk/recipes/bens-michelada",
+  "summary": "The Michelada. Mexico's answer to the Bloody Mary, and my god are they good. Spicy, tangy and delicious. They have healed me more times than I can remember. B x",
+  "image": "https://files.mob-cdn.co.uk/recipes/IMG_0195-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 5,
+  "serving_size": 1,
+  "nutrition": {
+    "calories": 176,
+    "protein": 2,
+    "fat": 0,
+    "saturated_fat": null,
+    "carbohydrates": 21,
+    "dietary_fibre": 2,
+    "sugars": 7,
+    "sodium": 678
+  },
+  "ingredients": [
+    {
+      "label": "1 Lime",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lime",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Chilli Salt, like Tajin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Tajin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100ml Tomato Juice",
+      "quantity": "100",
+      "unit": null,
+      "name": "Tomato Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Worcestershire Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Hot Sauce",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Hot Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice Cubes",
+      "quantity": "4",
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Bottle of Mexican Beer, We Like Modelo",
+      "quantity": "355",
+      "unit": null,
+      "name": "Beer",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by cutting a wedge of lime and rubbing it around the rim of your glass."
+    },
+    {
+      "heading": null,
+      "description": "Now roll the rim of your glass in the chilli salt to coat."
+    },
+    {
+      "heading": null,
+      "description": "Add the tomato juice to the glass with a big squeeze of lime, plus a few dashes each of Worcestershire and your favourite hot sauce. You can adjust to your taste."
+    },
+    {
+      "heading": null,
+      "description": "Add your ice and give it a stir."
+    },
+    {
+      "heading": null,
+      "description": "Now top off with ice cold beer and a slice of lime to garnish."
+    },
+    {
+      "heading": null,
+      "description": "Get stuck in."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Speedy",
+    "Budget",
+    "Low Carb",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [
+    "Mexican",
+    "Drinks"
+  ],
+  "chefs": [
+    {
+      "name": "Ben Lippett",
+      "uri": "chefs/ben-lippett",
+      "summary": "Ben Lippett (@dinnerbyben) is a cook, food writer, recipe developer, and co-founder of Dr Sting's Hot Honey. Ben spent years working at a spate of restaurants in the UK and Australia – including a brief but rewarding stint at a butcher's – before making the leap to food media."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-05-10T07:00:00+01:00"
+}

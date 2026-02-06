@@ -1,0 +1,158 @@
+{
+  "id": "5094613",
+  "slug": "rhubarb-negroni",
+  "title": "Rhubarb Negroni",
+  "url": "https://www.mob.co.uk/recipes/rhubarb-negroni",
+  "summary": "A sweet negroni inspired by rhubarb and custard. This is a delicious cocktail recipe.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/02/Rhubarb-Negroni.jpg",
+  "cook_time": 0,
+  "prep_time": 5,
+  "total_time": 5,
+  "serving_size": 8,
+  "nutrition": {
+    "calories": 163,
+    "protein": 1,
+    "fat": 1,
+    "saturated_fat": 1,
+    "carbohydrates": 13,
+    "dietary_fibre": 1,
+    "sugars": 10,
+    "sodium": 10
+  },
+  "ingredients": [
+    {
+      "label": "200ml Gin",
+      "quantity": "200",
+      "unit": null,
+      "name": "Gin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Campari",
+      "quantity": "200",
+      "unit": null,
+      "name": "Campari",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Sweet Vermouth",
+      "quantity": "200",
+      "unit": null,
+      "name": "Sweet Vermouth",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400g Rhubarb",
+      "quantity": "400",
+      "unit": null,
+      "name": "Rhubarb",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200ml Custard",
+      "quantity": "200",
+      "unit": null,
+      "name": "Custard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vanilla Pod",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Pod",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Vanilla Paste (Optional)",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vanilla Bean Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Ice",
+      "quantity": null,
+      "unit": null,
+      "name": "Ice Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Cut your vanilla bean lengthways and scrape out the contents."
+    },
+    {
+      "heading": null,
+      "description": "Find a jar or container large enough to store everything, then cut your rhubarb to just below the length of the jar and fill it up with the rhubarb and the vanilla pod."
+    },
+    {
+      "heading": null,
+      "description": "Now, pour in your gin, Campari, and sweet vermouth. Close the container and leave it to infuse in the fridge for a couple of days depending on how strong you want the flavour of the rhubarb to be."
+    },
+    {
+      "heading": null,
+      "description": "We wanted ours to taste very vanilla-y so I added a teaspoon of vanilla paste to the custard and mix."
+    },
+    {
+      "heading": null,
+      "description": "Remove your rhubarb from the container and, this is important, pour your cocktail into your custard and NOT the other way around. It won’t be the end of the world if you do, but the clarification process works better when you’re pouring booze into dairy."
+    },
+    {
+      "heading": null,
+      "description": "Leave this mixture for 3-4 hours to clarify – this should remove any overpowering notes and make the flavour deeper and richer as well as removing suspended solid particles from a liquid."
+    },
+    {
+      "heading": null,
+      "description": "This next step is also important. Filter your cocktail using a coffee filter and a funnel, let it run until the drops coming out the bottom are noticeably clear and without particles. Then change to a new container and pour the first run off back in carefully into the filter. This should ensure your drink comes out fully clear."
+    },
+    {
+      "heading": null,
+      "description": "Feel free to do a second run through if you want to double clarify your cocktail."
+    },
+    {
+      "heading": null,
+      "description": "Jar this finished cocktail up and store it in the fridge for whenever you want it."
+    },
+    {
+      "heading": null,
+      "description": "For garnish, we sprinkled sugar over the top of a piece of the infused rhubarb and flamed it until a glaze formed. Serve over ice and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Low Carb"
+  ],
+  "dietary_requirements": [],
+  "meals": [
+    "Party Drinks"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Toby Clarke",
+      "uri": "chefs/toby-clarke",
+      "summary": "Toby is Mob's resident drinks expert. Mixology is one of those things that can seem needlessly complicated and nerdy (and involve way too much showmanship) but Toby always ensures his cocktail recipes are simple and delicious. We'll drink to that."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-02-23T09:18:00+00:00"
+}

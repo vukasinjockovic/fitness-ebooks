@@ -1,0 +1,258 @@
+{
+  "id": "5284437",
+  "slug": "beef-cheddar-onion-pie",
+  "title": "Beef, Cheddar & Onion Pie",
+  "url": "https://www.mob.co.uk/recipes/beef-cheddar-onion-pie",
+  "summary": "A hearty beef pie recipe that's set to be a new family favourite. The secret ingredient? Love. And cheddar. Lots of cheddar.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Beef-Cheddar-Onion-Pie.jpg",
+  "cook_time": 65,
+  "prep_time": 10,
+  "total_time": 70,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 813,
+    "protein": 36,
+    "fat": 54,
+    "saturated_fat": 22,
+    "carbohydrates": 44,
+    "dietary_fibre": 4,
+    "sugars": 6,
+    "sodium": 800
+  },
+  "ingredients": [
+    {
+      "label": "1x 320g Puff Pastry Roll",
+      "quantity": "320",
+      "unit": null,
+      "name": "Puff Pastry",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Celery Sticks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Celery",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Olive Oil",
+      "quantity": "3",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Mince",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Beef Mince",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Tbsp Plain Flour",
+      "quantity": "4",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Worcestershire Sauce",
+      "quantity": "3",
+      "unit": null,
+      "name": "Worcestershire Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500ml Beef Stock",
+      "quantity": "500",
+      "unit": null,
+      "name": "Beef Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Cheddar",
+      "quantity": "120",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Cheddar",
+      "quantity": "120",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Mashed Potato",
+      "quantity": null,
+      "unit": null,
+      "name": "Mashed Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Mashed Potato",
+      "quantity": null,
+      "unit": null,
+      "name": "Potato",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Greens",
+      "quantity": null,
+      "unit": null,
+      "name": "Greens (Broccoli, Kale or Spinach)",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 200°C. Remove the pastry from the fridge about 30 mins before using. Roll the pastry out and cut it into a circle around 1cm bigger than the pan or dish you’ll be cooking the pie in. Return to the fridge until you’re ready to use it."
+    },
+    {
+      "heading": null,
+      "description": "Peel and finely slice the onion and garlic, peel and finely dice the carrot and then slice the celery."
+    },
+    {
+      "heading": null,
+      "description": "Heat ⅓ of your olive oil in a frying pan set over a medium-high heat. Add half the beef and fry until deeply caramelised. Remove from the pan and set aside, then repeat with another ⅓ of olive oil and the rest of the beef, then remove from the pan."
+    },
+    {
+      "heading": null,
+      "description": "Add the last ⅓ of olive oil to the same pan and add the onion, carrot, garlic and celery along with a pinch of salt. Cook over a medium heat for 10 mins, then add the cooked beef and the flour. Cook for 3-4 mins, then add the Worcestershire sauce and stock. Taste and season with salt and pepper, then simmer for 5-10 mins until slightly thickened. Grate the cheese then mix it through the beef mixture until melted. If using a pie dish, transfer the mix into it, but if not, keep it in the ovenproof frying pan."
+    },
+    {
+      "heading": null,
+      "description": "Get the pastry out of the fridge and score with a cross-hatch pattern. Cut a small hole or cross in the middle to let the steam escape, then drape the pastry over the pie filling, sticking the pastry to the edge of the dish to seal. Brush with beaten egg and pop in the oven for 20-25 mins until crisp and golden."
+    },
+    {
+      "heading": null,
+      "description": "Serve with mash and greens!"
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "High-Protein",
+    "Freezer Friendly",
+    "Family-Friendly",
+    "30 Plus Protein"
+  ],
+  "dietary_requirements": [
+    "Nut-Free",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "British",
+    "British-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Jodie Nixon",
+      "uri": "chefs/jodie-nixon",
+      "summary": "Jodie is a recipe writer, Mob food producer, and professional snacker. When she's not recreating all your childhood classics, she's creating delicious veg-forward dishes that'll prove you don't always need meat to have a good time. She's one hell of a talented cook."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-28T06:00:00+00:00"
+}

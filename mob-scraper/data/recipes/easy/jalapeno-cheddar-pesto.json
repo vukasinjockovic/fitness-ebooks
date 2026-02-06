@@ -1,0 +1,160 @@
+{
+  "id": "5301651",
+  "slug": "jalapeno-cheddar-pesto",
+  "title": "Jalapeño & Cheddar Pesto",
+  "url": "https://www.mob.co.uk/recipes/jalapeno-cheddar-pesto",
+  "summary": "A very untraditional pesto that's packed with spice. This one has got a real something-something.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/03/Jalapeno-Cheddar-Pesto.jpg",
+  "cook_time": 0,
+  "prep_time": 15,
+  "total_time": 15,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 357,
+    "protein": 7,
+    "fat": 35,
+    "saturated_fat": 7,
+    "carbohydrates": 4,
+    "dietary_fibre": 2,
+    "sugars": 1,
+    "sodium": 98
+  },
+  "ingredients": [
+    {
+      "label": "50g Fresh Coriander",
+      "quantity": "50",
+      "unit": null,
+      "name": "Fresh Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Jalapeños",
+      "quantity": "2",
+      "unit": null,
+      "name": "Jalapeño",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Toasted Pumpkin Seeds",
+      "quantity": "100",
+      "unit": null,
+      "name": "Pumpkin Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Garlic Clove",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Cheddar",
+      "quantity": "70",
+      "unit": null,
+      "name": "Cheddar Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "70g Cheddar",
+      "quantity": "70",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Lemon",
+      "quantity": "1",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "150ml Olive Oil",
+      "quantity": "150",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Toast the pumpkin seeds in a dry frying pan. Add the coriander, jalapeños and toasted pumpkin seeds to a blender. Peel the garlic clove and add in, then roughly chop the cheddar and add. Add the lemon juice and season generously with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Add ⅓ of olive oil and begin to blend, then continue to add olive oil until you get to a thick pesto consistency."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Healthy",
+    "Low Carb",
+    "Low Ingredient",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [],
+  "cuisines": [
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Elena Silcock",
+      "uri": "chefs/elena-silcock",
+      "summary": "Elena Silcock is the Managing food editor at Mob. She's also a food writer, chef and food stylist who has worked for various brands including BBC Good Food and Olive Magazine as well as in the kitchens of restaurants in both London and Copenhagen."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-03-01T13:07:00+00:00"
+}

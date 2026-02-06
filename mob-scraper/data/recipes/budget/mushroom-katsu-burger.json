@@ -1,0 +1,292 @@
+{
+  "id": "1167971",
+  "slug": "mushroom-katsu-burger",
+  "title": "Mushroom Katsu Burger",
+  "url": "https://www.mob.co.uk/recipes/mushroom-katsu-burger",
+  "summary": "If you need a dirty vegan burger in your life, this one is for you. Spiced sauce, a crispy portobello mushroom and a fresh slaw are going to rock your world.",
+  "image": "https://files.mob-cdn.co.uk/recipes/849A9021-2.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 464,
+    "protein": 12,
+    "fat": 15,
+    "saturated_fat": 2,
+    "carbohydrates": 70,
+    "dietary_fibre": 5,
+    "sugars": 11,
+    "sodium": 635
+  },
+  "ingredients": [
+    {
+      "label": "1 Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Carrot",
+      "quantity": "1",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2cm Knob of Ginger",
+      "quantity": "2",
+      "unit": null,
+      "name": "Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Curry Powder",
+      "quantity": "2",
+      "unit": null,
+      "name": "Curry Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Plain Flour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "400ml Vegetable Stock",
+      "quantity": "400",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Brown Sugar",
+      "quantity": "1",
+      "unit": null,
+      "name": "Brown Sugar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Soy Sauce",
+      "quantity": "1",
+      "unit": null,
+      "name": "Soy Sauce",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "120g Plain Flour",
+      "quantity": "120",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "180ml Soy Milk",
+      "quantity": "180",
+      "unit": null,
+      "name": "Soya Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Portobello Mushrooms",
+      "quantity": "4",
+      "unit": null,
+      "name": "Portobello Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Portobello Mushrooms",
+      "quantity": "4",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Panko Breadcrumbs",
+      "quantity": "100",
+      "unit": null,
+      "name": "Panko Breadcrumbs",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "White Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ White Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Red Cabbage",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Red Cabbage",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Spring Onions",
+      "quantity": "2",
+      "unit": null,
+      "name": "Spring Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Rice Wine Vinegar",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rice Wine Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Vegan Mayo",
+      "quantity": "2",
+      "unit": null,
+      "name": "Vegan Mayonnaise",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Vegan Burger Buns",
+      "quantity": "240",
+      "unit": null,
+      "name": "Vegan Burger Bun",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Pickled Ginger",
+      "quantity": "3",
+      "unit": null,
+      "name": "Pickled Ginger",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Vegetable Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Vegetable Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Start by making your sauce. Finely chop your onion and your carrot."
+    },
+    {
+      "heading": null,
+      "description": "Heat a glug of vegetable oil in a saucepan over a medium heat. Add your onion and carrot, then cook out for 10 minutes until soft and caramelised."
+    },
+    {
+      "heading": null,
+      "description": "Add your ginger and garlic to the pan and cook out for 2 minutes before tipping in your curry powder and flour. Give it a good mix to coat your vegetables and cook out for 2 minutes longer."
+    },
+    {
+      "heading": null,
+      "description": "Pour in your vegetable stock along with your brown sugar and soy sauce, then simmer for 5 minutes until thickened and slightly reduced. Season to taste, then set aside to cool briefly. Pop it in a blender and blitz to a smooth sauce, then return it to the saucepan to stay warm."
+    },
+    {
+      "heading": null,
+      "description": "Now make your slaw. Finely chop your cabbages and slice your spring onions. Pop both in a bowl along with your vegan mayonnaise, rice wine vinegar and a pinch of salt. Give it all a good mix and set aside until later."
+    },
+    {
+      "heading": null,
+      "description": "Whisk your flour and soy milk together in a bowl with a pinch of salt to form a thick paste. In a separate bowl, tip your panko breadcrumbs. Get your portobello mushrooms and dip them in the thick paste until they are fully coated. Transfer them to the panko breadcrumbs bowl and toss until fully coated."
+    },
+    {
+      "heading": null,
+      "description": "Heat a good glug of vegetable oil in a high sided frying pan over a medium-high heat. Gently place your mushrooms in the oil and fry over a medium heat for about 4 minutes on each side, by which time they should be deep golden brown and crisp, with a tender mushroom within."
+    },
+    {
+      "heading": null,
+      "description": "Time to assemble your burgers. Halve your buns and spread the base with your curry sauce. Place your mushroom on top, along with a handful of slaw and some pickled ginger. Eat whilst still crisp and hot."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "High Fibre",
+    "Adventurous"
+  ],
+  "dietary_requirements": [],
+  "meals": [],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Sophie Wyburd",
+      "uri": "chefs/sophie-wyburd",
+      "summary": "Sophie Wyburd is a cook and food writer specialising in simple, hearty comfort food, informed by her love of cookbooks and background in restaurant kitchens. You can find her co-hosting the 'A Bit of a Mouthful' and 'I’ll Have What She’s Having' podcasts, and hosting sell-out supper clubs in London. Her debut cookbook 'Tucking In' will be released in June 2024.\n\nPhoto credit: Stuart Simpson"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-01-03T11:15:00+00:00"
+}

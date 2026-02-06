@@ -1,0 +1,205 @@
+{
+  "id": "2632414",
+  "slug": "courgette-parmigiana",
+  "title": "Courgette Parmigiana",
+  "url": "https://www.mob.co.uk/recipes/courgette-parmigiana",
+  "summary": "An authentic parmigiana di zucchine recipe from the legend Gennaro Contaldo. This is the only Courgette Parmigiana recipe you’ll ever need.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/07/Courgette-Parmigiana.jpg",
+  "cook_time": null,
+  "prep_time": null,
+  "total_time": 115,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 410,
+    "protein": 20,
+    "fat": 27,
+    "saturated_fat": 8,
+    "carbohydrates": 22,
+    "dietary_fibre": 4,
+    "sugars": 9,
+    "sodium": 234
+  },
+  "ingredients": [
+    {
+      "label": "2 Cloves of Garlic",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "800g Napolina Chopped Tomatoes",
+      "quantity": "800",
+      "unit": null,
+      "name": "Chopped Tomatoes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Basil Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Napolina Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Courgettes",
+      "quantity": "3",
+      "unit": null,
+      "name": "Courgette",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "4 Eggs",
+      "quantity": "4",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g Plain Flour",
+      "quantity": "100",
+      "unit": null,
+      "name": "Plain Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful of Fresh Basil Leaves",
+      "quantity": "15",
+      "unit": null,
+      "name": "Basil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g Grated Parmesan",
+      "quantity": "75",
+      "unit": null,
+      "name": "Parmesan",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mozzarella",
+      "quantity": "200",
+      "unit": null,
+      "name": "Mozzarella",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "200g Mozzarella",
+      "quantity": "200",
+      "unit": null,
+      "name": "Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Napolina Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "First, make the tomato sauce. Finely chop the garlic. Heat olive oil in a pan over a medium heat and sweat the garlic for a minute or so. Add in the tinned tomatoes with about half a can of water. Roughly tear in your basil and some salt to taste. Lower the heat, cover with a lid and cook for about 25 mins."
+    },
+    {
+      "heading": null,
+      "description": "Preheat the oven to 180°C/354°F."
+    },
+    {
+      "heading": null,
+      "description": "Whilst the tomato sauce is cooking, slice the courgettes lengthways into 1cm slices. Lightly beat the eggs in salt and pepper. Dust the slices in flour and dip into the beaten egg. Heat 300ml of your Napolina Olive Oil in a large pan. Once hot, add the courgette slices and fry for a couple of mins on each side until golden. Remove and drain on kitchen paper."
+    },
+    {
+      "heading": null,
+      "description": "Line an ovenproof dish with a little of the tomato sauce, then place a layer of courgette slices on top, followed by another layer of tomato sauce. Sprinkle over grated parmesan, roughly torn pieces of mozzarella and scatter over the basil leaves. Continue layering until you have used up all the ingredients, finishing with parmesan and mozzarella."
+    },
+    {
+      "heading": null,
+      "description": "Cover with foil and bake in the oven for 20 mins. Remove the foil and continue to bake for another 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Remove from the oven and leave to rest for about 15 mins to cool. Serve and enjoy."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Budget",
+    "Low Carb",
+    "Accessible Ingredient",
+    "Adventurous"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "chefs": [
+    {
+      "name": "Mob",
+      "uri": "chefs/mob",
+      "summary": "Mob is on a mission to instil a love of cooking in everyone, because we believe in the positive impact that it can have on people's lives."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2021-10-27T13:24:00+01:00"
+}

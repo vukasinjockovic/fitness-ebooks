@@ -1,0 +1,178 @@
+{
+  "id": "7382839",
+  "slug": "easy-blueberry-pancakes",
+  "title": "Easy Banana & Blueberry Pancakes",
+  "url": "https://www.mob.co.uk/recipes/easy-blueberry-pancakes",
+  "summary": "Fluffy banana pancakes studded with juicy blueberries, ready in minutes. Perfect for the little ones - and grown-ups too.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2025/7/Easy-Banana-Blueberry-Pancakes.jpg",
+  "cook_time": 10,
+  "prep_time": 5,
+  "total_time": 15,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 322,
+    "protein": 8,
+    "fat": 8,
+    "saturated_fat": 4,
+    "carbohydrates": 51,
+    "dietary_fibre": 3,
+    "sugars": 22,
+    "sodium": 120
+  },
+  "ingredients": [
+    {
+      "label": "1 banana",
+      "quantity": "1",
+      "unit": null,
+      "name": "Banana",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 egg",
+      "quantity": "1",
+      "unit": null,
+      "name": "Egg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "75g self-raising flour",
+      "quantity": "75",
+      "unit": null,
+      "name": "Self Raising Flour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "milk",
+      "quantity": "1",
+      "unit": null,
+      "name": "Milk",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g frozen blueberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Blueberries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g greek yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Greek Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g greek yoghurt",
+      "quantity": "100",
+      "unit": null,
+      "name": "Yoghurt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Unsalted Butter",
+      "quantity": "15",
+      "unit": null,
+      "name": "Unsalted Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "100g frozen blueberries",
+      "quantity": "100",
+      "unit": null,
+      "name": "Frozen Blueberries",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "50m water",
+      "quantity": "50",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 tbsp honey",
+      "quantity": "1",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "1 Adult Serving = 2 Kids Servings\nDefrost your frozen blueberries for the pancakes (you can skip this step if you're using fresh ones)."
+    },
+    {
+      "heading": null,
+      "description": "If you're up for the quick compote, tip the frozen blueberries into the pan with the water and honey and bring to a boil. Simmer for a minute then remove from the heat and allow to cool."
+    },
+    {
+      "heading": null,
+      "description": "To make the pancakes, add the ripe banana to a bowl and mash together until smooth. Crack the egg into the bowl and whisk everything together. Add in the self-raising flour and a tiny pinch of salt and mix everything together until well combined, adding a splash of milk if its a little thick."
+    },
+    {
+      "heading": null,
+      "description": "Melt a little knob of butter in a large frying pan over a medium heat. Scoop in heaped tablespoon of the mixture into the pan, keeping 2-3cm of space around each one, then drop some of the defrosted blueberries onto the surface of the batter. Cook for 2 minutes on the first side, until lightly golden, then flip and cook for another minute. \nRepeat until you've used up all your mix."
+    },
+    {
+      "heading": null,
+      "description": "Plate up the blueberry pancakes, with your quite compote and yoghurt, or your kid's favourite topping."
+    }
+  ],
+  "tips": [
+    "These pancakes freeze well — cool fully then freeze with baking paper between each one.",
+    "You can skip the compote and just use a drizzle of maple syrup."
+  ],
+  "categories": [
+    "Easy",
+    "Speedy",
+    "Budget",
+    "Healthy",
+    "Accessible Method",
+    "Accessible Ingredient",
+    "Super Simple"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Nut-Free",
+    "Pescatarian",
+    "Shellfish-Free"
+  ],
+  "meals": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [],
+  "chefs": [
+    {
+      "name": "Adam Bush",
+      "uri": "chefs/adam-bush",
+      "summary": "Adam is a chef, baker and food writer with a love of big, bold flavours. He trained in Michelin-starred kitchens, pubs and a bakery before turning his hand to recipe writing."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-07-23T16:42:00+01:00"
+}

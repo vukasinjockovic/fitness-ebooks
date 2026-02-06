@@ -1,0 +1,142 @@
+{
+  "id": "4732564",
+  "slug": "sticky-spicy-roasted-roots",
+  "title": "Sticky & Spicy Roasted Roots",
+  "url": "https://www.mob.co.uk/recipes/sticky-spicy-roasted-roots",
+  "summary": "Carrots and parsnips tossed in sweet, sticky, and spicy glaze. Christmas dinner sides don't get much better than this.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Sticky-Spicy-Roasted-Roots.jpg",
+  "cook_time": 35,
+  "prep_time": 15,
+  "total_time": 50,
+  "serving_size": 6,
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "fat": 3,
+    "saturated_fat": 0,
+    "carbohydrates": 23,
+    "dietary_fibre": 5,
+    "sugars": 13,
+    "sodium": 38
+  },
+  "ingredients": [
+    {
+      "label": "750g Carrots",
+      "quantity": "750",
+      "unit": null,
+      "name": "Carrot",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "750g Parsnips",
+      "quantity": "750",
+      "unit": null,
+      "name": "Parsnip",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Honey, Plus Extra To Serve",
+      "quantity": "2",
+      "unit": null,
+      "name": "Honey",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Balsamic Vinegar",
+      "quantity": "3",
+      "unit": null,
+      "name": "Balsamic Vinegar",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cumin Seeds",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cumin Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Red Pepper Flakes, Plus Extra To Serve",
+      "quantity": "1",
+      "unit": null,
+      "name": "Red Pepper Flakes",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Toasted Sesame Seeds, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Toasted Sesame Seed",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Parsley, To Serve",
+      "quantity": null,
+      "unit": null,
+      "name": "Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": true
+    },
+    {
+      "label": "Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 220°C."
+    },
+    {
+      "heading": null,
+      "description": "Slice the rest of the carrots in half lengthways, leaving any smaller ones whole. Slice any large parsnips in half lengthways. Pile into a large roasting tray in a single layer (split between two trays if you need to!) Season, then add in a big splash of water before covering the tray with foil and slide into the oven for 15 mins."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, make the glaze. Mix the balsamic with the honey with 2 tbsp olive oil. Add the cumin seeds and red pepper flakes and season well. Remove the roasting tray from the oven, remove the foil, then toss in the glaze over the veg. Slide back into the oven and cook for 30 mins, tossing regularly, until sticky and golden. If you want them a little more charred, turn on the grill for the last 10 mins."
+    },
+    {
+      "heading": null,
+      "description": "Spoon onto a platter. Scatter with toasted sesame seeds, parsley, and then finish with a little olive oil and a pinch of red pepper flakes."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Accessible Method",
+    "Accessible Ingredient"
+  ],
+  "dietary_requirements": [
+    "Veggie",
+    "Pescatarian"
+  ],
+  "meals": [
+    "Sides"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "chefs": [],
+  "access_level": "2",
+  "post_date": "2023-12-11T15:40:00+00:00"
+}

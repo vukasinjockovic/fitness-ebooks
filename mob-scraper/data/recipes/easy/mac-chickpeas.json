@@ -1,0 +1,344 @@
+{
+  "id": "4778377",
+  "slug": "mac-chickpeas",
+  "title": "Mac & Chickpeas",
+  "url": "https://www.mob.co.uk/recipes/mac-chickpeas",
+  "summary": "Sometimes pasta isn't always the answer. Our chickpea twist on this classic is packed with delicious squash, perfect for an evening where you want something indulgent but still a bit healthy.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2023/12/Mac-Chickpeas.jpg",
+  "cook_time": 40,
+  "prep_time": 20,
+  "total_time": 60,
+  "serving_size": 4,
+  "nutrition": {
+    "calories": 474,
+    "protein": 19,
+    "fat": 18,
+    "saturated_fat": 3,
+    "carbohydrates": 56,
+    "dietary_fibre": 11,
+    "sugars": 10,
+    "sodium": 701
+  },
+  "ingredients": [
+    {
+      "label": "½ Medium Butternut Squash",
+      "quantity": "500",
+      "unit": null,
+      "name": "Butternut Squash",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Large White Onion",
+      "quantity": "1",
+      "unit": null,
+      "name": "Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Medium Leeks",
+      "quantity": "2",
+      "unit": null,
+      "name": "Leek",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "5 Garlic Cloves",
+      "quantity": "5",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Cumin",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Cumin",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Ground Coriander",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Coriander",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tsp Smoked Paprika",
+      "quantity": "2",
+      "unit": null,
+      "name": "Smoked Paprika",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "¼ Tsp Ground Nutmeg",
+      "quantity": "0.25",
+      "unit": null,
+      "name": "Ground Nutmeg",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins of Chickpeas",
+      "quantity": "720",
+      "unit": null,
+      "name": "Drained Cooked Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 x 400g Tins of Chickpeas",
+      "quantity": "720",
+      "unit": null,
+      "name": "Chickpeas",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Vegetable Stock",
+      "quantity": "250",
+      "unit": null,
+      "name": "Vegetable Stock",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Slices of Wholemeal Sourdough Bread",
+      "quantity": "2",
+      "unit": null,
+      "name": "Sourdough",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sprigs of Fresh Rosemary, Needles Removed and Finely Chopped",
+      "quantity": "2",
+      "unit": null,
+      "name": "Rosemary",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic Powder",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Garlic Powder",
+      "quantity": "1",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Salt",
+      "quantity": null,
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Extra Virgin Olive Oil",
+      "quantity": null,
+      "unit": null,
+      "name": "Extra Virgin Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "80g Cashew Nuts (Or Sunflower Seeds)",
+      "quantity": "80",
+      "unit": null,
+      "name": "Cashew",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Tsp Salt",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Salt",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Silken Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "300g Silken Tofu",
+      "quantity": "300",
+      "unit": null,
+      "name": "Tofu",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Cornflour",
+      "quantity": "1",
+      "unit": null,
+      "name": "Cornflour",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "3 Tbsp Nutritional Yeast",
+      "quantity": "3",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Pinch of Ground Turmeric",
+      "quantity": "1",
+      "unit": null,
+      "name": "Ground Turmeric",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Miso Paste",
+      "quantity": "1",
+      "unit": null,
+      "name": "Miso Paste",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Juice of 1 Lemon",
+      "quantity": "45",
+      "unit": null,
+      "name": "Lemon Juice",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Black Pepper",
+      "quantity": null,
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Heat the oven to 180°C. Soak the cashews or sunflower seeds in boiling water for 15 mins. Wash and chop the leeks into half-moons. Remove the rosemary needles and finely chop them. Dice the onion and crush the garlic. Set everything aside."
+    },
+    {
+      "heading": null,
+      "description": "Deseed the squash, reserving the seeds. Score the fleshy part and roast in a roasting tin, cut-side down, for 20-30 mins or until the flesh begins to collapse. Rinse and dry the pumpkin seeds then roast them in oil and salt for 15-20 mins on a separate tray."
+    },
+    {
+      "heading": null,
+      "description": "Meanwhile, fry the onion and leek in a frying pan for 10 mins over a medium heat in plenty of olive oil with a pinch of salt and a few big twists of black pepper. Stir occasionally – don’t let them burn."
+    },
+    {
+      "heading": null,
+      "description": "Add all the ‘cheesy’ sauce ingredients to a bullet or blender, including the soaked nuts, then set aside, add a splash of water to loosen."
+    },
+    {
+      "heading": null,
+      "description": "Put the garlic, cumin, coriander, paprika and nutmeg, plus more oil if needed, into the frying pan with the onion and leek. Fry for 3 mins. Dissolve the stock cube in water and deglaze. Add the chickpeas and turn the heat to low."
+    },
+    {
+      "heading": null,
+      "description": "The squash should be done by now. When it’s cool enough, scoop out the soft flesh with a spoon and pop it into the same blender. Whizz until you get a silky smooth sauce and season with salt and pepper."
+    },
+    {
+      "heading": null,
+      "description": "Pour the cheesy sauce over the chickpea mix. Mix in well and leave on a low heat whilst you whizz-up the bread in a clean, dry bullet cup or blender. Add the crumbs to a large bowl, along with 1½ tbsp olive oil, the garlic powder, ½ tsp salt and the rosemary. Toss well to combine and layer over the chickpeas in a thin crust. Roast in the oven or under the grill until golden and bubbly."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Healthy",
+    "Gut-Friendly"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Shellfish-Free",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "chefs": [
+    {
+      "name": "Sophie Waplington",
+      "uri": "chefs/sophie-waplington",
+      "summary": "Soph (@sophsplantkitchen) is a personal trainer and plant-based recipe developer, specialising in high-protein, high-fibre, wholefood recipes to help support healthy, active lifestyles. Her mission is to redefine ‘fitness food’ by adding more deliciousness into your diet, instead of taking it away."
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2025-01-21T05:00:00+00:00"
+}

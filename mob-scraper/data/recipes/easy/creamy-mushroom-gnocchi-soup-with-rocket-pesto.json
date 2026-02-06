@@ -1,0 +1,276 @@
+{
+  "id": "6798294",
+  "slug": "creamy-mushroom-gnocchi-soup-with-rocket-pesto",
+  "title": "Creamy Mushroom Gnocchi Soup with Rocket Pesto",
+  "url": "https://www.mob.co.uk/recipes/creamy-mushroom-gnocchi-soup-with-rocket-pesto",
+  "summary": "A hearty plant-based soup with pillowy gnocchi in a peppery creamy broth, topped with a fresh rocket and parsley pesto. Proper nourishing food to keep you warm this winter.",
+  "image": "https://files.mob-cdn.co.uk/recipes/2024/10/Creamy-Mushroom-Gnocchi-Soup-with-Rocket-Pesto.jpg",
+  "cook_time": 25,
+  "prep_time": 5,
+  "total_time": 30,
+  "serving_size": 2,
+  "nutrition": {
+    "calories": 601,
+    "protein": 13,
+    "fat": 33,
+    "saturated_fat": 7,
+    "carbohydrates": 60,
+    "dietary_fibre": 8,
+    "sugars": 8,
+    "sodium": 900
+  },
+  "ingredients": [
+    {
+      "label": "½ Brown Onion",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Brown Onion",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic Clove",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Garlic Cloves",
+      "quantity": "2",
+      "unit": null,
+      "name": "Garlic",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chestnut Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Chestnut Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "500g Chestnut Mushrooms",
+      "quantity": "500",
+      "unit": null,
+      "name": "Mushroom",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegan Butter",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegan Butter",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "12 Twists Black Pepper",
+      "quantity": "12",
+      "unit": null,
+      "name": "Black Pepper",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Dry White Wine",
+      "quantity": "2",
+      "unit": null,
+      "name": "Dry White Wine",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "350ml Water",
+      "quantity": "350",
+      "unit": null,
+      "name": "Water",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250ml Soya Single Cream",
+      "quantity": "250",
+      "unit": null,
+      "name": "Soya Single Cream",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Vegetable Stock Cube",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegetable Stock Cube",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Sprigs Thyme",
+      "quantity": "2",
+      "unit": null,
+      "name": "Fresh Thyme",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Wholegrain Mustard",
+      "quantity": "1",
+      "unit": null,
+      "name": "Wholegrain Mustard",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Gnocchi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Gnocchi",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "250g Gnocchi",
+      "quantity": "250",
+      "unit": null,
+      "name": "Pasta",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tbsp Vegan Cream Cheese",
+      "quantity": "1",
+      "unit": null,
+      "name": "Vegan Cream Cheese",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Parsley",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Parsley",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "Handful Rocket",
+      "quantity": "15",
+      "unit": null,
+      "name": "Fresh Rocket",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "10g Toasted Sunflower Seeds",
+      "quantity": "10",
+      "unit": null,
+      "name": "Sunflower Seeds",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "½ Lemon",
+      "quantity": "0.5",
+      "unit": null,
+      "name": "Lemon",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "2 Tbsp Olive Oil",
+      "quantity": "2",
+      "unit": null,
+      "name": "Olive Oil",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    },
+    {
+      "label": "1 Tsp Nutritional Yeast",
+      "quantity": "1",
+      "unit": null,
+      "name": "Nutritional Yeast",
+      "optional": false,
+      "to_taste": false,
+      "to_serve": false
+    }
+  ],
+  "method": [
+    {
+      "heading": null,
+      "description": "Finely chop the onion, mince the garlic and slice the mushrooms."
+    },
+    {
+      "heading": null,
+      "description": "Melt the butter in a medium sized pot. Add the black pepper and cook on medium heat for a couple of minutes. Add the onion and garlic and cook, stirring, for another minute before adding the mushrooms. Season with salt and turn the heat up slightly. Cook for 8-10 mins until fragrant and soft, then add the wine and allow the alcohol to evaporate fully."
+    },
+    {
+      "heading": null,
+      "description": "Pour in the soya cream and water and add the stock cube. Drop in the thyme sprigs and bring to a gentle simmer. Add the wholegrain mustard, then remove 2-3 ladles of the soup and place in a blender. Blend until smooth and then return it to the pot."
+    },
+    {
+      "heading": null,
+      "description": "Add the gnocchi and cook for another 5 mins or until the gnocchi has softened. Remove the thyme and discard. Add the vegan cream cheese, if using, and stir to melt through. Toast the sunflower seeds in a dry frying pan."
+    },
+    {
+      "heading": null,
+      "description": "To make the pesto, finely chop the rocket and parsley and add to a small bowl or pestle and mortar. Add the toasted sunflower seeds, zest and juice of the lemon, nutritional yeast, salt and pepper and enough olive oil to achieve a drizzly consistency (about a tbsp per portion). Taste and adjust the seasonings and lightly crush the sunflower seeds if you like."
+    },
+    {
+      "heading": null,
+      "description": "To serve, divide the soup into bowls and spoon over the pesto generously. Finish with some black pepper and some extra lemon zest."
+    }
+  ],
+  "tips": [],
+  "categories": [
+    "Easy",
+    "Speedy"
+  ],
+  "dietary_requirements": [
+    "Vegan",
+    "Veggie",
+    "Dairy-Free",
+    "Pescatarian",
+    "Egg-Free"
+  ],
+  "meals": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian",
+    "Italian-Inspired"
+  ],
+  "chefs": [
+    {
+      "name": "Christina Soteriou",
+      "uri": "chefs/christina-soteriou",
+      "summary": "Christina (@christinasots) is a plant-based chef and recipe developer with a love for the Mediterranean flavours of her home, Cyprus. With an equal balance of healthy, flavourful and easy to make, there are no compromises here!"
+    }
+  ],
+  "access_level": "2",
+  "post_date": "2024-10-01T11:50:00+01:00"
+}
