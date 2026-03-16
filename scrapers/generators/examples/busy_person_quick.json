@@ -1,0 +1,38 @@
+{
+  "name": "Busy Person Quick Meals",
+  "groups": [
+    {"name": "Breakfast", "meal_type": "Breakfast", "count": 10, "calorie_range": [300, 500], "protein_min": 20},
+    {"name": "Lunch", "meal_type": "Lunch", "count": 12, "calorie_range": [400, 650], "protein_min": 25},
+    {"name": "Dinner", "meal_type": "Dinner", "count": 12, "calorie_range": [400, 700], "protein_min": 30},
+    {"name": "Snacks", "meal_type": "Snack", "count": 6, "calorie_range": [100, 250], "protein_min": 8}
+  ],
+  "global_constraints": {
+    "dietary": [],
+    "excluded_ingredients": [],
+    "preferred_cuisines": [],
+    "max_prep_time": 20,
+    "min_quality_score": 50,
+    "require_image": false,
+    "protein_variety": true,
+    "min_total_recipes": 20,
+    "max_total_recipes": 80
+  },
+  "mealplan": {
+    "weeks": 2,
+    "daily_calories": 2200,
+    "daily_calories_tolerance": 200,
+    "daily_protein": 150,
+    "daily_protein_tolerance": 25,
+    "daily_carbs": 200,
+    "daily_carbs_tolerance": 30,
+    "daily_fat": 80,
+    "daily_fat_tolerance": 20,
+    "meal_calorie_split": {"Breakfast": 0.20, "Lunch": 0.30, "Dinner": 0.35, "Snacks": 0.15},
+    "serving_multipliers": [0.5, 0.75, 1.0, 1.25, 1.5, 2.0]
+  },
+  "swap_config": {
+    "enabled": true,
+    "swaps_per_recipe": 5,
+    "macro_tolerance_pct": 0.15
+  }
+}

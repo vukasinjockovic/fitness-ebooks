@@ -1,0 +1,32 @@
+{
+  "name": "Vegan Keto Edge Case",
+  "groups": [
+    {"name": "Breakfast", "meal_type": "Breakfast", "count": 5, "calorie_range": [200, 500], "protein_min": 5},
+    {"name": "Lunch", "meal_type": "Lunch", "count": 5, "calorie_range": [300, 600], "protein_min": 10},
+    {"name": "Dinner", "meal_type": "Dinner", "count": 5, "calorie_range": [300, 700], "protein_min": 10}
+  ],
+  "global_constraints": {
+    "dietary": ["Vegan", "Keto"],
+    "excluded_ingredients": [],
+    "preferred_cuisines": [],
+    "max_prep_time": 60,
+    "min_quality_score": 40,
+    "require_image": false,
+    "protein_variety": false,
+    "min_total_recipes": 10,
+    "max_total_recipes": 50
+  },
+  "mealplan": {
+    "weeks": 1,
+    "daily_calories": 1800,
+    "daily_calories_tolerance": 300,
+    "daily_protein": 60,
+    "daily_protein_tolerance": 20,
+    "daily_carbs": 25,
+    "daily_carbs_tolerance": 15,
+    "daily_fat": 140,
+    "daily_fat_tolerance": 30,
+    "meal_calorie_split": {"Breakfast": 0.25, "Lunch": 0.35, "Dinner": 0.40},
+    "serving_multipliers": [0.5, 0.75, 1.0, 1.25, 1.5, 2.0]
+  }
+}
