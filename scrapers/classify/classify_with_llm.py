@@ -1,32 +1,32 @@
 #!/usr/bin/env python3
-"""Classify articles using an OpenAI-compatible LLM API.
+"""Classify articles using Together API with extreme async parallelism.
 
-Reads chunked JSON files produced by export_for_classification.py, sends
-sub-batches to the LLM for classification, and writes classified output files.
+Uses asyncio + httpx for full concurrency control. Sends sub-batches of
+articles to the LLM, with a semaphore-controlled concurrency limit and
+a per-minute rate limiter.
 
-Provider-agnostic: works with Groq, Together, OpenRouter, or any
-OpenAI-compatible API.
+Resume-safe: skips chunk files that already have a _classified.json output.
 
 Usage:
-    # With Groq
-    CLASSIFY_API_BASE=https://api.groq.com/openai/v1 \\
-    CLASSIFY_API_KEY=gsk_xxx \\
-    CLASSIFY_MODEL=llama-3.3-70b-versatile \\
-    python3 classify_with_llm.py --input-dir classify_chunks/ --output-dir classified_chunks/
-
-    # With Together
-    CLASSIFY_API_BASE=https://api.together.xyz/v1 \\
-    CLASSIFY_API_KEY=xxx \\
-    CLASSIFY_MODEL=meta-llama/Llama-3.3-70B-Instruct-Turbo \\
-    python3 classify_with_llm.py --input-dir classify_chunks/ --output-dir classified_chunks/
+    CLASSIFY_API_KEY=tgp_v1_xxx \
+    python3 classify_with_llm.py \
+      --input-dir classify_chunks/ \
+      --output-dir classified_chunks/ \
+      --batch-size 50 \
+      --concurrency 50 \
+      --max-rpm 600 \
+      --model Qwen/Qwen3-235B-A22B-Instruct-2507-tput
 """
 
 import argparse
+import asyncio
+import glob as glob_mod
 import json
 import os
 import re
 import sys
 import time
+from collections import deque
 from typing import Iterator
 
 
@@ -34,10 +34,134 @@ from typing import Iterator
 # Configuration
 # ---------------------------------------------------------------------------
 
-PROMPT_TEMPLATE_PATH = os.path.join(
+API_BASE = os.environ.get("CLASSIFY_API_BASE", "https://api.together.xyz/v1")
+API_ENDPOINT = f"{API_BASE.rstrip('/')}/chat/completions"
+
+PROMPT_TEMPLATE_PATH = os.environ.get("CLASSIFY_PROMPT_FILE") or os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
     "CLASSIFY-PROMPT.md",
 )
+
+SYSTEM_MESSAGE = (
+    "Output ONLY valid JSON arrays. No explanation, no markdown fences, no thinking."
+)
+
+
+# ---------------------------------------------------------------------------
+# Rate Limiter
+# ---------------------------------------------------------------------------
+
+class RateLimiter:
+    """Async rate limiter that enforces a maximum requests per minute."""
+
+    def __init__(self, max_rpm: int = 600):
+        self.max_rpm = max_rpm
+        self.timestamps: deque = deque()
+
+    async def acquire(self):
+        """Wait until a request slot is available within the RPM window."""
+        now = time.monotonic()
+
+        # Remove timestamps older than 60 seconds
+        while self.timestamps and self.timestamps[0] < now - 60:
+            self.timestamps.popleft()
+
+        # If at limit, sleep until the oldest timestamp expires
+        if len(self.timestamps) >= self.max_rpm:
+            sleep_time = 60.0 - (now - self.timestamps[0])
+            if sleep_time > 0:
+                await asyncio.sleep(sleep_time)
+            # Re-prune after sleeping
+            now = time.monotonic()
+            while self.timestamps and self.timestamps[0] < now - 60:
+                self.timestamps.popleft()
+
+        self.timestamps.append(time.monotonic())
+
+
+# ---------------------------------------------------------------------------
+# Stats tracking
+# ---------------------------------------------------------------------------
+
+class Stats:
+    """Thread-safe statistics tracker for the classification run."""
+
+    def __init__(self, total_articles: int = 0, total_chunks: int = 0):
+        self.total_articles = total_articles
+        self.total_chunks = total_chunks
+        self.classified = 0
+        self.failed = 0
+        self.retries = 0
+        self.chunks_done = 0
+        self.input_tokens = 0
+        self.output_tokens = 0
+        self.start_time = time.time()
+
+    def cost_estimate(self) -> float:
+        """Estimate cost based on Together API pricing for Qwen3-235B.
+
+        Together pricing (as of 2025):
+        - Input: $0.30 per 1M tokens
+        - Output: $0.50 per 1M tokens
+        """
+        input_cost = (self.input_tokens / 1_000_000) * 0.30
+        output_cost = (self.output_tokens / 1_000_000) * 0.50
+        return input_cost + output_cost
+
+    def elapsed(self) -> float:
+        return time.time() - self.start_time
+
+    def progress_line(self) -> str:
+        elapsed = self.elapsed()
+        rate = self.chunks_done / elapsed if elapsed > 0 else 0
+        remaining_chunks = self.total_chunks - self.chunks_done
+        est_remaining = remaining_chunks / rate if rate > 0 else 0
+        cost = self.cost_estimate()
+
+        return (
+            f"[{self.chunks_done}/{self.total_chunks} chunks] "
+            f"{self.classified:,}/{self.total_articles:,} classified | "
+            f"{self.failed:,} failed | "
+            f"{rate:.1f} chunks/s | "
+            f"est. {est_remaining:.0f}s remaining | "
+            f"~${cost:.2f} spent"
+        )
+
+
+# ---------------------------------------------------------------------------
+# Retry logic
+# ---------------------------------------------------------------------------
+
+def should_retry(status_code: int, attempt: int, max_retries: int) -> bool:
+    """Determine if an HTTP error should be retried.
+
+    - 429 (rate limit): retry up to max_retries (default 5)
+    - 500/502/503: retry up to max_retries (default 3)
+    - Other status codes: do not retry
+    """
+    if attempt >= max_retries - 1:
+        return False
+
+    if status_code == 429:
+        return True
+
+    if status_code in (500, 502, 503):
+        return True
+
+    return False
+
+
+def backoff_time(attempt: int, is_rate_limit: bool = False) -> float:
+    """Calculate exponential backoff time.
+
+    For rate limits (429), use a longer base.
+    """
+    if is_rate_limit:
+        # Longer backoff for rate limits: 5, 10, 20, 40, ...
+        return 5.0 * (2 ** attempt)
+    else:
+        # Standard backoff: 1, 2, 4, 8, ...
+        return float(2 ** attempt)
 
 
 # ---------------------------------------------------------------------------
@@ -105,9 +229,14 @@ def parse_llm_response(response_text: str) -> list[dict]:
     - Clean JSON arrays
     - JSON wrapped in markdown code fences
     - JSON with surrounding explanatory text
+    - JSON preceded by <think>...</think> tags (Qwen3 models)
     - Returns empty list on parse failure
     """
     text = response_text.strip()
+
+    # Strip <think>...</think> tags (Qwen3 reasoning)
+    text = re.sub(r"<think>.*?</think>\s*", "", text, flags=re.DOTALL)
+    text = text.strip()
 
     # Try direct parse first
     try:
@@ -178,10 +307,23 @@ def write_classified_output(
     return filepath
 
 
+def build_request_payload(prompt: str, model: str) -> dict:
+    """Build the raw HTTP JSON payload for the Together API chat/completions."""
+    return {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": SYSTEM_MESSAGE},
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": 0.6,
+        "max_tokens": 16384,
+    }
+
+
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Classify articles using an OpenAI-compatible LLM API"
+        description="Classify articles using Together API with async parallelism"
     )
     parser.add_argument(
         "--input-dir",
@@ -202,87 +344,221 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Articles per LLM call (default: 50)",
     )
     parser.add_argument(
-        "--delay",
-        type=float,
-        default=0.5,
-        help="Delay in seconds between LLM calls (default: 0.5)",
+        "--concurrency",
+        type=int,
+        default=50,
+        help="Max concurrent API requests (default: 50)",
     )
     parser.add_argument(
-        "--max-retries",
+        "--max-rpm",
         type=int,
-        default=3,
-        help="Max retries per LLM call on failure (default: 3)",
+        default=600,
+        help="Max requests per minute (default: 600)",
+    )
+    parser.add_argument(
+        "--model",
+        type=str,
+        default="Qwen/Qwen3-235B-A22B-Instruct-2507-tput",
+        help="Model name (default: Qwen/Qwen3-235B-A22B-Instruct-2507-tput)",
     )
     return parser.parse_args(argv)
 
 
 # ---------------------------------------------------------------------------
-# LLM API interaction (side effects)
+# Async API interaction
 # ---------------------------------------------------------------------------
 
-def call_llm(
+async def classify_batch(
     client,
+    semaphore: asyncio.Semaphore,
+    rate_limiter: RateLimiter,
+    articles: list[dict],
     model: str,
-    prompt: str,
-    max_retries: int = 3,
-) -> str:
-    """Call the LLM API with retry and exponential backoff.
+    stats: Stats,
+    batch_label: str = "",
+) -> list[dict]:
+    """Classify a sub-batch of articles via the Together API.
 
-    Returns the response text content.
+    Uses the semaphore for concurrency control and rate_limiter for RPM control.
+    Implements retry logic for 429, 500/502/503, and JSON parse failures.
     """
-    for attempt in range(max_retries):
-        try:
-            response = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {
-                        "role": "system",
-                        "content": (
-                            "You are a content classification assistant. "
-                            "You always respond with valid JSON arrays. "
-                            "No explanations, just the JSON."
-                        ),
-                    },
-                    {"role": "user", "content": prompt},
-                ],
-                temperature=0.1,
-                max_tokens=16384,
-            )
-            return response.choices[0].message.content
-        except Exception as e:
-            wait = 2 ** attempt
-            print(f"    LLM call failed (attempt {attempt + 1}/{max_retries}): {e}")
-            if attempt < max_retries - 1:
-                print(f"    Retrying in {wait}s...")
-                time.sleep(wait)
-            else:
-                raise
+    import httpx
+
+    prompt = build_llm_prompt(articles)
+    payload = build_request_payload(prompt, model)
+    api_key = os.environ.get("CLASSIFY_API_KEY", "")
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+
+    max_retries_429 = 5
+    max_retries_server = 3
+    json_retry_done = False
+
+    async with semaphore:
+        for attempt in range(max(max_retries_429, max_retries_server)):
+            await rate_limiter.acquire()
+
+            try:
+                response = await client.post(
+                    API_ENDPOINT,
+                    json=payload,
+                    headers=headers,
+                )
+
+                if response.status_code != 200:
+                    status = response.status_code
+
+                    if status == 429:
+                        effective_max = max_retries_429
+                        is_rl = True
+                    elif status in (500, 502, 503):
+                        effective_max = max_retries_server
+                        is_rl = False
+                    else:
+                        print(f"    {batch_label} ERROR: HTTP {status} - {response.text[:200]}")
+                        return []
+
+                    if should_retry(status, attempt, effective_max):
+                        wait = backoff_time(attempt, is_rate_limit=is_rl)
+                        stats.retries += 1
+                        print(f"    {batch_label} HTTP {status}, retry {attempt + 1}/{effective_max} in {wait:.1f}s")
+                        await asyncio.sleep(wait)
+                        continue
+                    else:
+                        print(f"    {batch_label} ERROR: HTTP {status} after {attempt + 1} attempts")
+                        return []
+
+                resp_json = response.json()
+                usage = resp_json.get("usage", {})
+                stats.input_tokens += usage.get("prompt_tokens", 0)
+                stats.output_tokens += usage.get("completion_tokens", 0)
+
+                content = (
+                    resp_json.get("choices", [{}])[0]
+                    .get("message", {})
+                    .get("content", "")
+                )
+
+                classifications = parse_llm_response(content)
+
+                if not classifications:
+                    if not json_retry_done:
+                        json_retry_done = True
+                        stats.retries += 1
+                        print(f"    {batch_label} JSON parse failed, retrying once...")
+                        continue
+                    else:
+                        print(f"    {batch_label} WARNING: Empty/unparseable response after retry")
+                        return []
+
+                stats.classified += len(classifications)
+                stats.chunks_done_batches = getattr(stats, 'chunks_done_batches', 0) + 1
+                print(f"    {batch_label} OK: {len(classifications)} classified ({stats.classified}/{stats.total_articles} total)", flush=True)
+                return classifications
+
+            except httpx.TimeoutException:
+                stats.retries += 1
+                if attempt < max_retries_server - 1:
+                    wait = backoff_time(attempt)
+                    print(f"    {batch_label} TIMEOUT, retry {attempt + 1}/{max_retries_server} in {wait:.1f}s")
+                    await asyncio.sleep(wait)
+                    continue
+                else:
+                    print(f"    {batch_label} ERROR: Timeout after {attempt + 1} attempts")
+                    return []
+
+            except Exception as e:
+                print(f"    {batch_label} ERROR: {type(e).__name__}: {e}")
+                return []
+
+    return []
 
 
-# ---------------------------------------------------------------------------
-# Main (side effects: filesystem + API)
-# ---------------------------------------------------------------------------
+async def process_chunk(
+    client,
+    semaphore: asyncio.Semaphore,
+    rate_limiter: RateLimiter,
+    chunk_path: str,
+    output_dir: str,
+    batch_size: int,
+    model: str,
+    stats: Stats,
+) -> None:
+    """Process a single chunk file: load, split, classify all sub-batches, write output."""
+    chunk_basename = os.path.basename(chunk_path)
 
-def main():
-    args = parse_args()
+    # Resume support: skip already-classified chunks
+    if is_chunk_already_classified(chunk_basename, output_dir):
+        stats.chunks_done += 1
+        return
 
-    # Validate environment
-    api_base = os.environ.get("CLASSIFY_API_BASE")
+    chunk_data = load_chunk_file(chunk_path)
+    articles = chunk_data.get("articles", [])
+
+    if not articles:
+        stats.chunks_done += 1
+        return
+
+    # Split into sub-batches and classify them concurrently
+    batches = list(sub_batch_articles(articles, batch_size))
+
+    tasks = []
+    for batch_idx, batch in enumerate(batches):
+        label = f"{chunk_basename}[{batch_idx + 1}/{len(batches)}]"
+        task = classify_batch(
+            client, semaphore, rate_limiter,
+            batch, model, stats, batch_label=label,
+        )
+        tasks.append(task)
+
+    # Run all sub-batches for this chunk concurrently
+    results = await asyncio.gather(*tasks, return_exceptions=True)
+
+    # Collect classifications
+    all_classifications = []
+    for result in results:
+        if isinstance(result, Exception):
+            print(f"    {chunk_basename} sub-batch exception: {result}")
+            stats.failed += batch_size  # approximate
+        elif isinstance(result, list):
+            all_classifications.extend(result)
+        # Empty list means failure already logged
+
+    # Count failures for batches that returned empty
+    classified_count = len(all_classifications)
+    expected_count = len(articles)
+    if classified_count < expected_count:
+        stats.failed += expected_count - classified_count
+
+    # Write output
+    if all_classifications:
+        write_classified_output(output_dir, chunk_basename, all_classifications)
+        stats.classified += classified_count
+
+    stats.chunks_done += 1
+
+    # Progress reporting every 10 chunks
+    if stats.chunks_done % 10 == 0 or stats.chunks_done == stats.total_chunks:
+        print(f"  {stats.progress_line()}")
+
+
+async def async_main(args: argparse.Namespace) -> None:
+    """Async entry point: discover chunks, launch parallel classification."""
+    import httpx
+
     api_key = os.environ.get("CLASSIFY_API_KEY")
-    model = os.environ.get("CLASSIFY_MODEL")
-
-    if not api_base or not api_key or not model:
-        print("ERROR: Required environment variables:")
-        print("  CLASSIFY_API_BASE  - API endpoint URL")
-        print("  CLASSIFY_API_KEY   - API key")
-        print("  CLASSIFY_MODEL     - Model name")
+    if not api_key:
+        print("ERROR: CLASSIFY_API_KEY environment variable is required")
         sys.exit(1)
 
-    # Find input chunk files
-    import glob
+    model = args.model
 
+    # Find input chunk files
     pattern = os.path.join(args.input_dir, "chunk_*.json")
-    chunk_files = sorted(glob.glob(pattern))
+    chunk_files = sorted(glob_mod.glob(pattern))
     # Exclude already-classified files from input
     chunk_files = [f for f in chunk_files if "_classified" not in f]
 
@@ -290,95 +566,79 @@ def main():
         print(f"No chunk files found in {args.input_dir}")
         return
 
+    # Count total articles across all unclassified chunks
+    total_articles = 0
+    unclassified_files = []
+    for cf in chunk_files:
+        basename = os.path.basename(cf)
+        if not is_chunk_already_classified(basename, args.output_dir):
+            data = load_chunk_file(cf)
+            total_articles += len(data.get("articles", []))
+            unclassified_files.append(cf)
+        else:
+            # Already done
+            pass
+
+    already_done = len(chunk_files) - len(unclassified_files)
+
     print(f"Found {len(chunk_files)} chunk files in {args.input_dir}")
+    if already_done > 0:
+        print(f"  {already_done} already classified (skipping)")
+    print(f"  {len(unclassified_files)} to classify ({total_articles:,} articles)")
     print(f"Model: {model}")
-    print(f"API: {api_base}")
-    print(f"Batch size: {args.batch_size} articles per LLM call")
-    print(f"Delay: {args.delay}s between calls")
+    print(f"Batch size: {args.batch_size} articles per request")
+    print(f"Concurrency: {args.concurrency} parallel requests")
+    print(f"Rate limit: {args.max_rpm} requests/min")
     print()
 
-    # Initialize OpenAI client (lazy import so pure functions are testable
-    # without the openai package installed)
-    from openai import OpenAI
-
-    client = OpenAI(
-        base_url=api_base,
-        api_key=api_key,
-    )
+    if not unclassified_files:
+        print("All chunks already classified. Nothing to do.")
+        return
 
     os.makedirs(args.output_dir, exist_ok=True)
 
-    total_classified = 0
-    total_failed = 0
-    start_time = time.time()
+    # Initialize concurrency controls
+    semaphore = asyncio.Semaphore(args.concurrency)
+    rate_limiter = RateLimiter(max_rpm=args.max_rpm)
+    stats = Stats(
+        total_articles=total_articles,
+        total_chunks=len(unclassified_files),
+    )
 
-    for chunk_path in chunk_files:
-        chunk_basename = os.path.basename(chunk_path)
-
-        # Resume support: skip already-classified chunks
-        if is_chunk_already_classified(chunk_basename, args.output_dir):
-            print(f"  SKIP {chunk_basename} (already classified)")
-            continue
-
-        print(f"  Processing {chunk_basename}...")
-
-        chunk_data = load_chunk_file(chunk_path)
-        articles = chunk_data.get("articles", [])
-
-        if not articles:
-            print(f"    No articles in chunk, skipping")
-            continue
-
-        # Classify in sub-batches
-        all_classifications = []
-
-        for batch_idx, batch in enumerate(
-            sub_batch_articles(articles, args.batch_size)
-        ):
-            batch_num = batch_idx + 1
-            print(f"    Sub-batch {batch_num} ({len(batch)} articles)...")
-
-            prompt = build_llm_prompt(batch)
-
-            try:
-                response_text = call_llm(
-                    client, model, prompt, max_retries=args.max_retries
-                )
-                classifications = parse_llm_response(response_text)
-
-                if not classifications:
-                    print(f"    WARNING: Empty response for sub-batch {batch_num}")
-                    total_failed += len(batch)
-                else:
-                    all_classifications.extend(classifications)
-                    print(f"    Got {len(classifications)} classifications")
-
-            except Exception as e:
-                print(f"    ERROR: Sub-batch {batch_num} failed after retries: {e}")
-                total_failed += len(batch)
-
-            # Rate limiting
-            if args.delay > 0:
-                time.sleep(args.delay)
-
-        # Write output for this chunk
-        if all_classifications:
-            outpath = write_classified_output(
-                args.output_dir, chunk_basename, all_classifications
+    # Process ALL chunks concurrently (semaphore controls actual concurrency)
+    timeout = httpx.Timeout(120.0)
+    async with httpx.AsyncClient(timeout=timeout) as client:
+        tasks = [
+            process_chunk(
+                client, semaphore, rate_limiter,
+                chunk_path, args.output_dir,
+                args.batch_size, model, stats,
             )
-            total_classified += len(all_classifications)
-            print(f"    Wrote {outpath} ({len(all_classifications)} classifications)")
-        else:
-            print(f"    WARNING: No classifications for {chunk_basename}")
+            for chunk_path in unclassified_files
+        ]
 
-    elapsed = time.time() - start_time
+        await asyncio.gather(*tasks, return_exceptions=True)
+
+    # Final report
+    elapsed = stats.elapsed()
+    cost = stats.cost_estimate()
     print()
-    print(f"Classification complete:")
-    print(f"  Classified: {total_classified:,}")
-    print(f"  Failed: {total_failed:,}")
-    print(f"  Time: {elapsed:.1f}s")
-    if total_classified > 0:
-        print(f"  Rate: {total_classified / elapsed:.0f} articles/sec")
+    print("=" * 60)
+    print("Classification complete:")
+    print(f"  Classified: {stats.classified:,}")
+    print(f"  Failed:     {stats.failed:,}")
+    print(f"  Retries:    {stats.retries:,}")
+    print(f"  Time:       {elapsed:.1f}s")
+    if stats.classified > 0:
+        print(f"  Rate:       {stats.classified / elapsed:.0f} articles/sec")
+    print(f"  Tokens:     {stats.input_tokens:,} in / {stats.output_tokens:,} out")
+    print(f"  Est. cost:  ${cost:.2f}")
+    print("=" * 60)
+
+
+def main():
+    args = parse_args()
+    asyncio.run(async_main(args))
 
 
 if __name__ == "__main__":
