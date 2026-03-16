@@ -210,6 +210,7 @@ class WPScraper:
         user_agent: str = "Mozilla/5.0 (compatible; GymZilla/1.0)",
         delay: float = 1.0,
         socks_proxy: tuple[str, int] | None = None,
+        per_page: int = 100,
     ):
         self.domain = domain
         self.base_url = base_url
@@ -217,6 +218,7 @@ class WPScraper:
         self.articles_dir = articles_dir
         self.user_agent = user_agent
         self.delay = delay
+        self.per_page = per_page
         # Optional SOCKS5 proxy: (host, port) e.g. ("127.0.0.1", 10300)
         self.socks_proxy = socks_proxy
 
@@ -233,7 +235,7 @@ class WPScraper:
     def page_url(self, page: int) -> str:
         """Build a paginated API URL."""
         sep = "&" if "?" in self.base_url else "?"
-        return f"{self.base_url}{sep}per_page=100&page={page}"
+        return f"{self.base_url}{sep}per_page={self.per_page}&page={page}"
 
     def already_exists(self, slug: str) -> bool:
         """Check if an article file already exists (resume support)."""
@@ -267,6 +269,7 @@ class WPScraper:
             for attempt in range(1 + retries):
                 req = urllib.request.Request(url)
                 req.add_header("User-Agent", self.user_agent)
+                req.add_header("Accept-Encoding", "identity")
                 try:
                     with urllib.request.urlopen(req, timeout=30) as resp:
                         return resp.read()
@@ -305,13 +308,13 @@ class WPScraper:
         cache = {}
         page = 1
         while True:
-            url = f"{endpoint}?per_page=100&page={page}"
+            url = f"{endpoint}?per_page={self.per_page}&page={page}"
             items = self.fetch_json(url)
             if not items or not isinstance(items, list) or len(items) == 0:
                 break
             for item in items:
                 cache[item["id"]] = html.unescape(item.get("name", ""))
-            if len(items) < 100:
+            if len(items) < self.per_page:
                 break
             page += 1
             time.sleep(0.5)
@@ -439,7 +442,7 @@ class WPScraper:
                           f"({self.scraped} scraped, {self.skipped} skipped, "
                           f"{self.failed} failed)")
 
-            if len(posts) < 100:
+            if len(posts) < self.per_page:
                 print(f"  Last page (got {len(posts)} posts).")
                 break
 
