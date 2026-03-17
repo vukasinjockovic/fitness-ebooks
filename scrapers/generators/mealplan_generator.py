@@ -285,31 +285,20 @@ def generate_mealplan(
 
     for w in range(weeks):
         week_plan = WeekPlan(week=w + 1)
-        used_this_week: set = set()
 
         for d in range(days):
             day_result = None
 
-            # Attempt 0: full constraints (no-repeat + protein variety)
+            # Solve day — repeats allowed (swaps provide variety)
             day_result = _solve_day(
                 recipe_index, meal_types, input, multipliers,
-                used_this_week, enforce_protein_variety=True,
+                set(), enforce_protein_variety=True,
             )
 
-            # Attempt 1: remove protein variety constraint
+            # Fallback: remove protein variety constraint
             if day_result is None:
                 if not protein_variety_removed:
                     protein_variety_removed = True
-                    any_relaxation_used = True
-                day_result = _solve_day(
-                    recipe_index, meal_types, input, multipliers,
-                    used_this_week, enforce_protein_variety=False,
-                )
-
-            # Attempt 2: allow repeats (clear used_this_week for this solve)
-            if day_result is None:
-                if not repeats_allowed:
-                    repeats_allowed = True
                     any_relaxation_used = True
                 day_result = _solve_day(
                     recipe_index, meal_types, input, multipliers,
@@ -320,7 +309,6 @@ def generate_mealplan(
                 day_plan = DayPlan(day=d + 1, day_name=DAY_NAMES[d])
                 for mt in meal_types:
                     recipe, mult = day_result[mt]
-                    used_this_week.add(recipe.id)
                     slot = MealSlot(
                         meal_type=mt,
                         recipe=recipe,
@@ -349,9 +337,7 @@ def generate_mealplan(
                     recipe_index, meal_types, input, multipliers,
                     w, d, used_this_week,
                 )
-                # Mark recipes used even from greedy
-                for meal in day_plan.meals:
-                    used_this_week.add(meal.recipe.id)
+                # Greedy fallback used
                 week_plan.days.append(day_plan)
                 total_days_solved += 1
 
