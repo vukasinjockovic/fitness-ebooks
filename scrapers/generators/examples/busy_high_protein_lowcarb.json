@@ -1,0 +1,38 @@
+{
+  "name": "Busy High-Protein Low-Carb",
+  "groups": [
+    {"name": "Breakfast", "meal_type": "Breakfast", "count": 10, "calorie_range": [300, 450], "protein_min": 30},
+    {"name": "Lunch", "meal_type": "Lunch", "count": 12, "calorie_range": [400, 600], "protein_min": 40},
+    {"name": "Dinner", "meal_type": "Dinner", "count": 12, "calorie_range": [400, 650], "protein_min": 45},
+    {"name": "Snacks", "meal_type": "Snack", "count": 8, "calorie_range": [100, 250], "protein_min": 15}
+  ],
+  "global_constraints": {
+    "dietary": [],
+    "excluded_ingredients": [],
+    "preferred_cuisines": [],
+    "max_prep_time": 20,
+    "min_quality_score": 50,
+    "require_image": false,
+    "protein_variety": true,
+    "min_total_recipes": 20,
+    "max_total_recipes": 80
+  },
+  "mealplan": {
+    "weeks": 2,
+    "daily_calories": 2000,
+    "daily_calories_tolerance": 100,
+    "daily_protein": 180,
+    "daily_protein_tolerance": 15,
+    "daily_carbs": 150,
+    "daily_carbs_tolerance": 20,
+    "daily_fat": 55,
+    "daily_fat_tolerance": 15,
+    "meal_calorie_split": {"Breakfast": 0.20, "Lunch": 0.30, "Dinner": 0.35, "Snacks": 0.15},
+    "serving_multipliers": [0.5, 0.75, 1.0, 1.25, 1.5, 2.0]
+  },
+  "swap_config": {
+    "enabled": true,
+    "swaps_per_recipe": 5,
+    "macro_tolerance_pct": 0.15
+  }
+}

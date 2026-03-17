@@ -17,7 +17,9 @@ def run_pipeline(
     mealplan_input: MealPlanInput | None = None,
     swaps_per_recipe: int = 0,
     macro_tolerance_pct: float = 0.15,
-) -> tuple[Cookbook, MealPlan | None]:
+    json_output: bool = False,
+    db_source: str = "lake",
+) -> tuple[Cookbook, MealPlan | None] | dict:
     """Run the full generation pipeline.
 
     Args:
@@ -26,53 +28,112 @@ def run_pipeline(
             If None but cookbook_input.mealplan is set, uses that.
         swaps_per_recipe: Number of swap alternatives per recipe (0 = disabled).
         macro_tolerance_pct: Macro tolerance for swap matching (0.15 = 15%).
+        json_output: When True, redirect progress to stderr and return a dict
+            with cookbook/mealplan/summary instead of a tuple.
+        db_source: 'lake' (default) or 'production'.
 
     Returns:
-        (Cookbook, MealPlan or None)
+        When json_output=False: (Cookbook, MealPlan or None)
+        When json_output=True: dict with 'cookbook', 'mealplan', 'summary' keys.
     """
-    with get_connection() as conn:
-        # Phase 1: Generate cookbook
-        print("=" * 60)
-        print(f"GENERATING COOKBOOK: {cookbook_input.name}")
-        print("=" * 60)
+    import sys
 
-        cookbook = generate_cookbook(cookbook_input, conn)
+    # When json_output is True, temporarily replace sys.stdout with sys.stderr
+    # so ALL print() calls (including those in sub-modules) go to stderr,
+    # keeping stdout clean for the JSON result.
+    original_stdout = sys.stdout
+    if json_output:
+        sys.stdout = sys.stderr
 
-        print(f"\nCookbook generated: {cookbook.stats.total_recipes} recipes")
-        print(f"  Solver: {cookbook.solver_status}")
-
-        # Phase 2: Swap enrichment (if requested)
-        if swaps_per_recipe > 0:
-            print("\n" + "=" * 60)
-            print(f"ENRICHING WITH SWAPS ({swaps_per_recipe} per recipe)")
+    try:
+        with get_connection(db_source=db_source) as conn:
+            # Phase 1: Generate cookbook
+            print("=" * 60)
+            print(f"GENERATING COOKBOOK: {cookbook_input.name}")
             print("=" * 60)
 
-            from swap_enricher import enrich_cookbook_with_swaps
-            cookbook = enrich_cookbook_with_swaps(
-                cookbook, conn,
-                swaps_per_recipe=swaps_per_recipe,
-                macro_tolerance_pct=macro_tolerance_pct,
-                dietary=cookbook_input.global_constraints.dietary or None,
-            )
+            cookbook = generate_cookbook(cookbook_input, conn, db_source=db_source)
 
-        # Phase 3: Generate meal plan (if requested)
-        plan = None
-        if mealplan_input is None and cookbook_input.mealplan is not None:
-            mealplan_input = MealPlanInput.from_mealplan_constraints(
-                cookbook_input.mealplan
-            )
+            print(f"\nCookbook generated: {cookbook.stats.total_recipes} recipes")
+            print(f"  Solver: {cookbook.solver_status}")
 
-        if mealplan_input is not None:
-            print("\n" + "=" * 60)
-            print("GENERATING MEAL PLAN")
-            print("=" * 60)
+            # Phase 2: Swap enrichment (if requested)
+            if swaps_per_recipe > 0:
+                print("\n" + "=" * 60)
+                print(f"ENRICHING WITH SWAPS ({swaps_per_recipe} per recipe)")
+                print("=" * 60)
 
-            plan = generate_mealplan(mealplan_input, cookbook)
+                from swap_enricher import enrich_cookbook_with_swaps
+                cookbook = enrich_cookbook_with_swaps(
+                    cookbook, conn,
+                    swaps_per_recipe=swaps_per_recipe,
+                    macro_tolerance_pct=macro_tolerance_pct,
+                    dietary=cookbook_input.global_constraints.dietary or None,
+                    db_source=db_source,
+                )
 
-            print(f"\nMeal plan generated: {len(plan.weeks)} weeks")
-            print(f"  Solver: {plan.solver_status}")
+            # Phase 3: Generate meal plan (if requested)
+            plan = None
+            if mealplan_input is None and cookbook_input.mealplan is not None:
+                mealplan_input = MealPlanInput.from_mealplan_constraints(
+                    cookbook_input.mealplan
+                )
+
+            if mealplan_input is not None:
+                print("\n" + "=" * 60)
+                print("GENERATING MEAL PLAN")
+                print("=" * 60)
+
+                plan = generate_mealplan(mealplan_input, cookbook)
+
+                print(f"\nMeal plan generated: {len(plan.weeks)} weeks")
+                print(f"  Solver: {plan.solver_status}")
+    finally:
+        if json_output:
+            sys.stdout = original_stdout
+
+    if json_output:
+        return _build_json_result(cookbook, plan, mealplan_input)
 
     return cookbook, plan
+
+
+def _build_json_result(
+    cookbook: Cookbook,
+    plan: MealPlan | None,
+    mealplan_input: MealPlanInput | None,
+) -> dict:
+    """Build the JSON output dict for --json-output mode."""
+    # Summary stats
+    summary = {
+        "total_recipes": cookbook.stats.total_recipes,
+        "solver_status": cookbook.solver_status,
+    }
+
+    if plan is not None and mealplan_input is not None:
+        # Compute average daily deviation
+        all_cal_devs = []
+        all_pro_devs = []
+        for week in plan.weeks:
+            for day in week.days:
+                t = day.totals
+                all_cal_devs.append(abs(t.get("calories", 0) - mealplan_input.daily_calories))
+                all_pro_devs.append(abs(t.get("protein", 0) - mealplan_input.daily_protein))
+        if all_cal_devs:
+            summary["avg_daily_cal_deviation"] = round(
+                sum(all_cal_devs) / len(all_cal_devs), 1
+            )
+        if all_pro_devs:
+            summary["avg_daily_protein_deviation"] = round(
+                sum(all_pro_devs) / len(all_pro_devs), 1
+            )
+
+    result = {
+        "cookbook": cookbook.to_dict(),
+        "mealplan": plan.to_dict() if plan is not None else None,
+        "summary": summary,
+    }
+    return result
 
 
 def save_outputs(

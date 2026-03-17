@@ -119,8 +119,8 @@ class CookbookInput:
 
 @dataclass
 class Recipe:
-    """A recipe loaded from lake.recipes."""
-    id: int
+    """A recipe loaded from lake.recipes or public.bp_cpts."""
+    id: int | str  # int for lake, UUID str for production
     source_id: str
     slug: str
     title: str
@@ -172,7 +172,7 @@ class Recipe:
 @dataclass
 class SwapRecipe:
     """A swap alternative for a recipe."""
-    recipe_id: int
+    recipe_id: int | str  # int for lake, UUID str for production
     title: str
     slug: str
     image: str | None

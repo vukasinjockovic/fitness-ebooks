@@ -18,10 +18,21 @@ from mealplan_generator import generate_mealplan
 from config import get_connection
 
 
+def _load_input(args):
+    """Load input JSON from --stdin or from input_file."""
+    if getattr(args, 'stdin', False):
+        return json.load(sys.stdin)
+    elif getattr(args, 'input_file', None):
+        with open(args.input_file) as f:
+            return json.load(f)
+    else:
+        print("Error: either provide input_file or use --stdin", file=sys.stderr)
+        sys.exit(1)
+
+
 def cmd_cookbook(args):
     """Generate a cookbook from input JSON."""
-    with open(args.input_file) as f:
-        data = json.load(f)
+    data = _load_input(args)
 
     cookbook_input = CookbookInput.from_dict(data)
 
@@ -30,15 +41,30 @@ def cmd_cookbook(args):
     cookbook_input.mealplan = None
 
     swaps_per_recipe = getattr(args, 'swaps', 0) or 0
-    cookbook, _ = run_pipeline(cookbook_input, swaps_per_recipe=swaps_per_recipe)
-    print_cookbook_summary(cookbook)
-    save_outputs(cookbook, None, output_dir=args.output_dir)
+    db_source = getattr(args, 'db_source', 'lake') or 'lake'
+    json_output = getattr(args, 'json_output', False)
+
+    if json_output:
+        result = run_pipeline(
+            cookbook_input,
+            swaps_per_recipe=swaps_per_recipe,
+            json_output=True,
+            db_source=db_source,
+        )
+        print(json.dumps(result, indent=2, ensure_ascii=False))
+    else:
+        cookbook, _ = run_pipeline(
+            cookbook_input,
+            swaps_per_recipe=swaps_per_recipe,
+            db_source=db_source,
+        )
+        print_cookbook_summary(cookbook)
+        save_outputs(cookbook, None, output_dir=args.output_dir)
 
 
 def cmd_full(args):
     """Generate cookbook + meal plan from input JSON."""
-    with open(args.input_file) as f:
-        data = json.load(f)
+    data = _load_input(args)
 
     cookbook_input = CookbookInput.from_dict(data)
 
@@ -56,18 +82,30 @@ def cmd_full(args):
             ]
 
     swaps_per_recipe = getattr(args, 'swaps', 0) or 0
+    db_source = getattr(args, 'db_source', 'lake') or 'lake'
+    json_output = getattr(args, 'json_output', False)
 
-    cookbook, plan = run_pipeline(
-        cookbook_input,
-        swaps_per_recipe=swaps_per_recipe,
-    )
-    print_cookbook_summary(cookbook)
+    if json_output:
+        result = run_pipeline(
+            cookbook_input,
+            swaps_per_recipe=swaps_per_recipe,
+            json_output=True,
+            db_source=db_source,
+        )
+        print(json.dumps(result, indent=2, ensure_ascii=False))
+    else:
+        cookbook, plan = run_pipeline(
+            cookbook_input,
+            swaps_per_recipe=swaps_per_recipe,
+            db_source=db_source,
+        )
+        print_cookbook_summary(cookbook)
 
-    if plan is not None:
-        mp_input = MealPlanInput.from_mealplan_constraints(cookbook_input.mealplan)
-        print_mealplan_summary(plan, mp_input)
+        if plan is not None:
+            mp_input = MealPlanInput.from_mealplan_constraints(cookbook_input.mealplan)
+            print_mealplan_summary(plan, mp_input)
 
-    save_outputs(cookbook, plan, output_dir=args.output_dir)
+        save_outputs(cookbook, plan, output_dir=args.output_dir)
 
 
 def cmd_mealplan(args):
@@ -148,16 +186,29 @@ def main():
 
     subparsers = parser.add_subparsers(dest="command", help="Command")
 
+    # Shared flags helper
+    def _add_common_flags(p, positional_name="input_file"):
+        """Add --stdin, --json-output, --db-source to a subparser."""
+        if positional_name:
+            p.add_argument(positional_name, nargs="?", default=None,
+                           help="Path to input JSON file (optional with --stdin)")
+        p.add_argument("--stdin", action="store_true",
+                       help="Read input JSON from stdin instead of a file")
+        p.add_argument("--json-output", action="store_true",
+                       help="Output result as JSON to stdout (progress goes to stderr)")
+        p.add_argument("--db-source", default="lake", choices=["lake", "production"],
+                       help="Recipe database source: 'lake' (default) or 'production'")
+
     # cookbook command
     p_cb = subparsers.add_parser("cookbook", help="Generate cookbook only")
-    p_cb.add_argument("input_file", help="Path to input JSON file")
+    _add_common_flags(p_cb, "input_file")
     p_cb.add_argument("--swaps", type=int, default=0,
                       help="Number of swap alternatives per recipe (0 = disabled, default: 0)")
     p_cb.set_defaults(func=cmd_cookbook)
 
     # full command
     p_full = subparsers.add_parser("full", help="Generate cookbook + meal plan")
-    p_full.add_argument("input_file", help="Path to input JSON file")
+    _add_common_flags(p_full, "input_file")
     p_full.add_argument("--weeks", type=int, help="Override weeks")
     p_full.add_argument("--daily-cal", type=int, help="Override daily calories")
     p_full.add_argument("--protein", type=int, help="Override daily protein")

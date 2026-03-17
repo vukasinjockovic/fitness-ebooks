@@ -146,12 +146,13 @@ def _solve_group(
     return fallback, "Infeasible_greedy_fallback", relaxations
 
 
-def generate_cookbook(input: CookbookInput, conn) -> Cookbook:
+def generate_cookbook(input: CookbookInput, conn, db_source: str = "lake") -> Cookbook:
     """Generate a cookbook by selecting optimal recipes for each group.
 
     Args:
         input: CookbookInput with group specs and constraints.
         conn: psycopg2 connection to the database.
+        db_source: 'lake' (default) or 'production'.
 
     Returns:
         Cookbook with selected recipes per group.
@@ -168,7 +169,7 @@ def generate_cookbook(input: CookbookInput, conn) -> Cookbook:
 
     # Cross-group deduplication: accumulate selected recipe IDs so the
     # same recipe cannot appear in multiple groups (Bug 3 fix).
-    selected_ids: set[int] = set()
+    selected_ids: set = set()
 
     for group_input in input.groups:
         print(f"\n  Group: {group_input.name} ({group_input.meal_type})")
@@ -190,6 +191,7 @@ def generate_cookbook(input: CookbookInput, conn) -> Cookbook:
             require_image=gc.require_image,
             limit=200,
             exclude_ids=selected_ids,
+            db_source=db_source,
         )
         print(f"    Candidate pool: {len(candidates)} recipes")
 

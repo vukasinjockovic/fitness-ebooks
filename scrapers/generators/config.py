@@ -11,6 +11,26 @@ DB_CONFIG = {
     "password": "phevasTAz7d2",
 }
 
+# Per-source configs: same database, different schemas.
+DB_CONFIGS = {
+    "lake": {
+        "host": "127.0.0.1",
+        "port": 5433,
+        "dbname": "gymzillatribe_dev",
+        "user": "app",
+        "password": "phevasTAz7d2",
+        "options": "-c search_path=lake,public",
+    },
+    "production": {
+        "host": "127.0.0.1",
+        "port": 5433,
+        "dbname": "gymzillatribe_dev",
+        "user": "app",
+        "password": "phevasTAz7d2",
+        "options": "-c search_path=public",
+    },
+}
+
 TOP_CUISINES = [
     "American", "Italian", "Mexican", "European", "Asian",
     "Indian", "British", "French", "Chinese", "Mediterranean",
@@ -36,9 +56,14 @@ DAY_NAMES = [
 
 
 @contextmanager
-def get_connection():
-    """Get a database connection as a context manager."""
-    conn = psycopg2.connect(**DB_CONFIG)
+def get_connection(db_source: str = "lake"):
+    """Get a database connection as a context manager.
+
+    Args:
+        db_source: 'lake' (default) or 'production'.
+    """
+    cfg = DB_CONFIGS.get(db_source, DB_CONFIGS["lake"])
+    conn = psycopg2.connect(**cfg)
     try:
         yield conn
     finally:
