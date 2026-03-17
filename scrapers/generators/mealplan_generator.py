@@ -1,8 +1,14 @@
-"""Phase 3: MIP-based meal plan generation from a cookbook."""
+"""Phase 3: MIP-based meal plan generation from a cookbook.
+
+Uses day-by-day MIP solving instead of a monolithic all-days-at-once approach.
+Each day is a small MIP (~168 variables for 42 recipes x 4 multipliers) that
+solves in <1s, versus the old monolithic MIP (3,528+ variables) that took ~60s.
+"""
 
 from __future__ import annotations
 
 import math
+import sys
 from collections import Counter
 
 from pulp import (
@@ -32,18 +38,181 @@ def _build_recipe_index(cookbook: Cookbook) -> dict[str, list[Recipe]]:
     return index
 
 
+def _solve_day(
+    recipe_index: dict[str, list[Recipe]],
+    meal_types: list[str],
+    input: MealPlanInput,
+    multipliers: list[float],
+    used_this_week: set,
+    enforce_protein_variety: bool = True,
+) -> dict[str, tuple[Recipe, float]] | None:
+    """Solve a single day's meal assignment via a small MIP.
+
+    Returns dict of meal_type -> (recipe, multiplier) or None if infeasible.
+
+    The MIP is tiny: |meal_types| * |available_recipes| * |multipliers| variables.
+    With 4 meal types, ~10 recipes each, 6 multipliers = ~240 binary variables.
+    Solves in <0.5s.
+    """
+    prob = LpProblem("day_plan", LpMinimize)
+
+    # Build variables: x[meal_type][recipe_idx][mult_idx] = binary
+    # Only include recipes NOT already used this week
+    x: dict[str, dict[int, dict[int, LpVariable]]] = {}
+    available_count = 0
+    for mt in meal_types:
+        x[mt] = {}
+        for r_idx, recipe in enumerate(recipe_index[mt]):
+            if recipe.id in used_this_week:
+                continue
+            x[mt][r_idx] = {}
+            for m_idx, mult in enumerate(multipliers):
+                s_name = str(mult).replace(".", "p")
+                x[mt][r_idx][m_idx] = LpVariable(
+                    f"x_{mt}_{r_idx}_{s_name}", cat="Binary"
+                )
+                available_count += 1
+
+    if available_count == 0:
+        return None
+
+    # HARD CONSTRAINT: exactly 1 recipe+multiplier per meal slot
+    for mt in meal_types:
+        slot_vars = []
+        for r_idx in x.get(mt, {}):
+            for m_idx in x[mt].get(r_idx, {}):
+                slot_vars.append(x[mt][r_idx][m_idx])
+        if not slot_vars:
+            return None  # No recipes available for this meal type
+        prob += lpSum(slot_vars) == 1
+
+    # Slack variables for macro deviations
+    cal_over = LpVariable("cal_over", lowBound=0)
+    cal_under = LpVariable("cal_under", lowBound=0)
+    pro_over = LpVariable("pro_over", lowBound=0)
+    pro_under = LpVariable("pro_under", lowBound=0)
+    carb_over = LpVariable("carb_over", lowBound=0)
+    carb_under = LpVariable("carb_under", lowBound=0)
+    fat_over = LpVariable("fat_over", lowBound=0)
+    fat_under = LpVariable("fat_under", lowBound=0)
+
+    # Daily total macros
+    day_cal = lpSum(
+        x[mt][r_idx][m_idx] * recipe_index[mt][r_idx].calories * multipliers[m_idx]
+        for mt in meal_types
+        for r_idx in x.get(mt, {})
+        for m_idx in x[mt].get(r_idx, {})
+    )
+    day_pro = lpSum(
+        x[mt][r_idx][m_idx] * recipe_index[mt][r_idx].protein * multipliers[m_idx]
+        for mt in meal_types
+        for r_idx in x.get(mt, {})
+        for m_idx in x[mt].get(r_idx, {})
+    )
+    day_carbs = lpSum(
+        x[mt][r_idx][m_idx] * recipe_index[mt][r_idx].carbohydrates * multipliers[m_idx]
+        for mt in meal_types
+        for r_idx in x.get(mt, {})
+        for m_idx in x[mt].get(r_idx, {})
+    )
+    day_fat = lpSum(
+        x[mt][r_idx][m_idx] * recipe_index[mt][r_idx].fat * multipliers[m_idx]
+        for mt in meal_types
+        for r_idx in x.get(mt, {})
+        for m_idx in x[mt].get(r_idx, {})
+    )
+
+    # Link deviation variables
+    prob += day_cal - cal_over + cal_under == input.daily_calories
+    prob += day_pro - pro_over + pro_under == input.daily_protein
+    prob += day_carbs - carb_over + carb_under == input.daily_carbs
+    prob += day_fat - fat_over + fat_under == input.daily_fat
+
+    # Protein variety: max 2 meals with same primary_protein
+    if enforce_protein_variety:
+        protein_vars: dict[str, list] = {}
+        for mt in meal_types:
+            for r_idx in x.get(mt, {}):
+                p = recipe_index[mt][r_idx].primary_protein or "Unknown"
+                if p not in protein_vars:
+                    protein_vars[p] = []
+                for m_idx in x[mt].get(r_idx, {}):
+                    protein_vars[p].append(x[mt][r_idx][m_idx])
+        for p, var_list in protein_vars.items():
+            if len(var_list) > 2:
+                prob += lpSum(var_list) <= 2
+
+    # Weights for objective
+    cal_weight = 1.0 / max(input.daily_calories_tolerance, 1)
+    pro_weight = 1.0 / max(input.daily_protein_tolerance, 1)
+    carb_weight = 0.5 / max(input.daily_carbs_tolerance, 1)
+    fat_weight = 0.5 / max(input.daily_fat_tolerance, 1)
+
+    # Quality bonus
+    quality_bonus = lpSum(
+        recipe_index[mt][r_idx].quality_score * 0.001 * x[mt][r_idx][m_idx]
+        for mt in meal_types
+        for r_idx in x.get(mt, {})
+        for m_idx in x[mt].get(r_idx, {})
+    )
+
+    # Multiplier deviation penalty (prefer 1.0x)
+    avg_macro_weight = (cal_weight + pro_weight + carb_weight + fat_weight) / 4
+    multiplier_penalty_weight = 0.1 * avg_macro_weight
+    multiplier_penalty = lpSum(
+        multiplier_penalty_weight * abs(multipliers[m_idx] - 1.0) * x[mt][r_idx][m_idx]
+        for mt in meal_types
+        for r_idx in x.get(mt, {})
+        for m_idx in x[mt].get(r_idx, {})
+    )
+
+    # Objective
+    prob += (
+        cal_weight * (cal_over + cal_under)
+        + pro_weight * (pro_over + pro_under)
+        + carb_weight * (carb_over + carb_under)
+        + fat_weight * (fat_over + fat_under)
+        - quality_bonus
+        + multiplier_penalty
+    )
+
+    # Solve with 5s limit per day
+    solver = PULP_CBC_CMD(msg=False, timeLimit=5)
+    prob.solve(solver)
+
+    if prob.status != LpStatusOptimal:
+        return None
+
+    # Extract solution
+    result: dict[str, tuple[Recipe, float]] = {}
+    for mt in meal_types:
+        for r_idx in x.get(mt, {}):
+            for m_idx in x[mt].get(r_idx, {}):
+                val = x[mt][r_idx][m_idx].varValue
+                if val is not None and val > 0.5:
+                    result[mt] = (recipe_index[mt][r_idx], multipliers[m_idx])
+
+    # Check we got a recipe for every meal type
+    if len(result) != len(meal_types):
+        return None
+
+    return result
+
+
 def generate_mealplan(
     input: MealPlanInput,
     cookbook: Cookbook,
 ) -> MealPlan:
-    """Generate a meal plan by assigning cookbook recipes to week/day/meal slots.
+    """Generate a meal plan by solving each day independently.
 
-    Uses MIP optimization with slack variables for macro targets (soft constraints)
-    and progressive relaxation for hard constraints (variety, no-repeat).
+    Day-by-day approach: solve 14 tiny MIPs (~240 vars each) instead of
+    one massive MIP (3,528+ vars). Each day takes <1s, total <14s.
 
-    Each meal slot selects both a recipe AND a serving multiplier from the allowed
-    list (e.g. [0.5, 0.75, 1.0, 1.25, 1.5, 2.0]). The solver picks the best
-    (recipe, multiplier) combination per slot to match daily macro targets.
+    Progressive relaxation per day:
+      1. Try with no-repeat + protein variety
+      2. Try without protein variety
+      3. Try allowing repeats (clear used_this_week)
+      4. Greedy fallback for that day
 
     Args:
         input: MealPlanInput with daily targets, week count, and serving_multipliers.
@@ -57,7 +226,7 @@ def generate_mealplan(
     # Determine which meal types we have
     meal_types = list(recipe_index.keys())
     if not meal_types:
-        print("  WARNING: Cookbook has no recipes")
+        print("  WARNING: Cookbook has no recipes", file=sys.stderr)
         return MealPlan(
             cookbook_id=cookbook.cookbook_id,
             solver_status="no_recipes",
@@ -67,12 +236,13 @@ def generate_mealplan(
     days = 7
     multipliers = input.serving_multipliers
 
-    print(f"\n  Meal Plan: {weeks} weeks, {days} days/week")
-    print(f"    Meal types: {meal_types}")
-    print(f"    Serving multipliers: {multipliers}")
+    print(f"\n  Meal Plan: {weeks} weeks, {days} days/week", file=sys.stderr)
+    print(f"    Meal types: {meal_types}", file=sys.stderr)
+    print(f"    Serving multipliers: {multipliers}", file=sys.stderr)
     print(f"    Daily targets: {input.daily_calories} cal, "
           f"{input.daily_protein}g protein, "
-          f"{input.daily_carbs}g carbs, {input.daily_fat}g fat")
+          f"{input.daily_carbs}g carbs, {input.daily_fat}g fat",
+          file=sys.stderr)
 
     # Print achievable range per meal type (with multipliers)
     min_mult = min(multipliers)
@@ -83,7 +253,8 @@ def generate_mealplan(
               f"(cal: {min(r.calories for r in recipes) * min_mult:.0f}-"
               f"{max(r.calories for r in recipes) * max_mult:.0f}, "
               f"pro: {min(r.protein for r in recipes) * min_mult:.0f}-"
-              f"{max(r.protein for r in recipes) * max_mult:.0f})")
+              f"{max(r.protein for r in recipes) * max_mult:.0f})",
+              file=sys.stderr)
 
     # Calculate theoretical range
     min_daily = sum(
@@ -92,46 +263,125 @@ def generate_mealplan(
     max_daily = sum(
         max(r.calories for r in recipe_index[mt]) * max_mult for mt in meal_types
     )
-    print(f"    Achievable daily cal range: {min_daily:.0f} - {max_daily:.0f}")
+    print(f"    Achievable daily cal range: {min_daily:.0f} - {max_daily:.0f}",
+          file=sys.stderr)
 
-    # Count total decision variables
-    total_vars = sum(
-        len(recipe_index[mt]) * len(multipliers) * weeks * days
-        for mt in meal_types
+    # Per-day variables are much smaller
+    per_day_vars = sum(
+        len(recipe_index[mt]) * len(multipliers) for mt in meal_types
     )
-    print(f"    Decision variables: {total_vars}")
+    print(f"    Day-by-day mode: ~{per_day_vars} vars/day x {weeks * days} days",
+          file=sys.stderr)
 
-    relaxations = []
+    relaxations: list[str] = []
+    total_cal_dev = 0.0
+    total_pro_dev = 0.0
+    total_days_solved = 0
+    any_relaxation_used = False
+    protein_variety_removed = False
+    repeats_allowed = False
 
-    # Try with progressively relaxed constraints
-    for attempt in range(3):
-        result = _try_solve(
-            recipe_index=recipe_index,
-            meal_types=meal_types,
-            weeks=weeks,
-            days=days,
-            input=input,
-            multipliers=multipliers,
-            attempt=attempt,
-            relaxations=relaxations,
-        )
-        if result is not None:
-            plan, status = result
-            plan.cookbook_id = cookbook.cookbook_id
-            plan.daily_targets = {
-                "calories": input.daily_calories,
-                "protein": input.daily_protein,
-                "carbs": input.daily_carbs,
-                "fat": input.daily_fat,
-            }
-            plan.solver_status = status
-            plan.relaxations = list(relaxations)
-            return plan
+    plan = MealPlan()
 
-    # Final fallback: greedy assignment
-    print("    Solver infeasible after all relaxations. Using greedy fallback.")
-    relaxations.append("greedy_fallback")
-    plan = _greedy_assign(recipe_index, meal_types, weeks, days, input, multipliers)
+    for w in range(weeks):
+        week_plan = WeekPlan(week=w + 1)
+        used_this_week: set = set()
+
+        for d in range(days):
+            day_result = None
+
+            # Attempt 0: full constraints (no-repeat + protein variety)
+            day_result = _solve_day(
+                recipe_index, meal_types, input, multipliers,
+                used_this_week, enforce_protein_variety=True,
+            )
+
+            # Attempt 1: remove protein variety constraint
+            if day_result is None:
+                if not protein_variety_removed:
+                    protein_variety_removed = True
+                    any_relaxation_used = True
+                day_result = _solve_day(
+                    recipe_index, meal_types, input, multipliers,
+                    used_this_week, enforce_protein_variety=False,
+                )
+
+            # Attempt 2: allow repeats (clear used_this_week for this solve)
+            if day_result is None:
+                if not repeats_allowed:
+                    repeats_allowed = True
+                    any_relaxation_used = True
+                day_result = _solve_day(
+                    recipe_index, meal_types, input, multipliers,
+                    set(), enforce_protein_variety=False,
+                )
+
+            if day_result is not None:
+                day_plan = DayPlan(day=d + 1, day_name=DAY_NAMES[d])
+                for mt in meal_types:
+                    recipe, mult = day_result[mt]
+                    used_this_week.add(recipe.id)
+                    slot = MealSlot(
+                        meal_type=mt,
+                        recipe=recipe,
+                        serving_multiplier=mult,
+                        adjusted_calories=recipe.calories * mult,
+                        adjusted_protein=recipe.protein * mult,
+                        adjusted_fat=recipe.fat * mult,
+                        adjusted_carbs=recipe.carbohydrates * mult,
+                        swaps=[sw.to_dict() if hasattr(sw, 'to_dict') else sw
+                               for sw in getattr(recipe, 'swaps', [])],
+                    )
+                    day_plan.meals.append(slot)
+                day_plan.compute_totals()
+
+                # Track deviation stats
+                total_cal_dev += abs(day_plan.totals.get("calories", 0) - input.daily_calories)
+                total_pro_dev += abs(day_plan.totals.get("protein", 0) - input.daily_protein)
+                total_days_solved += 1
+
+                week_plan.days.append(day_plan)
+            else:
+                # Greedy fallback for this day
+                if "greedy_fallback_days" not in relaxations:
+                    relaxations.append("greedy_fallback_days")
+                day_plan = _greedy_day(
+                    recipe_index, meal_types, input, multipliers,
+                    w, d, used_this_week,
+                )
+                # Mark recipes used even from greedy
+                for meal in day_plan.meals:
+                    used_this_week.add(meal.recipe.id)
+                week_plan.days.append(day_plan)
+                total_days_solved += 1
+
+            print(f"    Week {w+1} {DAY_NAMES[d]}: done", file=sys.stderr)
+
+        week_plan.compute_averages()
+        plan.weeks.append(week_plan)
+
+    # Build relaxation list
+    if protein_variety_removed:
+        relaxations.append("removed_protein_variety_constraint")
+    if repeats_allowed:
+        relaxations.append("allowing_recipe_repeats_within_week")
+
+    # Determine solver status
+    if not any_relaxation_used and "greedy_fallback_days" not in relaxations:
+        status = "Optimal"
+    elif "greedy_fallback_days" in relaxations:
+        n_relax = sum(1 for r in relaxations if r != "greedy_fallback_days")
+        status = f"Optimal_after_{n_relax + 1}_relaxations"
+    else:
+        n_relax = len([r for r in relaxations if r not in ("greedy_fallback_days",)])
+        status = f"Optimal_after_{n_relax}_relaxations"
+
+    if total_days_solved > 0:
+        print(f"    Solver: {status}", file=sys.stderr)
+        print(f"    Avg daily cal deviation: {total_cal_dev / total_days_solved:.0f}, "
+              f"avg daily protein deviation: {total_pro_dev / total_days_solved:.1f}g",
+              file=sys.stderr)
+
     plan.cookbook_id = cookbook.cookbook_id
     plan.daily_targets = {
         "calories": input.daily_calories,
@@ -139,306 +389,62 @@ def generate_mealplan(
         "carbs": input.daily_carbs,
         "fat": input.daily_fat,
     }
-    plan.solver_status = "Infeasible_greedy_fallback"
-    plan.relaxations = relaxations
+    plan.solver_status = status
+    plan.relaxations = list(relaxations)
+
     return plan
 
 
-def _try_solve(
+def _greedy_day(
     recipe_index: dict[str, list[Recipe]],
     meal_types: list[str],
-    weeks: int,
-    days: int,
     input: MealPlanInput,
     multipliers: list[float],
-    attempt: int,
-    relaxations: list[str],
-) -> tuple[MealPlan, str] | None:
-    """Try to solve the MIP with given relaxation level.
+    week: int,
+    day: int,
+    used_this_week: set,
+) -> DayPlan:
+    """Greedy fallback for a single day: pick best calorie-matching recipe."""
+    n_meals = len(meal_types)
+    per_meal_target = input.daily_calories / n_meals if n_meals > 0 else 500
 
-    Uses soft constraints (slack variables with penalty) for daily macro targets
-    so the solver always finds a feasible solution. Hard constraints are only
-    used for structural requirements (exactly 1 recipe+multiplier combo per slot).
-
-    Each meal slot is assigned a (recipe, multiplier) pair. The solver picks
-    which combination best matches macro targets.
-
-    attempt 0: Full variety constraints + no repeats within week
-    attempt 1: Remove protein variety constraint
-    attempt 2: Allow recipe repeats within week
-    """
-    prob = LpProblem(f"MealPlan_attempt{attempt}", LpMinimize)
-
-    # Create binary variables: x[recipe_id, multiplier, week, day, meal_type]
-    # Each variable represents assigning recipe r at multiplier s to slot (w,d,mt)
-    x = {}
+    day_plan = DayPlan(day=day + 1, day_name=DAY_NAMES[day])
     for mt in meal_types:
-        for r in recipe_index[mt]:
-            for s in multipliers:
-                for w in range(weeks):
-                    for d in range(days):
-                        key = (r.id, s, w, d, mt)
-                        # Use a safe name (replace dots in multiplier)
-                        s_name = str(s).replace(".", "p")
-                        x[key] = LpVariable(
-                            f"x_{r.id}_{s_name}_{w}_{d}_{mt}", cat="Binary"
-                        )
+        recipes = recipe_index[mt]
+        if not recipes:
+            continue
 
-    # Slack variables for each day's macros (positive = over target, negative = under)
-    cal_over = {}
-    cal_under = {}
-    pro_over = {}
-    pro_under = {}
-    carb_over = {}
-    carb_under = {}
-    fat_over = {}
-    fat_under = {}
+        # Prefer unused recipes, fall back to any
+        available = [r for r in recipes if r.id not in used_this_week]
+        if not available:
+            available = recipes
 
-    for w in range(weeks):
-        for d in range(days):
-            cal_over[(w, d)] = LpVariable(f"cal_over_{w}_{d}", lowBound=0)
-            cal_under[(w, d)] = LpVariable(f"cal_under_{w}_{d}", lowBound=0)
-            pro_over[(w, d)] = LpVariable(f"pro_over_{w}_{d}", lowBound=0)
-            pro_under[(w, d)] = LpVariable(f"pro_under_{w}_{d}", lowBound=0)
-            carb_over[(w, d)] = LpVariable(f"carb_over_{w}_{d}", lowBound=0)
-            carb_under[(w, d)] = LpVariable(f"carb_under_{w}_{d}", lowBound=0)
-            fat_over[(w, d)] = LpVariable(f"fat_over_{w}_{d}", lowBound=0)
-            fat_under[(w, d)] = LpVariable(f"fat_under_{w}_{d}", lowBound=0)
+        # Rotate through available
+        idx = (week * 7 + day) % len(available)
+        r = available[idx]
 
-    # OBJECTIVE: minimize total macro deviation (weighted) - quality bonus
-    # - diversity bonus + multiplier deviation penalty
-    cal_weight = 1.0 / max(input.daily_calories_tolerance, 1)
-    pro_weight = 1.0 / max(input.daily_protein_tolerance, 1)
-    carb_weight = 0.5 / max(input.daily_carbs_tolerance, 1)
-    fat_weight = 0.5 / max(input.daily_fat_tolerance, 1)
+        best_s = 1.0
+        best_diff = float("inf")
+        for s in multipliers:
+            diff = abs(r.calories * s - per_meal_target)
+            if diff < best_diff:
+                best_diff = diff
+                best_s = s
 
-    # Quality bonus (small, to break ties in favor of higher quality)
-    quality_bonus = lpSum(
-        r.quality_score * 0.001 * x[(r.id, s, w, d, mt)]
-        for mt in meal_types
-        for r in recipe_index[mt]
-        for s in multipliers
-        for w in range(weeks)
-        for d in range(days)
-    )
-
-    # Diversity bonus: reward using more unique recipes per week per meal type.
-    diversity_vars = {}
-    for mt in meal_types:
-        for r in recipe_index[mt]:
-            for w in range(weeks):
-                uvar = LpVariable(f"used_{r.id}_{w}_{mt}", cat="Binary")
-                diversity_vars[(r.id, w, mt)] = uvar
-                # used <= sum of assignments across all multipliers and days
-                prob += uvar <= lpSum(
-                    x[(r.id, s, w, d, mt)]
-                    for s in multipliers
-                    for d in range(days)
-                )
-                # used >= x for each day/multiplier (if assigned, used must be 1)
-                for s in multipliers:
-                    for d in range(days):
-                        prob += uvar >= x[(r.id, s, w, d, mt)]
-
-    diversity_weight = cal_weight * 200
-    diversity_bonus = lpSum(
-        diversity_weight * diversity_vars[(r.id, w, mt)]
-        for mt in meal_types
-        for r in recipe_index[mt]
-        for w in range(weeks)
-    )
-
-    # Deviation penalty
-    deviation_penalty = lpSum(
-        cal_weight * (cal_over[(w, d)] + cal_under[(w, d)])
-        + pro_weight * (pro_over[(w, d)] + pro_under[(w, d)])
-        + carb_weight * (carb_over[(w, d)] + carb_under[(w, d)])
-        + fat_weight * (fat_over[(w, d)] + fat_under[(w, d)])
-        for w in range(weeks)
-        for d in range(days)
-    )
-
-    # Multiplier deviation penalty: prefer 1.0 servings when possible.
-    # Must be small relative to macro deviation weights so the solver freely
-    # uses non-1.0x multipliers when they improve macro accuracy, but large
-    # enough to prefer 1.0x when macros are easily met.
-    #
-    # Previous value (0.5) was an absolute constant that dominated the
-    # macro deviation cost: missing 1g protein costs pro_weight (e.g. 0.05)
-    # but using 1.5x cost 0.5*0.5 = 0.25 -- equivalent to missing 5g protein.
-    # Across 28 slots/week this heavily suppressed multiplier usage.
-    #
-    # Fix: scale as a fraction of the average macro weight. Using 10% of the
-    # mean weight ensures the penalty is always secondary to macro accuracy
-    # but still creates a meaningful tie-breaker toward 1.0x servings.
-    # With typical weights (cal=0.007, pro=0.05, carb=0.02, fat=0.03),
-    # mean ~ 0.027, so penalty ~ 0.0027 per unit deviation from 1.0.
-    # Using 1.5x costs 0.0027*0.5 = 0.0014 per slot vs protein benefit
-    # of 0.05*10g = 0.5 -- penalty is ~0.3% of a 10g protein gain.
-    avg_macro_weight = (cal_weight + pro_weight + carb_weight + fat_weight) / 4
-    multiplier_penalty_weight = 0.1 * avg_macro_weight
-    multiplier_penalty = lpSum(
-        multiplier_penalty_weight * abs(s - 1.0) * x[(r.id, s, w, d, mt)]
-        for mt in meal_types
-        for r in recipe_index[mt]
-        for s in multipliers
-        for w in range(weeks)
-        for d in range(days)
-    )
-
-    prob += deviation_penalty - quality_bonus - diversity_bonus + multiplier_penalty
-
-    # HARD CONSTRAINT: exactly 1 (recipe, multiplier) combo per meal slot
-    for w in range(weeks):
-        for d in range(days):
-            for mt in meal_types:
-                prob += lpSum(
-                    x[(r.id, s, w, d, mt)]
-                    for r in recipe_index[mt]
-                    for s in multipliers
-                ) == 1
-
-    # SOFT CONSTRAINTS via slack variables
-    for w in range(weeks):
-        for d in range(days):
-            # Calories: sum of (recipe.calories * multiplier) for each chosen combo
-            day_cal = lpSum(
-                (r.calories * s) * x[(r.id, s, w, d, mt)]
-                for mt in meal_types
-                for r in recipe_index[mt]
-                for s in multipliers
-            )
-            prob += day_cal - cal_over[(w, d)] + cal_under[(w, d)] == input.daily_calories
-
-            # Protein
-            day_pro = lpSum(
-                (r.protein * s) * x[(r.id, s, w, d, mt)]
-                for mt in meal_types
-                for r in recipe_index[mt]
-                for s in multipliers
-            )
-            prob += day_pro - pro_over[(w, d)] + pro_under[(w, d)] == input.daily_protein
-
-            # Carbs
-            day_carbs = lpSum(
-                (r.carbohydrates * s) * x[(r.id, s, w, d, mt)]
-                for mt in meal_types
-                for r in recipe_index[mt]
-                for s in multipliers
-            )
-            prob += day_carbs - carb_over[(w, d)] + carb_under[(w, d)] == input.daily_carbs
-
-            # Fat
-            day_fat = lpSum(
-                (r.fat * s) * x[(r.id, s, w, d, mt)]
-                for mt in meal_types
-                for r in recipe_index[mt]
-                for s in multipliers
-            )
-            prob += day_fat - fat_over[(w, d)] + fat_under[(w, d)] == input.daily_fat
-
-    # No recipe repeat within same week (regardless of multiplier) - attempts 0, 1
-    if attempt < 2:
-        all_recipe_ids = set()
-        recipe_mt_map: dict[int, str] = {}
-        for mt in meal_types:
-            for r in recipe_index[mt]:
-                all_recipe_ids.add(r.id)
-                recipe_mt_map[r.id] = mt
-
-        for w in range(weeks):
-            for rid in all_recipe_ids:
-                mt = recipe_mt_map[rid]
-                prob += lpSum(
-                    x[(rid, s, w, d, mt)]
-                    for s in multipliers
-                    for d in range(days)
-                    if (rid, s, w, d, mt) in x
-                ) <= 1
-    else:
-        if "allowing_recipe_repeats_within_week" not in relaxations:
-            relaxations.append("allowing_recipe_repeats_within_week")
-
-    # Protein variety: max 2 meals with same primary_protein per day (attempt 0 only)
-    if attempt < 1:
-        protein_recipes: dict[str, list[tuple[int, str]]] = {}
-        for mt in meal_types:
-            for r in recipe_index[mt]:
-                p = r.primary_protein or "Unknown"
-                protein_recipes.setdefault(p, []).append((r.id, mt))
-
-        for w in range(weeks):
-            for d in range(days):
-                for p, rid_mt_list in protein_recipes.items():
-                    if len(rid_mt_list) > 2:
-                        prob += lpSum(
-                            x[(rid, s, w, d, mt)]
-                            for rid, mt in rid_mt_list
-                            for s in multipliers
-                            if (rid, s, w, d, mt) in x
-                        ) <= 2
-    elif attempt == 1:
-        if "removed_protein_variety_constraint" not in relaxations:
-            relaxations.append("removed_protein_variety_constraint")
-
-    # Solve
-    solver = PULP_CBC_CMD(msg=False, timeLimit=60)
-    prob.solve(solver)
-
-    if prob.status != LpStatusOptimal:
-        print(f"    Attempt {attempt}: solver status = {prob.status} (not optimal)")
-        return None
-
-    # Extract solution
-    status = "Optimal" if attempt == 0 else f"Optimal_after_{attempt}_relaxations"
-
-    # Report deviation stats
-    total_cal_dev = 0
-    total_pro_dev = 0
-    for w in range(weeks):
-        for d in range(days):
-            cd = (cal_over[(w, d)].varValue or 0) + (cal_under[(w, d)].varValue or 0)
-            pd = (pro_over[(w, d)].varValue or 0) + (pro_under[(w, d)].varValue or 0)
-            total_cal_dev += cd
-            total_pro_dev += pd
-    n_days = weeks * days
-    print(f"    Solver: {status}")
-    print(f"    Avg daily cal deviation: {total_cal_dev / n_days:.0f}, "
-          f"avg daily protein deviation: {total_pro_dev / n_days:.1f}g")
-
-    plan = MealPlan()
-    for w in range(weeks):
-        week_plan = WeekPlan(week=w + 1)
-        for d in range(days):
-            day_plan = DayPlan(day=d + 1, day_name=DAY_NAMES[d])
-            for mt in meal_types:
-                assigned = False
-                for r in recipe_index[mt]:
-                    if assigned:
-                        break
-                    for s in multipliers:
-                        key = (r.id, s, w, d, mt)
-                        if key in x and x[key].varValue is not None and x[key].varValue > 0.5:
-                            slot = MealSlot(
-                                meal_type=mt,
-                                recipe=r,
-                                serving_multiplier=s,
-                                adjusted_calories=r.calories * s,
-                                adjusted_protein=r.protein * s,
-                                adjusted_fat=r.fat * s,
-                                adjusted_carbs=r.carbohydrates * s,
-                                swaps=[sw.to_dict() if hasattr(sw, 'to_dict') else sw
-                                       for sw in getattr(r, 'swaps', [])],
-                            )
-                            day_plan.meals.append(slot)
-                            assigned = True
-                            break
-            day_plan.compute_totals()
-            week_plan.days.append(day_plan)
-        week_plan.compute_averages()
-        plan.weeks.append(week_plan)
-
-    return plan, status
+        slot = MealSlot(
+            meal_type=mt,
+            recipe=r,
+            serving_multiplier=best_s,
+            adjusted_calories=r.calories * best_s,
+            adjusted_protein=r.protein * best_s,
+            adjusted_fat=r.fat * best_s,
+            adjusted_carbs=r.carbohydrates * best_s,
+            swaps=[sw.to_dict() if hasattr(sw, 'to_dict') else sw
+                   for sw in getattr(r, 'swaps', [])],
+        )
+        day_plan.meals.append(slot)
+    day_plan.compute_totals()
+    return day_plan
 
 
 def _greedy_assign(
